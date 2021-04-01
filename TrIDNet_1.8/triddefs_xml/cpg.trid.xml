@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Cool Page Project</FileType>
+		<Ext>CPG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.coolpage.com/cpg.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>24</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>5</Month>
+			<Day>6</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>25</Min>
+			<Sec>3</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0E436F6F6C20506167652046696C65</Bytes>
+			<ASCII> . C o o l   P a g e   F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>506167654261636B67726F756E64</Bytes>
+			<ASCII> P a g e B a c k g r o u n d</ASCII>
+			<Pos>26</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>vCarve Pro design</FileType>
+		<Ext>CRV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.vectric.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>51</Min>
+			<Sec>5</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE1</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>D'O'C'U'M'E'N'T'D'A'T'A</String>
+		<String>M'A'T'E'R'I'A'L'S'I'Z'E</String>
+		<String>V'E'R'S'I'O'N'D'A'T'A</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>V'E'C'T'O'R'D'A'T'A</String>
+		<String>T'O'O'L'P'A'T'H'D</String>
+		<String>T'O'O'L'P'A'T'H'S</String>
+		<String>2'D'D'A'T'A'V'2</String>
+		<String>CONTOURGROUP</String>
+		<String>UTPARAMETER</String>
+		<String>VCCADLAYER</String>
+		<String>VDLINESPAN</String>
+		<String>VDCONTOUR</String>
+		<String>T'I'O'N</String>
+		<String>L'A'T</String>
+		<String>S'I'M</String>
+		<String>U'L'A</String>
+	</GlobalStrings>
+</TrID>

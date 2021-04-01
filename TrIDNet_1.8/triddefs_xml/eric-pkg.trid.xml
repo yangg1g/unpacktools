@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ERIC Project package</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem>Package files are a useful container for bytecode.</Rem>
+			<RefURL>http://www.mindspring.com/~gchii/eric/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>02</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>53</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>66696C451A</Bytes>
+			<ASCII> f i l E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

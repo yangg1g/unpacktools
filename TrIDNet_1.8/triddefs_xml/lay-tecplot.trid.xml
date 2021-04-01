@@ -1,0 +1,74 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Tecplot Layout</FileType>
+		<Ext>LAY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.tecplot.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>7</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>52</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23214D4320</Bytes>
+			<ASCII> # ! M C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BOTTOMHARDCLIPOFFSET</String>
+		<String>SETSTYLEBASE FACTORY</String>
+		<String>RIGHTHARDCLIPOFFSET</String>
+		<String>SETSTYLEBASE CONFIG</String>
+		<String>LEFTHARDCLIPOFFSET</String>
+		<String>TOPHARDCLIPOFFSET</String>
+		<String>REGIONINWORKAREA</String>
+		<String>BACKGROUNDCOLOR</String>
+		<String>COLORMAPCONTROL</String>
+		<String>CONTOURCOLORMAP</String>
+		<String>ORIENTPORTRAIT</String>
+		<String>RESETTOFACTORY</String>
+		<String>ISTRANSPARENT</String>
+		<String>PAPERSIZEINFO</String>
+		<String>DEPXTOYRATIO</String>
+		<String>FRAMELAYOUT</String>
+		<String>HEADERCOLOR</String>
+		<String>GRSPACING</String>
+		<String>SHOWPAPER</String>
+		<String>RANGEMAX</String>
+		<String>RANGEMIN</String>
+		<String>RAINBOW</String>
+		<String>XDETAIL</String>
+		<String>YDETAIL</String>
+		<String>ACTIVE</String>
+		<String>GLOBAL</String>
+		<String>HEIGHT</String>
+		<String>NUMBER</String>
+		<String>DAXIS</String>
+		<String>WHITE</String>
+		<String>WIDTH</String>
+		<String>XYPOS</String>
+		<String>DATA</String>
+		<String>GEOM</String>
+		<String>MODE</String>
+		<String>TTER</String>
+		<String>ZONE</String>
+	</GlobalStrings>
+</TrID>

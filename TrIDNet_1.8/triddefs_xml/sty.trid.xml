@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Ventura Publisher Style Sheet</FileType>
+		<Ext>STY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.corel.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>104</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>05</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>00</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE1</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000430056005000560065007200730069006F006E00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000200FFFFFFFFFFFFFFFFFFFFFFFF0000000000000000000000000000000000000000000000000000000000000000000000000000000002000000000000004300560050005300740079006C006500530068006500650074</Bytes>
+			<ASCII> . . . . . . C . V . P . V . e . r . s . i . o . n . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C . V . P . S . t . y . l . e . S . h . e . e . t</ASCII>
+			<Pos>1146</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000430056005000460069006C006C004F0062006A0065006300740073</Bytes>
+			<ASCII> . . . . . . C . V . P . F . i . l . l . O . b . j . e . c . t . s</ASCII>
+			<Pos>1402</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DTPF''''DBMP''''DVEC''''DARR''''DOUT</String>
+		<String>C'V'P'F'I'L'L'O'B'J'E'C'T'S</String>
+		<String>C'V'P'S'T'Y'L'E'S'H'E'E'T</String>
+		<String>P'''BTMP''''TFID''''ARHD</String>
+		<String>VECD''''AOLE''''UFFL</String>
+		<String>C'V'P'V'E'R'S'I'O'N</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>DOLE''''DUFM</String>
+		<String>BODY TEXT</String>
+		<String>UFM FILL</String>
+		<String>OTLN</String>
+		<String>DFLL</String>
+		<String>RIFF</String>
+	</GlobalStrings>
+</TrID>

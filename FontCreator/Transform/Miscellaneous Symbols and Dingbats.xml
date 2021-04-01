@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+  <TransformScript>
+    <OtherComments>
+      <Content>Insert Miscellaneious Symbols and Dingbats</Content>
+    </OtherComments>
+    <GlyphInsertCharacters>
+      <Characters>8352-8377,8592-8616,8624-8652,9632-9727,9728-9983,9985-10175</Characters>
+      <OverrideRange>TRUE</OverrideRange>
+    </GlyphInsertCharacters>
+    <GlyphCompleteComposites>
+    </GlyphCompleteComposites>
+  </TransformScript>
+</DATA>

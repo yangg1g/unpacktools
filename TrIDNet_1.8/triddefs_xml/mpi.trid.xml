@@ -1,0 +1,102 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>InstallJammer Project</FileType>
+		<Ext>MPI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/InstallJammer</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>0</Hour>
+			<Min>40</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>61727261792073657420696E666F207B0A416C6C6F774C616E677561676553656C656374696F6E0A</Bytes>
+			<ASCII> a r r a y   s e t   i n f o   { . A l l o w L a n g u a g e S e l e c t i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>-SETUP INSTALL -TYPE PANE -CONDITIONS</String>
+		<String>-NAME TYPICAL -PARENT SETUPTYPES</String>
+		<String>{BEFORE NEXT ACTION IS EXECUTED}</String>
+		<String>{BEFORE NEXT PANE IS DISPLAYED}</String>
+		<String>EXTRACTSOLIDARCHIVESONSTARTUP</String>
+		<String>%INSTALLINGAPPLICATIONTEXT%</String>
+		<String>%TYPICALINSTALLDESCRIPTION%</String>
+		<String>{BEFORE ACTION IS EXECUTED}</String>
+		<String>%INSTALLATIONCOMPLETETEXT%</String>
+		<String>%UNINSTALLAPPLICATIONTEXT%</String>
+		<String>DEFAULTDIRECTORYPERMISSION</String>
+		<String>%DIRECTORYPERMISSIONTEXT%</String>
+		<String>%PROGRAMFILESDESCRIPTION%</String>
+		<String>%INSTALLAPPLICATIONTEXT%</String>
+		<String>COMMANDLINEFAILUREACTION</String>
+		<String>%UNINSTALLCOMPLETETEXT%</String>
+		<String>CLEANUPCANCELLEDINSTALL</String>
+		<String>PRESERVEFILEPERMISSIONS</String>
+		<String>%UNINSTALLSTARTUPTEXT%</String>
+		<String>ALLOWLANGUAGESELECTION</String>
+		<String>ARRAY SET PROPERTIES {</String>
+		<String>CANCELLEDINSTALLACTION</String>
+		<String>DEFAULTFILEPERMISSION</String>
+		<String>PROGRAMFOLDERALLUSERS</String>
+		<String>%INSTALLSTARTUPTEXT%</String>
+		<String>SAVEONLYTOPLEVELDIRS</String>
+		<String>SKIPUNUSEDFILEGROUPS</String>
+		<String>UNINSTALLMODE CHOICE</String>
+		<String>UPGRADEAPPLICATIONID</String>
+		<String>PACKAGEDESCRIPTION</String>
+		<String>PROGRAMCOMMANDLINE</String>
+		<String>COMPRESSIONMETHOD</String>
+		<String>DESKTOPSHORTCUT -</String>
+		<String>PACKAGEMAINTAINER</String>
+		<String>PROGRAMEXECUTABLE</String>
+		<String>PROGRAMFOLDERNAME</String>
+		<String>%ERRORSOCCURRED%</String>
+		<String>COMPRESSIONLEVEL</String>
+		<String>DESTINATIONLABEL</String>
+		<String>INCLUDEDEBUGGING</String>
+		<String>INSTALLCOMPONENT</String>
+		<String>WORKINGDIRECTORY</String>
+		<String>DEFAULTLANGUAGE</String>
+		<String>INSTALLPASSWORD</String>
+		<String>PACKAGEPACKAGER</String>
+		<String>%MAJORVERSION%</String>
+		<String>%MINORVERSION%</String>
+		<String>%PATCHVERSION%</String>
+		<String>%SHORTAPPNAME%</String>
+		<String>APPLICATIONURL</String>
+		<String>CHECKCONDITION</String>
+		<String>FAILUREMESSAGE</String>
+		<String>INSTALLVERSION</String>
+		<String>OUTPUTFILENAME</String>
+		<String>PACKAGELICENSE</String>
+		<String>PACKAGERELEASE</String>
+		<String>PACKAGESUMMARY</String>
+		<String>PACKAGEVERSION</String>
+		<String>PROGRAMLICENSE</String>
+		<String>PROJECTVERSION</String>
+		<String>ROOTINSTALLDIR</String>
+		<String>INSTALLJAMMER</String>
+		<String>PROGRAMREADME</String>
+		<String>PROGRESSVALUE</String>
+		<String>PROMPTFORROOT</String>
+	</GlobalStrings>
+</TrID>

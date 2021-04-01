@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+  <TransformScript>
+    <OtherComments>
+      <Content>Eastern Europe
+This script inserts all of the Latin Extended characters needed for most European languages using Latin scripts. First, it inserts the required accents, attempts to compose them from existing glyphs, and makes them simple.</Content>
+    </OtherComments>
+    <GlyphInsertCharacters>
+      <Characters>567, 699, 700, 710, 711, 713-715, 717, 759, 768-776, 784, 789, 803-806</Characters>
+      <OverrideRange>TRUE</OverrideRange>
+    </GlyphInsertCharacters>
+    <GlyphCompleteComposites>
+    </GlyphCompleteComposites>
+    <GlyphDecompose>
+    </GlyphDecompose>
+    <OtherComments>
+      <Content>The script next inserts the composites.
+Edit the accents and position them correctly for lowercase.
+From the edit menu, Select Composites, Make Empty, then Complete Composites again to update the new composite glyphs.</Content>
+    </OtherComments>
+    <GlyphInsertCharacters>
+      <Characters>166-255, 256-383, 536-539, 562-563, 729-733, 7692, 7693, 7716, 7717, 7730, 7731, 7734-7739, 7744-7753, 7768-7775, 7778-7779, 7788, 7789, 7808-7813, 7816, 7817, 7826-7827, 7868, 7869, 7922-7925, 8208, 8209-8210, 8229, 8253, 8260, 8268, 8269, 8355, 8275, 8356, 8359, 8364, 8367, 8448, 8453-8454, 8470, 8482, 8494, 8531-8532, 8722, 8801, 64256-64262</Characters>
+      <OverrideRange>TRUE</OverrideRange>
+    </GlyphInsertCharacters>
+    <GlyphCompleteComposites>
+    </GlyphCompleteComposites>
+  </TransformScript>
+</DATA>

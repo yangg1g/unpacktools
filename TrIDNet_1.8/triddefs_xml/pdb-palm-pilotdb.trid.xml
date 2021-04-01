@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Palm Pilot-DB database</FileType>
+		<Ext>PDB</Ext>
+		<ExtraInfo>
+			<Rem>Pilot-DB is a freeware (OpenSource) database program for the Palm OS (any version and any hardware) and compares with the best commercial programs available.</Rem>
+			<RefURL>http://pilot-db.sourceforge.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>21</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000000004442303044424F53</Bytes>
+			<ASCII> . . . . D B 0 0 D B O S</ASCII>
+			<Pos>56</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DB00DBOS</String>
+	</GlobalStrings>
+</TrID>

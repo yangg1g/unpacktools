@@ -1,0 +1,74 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>iTunes CoverFlow data file</FileType>
+		<Ext>ITC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Coverflow</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>08</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>09</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0000011C69746368</Bytes>
+			<ASCII> . . . . i t c h</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>61727477</Bytes>
+			<ASCII> a r t w</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6974656D</Bytes>
+			<ASCII> i t e m</ASCII>
+			<Pos>288</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6C6F636C504E4766</Bytes>
+			<ASCII> l o c l P N G f</ASCII>
+			<Pos>332</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>64617461</Bytes>
+			<ASCII> d a t a</ASCII>
+			<Pos>492</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>504E47</Bytes>
+			<ASCII> P N G</ASCII>
+			<Pos>501</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>49484452</Bytes>
+			<ASCII> I H D R</ASCII>
+			<Pos>512</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>67414D41</Bytes>
+			<ASCII> g A M A</ASCII>
+			<Pos>537</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>70485973</Bytes>
+			<ASCII> p H Y s</ASCII>
+			<Pos>553</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

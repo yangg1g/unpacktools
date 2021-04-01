@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Crytek XML Material</FileType>
+		<Ext>MTL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>56</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C4D6174657269616C204D746C466C6167733D22</Bytes>
+			<ASCII> . M a t e r i a l   M t l F l a g s = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MATERIAL MTLFLAGS</String>
+		<String>PUBLICPARAMS</String>
+		<String>SURFACETYPE</String>
+		<String>SHININESS</String>
+		<String>EMISSIVE</String>
+		<String>SPECULAR</String>
+		<String>TEXTURES</String>
+		<String>DIFFUSE</String>
+		<String>GENMASK</String>
+		<String>OPACITY</String>
+		<String>SHADER</String>
+	</GlobalStrings>
+</TrID>

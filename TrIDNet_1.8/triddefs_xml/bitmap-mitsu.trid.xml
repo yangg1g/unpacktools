@@ -1,0 +1,73 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mitsubishi S340-10 bitmap</FileType>
+		<Ext>MITSU</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>Format used by Mitsubishi color sublimation printers.</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>40</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>44</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>111B5A1B2350</Bytes>
+			<ASCII> . . Z . # P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>50</Bytes>
+			<ASCII> P</ASCII>
+			<Pos>9</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>51</Bytes>
+			<ASCII> Q</ASCII>
+			<Pos>14</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5730</Bytes>
+			<ASCII> W 0</ASCII>
+			<Pos>19</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2343</Bytes>
+			<ASCII> # C</ASCII>
+			<Pos>22</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>53</Bytes>
+			<ASCII> S</ASCII>
+			<Pos>27</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54</Bytes>
+			<ASCII> T</ASCII>
+			<Pos>31</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4330</Bytes>
+			<ASCII> C 0</ASCII>
+			<Pos>35</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>41</Bytes>
+			<ASCII> A</ASCII>
+			<Pos>39</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

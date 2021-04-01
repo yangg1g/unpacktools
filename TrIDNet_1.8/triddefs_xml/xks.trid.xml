@@ -1,0 +1,64 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IBM Softcopy Reader PDF Extended bookshelf file</FileType>
+		<Ext>XKS</Ext>
+		<ExtraInfo>
+			<Rem>The IBM Softcopy Reader is an online documentation reader and organizer made up of two programs, the Book Reader and the Bookshelf Organizer.</Rem>
+			<RefURL>http://www.ibm.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>39</Min>
+			<Sec>54</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>003C003F0078006D006C002000760065007200730069006F006E003D00220031002E0030002200200065006E0063006F00640069006E0067003D0022005500540046002D0031003600220020007300740061006E00640061006C006F006E0065003D0022006E006F0022003F003E0020003C00210044004F0043005400590050004500200058004B00530020005000550042004C0049004300200022002D002F002F00490042004D002F002F0042006F006F006B004D0061006E006100670065007200200058004B005300200030002E0031002F002F0045004E0022002000220068007400740070003A002F002F007000750062006C00690062002E0062006F0075006C006400650072002E00690062006D002E0063006F006D002F00650070007500620073002F00640066002F0078006B00730030003100300030002E0064007400640022003E0020003C0058004B0053003E00200020003C005300480045004C00460048004500410044004500520020004E0041004D0045003D002200</Bytes>
+			<ASCII> . . . ? . x . m . l .   . v . e . r . s . i . o . n . = . " . 1 . . . 0 . " .   . e . n . c . o . d . i . n . g . = . " . U . T . F . - . 1 . 6 . " .   . s . t . a . n . d . a . l . o . n . e . = . " . n . o . " . ? . . .   . . . ! . D . O . C . T . Y . P . E .   . X . K . S .   . P . U . B . L . I . C .   . " . - . / . / . I . B . M . / . / . B . o . o . k . M . a . n . a . g . e . r .   . X . K . S .   . 0 . . . 1 . / . / . E . N . " .   . " . h . t . t . p . : . / . / . p . u . b . l . i . b . . . b . o . u . l . d . e . r . . . i . b . m . . . c . o . m . / . e . p . u . b . s . / . d . f . / . x . k . s . 0 . 1 . 0 . 0 . . . d . t . d . " . . .   . . . X . K . S . . .   .   . . . S . H . E . L . F . H . E . A . D . E . R .   . N . A . M . E . = . "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5400490054004C0045003E00</Bytes>
+			<ASCII> T . I . T . L . E</ASCII>
+			<Pos>413</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>P'U'B'L'I'B'.'B'O'U'L'D'E'R'.'I'B'M'.'C'O'M</String>
+		<String>I'N'S'T'A'N'C'E' 'D'O'C'O'B'J'T'Y'P'E</String>
+		<String>D'O'C'T'Y'P'E' 'X'K'S' 'P'U'B'L'I'C</String>
+		<String>P'D'F' 'E'X'T'E'N'D'E'D' 'S'H'E'L'F</String>
+		<String>S'H'E'L'F'H'E'A'D'E'R' 'N'A'M'E</String>
+		<String>I'B'M' 'C'O'R'P'O'R'A'T'I'O'N</String>
+		<String>B'O'O'K'M'A'N'A'G'E'R' 'X'K'S</String>
+		<String>U'P'D'A'T'E' 'D'A'T'E'T'I'M'E</String>
+		<String>D'O'C'U'M'E'N'T' 'D'O'C'I'D</String>
+		<String>X'K'S'0'1'0'0'.'D'T'D</String>
+		<String>A'P'P'L'I'C'A'T'I'O'N</String>
+		<String>X'M'L' 'V'E'R'S'I'O'N</String>
+		<String>S'T'A'N'D'A'L'O'N'E</String>
+		<String>V'A'L'I'D'A'T'E</String>
+		<String>E'N'C'O'D'I'N'G</String>
+		<String>A'U'T'H'O'R</String>
+		<String>U'T'F'-'1'6</String>
+		<String>E'P'U'B'S</String>
+		<String>G'U'I'D'E</String>
+		<String>T'I'T'L'E</String>
+		<String>H'T'T'P</String>
+		<String>U'S'E'R</String>
+	</GlobalStrings>
+</TrID>

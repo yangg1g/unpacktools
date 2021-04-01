@@ -1,0 +1,94 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>iGrafx document</FileType>
+		<Ext>IGX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/IGrafx</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>9</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>9</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>A'''B'''C'''D'''E'''F'''G'''H'''I'''J'''K'''L'''M'''N'''O'''P'''Q'''R'''S'''T'''U'''V'''W'''X'''Y'''Z</String>
+		<String>F'''G'''H'''I'''J'''K'''L'''M'''N'''O'''P'''Q'''R'''S'''T'''U'''V'''W'''X'''Y'''Z'''{</String>
+		<String>D'O'C'C'O'M'P'O'N'E'N'T'S'I'N'F'O'''''''''''''''''''''''''''''''$</String>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N'''''''''''''''''''''''''''(</String>
+		<String>D'O'C'C'O'M'P'O'N'E'N'T'0</String>
+		<String>D'O'C'C'O'M'P'O'N'E'N'T'1</String>
+		<String>D'O'C'C'O'M'P'O'N'E'N'T'2</String>
+		<String>S'C'E'N'A'R'I'O'D'A'T'A</String>
+		<String>D'I'A'G'C'L'A'S'S'0</String>
+		<String>R'E'P'O'R'T'D'A'T'A</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>COLLECTION RELEASE</String>
+		<String>INACTIVITY TOTCNT</String>
+		<String>AEXPR ASSIGNATTR</String>
+		<String>CAPACITYQ TOTCNT</String>
+		<String>RESUSE USETASKVA</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>D'O'C'U'M'E'N'T</String>
+		<String>DATA USEPERCENT</String>
+		<String>D'I'A'G'R'A'M</String>
+		<String>S'I'M'D'A'T'A</String>
+		<String>ACTIVITY UID</String>
+		<String>SERVICE MIN</String>
+		<String>ASTAT SDID</String>
+		<String>STOPFAMILY</String>
+		<String>CYCLE MIN</String>
+		<String>EXPR EXPR</String>
+		<String>F'A'L'S'E</String>
+		<String>M'O'D'E'L</String>
+		<String>STOPTRANS</String>
+		<String>DURATION</String>
+		<String>EXPRTYPE</String>
+		<String>WORK MIN</String>
+		<String>D'A'Y'S</String>
+		<String>D'E'P'T</String>
+		<String>M'A'I'N</String>
+		<String>R'A'T'E</String>
+		<String>RESNAME</String>
+		<String>S'E'R'V</String>
+		<String>SETTIME</String>
+		<String>T'R'U'E</String>
+		<String>T'T'E'R</String>
+		<String>T'Y'P'E</String>
+		<String>W'O'R'K</String>
+		<String>ALWAYS</String>
+		<String>OUTPUT</String>
+		<String>WORKER</String>
+		<String>ATTRS</String>
+		<String>COUNT</String>
+		<String>I'N'K</String>
+		<String>MONTH</String>
+		<String>SCHED</String>
+		<String>YESNO</String>
+		<String>LAST</String>
+		<String>PROC</String>
+		<String>RATE</String>
+		<String>TRUE</String>
+		<String>UNIT</String>
+	</GlobalStrings>
+</TrID>

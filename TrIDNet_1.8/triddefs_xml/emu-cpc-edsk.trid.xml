@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Extended CPCEMU style disk image</FileType>
+        <Ext>DSK</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://andercheran.aiind.upv.es/~amstrad/docs/extdsk.html</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>25</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>15</Day>
+        </Date>
+        <Time>
+            <Hour>19</Hour>
+            <Min>00</Min>
+            <Sec>23</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>455854454E444544204350432044534B2046696C650D0A4469736B2D496E666F0D0A</Bytes>
+            <ASCII> E X T E N D E D   C P C   D S K   F i l e . . D i s k - I n f o</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

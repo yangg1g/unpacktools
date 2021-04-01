@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Clarion Topspeed Data file</FileType>
+		<Ext>TPS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.softvelocity.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>24</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>04</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>01</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00000000000200</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00744F705300000000</Bytes>
+			<ASCII> . t O p S</ASCII>
+			<Pos>13</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TOPS</String>
+	</GlobalStrings>
+</TrID>

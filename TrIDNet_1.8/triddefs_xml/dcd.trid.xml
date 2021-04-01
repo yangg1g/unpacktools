@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DesignCAD drawing</FileType>
+		<Ext>DCD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.designcad.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>02</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>C'U'S'T'O'M' 'C'O'L'O'R</String>
+		<String>L'I'G'H'T' 'S'O'U'R'C'E</String>
+		<String>P'A'P'E'R' 'S'P'A'C'E</String>
+		<String>DESIGNCAD DOCUMENT</String>
+		<String>L'A'R'G'E'I'C'O'N</String>
+		<String>S'M'A'L'L'I'C'O'N</String>
+		<String>T'E'M'P'L'A'T'E'S</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>M'A'T'E'R'I'A'L</String>
+		<String>V'I'E'W'D'A'T'A</String>
+		<String>S'U'M'M'A'R'Y</String>
+		<String>P'R'E'V'I'E'W</String>
+		<String>O'P'T'I'O'N'S</String>
+	</GlobalStrings>
+</TrID>

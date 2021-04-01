@@ -1,0 +1,80 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Irrlicht static mesh (UTF-16)</FileType>
+		<Ext>IRRMESH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.irrlicht3d.org</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>12</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>9</Min>
+			<Sec>6</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3C003F0078006D006C002000760065007200730069006F006E003D00220031002E00300022003F003E000D000A00</Bytes>
+			<ASCII> . . . . ? . x . m . l .   . v . e . r . s . i . o . n . = . " . 1 . . . 0 . " . ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>-'-' 'T'H'I'S' 'F'I'L'E' 'C'O'N'T'A'I'N'S' 'A' 'S'T'A'T'I'C' 'M'E'S'H' 'I'N' 'T'H'E' 'I'R'R'L'I'C'H'T' 'E'N'G'I'N'E' 'F'O'R'M'A'T' 'W'I'T'H</String>
+		<String>I'R'R'L'I'C'H'T'.'S'O'U'R'C'E'F'O'R'G'E'.'N'E'T</String>
+		<String>T'E'X'T'U'R'E'_'C'L'A'M'P'_'R'E'P'E'A'T</String>
+		<String>B'O'U'N'D'I'N'G'B'O'X' 'M'I'N'E'D'G'E</String>
+		<String>I'N'D'I'C'E'S' 'I'N'D'E'X'C'O'U'N'T</String>
+		<String>A'N'I'S'O'T'R'O'P'I'C'F'I'L'T'E'R</String>
+		<String>N'O'R'M'A'L'I'Z'E'N'O'R'M'A'L'S</String>
+		<String>B'A'C'K'F'A'C'E'C'U'L'L'I'N'G</String>
+		<String>T'R'I'L'I'N'E'A'R'F'I'L'T'E'R</String>
+		<String>B'I'L'I'N'E'A'R'F'I'L'T'E'R</String>
+		<String>G'O'U'R'A'U'D'S'H'A'D'I'N'G</String>
+		<String>V'E'R'T'I'C'E'S' 'T'Y'P'E</String>
+		<String>M'A'T'E'R'I'A'L'S'.'-'-</String>
+		<String>T'E'X'T'U'R'E' 'N'A'M'E</String>
+		<String>Z'W'R'I'T'E'E'N'A'B'L'E</String>
+		<String>T'E'X'T'U'R'E'W'R'A'P</String>
+		<String>V'E'R'T'E'X'C'O'U'N'T</String>
+		<String>X'M'L' 'V'E'R'S'I'O'N</String>
+		<String>C'O'L'O'R' 'N'A'M'E</String>
+		<String>F'L'O'A'T' 'N'A'M'E</String>
+		<String>M'E'S'H' 'X'M'L'N'S</String>
+		<String>B'O'O'L' 'N'A'M'E</String>
+		<String>E'N'U'M' 'N'A'M'E</String>
+		<String>F'O'G'E'N'A'B'L'E</String>
+		<String>S'H'I'N'I'N'E'S'S</String>
+		<String>W'I'R'E'F'R'A'M'E</String>
+		<String>E'M'I'S'S'I'V'E</String>
+		<String>F'F'F'F'F'F'F'F</String>
+		<String>I'N'T' 'N'A'M'E</String>
+		<String>I'R'R'M'E'S'H'_</String>
+		<String>L'I'G'H'T'I'N'G</String>
+		<String>S'P'E'C'U'L'A'R</String>
+		<String>A'M'B'I'E'N'T</String>
+		<String>D'I'F'F'U'S'E</String>
+		<String>M'A'X'E'D'G'E</String>
+		<String>Z'B'U'F'F'E'R</String>
+		<String>P'A'R'A'M'1</String>
+		<String>P'A'R'A'M'2</String>
+		<String>F'A'L'S'E</String>
+		<String>V'A'L'U'E</String>
+		<String>.'J'P'G</String>
+		<String>H'T'T'P</String>
+		<String>T'R'U'E</String>
+	</GlobalStrings>
+</TrID>

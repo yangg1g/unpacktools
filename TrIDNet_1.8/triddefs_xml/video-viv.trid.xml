@@ -1,0 +1,87 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Vivo streaming video</FileType>
+		<Ext>VIV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.real.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>05</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>53</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A56657273696F6E3A5669766F2F</Bytes>
+			<ASCII> . . V e r s i o n : V i v o /</ASCII>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4650533A</Bytes>
+			<ASCII> F P S :</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4475726174696F6E3A</Bytes>
+			<ASCII> D u r a t i o n :</ASCII>
+			<Pos>35</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4C656E6774683A</Bytes>
+			<ASCII> L e n g t h :</ASCII>
+			<Pos>55</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>526174653A</Bytes>
+			<ASCII> R a t e :</ASCII>
+			<Pos>73</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>566964526174653A</Bytes>
+			<ASCII> V i d R a t e :</ASCII>
+			<Pos>89</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>506C617974696D65313A</Bytes>
+			<ASCII> P l a y t i m e 1 :</ASCII>
+			<Pos>108</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>506C617974696D65323A</Bytes>
+			<ASCII> P l a y t i m e 2 :</ASCII>
+			<Pos>129</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4275666665723A</Bytes>
+			<ASCII> B u f f e r :</ASCII>
+			<Pos>150</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>507265726F6C6C3A</Bytes>
+			<ASCII> P r e r o l l :</ASCII>
+			<Pos>168</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5469746C653A</Bytes>
+			<ASCII> T i t l e :</ASCII>
+			<Pos>187</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

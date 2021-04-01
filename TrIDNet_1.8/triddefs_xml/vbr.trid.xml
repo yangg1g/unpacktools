@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MSHeli Vbar data</FileType>
+		<Ext>VBR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>7</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>29</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C52454749535445523E0D0A202020203C56414C55452052656769737465723D22302220</Bytes>
+			<ASCII> . R E G I S T E R . . .         . V A L U E   R e g i s t e r = " 0 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VALUE REGISTER</String>
+	</GlobalStrings>
+</TrID>

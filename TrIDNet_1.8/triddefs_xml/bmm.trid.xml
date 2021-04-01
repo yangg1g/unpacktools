@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Bleeper Music Maker music</FileType>
+		<Ext>BMM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://robbi-985.homeip.net/hosted_programs/update/bmm/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>09</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>03</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>426C6565706572204D75736963204D616B657220627920526F6262692D3938352066696C6520666F726D61740D0A5265766973696F6E20</Bytes>
+			<ASCII> B l e e p e r   M u s i c   M a k e r   b y   R o b b i - 9 8 5   f i l e   f o r m a t . . R e v i s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

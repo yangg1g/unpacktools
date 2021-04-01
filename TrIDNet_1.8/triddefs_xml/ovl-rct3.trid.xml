@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RollerCoaster Tycoon 3 game data</FileType>
+		<Ext>OVL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>43</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4647524B</Bytes>
+			<ASCII> F G R K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Boundary Scan Description Language</FileType>
+		<Ext>BSDL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Boundary_scan_description_language</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>9</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>9</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>656E7469747920</Bytes>
+			<ASCII> e n t i t y</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ATTRIBUTE INSTRUCTION_CAPTURE</String>
+		<String>ATTRIBUTE INSTRUCTION_LENGTH</String>
+		<String>ATTRIBUTE INSTRUCTION_OPCODE</String>
+		<String>ATTRIBUTE BOUNDARY_REGISTER</String>
+		<String>ATTRIBUTE BOUNDARY_LENGTH</String>
+		<String>ATTRIBUTE REGISTER_ACCESS</String>
+		<String>(PHYSICAL_PIN_MAP</String>
+		<String>ATTRIBUTE PIN_MAP</String>
+		<String>PIN_MAP_STRING</String>
+		<String>TAP_SCAN_CLOCK</String>
+		<String>TAP_SCAN_MODE</String>
+		<String>TAP_SCAN_OUT</String>
+		<String>TAP_SCAN_IN</String>
+		<String>ENTITY IS</String>
+		<String>CONSTANT</String>
+		<String>GENERIC</String>
+		<String>BYPASS</String>
+		<String>EXTEST</String>
+		<String>PORT (</String>
+		<String>SIGNAL</String>
+		<String>.ALL</String>
+	</GlobalStrings>
+</TrID>

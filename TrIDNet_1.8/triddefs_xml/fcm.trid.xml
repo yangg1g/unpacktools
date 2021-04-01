@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>FC-M Packer song/module</FileType>
+        <Ext>FCM</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://membres.lycos.fr/asle/AMPD_src/FC-M_Packer.html</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>2</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>26</Day>
+        </Date>
+        <Time>
+            <Hour>22</Hour>
+            <Min>54</Min>
+            <Sec>13</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>46432D4D</Bytes>
+            <ASCII> F C - M</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>4E414D45</Bytes>
+            <ASCII> N A M E</ASCII>
+            <Pos>6</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>494E5354</Bytes>
+            <ASCII> I N S T</ASCII>
+            <Pos>30</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>4C4F4E47</Bytes>
+            <ASCII> L O N G</ASCII>
+            <Pos>282</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>7F50415454</Bytes>
+            <ASCII> . P A T T</ASCII>
+            <Pos>287</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

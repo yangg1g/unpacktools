@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LabVIEW binary Datalog</FileType>
+		<Ext>DAT/LOG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Labview</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>49</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>44544C47</Bytes>
+			<ASCII> D T L G</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NI_UNITDESCRIPTION</String>
+		<String>NI_DEVICENUMBER</String>
+		<String>NI_CHANNELNAME</String>
+	</GlobalStrings>
+</TrID>

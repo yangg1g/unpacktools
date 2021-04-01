@@ -1,0 +1,39 @@
+<TrID ver="1.16">
+    <Info>
+        <FileType>ZOO compressed archive</FileType>
+        <Ext>ZOO</Ext>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>4</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>14</Day>
+        </Date>
+        <Time>
+            <Hour>01</Hour>
+            <Min>24</Min>
+            <Sec>16</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00.1</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>5A4F4F20</Bytes>
+            <ASCII> Z O O</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>2E</Bytes>
+            <Pos>5</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>417263686976652E1A0000DCA7C4FD</Bytes>
+            <ASCII> A r c h i v e</ASCII>
+            <Pos>9</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

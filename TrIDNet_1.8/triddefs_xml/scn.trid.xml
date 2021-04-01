@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Pinnacle Studio Scene</FileType>
+		<Ext>SCN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pinnaclesys.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>15</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>632601000400</Bytes>
+			<ASCII> c</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>536F7572636554617065</Bytes>
+			<ASCII> S o u r c e T a p e</ASCII>
+			<Pos>14</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

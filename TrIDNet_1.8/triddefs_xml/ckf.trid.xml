@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Casio Keyboard File</FileType>
+		<Ext>CKF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://music.casio.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>10</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>8</Min>
+			<Sec>9</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>434153494F204D75736963204C69620000</Bytes>
+			<ASCII> C A S I O   M u s i c   L i b</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>11</Bytes>
+			<Pos>20</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

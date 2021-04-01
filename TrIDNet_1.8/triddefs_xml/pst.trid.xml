@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft OutLook Personal Folder (ANSI)</FileType>
+		<Ext>PST</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com</RefURL>
+		</ExtraInfo>
+		<User>Lev Kagan</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>05</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>08</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2142444E</Bytes>
+			<ASCII> ! B D N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>534D</Bytes>
+			<ASCII> S M</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

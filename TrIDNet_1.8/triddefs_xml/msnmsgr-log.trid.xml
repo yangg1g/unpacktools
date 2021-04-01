@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MSN Messenger log</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Renan (aka "Wizard")</User>
+		<E-Mail>renan.birck at gmail.com</E-Mail>
+		<Home>http://marreka.no-ip.com</Home>
+	</Info>
+	<General>
+		<FileNum>34</FileNum>
+		<Refine>23 by Renan (aka "Wizard") - 1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>11</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>08</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E30223F3E0D0A3C3F786D6C2D7374796C65736865657420747970653D27746578742F78736C2720687265663D274D6573736167654C6F672E78736C273F3E0D0A3C4C6F6720466972737453657373696F6E49443D223122204C61737453657373696F6E49443D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 " ? . . . . ? x m l - s t y l e s h e e t   t y p e = ' t e x t / x s l '   h r e f = ' M e s s a g e L o g . x s l ' ? . . . . L o g   F i r s t S e s s i o n I D = " 1 "   L a s t S e s s i o n I D = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>223E3C</Bytes>
+			<ASCII> "</ASCII>
+			<Pos>121</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>XML-STYLESHEET TYPE</String>
+		<String>LOG FIRSTSESSIONID</String>
+		<String>USER FRIENDLYNAME</String>
+		<String>MESSAGELOG.XSL</String>
+		<String>LASTSESSIONID</String>
+		<String>MESSAGE DATE</String>
+		<String>FONT-FAMILY</String>
+		<String>XML VERSION</String>
+		<String>TEXT STYLE</String>
+		<String>DATETIME</String>
+    	<String>COLOR</String>
+		<String>FROM</String>
+		<String>HREF</String>
+</GlobalStrings>
+</TrID>

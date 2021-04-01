@@ -1,0 +1,1 @@
+3个文件都放andriodkiller文件夹根目录下，把InjectLog.bat作为andriodkiller自定义工具即可。使用时，按提示输入逆向工程名称。

@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Pixel Bender Kernel</FileType>
+		<Ext>PBK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Adobe_Pixel_Bender</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>9</Month>
+			<Day>2</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>23</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C6C616E677561676556657273696F6E</Bytes>
+			<ASCII> . l a n g u a g e V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>EVALUATEPIXEL()</String>
+		<String>LANGUAGEVERSION</String>
+		<String>INPUT IMAGE</String>
+		<String>NAMESPACE</String>
+		<String>PUT PIXEL</String>
+		<String>OUTCOORD</String>
+		<String>KERNEL</String>
+		<String>OUTPUT</String>
+		<String>SAMPLE</String>
+		<String>VENDOR</String>
+		<String>FLOAT</String>
+		<String>VOID</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>777 compressed archive</FileType>
+		<Ext>777</Ext>
+		<ExtraInfo>
+			<Rem>An old compression program by Igor Pavlov.</Rem>
+			<RefURL>http://web.archive.org/web/20000108201641/compression.hypermart.net/ufa/777.html</RefURL>
+		</ExtraInfo>
+		<User>Label</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>02</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>53</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>373737</Bytes>
+			<ASCII> 7 7 7</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

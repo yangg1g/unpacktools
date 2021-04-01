@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Universe Sandbox simulation</FileType>
+		<Ext>UBOX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://universesandbox.com/</RefURL>
+		</ExtraInfo>
+		<User>Ryan Jones</User>
+		<E-Mail>ryan.jones@ccc-cymru.com</E-Mail>
+		<Home>http://ccc-cymru.com/</Home>
+	</Info>
+	<General>
+		<FileNum>114</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>03</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>40</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304140000000800</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>20</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>25</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>002400</Bytes>
+			<ASCII> . $</ASCII>
+			<Pos>27</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.XML</String>
+	</GlobalStrings>
+</TrID>

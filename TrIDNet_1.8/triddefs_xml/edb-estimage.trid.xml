@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EstImage DataBase</FileType>
+		<Ext>EDB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.stelvio.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>06</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>49</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>CC3300000000</Bytes>
+			<ASCII> . 3</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

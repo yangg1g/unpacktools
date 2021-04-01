@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Kremlin Encrypted File</FileType>
+		<Ext>KGB</Ext>
+		<ExtraInfo>
+			<Rem>Strong encryption tool. Widely used for private postings.</Rem>
+			<RefURL>http://www.kremlinencrypt.com/</RefURL>
+		</ExtraInfo>
+		<User>mishka</User>
+		<E-Mail>vekt0r@mail.ru</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>39</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>01010110270101</Bytes>
+			<ASCII> . . . . '</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4B524D</Bytes>
+			<ASCII> K R M</ASCII>
+			<Pos>20</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

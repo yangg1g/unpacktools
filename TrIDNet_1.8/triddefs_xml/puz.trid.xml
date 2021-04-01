@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Across crossword puzzle</FileType>
+		<Ext>PUZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.litsoft.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>17</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4143524F535326444F574E</Bytes>
+			<ASCII> A C R O S S . D O W N</ASCII>
+			<Pos>2</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ACROSS</String>
+		<String>DOWN</String>
+	</GlobalStrings>
+</TrID>

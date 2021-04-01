@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>E-Run 2.0 Script</FileType>
+		<Ext>EBS2</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pstnet.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>7</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>0</Hour>
+			<Min>10</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3C003F0078006D006C002000760065007200730069006F006E003D00220031002E00300022003F003E000D000A003C00450042005300200078006D006C006E0073003A00640074003D002200750072006E003A0073006300680065006D00610073002D006D006900630072006F0073006F00660074002D0063006F006D003A0064006100740061007400790070006500730022003E00</Bytes>
+			<ASCII> . . . . ? . x . m . l .   . v . e . r . s . i . o . n . = . " . 1 . . . 0 . " . ? . . . . . . . . . E . B . S .   . x . m . l . n . s . : . d . t . = . " . u . r . n . : . s . c . h . e . m . a . s . - . m . i . c . r . o . s . o . f . t . - . c . o . m . : . d . a . t . a . t . y . p . e . s . "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'C'H'E'M'A'S'-'M'I'C'R'O'S'O'F'T'-'C'O'M</String>
+		<String>G'E'N'E'R'A'T'E'D'D'A'T'E'U'T'C' 'D'T</String>
+		<String>_'V'E'R'S'I'O'N'P'E'R'S'I'S'T' 'D'T</String>
+		<String>S'C'R'I'P'T'C'O'N'T'E'N'T'S' 'D'T</String>
+		<String>A'B'S'T'R'A'C'T' 'D'T</String>
+		<String>S'E'R'V'I'C'E'P'A'C'K</String>
+		<String>X'M'L' 'V'E'R'S'I'O'N</String>
+		<String>B'I'N'.'B'A'S'E'6'4</String>
+		<String>E'X'P'E'R'I'M'E'N'T</String>
+		<String>A'U'T'H'O'R' 'D'T</String>
+		<String>D'A'T'A'T'Y'P'E'S</String>
+		<String>E'B'S' 'X'M'L'N'S</String>
+		<String>D'A'T'E'T'I'M'E</String>
+		<String>I'N'T'E'R'N'A'L</String>
+		<String>N'O'T'E'S' 'D'T</String>
+		<String>P'A'T'C'H' 'D'T</String>
+		<String>R'U'N'T'I'M'E</String>
+		<String>S'T'R'I'N'G</String>
+		<String>S'T'U'D'I'O</String>
+		<String>B'U'I'L'D</String>
+		<String>M'A'J'O'R</String>
+		<String>M'I'N'O'R</String>
+	</GlobalStrings>
+</TrID>

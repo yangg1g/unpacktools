@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Visual Designer project</FileType>
+		<Ext>VD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.hellobasic.com/vd.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>26</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>E40000000000000056505647</Bytes>
+			<ASCII> . . . . . . . . V P V G</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5042534F46545F56445F46494C45</Bytes>
+			<ASCII> P B S O F T _ V D _ F I L E</ASCII>
+			<Pos>168</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WinHex data structure template</FileType>
+		<Ext>TXT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.x-ways.net/winhex</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>50</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>74656D706C6174652022</Bytes>
+			<ASCII> t e m p l a t e   "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DESCRIPTION</String>
+		<String>APPLIES</String>
+		<String>BEGIN</String>
+	</GlobalStrings>
+</TrID>

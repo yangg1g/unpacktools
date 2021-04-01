@@ -1,0 +1,62 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Session Manager Firefox Backup</FileType>
+		<Ext>SESSION</Ext>
+		<ExtraInfo>
+			<Rem>Session Manager allows you to save the current state of Firefox (history, text data, cookies) and return to that state at any later moment.</Rem>
+			<RefURL>http://sessionmanager.mozdev.org/index.html</RefURL>
+		</ExtraInfo>
+		<User>Stef</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>07</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>41</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B53657373696F6E4D616E616765722076325D0D0A6E616D653D5B20</Bytes>
+			<ASCII> [ S e s s i o n M a n a g e r   v 2 ] . . n a m e = [</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SESSIONMANAGER V2</String>
+		<String>_CLOSEDWINDOWS</String>
+		<String>SELECTEDWINDOW</String>
+		<String>_FORMDATASAVED</String>
+		<String>_CLOSEDTABS</String>
+		<String>ATTRIBUTES</String>
+		<String>TIMESTAMP</String>
+		<String>SIZEMODE</String>
+		<String>AUTOSAVE</String>
+		<String>SCREENY</String>
+		<String>ENTRIES</String>
+		<String>SCREENX</String>
+		<String>SCROLL</String>
+		<String>HEIGHT</String>
+		<String>_HOSTS</String>
+		<String>NORMAL</String>
+		<String>FALSE</String>
+		<String>TRUE}</String>
+		<String>TITLE</String>
+		<String>COUNT</String>
+		<String>INDEX</String>
+		<String>WIDTH</String>
+		<String>NAME</String>
+		<String>1050</String>
+		<String>1680</String>
+	</GlobalStrings>
+</TrID>

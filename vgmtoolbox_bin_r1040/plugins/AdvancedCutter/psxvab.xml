@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OffsetFinderTemplate>
+  <Header>
+    <FormatName>PlayStation - VAB File</FormatName>
+    <Author />
+  </Header>
+  <SearchParameters>
+    <SearchString>70424156</SearchString>
+    <TreatSearchStringAsHex>true</TreatSearchStringAsHex>
+    <SearchStringOffset>0</SearchStringOffset>
+    <OutputFileExtension>.vab</OutputFileExtension>
+    <CutParameters>
+      <CutStyle>offset</CutStyle>
+      <CutSizeAtOffset>0x0C</CutSizeAtOffset>
+      <CutSizeOffsetSize>4</CutSizeOffsetSize>
+      <CutSizeOffsetEndianess>little</CutSizeOffsetEndianess>      
+    </CutParameters>
+    <AddExtraBytes>false</AddExtraBytes>    
+  </SearchParameters>
+  <NotesOrWarnings>Some files have the VH and VB portions split or padded.  This will lead to false positives that miss the correct VB data section of a VAB file.</NotesOrWarnings>
+</OffsetFinderTemplate>

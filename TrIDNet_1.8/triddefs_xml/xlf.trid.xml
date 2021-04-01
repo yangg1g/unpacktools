@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XLIFF - XML Localization Interchange File Format</FileType>
+		<Ext>XLF/XLIFF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Xliff</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<Refine>5 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>9</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>4</Hour>
+			<Min>12</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SOURCE-LANGUAGE</String>
+		<String>TRANS-UNIT ID</String>
+		<String>DATATYPE</String>
+		<String>VERSION</String>
+		<String>XLIFF</String>
+		<String>FILE</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

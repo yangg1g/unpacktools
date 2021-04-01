@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+  <TransformScript>
+    <OtherComments>
+      <Content>Before running this script, select only the glyphs you want to transform, as some symbols like + and © are best left vertical. Since there is no undo for transforms, copy the glyphs to the clipboard if you want to paste them back in and retry with a different angle. Also, if your font is a handwritten script, set the Family Kind in Format, Settings, Classification. </Content>
+    </OtherComments>
+    <OtherComments>
+      <Content>Italic
+This script slants all selected glyphs by the italic angle you choose, while preserving the advance width. It then sets the italic angle on the Post Tab, calculates the Caret Run, sets the Font Design and Mac Style to italic on the Metrics Tab, and sets the Panose Classification to the appropriate values for the chosen italic angle.</Content>
+    </OtherComments>
+    <EffectsItalic>
+      <Angle>11.00</Angle>
+      <UpdateMetrics>TRUE</UpdateMetrics>
+      <PreserveBearings>FALSE</PreserveBearings>
+    </EffectsItalic>
+    <MetricsLeftSideBearing>
+    </MetricsLeftSideBearing>
+    <OtherComments>
+      <Content>After running this transformation, most glyphs will have off-curve extremes and perhaps other validation errors. Run the Font Validation Wizard to correct them, or use the Validation Toolbar to view the problems and correct each glyph individually. </Content>
+    </OtherComments>
+  </TransformScript>
+</DATA>

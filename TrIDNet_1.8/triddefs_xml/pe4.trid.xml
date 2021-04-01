@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Ulead thumbnail</FileType>
+		<Ext>PE4</Ext>
+		<ExtraInfo>
+			<Rem>Used in various Ulead applications.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Ulead</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>26</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>49494F3248</Bytes>
+			<ASCII> I I O 2 H</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

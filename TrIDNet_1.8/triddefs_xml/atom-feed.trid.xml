@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Atom web feed</FileType>
+		<Ext>XML/ATOM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Atom_feed</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>58</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>AUTHOR</String>
+		<String>ENTRY</String>
+		<String>XMLNS</String>
+		<String>TITLE</String>
+		<String>ATOM</String>
+		<String>HTML</String>
+		<String>HREF</String>
+		<String>LINK</String>
+		<String>NAME</String>
+		<String>SUMM</String>
+		<String>MARY</String>
+		<String>FEED</String>
+		<String>TYPE</String>
+		<String>WWW.</String>
+		<String>HTTP</String>
+		<String>.ORG</String>
+	</GlobalStrings>
+</TrID>

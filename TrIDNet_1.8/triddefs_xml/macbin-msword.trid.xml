@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Word document (MacBinary)</FileType>
+		<Ext>DOC</Ext>
+		<ExtraInfo>
+			<Rem>MacBinary is a standard for encoding Macintosh files for file transfer</Rem>
+			<RefURL>http://www.macdisk.com/macsigen.php3</RefURL>
+		</ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+   		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>30</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>424E4D535744</Bytes>
+			<ASCII> B N M S W D</ASCII>
+			<Pos>67</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>74</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>82</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BNMSWD</String>
+	</GlobalStrings>
+</TrID>

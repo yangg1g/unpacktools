@@ -1,0 +1,347 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WIN32 Executable PowerBASIC/CC 5.0</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.powerbasic.com/products/pbcc/</RefURL>
+		</ExtraInfo>
+		<User>Erik Siers</User>
+		<E-Mail>eriksiers-at-bmi-dot-net</E-Mail>
+		<Home>https://sourceforge.net/users/eriksiers</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>07</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>50</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A0A000200000004000F00FFFF0000C00000000000000040000000000000000000000000000000000000000000000000000000000000000000000080000000B40966BA10000E1FCD2166B8014CCD215468697320697320612057696E33322070726F6772616D2E0D0A24000000000000000000000000000000000000000000504500004C01</Bytes>
+			<ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . f . . . . . . ! f . . L . ! T h i s   i s   a   W i n 3 2   p r o g r a m . . . $ . . . . . . . . . . . . . . . . . . . . . P E . . L</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00393000000000000000000000E0000E030B010234</Bytes>
+			<ASCII> . 9 0 . . . . . . . . . . . . . . . . . 4</ASCII>
+			<Pos>135</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>158</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>162</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>166</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000010000000</Bytes>
+			<Pos>170</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000400000100000000200000100000000000000</Bytes>
+			<ASCII> . . . . @</ASCII>
+			<Pos>178</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>201</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000</Bytes>
+			<Pos>203</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000400000000000003000000000010000040000000000100001000000000000010000000000000000000000000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . @</ASCII>
+			<Pos>210</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>258</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>262</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>266</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000000000000000000</Bytes>
+			<Pos>270</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>290</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002E74657874002020</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . t e x t</ASCII>
+			<Pos>294</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000010000000</Bytes>
+			<Pos>386</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000040000000000000000000000000000200000602E64617461002020</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . .   . . ` . d a t a</ASCII>
+			<Pos>394</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>426</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>430</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>434</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000400000C02E6C696E6B002020</Bytes>
+			<ASCII> . . . . . . . . . . . . . . @ . . . . l i n k</ASCII>
+			<Pos>438</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>466</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>470</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>474</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000400000C02E72</Bytes>
+			<ASCII> . . . . . . . . . . . . . . @ . . . . r</ASCII>
+			<Pos>478</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>63002020</Bytes>
+			<ASCII> c</ASCII>
+			<Pos>500</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>506</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>510</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>514</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000400000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . @</ASCII>
+			<Pos>518</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>541</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>546</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>550</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>554</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000</Bytes>
+			<Pos>558</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>573</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000C3C377052BC27801C3B209B6A066899570FFFFFFC3A900FFFFFF7506C30AE47501C3B206EBE585C078F8C3508BD0983BC25875EEC3A90080FFFF75E6C3A90000FFFF75DEC385DB7401C3B209EBBDC3F68571FFFFFF807501C380B571FFFFFF808B8D74E8</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . w . + . x . . . . . . f . . p . . . . . . . . . u . . . . u . . . . . . . . x . . P . . . ; . X u . . . . . . . u . . . . . . . u . . . . t . . . . . . . . . q . . . . u . . . . q . . . . . . t</ASCII>
+			<Pos>576</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000C70520</Bytes>
+			<Pos>1126</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4000D5104000C70524</Bytes>
+			<ASCII> @ . . . @ . . . $</ASCII>
+			<Pos>1132</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4000D9104000C70528</Bytes>
+			<ASCII> @ . . . @ . . . (</ASCII>
+			<Pos>1142</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>40002D114000C7052C</Bytes>
+			<ASCII> @ . - . @ . . . ,</ASCII>
+			<Pos>1152</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4000</Bytes>
+			<ASCII> @</ASCII>
+			<Pos>1162</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>114000C70530</Bytes>
+			<ASCII> . @ . . . 0</ASCII>
+			<Pos>1165</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4000</Bytes>
+			<ASCII> @</ASCII>
+			<Pos>1172</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>114000C70534</Bytes>
+			<ASCII> . @ . . . 4</ASCII>
+			<Pos>1175</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4000</Bytes>
+			<ASCII> @</ASCII>
+			<Pos>1182</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4000C70538</Bytes>
+			<ASCII> @ . . . 8</ASCII>
+			<Pos>1186</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4000</Bytes>
+			<ASCII> @</ASCII>
+			<Pos>1192</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4000C7053C</Bytes>
+			<ASCII> @</ASCII>
+			<Pos>1196</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4000</Bytes>
+			<ASCII> @</ASCII>
+			<Pos>1202</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4000FF35E4</Bytes>
+			<ASCII> @ . . 5</ASCII>
+			<Pos>1206</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4000FF35E0</Bytes>
+			<ASCII> @ . . 5</ASCII>
+			<Pos>1212</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>40006A00FF35EC</Bytes>
+			<ASCII> @ . j . . 5</ASCII>
+			<Pos>1218</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4000E8</Bytes>
+			<ASCII> @</ASCII>
+			<Pos>1226</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00008BE55DC300000000050000000000000000000000C0000000000000460100000000000000C00000000000004684B296B1B4BA1A10B69C00AA00341D0786B296B1B4BA1A10B69C00AA00341D070004020000000000C000000000000046</Bytes>
+			<ASCII> . . . . ] . . . . . . . . . . . . . . . . . . . . . . . . F . . . . . . . . . . . . . . . F . . . . . . . . . . . . . 4 . . . . . . . . . . . . . . . 4 . . . . . . . . . . . . . . . . . F</ASCII>
+			<Pos>1231</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>1327</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>1331</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>E''''SETERRORMODE''''SETFILEPOINTER''''SETLASTERROR''''SLEEP'''SYSALLOCSTRINGBYTELEN'''SYSFREESTRING'''SYSSTRINGBYTELEN''''TLSALLOC''''TLSFREE'''TLSGETVALUE'''TLSSETVALUE'''VARIANTCLEAR''''VARIANTCOPY'''WIDECHARTOMULTIBYTE'''WRITECONSOLEOUTPUTA'''WRITEFILE</String>
+		<String>$'''''''''''''''''''''PE''L</String>
+		<String>SCROLLCONSOLESCREENBUFFERA</String>
+		<String>GETCONSOLESCREENBUFFERINFO</String>
+		<String>SETCONSOLECURSORPOSITION</String>
+		<String>THIS IS A WIN32 PROGRAM.</String>
+		<String>POWERBASIC'CONIN$'TCP</String>
+		<String>SETCONSOLECTRLHANDLER</String>
+		<String>GETCONSOLECURSORINFO</String>
+		<String>SETCONSOLECURSORINFO</String>
+		<String>MULTIBYTETOWIDECHAR</String>
+		<String>COCREATEINSTANCE</String>
+		<String>GETMODULEHANDLEA</String>
+		<String>PROGIDFROMCLSID</String>
+		<String>GETSTARTUPINFOA</String>
+		<String>GETACTIVEOBJECT</String>
+		<String>CLSIDFROMPROGID</String>
+		<String>SAFEARRAYCREATE</String>
+		<String>GETCOMMANDLINEA</String>
+		<String>GETCONSOLEMODE</String>
+		<String>GETPROCADDRESS</String>
+		<String>SETCONSOLEMODE</String>
+		<String>COUNINITIALIZE</String>
+		<String>GETVERSIONEXA</String>
+		<String>MS SANS SERIF</String>
+		<String>LOADLIBRARYA</String>
+		<String>COINITIALIZE</String>
+		<String>OLEAUT32.DLL</String>
+		<String>KERNEL32.DLL</String>
+		<String>GETSTDHANDLE</String>
+		<String>GETLASTERROR</String>
+		<String>CLOSEHANDLE</String>
+		<String>EXITPROCESS</String>
+		<String>GLOBALALLOC</String>
+		<String>CREATEFILEA</String>
+		<String>GLOBALFREE</String>
+		<String>J0N0T0X0~0</String>
+		<String>OLE32.DLL</String>
+		<String>PSRWPFXFZ</String>
+		<String>READFILE</String>
+		<String>BBHHOOQQ</String>
+		<String>PSQVWF</String>
+		<String>PSSSSS</String>
+		<String>Y'''TG</String>
+		<String>.DATA</String>
+		<String>.'''T</String>
+		<String>.RLOC</String>
+		<String>.LINK</String>
+		<String>.TEXT</String>
+		<String>J'J'J</String>
+		<String>SQRVW</String>
+		<String>W'''F</String>
+		<String>PQQJ</String>
+		<String>PQRV</String>
+		<String>SVWH</String>
+	</GlobalStrings>
+</TrID>

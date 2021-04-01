@@ -1,0 +1,85 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Netlab project</FileType>
+		<Ext>NET</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.irt.rwth-aachen.de/download/netlab/html/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>7</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>21</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D2249534F2D383835392D31223F3E3C706E6D6C20786D6C6E73203D2022687474703A2F2F7777772E6972742E727774682D61616368656E2E64652F646F776E6C6F61642F6E65746C61622F706E74642F706E736D4E6574223E0D0A20203C6E6574206964203D20226E31220D0A2020202020202074797065203D2022687474703A2F2F7777772E6972742E727774682D61616368656E2E64652F646F776E6C6F61642F6E65746C61622F706E74642F706E736D4E6574223E0D0A202020203C6E616D653E0D0A2020202020203C746578743E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " I S O - 8 8 5 9 - 1 " ? . . p n m l   x m l n s   =   " h t t p : / / w w w . i r t . r w t h - a a c h e n . d e / d o w n l o a d / n e t l a b / p n t d / p n s m N e t " . . .     . n e t   i d   =   " n 1 " . .               t y p e   =   " h t t p : / / w w w . i r t . r w t h - a a c h e n . d e / d o w n l o a d / n e t l a b / p n t d / p n s m N e t " . . .         . n a m e . . .             . t e x t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PETRINETSTATEMODEL SELF_LOOPS</String>
+		<String>DEVELOPER_RELEASE VERSION</String>
+		<String>AUTOCALCULATE_INVARIANTS</String>
+		<String>ALLOWED_AT_INPUT_NODES</String>
+		<String>WWW.IRT.RWTH-AACHEN.DE</String>
+		<String>ALLOWED_AT_ALL_NODES</String>
+		<String>COLORED_INVARIANTS</String>
+		<String>SCROLLERPOSITION X</String>
+		<String>CALCULATION XMLNS</String>
+		<String>TOOLSPECIFIC TOOL</String>
+		<String>INHIBITOR_ARCS</String>
+		<String>INITIALMARKING</String>
+		<String>IO_EXTENSIONS</String>
+		<String>TRANSITION ID</String>
+		<String>SVN_REVISION</String>
+		<String>DESCRIPTION</String>
+		<String>DIMENSION X</String>
+		<String>FIRING_RULE</String>
+		<String>XML VERSION</String>
+		<String>ISO-8859-1</String>
+		<String>PNML XMLNS</String>
+		<String>VIEW XMLNS</String>
+		<String>NUMBERING</String>
+		<String>TEST_ARCS</String>
+		<String>CAPACITY</String>
+		<String>DOWNLOAD</String>
+		<String>ENCODING</String>
+		<String>GRAPHICS</String>
+		<String>PLACE ID</String>
+		<String>PNSMNET</String>
+		<String>ARC ID</String>
+		<String>NET ID</String>
+		<String>NETLAB</String>
+		<String>SOURCE</String>
+		<String>STRONG</String>
+		<String>TARGET</String>
+		<String>BUILD</String>
+		<String>FALSE</String>
+		<String>MONTH</String>
+		<String>NAMES</String>
+		<String>GRID</String>
+		<String>HTTP</String>
+		<String>PNTD</String>
+		<String>TEXT</String>
+		<String>TRUE</String>
+		<String>TYPE</String>
+		<String>YEAR</String>
+		<String>ZOOM</String>
+	</GlobalStrings>
+</TrID>

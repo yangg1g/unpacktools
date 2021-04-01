@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Google Video pointer</FileType>
+		<Ext>GVP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://video.google.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>45</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2320646F776E6C6F616420746865206672656520476F6F676C6520566964656F20506C617965722066726F6D20687474703A2F2F766964656F2E676F6F676C652E636F6D2F0A6776705F76657273696F6E3A</Bytes>
+			<ASCII> #   d o w n l o a d   t h e   f r e e   G o o g l e   V i d e o   P l a y e r   f r o m   h t t p : / / v i d e o . g o o g l e . c o m / . g v p _ v e r s i o n :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>83</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0A75726C3A687474703A2F2F76702E766964656F2E676F6F676C652E636F6D2F766964656F646F776E6C6F61643F76657273696F6E3D302673656375726575726C3D</Bytes>
+			<ASCII> . u r l : h t t p : / / v p . v i d e o . g o o g l e . c o m / v i d e o d o w n l o a d ? v e r s i o n = 0 . s e c u r e u r l =</ASCII>
+			<Pos>85</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOWNLOAD THE FREE GOOGLE VIDEO PLAYER FROM HTTP</String>
+		<String>VP.VIDEO.GOOGLE.COM</String>
+		<String>VIDEODOWNLOAD</String>
+		<String>DESCRIPTION</String>
+		<String>GVP_VERSION</String>
+		<String>SECUREURL</String>
+		<String>DURATION</String>
+		<String>BEGIN</String>
+		<String>DOCID</String>
+		<String>TITLE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LiveCode stack</FileType>
+		<Ext>LIVECODE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/LiveCode</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>11</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>34</Min>
+			<Sec>7</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5245564F</Bytes>
+			<ASCII> R E V O</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CREVGENERAL</String>
+		<String>REVUNIQUEID</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,36 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Quake III Arena model</FileType>
+		<Ext>MD3</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.quake3arena.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>17</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>494450330F000000</Bytes>
+			<ASCII> I D P 3</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

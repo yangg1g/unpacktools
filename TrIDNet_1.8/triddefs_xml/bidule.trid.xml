@@ -1,0 +1,79 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Bidule layout</FileType>
+		<Ext>BIDULE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.plogue.com/?page_id=56</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>5</Month>
+			<Day>6</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>27</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D2249534F2D383835392D31223F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " I S O - 8 8 5 9 - 1 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CHANNELCONFIG NUMSAMPLEIN</String>
+		<String>NONAMESPACESCHEMALOCATION</String>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>BOARDLAYOUT XMLNS</String>
+		<String>LINK PRODUCERID</String>
+		<String>LISTENERCHANNEL</String>
+		<String>LOCKEDFORRANDOM</String>
+		<String>PRODUCERCHANNEL</String>
+		<String>BIDULEGROUP ID</String>
+		<String>MUTATIONFACTOR</String>
+		<String>PROCESSINGMODE</String>
+		<String>AUTOMATION ID</String>
+		<String>NUMSAMPLEOUT</String>
+		<String>PARAMETER ID</String>
+		<String>COM.PLOGUE.</String>
+		<String>DISPLAYNAME</String>
+		<String>XML VERSION</String>
+		<String>BIDULE.XSD</String>
+		<String>GEOMETRY X</String>
+		<String>LISTENERID</String>
+		<String>NUMFREQOUT</String>
+		<String>NUMMIDIOUT</String>
+		<String>WWW.W3.ORG</String>
+		<String>BIDULE ID</String>
+		<String>GUI STATE</String>
+		<String>MEDIAPOOL</String>
+		<String>NUMFREQIN</String>
+		<String>NUMMAGOUT</String>
+		<String>NUMMIDIIN</String>
+		<String>ENCODING</String>
+		<String>NUMMAGIN</String>
+		<String>GENERIC</String>
+		<String>USERMAX</String>
+		<String>USERMIN</String>
+		<String>HIDDEN</String>
+		<String>NORMAL</String>
+		<String>FALSE</String>
+		<String>HTTP</String>
+		<String>TRUE</String>
+		<String>TYPE</String>
+		<String>UID_</String>
+		<String>ZOOM</String>
+	</GlobalStrings>
+</TrID>

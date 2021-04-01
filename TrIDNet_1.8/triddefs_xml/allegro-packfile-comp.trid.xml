@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Allegro Packfile (compressed)</FileType>
+		<Ext>DAT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://docs.mandragor.org/files/Common_libs_documentation/allegro/packfile.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>08</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>50</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>736C6821</Bytes>
+			<ASCII> s l h !</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

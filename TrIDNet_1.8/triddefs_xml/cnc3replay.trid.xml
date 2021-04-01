@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Command and Conquer 3 replay</FileType>
+		<Ext>CNC3REPLAY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.commandandconquer.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>08</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>36</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>43264333205245504C415920484541444552</Bytes>
+			<ASCII> C . C 3   R E P L A Y   H E A D E R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

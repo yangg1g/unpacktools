@@ -1,0 +1,30 @@
+<TrID ver="1.16">
+    <Info>
+        <FileType>QuickFileCollection archive</FileType>
+        <Ext>QFC</Ext>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>3</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>14</Day>
+        </Date>
+        <Time>
+            <Hour>01</Hour>
+            <Min>30</Min>
+            <Sec>11</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00.1</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>51461A1A</Bytes>
+            <ASCII> Q F</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Infinity Engine Item (v1)</FileType>
+		<Ext>ITM</Ext>
+		<ExtraInfo>
+			<Rem>Infinity Engine ITM files describe an "item". Items include weapons, armor, books, scrolls, rings and more.</Rem>
+			<RefURL>http://iesdp.gibberlings3.net/file_formats/ie_formats/itm_v1.htm</RefURL>
+		</ExtraInfo>
+		<User>Sam.</User>
+		<E-Mail>sampsca@yahoo.com</E-Mail>
+		<Home>http://www.shsforums.net/user/10485-sam/</Home>
+	</Info>
+	<General>
+		<FileNum>5926</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>01</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>48</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>49544D2056312020</Bytes>
+			<ASCII> I T M   V 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

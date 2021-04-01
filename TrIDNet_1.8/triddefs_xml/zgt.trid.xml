@@ -1,0 +1,32 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Oren-made scientific document</FileType>
+		<Ext>ZGT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cs.biu.ac.il/~tsaban/Zagit/zagit.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>08</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EDFFFE07</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DirectX pre-compiled pixel/vertex shader</FileType>
+		<Ext>FXO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>voodooattack</User>
+		<E-Mail>voodooattack at hotmail dot com</E-Mail>
+		<Home>http://voodooattack.deviantart.com</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2013</Year>
+			<Month>8</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>20</Min>
+			<Sec>5</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0109FFFE</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000</Bytes>
+			<Pos>6</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>13</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

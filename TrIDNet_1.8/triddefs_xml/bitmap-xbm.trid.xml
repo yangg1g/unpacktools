@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>X Bitmap Graphic</FileType>
+		<Ext>XBM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>31</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23646566696E6520</Bytes>
+			<ASCII> # d e f i n e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>_HEIGHT</String>
+		<String>DEFINE</String>
+		<String>STATIC</String>
+		<String>_WIDTH</String>
+		<String>_BITS</String>
+		<String>CHAR</String>
+	</GlobalStrings>
+</TrID>

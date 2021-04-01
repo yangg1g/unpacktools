@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Black and White 2 Terrain data</FileType>
+		<Ext>TER</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Black_%26_White_2</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>32</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4C694F6E48654164486561646572</Bytes>
+			<ASCII> L i O n H e A d H e a d e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>414865696768746669656C6443</Bytes>
+			<ASCII> A H e i g h t f i e l d C</ASCII>
+			<Pos>79</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

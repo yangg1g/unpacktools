@@ -1,0 +1,96 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Installer temp data</FileType>
+		<Ext>RRA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>02</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E007400720079</Bytes>
+			<ASCII> R . o . o . t .   . E . n . t . r . y</ASCII>
+			<Pos>1024</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>{'B'6'6'0'9'2'D'0'-'0'3'C'6'-'1'1'D'3'-'A'8'F'8'-'0'0'1'0'5'A'0'8'8'F'A'C'}</String>
+		<String>{'3'8'E'E'3'9'D'8'-'2'D'A'3'-'1'1'D'3'-'A'8'F'F'-'0'0'1'0'5'A'0'8'8'F'A'C'}</String>
+		<String>{'5'D'8'4'1'A'8'0'-'0'3'C'6'-'1'1'D'3'-'A'8'F'8'-'0'0'1'0'5'A'0'8'8'F'A'C'}</String>
+		<String>{'8'E'5'7'7'4'A'0'-'3'A'2'C'-'1'1'D'3'-'A'9'0'4'-'0'0'1'0'5'A'0'8'8'F'A'C'}</String>
+		<String>{'0'9'F'D'6'B'8'0'-'1'3'8'8'-'1'1'D'3'-'A'8'F'A'-'0'0'1'0'5'A'0'8'8'F'A'C'}</String>
+		<String>{'2'6'5'A'7'4'3'0'-'2'9'8'5'-'1'1'D'3'-'A'8'F'F'-'0'0'1'0'5'A'0'8'8'F'A'C'}</String>
+		<String>{'2'6'5'A'7'4'3'1'-'2'9'8'5'-'1'1'D'3'-'A'8'F'F'-'0'0'1'0'5'A'0'8'8'F'A'C'}</String>
+		<String>{'8'E'5'7'7'4'A'A'-'3'A'2'C'-'1'1'D'3'-'A'9'0'4'-'0'0'1'0'5'A'0'8'8'F'A'C'}</String>
+		<String>{'9'2'D'2'C'F'1'8'-'2'F'3'6'-'1'1'D'3'-'A'9'0'1'-'0'0'1'0'5'A'0'8'8'F'A'C'}</String>
+		<String>{'9'2'D'2'C'F'2'2'-'2'F'3'6'-'1'1'D'3'-'A'9'0'1'-'0'0'1'0'5'A'0'8'8'F'A'C'}</String>
+		<String>O'P'T'Y'P'E'_'F'I'L'E'F'''A'P'P'_'M'A'I'N'_'L'O'G</String>
+		<String>O'P'T'Y'P'E'_'R'E'G'I'S'T'R'Y</String>
+		<String>O'P'T'Y'P'E'_'F'I'L'E'R'E'G</String>
+		<String>O'P'T'Y'P'E'_'P'R'O'G'M'A'N</String>
+		<String>S'E'C'T'I'O'N' 'A'D'D'E'D</String>
+		<String>P'R'O'G'R'A'M' 'F'I'L'E'S</String>
+		<String>I'N'S'T'A'L'L'S'H'I'E'L'D</String>
+		<String>O'P'T'Y'P'E'_'F'I'L'E'V</String>
+		<String>O'P'T'Y'P'E'_'S'H'E'L'L</String>
+		<String>C'O'R'E'C'O'M'P'.'I'N'I</String>
+		<String>F'I'L'E' 'C'R'E'A'T'E'D</String>
+		<String>D'E'F'A'U'L'T'.'P'A'L</String>
+		<String>S'T'R'I'N'G'T'A'B'L'E</String>
+		<String>F'O'L'D'E'R' 'N'A'M'E</String>
+		<String>R'E'M'O'T'E' 'N'A'M'E</String>
+		<String>_'I'S'R'E'S'.'D'L'L</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>V'A'L'U'E' 'N'A'M'E</String>
+		<String>O'P'T'Y'P'E'_'I'N'I</String>
+		<String>G'R'O'U'P' 'N'A'M'E</String>
+		<String>S'E'T'U'P'.'I'N'X</String>
+		<String>I'T'E'M' 'N'A'M'E</String>
+		<String>F'I'L'E' 'N'A'M'E</String>
+		<String>I'S'R'T'.'D'L'L</String>
+		<String>D'O'C'U'M'E'~'1</String>
+		<String>R'E'G' 'H'I'V'E</String>
+		<String>L'O'C'A'L'S'~'1</String>
+		<String>R'U'N'T'I'M'E</String>
+		<String>L'I'C'E'N'S'E</String>
+		<String>E'R'.'E'X'E</String>
+		<String>S'H'A'R'E'D</String>
+		<String>L'O'C'K'E'D</String>
+		<String>S'T'A'T'E</String>
+		<String>P'A'T'H</String>
+		<String>T'E'M'P</String>
+		<String>O'P'E'R</String>
+		<String>D'A'T'A</String>
+		<String>K'E'Y</String>
+		<String>R'A'L</String>
+		<String>F'O'N</String>
+		<String>S'E'L</String>
+		<String>I'D'_</String>
+		<String>N'I'B</String>
+		<String>D'I'R</String>
+		<String>N'E'T</String>
+	</GlobalStrings>
+</TrID>

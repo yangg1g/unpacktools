@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Neutral ASCII File Format</FileType>
+		<Ext>NFF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://local.wasp.uwa.edu.au/~pbourke/dataformats/nff/nff2.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>1</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>14</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.1b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6E6666</Bytes>
+			<ASCII> n f f</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

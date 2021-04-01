@@ -1,0 +1,89 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Delphi Project</FileType>
+		<Ext>DPROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Embarcadero_Delphi</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>22</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PROPERTYGROUP CONDITION</String>
+		<String>DELPHICOMPILE INCLUDE</String>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>DCCREFERENCE INCLUDE</String>
+		<String>VERSIONINFOKEYS NAME</String>
+		<String>BORLAND.PERSONALITY</String>
+		<String>BORLAND.PROJECTTYPE</String>
+		<String>DELPHI.PERSONALITY</String>
+		<String>PROJECTEXTENSIONS</String>
+		<String>ORIGINALFILENAME</String>
+		<String>VERSIONINFO NAME</String>
+		<String>.DELPHI.TARGETS</String>
+		<String>DCC_DCCCOMPILER</String>
+		<String>FILEDESCRIPTION</String>
+		<String>LEGALTRADEMARKS</String>
+		<String>BORLANDPROJECT</String>
+		<String>INCLUDEVERINFO</String>
+		<String>LEGALCOPYRIGHT</String>
+		<String>PRODUCTVERSION</String>
+		<String>CONFIGURATION</String>
+		<String>DCC_DEBUGINFO</String>
+		<String>PROJECT XMLNS</String>
+		<String>AUTOINCBUILD</String>
+		<String>INTERNALNAME</String>
+		<String>COMPANYNAME</String>
+		<String>FILEVERSION</String>
+		<String>PRODUCTNAME</String>
+		<String>PROJECTGUID</String>
+		<String>SOURCE NAME</String>
+		<String>DCC_DEFINE</String>
+		<String>MAINSOURCE</String>
+		<String>PRERELEASE</String>
+		<String>DEVELOPER</String>
+		<String>ITEMGROUP</String>
+		<String>$(CONFIG</String>
+		<String>CODEPAGE</String>
+		<String>COMMENTS</String>
+		<String>MAJORVER</String>
+		<String>MINORVER</String>
+		<String>PLATFORM</String>
+		<String>MSBUILD</String>
+		<String>PRIVATE</String>
+		<String>SPECIAL</String>
+		<String>IMPORT</String>
+		<String>LDEBUG</String>
+		<String>LOCALE</String>
+		<String>MATION</String>
+		<String>OUTPUT</String>
+		<String>_LOCAL</String>
+		<String>DCC32</String>
+		<String>DCC_S</String>
+		<String>2003</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

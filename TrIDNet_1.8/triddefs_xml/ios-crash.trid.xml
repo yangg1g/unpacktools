@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>iOS crash report</FileType>
+		<Ext>TXT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>2</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>50</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>496E636964656E74204964656E7469666965723A20</Bytes>
+			<ASCII> I n c i d e n t   I d e n t i f i e r :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>INCIDENT IDENTIFIER</String>
+		<String>CRASHREPORTER KEY</String>
+		<String>OS VERSION</String>
+		<String>LAUNCHD</String>
+		<String>PROCESS</String>
+		<String>IPHONE</String>
+		<String>MOBILE</String>
+		<String>DATE</String>
+		<String>SERV</String>
+	</GlobalStrings>
+</TrID>

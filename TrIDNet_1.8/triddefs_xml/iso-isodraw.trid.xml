@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IsoDraw Document</FileType>
+		<Ext>ISO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ptc.com/product/arbortext/isodraw</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>3</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>0</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>49534F46</Bytes>
+			<ASCII> I S O F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>$ROOT</String>
+		<String>LAYER</String>
+	</GlobalStrings>
+</TrID>

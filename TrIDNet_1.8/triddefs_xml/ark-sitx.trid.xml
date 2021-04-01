@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Stuffit SITX Archive</FileType>
+		<Ext>SITX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.stuffit.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2009</Year>
+			<Month>02</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>29</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5374756666497421</Bytes>
+			<ASCII> S t u f f I t !</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CAZIP compressed file</FileType>
+		<Ext>CAZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://supportconnectw.ca.com/public/ca_common_docs/latest_cazipxp.asp</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>22</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0D0A1A43415A4950</Bytes>
+			<ASCII> . . . C A Z I P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

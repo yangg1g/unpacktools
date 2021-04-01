@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Chemical Markup Language</FileType>
+		<Ext>CML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://cml.sourceforge.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>34</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>32</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C636D6C3A6D6F6C6563756C6520786D6C6E733A636D6C3D22687474703A2F2F7777772E786D6C2D636D6C2E6F72672F736368656D612F636D6C322F636F7265220A</Bytes>
+			<ASCII> . c m l : m o l e c u l e   x m l n s : c m l = " h t t p : / / w w w . x m l - c m l . o r g / s c h e m a / c m l 2 / c o r e "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>METADATALIST TITLE</String>
+		<String>WWW.XML-CML.ORG</String>
+		<String>MOLECULE XMLNS</String>
+		<String>METADATA NAME</String>
+		<String>ELEMENTTYPE</String>
+		<String>CONTRIBUTOR</String>
+		<String>DESCRIPTION</String>
+		<String>IDENTIFIER</String>
+		<String>CHEMISTRY</String>
+		<String>ATOMARRAY</String>
+		<String>STRUCTURE</String>
+		<String>BONDARRAY</String>
+		<String>ATOMREF</String>
+		<String>CONTENT</String>
+		<String>CREATOR</String>
+		<String>UNKNOWN</String>
+		<String>SCHEMA</String>
+		<String>RIGHTS</String>
+		<String>ORDER</String>
+		<String>BABEL</String>
+		<String>CMLM</String>
+		<String>CORE</String>
+		<String>HTTP</String>
+		<String>CML2</String>
+		<String>DATE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,104 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Lavasoft Ad-aware 6 plugin</FileType>
+        <Ext>EXE</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.lavasoft.de</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>4</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>30</Day>
+        </Date>
+        <Time>
+            <Hour>14</Hour>
+            <Min>25</Min>
+            <Sec>38</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000D00000000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A24000000000000006DB064FC29D10AAF29D10AAF29D10AAF29D10AAF28D10AAF29D10BAF6FD10AAF4BCE19AF20D10AAF76F300AF2BD10AAFEED70CAF28D10AAFD6F10EAF28D10AAF5269636829D10AAF0000000000000000504500004C0104003F6CD83B0000000000000000E0000F050B010600002200000016000000000000AF2100000010000000400000000040000010000000020000040000000400000004000000000000000070000000040000000000000200000000001000001000000000100000100000000000001000000010470000690000002841000064000000006000004006000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000400000280100000000000000000000000000000000000000000000000000002E7465787400000026210000001000000022000000040000000000000000000000000000200000602E7264617461000079070000004000000008000000260000000000000000000000000000400000402E64617461000000780400000050000000040000002E0000000000000000000000000000400000C02E727372630000004006000000600000000800000032000000000000000000000000000040000040000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000568B358C4040005768000001006A02FFD68B3DC840400050A334544000FFD768408000006A02A330544000FFD650A36C544000FFD768000400006A02A35C544000FFD650A34C544000FFD7A3385440008320006A01585F5E6A088BC85AF6C101740AD1E981F12083B8EDEB02D1E94A75EC8B1538544000890C82403D000100007CD6C3568B358440400057FF3534544000FFD6FF35345440008B3D90404000FFD7FF356C544000FFD6FF356C544000FFD7FF354C544000FFD6FF354C544000FFD75F5EC3558BEC5151A170544000568945FCA1605440008945F88D45F8508D45FC506A01E8380C00008B45FC8B4D0883E00189018D45F8508D45FC506A01E86A0C00008D45F8508D45FC506A02E80F0C00008B75FC8D45F8508D45FC506A0283E603E8460C00008B45FC83C430A3705440008B45F883EE00A36054400074194E740F4E74056AFE58EB13E85A080000EB0CE85F070000EB05E8550600005EC9C3558BEC81EC8C0500008B5510538B5D0856576A115933C08DBD78FFFFFF8BF3F3AB8B0283C204FF848578FFFFFF8D848578FFFFFF4E75EA399D78FFFFFF75138B45208320008B451C83200033C05F5E5BC9C38B75206A015B8D857CFFFFFF8B168BCB89552033FF393875094183C00483F91076F13BD1894DFC7303894D206A108D45B85A393875084A83E8043BD775F43955208955EC76038955208B4520D3E33BCA8906731B8D848D78FFFFFF2B18784C418D341B83C0043BCA8975F08BDE72EC8B8C9578FFFFFF8D849578FFFFFF2BD9895DF0782703CB89BD38FFFFFF89088D8D7CFFFFFF8DBD3CFFFFFF33C04A7414030183C104890783C704EBF16AFD58E948FFFFFF8B751033D28B0633FF83C6043BC774188B8C8534FFFFFF8D848534FFFFFF89948D74FAFFFF418908423B550872D78B4520834DF8FF8D8D74FAFFFF33F6894D108B4DFCF7D83B4DEC897DCC89BDF4FEFFFF89BD34FFFFFF897DF40F8F2C0200008D51FF8D8C8D78FFFFFF8955D8894DDC8B4DDC8B098BD14985D2894DE00F84F30100008B4D2003C8394DFC0F8E070100008B55E08B7DEC894DD48B4D2042F7D98955C4894DC02BF8EB038B4DC08B5520FF45F80155D403F903C23BD78945D0897DC87C058B55EC2BD08B5DFC6A012BD8588BCBD3E03B45C476208B75DC83C9FF2B4DE003C1433BDA73108B4E0483C60403C03BC176042BC1EBEB6A018BCB5ED3E68D04F50800000050E87D0D000085C0590F848F0100008B551C8D480889451C894DCC890A8B15245440008D5432018915245440008B55F88320008BC2C1E0028945BC8D8405F4FEFFFF85D2890874368B55BC8B7DF48B40FC80C31089BC1534FFFFFF8BD18A4D20885DEB884DEA8B4DD02B4D208955E4D3EF8B4DE88914F8894CF8048B7DC88B45D43945FC8B45D00F8F15FFFFFF8B5DF08A4DFC</Bytes>
+            <ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ! . . L . ! T h i s   p r o g r a m   c a n n o t   b e   r u n   i n   D O S   m o d e . . . . $ . . . . . . . m . d . ) . . . ) . . . ) . . . ) . . . ( . . . ) . . . o . . . K . . .   . . . v . . . + . . . . . . . ( . . . . . . . ( . . . R i c h ) . . . . . . . . . . . P E . . L . . . ? l . ; . . . . . . . . . . . . . . . . . " . . . . . . . . . . . ! . . . . . . . @ . . . . @ . . . . . . . . . . . . . . . . . . . . . . . . . . p . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . G . . i . . . ( A . . d . . . . ` . . @ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . @ . . ( . . . . . . . . . . . . . . . . . . . . . . . . . . . . t e x t . . . . ! . . . . . . . " . . . . . . . . . . . . . . . . . .   . . ` . r d a t a . . y . . . . @ . . . . . . . . . . . . . . . . . . . . . . @ . . @ . d a t a . . . x . . . . P . . . . . . . . . . . . . . . . . . . . . . @ . . . . r s r c . . . @ . . . . ` . . . . . . . 2 . . . . . . . . . . . . . . @ . . @ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V . 5 . @ @ . W h . . . . j . . . . = . @ @ . P . 4 T @ . . . h @ . . . j . . 0 T @ . . . P . l T @ . . . h . . . . j . . \ T @ . . . P . L T @ . . . . 8 T @ . .   . j . X _ ^ j . . . Z . . . t . . . . .   . . . . . . . J u . . . 8 T @ . . . . @ = . . . . | . . V . 5 . @ @ . W . 5 4 T @ . . . . 5 4 T @ . . = . @ @ . . . . 5 l T @ . . . . 5 l T @ . . . . 5 L T @ . . . . 5 L T @ . . . _ ^ . U . . Q Q . p T @ . V . E . . ` T @ . . E . . E . P . E . P j . . 8 . . . . E . . M . . . . . . . E . P . E . P j . . j . . . . E . P . E . P j . . . . . . . u . . E . P . E . P j . . . . . F . . . . E . . . 0 . p T @ . . E . . . . . ` T @ . t . N t . N t . j . X . . . Z . . . . . . _ . . . . . . U . . . ^ . . U . . . . . . . . . U . S . ] . V W j . Y 3 . . . x . . . . . . . . . . . . . . . x . . . . . . x . . . N u . 9 . x . . . u . . E   .   . . E . .   . 3 . _ ^ [ . . . u   j . [ . . | . . . . . . . . U   3 . 9 8 u . A . . . . . . v . ; . . M . s . . M   j . . E . Z 9 8 u . J . . . ; . u . 9 U   . U . v . . U   . E   . . ; . . . s . . . . x . . . + . x L A . 4 . . . . ; . . u . . . r . . . . x . . . . . . x . . . + . . ] . x ' . . . . 8 . . . . . . . | . . . . . . . . . 3 . J t . . . . . . . . . . . . . j . X . H . . . . u . 3 . . . 3 . . . . ; . t . . . . 4 . . . . . . 4 . . . . . . t . . . A . . B ; U . r . . E   . M . . . . t . . . 3 . . M . . M . . . ; M . . } . . . . . . . . . 4 . . . . } . . . , . . . . Q . . . . x . . . . U . . M . . M . . . . . I . . . M . . . . . . . . M   . . 9 M . . . . . . . . U . . } . . M . . M   B . . . U . . M . + . . . . M . . U   . E . . U . . . . . ; . . E . . } . | . . U . + . . ] . j . + . X . . . . ; E . v   . u . . . . + M . . . C ; . s . . N . . . . . . ; . v . + . . . j . . . ^ . . . . . . . . . P . } . . . . . Y . . . . . . . U . . H . . E . . M . . . . . $ T @ . . T 2 . . . $ T @ . . U . .   . . . . . . . E . . . . . . . . . . . . t 6 . U . . } . . @ . . . . . . . 4 . . . . . . M   . ] . . M . . M . + M   . U . . . . M . . . . . L . . . } . . E . 9 E . . E . . . . . . . . ] . . M</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>.DATA'''X</String>
+        <String>.RDATA''Y</String>
+        <String>.RSRC</String>
+        <String>.TEXT</String>
+        <String>.U2W</String>
+        <String>.WOZU</String>
+        <String>AD-AWARE</String>
+        <String>ADJUSTTOKENPRIVILEGES</String>
+        <String>BEGINPAINT''USER32.DLL''S'DELETEOBJECT''_</String>
+        <String>C'O'M'P'A'N'Y'N'A'M'E'''''L'A'V'A'S'O'F'T'''X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X</String>
+        <String>CRC DOES NOT MATCH.'FILE SIZE EXPECTED</String>
+        <String>DEFWINDOWPROCA</String>
+        <String>DRAWTEXTA</String>
+        <String>F'I'L'E'D'E'S'C'R'I'P'T'I'O'N'''''P'L'U'G'I'N' 'F'O'R' 'A'D'-'A'W'A'R'E' '6</String>
+        <String>F'I'L'E'V'E'R'S'I'O'N'''''1'.</String>
+        <String>FORMATMESSAGEA</String>
+        <String>FREELIBRARY</String>
+        <String>GETCLIENTRECT</String>
+        <String>GETCOMMANDLINEA'D</String>
+        <String>GETCURRENTPROCESS'U</String>
+        <String>GETDC'Y'CREATEWINDOWEXA</String>
+        <String>GETDEVICECAPS</String>
+        <String>GETLASTERROR</String>
+        <String>GETMODULEFILENAMEA</String>
+        <String>GETMODULEHANDLEA</String>
+        <String>GETPROCADDRESS</String>
+        <String>GETSTOCKOBJECT''%</String>
+        <String>GETTEMPFILENAMEA''}</String>
+        <String>GETTEMPPATHA</String>
+        <String>GETVERSIONEXA</String>
+        <String>GETWINDOWSDIRECTORYA''E</String>
+        <String>GLBSINSTALL'SESHUTDOWNPRIVILEGE'SYSTEM DLLS CORRUPT OR MISSING.'DEMO INSTALLATIONS ONLY RUN ON THE COMPUTER THEY WERE CREATED ON.'''INSTALL'HANDLEFTP'''FILEWRITE'''DISKPROMPT''DISPLAYGRAPHICS'UPDATESCREEN''''WISEMAIN''''COULD NOT EXTRACT WISE0132.DLL TO</String>
+        <String>GLOBALALLOC</String>
+        <String>GLOBALFREE</String>
+        <String>GLOBALLOCK</String>
+        <String>GLOBALUNLOCK</String>
+        <String>INSTALLATION'INITIALIZING WISE INSTALLATION WIZARD...</String>
+        <String>INVALIDATERECT</String>
+        <String>L'E'G'A'L'C'O'P'Y'R'I'G'H'T'''2'0'0'3' 'L'A'V'A'S'O'F'T' 'S'W'E'D'E'N'''X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X'X</String>
+        <String>LOADCURSORA</String>
+        <String>LOADICONA'R</String>
+        <String>LOADLIBRARYA</String>
+        <String>LOCALFREE</String>
+        <String>LOOKUPPRIVILEGEVALUEA'B</String>
+        <String>MESSAGEBOXA</String>
+        <String>OPENFILE</String>
+        <String>OPENPROCESSTOKEN''ADVAPI32.DLL</String>
+        <String>PATBLT''M'CREATESOLIDBRUSH</String>
+        <String>POSTQUITMESSAGE'Z</String>
+        <String>REALIZEPALETTE</String>
+        <String>REGISTERCLASSA</String>
+        <String>RELEASEDC</String>
+        <String>S'T'R'I'N'G'F'I'L'E'I'N'F'O</String>
+        <String>SELECTOBJECT</String>
+        <String>SELECTPALETTE'B'CREATEPALETTE'GDI32.DLL</String>
+        <String>SENDMESSAGEA</String>
+        <String>SERIF</String>
+        <String>SETBKMODE</String>
+        <String>SETERRORMODE</String>
+        <String>SETTEXTCOLOR</String>
+        <String>SETTIMER</String>
+        <String>SETWINDOWPOS''J</String>
+        <String>SHOWWINDOW</String>
+        <String>SIZE RETURNED</String>
+        <String>TEXTOUTA</String>
+        <String>THIS PROGRAM CANNOT BE RUN IN DOS MODE.</String>
+        <String>UPDATEWINDOW</String>
+    </GlobalStrings>
+</TrID>

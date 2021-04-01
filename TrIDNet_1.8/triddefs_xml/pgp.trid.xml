@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PGP public key block</FileType>
+		<Ext>PGP/TXT/PUB</Ext>
+		<ExtraInfo>
+			<Rem>Pretty Good Privacy (PGP) is a computer program that provides cryptographic privacy and authentication.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Pretty_Good_Privacy</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>1</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2D2D2D2D2D424547494E20504750205055424C4943204B455920424C4F434B2D2D2D2D2D</Bytes>
+			<ASCII> - - - - - B E G I N   P G P   P U B L I C   K E Y   B L O C K - - - - -</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

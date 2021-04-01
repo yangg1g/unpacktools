@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>KlipFolio Klip</FileType>
+		<Ext>KLIP</Ext>
+		<ExtraInfo>
+			<Rem>Serence KlipFolio is a personal dashboard for Windows.</Rem>
+			<RefURL>http://www.serence.com/site.php?page=prod_klip</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>27</FileNum>
+		<Refine>8 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>09</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONTENTSOURCE</String>
+		<String>DESCRIPTION</String>
+		<String>DEFAULTLINK</String>
+		<String>COPYRIGHT</String>
+		<String>LOCATIONS</String>
+		<String>LANGUAGE</String>
+		<String>IDENTITY</String>
+		<String>REFRESH</String>
+		<String>AUTHOR</String>
+		<String>KLIPLO</String>
+		<String>EMAIL</String>
+		<String>OWNER</String>
+		<String>TITLE</String>
+		<String>SETUP</String>
+		<String>ICON</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

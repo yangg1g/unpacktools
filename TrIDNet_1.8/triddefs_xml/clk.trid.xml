@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Corel R.A.V.E. Animation</FileType>
+		<Ext>CLK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.corel.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>11</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>13</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52494646</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>434152</Bytes>
+			<ASCII> C A R</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7672736E02000000</Bytes>
+			<ASCII> v r s n</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>INFOIKEY</String>
+		<String>LIST4</String>
+		<String>ICMT</String>
+		<String>DISP</String>
+		<String>CMPR</String>
+		<String>RIFF</String>
+		<String>SUMI</String>
+		<String>VRSN</String>
+		<String>CPNG</String>
+	</GlobalStrings>
+</TrID>

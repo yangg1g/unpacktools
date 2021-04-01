@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Myriad Harmony / Melody assistant music</FileType>
+		<Ext>MUS/MYR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.myriadonline.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>24</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>11</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>22</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>534F4C46</Bytes>
+			<ASCII> S O L F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>530D4F0A0D4CFF46</Bytes>
+			<ASCII> S . O . . L . F</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

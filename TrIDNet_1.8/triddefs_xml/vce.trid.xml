@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Visual CertExam Suite Exam file</FileType>
+		<Ext>VCE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.visualcertexam.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>31</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>85A8010100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Eagle preferences</FileType>
+		<Ext>EPF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cadsoft.de/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>7</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>30</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B4561676C655D</Bytes>
+			<ASCII> [ E a g l e ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>AUTOSAVEPROJECT</String>
+		<String>CONTROL PANEL</String>
+		<String>USEDLIBRARY</String>
+		<String>PLATFORM</String>
+		<String>DESKTOP</String>
+		<String>GLOBALS</String>
+		<String>VERSION</String>
+		<String>NUMBER</String>
+		<String>SCREEN</String>
+		<String>SERIAL</String>
+		<String>WINDOW</String>
+		<String>EAGLE</String>
+		<String>STATE</String>
+		<String>.LBR</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

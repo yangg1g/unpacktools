@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ActivInspire Flipchart</FileType>
+		<Ext>FLIPCHART</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.prometheanworld.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>1</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>51</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2042616D626F6F20</Bytes>
+			<ASCII>   B a m b o o</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>31002E0030</Bytes>
+			<ASCII> 1 . . . 0</ASCII>
+			<Pos>14</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>310030002E006600700067</Bytes>
+			<ASCII> 1 . 0 . . . f . p . g</ASCII>
+			<Pos>32</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

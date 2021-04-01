@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>QuickBASIC Extended v7.1 Source</FileType>
+		<Ext>BAS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>46</FileNum>
+		<Refine>13 by Marco Pontello</Refine>
+		<Date>
+			<Year>2005</Year>
+			<Month>07</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>20</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FC</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>01000D00</Bytes>
+			<Pos>2</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>01</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>01070001020304060508</Bytes>
+			<Pos>9</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FFFF2400</Bytes>
+			<ASCII> . . $</ASCII>
+			<Pos>21</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>109</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5200</Bytes>
+			<ASCII> R</ASCII>
+			<Pos>113</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

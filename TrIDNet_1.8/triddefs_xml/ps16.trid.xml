@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Protracker Studio 16 module/song</FileType>
+        <Ext>PSM/PS16</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://thorkildsen.no/faqsys/docs/p16-form.txt</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>2</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>10</Day>
+        </Date>
+        <Time>
+            <Hour>20</Hour>
+            <Min>46</Min>
+            <Sec>02</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.40b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>50533136FE</Bytes>
+            <ASCII> P S 1 6</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

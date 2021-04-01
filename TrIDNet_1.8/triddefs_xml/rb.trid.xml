@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>REALbasic Project</FileType>
+		<Ext>RBT</Ext>
+		<ExtraInfo>
+			<Rem>REALbasic is a cross-platform developement system.</Rem>
+			<RefURL>http://www.realbasic.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>125</FileNum>
+		<Refine>11 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>02</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>06</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52</Bytes>
+			<ASCII> R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>6</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

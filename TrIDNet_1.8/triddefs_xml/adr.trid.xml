@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Opera Hotlist (v2.0) / bookmark</FileType>
+		<Ext>ADR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.opera.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2010</Year>
+			<Month>12</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>10</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4F7065726120486F746C6973742076657273696F6E20322E30</Bytes>
+			<ASCII> O p e r a   H o t l i s t   v e r s i o n   2 . 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

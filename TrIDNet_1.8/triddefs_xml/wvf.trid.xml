@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Yokogawa waveform data</FileType>
+		<Ext>WVF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.yokogawa.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>30</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>25574446</Bytes>
+			<ASCII> % W D F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>EVENT</String>
+		<String>LOGIC</String>
+		<String>YOKOG</String>
+		<String>MATH1</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Syslinux COM32 module</FileType>
+		<Ext>C32</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/SYSLINUX</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2013</Year>
+			<Month>2</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>28</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>B8</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4CCD21</Bytes>
+			<ASCII> L . !</ASCII>
+			<Pos>2</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

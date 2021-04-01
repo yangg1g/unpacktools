@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Portable Network Graphics (Apple variant)</FileType>
+		<Ext>PNG</Ext>
+		<ExtraInfo>
+			<Rem>PNG bitmap with an additional Apple's special chunk of data.</Rem>
+			<RefURL>http://modmyi.com/wiki/index.php/Iphone_PNG_images</RefURL>
+		</ExtraInfo>
+		<User>Oleg</User>
+		<E-Mail>surfer56@gmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>53</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2010</Year>
+			<Month>09</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>13</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>89504E47</Bytes>
+			<ASCII> . P N G</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43674249</Bytes>
+			<ASCII> C g B I</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>49484452</Bytes>
+			<ASCII> I H D R</ASCII>
+			<Pos>28</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

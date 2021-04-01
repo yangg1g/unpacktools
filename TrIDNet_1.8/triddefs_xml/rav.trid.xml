@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Rave Reports Project</FileType>
+		<Ext>RAV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.nevrona.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>09</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>05</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5241561A</Bytes>
+			<ASCII> R A V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TRAVEPROJECTMANAGER</String>
+		<String>COMPILENEEDED</String>
+		<String>UNITSFACTOR</String>
+		<String>CATEGORIES</String>
+		<String>PARAMETERS</String>
+		<String>FULLNAME</String>
+		<String>PIVARS</String>
+	</GlobalStrings>
+</TrID>

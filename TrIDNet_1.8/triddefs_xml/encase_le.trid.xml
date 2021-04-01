@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Encase Logical Evidence</FileType>
+		<Ext>L01</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.guidancesoftware.com/</RefURL>
+		</ExtraInfo>
+		<User>Diego Marson</User>
+		<E-Mail></E-Mail>
+		<Home>http://www.yarix.com</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>05</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>29</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4C5646090D0AFF00010100000068656164657232</Bytes>
+			<ASCII> L V F . . . . . . . . . . h e a d e r 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0'0</String>
+		<String>1' '0' '1</String>
+		<String>E'N'T'R'Y</String>
+		<String>4'1'9'4'3</String>
+		<String>S'R'C'E</String>
+		<String>P'E'R'M</String>
+		<String>SECTORS</String>
+		<String>HEADER2</String>
+		<String>TABLE2</String>
+		<String>VOLUME</String>
+		<String>C'I'D</String>
+		<String>LTREE</String>
+		<String>N'T'I</String>
+		<String>O'P'R</String>
+		<String>C'F'I</String>
+		<String>R'E'C</String>
+		<String>A'D'0</String>
+		<String>S'U'B</String>
+		<String>L'P'T</String>
+		<String>M'I'D</String>
+		<String>1' '1</String>
+		<String>N'T'A</String>
+		<String>DONE</String>
+		<String>DATA</String>
+	</GlobalStrings>
+</TrID>

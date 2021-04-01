@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ZVR eBook</FileType>
+		<Ext>ZVR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>02</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2121436F6D707265737365642121</Bytes>
+			<ASCII> ! ! C o m p r e s s e d ! !</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

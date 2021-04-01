@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Xcode Developer Profile</FileType>
+		<Ext>DEVELOPERPROFILE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Xcode</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>4</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000646576656C6F7065722F6964656E7469746965732F6950686F6E652044</Bytes>
+			<ASCII> . . . d e v e l o p e r / i d e n t i t i e s / i P h o n e   D</ASCII>
+			<Pos>27</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DTDKDEVELOPERPROFILE CLOSING</String>
+		<String>.MOBILEPROVISIONPK</String>
+		<String>IPHONE DEVELOPER</String>
+		<String>G'''DEVELOPER</String>
+		<String>IDENTITIES</String>
+		<String>PROFILES</String>
+		<String>).P12PK</String>
+		<String>).P12U</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OffsetFinderTemplate>
+  <Header>
+    <FormatName>RIFF Style Header</FormatName>
+    <Author />
+  </Header>
+  <SearchParameters>
+    <SearchString>RIFF</SearchString>
+    <TreatSearchStringAsHex>false</TreatSearchStringAsHex>
+    <SearchStringOffset>0</SearchStringOffset>
+    <OutputFileExtension>.wav</OutputFileExtension>
+    <CutParameters>
+      <CutStyle>offset</CutStyle>
+      <CutSizeAtOffset>4</CutSizeAtOffset>
+      <CutSizeOffsetSize>4</CutSizeOffsetSize>
+      <CutSizeOffsetEndianess>little</CutSizeOffsetEndianess>      
+    </CutParameters>
+    <AddExtraBytes>true</AddExtraBytes>
+    <AddExtraByteSize>8</AddExtraByteSize>    
+  </SearchParameters>
+</OffsetFinderTemplate>

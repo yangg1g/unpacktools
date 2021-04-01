@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Texas Instruments TI-8x series Calculators Program</FileType>
+		<Ext>8XK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ticalc.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>37</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>11</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2A2A5449464C2A2A</Bytes>
+			<ASCII> * * T I F L * *</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>88</Bytes>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7324</Bytes>
+			<ASCII> s $</ASCII>
+			<Pos>48</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>003A30323030303030323030303046430D</Bytes>
+			<ASCII> . : 0 2 0 0 0 0 0 2 0 0 0 0 F C</ASCII>
+			<Pos>77</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

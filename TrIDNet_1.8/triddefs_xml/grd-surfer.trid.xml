@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Surfer Grid</FileType>
+		<Ext>GRD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.goldensoftware.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>1</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>56</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>44534141</Bytes>
+			<ASCII> D S A A</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

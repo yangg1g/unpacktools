@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Inspiration Software data</FileType>
+		<Ext>ISF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Inspiration_Software</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>16</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6170706C69636174696F6E2F782D696E737069726174696F6E202020204372656174656420627920736F6674776172652066726F6D20496E737069726174696F6E20536F6674776172652C20496E632E</Bytes>
+			<ASCII> a p p l i c a t i o n / x - i n s p i r a t i o n         C r e a t e d   b y   s o f t w a r e   f r o m   I n s p i r a t i o n   S o f t w a r e ,   I n c</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>24486561642424</Bytes>
+			<ASCII> $ H e a d $ $</ASCII>
+			<Pos>129</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>$$RECO$$AUDITTRA</String>
+		<String>$$RECO$$DOCUMENT</String>
+		<String>$$RECO$$FONTTABL</String>
+		<String>$$RECO$$PRINTREC</String>
+		<String>$$RECO$$METADATA</String>
+		<String>$$RECO$$NOTECTRL</String>
+		<String>$$RECO$$TEXTTABL</String>
+		<String>$$RECO$$PARAGRAP</String>
+		<String>$$RECO$$TEXTSTRI</String>
+		<String>$$RECO$$RESOURCE</String>
+		<String>$$RECO$$TOPICLEV</String>
+		<String>$$RECO$$OBJECT</String>
+		<String>ARIAL'$$RECO$$</String>
+		<String>$$RECO$$LINK</String>
+		<String>APPLICATION</String>
+		<String>MAINIDEA</String>
+		<String>INTERIM</String>
+		<String>PAGE</String>
+		<String>STXT</String>
+		<String>JFIF</String>
+	</GlobalStrings>
+</TrID>

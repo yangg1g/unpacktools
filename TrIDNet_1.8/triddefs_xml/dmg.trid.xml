@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Disk Image (Macintosh)</FileType>
+		<Ext>DMG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>11</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>23</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>78</Bytes>
+			<ASCII> x</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

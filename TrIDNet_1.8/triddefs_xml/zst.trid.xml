@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ZSNES Save State</FileType>
+		<Ext>ZST</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>47</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5A534E455320536176652053746174652046696C652056</Bytes>
+			<ASCII> Z S N E S   S a v e   S t a t e   F i l e   V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>24</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>1A</Bytes>
+			<Pos>26</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

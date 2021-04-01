@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Yahoo Chuzzle Puzzle save game</FileType>
+		<Ext>DAT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://get.games.yahoo.com/proddesc?gamekey=chuzzle</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>12</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>56</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>ADBE000005000000312E</Bytes>
+			<ASCII> . . . . . . . . 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4300</Bytes>
+			<ASCII> C</ASCII>
+			<Pos>25</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000016C400006243000000000000803F</Bytes>
+			<ASCII> . . . . . . b C . . . . . . . ?</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

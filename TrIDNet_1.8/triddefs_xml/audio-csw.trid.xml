@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Compressed Square Wave</FileType>
+		<Ext>CSW</Ext>
+		<ExtraInfo>
+			<Rem>CSW files are a way of storing sample data in a compact form.</Rem>
+			<RefURL>http://www.ramsoft.bbk.org/csw.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>12</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>52</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>436F6D707265737365642053717561726520576176651A</Bytes>
+			<ASCII> C o m p r e s s e d   S q u a r e   W a v e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

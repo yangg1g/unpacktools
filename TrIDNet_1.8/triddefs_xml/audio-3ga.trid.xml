@@ -1,0 +1,66 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mobile phone audio</FileType>
+		<Ext>3GA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>12</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>13</Min>
+			<Sec>8</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0000001866747970336770340000030033677034336770360000000877696465</Bytes>
+			<ASCII> . . . . f t y p 3 g p 4 . . . . 3 g p 4 3 g p 6 . . . . w i d e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D64617400001883F21C00001883F21C00001883F21C00001883F21C00001883F21C00001883F21C00001883F21C00001883F21C00001883F21C00001883F21C00001883F21C00001883F21C00001883F21C00001883F21C00001883F21C00001883F21C00001883F21C00001883F21C00001883F21C00001883F21C00001883F21C00001883F21C00001883F21C00001883F21C00001883F21C00001883F21C</Bytes>
+			<ASCII> m d a t</ASCII>
+			<Pos>36</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SMHD'''''''''''$DINF</String>
+		<String>-HDLR''''''''SOUN</String>
+		<String>MDIA''' MDHD</String>
+		<String>MOOV'''LMVHD</String>
+		<String>SDLNSEQ_PLAY</String>
+		<String>SOUNDHANDLER</String>
+		<String>3GP43GP6</String>
+		<String>FTYP3GP4</String>
+		<String>KMP4A</String>
+		<String>0PL$</String>
+		<String>DREF</String>
+		<String>ESDS</String>
+		<String>MDAT</String>
+		<String>MINF</String>
+		<String>STBL</String>
+		<String>STCO</String>
+		<String>STSC</String>
+		<String>STSD</String>
+		<String>STSZ</String>
+		<String>STTS</String>
+		<String>TKHD</String>
+		<String>TRAK</String>
+		<String>UDTA</String>
+		<String>WIDE</String>
+	</GlobalStrings>
+</TrID>

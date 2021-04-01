@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Common Loudspeaker Format binary (v1, Type 2)</FileType>
+		<Ext>CF2</Ext>
+		<ExtraInfo>
+			<Rem>CLF Type 2 file contains Third Octave/5 degree data.</Rem>
+			<RefURL>http://www.clfgroup.org</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>116</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>9</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>10</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>41BD0A000100000000000000000000000000000076312E30</Bytes>
+			<ASCII> A . . . . . . . . . . . . . . . . . . . v 1 . 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.COM</String>
+		<String>WWW.</String>
+	</GlobalStrings>
+</TrID>

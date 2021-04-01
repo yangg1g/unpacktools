@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XMS-Tracker module</FileType>
+		<Ext>XMS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.adlibtracker.net</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>29</FileNum>
+		<Refine>8 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>9</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>42</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D61446F4B614E3936</Bytes>
+			<ASCII> M a D o K a N 9 6</ASCII>
+			<Pos>1062</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MADOKAN96</String>
+	</GlobalStrings>
+</TrID>

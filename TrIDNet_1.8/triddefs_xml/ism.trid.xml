@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ITI SimulationX Encrypted Model</FileType>
+		<Ext>ISM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.simulationx.com</RefURL>
+		</ExtraInfo>
+		<User>TBeu</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>63</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>24</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>13E5CA16EC99247E8EB71DF6923311E7</Bytes>
+			<ASCII> . . . . . . $ ~ . . . . . 3</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>8342</Bytes>
+			<ASCII> . B</ASCII>
+			<Pos>18</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>F.T_D</String>
+		<String>EP7N</String>
+		<String>K(QG</String>
+		<String>R7+X</String>
+	</GlobalStrings>
+</TrID>
+

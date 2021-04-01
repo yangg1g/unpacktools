@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Digital Forensics XML</FileType>
+		<Ext>DFXML/XML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.forensicswiki.org/wiki/Category:Digital_Forensics_XML</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>6</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>16</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D</Bytes>
+			<ASCII> . ? x m l   v e r s i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DFXML XMLOUTPUTVERSION</String>
+		<String>EXECUTION_ENVIRONMENT</String>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>BUILD_ENVIRONMENT</String>
+		<String>CONFIGURATION</String>
+		<String>XML VERSION</String>
+		<String>START_TIME</String>
+		<String>WWW.W3.ORG</String>
+		<String>COMPILER</String>
+		<String>ELEMENTS</String>
+		<String>ENCODING</String>
+		<String>FILENAME</String>
+		<String>METADATA</String>
+		<String>PURL.ORG</String>
+		<String>CREATOR</String>
+		<String>SOURCE</String>
+		<String>XMLNS</String>
+		<String>HTTP</String>
+		<String>SIZE</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

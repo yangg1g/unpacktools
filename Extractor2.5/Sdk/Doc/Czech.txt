@@ -1,0 +1,269 @@
+
+================================================================================
+           Extractor API 1.3, Copyright (c) 1994-2003 Nova Software
+================================================================================
+
+Pomocí API programu Extractor lze vytvoøit pluginy, které budou pøidávat podporu
+nových formátù a groupfilù a umožòovat vytváøet groupfily dalších formátù.
+V adresáøi api jsou umístnìny hlavièkové soubory použitelných funkcí a struktur.
+Adresáø samples obsahuje nìkolik pøíkladù pluginù. Pøíklady jsou vytvoøeny pro
+jazyky C++ (Microsoft Visual Studio, Borland C++ Builder) a Pascal (Borland
+Delphi).
+
+Pluginy musí být umístnìny v adresáøi Plugins a jejich jména musí odpovídat
+souborové masce fmt_*.dll (formáty), grp_*.dll (groupfily) a out_*.dll
+(vytváøení groupfilù).
+Plugin se shodnou pøíponou formátu jako integrovaná podpora má vìtší prioritu,
+tj. bude použit pouze tento plugin.
+
+
+1. Zjištìní informací o pluginu
+===============================
+Knihovna musí mít exportovanou funkci GetPluginInfo, která v návratové hodnotì
+vrací ukazatel na informace (TPluginInfo) o pluginu. Pro uložení informací o
+pluginu je doporuèno použít globální promìnnou.
+
+
+* Popis funkce GetPluginInfo (prototyp TGetPluginInfoProc):
+ServiceProcs    doplòkové funkce, použitelné napø. pøi konfiguraci pluginu
+
+návratová hodnota:
+ukazatel na strukturu TPluginInfo
+
+
+* Popis struktury TPluginInfo:
+Version         verze API pluginu (doporuèeno použít konstantu API_VER)
+
+FormatType      formát souboru (výbìr z FT_xxx konstant)
+
+Ext             pøípona souboru (více pøípon je možno oddìlit èárkou)
+
+Description     popis pluginu
+
+Priority        priorita, u formátù 0 až 100 (nejvyšší), u groupfilù 0 až 2,
+                mìla by odpovídat èetnosti výskytu formátu
+
+TestProc        adresa funkce, která testuje existenci formátu,
+                pokud není zadána (NULL), je testování provádìno podle pøípon
+                souboru, u výstupních pluginù má také hodnotu NULL
+
+WorkProc        adresa funkce, která naèítá/ukládá formát nebo groupfile,
+                pøedávání informací se u naèítání formátù provádí v parametru
+                funkce, u naèítání groupfilù pomocí funkce AddFile
+
+AboutProc       adresa informaèní funkce pluginu, není vyžadována (NULL)
+
+ConfigProc      adresa konfiguraèní funkce pluginu, není vyžadována (NULL)
+
+
+2. Testování formátu nebo groupfilu
+===================================
+Funkce Test je volána, aby urèila zda se na aktuální pozici nachází formát nebo
+groupfile. Funkci je pøedána adresa bufferu, z jehož obsahu se detekuje
+pøíslušný formát nebo groupfile. Pro detekci je možno použít funkci Compare
+nebo v pøípadì jazyka C také makro COMPARE,
+které zjistí, zda se na zadané adrese nachází uvedený øetìzec.
+
+
+* Popis funkce TestProc (prototyp TTestProc):
+Buf             adresa bufferu,
+                minimální velikost bufferu je 128B, maximální velikost platných
+                dat v bufferu není pøedávána, na rychlosti provedení funkce
+                silnì závisí rychlost hledání
+
+návratová hodnota:
+0 (False)       formát nebo groupfile nebyl detekován
+!= 0 (True)     formát nebo groupfile byl detekován
+
+
+* Popis funkce Compare:
+buf             adresa bufferu
+
+s               testovaný øetìzec
+
+len             délka testovaného øetìzce
+
+pos             posun testování od zaèátku bufferu
+
+návratová hodnota:
+0 (False)       øetìzec nebyl nalezen
+!= 0 (True)     øetìzec byl nalezen
+
+Makro COMPARE má shodné paramentry, navíc obsahuje pøíkaz return.
+
+
+3. Naètení informací
+====================
+3.1 Formát
+----------
+Funkce WorkProc s prototypem TLoadFormatProc slouží k naètení informací o
+formátu. Zjištìné informace jsou vráceny prostøednictvím parametru typu
+TLoadFormatParams.
+
+
+* Popis funkce WorkProc (prototyp TLoadFormatProc):
+Params          parametry pro nalezení souboru
+
+návratová hodnota:
+0 (False)       informace o souboru nebyly úspìšnì naèteny nebo se nejedná o
+                detekovaný soubor (planý poplach)
+!= 0 (True)     informace o souboru byly úspìšnì naèteny
+
+
+* Popis struktury TLoadFormatParams:
+vstupní parametry:
+FileHandle      handle prohledávaného souboru,
+                pozice souboru je automaticky pøednastavena na hodnotu
+                FileStartPos
+
+SourceFileSize  velikost prohledávaného souboru
+
+FileStartPos    výchozí pozice v prohledávaném souboru
+
+výstupní parametry:
+FileSize        velikost nalezeného souboru
+
+FileExt         pøípona nalezeného souboru,
+                pøíponu lze zkopírovat na pøedávanou adresu (vyhrazeno 256B)
+                nebo priøadit promìnné adresu øetìzcové konstanty èi globální
+                promìnné, nepøiøazovat výraz nebo lokální promìnnou, která je
+                uložena v zásobníku !!!
+
+FileInfo        informace o nalezeném souboru,
+                vyhrazeno je 4096B, o pøiøazování platí totéž co u pøedchozího
+                parametru FileExt
+
+3.2 Groupfile
+-------------
+Funkce WorkProc s prototypem TLoadGroupfileProc slouží k naètení informací
+o souborech uvnitø groupfilu. Zjištìné informace o souborech jsou pøedávány
+prostøednictvím funkce AddFile.
+
+
+* Popis funkce WorkProc (prototyp TLoadGroupfileProc):
+Params          parametry pro nalezení souborù
+
+návratová hodnota:
+0 (False)       nastala chyba pøi naèítání informací o souborech
+!= 0 (True)     všechny informace o souborech byly úspìšnì naèteny
+
+
+* Popis struktury TLoadGroupfileParams:
+vstupní parametry:
+FileHandle      handle prohledávaného souboru,
+                pozice souboru je vždy automaticky pøednastavena na hodnotu 0
+
+FileName        jméno zdrojového souboru
+
+Stop            pøíznak udávající pøíkaz k ukonèení prohledávání souboru
+
+výstupní parametry:
+FileDone        promìnná udávající poèet zpracovaných bytù souboru,
+                slouží pro informativní úèely
+
+AddFile         funkce, pomocí níž se pøedávají informace o nalezeném souboru
+                Extractoru
+
+ShowStatus      funkce, která obnoví informace o prohledávání souboru,
+
+
+* Popis funkce AddFile:
+Source          ukazatel na název zdrojového souboru,
+                promìnné se pøiøazuje ukazatel na název souboru, vìtšinou
+                vstupní parametr FileName
+
+Pos             pozice nalezeného souboru ve zdrojovém souboru
+
+Size            velikost nalezeného souboru
+
+Info            informace o nalezeném souboru,
+                lze uvést ukazatel na informace o nalezeném souboru
+
+Flag            pøíznak souboru,
+                pro interní použití, nastavovat na 0
+
+návratová hodnota:
+0 (False)       pøidání souboru do seznamu neprobìhlo v poøádku, hledání je
+                nutné ukonèit
+!= 0 (True)     pøidání souboru do seznamu probìhlo v poøádku
+
+
+4. Vytvoøení groupfilu
+======================
+Funkce WorkProc s prototypem TSaveGroupfileProc slouží k uložení souborù
+do groupfilu. K uložení souborù je možno použít funkci ExtractFile.
+
+
+* Popis funkce WorkProc (prototyp TSaveGroupfileProc):
+Params          parametry pro nalezení souborù
+
+návratová hodnota:
+0 (False)       nastala chyba pøi vytváøení groupfilu nebo bylo vytváøení
+                groupfilu pøerušeno (chybová zpráva se nezobrazí)
+!= 0 (True)     groupfile byl úspìšnì vytvoøen
+
+
+* Popis struktury TSaveGroupfileParams:
+vstupní parametry:
+FileHandle      handle vytváøeného souboru,
+                pozice souboru je vždy automaticky pøednastavena na hodnotu 0
+
+FileName        jméno vytváøeného souboru
+
+Count           poèet souborù pro uložení do groupfilu
+
+Stop            pøíznak udávající pøíkaz k ukonèení prohledávání souboru
+
+výstupní parametry:
+FileDone        promìnná udávající poèet zpracovaných bytù souboru,
+                slouží pro informativní úèely
+
+GetFile         funkce vracející informace o daném souboru ze seznamu ukládaných
+                souborù
+
+ExtractFile     funkce, která uloží soubor ze seznamu do vytváøeného groupfilu
+
+SetInfo         informaèní funkce
+
+ShowStatus      funkce, která obnoví informace o prohledávání souboru,
+
+
+* Popis funkce GetFile:
+Index           index souboru ze seznamu ukládaných souborù
+
+návratová hodnota:
+adresa struktury GetFileInfo
+
+
+* Popis funkce ExtractFile:
+Index           index souboru ze seznamu ukládaných souborù
+Pos             pozice ve souboru groupfilu, na kterou se má daný soubor uložit
+
+návratová hodnota:
+0 (False)       nastala chyba pøi ukládání souboru
+!= 0 (True)     soubor byl úspìšnì uložen nebo bylo ukládání souboru pøerušeno,
+                v tom pøípadì je nastavena hodnota parametru Stop na True 
+
+* Popis funkce SetInfo:
+Info           informaèní øetìzec, doporuèeno pøedávat jméno aktuálnì
+               zpracovávaného souboru
+
+
+5. O pluginu
+============
+Pro zobrazení informací o pluginu slouží funkce AboutProc. Funkce je volána pøi
+stisknutí tlaèítka O pluginu.
+
+
+* Popis funkce AboutProc (prototyp TAboutProc):
+Handle          handle hlavního okna programu Extractor
+
+
+6. Konfigurace pluginu
+======================
+Pro konfiguraci pluginu slouží funkce ConfigProc. Funkce je volána pøi
+stisknutí tlaèítka Nastavení. Pro ukládání nastavení pluginu je možno použít
+sadu funkcí, které jsou pøedávané pøi volání funkce GetPluginInfo. 
+
+* Popis funkce ConfigProc (prototyp TConfigProc):
+Handle          handle hlavního okna programu Extractor

@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Corel World Perfect Graphic</FileType>
+		<Ext>WPG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>www.corel.com</RefURL>
+		</ExtraInfo>
+		<User>Paresh Modi</User>
+		<E-Mail>info@softpal.com</E-Mail>
+		<Home>www.softpal.com</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>04</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>35</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FF5750431A000000011602000000000003000000</Bytes>
+			<ASCII> . W P C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000040104FF00801700E803E8030000000000</Bytes>
+			<Pos>23</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000</Bytes>
+			<Pos>47</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000033500FF008002000000033100FF0080050000FFFFFF00033300FF0080040000000000030300FF008011003421F82A00000000000000000000000000043100FF0080050000</Bytes>
+			<ASCII> . . . 5 . . . . . . . . . 1 . . . . . . . . . . . . 3 . . . . . . . . . . . . . . . . . . 4 ! . * . . . . . . . . . . . . . . 1</ASCII>
+			<Pos>55</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0004</Bytes>
+			<Pos>129</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FF0080</Bytes>
+			<Pos>133</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>137</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

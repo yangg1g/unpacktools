@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>The Witcher save game</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>08</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>47</Min>
+			<Sec>54</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52474D48</Bytes>
+			<ASCII> R G M H</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4C0069006700680074006E0069006E0067002000530074006F0072006D</Bytes>
+			<ASCII> L . i . g . h . t . n . i . n . g .   . S . t . o . r . m</ASCII>
+			<Pos>40</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

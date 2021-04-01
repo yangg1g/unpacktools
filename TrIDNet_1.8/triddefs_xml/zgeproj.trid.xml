@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ZGameEditor project</FileType>
+		<Ext>ZGEPROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.zgameeditor.org</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>02</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D2269736F2D383835392D3122203F3E0D0A3C5A4170706C69636174696F6E204E616D653D22417070222043617074696F6E3D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " i s o - 8 8 5 9 - 1 "   ? . . . . Z A p p l i c a t i o n   N a m e = " A p p "   C a p t i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ZAPPLICATION NAME</String>
+		<String>XML VERSION</String>
+		<String>ISO-8859-1</String>
+		<String>ENCODING</String>
+		<String>CAPTION</String>
+	</GlobalStrings>
+</TrID>

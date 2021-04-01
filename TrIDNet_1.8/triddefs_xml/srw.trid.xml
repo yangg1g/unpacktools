@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Samsung Raw image</FileType>
+		<Ext>SRW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>6</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>4</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D4D002A000000080006010F0002000000</Bytes>
+			<ASCII> M M . *</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000005601100002000000</Bytes>
+			<ASCII> . . . V</ASCII>
+			<Pos>18</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>53414D53554E47</Bytes>
+			<ASCII> S A M S U N G</ASCII>
+			<Pos>86</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SAMSUNG</String>
+		<String>$3BR</String>
+		<String>MM'*</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows DVD Maker project</FileType>
+		<Ext>MSDVD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/windows/products/windowsvista/features/details/dvdmaker.mspx</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>22</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C4275726E57697A6172643E3C436F6E74656E743E3C436F6E74656E7446696C652046696C656E616D653D22</Bytes>
+			<ASCII> . B u r n W i z a r d . . C o n t e n t . . C o n t e n t F i l e   F i l e n a m e = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONTENTFILE FILENAME</String>
+		<String>SLIDESHOW TRANSITION</String>
+		<String>SCENEBUTTONNAME</String>
+		<String>BACKGROUNDVIDEO</String>
+		<String>BUTTON PLAY</String>
+		<String>INSETVIDEO</String>
+		<String>BURNWIZARD</String>
+		<String>MATCHMUSIC</String>
+		<String>MENUAUDIO</String>
+		<String>FONT NAME</String>
+		<String>PANZOOM</String>
+		<String>LENGTH</String>
+		<String>SCENES</String>
+		<String>ITALIC</String>
+		<String>COLOR</String>
+		<String>NOTES</String>
+		<String>STYLE</String>
+		<String>TITLE</String>
+		<String>BOLD</String>
+	</GlobalStrings>
+</TrID>

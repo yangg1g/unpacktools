@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Hexagon model</FileType>
+		<Ext>HXN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Hexagon_(software)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>3</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>5</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>48455841000000CD494E464F20202020000000000000000000000000000000004C415945525532200000001000000002006C0030</Bytes>
+			<ASCII> H E X A . . . . I N F O         . . . . . . . . . . . . . . . . L A Y E R U 2   . . . . . . . . . l . 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>D'E'F'_'S'U'R'F'_'M'A'T</String>
+		<String>BEGPARA2</String>
+		<String>ENDMEMOS</String>
+		<String>ENDPARAM</String>
+		<String>ENDSHAPE</String>
+		<String>ENDSUBSE</String>
+		<String>FACESUVI</String>
+		<String>LAYERNUM</String>
+		<String>MATITEU2</String>
+		<String>SYMCACH2</String>
+		<String>TRANSFOR</String>
+		<String>INSTIND</String>
+		<String>LAYERU2</String>
+		<String>MEMOSEL</String>
+		<String>SHAPEU2</String>
+		<String>LINKID</String>
+		<String>SUBSEL</String>
+		<String>MATID</String>
+		<String>VIEW2</String>
+		<String>HEXA</String>
+		<String>INFO</String>
+	</GlobalStrings>
+</TrID>

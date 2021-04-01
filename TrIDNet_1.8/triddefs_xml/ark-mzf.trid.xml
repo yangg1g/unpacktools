@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>MediaZip compressed archive</FileType>
+        <Ext>MZF</Ext>
+        <ExtraInfo>
+            <Rem>MediaZip is a Windows program that performs lossless compression/decompression and manages archives of media files (Sound and Picture)</Rem>
+            <RefURL>http://futalgo.planetaclix.pt/mediazip/index.htm</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>10</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>12</Month>
+            <Day>12</Day>
+        </Date>
+        <Time>
+            <Hour>16</Hour>
+            <Min>21</Min>
+            <Sec>16</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>004D5A4641</Bytes>
+            <ASCII> . M Z F A</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

@@ -1,0 +1,71 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Comic Book Creator document (Unicode)</FileType>
+		<Ext>CBCX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mycomicbookcreator.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>11</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>38</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3C003F0078006D006C002000</Bytes>
+			<ASCII> . . . . ? . x . m . l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>C'O'M'I'C' 'B'O'O'K' 'C'R</String>
+		<String>C'O'N'T'E'N'T' 'P'A'C'K'S</String>
+		<String>L'A'S'T'M'O'D'I'F'I'E'D</String>
+		<String>B'O'R'D'E'R' 'C'O'L'O'R</String>
+		<String>X'M'L' 'V'E'R'S'I'O'N</String>
+		<String>B'A'L'L'O'O'N' 'I'D</String>
+		<String>B'I'T'M'A'P'F'I'L'E</String>
+		<String>B'O'D'Y'P'O'I'N'T</String>
+		<String>T'E'X'T' 'T'Y'P'E</String>
+		<String>P'A'P'E'R'S'I'Z'E</String>
+		<String>C'O'M'M'E'N'T'S</String>
+		<String>K'E'Y'W'O'R'D'S</String>
+		<String>P'O'S'I'T'I'O'N</String>
+		<String>B'O'O'K' 'I'D</String>
+		<String>D'O'C'T'Y'P'E</String>
+		<String>C'R'E'A'T'E'D</String>
+		<String>C'B'C'.'D'T'D</String>
+		<String>P'A'G'E' 'I'D</String>
+		<String>M'A'R'G'I'N</String>
+		<String>M'E'T'R'I'C</String>
+		<String>S'Y'S'T'E'M</String>
+		<String>A'U'T'H'O'R</String>
+		<String>F'O'R'M'A'T</String>
+		<String>O'F'F'S'E'T</String>
+		<String>C'B'C'V'E'R</String>
+		<String>P'A'N'E'L</String>
+		<String>T'I'T'L'E</String>
+		<String>S'T'Y'L'E</String>
+		<String>W'I'D'T'H</String>
+		<String>N'A'M'E</String>
+		<String>B'A'C'K</String>
+		<String>P'A'T'H</String>
+		<String>L'A'N'G</String>
+	</GlobalStrings>
+</TrID>

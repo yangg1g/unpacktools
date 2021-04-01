@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Civilization V saved game</FileType>
+		<Ext>CIV5SAVE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Civilization_V</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2014</Year>
+			<Month>1</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>57</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>43495635</Bytes>
+			<ASCII> C I V 5</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>0'''1'''2'''3'''4'''5'''6'''7'''8'''9</String>
+		<String>TXT_KEY_CLIMATE_TEMPERATE</String>
+		<String>TXT_KEY_SEALEVEL_MEDIUM</String>
+		<String>TXT_KEY_TURNTIMER_</String>
+		<String>TXT_KEY_WORLD_</String>
+		<String>CIVILIZATION_</String>
+		<String>FINAL_RELEASE</String>
+		<String>PLAYERCOLOR_</String>
+		<String>GAMESPEED_</String>
+		<String>WORLDSIZE_</String>
+		<String>HANDICAP_</String>
+		<String>_HELP</String>
+		<String>CIV5</String>
+		<String>ERA_</String>
+	</GlobalStrings>
+</TrID>

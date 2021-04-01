@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OffsetFinderTemplate>
+  <Header>
+    <FormatName>Nintendo Wii - RBNK Files</FormatName>
+    <Author>bxaimc</Author>
+  </Header>
+  <SearchParameters>
+    <SearchString>52424E4BFE</SearchString>
+    <TreatSearchStringAsHex>true</TreatSearchStringAsHex>
+    <SearchStringOffset>0</SearchStringOffset>
+    <OutputFileExtension>.rbnk</OutputFileExtension>
+    <CutParameters>
+      <CutStyle>offset</CutStyle>
+      <CutSizeAtOffset>8</CutSizeAtOffset>
+      <CutSizeOffsetSize>4</CutSizeOffsetSize>
+      <CutSizeOffsetEndianess>big</CutSizeOffsetEndianess>      
+    </CutParameters>
+    <AddExtraBytes>false</AddExtraBytes>
+  </SearchParameters>
+  <NotesOrWarnings>Note: For use with archives such as .brsar.</NotesOrWarnings>
+</OffsetFinderTemplate>

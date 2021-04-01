@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Infinity Engine Talk Table (v1)</FileType>
+		<Ext>TLK</Ext>
+		<ExtraInfo>
+			<Rem>Infinity Engine TLK files are tables in which strings and sounds are looked up by strref.</Rem>
+			<RefURL>http://iesdp.gibberlings3.net/file_formats/ie_formats/tlk_v1.htm</RefURL>
+		</ExtraInfo>
+		<User>Sam.</User>
+		<E-Mail>sampsca@yahoo.com</E-Mail>
+		<Home>http://www.shsforums.net/user/10485-sam/</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>2</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>5</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>544C4B2056312020</Bytes>
+			<ASCII> T L K   V 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

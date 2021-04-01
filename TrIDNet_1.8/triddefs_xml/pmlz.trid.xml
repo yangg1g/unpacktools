@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Zipped Palm Markup Language ebook</FileType>
+		<Ext>PMLZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ereader.com/ereader/help/dropbook/pml.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>9</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>5</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0009000000696E6465782E706D6C</Bytes>
+			<ASCII> . . . . . i n d e x . p m l</ASCII>
+			<Pos>25</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>INDEX.PMLPK</String>
+		<String>INDEX_IMG</String>
+	</GlobalStrings>
+</TrID>

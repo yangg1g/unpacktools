@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Enter a useful file type description</FileType>
+		<Ext>DWC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>40</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0E</Bytes>
+			<Pos>432</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>EB</Bytes>
+			<Pos>767</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>1D</Bytes>
+			<Pos>988</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>67</Bytes>
+			<ASCII> g</ASCII>
+			<Pos>1020</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>AC</Bytes>
+			<Pos>1126</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>F3</Bytes>
+			<Pos>1310</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>08</Bytes>
+			<Pos>1669</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DWC.</String>
+	</GlobalStrings>
+</TrID>

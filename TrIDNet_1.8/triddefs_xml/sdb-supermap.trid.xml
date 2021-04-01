@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SuperMap World - AvisMap GIS Data Base</FileType>
+		<Ext>SDB</Ext>
+		<ExtraInfo>
+			<Rem>SMMD (SuperMap MetaData) files are a core component of several GIS datasets</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/SuperMap</RefURL>
+		</ExtraInfo>
+		<User>Kieran O'Donnell</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>39</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>838377832CA631010020000000000000</Bytes>
+			<ASCII> . . w . , . 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000010000000000000000000000000000000000000000000000000000000000</Bytes>
+			<Pos>18</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DESCRIPTION</String>
+		<String>D'A'T'A'S'E'T'V'E'C'T'O'R'P'R'O'J'E'C'T'I'O'N</String>
+		<String>D'A'T'A'S'E'T'S</String>
+		<String>M'E'T'A'D'A'T'A</String>
+		<String>S'D'B'I'N'F'O</String>
+		<String>SMSIO</String>
+		<String>SMINO</String>
+		<String>SMDI</String>
+		<String>SMMD</String>
+	</GlobalStrings>
+</TrID>

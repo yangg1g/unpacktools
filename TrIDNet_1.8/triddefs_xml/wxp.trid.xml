@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EXP document</FileType>
+		<Ext>WXP</Ext>
+		<ExtraInfo>
+			<Rem>EXP is scientific word processor for Microsoft Windows.</Rem>
+			<RefURL>http://www.expswp.com/AboutEXP.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>05</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>37</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>534C531A</Bytes>
+			<ASCII> S L S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DEFAULT PARAGRAPH FONT</String>
+		<String>USEPACKAGE{EXPTHMI}</String>
+		<String>AUTHOR{}</String>
+		<String>ARTICLE</String>
+		<String>TITLE{}</String>
+		<String>NORMAL</String>
+		<String>DATE{}</String>
+		<String>TEXT</String>
+		<String>FOOT</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Basic 7.x compiled library</FileType>
+		<Ext>LIB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>46</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>01</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>06</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>F00D0000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>6</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>B$SA</String>
+		<String>B$SEG</String>
+		<String>CODE</String>
+		<String>DGROUP</String>
+		<String>_DATA</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,66 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Encrypted Structured Storage Object</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem>A Microsoft generic encrypted storage system used for example in Microsoft Office.</Rem>
+			<RefURL>http://www.microsoft.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>35</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>32</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E007400720079</Bytes>
+			<ASCII> R . o . o . t .   . E . n . t . r . y</ASCII>
+			<Pos>1024</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>45006E006300720079007000740069006F006E0049006E0066006F</Bytes>
+			<ASCII> E . n . c . r . y . p . t . i . o . n . I . n . f . o</ASCII>
+			<Pos>1152</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>45006E0063007200790070007400650064005000610063006B006100670065</Bytes>
+			<ASCII> E . n . c . r . y . p . t . e . d . P . a . c . k . a . g . e</ASCII>
+			<Pos>1280</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>44006100740061005300700061006300650073</Bytes>
+			<ASCII> D . a . t . a . S . p . a . c . e . s</ASCII>
+			<Pos>1410</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>{'F'F'9'A'3'F'0'3'-'5'6'E'F'-'4'6'1'3'-'B'D'D'5'-'5'A'4'1'C'1'D'0'7'2'4'6'}'N'''M'I'C'R'O'S'O'F'T'.'C'O'N'T'A'I'N'E'R'.'E'N'C'R'Y'P'T'I'O'N'T'R'A'N'S'F'O'R'M</String>
+		<String>M'I'C'R'O'S'O'F'T' 'E'N'H'A'N'C'E'D' 'R'S'A' 'A'N'D' 'A'E'S' 'C'R'Y'P'T'O'G'R'A'P'H'I'C' 'P'R'O'V'I'D'E'R' '('P'R'O'T'O'T'Y'P'E')</String>
+		<String>E'N'C'R'Y'P'T'E'D'P'A'C'K'A'G'E'2'''S'T'R'O'N'G'E'N'C'R'Y'P'T'I'O'N'D'A'T'A'S'P'A'C'E'''''''''''''''''''V'E'R'S'I'O'N</String>
+		<String>M'I'C'R'O'S'O'F'T'.'C'O'N'T'A'I'N'E'R'.'D'A'T'A'S'P'A'C'E'S</String>
+		<String>S'T'R'O'N'G'E'N'C'R'Y'P'T'I'O'N'T'R'A'N'S'F'O'R'M</String>
+		<String>E'N'C'R'Y'P'T'I'O'N'I'N'F'O</String>
+		<String>T'R'A'N'S'F'O'R'M'I'N'F'O</String>
+		<String>D'A'T'A'S'P'A'C'E'I'N'F'O</String>
+		<String>D'A'T'A'S'P'A'C'E'M'A'P</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>P'R'I'M'A'R'Y</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,36 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Personal Ancestral File</FileType>
+		<Ext>PAF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.familysearch.org/eng/paf/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>52</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3530300035303000504146</Bytes>
+			<ASCII> 5 0 0 . 5 0 0 . P A F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>IANCESTR</String>
+	</GlobalStrings>
+</TrID>

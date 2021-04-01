@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MMDC Music</FileType>
+		<Ext>MMDC</Ext>
+		<ExtraInfo>
+			<Rem>Module packer created by Tony Crowther.</Rem>
+			<RefURL>http://exotica.fix.no/tunes/unexotica/formats/MMDC.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>47</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D4D444300</Bytes>
+			<ASCII> M M D C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4040404040404040404040404040404040</Bytes>
+			<ASCII> @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @</ASCII>
+			<Pos>822</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

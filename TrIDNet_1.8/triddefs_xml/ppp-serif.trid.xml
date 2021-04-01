@@ -1,0 +1,62 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Serif PagePlus Publication</FileType>
+		<Ext>PPP</Ext>
+		<ExtraInfo>
+			<Rem>Serif PagePlus is a Desk Top Publishing software.</Rem>
+			<RefURL>http://www.serif.com/pageplus</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>04</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>07</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E007400720079</Bytes>
+			<ASCII> R . o . o . t .   . E . n . t . r . y</ASCII>
+			<Pos>1024</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5300690067006E00610074007500720065</Bytes>
+			<ASCII> S . i . g . n . a . t . u . r . e</ASCII>
+			<Pos>1152</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>530075006D006D0061007200790049006E0066006F0072006D006100740069006F006E</Bytes>
+			<ASCII> S . u . m . m . a . r . y . I . n . f . o . r . m . a . t . i . o . n</ASCII>
+			<Pos>1282</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>530043004600460050007200650076006900650077</Bytes>
+			<ASCII> S . C . F . F . P . r . e . v . i . e . w</ASCII>
+			<Pos>1408</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>S'C'F'F'P'R'E'V'I'E'W</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>S'I'G'N'A'T'U'R'E</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>COMPRESSIONFILE</String>
+		<String>SERIF PAGEPLUS</String>
+	</GlobalStrings>
+</TrID>

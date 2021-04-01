@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Nintendo ARChive</FileType>
+		<Ext>NARC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://tinyurl.com/yvjv8x</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>19</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4E415243</Bytes>
+			<ASCII> N A R C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4254</Bytes>
+			<ASCII> B T</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

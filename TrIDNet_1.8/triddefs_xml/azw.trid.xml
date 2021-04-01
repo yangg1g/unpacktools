@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Amazon Kindle eBook</FileType>
+		<Ext>AZW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Amazon_Kindle</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>44</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>424F4F4B4D4F4249</Bytes>
+			<ASCII> B O O K M O B I</ASCII>
+			<Pos>60</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BOOKMOBI</String>
+		<String>ONTENT</String>
+		<String>FEREN</String>
+		<String>GUIDE</String>
+		<String>TABLE</String>
+		<String>BODY</String>
+		<String>ENCE</String>
+		<String>ENTS</String>
+		<String>EPOS</String>
+		<String>HEAD</String>
+		<String>HTML</String>
+	</GlobalStrings>
+</TrID>

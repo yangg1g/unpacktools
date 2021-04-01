@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>File-Type Image</FileType>
+		<Ext>FTI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>04</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>07</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23</Bytes>
+			<ASCII> #</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BGNOUTLINEPOLYGON(</String>
+		<String>ENDOUTLINEPOLYGON(</String>
+		<String>VERTEX(</String>
+		<String>COLOR(</String>
+	</GlobalStrings>
+</TrID>

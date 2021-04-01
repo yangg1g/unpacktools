@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DeskMate worksheet</FileType>
+		<Ext>WKS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Deskmate</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>22</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0E574B53</Bytes>
+			<ASCII> . W K S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

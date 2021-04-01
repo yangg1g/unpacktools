@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Telemate compiled script</FileType>
+		<Ext>TMS</Ext>
+		<ExtraInfo>
+			<Rem>Telemate is a DOS communication program (used for example for accessing a BBS using a modem).</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>04</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>45</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>544D53637269707420</Bytes>
+			<ASCII> T M S c r i p t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>10</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>1A</Bytes>
+			<Pos>13</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

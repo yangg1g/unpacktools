@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Targa bitmap (Original TGA Format)</FileType>
+        <Ext>TGA</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home></Home>
+    </Info>
+    <General>
+        <FileNum>333</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>24</Day>
+        </Date>
+        <Time>
+            <Hour>22</Hour>
+            <Min>38</Min>
+            <Sec>31</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>000000</Bytes>
+            <Pos>3</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00000000</Bytes>
+            <Pos>8</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

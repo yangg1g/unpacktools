@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>KOMPAS Drawing</FileType>
+		<Ext>CDW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>1</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>0</Hour>
+			<Min>49</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4B46</Bytes>
+			<ASCII> K F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GOST TYPE A</String>
+		<String>GRAPHIC.LYT</String>
+		<String>_DI_D</String>
+		<String>_KD_I</String>
+	</GlobalStrings>
+</TrID>

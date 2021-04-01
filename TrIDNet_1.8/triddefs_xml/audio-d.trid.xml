@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SPPACK sampled data audio</FileType>
+		<Ext>D</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www-mmsp.ece.mcgill.ca/Documents/AudioFormats/SPPACK/SPPACK.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>57</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>40C3FC0E</Bytes>
+			<ASCII> @</ASCII>
+			<Pos>252</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

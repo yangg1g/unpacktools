@@ -1,0 +1,64 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Visual Studio Visual C++ Project</FileType>
+		<Ext>VCXPROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/visualstudio/</RefURL>
+		</ExtraInfo>
+		<User>Ryan Jones</User>
+		<E-Mail>sciguyryan@gmail.com</E-Mail>
+		<Home>http://ccc-cymru.com/</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>05</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>00</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MICROSOFT.CPP.$(PLATFORM).USER.PROPS</String>
+		<String>PROJECTCONFIGURATION INCLUDE</String>
+		<String>PREPROCESSORDEFINITIONS)</String>
+		<String>PROPERTYGROUP CONDITION</String>
+		<String>PROJECT DEFAULTTARGETS</String>
+		<String>PROJECTCONFIGURATIONS</String>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>ITEMDEFINITIONGROUP</String>
+		<String>PROPERTYGROUP LABEL</String>
+		<String>CONFIGURATIONTYPE</String>
+		<String>IMPORTGROUP LABEL</String>
+		<String>EXTENSIONSETTINGS</String>
+		<String>CLCOMPILE INCLUDE</String>
+		<String>EXTENSIONTARGETS</String>
+		<String>$(VCTARGETSPATH)</String>
+		<String>$(CONFIGURATION)</String>
+		<String>ITEMGROUP LABEL</String>
+		<String>PROPERTYSHEETS</String>
+		<String>IMPORT PROJECT</String>
+		<String>LOCALAPPDATA</String>
+		<String>TOOLSVERSION</String>
+		<String>PROJECTGUID</String>
+		<String>R CONDITION</String>
+		<String>USERMACROS</String>
+		<String>DEVELOPER</String>
+		<String>WIN32</String>
+		<String>DIR)</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>UC Browser Theme</FileType>
+		<Ext>UCT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/UC_Browser</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>8</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>15</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0000FCBC000000010000000100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TEXTSOFTWARE'ADOBE IMAGEREADYQ</String>
+		<String>IHDR'''.'''.</String>
+		<String>LOCALE-1033</String>
+		<String>14345</String>
+		<String>16393</String>
+		<String>IDATX</String>
+		<String>1049</String>
+		<String>1057</String>
+		<String>1066</String>
+		<String>2052</String>
+		<String>IEND</String>
+		<String>PLTE</String>
+	</GlobalStrings>
+</TrID>

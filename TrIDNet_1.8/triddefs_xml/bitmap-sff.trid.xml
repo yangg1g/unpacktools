@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Structured Fax Format bitmap</FileType>
+        <Ext>SFF</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://delphi.pjh2.de/articles/graphic/sff_format.php</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>12</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>18</Day>
+        </Date>
+        <Time>
+            <Hour>15</Hour>
+            <Min>53</Min>
+            <Sec>41</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>53666666</Bytes>
+            <ASCII> S f f f</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

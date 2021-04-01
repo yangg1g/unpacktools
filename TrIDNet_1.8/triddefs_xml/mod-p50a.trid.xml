@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>The Player 5.0a module</FileType>
+		<Ext>P50</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.amiga-stuff.com/modpackers-download.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>32</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50353041</Bytes>
+			<ASCII> P 5 0 A</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

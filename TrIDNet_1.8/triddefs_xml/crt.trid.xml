@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Security Certificate</FileType>
+		<Ext>CRT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>11</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>42616720417474726962757465730A</Bytes>
+			<ASCII> B a g   A t t r i b u t e s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>-----BEGIN CERTIFICATE-----</String>
+		<String>-----END CERTIFICATE-----</String>
+		<String>BAG ATTRIBUTES</String>
+		<String>FRIENDLYNAME</String>
+		<String>LOCALKEYID</String>
+		<String>SUBJECT</String>
+		<String>ISSUER</String>
+		<String>EMAIL</String>
+	</GlobalStrings>
+</TrID>

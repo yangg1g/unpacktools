@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Corel Movie animation</FileType>
+		<Ext>CMV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>05</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>54</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52494646EC</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>636D6F7644495350</Bytes>
+			<ASCII> c m o v D I S P</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

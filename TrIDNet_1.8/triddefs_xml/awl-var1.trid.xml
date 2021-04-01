@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AWL programming language (Var. 1)</FileType>
+		<Ext>AWL</Ext>
+		<ExtraInfo>
+			<Rem>Used for PLC programming.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>46</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4F5247414E495A4154494F4E5F424C4F434B205052494E434950414C3A</Bytes>
+			<ASCII> O R G A N I Z A T I O N _ B L O C K   P R I N C I P A L :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>END_ORGANIZATION_BLOCK</String>
+		<String>NETWORK</String>
+		<String>BEGIN</String>
+		<String>TITLE</String>
+	</GlobalStrings>
+</TrID>

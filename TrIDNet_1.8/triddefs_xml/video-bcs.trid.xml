@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>BCS Video</FileType>
+        <Ext>BCS</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://home20.inet.tele.dk/hexmaster/bcs/tech_ref.htm</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>3</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>29</Day>
+        </Date>
+        <Time>
+            <Hour>20</Hour>
+            <Min>59</Min>
+            <Sec>55</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>42435341</Bytes>
+            <ASCII> B C S A</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

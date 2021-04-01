@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ProvideX Report</FileType>
+		<Ext>RPT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pvx.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>06</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>35</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B5076787270745D0D0A557365723D</Bytes>
+			<ASCII> [ P v x r p t ] . . U s e r =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CREATED</String>
+		<String>PVXRPT</String>
+		<String>REPORT</String>
+		<String>JSPICK</String>
+		<String>JSGRO</String>
+		<String>JSCOM</String>
+		<String>JSDE</String>
+		<String>USER</String>
+	</GlobalStrings>
+</TrID>

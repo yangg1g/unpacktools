@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Sonarc compressed VOC audio</FileType>
+        <Ext>VC</Ext>
+        <ExtraInfo>
+            <Rem>A lossless compressor from 1994!</Rem>
+            <RefURL>http://www.rjamorim.com/rrw/sonarc.html</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>6</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>25</Day>
+        </Date>
+        <Time>
+            <Hour>18</Hour>
+            <Min>38</Min>
+            <Sec>31</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>536F6E6172632D73717565657A656420564F43</Bytes>
+            <ASCII> S o n a r c - s q u e e z e d   V O C</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

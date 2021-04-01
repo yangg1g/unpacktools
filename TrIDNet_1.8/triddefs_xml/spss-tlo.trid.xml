@@ -1,0 +1,43 @@
+<TrID ver="1.16">
+    <Info>
+        <FileType>SPSS Table Look</FileType>
+        <Ext>TLO</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.spss.com/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>52</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>22</Day>
+        </Date>
+        <Time>
+            <Hour>23</Hour>
+            <Min>21</Min>
+            <Sec>57</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00.1</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>FFFF00000B0050545461626C654C6F6F6B00</Bytes>
+            <ASCII> . . . . . . P T T a b l e L o o k</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>000000</Bytes>
+            <Pos>19</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000003600000012000000FFFF000010005056536570617261746F725374796C6500</Bytes>
+            <ASCII> . . . 6 . . . . . . . . . . . . . P V S e p a r a t o r S t y l e</ASCII>
+            <Pos>23</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

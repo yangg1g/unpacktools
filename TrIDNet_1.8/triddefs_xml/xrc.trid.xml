@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>wxWindows - wxPython Resource</FileType>
+		<Ext>XRC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.wxwindows.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<Refine>11 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>13</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>OBJECT CLASS</String>
+		<String>RESOURCE</String>
+		<String>NAME</String>
+		<String>SIZE</String>
+		<String>TEXT</String>
+	</GlobalStrings>
+</TrID>

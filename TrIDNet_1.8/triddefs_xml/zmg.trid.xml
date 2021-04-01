@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Novell ZENworks Desktop Management image</FileType>
+		<Ext>ZMG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.novell.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>04</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>26</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>AA0000005A454E776F726B7320696D6167652061726368697665</Bytes>
+			<ASCII> . . . . Z E N w o r k s   i m a g e   a r c h i v e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

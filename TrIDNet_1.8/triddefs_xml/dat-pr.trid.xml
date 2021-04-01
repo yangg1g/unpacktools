@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Paul Robotham Music</FileType>
+		<Ext>DAT</Ext>
+		<ExtraInfo>
+			<Rem>MIDI-like music format created by Pete Barnett and used by Paul Robotham.</Rem>
+			<RefURL>http://exotica.fix.no/tunes/unexotica/formats/Paul_Robotham.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>30</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000400</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F</Bytes>
+			<ASCII> ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?</ASCII>
+			<Pos>340</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F</Bytes>
+			<ASCII> ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?</ASCII>
+			<Pos>404</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

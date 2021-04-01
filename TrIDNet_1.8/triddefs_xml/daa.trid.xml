@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PowerISO Direct-Access-Archive image</FileType>
+		<Ext>DAA</Ext>
+		<ExtraInfo>
+			<Rem>DAA (Direct-Access-Archive) is an advanced format for image file, which supports some advanced features, such as compression, password protection, and splitting to multiple volumes.</Rem>
+			<RefURL>http://file-extension.net/info/daa-poweriso-direct-access-archive-image-file.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>01</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>33</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4441410000000000</Bytes>
+			<ASCII> D A A</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

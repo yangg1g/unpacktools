@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Roland MC-80 music sequence</FileType>
+		<Ext>SVQ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>10</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>32</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53563033</Bytes>
+			<ASCII> S V 0 3</ASCII>
+			<Pos>2</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D432D3830</Bytes>
+			<ASCII> M C - 8 0</ASCII>
+			<Pos>17</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

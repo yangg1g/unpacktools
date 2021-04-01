@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PolySpace check results</FileType>
+		<Ext>CHK</Ext>
+		<ExtraInfo>
+			<Rem>PolySpace (version R2009a) is a comercial source-code analysis tool (C) The MathWorks, Inc.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>aNDreas Bolota</User>
+		<E-Mail>saerdna@myself.com</E-Mail>
+		<Home>http://geocities.com/kirnbie/</Home>
+	</Info>
+	<General>
+		<FileNum>7923</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>08</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>42</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>07A0661DB3484B875E1F9385FE970D0BFBA3F9E6273B</Bytes>
+			<ASCII> . . f . . H K . ^ . . . . . . . . . . . ' ;</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>AC</Bytes>
+			<Pos>23</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

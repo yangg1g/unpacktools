@@ -1,0 +1,238 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OpenDocument Flat XML Spreadsheet</FileType>
+		<Ext>FODS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/OpenDocument</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>9</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>4</Hour>
+			<Min>22</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VND.OASIS.OPENDOCUMENT.SPREADSHEET</String>
+		<String>CONFIG-ITEM-MAP-INDEXED CONFIG</String>
+		<String>CONFIG-ITEM-MAP-ENTRY CONFIG</String>
+		<String>CONFIG-ITEM-MAP-NAMED CONFIG</String>
+		<String>PAGE-LAYOUT-PROPERTIES STYLE</String>
+		<String>HEADER-FOOTER-PROPERTIES FO</String>
+		<String>TABLE-CELL-PROPERTIES STYLE</String>
+		<String>PARAGRAPH-PROPERTIES STYLE</String>
+		<String>TABLE-COLUMN-PROPERTIES FO</String>
+		<String>TABLE-ROW-PROPERTIES STYLE</String>
+		<String>CHARACTERCOMPRESSIONTYPE</String>
+		<String>HORIZONTALSCROLLBARWIDTH</String>
+		<String>ISRASTERAXISSYNCHRONIZED</String>
+		<String>DEFAULT-CELL-STYLE-NAME</String>
+		<String>DOCUMENT-STATISTIC META</String>
+		<String>HORIZONTALSPLITPOSITION</String>
+		<String>NUMBER-COLUMNS-REPEATED</String>
+		<String>PARAGRAPH-PROPERTIES FO</String>
+		<String>CONFIG-ITEM-SET CONFIG</String>
+		<String>CONFIGURATION-SETTINGS</String>
+		<String>CURRENCY-SYMBOL NUMBER</String>
+		<String>ISKERNASIANPUNCTUATION</String>
+		<String>TABLE-PROPERTIES TABLE</String>
+		<String>USE-OPTIMAL-ROW-HEIGHT</String>
+		<String>TEXT-PROPERTIES STYLE</String>
+		<String>VERTICALSPLITPOSITION</String>
+		<String>CURRENCY-STYLE STYLE</String>
+		<String>SHOWPAGEBREAKPREVIEW</String>
+		<String>TEXT-UNDERLINE-COLOR</String>
+		<String>TEXT-UNDERLINE-STYLE</String>
+		<String>TEXT-UNDERLINE-WIDTH</String>
+		<String>ALLOWPRINTJOBCANCEL</String>
+		<String>DEFAULT-STYLE STYLE</String>
+		<String>FONT-FAMILY-GENERIC</String>
+		<String>HASCOLUMNROWHEADERS</String>
+		<String>HORIZONTALSPLITMODE</String>
+		<String>ISOUTLINESYMBOLSSET</String>
+		<String>CONFIG-ITEM CONFIG</String>
+		<String>MIN-INTEGER-DIGITS</String>
+		<String>NUMBER-STYLE STYLE</String>
+		<String>RASTERSUBDIVISIONX</String>
+		<String>RASTERSUBDIVISIONY</String>
+		<String>SAVEVERSIONONCLOSE</String>
+		<String>TABLE-COLUMN TABLE</String>
+		<String>TEXT-PROPERTIES FO</String>
+		<String>UPDATEFROMTEMPLATE</String>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>FONT-NAME-COMPLEX</String>
+		<String>FOOTER-LEFT STYLE</String>
+		<String>HEADER-LEFT STYLE</String>
+		<String>MASTER-PAGE STYLE</String>
+		<String>OOXML-ODF-INTEROP</String>
+		<String>PAGE-LAYOUT STYLE</String>
+		<String>PAGEVIEWZOOMVALUE</String>
+		<String>PARENT-STYLE-NAME</String>
+		<String>RASTERRESOLUTIONX</String>
+		<String>RASTERRESOLUTIONY</String>
+		<String>TAB-STOP-DISTANCE</String>
+		<String>TEXT-ALIGN-SOURCE</String>
+		<String>VERTICALSPLITMODE</String>
+		<String>VISIBLEAREAHEIGHT</String>
+		<String>XSL-FO-COMPATIBLE</String>
+		<String>ACTIVESPLITRANGE</String>
+		<String>APPLY-STYLE-NAME</String>
+		<String>AUTOMATIC-STYLES</String>
+		<String>BACKGROUND-COLOR</String>
+		<String>BACKGROUND-IMAGE</String>
+		<String>LANGUAGE-COMPLEX</String>
+		<String>MASTER-PAGE-NAME</String>
+		<String>PAGE-LAYOUT-NAME</String>
+		<String>TABLE-CELL TABLE</String>
+		<String>VISIBLEAREAWIDTH</String>
+		<String>COUNTRY-COMPLEX</String>
+		<String>CURSORPOSITIONX</String>
+		<String>CURSORPOSITIONY</String>
+		<String>DATA-STYLE-NAME</String>
+		<String>FONT-FACE STYLE</String>
+		<String>FONT-FACE-DECLS</String>
+		<String>FONT-NAME-ASIAN</String>
+		<String>RASTERISVISIBLE</String>
+		<String>TABLE-ROW TABLE</String>
+		<String>VISIBLEAREALEFT</String>
+		<String>DECIMAL-PLACES</String>
+		<String>DOCUMENT XMLNS</String>
+		<String>ISSNAPTORASTER</String>
+		<String>LANGUAGE-ASIAN</String>
+		<String>LINKUPDATEMODE</String>
+		<String>OPENOFFICE.ORG</String>
+		<String>POSITIONBOTTOM</String>
+		<String>REPEAT-CONTENT</String>
+		<String>ROTATION-ANGLE</String>
+		<String>SHOWPAGEBREAKS</String>
+		<String>SHOWZEROVALUES</String>
+		<String>SVG-COMPATIBLE</String>
+		<String>VISIBLEAREATOP</String>
+		<String>APPLYUSERDATA</String>
+		<String>AUTOCALCULATE</String>
+		<String>COUNTRY-ASIAN</String>
+		<String>CREATION-DATE</String>
+		<String>MARGIN-BOTTOM</String>
+		<String>MASTER-STYLES</String>
+		<String>NUMBER NUMBER</String>
+		<String>POSITIONRIGHT</String>
+		<String>SCRIPT SCRIPT</String>
+		<String>VIEW-SETTINGS</String>
+		<String>BASE64BINARY</String>
+		<String>BREAK-BEFORE</String>
+		<String>COLUMN-WIDTH</String>
+		<String>EXPERIMENTAL</String>
+		<String>FOOTER-STYLE</String>
+		<String>HASSHEETTABS</String>
+		<String>HEADER-STYLE</String>
+		<String>LOADREADONLY</String>
+		<String>MARGIN-RIGHT</String>
+		<String>POSITIONLEFT</String>
+		<String>PRESENTATION</String>
+		<String>PRINTERSETUP</String>
+		<String>REGION-RIGHT</String>
+		<String>WRITING-MODE</String>
+		<String>ACTIVETABLE</String>
+		<String>APPLICATION</String>
+		<String>FONT-WEIGHT</String>
+		<String>MARGIN-LEFT</String>
+		<String>PAGE-NUMBER</String>
+		<String>POSITIONTOP</String>
+		<String>PRINTERNAME</String>
+		<String>REGION-LEFT</String>
+		<String>TABLE TABLE</String>
+		<String>TABLE-COUNT</String>
+		<String>XML VERSION</String>
+		<String>CELL-COUNT</String>
+		<String>DATE STYLE</String>
+		<String>DATE-VALUE</String>
+		<String>FONT-COLOR</String>
+		<String>FONT-PITCH</String>
+		<String>FONT-STYLE</String>
+		<String>MARGIN-TOP</String>
+		<String>MIN-HEIGHT</String>
+		<String>PAGE-COUNT</String>
+		<String>SHEET-NAME</String>
+		<String>VALUE-TYPE</String>
+		<String>WWW.W3.ORG</String>
+		<String>XML-EVENTS</String>
+		<String>CONDITION</String>
+		<String>DATASTYLE</String>
+		<String>FONT-SIZE</String>
+		<String>GENERATOR</String>
+		<String>GRIDCOLOR</String>
+		<String>LIBRARIES</String>
+		<String>MAP STYLE</String>
+		<String>SHOWNOTES</String>
+		<String>ELEMENTS</String>
+		<String>ENCODING</String>
+		<String>GROUPING</String>
+		<String>HEADING1</String>
+		<String>MIMETYPE</String>
+		<String>PURL.ORG</String>
+		<String>SHOWGRID</String>
+		<String>VARIABLE</String>
+		<String>VOLATILE</String>
+		<String>ZOOMTYPE</String>
+		<String>_PROJECT</String>
+		<String>$BUILD-</String>
+		<String>BOOLEAN</String>
+		<String>DISPLAY</String>
+		<String>DRAWING</String>
+		<String>PADDING</String>
+		<String>RESULT2</String>
+		<String>SCRIPTS</String>
+		<String>VALUE()</String>
+		<String>BORDER</String>
+		<String>CENTER</String>
+		<String>MATHML</String>
+		<String>REPORT</String>
+		<String>STRING</String>
+		<String>SYSTEM</String>
+		<String>TABLES</String>
+		<String>VIEWID</String>
+		<String>WRITER</String>
+		<String>XFORMS</String>
+		<String>BASIC</String>
+		<String>CHART</String>
+		<String>FALSE</String>
+		<String>FIELD</String>
+		<String>LR-TB</String>
+		<String>NAMES</String>
+		<String>SHORT</String>
+		<String>SOLID</String>
+		<String>SWISS</String>
+		<String>TITLE</String>
+		<String>UTF-8</String>
+		<String>VIEW1</String>
+		<String>VIEWS</String>
+		<String>XLINK</String>
+		<String>16PT</String>
+		<String>BODY</String>
+		<String>BOLD</String>
+		<String>HTTP</String>
+		<String>LONG</String>
+		<String>TIME</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

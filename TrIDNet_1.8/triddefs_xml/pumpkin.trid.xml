@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Pumpkin Shop stencil</FileType>
+		<Ext>PUMPKIN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.canucarve.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>32</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>ACED</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0F5053484F50</Bytes>
+			<ASCII> . P S H O P</ASCII>
+			<Pos>6</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>13</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

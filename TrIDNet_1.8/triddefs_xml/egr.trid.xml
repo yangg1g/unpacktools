@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EGrid32 Form</FileType>
+		<Ext>EGR</Ext>
+		<ExtraInfo>
+			<Rem>EGR files are created by the EGrid32 Form Designer. EGrid32 is a powerfull grid control by Elias Montoya.</Rem>
+			<RefURL>http://sweetheartgames.com/</RefURL>
+		</ExtraInfo>
+		<User>Elias Montoya</User>
+		<E-Mail></E-Mail>
+		<Home>http://www.egrid32.com/</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>40</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>45473332</Bytes>
+			<ASCII> E G 3 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

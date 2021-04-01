@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Remote Assistance Request</FileType>
+		<Ext>MSRCINCIDENT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>05</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3C003F0078006D006C002000760065007200730069006F006E003D00220031002E0030002200200065006E0063006F00640069006E0067003D00220055006E00690063006F0064006500220020003F003E003C00550050004C004F004100440049004E0046004F00200054005900500045003D00220045007300630061006C00610074006500640022003E003C00550050004C004F00410044004400410054004100200055005300450052004E0041004D0045003D002200</Bytes>
+			<ASCII> . . . . ? . x . m . l .   . v . e . r . s . i . o . n . = . " . 1 . . . 0 . " .   . e . n . c . o . d . i . n . g . = . " . U . n . i . c . o . d . e . " .   . ? . . . . . U . P . L . O . A . D . I . N . F . O .   . T . Y . P . E . = . " . E . s . c . a . l . a . t . e . d . " . . . . . U . P . L . O . A . D . D . A . T . A .   . U . S . E . R . N . A . M . E . = . "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>U'P'L'O'A'D'D'A'T'A' 'U'S'E'R'N'A'M'E</String>
+		<String>R'C'T'I'C'K'E'T'E'N'C'R'Y'P'T'E'D</String>
+		<String>U'P'L'O'A'D'I'N'F'O' 'T'Y'P'E</String>
+		<String>X'M'L' 'V'E'R'S'I'O'N</String>
+		<String>E'S'C'A'L'A'T'E'D</String>
+		<String>P'A'S'S'S'T'U'B</String>
+		<String>D'T'L'E'N'G'T'H</String>
+		<String>E'N'C'O'D'I'N'G</String>
+		<String>D'T'S'T'A'R'T</String>
+		<String>U'N'I'C'O'D'E</String>
+	</GlobalStrings>
+</TrID>

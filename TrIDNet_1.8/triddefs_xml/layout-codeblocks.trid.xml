@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Code::Blocks Workspace Layout</FileType>
+		<Ext>LAYOUT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Code::Blocks</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>1</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>12</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E3022</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CODEBLOCKS_LAYOUT_FILE</String>
+		<String>CURSOR POSITION</String>
+		<String>XML VERSION</String>
+		<String>FILE NAME</String>
+		<String>TOPLINE</String>
+		<String>OPEN</String>
+	</GlobalStrings>
+</TrID>

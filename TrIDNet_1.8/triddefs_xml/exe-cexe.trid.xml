@@ -1,0 +1,99 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CExe compressed Win32 executable</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem>CExe is a Win32 based .exe compressor.</Rem>
+			<RefURL>http://www.scottlu.com/Content/CExe.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>30</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>29</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000C00000000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A240000000000000025576FC1613601926136019261360192613600927B360192032912926636019289290A9260360192D93007926036019252696368613601920000000000000000504500004C010200218861370000000000000000E0000F010B0106000008000000</Bytes>
+			<ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ! . . L . ! T h i s   p r o g r a m   c a n n o t   b e   r u n   i n   D O S   m o d e . . . . $ . . . . . . . % W o . a 6 . . a 6 . . a 6 . . a 6 . . { 6 . . . ) . . f 6 . . . ) . . ` 6 . . . 0 . . ` 6 . . R i c h a 6 . . . . . . . . . . P E . . L . . . ! . a 7</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000414000000100000002000000000400000100000000200000400000000000000040000000000000000</Bytes>
+			<ASCII> . . . . . . . . . . . . . .   . . . . @</ASCII>
+			<Pos>227</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000004000000000000</Bytes>
+			<Pos>275</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000100000100000000010000010000000000000100000000000000000000000BC1400005000000000200000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . P</ASCII>
+			<Pos>285</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000100000740000000000000000000000000000000000000000000000000000002E7465787400000040070000001000000008000000040000000000000000000000000000200000602E72737263000000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . t . . . . . . . . . . . . . . . . . . . . . . . . . . . . t e x t . . . @ . . . . . . . . . . . . . . . . . . . . . . . . . . .   . . ` . r s r c</ASCII>
+			<Pos>335</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000020000000</Bytes>
+			<Pos>491</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000C0000000000000000000000000000400000400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000006416000090150000A0150000B2150000C2150000D0150000DC150000EA150000FE1500000C160000141600002A160000401600005216000080150000701600007C1600008E1600009C160000AE160000BE160000D616000000000000041700000E170000FA160000000000002617000000000000737865002220000022000000446C6C496E666C6174650000416E206572726F7220686173206F636375726564207768696C6520657865637574696E6720746869732070726F6772616D2E20467265652075702068617264647269766520737061636520616E642074727920616761696E2E0000004572726F72000FB7442404566A63506A00FF150C1040008BF085F675025EC3566A00FF15081040008B4C240C566A008901FF150410400050FF15381040005EC3558BEC5633F6575668800000006A0256566800000040FF7510FF15181040008BF883FFFF742A897510568B750C8D45105056FF750857FF151410400085C074103B7510750B57FF1510104000B001EB0232C05F5E5DC3FF7424086A006874104000FF742410FF151C104000C3558BEC81EC8C010000568D85FCFEFFFF5750FF7510E8D0FFFFFF8D85FCFEFFFF50FF750CFF7508E868FFFFFF83C41484C074408D8574FEFFFF6A00508D85FCFEFFFF50E8D80200008BF885FF7C258D8574FEFFFF680210000050FF7514E8BE0200008BF085F67C0B5657E8AB02000085C07D0433C0EB1C57E89702000056E8910200008D85FCFEFFFF50FF15201040006A01585F5EC9C3558BEC81EC6403000053568D45FC57506A0133F6BB94114000E8A5FEFFFF8BF85985FF5974568D85A0FDFFFF50FF7508E81EFFFFFF8D85A0FDFFFF50FF7508FF75FC57E821FFFFFF83C41885C00F84390100008D85A0FDFFFF50FF154C1040008BF085F60F8422010000688010400056FF15481040008BD885DB74398D45FC506A02E83CFEFFFF8BF85985FF5974268D859CFCFFFF50FF7508E8B5FEFFFF8D859CFCFFFF50FF7508FF75FC57FFD383C41885C0752185F60F84CF00000056FF15441040008D85A0FDFFFF50FF1520104000E9B60000008B1D2010400085F6741056FF15441040008D85A0FDFFFF50FFD3FF15401040008BF832C9803F227503FEC1478A0784C0740D3C20750484C974053C2275ED478D85A4FEFFFF687C10400050FF153C1040008B35001040008D859CFCFFFF508D85A4FEFFFF50FFD68D85A4FEFFFF687810400050FFD68D85A4FEFFFF5750FFD68D45A850FF15341040008D45EC33FF508D45A85057576A206A01578D85A4FEFFFF575057FF153010400085C0750D8D859CFCFFFF50FFD332C0EB44FF75F08B3510104000FFD66AFFFF75ECFF152C104000FF750CFF75ECFF1528104000FF75ECFFD68D859CFCFFFF50FFD385C0750E6A64FF15241040004783FF647CE5B0015F</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . @ . . @ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . * . . . @ . . . R . . . . . . . p . . . | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . s x e . "   . . " . . . D l l I n f l a t e . . A n   e r r o r   h a s   o c c u r e d   w h i l e   e x e c u t i n g   t h i s   p r o g r a m .   F r e e   u p   h a r d d r i v e   s p a c e   a n d   t r y   a g a i n . . . . E r r o r . . . D $ . V j c P j . . . . . @ . . . . . u . ^ . V j . . . . . @ . . L $ . V j . . . . . . . @ . P . . 8 . @ . ^ . U . . V 3 . W V h . . . . j . V V h . . . @ . u . . . . . @ . . . . . . t * . u . V . u . . E . P V . u . W . . . . @ . . . t . ; u . u . W . . . . @ . . . . . 2 . _ ^ ] . . t $ . j . h t . @ . . t $ . . . . . @ . . U . . . . . . . . V . . . . . . W P . u . . . . . . . . . . . . P . u . . u . . h . . . . . . . . t @ . . t . . . j . P . . . . . . P . . . . . . . . . | % . . t . . . h . . . . P . u . . . . . . . . . . | . V W . . . . . . . } . 3 . . . W . . . . . V . . . . . . . . . . . P . .   . @ . j . X _ ^ . . U . . . . d . . . S V . E . W P j . 3 . . . . @ . . . . . . . . Y . . Y t V . . . . . . P . u . . . . . . . . . . . . P . u . . u . W . ! . . . . . . . . . . 9 . . . . . . . . . P . . L . @ . . . . . . . " . . . h . . @ . V . . H . @ . . . . . t 9 . E . P j . . . . . . . . Y . . Y t . . . . . . . P . u . . . . . . . . . . . . P . u . . u . W . . . . . . . u ! . . . . . . . . V . . D . @ . . . . . . . P . .   . @ . . . . . . . .   . @ . . . t . V . . D . @ . . . . . . . P . . . . @ . @ . . . 2 . . ? " u . . . G . . . . t . .   u . . . t . . " u . G . . . . . . h | . @ . P . . . . @ . . 5 . . @ . . . . . . . P . . . . . . P . . . . . . . . h x . @ . P . . . . . . . . W P . . . E . P . . 4 . @ . . E . 3 . P . E . P W W j   j . W . . . . . . W P W . . 0 . @ . . . u . . . . . . . P . . 2 . . D . u . . 5 . . @ . . . j . . u . . . , . @ . . u . . u . . . ( . @ . . u . . . . . . . . . P . . . . u . j d . . $ . @ . G . . d | . . . _</ASCII>
+			<Pos>499</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.RSRC</String>
+		<String>CLOSEHANDLE</String>
+		<String>DLLINFLATE''AN ERROR HAS OCCURED WHILE EXECUTING THIS PROGRAM. FREE UP HARDDRIVE SPACE AND TRY AGAIN.'''ERROR</String>
+		<String>FINDRESOURCEA</String>
+		<String>FREELIBRARY</String>
+		<String>GETCOMMANDLINEA</String>
+		<String>GETEXITCODEPROCESS</String>
+		<String>GETMODULEFILENAMEA''KERNEL32.DLL</String>
+		<String>GETPROCADDRESS</String>
+		<String>GETSTARTUPINFOA</String>
+		<String>GETTEMPFILENAMEA''W'DELETEFILEA</String>
+		<String>GETWINDOWSDIRECTORYA''$</String>
+		<String>LOADLIBRARYA''}</String>
+		<String>LOADRESOURCE</String>
+		<String>LOCKRESOURCE</String>
+		<String>LSTRCATA</String>
+		<String>LSTRCPYA</String>
+		<String>LZCLOSE</String>
+		<String>LZCOPY</String>
+		<String>LZOPENFILEA'LZ32.DLL</String>
+		<String>MESSAGEBOXA'USER32.DLL</String>
+		<String>PADDINGXXPADDINGPADD</String>
+		<String>PE''L</String>
+		<String>PWWJ J</String>
+		<String>RICHA6</String>
+		<String>SIZEOFRESOURCE</String>
+		<String>SLEEP</String>
+		<String>SZDD</String>
+		<String>T'''''''''''''''''''''''''''.TEXT</String>
+		<String>THIS PROGRAM CANNOT BE RUN IN DOS MODE.</String>
+		<String>VJCPJ</String>
+		<String>WAITFORSINGLEOBJECT'D'CREATEPROCESSA''P</String>
+		<String>WRITEFILE'4'CREATEFILEA'C</String>
+	</GlobalStrings>
+</TrID>

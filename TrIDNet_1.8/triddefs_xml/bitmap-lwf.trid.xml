@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LuraWave Format bitmap</FileType>
+		<Ext>LWF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>27</FileNum>
+		<Refine>6 by Kieran O'Donnell</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>07</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>08</Min>
+			<Sec>02</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>575602004745000E0000</Bytes>
+			<ASCII> W V . . G E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4342</Bytes>
+			<ASCII> C B</ASCII>
+			<Pos>18</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>51550006</Bytes>
+			<ASCII> Q U</ASCII>
+			<Pos>31</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5354</Bytes>
+			<ASCII> S T</ASCII>
+			<Pos>37</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

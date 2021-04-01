@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Garmin Voice file</FileType>
+		<Ext>VPM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.garmin.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>21</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>415544494D47</Bytes>
+			<ASCII> A U D I M G</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RIFF</String>
+                <String>WAVEFMT</String>
+		<String>'DATA'</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Secrets Can Kill saved game</FileType>
+		<Ext>SAV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Secrets_Can_Kill_(computer_game)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>58</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0100000048455220496E7465726163746976652050726573656E7473</Bytes>
+			<ASCII> . . . . H E R   I n t e r a c t i v e   P r e s e n t s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4E616E6379204472657700</Bytes>
+			<ASCII> N a n c y   D r e w</ASCII>
+			<Pos>34</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>536563726574732043616E204B696C6C</Bytes>
+			<ASCII> S e c r e t s   C a n   K i l l</ASCII>
+			<Pos>64</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

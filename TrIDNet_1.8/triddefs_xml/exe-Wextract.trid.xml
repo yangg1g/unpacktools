@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Win32 MS Cabinet Self-Extractor (WExtract stub)</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://technet.microsoft.com/en-us/library/dd346760.aspx</RefURL>
+		</ExtraInfo>
+		<User>Kieran O'Donnell</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>99</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>42</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A2400000000000000</Bytes>
+			<ASCII> . . . . . . . . . . . ! . . L . ! T h i s   p r o g r a m   c a n n o t   b e   r u n   i n   D O S   m o d e . . . . $</ASCII>
+			<Pos>61</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>W'I'N'D'O'W'S' '9'5' 'O'R' 'W'I'N'D'O'W'S' 'N'T' 'I'S' 'R'E'Q'U'I'R'E'D' 'T'O' 'I'N'S'T'A'L'L</String>
+		<String>C'O'M'M'A'N'D' 'L'I'N'E' 'O'P'T'I'O'N' 'S'Y'N'T'A'X' 'E'R'R'O'R'.' 'T'Y'P'E' 'C'O'M'M'A'N'D</String>
+		<String>F'I'L'E'D'E'S'C'R'I'P'T'I'O'N'''''W'I'N'3'2' 'C'A'B'I'N'E'T' 'S'E'L'F'-'E'X'T'R'A'C'T'O'R</String>
+		<String>O'R'I'G'I'N'A'L'F'I'L'E'N'A'M'E'''W'E'X'T'R'A'C'T'.'E'X'E</String>
+		<String>C'A'B'I'N'E'T' 'I'S' 'N'O'T' 'V'A'L'I'D'.</String>
+		<String>I'N'T'E'R'N'A'L'N'A'M'E'''W'E'X'T'R'A'C'T</String>
+		<String>FILERENAMEOPERATIONS'''WEXTRACT_CLEANUP</String>
+		<String>PACKINSTSPACE</String>
+		<String>EXTRACTOPT</String>
+		<String>WEXTRACT.</String>
+		<String>MSCF</String>
+	</GlobalStrings>
+</TrID>

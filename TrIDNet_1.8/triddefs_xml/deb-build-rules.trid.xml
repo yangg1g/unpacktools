@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DEB build rules</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Debian</RefURL>
+		</ExtraInfo>
+		<User>Eduardo</User>
+		<E-Mail>eduardosanchezmunoz@gmail.com</E-Mail>
+		<Home>http://eduardo38.netne.net/</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>11</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>18</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2321</Bytes>
+			<ASCII> # !</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DEBHELPER.</String>
+		<String>BINARY-IN</String>
+		<String>$(CURDIR)</String>
+		<String>MAKE -F</String>
+		<String>INSTALL</String>
+		<String>DEBIAN</String>
+		<String>CLEAN</String>
+		<String>BUILD</String>
+		<String>RULES</String>
+		<String>PORT</String>
+		<String>RM -</String>
+	</GlobalStrings>
+</TrID>

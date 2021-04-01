@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Log ASCII Standard</FileType>
+		<Ext>LAS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pe.utexas.edu/Geosci/Standards/LAS/las.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<Refine>9 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>58</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7E56</Bytes>
+			<ASCII> ~ V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>~PARAMETER INFORMATION</String>
+		<String>~VERSION INFORMATION</String>
+		<String>~CURVE INFORMATION</String>
+		<String>~WELL INFORMATION</String>
+		<String>DEPTH STEP</String>
+		<String>STANDARD</String>
+		<String>E LINE</String>
+		<String>ASCII</String>
+		<String>DATE</String>
+		<String>NULL</String>
+		<String>STRT</String>
+		<String>WRAP</String>
+		<String>STOP</String>
+	</GlobalStrings>
+</TrID>

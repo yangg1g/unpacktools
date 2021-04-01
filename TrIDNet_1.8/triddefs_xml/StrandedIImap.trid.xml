@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Stranded II Mapfile</FileType>
+		<Ext>S2</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.stranded.unrealsoftware.de/</RefURL>
+		</ExtraInfo>
+		<User>Josef Schneider</User>
+		<E-Mail>TrID@netpage.dk</E-Mail>
+		<Home>http://netpage.dk</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>02</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23232320537472616E646564204949204D617066696C6520A9627920556E7265616C20536F66747761726520323030342D323030</Bytes>
+			<ASCII> # # #   S t r a n d e d   I I   M a p f i l e   . b y   U n r e a l   S o f t w a r e   2 0 0 4 - 2 0 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A</Bytes>
+			<Pos>53</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BY UNREAL SOFTWARE 2004-200</String>
+		<String>WWW.UNREALSOFTWARE.DE</String>
+		<String>STRANDED II MAPFILE</String>
+		<String>EOF MAP FILE</String>
+		<String>DEFAULT</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,102 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType> FlashDevelop ActionScript 3 Project</FileType>
+		<Ext>AS3PROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/FlashDevelop</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>17</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D38223F3E0D0A3C70726F6A6563743E0D0A20203C212D2D204F757470757420535746206F7074696F6E73202D2D3E0D0A20203C6F75747075743E0D0A202020203C6D6F76696520</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 " ? . . . . p r o j e c t . . .     . ! - -   O u t p u t   S W F   o p t i o n s   - - . . .     . o u t p u t . . .         . m o v i e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>-- CLASS FILES TO COMPILE (OTHER REFERENCED CLASSES WILL AUTOMATICALLY BE INCLUDED) --</String>
+		<String>-- PATHS TO EXCLUDE FROM THE PROJECT EXPLORER TREE --</String>
+		<String>-- OTHER CLASSES TO BE COMPILED INTO YOUR SWF --</String>
+		<String>-- ASSETS TO EMBED INTO THE OUTPUT SWF --</String>
+		<String>OPTION SHOWUNUSEDTYPESELECTORWARNINGS</String>
+		<String>OPTION USERESOURCEBUNDLEMETADATA</String>
+		<String>OPTION SHOWACTIONSCRIPTWARNINGS</String>
+		<String>-- RUNTIME SHARED LIBRARIES --</String>
+		<String>OPTION SHOWDEPRECATIONWARNINGS</String>
+		<String>OPTION ALLOWSOURCEPATHOVERLAP</String>
+		<String>-- EXECUTED BEFORE BUILD --</String>
+		<String>-- OTHER PROJECT OPTIONS --</String>
+		<String>-- SWC INCLUDE LIBRARIES --</String>
+		<String>-- EXECUTED AFTER BUILD --</String>
+		<String>OPTION SHOWBINDINGWARNINGS</String>
+		<String>POSTBUILDCOMMAND ALWAYSRUN</String>
+		<String>-- INTRINSIC LIBRARIES --</String>
+		<String>OPTION VERBOSESTACKTRACES</String>
+		<String>-- EXTERNAL LIBRARIES --</String>
+		<String>-- OUTPUT SWF OPTIONS --</String>
+		<String>OPTION SHOWHIDDENPATHS</String>
+		<String>EXTERNALLIBRARYPATHS</String>
+		<String>-- BUILD OPTIONS --</String>
+		<String>-- SWC LIBRARIES --</String>
+		<String>OPTION ACCESSIBLE</String>
+		<String>OPTION ADDITIONAL</String>
+		<String>OPTION LOADCONFIG</String>
+		<String>OPTION USENETWORK</String>
+		<String>INCLUDELIBRARIES</String>
+		<String>MOVIE BACKGROUND</String>
+		<String>OPTION BENCHMARK</String>
+		<String>OPTION CUSTOMSDK</String>
+		<String>OPTION TESTMOVIE</String>
+		<String>OPTION OPTIMIZE</String>
+		<String>OPTION WARNINGS</String>
+		<String>PREBUILDCOMMAND</String>
+		<String>COMPILETARGETS</String>
+		<String>MOVIE DISABLED</String>
+		<String>MOVIE VERSION</String>
+		<String>OPTION STRICT</String>
+		<String>COMPILE PATH</String>
+		<String>ELEMENT PATH</String>
+		<String>MOVIE HEIGHT</String>
+		<String>HIDDEN PATH</String>
+		<String>MOVIE INPUT</String>
+		<String>MOVIE WIDTH</String>
+		<String>XML VERSION</String>
+		<String>-- EXAMPLE</String>
+		<String>ASSET PATH</String>
+		<String>CLASS PATH</String>
+		<String>CLASSPATHS</String>
+		<String>INTRINSICS</String>
+		<String>MOVIE PATH</String>
+		<String>SHAREPOINT</String>
+		<String>MOVIE FPS</String>
+		<String>OPTION ES</String>
+		<String>ENCODING</String>
+		<String>RSLPATHS</String>
+		<String>GLYPHS</String>
+		<String>UPDATE</String>
+		<String>FALSE</String>
+		<String>PLACE</String>
+		<String>UTF-8</String>
+		<String>MODE</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

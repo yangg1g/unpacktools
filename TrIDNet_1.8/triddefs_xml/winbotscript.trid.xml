@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Winbot Script</FileType>
+		<Ext>WBS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.winbot.org/</RefURL>
+		</ExtraInfo>
+		<User>Eddy Deyl</User>
+		<E-Mail>edeyl@rocketmail.com</E-Mail>
+		<Home>http://www.ache.nl</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>02</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>53</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B</Bytes>
+			<ASCII> [</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>THIS SCRIPT</String>
+		<String>NUMEVENTS</String>
+		<String>TRIGGER</String>
+		<String>CHANNEL</String>
+		<String>WINBOT</String>
+		<String>EVENT1</String>
+		<String>MAIN</String>
+		<String>MASK</String>
+		<String>FILE</String>
+		<String>TEXT</String>
+		<String>TYPE</String>
+		<String>WHEN</String>
+		<String>* (*</String>
+	</GlobalStrings>
+</TrID>

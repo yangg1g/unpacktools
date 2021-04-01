@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Virtual CD v4 log</FileType>
+		<Ext>VBL</Ext>
+		<ExtraInfo>
+			<Rem>Log file containing any messages output during creation of the virtual CD</Rem>
+			<RefURL>http://www.virtualcd-online.de</RefURL>
+		</ExtraInfo>
+		<User>kif aka AC</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>05</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>16</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>56424C0001000000</Bytes>
+			<ASCII> V B L</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VIRTUAL CD</String>
+		<String>.000</String>
+		<String>.VC4</String>
+	</GlobalStrings>
+</TrID>

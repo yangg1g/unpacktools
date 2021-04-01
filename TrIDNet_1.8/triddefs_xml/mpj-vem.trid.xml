@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Video Edit Magic project</FileType>
+		<Ext>MPJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.deskshare.com/vem.aspx</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>30</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>02</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>05</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C74696D656C696E653E0D0A093C67726F757020747970653D22</Bytes>
+			<ASCII> . t i m e l i n e . . . . . g r o u p   t y p e = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CHKLINKEFFECTWITHOUTSELECTIONSLIDER</String>
+		<String>CHKLINKAUDIOWITHOUTSELECTIONSLIDER</String>
+		<String>CHKLINKVIDEOWITHOUTSELECTIONSLIDER</String>
+		<String>CHKLINKEFFECTWITHSELECTIONSLIDER</String>
+		<String>CHKLINKAUDIOWITHSELECTIONSLIDER</String>
+		<String>CHKLINKVIDEOWITHSELECTIONSLIDER</String>
+		<String>SELECTIONSLIDERS VISIBLE</String>
+		<String>VERSION_INFO APP_VERSION</String>
+		<String>PREVIEWDIMENSION WIDTH</String>
+		<String>BOOKMARK_0 POSITION</String>
+		<String>ZOOMFACTOR VALUE</String>
+		<String>CLIP START</String>
+		<String>GROUP TYPE</String>
+		<String>BOOKMARKS</String>
+		<String>MEDIALIST</String>
+		<String>TIMELINE</String>
+		<String>BITDEPTH</String>
+		<String>FILE SRC</String>
+		<String>HEIGHT</String>
+		<String>MSTART</String>
+		<String>TRACK</String>
+		<String>MENTS</String>
+		<String>INDEX</String>
+		<String>STOP</String>
+	</GlobalStrings>
+</TrID>

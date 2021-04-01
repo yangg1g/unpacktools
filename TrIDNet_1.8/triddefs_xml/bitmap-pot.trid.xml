@@ -1,0 +1,43 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Fractint Continuous Potential Image</FileType>
+        <Ext>POT</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>12</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>18</Day>
+        </Date>
+        <Time>
+            <Hour>15</Hour>
+            <Min>24</Min>
+            <Sec>13</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>474946383761</Bytes>
+            <ASCII> G I F 8 7 a</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>E70000000000000100000200010300020401030502040603050704060805070906080A07090B080A0C090B0D0A0C0E0B0D0F0C0E100D0F110E10120F111310121411131512141613151714161815171916181A17191B181A1C191B1D1A1C1E1B1D1F1C1E201D1F211E20221F212320222421232522242623252724262825272926282A27292B282A2C292B2D2A2C2E2B2D2F2C2E302D2F312E30322F313330323431333532343633353734363835373936383A37393B383A3C393B3D3A3C3E3B3D3F3C3E403D3F413E40423F414340424441434542444643454744464845474946484A47494B484A4C494B4D4A4C4E4B4D4F4C4E504D4F514E50524F515350525451535552545653555754565855575956585A57595B585A5C595B5D5A5C5E5B5D5F5C5E605D5F615E60625F616360626461636562646663656764666865676966686A67696B686A6C696B6D6A6C6E6B6D6F6C6E706D6F716E70726F717370727471737572747673757774767875777976787A77797B787A7C797B7D7A7C7E7B7D7F7C7E807D7F817E80827F818380828481838582848683858784868885878986888A87898B888A8C898B8D8A8C8E8B8D8F8C8E908D8F918E90928F919390929491939592949693959794969895979996989A97999B989A9C999B9D9A9C9E9B9D9F9C9EA09D9FA19EA0A29FA1A3A0A2A4A1A3A5A2A4A6A3A5A7A4A6A8A5A7A9A6A8AAA7A9ABA8AAACA9ABADAAACAEABADAFACAEB0ADAFB1AEB0B2AFB1B3B0B2B4B1B3B5B2B4B6B3B5B7B4B6B8B5B7B9B6B8BAB7B9BBB8BABCB9BBBDBABCBEBBBDBFBCBEC0BDBFC1BEC0C2BFC1C3C0C2C4C1C3C5C2C4C6C3C5C7C4C6C8C5C7C9C6C8CAC7C9CBC8CACCC9CBCDCACCCECBCDCFCCCED0CDCFD1CED0D2CFD1D3D0D2D4D1D3D5D2D4D6D3D5D7D4D6D8D5D7D9D6D8DAD7D9DBD8DADCD9DBDDDADCDEDBDDDFDCDEE0DDDFE1DEE0E2DFE1E3E0E2E4E1E3E5E2E4E6E3E5E7E4E6E8E5E7E9E6E8EAE7E9EBE8EAECE9EBEDEAECEEEBEDEFECEEF0EDEFF1EEF0F2EFF1F3F0F2F4F1F3F5F2F4F6F3F5F7F4F6F8F5F7F9F6F8FAF7F9FBF8FAFCF9FBFDFAFCFEFBFDFFFC2C00000000</Bytes>
+            <ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   . . ! .   " . ! #   " $ ! # % " $ . # % ' $ . ( % ' ) . ( * ' ) + ( * , ) + - * , . + - / , . 0 - / 1 . 0 2 / 1 3 0 2 4 1 3 5 2 4 6 3 5 7 4 6 8 5 7 9 6 8 : 7 9 ; 8 : . 9 ; = : . . ; = ? . . @ = ? A . @ B ? A C @ B D A C E B D F C E G D F H E G I F H J G I K H J L I K M J L N K M O L N P M O Q N P R O Q S P R T Q S U R T V S U W T V X U W Y V X Z W Y [ X Z \ Y [ ] Z \ ^ [ ] _ \ ^ ` ] _ a ^ ` b _ a c ` b d a c e b d f c e g d f h e g i f h j g i k h j l i k m j l n k m o l n p m o q n p r o q s p r t q s u r t v s u w t v x u w y v x z w y { x z | y { } z | ~ { } . | ~ . } . . ~ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ,</ASCII>
+            <Pos>10</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0008FE00</Bytes>
+            <Pos>790</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

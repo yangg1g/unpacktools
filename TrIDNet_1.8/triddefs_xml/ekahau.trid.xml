@@ -1,0 +1,119 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Ekahau Site Survey File</FileType>
+		<Ext>ESS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.synergy.com.br/ekahau.html</RefURL>
+		</ExtraInfo>
+		<User>Mauricio Strasburg</User>
+		<E-Mail>mauricio@synergy.com.br</E-Mail>
+		<Home>www.synergy.com.br</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>06</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>454B41484155204441544142415345204C4F43414C20434F5059</Bytes>
+			<ASCII> E K A H A U   D A T A B A S E   L O C A L   C O P Y</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>EKAHAU DATABASE LOCAL COPY</String>
+		<String>NAMEOFCURRENTPERSPECTIVE</String>
+		<String>ACCESS POINT CATEGORY</String>
+		<String>OTHER ACCESS POINTS</String>
+		<String>VIEWEDCATEGORY.MY</String>
+		<String>MY ACCESS POINTS</String>
+		<String>USE SURVEY DATA</String>
+		<String>USE PROPAGATION</String>
+		<String>PIXELSPERMETER</String>
+		<String>ELEVATOR_SHAFT</String>
+		<String>TRANSMIT POWER</String>
+		<String>LASTUPDATETIME</String>
+		<String>CONFIGURATION</String>
+		<String>KNOWLEDGEBASE</String>
+		<String>MAXIMUM NOISE</String>
+		<String>REQUIRED SNR</String>
+		<String>MINIMUM RSSI</String>
+		<String>CAPABILITIES</String>
+		<String>RADIOCHANNEL</String>
+		<String>NETWORK LOAD</String>
+		<String>VIEWED RSSI</String>
+		<String>SENSITIVITY</String>
+		<String>DESCRIPTION</String>
+		<String>PROBABILITY</String>
+		<String>ABSORPTION</String>
+		<String>BRICK_WALL</String>
+		<String>TECHNOLOGY</String>
+		<String>ITERATIONS</String>
+		<String>RAW NOISE</String>
+		<String>BOOKSHELF</String>
+		<String>DATA RATE</String>
+		<String>THIN_DOOR</String>
+		<String>STRONGEST</String>
+		<String>AVAILABLE</String>
+		<String>SMOOTHING</String>
+		<String>CRITERION</String>
+		<String>COORDSYS</String>
+		<String>SELECTED</String>
+		<String>RAW RSSI</String>
+		<String>WINDOW_</String>
+		<String>DISABLED</String>
+		<String>CONCRETE</String>
+		<String>POSITION</String>
+		<String>EDGETYPE</String>
+		<String>DRY_WALL</String>
+		<String>RELEVANT</String>
+		<String>PROFILE</String>
+		<String>ENABLED</String>
+		<String>PRIVACY</String>
+		<String>PROJECT</String>
+		<String>DEFAULT</String>
+		<String>CUBICLE</String>
+		<String>MBIT</String>
+		<String>DEVICE</String>
+		<String>HEIGHT</String>
+		<String>LOCKED</String>
+		<String>ACTIVE</String>
+		<String>SIGNAL</String>
+		<String>COLOR</String>
+		<String>WGS84</String>
+		<String>ESSID</String>
+		<String>COUNT</String>
+		<String>EVENT</String>
+		<String>PLACE</String>
+		<String>NOTES</String>
+		<String>WLAN_</String>
+		<String>IDATX</String>
+		<String>IDAT*</String>
+		<String>WIDTH</String>
+		<String>IHDR</String>
+		<String>.ESS</String>
+		<String>CCCX</String>
+		<String>OMMI</String>
+		<String>ECID</String>
+		<String>HVYG</String>
+		<String>OWWW</String>
+		<String>BAND</String>
+		<String>AJJJ</String>
+		<String>IEND</String>
+		<String>GRID</String>
+		<String>.DLL</String>
+		<String>VSSS</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Premiere Project</FileType>
+		<Ext>PRPROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.adobe.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>36</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>12</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>45</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0A3C5072656D69657265446174612056657273696F6E3D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ? . . . P r e m i e r e D a t a   V e r s i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VIDEOPREVIEWCOMPILESETTINGS OBJECTREF</String>
+		<String>AUDIOCOMPILESETTINGS OBJECTREF</String>
+		<String>VIDEOCOMPILESETTINGS OBJECTREF</String>
+		<String>STILLCOMPILESETTINGS OBJECTREF</String>
+		<String>COLUMN.INTRINSIC.VIDEODURATION</String>
+		<String>VIDEOSEQUENCESOURCE OBJECTID</String>
+		<String>PANPROCESSOR VERSION</String>
+		<String>PREMIEREDATA VERSION</String>
+		<String>COMPONENTS OBJECTREF</String>
+		<String>PROJECT OBJECTREF</String>
+		<String>MASTERCLIP OBJECT</String>
+		<String>COLUMN OBJECTID</String>
+		<String>AUDIODURATION</String>
+		<String>.LIST VERSION</String>
+		<String>COLUMNS.LIST</String>
+		<String>TRACK INDEX</String>
+		<String>N VERSION</String>
+		<String>GAIN</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

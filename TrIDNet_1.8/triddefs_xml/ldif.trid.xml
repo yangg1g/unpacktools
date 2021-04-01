@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LDAP Data Interchange Format</FileType>
+		<Ext>LDIF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/LDIF</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>08</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>38</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>646E3A20</Bytes>
+			<ASCII> d n :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>OBJECTCLASS</String>
+	</GlobalStrings>
+</TrID>

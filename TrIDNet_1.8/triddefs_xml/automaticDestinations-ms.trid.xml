@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows 7 Jump List</FileType>
+		<Ext>AUTOMATICDESTINATIONS-MS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://windows.microsoft.com/en-US/windows7/products/features/jump-lists</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>10</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>54</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE1</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>44006500730074004C006900730074</Bytes>
+			<ASCII> D . e . s . t . L . i . s . t</ASCII>
+			<Pos>1280</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>D'E'S'T'L'I'S'T</String>
+	</GlobalStrings>
+</TrID>

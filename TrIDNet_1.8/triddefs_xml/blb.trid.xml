@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Blorb package</FileType>
+		<Ext>BLB/GBLORB</Ext>
+		<ExtraInfo>
+			<Rem>Blorb is a package format for interactive fiction games.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Blorb</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Date>
+			<Year>2014</Year>
+			<Month>2</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>28</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>464F524D00</Bytes>
+			<ASCII> F O R M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4946525352496478</Bytes>
+			<ASCII> I F R S R I d x</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>45786563</Bytes>
+			<ASCII> E x e c</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

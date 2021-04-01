@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Analysis for Windows structure</FileType>
+		<Ext>ANA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cuylaerts.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>25</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3A5C</Bytes>
+			<ASCII> : \</ASCII>
+			<Pos>1</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MEMBERLOADS</String>
+		<String>JOINTLOADS</String>
+		<String>GRAM FILES</String>
+		<String>LOADCASE</String>
+		<String>SUPPORTS</String>
+		<String>MEMBERS</String>
+		<String>JOINTS</String>
+		<String>.ANA</String>
+		<String>VIEW</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PKCS #7 Signature</FileType>
+		<Ext>P7S</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/PKCS</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>07</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>19</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>30</Bytes>
+			<ASCII> 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>86</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

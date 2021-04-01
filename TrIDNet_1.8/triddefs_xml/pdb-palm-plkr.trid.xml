@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Palm Plucker document</FileType>
+		<Ext>PDB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.plkr.org/</RefURL>
+		</ExtraInfo>
+ 		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>56</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>44617461506C6B72</Bytes>
+			<ASCII> D a t a P l k r</ASCII>
+			<Pos>60</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DATAPLKR</String>
+	</GlobalStrings>
+</TrID>

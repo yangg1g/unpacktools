@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IPython notebook</FileType>
+		<Ext>IPYNB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/IPython</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>4</Hour>
+			<Min>22</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7B0A20226D65746164617461223A207B0A2020226E616D65223A2022</Bytes>
+			<ASCII> { .   " m e t a d a t a " :   { .     " n a m e " :   "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PROMPT_NUMBER</String>
+		<String>WORKSHEETS</String>
+		<String>CELL_TYPE</String>
+		<String>COLLAPSED</String>
+		<String>LANGUAGE</String>
+		<String>METADATA</String>
+		<String>NBFORMAT</String>
+		<String>OUTPUTS</String>
+		<String>PYTHON</String>
+		<String>CELLS</String>
+		<String>INPUT</String>
+		<String>CODE</String>
+		<String>NAME</String>
+		<String>TEXT</String>
+	</GlobalStrings>
+</TrID>

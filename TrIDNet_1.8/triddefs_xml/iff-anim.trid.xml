@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IFF ANIM (Amiga delta/RLE encoded bitmap animation)</FileType>
+		<Ext>ANIM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Wayne Hardman</User>
+		<E-Mail>wayneatthurnscoe.co.uk</E-Mail>
+		<Home>http://www.runesource.co.uk</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<Refine>14 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>48</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>464F524D</Bytes>
+			<ASCII> F O R M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>414E494D464F524D</Bytes>
+			<ASCII> A N I M F O R M</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>494C424D</Bytes>
+			<ASCII> I L B M</ASCII>
+			<Pos>20</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

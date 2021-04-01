@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Python 2.7.1 bytecode</FileType>
+		<Ext>PYC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.python.org</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>99</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>01</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>16</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>03F30D0A</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

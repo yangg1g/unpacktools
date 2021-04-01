@@ -1,0 +1,157 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Win64 Executable Free Pascal 2.4.2</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem>Free Pascal is a professional Object Pascal compiler.</Rem>
+			<RefURL>http://www.freepascal.org/</RefURL>
+		</ExtraInfo>
+		<User>Jetcheng Chu</User>
+		<E-Mail>'jcchu'#$40'acm'#$2E'org'</E-Mail>
+		<Home>http://people.rerouted.org/jcchu</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>0</Hour>
+			<Min>32</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000800000000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A2400000000000000504500006486040000000000</Bytes>
+			<ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ! . . L . ! T h i s   p r o g r a m   c a n n o t   b e   r u n   i n   D O S   m o d e . . . . $ . . . . . . . P E . . d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>143</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000F000</Bytes>
+			<Pos>146</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>020B02022A</Bytes>
+			<ASCII> . . . . *</ASCII>
+			<Pos>151</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002E74657874000000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . t e x t</ASCII>
+			<Pos>278</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000040000000000000000000000000000200050602E64617461000000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . .   . P ` . d a t a</ASCII>
+			<Pos>411</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000000400050C02E62737300000000</Bytes>
+			<ASCII> . . . . . . . . . . . . . @ . P . . b s s</ASCII>
+			<Pos>455</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000000000000000000000800050C02E69646174610000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . P . . i d a t a</ASCII>
+			<Pos>487</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000000400030C000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FF25</Bytes>
+			<ASCII> . . . . . . . . . . . . . @ . 0 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . %</ASCII>
+			<Pos>535</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000FF25</Bytes>
+			<ASCII> . . . . . . . . . . . . %</ASCII>
+			<Pos>1029</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000FF25</Bytes>
+			<ASCII> . . . . . . . . . . . . %</ASCII>
+			<Pos>1045</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>3THIS BINARY HAS NO WIDESTRINGS SUPPORT COMPILED IN.''''PRECOMPILE THE APPLICATION WITH A WIDESTRINGS-MANAGER IN THE PROGRAM USES CLAUSE.'''''''6THIS BINARY HAS NO UNICODESTRINGS SUPPORT COMPILED IN.'SRECOMPILE THE APPLICATION WITH A UNICODESTRINGS-MANAGER IN THE PROGRAM USES CLAUSE.</String>
+		<String>ADDVECTOREDEXCEPTIONHANDLER'''''CLOSEHANDLE'''''C</String>
+		<String>KERNEL32.DLL''''OLEAUT32.DLL''''USER32.DLL</String>
+		<String>THIS PROGRAM CANNOT BE RUN IN DOS MODE.</String>
+		<String>INITIALIZECRITICALSECTION</String>
+		<String>TRYENTERCRITICALSECTION</String>
+		<String>ENUMRESOURCELANGUAGESA</String>
+		<String>DELETECRITICALSECTION</String>
+		<String>LEAVECRITICALSECTION</String>
+		<String>GETCURRENTPROCESSID</String>
+		<String>MULTIBYTETOWIDECHAR</String>
+		<String>SYSREALLOCSTRINGLEN</String>
+		<String>WAITFORSINGLEOBJECT</String>
+		<String>WIDECHARTOMULTIBYTE</String>
+		<String>ENUMRESOURCENAMESA</String>
+		<String>ENUMRESOURCETYPESA</String>
+		<String>FOR X86_64 - WIN64</String>
+		<String>GETCURRENTTHREADID</String>
+		<String>GETMODULEFILENAMEA</String>
+		<String>GETTHREADPRIORITY</String>
+		<String>READPROCESSMEMORY</String>
+		<String>SETTHREADPRIORITY</String>
+		<String>SYSALLOCSTRINGLEN</String>
+		<String>0123456789ABCDEF</String>
+		<String>GETMODULEHANDLEA</String>
+		<String>FINDRESOURCEEXA</String>
+		<String>GETCOMMANDLINEA</String>
+		<String>GETSTARTUPINFOA</String>
+		<String>TERMINATETHREAD</String>
+		<String>CHARLOWERBUFFW</String>
+		<String>CHARUPPERBUFFW</String>
+		<String>GETPROCESSHEAP</String>
+		<String>SETFILEPOINTER</String>
+		<String>SIZEOFRESOURCE</String>
+		<String>$'''''''PE''D</String>
+		<String>FINDRESOURCEA</String>
+		<String>RUNTIME ERROR</String>
+		<String>SUSPENDTHREAD</String>
+		<String>SYSFREESTRING</String>
+		<String>CREATEEVENTA</String>
+		<String>CREATETHREAD</String>
+		<String>FREERESOURCE</String>
+		<String>GETLASTERROR</String>
+		<String>GETSTDHANDLE</String>
+		<String>LOADRESOURCE</String>
+		<String>LOCKRESOURCE</String>
+		<String>RESUMETHREAD</String>
+		<String>SETLASTERROR</String>
+		<String>CREATEFILEA</String>
+		<String>EXITPROCESS</String>
+		<String>GETFILETYPE</String>
+		<String>MESSAGEBOXA</String>
+		<String>TLSGETVALUE</String>
+		<String>TLSSETVALUE</String>
+		<String>EXITTHREAD</String>
+		<String>LOCALALLOC</String>
+		<String>RESETEVENT</String>
+		<String>FPC 2.4.2</String>
+		<String>HEAPALLOC</String>
+		<String>LOCALFREE</String>
+		<String>WRITEFILE</String>
+		<String>HEAPFREE</String>
+		<String>READFILE</String>
+		<String>TLSALLOC</String>
+		<String>.IDATA</String>
+		<String>.DATA</String>
+		<String>.TEXT</String>
+		<String>SLEEP</String>
+		<String>.BSS</String>
+		<String>2010</String>
+		<String>AT $</String>
+	</GlobalStrings>
+</TrID>

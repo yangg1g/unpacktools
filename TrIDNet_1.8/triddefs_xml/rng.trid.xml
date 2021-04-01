@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RELAX NG</FileType>
+		<Ext>RNG</Ext>
+		<ExtraInfo>
+			<Rem>RELAX NG (Next Generation) is a schema language for XML.</Rem>
+			<RefURL>http://relaxng.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>03</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>51</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RELAXNG.ORG</String>
+		<String>STRUCTURE</String>
+		<String>REF NAME</String>
+		<String>GRAMMAR</String>
+		<String>XMLNS</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

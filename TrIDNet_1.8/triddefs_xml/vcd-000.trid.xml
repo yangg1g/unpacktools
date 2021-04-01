@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Virtual CD image</FileType>
+		<Ext>000</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Yamahapsr200</User>
+		<E-Mail>Platinmod@gmail.com</E-Mail>
+		<Home>namemethos.de</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2013</Year>
+			<Month>10</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>43</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1FAB990000093D0001000000</Bytes>
+			<ASCII> . . . . . . =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

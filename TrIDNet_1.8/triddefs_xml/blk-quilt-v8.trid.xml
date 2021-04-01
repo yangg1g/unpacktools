@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Quilt block (v8)</FileType>
+		<Ext>BLK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.quiltpro.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>09</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>13</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>51554C545645523854590300424C4B4E4D</Bytes>
+			<ASCII> Q U L T V E R 8 T Y . . B L K N M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

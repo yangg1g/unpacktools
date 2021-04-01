@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Macromedia Director Shockwave Cast</FileType>
+		<Ext>CCT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.macromedia.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>42</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>58464952</Bytes>
+			<ASCII> X F I R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>004344474672657646</Bytes>
+			<ASCII> . C D G F r e v F</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

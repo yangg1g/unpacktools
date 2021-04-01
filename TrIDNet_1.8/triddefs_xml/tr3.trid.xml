@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TomeRaider 3 eBook</FileType>
+		<Ext>TR3</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Tomeraider</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>45</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5452334454523343</Bytes>
+			<ASCII> T R 3 D T R 3 C</ASCII>
+			<Pos>60</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TR3DTR3C</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>JCreator Project</FileType>
+		<Ext>JCP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/JCreator</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>14</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>21202A2A204A43726561746F722050726F6A6563742046696C652028432932303030</Bytes>
+			<ASCII> !   * *   J C r e a t o r   P r o j e c t   F i l e   ( C ) 2 0 0 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>START RUNTIME CONFIGURATION STRUCTURE</String>
+		<String>START REQUIRED LIBRARIES STRUCTURE</String>
+		<String>** JCREATOR PROJECT FILE (C)2000</String>
+		<String>********** DO NOT EDIT *********</String>
+		<String>START PROJECT FOLDER STRUCTURE</String>
+		<String>BEGINRUNTIME</String>
+		<String>BEGINFOLDER</String>
+		<String>ENDRUNTIME</String>
+		<String>JDKPROFILE</String>
+		<String>OUTPUTPATH</String>
+		<String>ENDFOLDER</String>
+		<String>RUNAPPLET</String>
+		<String>RUNAPPLIC</String>
+		<String>COMPILER</String>
+		<String>DEFAULT</String>
+		<String>VERSION</String>
+		<String>ACTIVE</String>
+		<String>FILTER</String>
+		<String>CHECK</String>
+		<String>LABEL</String>
+		<String>PARAM</String>
+		<String>ROOT</String>
+	</GlobalStrings>
+</TrID>

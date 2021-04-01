@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GraphiCode Programmable Device Format</FileType>
+		<Ext>PDF</Ext>
+		<ExtraInfo>
+			<Rem>Legacy format (now deprecated)</Rem>
+			<RefURL>http://www.graphicode.com</RefURL>
+		</ExtraInfo>
+		<User>Kieran O'Donnell</User>
+		<E-Mail>FileMan at Consultant dot Com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>1</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>19</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>AF0100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

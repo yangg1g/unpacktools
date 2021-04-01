@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Page Maker 7 Document</FileType>
+		<Ext>PMD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Adobe_PageMaker</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>1</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>52</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE1</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ADOBE COMPATIBILITY CMS</String>
+		<String>PAGEMAKER 5.0 CMYK</String>
+		<String>PAGEMAKER 5.0 RGB</String>
+		<String>TIMES NEW ROMAN</String>
+		<String>PAGEMAKER 7.0</String>
+		<String>BODY TEXT</String>
+		<String>DOCUMENT</String>
+		<String>DEFAULT</String>
+		<String>PROGRAM</String>
+		<String>INDENT</String>
+		<String>PTION</String>
+		<String>ENGL</String>
+		<String>FILE</String>
+		<String>ILES</String>
+		<String>NONE</String>
+		<String>RSRC</String>
+	</GlobalStrings>
+</TrID>

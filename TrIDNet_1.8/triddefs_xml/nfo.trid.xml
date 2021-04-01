@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Folio Views Infobase</FileType>
+		<Ext>NFO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Folio_Corporation</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>35</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>28632920466F6C696F20436F72706F726174696F6E20313939312D</Bytes>
+			<ASCII> ( c )   F o l i o   C o r p o r a t i o n   1 9 9 1 -</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>(C) FOLIO CORPORATION 1991-199</String>
+		<String>ALL RIGHTS RESERVED.</String>
+		<String>INFOBASE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BinSCII encoded file</FileType>
+		<Ext>BSC</Ext>
+		<ExtraInfo>
+			<Rem>Old Apple II encoding format.</Rem>
+			<RefURL>http://apple2.tffenterprises.com/apple2/binscii.txt</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>13</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>46694C65537441725466496C457354615274</Bytes>
+			<ASCII> F i L e S t A r T f I l E s T a R t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

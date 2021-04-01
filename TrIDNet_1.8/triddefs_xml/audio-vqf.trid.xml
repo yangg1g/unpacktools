@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TwinVQF (Transform-domain Weighted INterleave Vector Quantization Format)</FileType>
+		<Ext>VQF</Ext>
+		<ExtraInfo>
+			<Rem>Propietary Yamaha audio codec</Rem>
+			<RefURL>http://www.yamaha-xg.com/soundvq/</RefURL>
+		</ExtraInfo>
+		<User>James Heinrich</User>
+		<E-Mail>getid3@nospam@users.sourceforge.net</E-Mail>
+		<Home>http://getid3.sourceforge.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2005</Year>
+			<Month>10</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>56</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5457494E</Bytes>
+			<ASCII> T W I N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>434F4D4D</Bytes>
+			<ASCII> C O M M</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4E414D45</Bytes>
+			<ASCII> N A M E</ASCII>
+			<Pos>40</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,86 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Flash Slideshow Builder project</FileType>
+		<Ext>FSP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.wondershare.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>01</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>02</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3C003F0078006D006C002000760065007200730069006F006E003D002200</Bytes>
+			<ASCII> . . . . ? . x . m . l .   . v . e . r . s . i . o . n . = . "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>F'L'A'S'H' 'S'L'I'D'E'S'H'O'W' 'B'U'I'L'D'E'R</String>
+		<String>W'E'L'C'O'M'E' 'T'O' 'W'O'N'D'E'R'S'H'A'R'E</String>
+		<String>P'H'O'T'O'2'F'L'A'S'H' 'V'E'R'S'I'O'N</String>
+		<String>E'N'D'_'T'I'T'L'E' 'T'E'M'P'L'A'T'E</String>
+		<String>E'X'P'O'R'T'_'F'I'L'E'_'T'I'T'L'E</String>
+		<String>D'E'S'C'R'I'P'T'I'O'N' 'A'L'I'G'N</String>
+		<String>P'R'E'L'U'D'E' 'T'E'M'P'L'A'T'E</String>
+		<String>B'A'C'K'G'R'O'U'N'D'_'M'U'S'I'C</String>
+		<String>B'A'C'K'G'R'O'U'N'D'_'C'O'L'O'R</String>
+		<String>T'R'A'N'S'_'E'F'F'E'C'T' 'P'1</String>
+		<String>D'I'R'E'C'T'O'R' 'A'L'I'G'N</String>
+		<String>S'T'A'R'R'I'N'G' 'A'L'I'G'N</String>
+		<String>M'U'S'I'C'_'Q'U'A'L'I'T'Y</String>
+		<String>P'H'O'T'O'_'Q'U'A'L'I'T'Y</String>
+		<String>C'O'N'T'R'O'L'_'F'L'A'G</String>
+		<String>M'O'T'I'V'E' 'A'L'I'G'N</String>
+		<String>E'X'P'O'R'T'_'T'Y'P'E</String>
+		<String>X'M'L' 'V'E'R'S'I'O'N</String>
+		<String>T'E'M'P'L'A'T'E' 'I'D</String>
+		<String>T'I'T'L'E' 'A'L'I'G'N</String>
+		<String>E'X'P'O'R'T'_'P'A'T'H</String>
+		<String>S'C'E'N'E'_'S'I'Z'E</String>
+		<String>F'O'N'T'_'C'O'L'O'R</String>
+		<String>S'L'I'D'E'_'S'I'Z'E</String>
+		<String>B'E'G'I'N'_'T'I'M'E</String>
+		<String>P'H'O'T'O'_'A'R'E'A</String>
+		<String>F'R'A'M'E'_'R'A'T'E</String>
+		<String>U'N'D'E'R'L'I'N'E</String>
+		<String>E'F'F'E'C'T'_'E'X</String>
+		<String>F'O'N'T'_'N'A'M'E</String>
+		<String>F'O'N'T'_'S'I'Z'E</String>
+		<String>T'E'X'T'_'A'R'E'A</String>
+		<String>L'O'O'P'_'P'L'A'Y</String>
+		<String>E'N'C'O'D'I'N'G</String>
+		<String>E'N'D'_'T'I'M'E</String>
+		<String>F'I'L'E'N'A'M'E</String>
+		<String>I'M'A'G'E' 'I'D</String>
+		<String>C'O'M'P'A'N'Y</String>
+		<String>F'X' 'T'E'A'M</String>
+		<String>S'M'O'O'T'H</String>
+		<String>S'T'R'I'K'E</String>
+		<String>S'H'A'D'O'W</String>
+		<String>V'A'L'I'G'N</String>
+		<String>H'E'I'G'H'T</String>
+		<String>D'E'P'T'H</String>
+		<String>L'A'Y'E'R</String>
+		<String>W'I'D'T'H</String>
+		<String>L'E'F'T</String>
+		<String>.'J'P'G</String>
+	</GlobalStrings>
+</TrID>

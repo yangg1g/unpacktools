@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SAS Transport (XPORT) format</FileType>
+		<Ext>XPT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://support.sas.com/techsup/technote/ts140.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>41</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>484541444552205245434F52442A2A2A2A2A2A2A4C49425241525920484541444552205245434F524421212121212121</Bytes>
+			<ASCII> H E A D E R   R E C O R D * * * * * * * L I B R A R Y   H E A D E R   R E C O R D ! ! ! ! ! ! !</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

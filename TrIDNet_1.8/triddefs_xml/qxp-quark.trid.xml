@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>QuarkXpress project</FileType>
+		<Ext>QXP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.quark.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>03</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>33</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>585052</Bytes>
+			<ASCII> X P R</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

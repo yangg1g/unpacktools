@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Grigon texture</FileType>
+		<Ext>TEX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ign.com/companies/grigon-entertainment</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>5</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>23</Min>
+			<Sec>3</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>477269676F6E20546578747572652066696C652076</Bytes>
+			<ASCII> G r i g o n   T e x t u r e   f i l e   v</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

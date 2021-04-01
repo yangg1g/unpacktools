@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BinHex encoded</FileType>
+		<Ext>HQX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.macdisk.com/binhexen.php3</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>5 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>00</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>28546869732066696C65206D75737420626520636F6E76657274656420776974682042696E48657820</Bytes>
+			<ASCII> ( T h i s   f i l e   m u s t   b e   c o n v e r t e d   w i t h   B i n H e x</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>42</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

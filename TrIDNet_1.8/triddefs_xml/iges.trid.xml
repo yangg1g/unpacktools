@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Initial Graphics Exchange Specification (IGES) data</FileType>
+		<Ext>IGS/IGES</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/IGES</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>07</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>47</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>20202020202020202053</Bytes>
+			<ASCII>                   S</ASCII>
+			<Pos>63</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>31</Bytes>
+			<ASCII> 1</ASCII>
+			<Pos>79</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>000000</String>
+		<String>IGES</String>
+	</GlobalStrings>
+</TrID>

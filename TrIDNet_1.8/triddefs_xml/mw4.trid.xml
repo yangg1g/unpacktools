@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MechWarrior 4 game data</FileType>
+		<Ext>MW4</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/MechWarrior_%28video_games%29</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>01</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23564244</Bytes>
+			<ASCII> # V B D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5265736F757263655C56617269616E7473</Bytes>
+			<ASCII> R e s o u r c e \ V a r i a n t s</ASCII>
+			<Pos>43</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>{SUBSYSTEM}</String>
+		<String>ICUEDBDII</String>
+		<String>VARIANTS</String>
+		<String>RESOURCE</String>
+		<String>{MECH}</String>
+	</GlobalStrings>
+</TrID>

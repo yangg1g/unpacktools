@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Kaspersky Anti-Virus signature bases</FileType>
+		<Ext>KDC</Ext>
+		<ExtraInfo>
+			<Rem>Kaspersky Anti-Virus</Rem>
+			<RefURL>http://www.kaspersky.com/</RefURL>
+		</ExtraInfo>
+		<User>xoxmodav</User>
+		<E-Mail>i@xoxmodav.net</E-Mail>
+		<Home>http://xoxmodav.net/</Home>
+	</Info>
+	<General>
+		<FileNum>2048</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>05</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>29</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4B44433100010A</Bytes>
+			<ASCII> K D C 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000028000000</Bytes>
+			<ASCII> . . . . . . . . . . . . (</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>27</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>31</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>40</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>KDC1</String>
+	</GlobalStrings>
+</TrID>

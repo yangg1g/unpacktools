@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TKUY map format</FileType>
+		<Ext>TKU</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>42</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>05</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>30</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52494646</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>544B5559</Bytes>
+			<ASCII> T K U Y</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOH!</String>
+	</GlobalStrings>
+</TrID>

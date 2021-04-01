@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>NVDL script</FileType>
+		<Ext>NVDL</Ext>
+		<ExtraInfo>
+			<Rem>NVDL stand for Namespace-based Validation Dispatching Language.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Namespace-based_Validation_Dispatching_Language</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>0</Hour>
+			<Min>25</Min>
+			<Sec>2</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E3022</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VALIDATE SCHEMA</String>
+		<String>PURL.OCLC.ORG</String>
+		<String>NAMESPACE NS</String>
+		<String>XML VERSION</String>
+		<String>STRUCTURE</String>
+		<String>RULES</String>
+		<String>XMLNS</String>
+		<String>DSDL</String>
+		<String>HTTP</String>
+		<String>NVDL</String>
+	</GlobalStrings>
+</TrID>

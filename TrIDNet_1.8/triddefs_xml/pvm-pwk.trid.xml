@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PWK Virtual machine module</FileType>
+		<Ext>PVM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>08</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>29</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50574B205669727475616C206D616368696E65206D6F64756C652076</Bytes>
+			<ASCII> P W K   V i r t u a l   m a c h i n e   m o d u l e   v</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PWK VIRTUAL MACHINE MODULE V</String>
+	</GlobalStrings>
+</TrID>

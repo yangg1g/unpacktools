@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Palm Desktop DateBook</FileType>
+		<Ext>DAT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.palm.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>02</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>42</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>BEBAFECA0F50616C6D5347204461746162617365</Bytes>
+			<ASCII> . . . . . P a l m S G   D a t a b a s e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

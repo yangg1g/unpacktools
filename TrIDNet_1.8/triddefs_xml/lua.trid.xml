@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Lua bytecode (generic)</FileType>
+        <Ext>OUT</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.lua.org</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>10</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2004</Year>
+            <Month>01</Month>
+            <Day>29</Day>
+        </Date>
+        <Time>
+            <Hour>00</Hour>
+            <Min>09</Min>
+            <Sec>11</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>1B4C7561</Bytes>
+            <ASCII> . L u a</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

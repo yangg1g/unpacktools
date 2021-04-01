@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AZZ Cardfile data (Text)</FileType>
+		<Ext>TMP</Ext>
+		<ExtraInfo>
+			<Rem>Contained in an .AZZ file (old format).</Rem>
+			<RefURL>http://www.azzcardfile.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>35</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4C5931444C20416E6F74686572206361726466696C65202D20545854</Bytes>
+			<ASCII> L Y 1 D L   A n o t h e r   c a r d f i l e   -   T X T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

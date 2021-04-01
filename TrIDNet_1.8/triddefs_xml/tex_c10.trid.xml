@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Corel 10 Texture</FileType>
+		<Ext>TEX</Ext>
+		<ExtraInfo>
+			<Rem>Procedural texture format used by Corel.</Rem>
+			<RefURL>http://www.corel.com</RefURL>
+		</ExtraInfo>
+		<User>Alex Paven</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>341</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>05</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>48</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>544449504C4F4F4D01</Bytes>
+			<ASCII> T D I P L O O M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<Pos>18</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>85</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>93</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000</Bytes>
+			<Pos>96</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TDIPLOOM</String>
+	</GlobalStrings>
+</TrID>

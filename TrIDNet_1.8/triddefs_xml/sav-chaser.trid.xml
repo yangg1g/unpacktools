@@ -1,0 +1,73 @@
+<TrID ver="2.00">
+	<Info>
+        <FileType>Chaser Savegame</FileType>
+		<Ext>SAV</Ext>
+		<ExtraInfo>
+			<Rem>Chaser is a first person shooter</Rem>
+			<RefURL>http://www.cauldron.sk/projects/chaser/index.html</RefURL>
+		</ExtraInfo>
+        <User>dr Angelo Amoruso</User>
+        <E-Mail>aamoruso AT libero.it</E-Mail>
+        <Home>http://webmod.homelinux.org</Home>
+	</Info>
+	<General>
+		<FileNum>134</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>10</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C4361756C64726F6E204368756E6B2046696C653E0100000000000100</Bytes>
+			<ASCII> . C a u l d r o n   C h u n k   F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<Pos>63</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.ANI'CHANIM</String>
+		<String>BODY</String>
+		<String>CAULDRON CHUNK FILE</String>
+		<String>D'''''''CHASER</String>
+		<String>DEFA</String>
+		<String>E''PB</String>
+		<String>EFAU</String>
+		<String>EFT.</String>
+		<String>ER.ANI</String>
+		<String>GASSTATE</String>
+		<String>GENERAL'TRACKS'BRUSHES'ENTITIES'ACTORS'CAMERASHAKE'AIPATHGRAPH'CELLS'PHYSICS'DYNAMICOBJECTCONTAINER'PSYSTEMGENERAL'P</String>
+		<String>GHT.</String>
+		<String>GUNS</String>
+		<String>HEAD.MTL</String>
+		<String>IDLE</String>
+		<String>IGHT</String>
+		<String>L.ANI</String>
+		<String>MIMICS</String>
+		<String>MODEL.MSH</String>
+		<String>NONE</String>
+		<String>NTER</String>
+		<String>OVEM</String>
+		<String>OWN.</String>
+		<String>PARTS.DEF</String>
+		<String>PEMITTERGENERAL</String>
+		<String>RIGH</String>
+		<String>STANDING.ANI</String>
+		<String>START</String>
+		<String>T.ANI</String>
+		<String>WEAPON</String>
+		<String>WORLD</String>
+		<String>Y'''MODELS</String>
+	</GlobalStrings>
+</TrID>

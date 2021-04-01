@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>StarCraft 2 game replay</FileType>
+		<Ext>SC2REPLAY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>35</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2010</Year>
+			<Month>09</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>24</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D50511B</Bytes>
+			<ASCII> M P Q</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

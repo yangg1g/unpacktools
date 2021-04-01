@@ -1,0 +1,66 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IDRISI Raster image Documentation</FileType>
+		<Ext>RDC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.idrisi.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>17</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>66696C6520666F726D6174203A204944524953492052617374657220</Bytes>
+			<ASCII> f i l e   f o r m a t   :   I D R I S I   R a s t e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>THIS FILE WAS CREATED BY</String>
+		<String>WITH THE COMMAND LINE</String>
+		<String>IDRISI RASTER</String>
+		<String>DISPLAY MAX</String>
+		<String>DISPLAY MIN</String>
+		<String>FILE FORMAT</String>
+		<String>LEGEND CATS</String>
+		<String>REF. SYSTEM</String>
+		<String>VALUE ERROR</String>
+		<String>VALUE UNITS</String>
+		<String>FILE TITLE</String>
+		<String>FLAG VALUE</String>
+		<String>MAX. VALUE</String>
+		<String>MIN. VALUE</String>
+		<String>REF. UNITS</String>
+		<String>RESOLUTION</String>
+		<String>UNIT DIST.</String>
+		<String>DATA TYPE</String>
+		<String>FILE TYPE</String>
+		<String>FLAG DEF</String>
+		<String>COLUMNS</String>
+		<String>LINEAGE</String>
+		<String>ERROR</String>
+		<String>MAX. X</String>
+		<String>MAX. Y</String>
+		<String>MIN. X</String>
+		<String>MIN. Y</String>
+		<String>.RST</String>
+		<String>ROWS</String>
+	</GlobalStrings>
+</TrID>

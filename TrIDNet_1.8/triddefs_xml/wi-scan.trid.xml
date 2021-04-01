@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>wi-scan log</FileType>
+		<Ext>STD/SUM/TXT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.seattlewireless.net/WarDrivingSoftware</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>16</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23202443726561746F723A20</Bytes>
+			<ASCII> #   $ C r e a t o r :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SNR SIG NOISE</String>
+		<String>TIME</String>
+		<String>$DATEGMT</String>
+		<String>$FORMAT</String>
+		<String>WI-SCAN</String>
+		<String>BSSID</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

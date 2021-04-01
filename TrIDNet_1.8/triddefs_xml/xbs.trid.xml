@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XnConvert configuration</FileType>
+		<Ext>XBS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.xnview.com/</RefURL>
+		</ExtraInfo>
+		<User>Peter Glasl, cadraktiv</User>
+		<E-Mail></E-Mail>
+		<Home>http://www.cadraktiv.ch</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>06</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>20</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E3C586E566965775F7363726970742076657273696F6E3D22312E3022206E616D653D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ? . . X n V i e w _ s c r i p t   v e r s i o n = " 1 . 0 "   n a m e = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>XNVIEW_SCRIPT VERSION</String>
+		<String>OPTIONS OVERWRITE</String>
+		<String>OUTPUT FOLDER</String>
+		<String>TIFF COMPRESS</String>
+		<String>OPENEXPLORER</String>
+		<String>XML VERSION</String>
+		<String>COMPRESSBW</String>
+		<String>CLEARITEMS</String>
+		<String>KEEPFOLDER</String>
+		<String>MULTIPAGE</String>
+		<String>ALLPAGES</String>
+		<String>ONESTRIP</String>
+		<String>KEEPMETA</String>
+		<String>FILENAME</String>
+		<String>ENCODING</String>
+		<String>KEEPICC</String>
+		<String>QUALITY</String>
+		<String>ORGDATE</String>
+		<String>FORMAT</String>
+		<String>DELORG</String>
+		<String>FALSE</String>
+		<String>UTF-8</String>
+		<String>CASE</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

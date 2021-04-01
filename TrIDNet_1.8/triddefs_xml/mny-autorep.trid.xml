@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Money auto saved data</FileType>
+		<Ext>MNY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/money</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>3</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>41</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>BABAFF</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

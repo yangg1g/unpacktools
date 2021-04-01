@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Commodore 64 Emulator Tape file</FileType>
+		<Ext>T64</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>01</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>29</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>433634</Bytes>
+			<ASCII> C 6 4</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>65</Bytes>
+			<ASCII> e</ASCII>
+			<Pos>13</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FILE</String>
+		<String>TAPE</String>
+	</GlobalStrings>
+</TrID>

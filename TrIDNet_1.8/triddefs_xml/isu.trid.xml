@@ -1,0 +1,39 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>InstallShield Uninstall Script</FileType>
+        <Ext>ISU</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>18</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>07</Day>
+        </Date>
+        <Time>
+            <Hour>10</Hour>
+            <Min>51</Min>
+            <Sec>54</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.2b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>71A800000102</Bytes>
+            <ASCII> q</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>002900537469726C696E6720546563686E6F6C6F676965732C20496E632E2028632920313939302D31393935</Bytes>
+            <ASCII> . ) . S t i r l i n g   T e c h n o l o g i e s ,   I n c .   ( c )   1 9 9 0 - 1 9 9 5</ASCII>
+            <Pos>9</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

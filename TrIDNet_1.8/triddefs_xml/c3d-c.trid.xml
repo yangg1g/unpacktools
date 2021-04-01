@@ -1,0 +1,54 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Coordinate 3D (subset of ADTech File Format) file (common)</FileType>
+        <Ext>C3D</Ext>
+        <ExtraInfo>
+            <Rem>This def is for the most common C3D files with the parameters section starting at block 2</Rem>
+            <RefURL>http://www.c3d.org</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>36</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>10</Month>
+            <Day>12</Day>
+        </Date>
+        <Time>
+            <Hour>20</Hour>
+            <Min>27</Min>
+            <Sec>48</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>0250</Bytes>
+            <ASCII> . P</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+            <Pos>24</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000</Bytes>
+            <Pos>296</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00</Bytes>
+            <Pos>303</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>000000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+            <Pos>340</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+            <Pos>468</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

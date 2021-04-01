@@ -1,0 +1,63 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Chess Titans Saved game</FileType>
+		<Ext>CHESSTITANSSAVE-MS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Chess_Titans</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>1</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>59</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52474D480100000028</Bytes>
+			<ASCII> R G M H . . . . (</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0100156B85E296A1824CBDA1C75D273DF98943006800650073007300200054006900740061006E0073</Bytes>
+			<ASCII> . . . k . . . . . L . . . ] ' = . . C . h . e . s . s .   . T . i . t . a . n . s</ASCII>
+			<Pos>22</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>C'H'E'S'S'T'I'T'A'N'S'.'C'H'E'S'S'T'I'T'A'N'S'S'A'V'E'-'M'S</String>
+		<String>M'I'C'R'O'S'O'F'T' 'G'A'M'E'S</String>
+		<String>C'H'E'S'S' 'T'I'T'A'N'S</String>
+		<String>S'A'V'E'D' 'G'A'M'E'S</String>
+		<String>DIFFICULTY</String>
+		<String>U'S'E'R'S</String>
+		<String>COMPUTER</String>
+		<String>RESULT</String>
+		<String>BLACK</String>
+		<String>EVENT</String>
+		<String>HUMAN</String>
+		<String>IDATX</String>
+		<String>ROUND</String>
+		<String>WHITE</String>
+		<String>DATE</String>
+		<String>GAMA</String>
+		<String>IEND</String>
+		<String>IHDR</String>
+		<String>PHYS</String>
+		<String>SITE</String>
+		<String>SRGB</String>
+	</GlobalStrings>
+</TrID>

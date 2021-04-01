@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sybase iAnywhere database files</FileType>
+		<Ext>DBF</Ext>
+		<ExtraInfo>
+			<Rem>Formerly known as Advantage Database Systems (ADS)</Rem>
+			<RefURL>http://www.sybase.com/ianywhere</RefURL>
+		</ExtraInfo>
+		<User>Knuth Konrad</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>299</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>19</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000000000000</Bytes>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>30</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

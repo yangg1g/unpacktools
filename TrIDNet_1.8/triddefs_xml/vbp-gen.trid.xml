@@ -1,0 +1,62 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VisualBasic Project (generic)</FileType>
+		<Ext>VBP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Visual_Basic</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>01</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>38</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>547970653D</Bytes>
+			<ASCII> T y p e =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FAVORPENTIUMPRO(TM)</String>
+		<String>MAXNUMBEROFTHREADS</String>
+		<String>SERVERSUPPORTFILES</String>
+		<String>CODEVIEWDEBUGINFO</String>
+		<String>AUTOINCREMENTVER</String>
+		<String>OPTIMIZATIONTYPE</String>
+		<String>THREADPEROBJECT</String>
+		<String>COMPILATIONTYPE</String>
+		<String>COMPATIBLEMODE</String>
+		<String>OVERFLOWCHECK</String>
+		<String>HELPCONTEXTID</String>
+		<String>FLPOINTCHECK</String>
+		<String>BOUNDSCHECK</String>
+		<String>REVISIONVER</String>
+		<String>UNROUNDEDFP</String>
+		<String>NOALIASING</String>
+		<String>UNATTENDED</String>
+		<String>FDIVCHECK</String>
+		<String>REFERENCE</String>
+		<String>COMMAND32</String>
+		<String>STARTMODE</String>
+		<String>MINORVER</String>
+		<String>MAJORVER</String>
+		<String>STARTUP</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

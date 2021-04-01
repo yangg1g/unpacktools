@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Cartesian Perceptual Compression image</FileType>
+		<Ext>CPC/CPI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cartesianinc.com/Tech/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>43</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>435043B2</Bytes>
+			<ASCII> C P C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

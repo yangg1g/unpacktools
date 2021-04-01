@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AlbumWrap archive</FileType>
+		<Ext>MP3</Ext>
+		<ExtraInfo>
+			<Rem>AlbumWrap archives wrap a serie of MP3 files in a single file album that is still playable by any standard MP3 player.</Rem>
+			<RefURL>http://www.infamus.com/albumwrap/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>05</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>49443303000000000A235449543200000010000000416C62756D5772617020416C62756D54414C42000000</Bytes>
+			<ASCII> I D 3 . . . . . . # T I T 2 . . . . . . . A l b u m W r a p   A l b u m T A L B</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000416C62756D57726170202D20</Bytes>
+			<ASCII> . . . A l b u m W r a p   -</ASCII>
+			<Pos>44</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

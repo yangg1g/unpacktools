@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Aston 2 Menu</FileType>
+		<Ext>A2MENU</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.astonshell.com/aston2/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>5</Month>
+			<Day>6</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>51</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>A2MENU.XMLPK</String>
+		<String>SEARCH.XMLPK</String>
+		<String>INDEX.XMLPK</String>
+		<String>PANEL.XMLPK</String>
+		<String>.JPGPK</String>
+		<String>.PNGPK</String>
+	</GlobalStrings>
+</TrID>

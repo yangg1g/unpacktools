@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>NetImmerse file format</FileType>
+		<Ext>NIF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ndl.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>09</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>46</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4E6574496D6D657273652046696C6520466F726D61742C2056657273696F6E20</Bytes>
+			<ASCII> N e t I m m e r s e   F i l e   F o r m a t ,   V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>33</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Palm Bible+ document</FileType>
+		<Ext>PDB</Ext>
+		<ExtraInfo>
+			<Rem>Bible+ is a free (GPL-licensed) Bible reader for Palm OS derived from the original BibleReader that was created by Poetry Poon.</Rem>
+			<RefURL>http://palmbibleplus.sourceforge.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>02</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000000006269626C5050424C</Bytes>
+			<ASCII> . . . . b i b l P P B L</ASCII>
+			<Pos>56</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BIBLPPBL</String>
+	</GlobalStrings>
+</TrID>

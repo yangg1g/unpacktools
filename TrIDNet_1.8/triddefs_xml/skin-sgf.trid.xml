@@ -1,0 +1,80 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sonique skin</FileType>
+		<Ext>SGF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://sonique.lycos.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>31</FileNum>
+		<Refine>3 by Marco Pontello - 3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>09</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>444146004C495354</Bytes>
+			<ASCII> D A F . L I S T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>STATUSBARTEXTCOLOR</String>
+		<String>STATUSBARFGCOLOR</String>
+		<String>STATUSBARBGCOLOR</String>
+		<String>PROGRESSBKCOLOR</String>
+		<String>PLAYLISTCOLOR_</String>
+		<String>SYSTEMBKCOLOR_</String>
+		<String>BLUEBALLSCOLOR</String>
+		<String>PROGRESSCOLOR_</String>
+		<String>SONIQUE COLORS</String>
+		<String>PITCHKNOBCOLOR</String>
+		<String>SKINTHUMBMASK</String>
+		<String>OPENFILECOLOR</String>
+		<String>LOGORINGCOLOR</String>
+		<String>AMPKNOBCOLOR</String>
+		<String>SYSTEMCOLOR_</String>
+		<String>BALKNOBCOLOR</String>
+		<String>LISTPOSRING</String>
+		<String>SONGPOSRING</String>
+		<String>BORDERCOLOR</String>
+		<String>VOLUMEKNOB</String>
+		<String>MIDSONIQUE</String>
+		<String>NAVIGATOR</String>
+		<String>LOGOCOLOR</String>
+		<String>DAF'LIST</String>
+		<String>SKIN.INI</String>
+		<String>URL_TEXT</String>
+		<String>SHUFFLE</String>
+		<String>DISPLAY</String>
+		<String>AUTHOR</String>
+		<String>BOTTOM</String>
+		<String>REPEAT</String>
+		<String>STATE</String>
+		<String>EJECT</String>
+		<String>FRAME</String>
+		<String>TITLE</String>
+		<String>SMALL</String>
+		<String>PAUSE</String>
+		<String>JFIF</String>
+		<String>MISC</String>
+		<String>PREV</String>
+		<String>NEXT</String>
+		<String>JPEG</String>
+	</GlobalStrings>
+</TrID>

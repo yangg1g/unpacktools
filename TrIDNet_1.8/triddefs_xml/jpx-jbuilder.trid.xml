@@ -1,0 +1,76 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>JBuilder Project</FileType>
+		<Ext>JPX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Jbuilder</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>14</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COM.BORLAND.JBUILDER.BUILD.PROJECTBUILDER$PROJECTBUILDACTION</String>
+		<String>COM.BORLAND.JBUILDER.RUNTIME.</String>
+		<String>--JBUILDER XML PROJECT--</String>
+		<String>DEFAULTCONFIGURATION</String>
+		<String>EXCLUDECLASSENABLED</String>
+		<String>SINGLE.SERVER.NAME</String>
+		<String>INSTANCEVISIBILITY</String>
+		<String>PROPERTY CATEGORY</String>
+		<String>CONFIGURATIONNAME</String>
+		<String>BUILDTARGETONRUN</String>
+		<String>WORKINGDIRECTORY</String>
+		<String>DESCRIPTIONLABEL</String>
+		<String>INCLUDETESTPATH</String>
+		<String>SERVERSERVICES</String>
+		<String>COPYRIGHTLABEL</String>
+		<String>VERSIONLABEL</String>
+		<String>COMPANYLABEL</String>
+		<String>RUNNABLETYPE</String>
+		<String>XML VERSION</String>
+		<String>DEFAULTPATH</String>
+		<String>CHECKSTABLE</String>
+		<String>AUTHORLABEL</String>
+		<String>BACKUPPATH</String>
+		<String>TITLELABEL</String>
+		<String>SOURCEPATH</String>
+		<String>MAKESTABLE</String>
+		<String>LIBRARIES</String>
+		<String>ENCODING</String>
+		<String>CLASSES</String>
+		<String>DOCPATH</String>
+		<String>OUTPATH</String>
+		<String>LASTTAG</String>
+		<String>.CLASS</String>
+		<String>TOMCAT</String>
+		<String>RUNNER</String>
+		<String>VALUE</String>
+		<String>UTF-8</String>
+		<String>ENTS</String>
+		<String>JAVA</String>
+		<String>FILE</String>
+	</GlobalStrings>
+</TrID>

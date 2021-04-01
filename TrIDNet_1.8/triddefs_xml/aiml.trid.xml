@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Artificial Intelligence Markup Language</FileType>
+		<Ext>AIML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.alicebot.org/aiml.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marco@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>93</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>07</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>11</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CATEGORY</String>
+		<String>PATTERN</String>
+		<String>TEMPLATE</String>
+		<String>THIS</String>
+	</GlobalStrings>
+</TrID>

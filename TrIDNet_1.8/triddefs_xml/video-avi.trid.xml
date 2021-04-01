@@ -1,0 +1,59 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>AVI Audio Video Interleaved</FileType>
+        <Ext>AVI</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home></Home>
+    </Info>
+    <General>
+        <FileNum>93</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>10</Month>
+            <Day>25</Day>
+        </Date>
+        <Time>
+            <Hour>20</Hour>
+            <Min>17</Min>
+            <Sec>37</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>52494646</Bytes>
+            <ASCII> R I F F</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>415649204C495354</Bytes>
+            <ASCII> A V I   L I S T</ASCII>
+            <Pos>8</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00006864726C6176696838000000</Bytes>
+            <ASCII> . . h d r l a v i h 8</ASCII>
+            <Pos>18</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>4C495354</Bytes>
+            <ASCII> L I S T</ASCII>
+            <Pos>88</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00007374726C73747268</Bytes>
+            <ASCII> . . s t r l s t r h</ASCII>
+            <Pos>94</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00000076696473</Bytes>
+            <ASCII> . . . v i d s</ASCII>
+            <Pos>105</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

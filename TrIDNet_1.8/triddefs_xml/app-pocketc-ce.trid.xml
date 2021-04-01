@@ -1,0 +1,29 @@
+<TrID ver="1.15">
+    <Info>
+        <FileType>OrbWorks PocketC CE Application</FileType>
+        <Ext>APP</Ext>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>15</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>11</Day>
+        </Date>
+        <Time>
+            <Hour>20</Hour>
+            <Min>06</Min>
+            <Sec>13</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>B80B000000000000000000000000000000000000</Bytes>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

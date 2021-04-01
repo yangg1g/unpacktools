@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Litestep theme</FileType>
+		<Ext>LSZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.litestep.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>10</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONFIG</String>
+		<String>.PNGPK</String>
+		<String>.RCPK</String>
+	</GlobalStrings>
+</TrID>

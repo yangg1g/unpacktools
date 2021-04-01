@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Lotus Notes Encapsulated Memo</FileType>
+		<Ext>OND</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/IBM_Lotus_Notes</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>58</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1A</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>25</Bytes>
+			<ASCII> %</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>456E63617073756C61746564204E6F746520</Bytes>
+			<ASCII> E n c a p s u l a t e d   N o t e</ASCII>
+			<Pos>200</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ENCAPSULATED NOTE</String>
+		<String>FROMDOMAIN</String>
+		<String>MESSAGE</String>
+		<String>SUBJECT</String>
+		<String>EMAIL</String>
+		<String>FORM</String>
+		<String>SEND</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

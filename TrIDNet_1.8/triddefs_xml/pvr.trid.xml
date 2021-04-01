@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PVR textures</FileType>
+		<Ext>PVR</Ext>
+		<ExtraInfo>
+			<Rem>A file format from Imagination Technologies.</Rem>
+			<RefURL>http://www.imgtec.com/powervr/insider/docs/PVR%20File%20Format.Specification.1.0.11.External.pdf</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>7</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>3</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>34000000000400000004000000000000190200000000080004000000000000000000000000000000</Bytes>
+			<ASCII> 4</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5056522100000000</Bytes>
+			<ASCII> P V R !</ASCII>
+			<Pos>44</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

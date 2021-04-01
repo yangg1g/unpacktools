@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Media Container Format stream</FileType>
+        <Ext>MCF</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://mcf.sourceforge.net/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>2</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </Date>
+        <Time>
+            <Hour>12</Hour>
+            <Min>52</Min>
+            <Sec>00</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.2b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4D4346202D20</Bytes>
+            <ASCII> M C F   -</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

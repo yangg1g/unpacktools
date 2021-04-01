@@ -1,0 +1,33 @@
+<TrID ver="1.15">
+    <Info>
+        <FileType>VOB video files</FileType>
+        <Ext>VOB</Ext>
+        <User>Joystick</User>
+        <E-Mail>songokussj83@nospam@libero.it</E-Mail>
+        <Home></Home>
+    </Info>
+    <General>
+        <FileNum>6</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>09</Day>
+        </Date>
+        <Time>
+            <Hour>22</Hour>
+            <Min>11</Min>
+            <Sec>47</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>000001BA</Bytes>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0189C3F8000001E007EC81</Bytes>
+            <Pos>10</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LegaSuite GUI Runtime</FileType>
+		<Ext>JWR</Ext>
+		<ExtraInfo>
+			<Rem>Formerly known as J Walk and WinJa.</Rem>
+			<RefURL>http://www.seagullsoftware.com/solutions/gui.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>30</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53454147554C4C204A575220</Bytes>
+			<ASCII> S E A G U L L   J W R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

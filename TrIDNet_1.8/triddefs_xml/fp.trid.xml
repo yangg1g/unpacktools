@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FinePrint saved - output file</FileType>
+		<Ext>FP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://fineprint.com</RefURL>
+		</ExtraInfo>
+		<User>TBeu</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>53</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>46494E</Bytes>
+			<ASCII> F I N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

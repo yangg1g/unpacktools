@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>iPhoto image data</FileType>
+		<Ext>ATTR</Ext>
+		<ExtraInfo>
+			<Rem>Attributes for each image in a library are stored in a correspondent .attr file.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Iphoto</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>87</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>08</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>040B747970656473747265616D8103E88401408484840C4174747269627574654D6772018484084E534F626A656374008592848484134E534D757461626C6544696374696F6E6172790084840C4E5344696374696F6E61727900948401690292848484084E53537472696E67019484012B0A417474726962757465738692849697</Bytes>
+			<ASCII> . . t y p e d s t r e a m . . . . . @ . . . . A t t r i b u t e M g r . . . . N S O b j e c t . . . . . . . N S M u t a b l e D i c t i o n a r y . . . . N S D i c t i o n a r y . . . . i . . . . . . N S S t r i n g . . . . + . A t t r i b u t e s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ORIGARCHIVEFILENAME</String>
+		<String>NSMUTABLEDICTIONARY</String>
+		<String>MODICATION_DATE</String>
+		<String>SINCE70INTERVAL</String>
+		<String>NSMUTABLEARRAY</String>
+		<String>IMAGEUSERDATA</String>
+		<String>ORIGFILENAME</String>
+		<String>ATTRIBUTEMGR</String>
+		<String>NSDICTIONARY</String>
+		<String>TYPEDSTREAM</String>
+		<String>ATTRIBUTES</String>
+		<String>FILESIZE</String>
+		<String>NSOBJECT</String>
+		<String>NSNUMBER</String>
+		<String>NSSTRING</String>
+		<String>ORIGDATE</String>
+		<String>CAPTION</String>
+		<String>UNFILED</String>
+		<String>NSARRAY</String>
+		<String>NSVALUE</String>
+		<String>NSDATE</String>
+		<String>NSDATA</String>
+		<String>.JPG</String>
+	</GlobalStrings>
+</TrID>

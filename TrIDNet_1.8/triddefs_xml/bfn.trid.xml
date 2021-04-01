@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Brother Embroidery System Font</FileType>
+		<Ext>BFN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>25</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>42726F7468657220456D62726F69646572792053797374656D20466F6E740D0A</Bytes>
+			<ASCII> B r o t h e r	E m b r o i d e r y   S y s t e m   F o n t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

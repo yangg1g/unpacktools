@@ -1,0 +1,36 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Amiga Disk image File (generic)</FileType>
+		<Ext>ADF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Wayne Hardman</User>
+		<E-Mail>wayneatthurnscoe.co.uk</E-Mail>
+		<Home>http://www.runesource.co.uk</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Refine>9 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>38</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>444F53</Bytes>
+			<ASCII> D O S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

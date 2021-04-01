@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SGA archive - Home World 2 game data</FileType>
+		<Ext>BIG</Ext>
+		<ExtraInfo>
+			<Rem>SGA Archives are used in various games from Relic Entertainment Inc.</Rem>
+			<RefURL>http://www.relic.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>45</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5F4152434849564502000000</Bytes>
+			<ASCII> _ A R C H I V E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>480057003200</Bytes>
+			<ASCII> H . W . 2</ASCII>
+			<Pos>28</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

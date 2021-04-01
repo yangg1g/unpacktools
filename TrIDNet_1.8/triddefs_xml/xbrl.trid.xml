@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>eXtensible Business Reporting Language</FileType>
+		<Ext>XBRL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/XBRL</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>9</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>41</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WWW.XBRL.ORG</String>
+		<String>IDENTIFIER</String>
+		<String>WWW.W3.ORG</String>
+		<String>SCHEMAREF</String>
+		<String>INSTANCE</String>
+		<String>LINKBASE</String>
+		<String>CONTEXT</String>
+		<String>ISO4217</String>
+		<String>ENTITY</String>
+		<String>PERIOD</String>
+		<String>SCHEME</String>
+		<String>SIMPLE</String>
+		<String>XLINK</String>
+		<String>XMLNS</String>
+		<String>.XSD</String>
+		<String>HREF</String>
+		<String>HTTP</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

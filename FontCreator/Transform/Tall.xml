@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+ <TransformScript>
+  <OtherComments>
+   <Content>Tall
+This is an alternative way to make a condensed font, or a way to make a font more suitable for Titling. You may need to move accents up and recalculate the font metrics (Format, Settings, Metrics, Maximum, Calculate) after running the script. The Panose weight classification may also need changing.</Content>
+  </OtherComments>
+  <OutlineScale>
+   <AroundType>2</AroundType>
+   <AroundCorner>0</AroundCorner>
+   <AroundXPos>0</AroundXPos>
+   <AroundYPos>0</AroundYPos>
+   <Horizontal>100.00</Horizontal>
+   <Vertical>110.00</Vertical>
+   <PreserveBearings>TRUE</PreserveBearings>
+  </OutlineScale>
+ </TransformScript>
+</DATA>

@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SuperTux World Map File (with rem)</FileType>
+		<Ext>STWM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/SuperTux</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>32</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3B</Bytes>
+			<ASCII> ;</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>(SUPERTUX-</String>
+		<String>(TILEMAP</String>
+		<String>WORLDMAP</String>
+		<String>(HEIGHT</String>
+		<String>(LEVEL</String>
+		<String>(WIDTH</String>
+		<String>(NAME</String>
+		<String>.STL</String>
+		<String>MAIN</String>
+	</GlobalStrings>
+</TrID>

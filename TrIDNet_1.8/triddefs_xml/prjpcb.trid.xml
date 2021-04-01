@@ -1,0 +1,149 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Altium Designer project</FileType>
+		<Ext>PRJPCB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.altium.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>25</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B44657369676E5D0D0A56657273696F6E3D</Bytes>
+			<ASCII> [ D e s i g n ] . . V e r s i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COMPONENT CROSS REFERENCE REPORT</String>
+		<String>GENERATES PICK AND PLACE FILES</String>
+		<String>CHANNELDESIGNATORFORMATSTRING</String>
+		<String>APPENDSHEETNUMBERTOLOCALNETS</String>
+		<String>CHANNELROOMLEVELSEPERATOR</String>
+		<String>REPORT PROJECT HIERARCHY</String>
+		<String>COMPOSITE DRILL DRAWING</String>
+		<String>COMPONENTCROSSREFERENCE</String>
+		<String>ALLOWSHEETENTRYNETNAMES</String>
+		<String>CHANNELROOMNAMINGSTYLE</String>
+		<String>ELECTRICAL RULES CHECK</String>
+		<String>DATABASEUPDATEOPTIONS</String>
+		<String>ERC CONNECTION MATRIX</String>
+		<String>DOCUMENTATION OUTPUTS</String>
+		<String>LIBRARYUPDATEOPTIONS</String>
+		<String>$COMPONENT_$ROOMNAME</String>
+		<String>FINAL ARTWORK PRINTS</String>
+		<String>OUTPUTDOCUMENTPATH8</String>
+		<String>MODIFICATION LEVELS</String>
+		<String>FABRICATION OUTPUTS</String>
+		<String>UPDATECURRENTMODELS</String>
+		<String>ANNOTATESTARTVALUE</String>
+		<String>POWER-PLANE PRINTS</String>
+		<String>ASSEMBLY DRAWINGS</String>
+		<String>TEST POINT REPORT</String>
+		<String>ALLOWPORTNETNAMES</String>
+		<String>DIFFERENCE LEVELS</String>
+		<String>SIMULATOR OUTPUTS</String>
+		<String>ANNOTATIONENABLED</String>
+		<String>COMPOSITE DRAWING</String>
+		<String>PASTE MASK PRINTS</String>
+		<String>BILL OF MATERIALS</String>
+		<String>SCHEMATIC PRINTS</String>
+		<String>CENTERHORIZONTAL</String>
+		<String>REMOVEPARAMETERS</String>
+		<String>ASSEMBLY OUTPUTS</String>
+		<String>DODATABASEUPDATE</String>
+		<String>NETLIST OUTPUTS</String>
+		<String>MATCHPARAMETER1</String>
+		<String>TRUETYPEOPTIONS</String>
+		<String>REPORTHIERARCHY</String>
+		<String>SEPARATEFOLDERS</String>
+		<String>TIMESTAMPOUTPUT</String>
+		<String>DOLIBRARYUPDATE</String>
+		<String>ANNOTATESUFFIX</String>
+		<String>PRINTEROPTIONS</String>
+		<String>REPORT OUTPUTS</String>
+		<String>CENTERVERTICAL</String>
+		<String>NC DRILL FILES</String>
+		<String>ARCHIVEPROJECT</String>
+		<String>COMPOSITEDRILL</String>
+		<String>XSPICE NETLIST</String>
+		<String>HIERARCHYMODE</String>
+		<String>PROTELNETLIST</String>
+		<String>ADVSIMNETLIST</String>
+		<String>OUTPUTDEFAULT</String>
+		<String>XSPICENETLIST</String>
+		<String>OTHER OUTPUTS</String>
+		<String>ADDPARAMETERS</String>
+		<String>OUTPUTENABLED</String>
+		<String>SELECTEDONLY</String>
+		<String>DOPARAMETERS</String>
+		<String>BOM_PARTTYPE</String>
+		<String>PRINTQUALITY</String>
+		<String>BOTTOMOFFSET</String>
+		<String>REMOVEMODELS</String>
+		<String>EDIF FOR PCB</String>
+		<String>GERBER FILES</String>
+		<String>XCORRECTION</String>
+		<String>PAGEOPTIONS</String>
+		<String>YCORRECTION</String>
+		<String>OPENOUTPUTS</String>
+		<String>OUTPUTGROUP</String>
+		<String>ODB++ FILES</String>
+		<String>PAPERSOURCE</String>
+		<String>PAPERLENGTH</String>
+		<String>DESCRIPTION</String>
+		<String>ORIENTATION</String>
+		<String>FULLREPLACE</String>
+		<String>TEST POINTS</String>
+		<String>BORDERSIZE</String>
+		<String>PICK PLACE</String>
+		<String>OUTPUTNAME</String>
+		<String>OUTPUTTYPE</String>
+		<String>PRINTSCALE</String>
+		<String>LEFTOFFSET</String>
+		<String>DOGRAPHICS</String>
+		<String>SIMPLE BOM</String>
+		<String>DITHERTYPE</String>
+		<String>PCB PRINTS</String>
+		<String>OUTPUTPATH</String>
+		<String>PAPERWIDTH</String>
+		<String>MULTIWIRE</String>
+		<String>PRINTWHAT</String>
+		<String>SORTORDER</String>
+		<String>ADDMODELS</String>
+		<String>PAPERKIND</String>
+		<String>MEDIATYPE</String>
+		<String>VHDL FILE</String>
+		<String>SIMPLEBOM</String>
+		<String>PRINTKIND</String>
+		<String>MIXED SIM</String>
+		<String>DOMODELS</String>
+		<String>VERSION</String>
+		<String>.SCHDOC</String>
+		<String>COLLATE</String>
+		<String>SOLDER</String>
+		<String>RECORD</String>
+		<String>GUIDES</String>
+		<String>COPIES</String>
+		<String>DUPLEX</String>
+		<String>INCL</String>
+	</GlobalStrings>
+</TrID>

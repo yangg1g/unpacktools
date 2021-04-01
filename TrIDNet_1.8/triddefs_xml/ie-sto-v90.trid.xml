@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Infinity Engine Store (v9.0)</FileType>
+		<Ext>STO</Ext>
+		<ExtraInfo>
+			<Rem>Infinity Engine STO files contain a description of the types of items and services available for sale in a given location.</Rem>
+			<RefURL>http://iesdp.gibberlings3.net/file_formats/ie_formats/sto_v9.htm</RefURL>
+		</ExtraInfo>
+		<User>Sam.</User>
+		<E-Mail>sampsca@yahoo.com</E-Mail>
+		<Home>http://www.shsforums.net/user/10485-sam/</Home>
+	</Info>
+	<General>
+		<FileNum>226</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>2</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>10</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53544F5256392E30</Bytes>
+			<ASCII> S T O R V 9 . 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

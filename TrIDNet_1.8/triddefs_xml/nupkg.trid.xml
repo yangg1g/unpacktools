@@ -1,0 +1,77 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>NuGet Package</FileType>
+		<Ext>NUPKG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/NuGet</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>19</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VND.OPENXMLFORMATS-PACKAGE.CORE-PROPERTIES+XML</String>
+		<String>VND.OPENXMLFORMATS-PACKAGE.RELATIONSHIPS+XML</String>
+		<String>SCHEMAS.OPENXMLFORMATS.ORG</String>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>COREPROPERTIES XMLNS</String>
+		<String>RELATIONSHIPS XMLNS</String>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>DEFAULT EXTENSION</String>
+		<String>RELATIONSHIP TYPE</String>
+		<String>CONTENT-TYPES</String>
+		<String>CONTENT_TYPES</String>
+		<String>APPLICATION</String>
+		<String>CONTENTTYPE</String>
+		<String>DESCRIPTION</String>
+		<String>TYPES XMLNS</String>
+		<String>XML VERSION</String>
+		<String>IDENTIFIER</String>
+		<String>WWW.W3.ORG</String>
+		<String>.NUSPECPK</String>
+		<String>.PSMDCPPK</String>
+		<String>PACKAGING</String>
+		<String>ELEMENTS</String>
+		<String>ENCODING</String>
+		<String>MANIFEST</String>
+		<String>METADATA</String>
+		<String>PURL.ORG</String>
+		<String>SERVICES</String>
+		<String>.RELSPK</String>
+		<String>CREATOR</String>
+		<String>DCTERMS</String>
+		<String>.XMLPK</String>
+		<String>TARGET</String>
+		<String>BZWMU</String>
+		<String>OCTET</String>
+		<String>UTF-8</String>
+		<String>_RELS</String>
+		<String>2001</String>
+		<String>2006</String>
+		<String>2010</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

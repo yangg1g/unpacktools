@@ -1,0 +1,381 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Win32 IBasic executable (generic)</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pyxia.com/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>02</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>21</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000800000000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A2400000000000000504500004C01</Bytes>
+			<ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ! . . L . ! T h i s   p r o g r a m   c a n n o t   b e   r u n   i n   D O S   m o d e . . . . $ . . . . . . . P E . . L</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>135</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000E000</Bytes>
+			<Pos>140</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>010B01</Bytes>
+			<Pos>151</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>156</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>159</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000</Bytes>
+			<Pos>163</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000010000000</Bytes>
+			<Pos>171</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000400000100000000200000400000000000000040000000000000000</Bytes>
+			<ASCII> . . . @</ASCII>
+			<Pos>179</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>211</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000</Bytes>
+			<Pos>214</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000001000001000000000100000100000000000001000000000</Bytes>
+			<Pos>221</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>251</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000</Bytes>
+			<Pos>253</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>259</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>262</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>267</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000000000000000</Bytes>
+			<Pos>271</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>291</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<Pos>294</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>347</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000000000000000000000000000000002E74657874000000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . t e x t</ASCII>
+			<Pos>350</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000010000000</Bytes>
+			<Pos>387</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000040000000000000000000000000000200000602E72646174610000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . .   . . ` . r d a t a</ASCII>
+			<Pos>395</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>426</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>431</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>434</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000000400000</Bytes>
+			<ASCII> . . . . . . . . . . . . . @</ASCII>
+			<Pos>439</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E64617461000000</Bytes>
+			<ASCII> . d a t a</ASCII>
+			<Pos>456</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>466</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>471</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>474</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000000400000C02E69646174610000</Bytes>
+			<ASCII> . . . . . . . . . . . . . @ . . . . i d a t a</ASCII>
+			<Pos>479</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>506</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>511</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>514</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000000400000C02E</Bytes>
+			<ASCII> . . . . . . . . . . . . . @</ASCII>
+			<Pos>519</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000040000040</Bytes>
+			<ASCII> . . . . . . . . . . . . . @ . . @</ASCII>
+			<Pos>559</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>$'''''''PE''L</String>
+		<String>('N'U'L'L')'''''(NULL)</String>
+		<String>(SVW</String>
+		<String>- FLOATING POINT NOT LOADED</String>
+		<String>- NOT ENOUGH SPACE FOR ARGUMENTS</String>
+		<String>- NOT ENOUGH SPACE FOR ENVIRONMENT</String>
+		<String>- NOT ENOUGH SPACE FOR LOWIO INITIALIZATION</String>
+		<String>- NOT ENOUGH SPACE FOR STDIO INITIALIZATION</String>
+		<String>- NOT ENOUGH SPACE FOR THREAD DATA</String>
+		<String>- NOT ENOUGH SPACE FOR _ONEXIT</String>
+		<String>- PURE VIRTUAL FUNCTION CALL</String>
+		<String>- UNABLE TO OPEN CONSOLE DEVICE</String>
+		<String>- UNEXPECTED HEAP ERROR</String>
+		<String>- UNEXPECTED MULTITHREAD LOCK ERROR</String>
+		<String>-64OS</String>
+		<String>.DATA</String>
+		<String>.IDATA</String>
+		<String>.RDATA</String>
+		<String>.TEXT</String>
+		<String>ABNORMAL PROGRAM TERMINATION</String>
+		<String>ACES</String>
+		<String>ALIZE</String>
+		<String>ALSE</String>
+		<String>AMBIENT</String>
+		<String>ANIMAT</String>
+		<String>APPEN</String>
+		<String>ARRAY</String>
+		<String>ATEXIT TABLE</String>
+		<String>BOUND</String>
+		<String>CENT</String>
+		<String>CHANGE</String>
+		<String>CHECK</String>
+		<String>CHILD</String>
+		<String>CLOSEHANDLE</String>
+		<String>CODE</String>
+		<String>COLORS</String>
+		<String>CONTROL</String>
+		<String>CREATED</String>
+		<String>CREATEFILEA</String>
+		<String>D$ %</String>
+		<String>D$ J</String>
+		<String>D$ P</String>
+		<String>D$$R</String>
+		<String>D$(J</String>
+		<String>D$(P</String>
+		<String>D$.%</String>
+		<String>D$0J</String>
+		<String>D$0P</String>
+		<String>DDING</String>
+		<String>DESCRIPTOR</String>
+		<String>DIRECTORY</String>
+		<String>DOMAIN ERROR</String>
+		<String>DSVW</String>
+		<String>ECOLOR</String>
+		<String>EMPTY</String>
+		<String>ENGTH</String>
+		<String>EXEC</String>
+		<String>EXITPROCESS</String>
+		<String>EXTENSION</String>
+		<String>FACTOR</String>
+		<String>FILES</String>
+		<String>FLAGS</String>
+		<String>FLUSHFILEBUFFERS</String>
+		<String>FRAME</String>
+		<String>FREEENVIRONMENTSTRINGSA</String>
+		<String>FREEENVIRONMENTSTRINGSW</String>
+		<String>FROM</String>
+		<String>GETACP</String>
+		<String>GETCOMMANDLINEA</String>
+		<String>GETCPINFO</String>
+		<String>GETCURRENTPROCESS</String>
+		<String>GETCURRENTTHREAD</String>
+		<String>GETENVIRONMENTSTRINGSW</String>
+		<String>GETFILETYPE</String>
+		<String>GETLASTACTIVEPOPUP''GETACTIVEWINDOW'MESSAGEBOXA'USER32.DLL</String>
+		<String>GETLASTERROR</String>
+		<String>GETMODULEFILENAMEA</String>
+		<String>GETOEMCP</String>
+		<String>GETPROCADDRESS</String>
+		<String>GETSTARTUPINFOA</String>
+		<String>GETSTDHANDLE</String>
+		<String>GETSTRINGTYPEA</String>
+		<String>GETSTRINGTYPEW</String>
+		<String>GETVERSION</String>
+		<String>GROUP</String>
+		<String>HEADER</String>
+		<String>HEAPALLOC</String>
+		<String>HEAPCREATE</String>
+		<String>HEAPFREE</String>
+		<String>HEAPREALLOC</String>
+		<String>HMXB</String>
+		<String>IALS</String>
+		<String>ILED</String>
+		<String>INF'''1</String>
+		<String>INFORMATION</String>
+		<String>INPUT</String>
+		<String>INVALID</String>
+		<String>IONS</String>
+		<String>IQRV</String>
+		<String>ITING</String>
+		<String>KERNEL32.DLL</String>
+		<String>KEYS</String>
+		<String>L$'PQ</String>
+		<String>L$'VWP</String>
+		<String>L$ PQ</String>
+		<String>L$ Q</String>
+		<String>L$$+</String>
+		<String>L$$P</String>
+		<String>L$(U</String>
+		<String>L$DP</String>
+		<String>L$XR</String>
+		<String>LCMAPSTRINGA</String>
+		<String>LCMAPSTRINGW</String>
+		<String>LINK</String>
+		<String>LIST</String>
+		<String>LOADLIBRARYA</String>
+		<String>LONG</String>
+		<String>LSTRCMPA</String>
+		<String>LSTRCPYA</String>
+		<String>LSTRLENA</String>
+		<String>MANY</String>
+		<String>MATE</String>
+		<String>MICROSOFT</String>
+		<String>MULTIBYTETOWIDECHAR</String>
+		<String>NKEB</String>
+		<String>NKEY</String>
+		<String>NUMBER</String>
+		<String>OBJECTS</String>
+		<String>OFFSET</String>
+		<String>OUTPUT</String>
+		<String>POSITION</String>
+		<String>PPXXXX</String>
+		<String>PROCESSI</String>
+		<String>PROGRAM NAME UNKNOWN</String>
+		<String>QNAN''1</String>
+		<String>R6002</String>
+		<String>R6008</String>
+		<String>R6009</String>
+		<String>R6016</String>
+		<String>R6017</String>
+		<String>R6018</String>
+		<String>R6019</String>
+		<String>R6024</String>
+		<String>R6025</String>
+		<String>R6026</String>
+		<String>R6027</String>
+		<String>READFILE</String>
+		<String>REEN</String>
+		<String>RESOURCE</String>
+		<String>RTLUNWIND</String>
+		<String>RUNTIME ERROR</String>
+		<String>SAVE</String>
+		<String>SCALE</String>
+		<String>SETENDOFFILE</String>
+		<String>SETFILEPOINTER</String>
+		<String>SETHANDLECOUNT</String>
+		<String>SETSTDHANDLE</String>
+		<String>SING ERROR</String>
+		<String>SNAN</String>
+		<String>SOLID</String>
+		<String>SUVW</String>
+		<String>SVW3</String>
+		<String>SVWH</String>
+		<String>SVWJ</String>
+		<String>SVWP</String>
+		<String>SVWUJ'J'H</String>
+		<String>SYSTEM</String>
+		<String>T$ P</String>
+		<String>T$ W</String>
+		<String>T$$T(</String>
+		<String>T$$W</String>
+		<String>T$4P</String>
+		<String>T$LP</String>
+		<String>T$TP</String>
+		<String>TARGET</String>
+		<String>TATE</String>
+		<String>TEMPL</String>
+		<String>TEVU</String>
+		<String>THIS PROGRAM CANNOT BE RUN IN DOS MODE.</String>
+		<String>TLOSS ERROR</String>
+		<String>TURE</String>
+		<String>UNHANDLEDEXCEPTIONFILTER</String>
+		<String>VALUE</String>
+		<String>VC20XC00U</String>
+		<String>VISUAL</String>
+		<String>WIDECHARTOMULTIBYTE</String>
+		<String>WORD</String>
+		<String>WRITEFILE</String>
+	</GlobalStrings>
+</TrID>

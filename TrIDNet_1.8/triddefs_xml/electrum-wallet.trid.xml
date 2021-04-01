@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Electrum Bitcoin wallet</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://electrum.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>53</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7B27616464725F686973746F7279273A207B27</Bytes>
+			<ASCII> { ' a d d r _ h i s t o r y ' :   { '</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MASTER_PUBLIC_KEY</String>
+		<String>ADDR_HISTORY</String>
+		<String>SEED_VERSION</String>
+		<String>ACCOUNTS</String>
+		<String>TION</String>
+	</GlobalStrings>
+</TrID>

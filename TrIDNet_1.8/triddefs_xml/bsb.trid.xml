@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MapInfo Sea Chart</FileType>
+		<Ext>BSB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mapinfo.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>08</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>11</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>21</Bytes>
+			<ASCII> !</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.KAP</String>
+		<String>BASE</String>
+		<String>VER/</String>
+	</GlobalStrings>
+</TrID>

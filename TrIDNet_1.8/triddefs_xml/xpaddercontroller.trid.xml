@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Xpadder Controller layout</FileType>
+		<Ext>XPADDERCONTROLLER</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.xpadder.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>55</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3B2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D</Bytes>
+			<ASCII> ; - - - - - - - - - - - - - - - - - - - - - - - -</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>------------------------</String>
+		<String>XPADDER CONTROLLER FILE</String>
+		<String>BUTTON LOCATIONS</String>
+		<String>BUTTON1LOCATION</String>
+		<String>BUTTON2LOCATION</String>
+		<String>BUTTON3LOCATION</String>
+		<String>BUTTON4LOCATION</String>
+		<String>RIGHTLOCATION</String>
+		<String>DOWNLOCATION</String>
+		<String>LEFTLOCATION</String>
+		<String>BUTTON1NAME</String>
+		<String>BUTTON2NAME</String>
+		<String>BUTTON3NAME</String>
+		<String>BUTTON4NAME</String>
+		<String>RIGHTACCESS</String>
+		<String>LEFTACCESS</String>
+		<String>UPLOCATION</String>
+		<String>RIGHTNAME</String>
+		<String>DOWNNAME</String>
+		<String>LEFTNAME</String>
+		<String>VERSION</String>
+		<String>UPNAME</String>
+		<String>IMAGE</String>
+		<String>NAMES</String>
+	</GlobalStrings>
+</TrID>

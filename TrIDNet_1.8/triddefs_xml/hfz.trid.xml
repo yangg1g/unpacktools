@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HollywoodFX Plug-In</FileType>
+		<Ext>HFZ</Ext>
+		<ExtraInfo>
+			<Rem>The editor of video Pinacle Studio HollywoodFX Plug-In</Rem>
+			<RefURL>http://www.pinnaclesys.com</RefURL>
+		</ExtraInfo>
+		<User>kif aka AC</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>05</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>49</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4846585A4846585A</Bytes>
+			<ASCII> H F X Z H F X Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00004900000000</Bytes>
+			<ASCII> . . I</ASCII>
+			<Pos>10</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000007E456666656374733A3030202D204465636C696320566964656F3A</Bytes>
+			<ASCII> . . . ~ E f f e c t s : 0 0   -   D e c l i c   V i d e o :</ASCII>
+			<Pos>18</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>00 - DECLIC VIDEO</String>
+		<String>ALBUMORG.ORG</String>
+		<String>00 - COMMON</String>
+		<String>EFFECTS.ORG</String>
+		<String>HFXZ)'''D</String>
+		<String>HFXZ('''D</String>
+		<String>HFXZHFXZ</String>
+		<String>~EFFECTS</String>
+		<String>~OBJECTS</String>
+		<String>~ORGS</String>
+		<String>.HFO</String>
+		<String>.HFX</String>
+	</GlobalStrings>
+</TrID>

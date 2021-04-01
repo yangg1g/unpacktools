@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Fast Tracker 2 Extended Module</FileType>
+		<Ext>XM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<Date>
+			<Year>2003</Year>
+			<Month>12</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>13</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>457874656E64656420</Bytes>
+			<ASCII> E x t e n d e d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6F64756C653A20</Bytes>
+			<ASCII> o d u l e :</ASCII>
+			<Pos>10</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>1A</Bytes>
+			<Pos>37</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

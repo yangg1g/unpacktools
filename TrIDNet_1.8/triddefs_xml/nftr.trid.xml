@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Nintendo DS Font Type</FileType>
+		<Ext>NFTR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>12</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>7</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5254464E</Bytes>
+			<ASCII> R T F N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>464E4946</Bytes>
+			<ASCII> F N I F</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

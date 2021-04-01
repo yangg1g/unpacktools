@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XmaConverterSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <FormatName>[XBOX360] Dead Rising</FormatName>
+    <Author />
+  </Header>
+  <UseXmaParse>true</UseXmaParse>
+  <XmaParseParameters>
+    <XmaType>1</XmaType>
+    <RebuildXma>false</RebuildXma>
+    <IgnoreXmaParseErrors>true</IgnoreXmaParseErrors>
+    <UseStaticStartOffset>true</UseStaticStartOffset>
+    <UseDynamicStartOffset>false</UseDynamicStartOffset>
+    <SetStartOffsetAfterRiffHeader>false</SetStartOffsetAfterRiffHeader>
+    <StartOffsetStatic>0x800</StartOffsetStatic>
+    <UseStaticBlockSize>true</UseStaticBlockSize>
+    <UseDynamicBlockSize>false</UseDynamicBlockSize>
+    <BlockSizeStatic>0x8000</BlockSizeStatic>
+    <UseStaticDataSize>false</UseStaticDataSize>
+    <UseDynamicDataSize>true</UseDynamicDataSize>
+    <GetDataSizeFromRiffHeader>false</GetDataSizeFromRiffHeader>
+    <DataSizeStatic />
+    <DataSizeOffset>0x20</DataSizeOffset>
+    <DataSizeOffsetSize>4</DataSizeOffsetSize>
+    <DataSizeOffsetEndianess>big</DataSizeOffsetEndianess>
+  </XmaParseParameters>
+  <AddRiffHeader>true</AddRiffHeader>
+  <RiffParameters>
+    <UseStaticFrequency>false</UseStaticFrequency>
+    <GetFrequencyFromOffset>true</GetFrequencyFromOffset>
+    <GetFrequencyFromRiffHeader>false</GetFrequencyFromRiffHeader>
+    <FrequencyOffset>0x40</FrequencyOffset>
+    <FrequencyOffsetSize>4</FrequencyOffsetSize>
+    <FrequencyOffsetEndianess>big</FrequencyOffsetEndianess>
+    <UseStaticChannels>false</UseStaticChannels>
+    <GetChannelsFromOffset>true</GetChannelsFromOffset>
+    <GetChannelsFromRiffHeader>false</GetChannelsFromRiffHeader>
+    <ChannelOffset>0x4D</ChannelOffset>
+    <ChannelOffsetSize>4</ChannelOffsetSize>
+    <ChannelOffsetEndianess>big</ChannelOffsetEndianess>
+  </RiffParameters>
+  <CreatePosFile>false</CreatePosFile>
+  <PosFileParameters>
+    <UseStaticStartOffset>false</UseStaticStartOffset>
+    <UseDynamicStartOffset>true</UseDynamicStartOffset>
+    <StartOffsetStatic />
+    <StartOffsetOffset />
+    <StartOffsetOffsetSize>4</StartOffsetOffsetSize>
+    <StartOffsetOffsetEndianess>little</StartOffsetOffsetEndianess>
+    <StartOffsetCalculation />
+    <UseStaticEndOffset>false</UseStaticEndOffset>
+    <UseDynamicEndOffset>true</UseDynamicEndOffset>
+    <EndOffsetStatic />
+    <EndOffsetOffset />
+    <EndOffsetOffsetSize>4</EndOffsetOffsetSize>
+    <EndOffsetOffsetEndianess>little</EndOffsetOffsetEndianess>
+    <EndOffsetCalculation />
+  </PosFileParameters>
+  <WavConversionParameters>
+    <UseXmaEncode>false</UseXmaEncode>
+    <UseToWav>true</UseToWav>
+  </WavConversionParameters>
+  <NotesOrWarnings />
+</XmaConverterSettings>

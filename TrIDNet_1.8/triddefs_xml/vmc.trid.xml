@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Virtual PC virtual machine configuration</FileType>
+		<Ext>VMC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/windows/virtualpc/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>10</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3C003F0078006D006C002000760065007200730069006F006E003D00220031002E0030002200</Bytes>
+			<ASCII> . . . . ? . x . m . l .   . v . e . r . s . i . o . n . = . " . 1 . . . 0 . "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>M'I'C'R'O'S'O'F'T' 'V'I'R'T'U'A'L' 'M'A'C'H'I'N'E' 'O'P'T'I'O'N'S' 'A'N'D' 'S'E'T'T'I'N'G'S</String>
+		<String>P'R'E'F'E'R'E'N'C'E'S</String>
+		<String>X'M'L' 'V'E'R'S'I'O'N</String>
+		<String>B'U'I'L'D' 'T'Y'P'E</String>
+		<String>P'R'O'P'E'R'T'I'E'S</String>
+		<String>M'O'D'I'F'I'E'R</String>
+		<String>V'I'R'T'U'A'L'_</String>
+		<String>A'D'D'R'E'S'S</String>
+		<String>B'O'O'L'E'A'N</String>
+		<String>E'N'A'B'L'E'D</String>
+		<String>N'E'T'W'O'R'K</String>
+		<String>I'N'T'E'G'E'R</String>
+		<String>S'T'R'I'N'G</String>
+		<String>B'Y'T'E'S</String>
+		<String>S'T'A'R'T</String>
+		<String>F'A'L'S'E</String>
+		<String>T'I'M'E</String>
+	</GlobalStrings>
+</TrID>

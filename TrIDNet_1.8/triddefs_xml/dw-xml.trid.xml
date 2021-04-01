@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DocuWare XML metafile</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>45</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C4457446F63756D656E74204457354261736B657446696C654E616D653D22</Bytes>
+			<ASCII> . D W D o c u m e n t   D W 5 B a s k e t F i l e N a m e = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DWDOCUMENT DW5BASKETFILENAME</String>
+		<String>FILEINFO FILENAME</String>
+		<String>METADATA VERSION</String>
+		<String>FIELDPROPERTIES</String>
+		<String>SECTION NUMBER</String>
+		<String>IMAGEINFO ID</String>
+		<String>DWFILENAME</String>
+		<String>IMAGEINFOS</String>
+		<String>FILEINFOS</String>
+		<String>STARTPAGE</String>
+		<String>DWGUID</String>
+		<String>NORMAL</String>
+		<String>NPAGES</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>GFA-Basic MSDOS tokenized source</FileType>
+        <Ext>GFA</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.gfasoft.gfa.net/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>3</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>25</Day>
+        </Date>
+        <Time>
+            <Hour>20</Hour>
+            <Min>05</Min>
+            <Sec>02</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4746412D4241534943204D532D444F531A0101014E41</Bytes>
+            <ASCII> G F A - B A S I C   M S - D O S . . . . N A</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

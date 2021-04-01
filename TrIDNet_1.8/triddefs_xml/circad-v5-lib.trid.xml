@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CIRCAD source library (v5.x)</FileType>
+		<Ext>LIB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.holophase.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>03</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>04</Hour>
+			<Min>05</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4349524341442056455253494F4E20352E</Bytes>
+			<ASCII> C I R C A D   V E R S I O N   5</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>202D2D20534F55524345204C4942524152592046494C450D0A</Bytes>
+			<ASCII>   - -   S O U R C E   L I B R A R Y   F I L E</ASCII>
+			<Pos>18</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

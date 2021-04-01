@@ -1,0 +1,73 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mozilla Mail Summary file</FileType>
+		<Ext>MSF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mozilla.org</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>32</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>35</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2F2F203C212D2D203C6D64623A6D6F726B3A7A20</Bytes>
+			<ASCII> / /   . ! - -   . m d b : m o r k : z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>UNREADPENDINGMSGS</String>
+		<String>TOTPENDINGMSGS</String>
+		<String>UNREADCHILDREN</String>
+		<String>OFFLINEMSGSIZE</String>
+		<String>EXPUNGEDBYTES</String>
+		<String>THREADSUBJECT</String>
+		<String>HIGHWATERKEY</String>
+		<String>THREADPARENT</String>
+		<String>DBFOLDERINFO</String>
+		<String>EXPIREDMARK</String>
+		<String>MSGTHREADID</String>
+		<String>MAILBOXNAME</String>
+		<String>THREADFLAGS</String>
+		<String>UIDVALIDITY</String>
+		<String>STATUSOFSET</String>
+		<String>NUMNEWMSGS</String>
+		<String>MESSAGE-ID</String>
+		<String>RECIPIENTS</String>
+		<String>REFERENCES</String>
+		<String>THREADROOT</String>
+		<String>ALLTHREADS</String>
+		<String>FOLDERSIZE</String>
+		<String>MSGCHARSET</String>
+		<String>FOLDERDATE</String>
+		<String>MSGOFFSET</String>
+		<String>PRIORITY</String>
+		<String>NUMLINES</String>
+		<String>NUMREFS</String>
+		<String>VERSION</String>
+		<String>NUMMSGS</String>
+		<String>CCLIST</String>
+		<String>SENDER</String>
+		<String>SCOPE</String>
+		<String>TABLE</String>
+		<String>ALL)</String>
+		<String>KIND</String>
+		<String>MORK</String>
+	</GlobalStrings>
+</TrID>

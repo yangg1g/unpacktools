@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Crazy Machines model</FileType>
+		<Ext>UCM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Crazy_Machines</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>150</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>17</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>55434D31</Bytes>
+			<ASCII> U C M 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

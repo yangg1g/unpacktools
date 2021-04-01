@@ -1,0 +1,64 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Emergency people animation data</FileType>
+		<Ext>VMO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Emergency_%28series%29</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>04</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>24</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>564D4F5443</Bytes>
+			<ASCII> V M O T C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>42696E64506F7365</Bytes>
+			<ASCII> B i n d P o s e</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CLAVICLE_R</String>
+		<String>UPPERARM_R</String>
+		<String>UPPERARM_L</String>
+		<String>CLAVICLE_L</String>
+		<String>FOREARM_R</String>
+		<String>FOREARM_L</String>
+		<String>BINDPOSE</String>
+		<String>SPINE_2</String>
+		<String>THIGH_R</String>
+		<String>THIGH_L</String>
+		<String>SPINE_1</String>
+		<String>CALF_L</String>
+		<String>ANCHOR</String>
+		<String>PELVIS</String>
+		<String>FOOT_L</String>
+		<String>HAND_L</String>
+		<String>HAND_R</String>
+		<String>CALF_R</String>
+		<String>FOOT_R</String>
+		<String>VMOTC</String>
+		<String>NECK</String>
+		<String>HEAD</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Palm ThoughtManager</FileType>
+		<Ext>PDB</Ext>
+		<ExtraInfo>
+			<Rem>ThoughtManager is a versatile and easy to use list manager and information organizer for Palm operating systems.</Rem>
+			<RefURL>http://www.handshigh.com/html/thoughtmanager.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>32</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000000004F75746C54467374</Bytes>
+			<ASCII> . . . . O u t l T F s t</ASCII>
+			<Pos>56</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>OUTLTFST</String>
+	</GlobalStrings>
+</TrID>

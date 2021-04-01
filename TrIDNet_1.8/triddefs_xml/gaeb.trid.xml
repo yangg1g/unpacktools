@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GAEB file</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.gaeb2000.com/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>18</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23626567696E5B474145425D0D0A</Bytes>
+			<ASCII> # b e g i n [ G A E B ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

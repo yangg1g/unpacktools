@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Game Music</FileType>
+		<Ext>GM</Ext>
+		<ExtraInfo>
+			<Rem>Used in Transport Tycoon</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>31</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4952455A</Bytes>
+			<ASCII> I R E Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>494E5354</Bytes>
+			<ASCII> I N S T</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

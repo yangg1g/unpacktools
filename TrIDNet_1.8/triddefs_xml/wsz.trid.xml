@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WinAmp 2.x Skin</FileType>
+		<Ext>WSZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://classic.winamp.com/skins</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>28</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>47</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.TXTPK</String>
+		<String>CBUTTONS.BMP</String>
+		<String>EQMAIN.BMP</String>
+		<String>EQ_EX.BMP</String>
+		<String>EX.BMPPK</String>
+		<String>MONOSTER.BMP</String>
+		<String>N.BMPPK</String>
+		<String>P.BMPPK</String>
+		<String>PLAYPAUS.BMP</String>
+		<String>PLEDIT.BMP</String>
+		<String>PLEDIT.TXT</String>
+		<String>POSBAR.BMP</String>
+		<String>SHUFREP.BMP</String>
+		<String>TEXT.BMP</String>
+		<String>TITLEBAR.BMP</String>
+		<String>VISCOLOR.TXT</String>
+		<String>VOLUME.BMP</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,63 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BMFont Font control data (text)</FileType>
+		<Ext>FNT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>40</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>696E666F20666163653D22</Bytes>
+			<ASCII> i n f o   f a c e = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COMMON LINEHEIGHT</String>
+		<String>CHARS COUNT</String>
+		<String>INFO FACE</String>
+		<String>STRETCHH</String>
+		<String>XADVANCE</String>
+		<String>CHAR ID</String>
+		<String>CHARSET</String>
+		<String>PADDING</String>
+		<String>PAGE ID</String>
+		<String>SPACING</String>
+		<String>UNICODE</String>
+		<String>XOFFSET</String>
+		<String>YOFFSET</String>
+		<String>ITALIC</String>
+		<String>PACKED</String>
+		<String>SCALEH</String>
+		<String>SCALEW</String>
+		<String>SMOOTH</String>
+		<String>PAGES</String>
+		<String>WIDTH</String>
+		<String>.PNG</String>
+		<String>BASE</String>
+		<String>BOLD</String>
+		<String>CHNL</String>
+		<String>FILE</String>
+		<String>SIZE</String>
+	</GlobalStrings>
+</TrID>

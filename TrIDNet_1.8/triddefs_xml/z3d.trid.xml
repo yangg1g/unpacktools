@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ZModeler 3D Model</FileType>
+		<Ext>Z3D</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.zmodeler2.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>28</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>04</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>57</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5A4D3253</Bytes>
+			<ASCII> Z M 2 S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54484D42</Bytes>
+			<ASCII> T H M B</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4A464946</Bytes>
+			<ASCII> J F I F</ASCII>
+			<Pos>34</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CZIPSTREAM</String>
+		<String>CORE</String>
+		<String>ENDF</String>
+		<String>SBST</String>
+		<String>INFO</String>
+	</GlobalStrings>
+</TrID>

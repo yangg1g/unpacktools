@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Money data</FileType>
+		<Ext>MNY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/money</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>04</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>40</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000100004D534953414D204461746162617365</Bytes>
+			<ASCII> . . . . M S I S A M   D a t a b a s e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>M'O'N'E'Y'9'8</String>
+		<String>M'S'Y'S</String>
+	</GlobalStrings>
+</TrID>

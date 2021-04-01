@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Transform compressed</FileType>
+		<Ext>TFM</Ext>
+		<ExtraInfo>
+			<Rem>Transform is a compressor by Michael Bone. It features being able to represent a compressed file as an image or in base 64. It uses a Burrows-Wheeler transform to compress.</Rem>
+			<RefURL>http://users.senet.com.au/~mjbone/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>08</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5472616E73666F726D20</Bytes>
+			<ASCII> T r a n s f o r m</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

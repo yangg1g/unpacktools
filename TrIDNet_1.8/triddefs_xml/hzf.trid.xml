@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>neosat fixes</FileType>
+		<Ext>HZF</Ext>
+		<ExtraInfo>
+			<Rem>File used to update neosat receivers.</Rem>
+			<RefURL>http://www.neosatusa.com/index.php</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>01</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>485A462E464F524D41542E</Bytes>
+			<ASCII> H Z F . F O R M A T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

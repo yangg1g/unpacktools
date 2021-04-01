@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HEC-RAS Flow file</FileType>
+		<Ext>F01/F02/F99</Ext>
+		<ExtraInfo>
+			<Rem>Extension can range from F01 to F99.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>24</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>466C6F77205469746C653D</Bytes>
+			<ASCII> F l o w   T i t l e =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BOUNDARY FOR RIVER RCH</String>
+		<String>DSS IMPORT GETINTERVAL</String>
+		<String>DSS IMPORT FILLOPTION</String>
+		<String>DSS IMPORT STARTDATE</String>
+		<String>DSS IMPORT STARTTIME</String>
+		<String>DSS IMPORT INTERVAL</String>
+		<String>DSS IMPORT ENDTIME</String>
+		<String>DSS IMPORT GETPEAK</String>
+		<String>NUMBER OF PROFILES</String>
+		<String>DSS IMPORT ENDDATE</String>
+		<String>PROFILE NAMES</String>
+		<String>FLOW TITLE</String>
+		<String>DN TYPE</String>
+		<String>VERSION</String>
+		<String>UP TYPE</String>
+	</GlobalStrings>
+</TrID>

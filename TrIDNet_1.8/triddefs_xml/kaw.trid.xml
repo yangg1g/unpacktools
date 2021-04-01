@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Karma Workspace</FileType>
+		<Ext>KAW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://udn.epicgames.com/Two/KarmaAuthoringTool.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>04</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>18</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C20</Bytes>
+			<ASCII> . ? x m l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>KAT_WORKSPACE VERSION</String>
+		<String>RESOURCE_PATH</String>
+		<String>FILE</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

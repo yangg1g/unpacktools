@@ -1,0 +1,86 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Reader eBook</FileType>
+		<Ext>LIT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/reader/info/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>514</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>07</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>49544F4C49544C53</Bytes>
+			<ASCII> I T O L I T L S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5754</Bytes>
+			<ASCII> W T</ASCII>
+			<Pos>38</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43414F4C</Bytes>
+			<ASCII> C A O L</ASCII>
+			<Pos>272</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>49545346</Bytes>
+			<ASCII> I T S F</ASCII>
+			<Pos>320</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>{0A9007C6-4076-11D3-8789-0000F8105754}</String>
+		<String>{67F6E4A2-60BF-11D3-8540-00C04F58C3CF}</String>
+		<String>E'B'E'N'C'R'Y'P'T'O'N'L'Y'D'S</String>
+		<String>U'N'C'O'M'P'R'E'S'S'E'D</String>
+		<String>M'S'C'O'M'P'R'E'S'S'E'D</String>
+		<String>E'B'E'N'C'R'Y'P'T'D'S</String>
+		<String>VALIDATIONSTREAM</String>
+		<String>EBENCRYPTONLYDS</String>
+		<String>MSCOMPRESSED</String>
+		<String>INSTANCEDATA</String>
+		<String>EBENCRYPTDS</String>
+		<String>CONTROLDATA</String>
+		<String>RESETTABLE</String>
+		<String>DRMSTORAGE</String>
+		<String>DRMSOURCE</String>
+		<String>DATASPACE</String>
+		<String>TRANSFORM</String>
+		<String>DRMSEALED</String>
+		<String>ITOLITLS</String>
+		<String>NAMELIST</String>
+		<String>SPANINFO</String>
+		<String>MANIFEST</String>
+		<String>PURL.ORG</String>
+		<String>CONTENT</String>
+		<String>AOLL</String>
+		<String>.HTM</String>
+		<String>TEXT</String>
+		<String>HTTP</String>
+		<String>META</String>
+		<String>LZXC</String>
+		<String>IFCM</String>
+		<String>CAOL</String>
+		<String>ITSF</String>
+	</GlobalStrings>
+</TrID>

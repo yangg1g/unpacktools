@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Unreal Texture</FileType>
+		<Ext>UTX</Ext>
+		<ExtraInfo>
+			<Rem>Texture pack for Unreal-engine based games.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Unreal_engine</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>23</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>C1832A9E</Bytes>
+			<ASCII> . . *</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>INTERNALTIME</String>
+		<String>PACKAGE</String>
+		<String>TEXTURE</String>
+		<String>ENGINE</String>
+		<String>UCLAMP</String>
+		<String>VCLAMP</String>
+		<String>UBITS</String>
+		<String>VBITS</String>
+		<String>CLASS</String>
+		<String>USIZE</String>
+		<String>VSIZE</String>
+		<String>CORE</String>
+		<String>NONE</String>
+	</GlobalStrings>
+</TrID>

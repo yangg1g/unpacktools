@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Tag Library Descriptor</FileType>
+		<Ext>TLD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>5</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>15</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RTEXPRVALUE</String>
+		<String>TAG LIBRARY</String>
+		<String>XML VERSION</String>
+		<String>ATTRIBUTE</String>
+		<String>REQUIRED</String>
+		<String>CONTENT</String>
+		<String>TAGLIB</String>
+		<String>CLASS</String>
+		<String>SHORT</String>
+		<String>.TAG</String>
+		<String>BODY</String>
+		<String>HTTP</String>
+		<String>JAVA</String>
+		<String>NAME</String>
+		<String>PAGE</String>
+		<String>PORT</String>
+		<String>SUN.</String>
+		<String>TLIB</String>
+	</GlobalStrings>
+</TrID>

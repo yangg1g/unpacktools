@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ParaView VTK Rectilinear grid</FileType>
+		<Ext>VTR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/VTK</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>58</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E30223F3E0D0A3C56544B46696C6520747970653D2252656374696C696E65617247726964222076657273696F6E3D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 " ? . . . . V T K F i l e   t y p e = " R e c t i l i n e a r G r i d "   v e r s i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RECTILINEARGRID WHOLEEXTENT</String>
+		<String>APPENDEDDATA ENCODING</String>
+		<String>CELLDATA SCALARS</String>
+		<String>DATAARRAY TYPE</String>
+		<String>MASS FOR BODY</String>
+		<String>VTKFILE TYPE</String>
+		<String>PIECE EXTENT</String>
+		<String>COORDINATES</String>
+		<String>XML VERSION</String>
+		<String>BYTE_ORDER</String>
+		<String>COMPRESSOR</String>
+		<String>POINTDATA</String>
+		<String>FLOAT64</String>
+		<String>FLOAT32</String>
+		<String>ENDIAN</String>
+		<String>FORMAT</String>
+		<String>BASE64</String>
+		<String>OFFSET</String>
+		<String>NAME</String>
+		<String>NOSE</String>
+	</GlobalStrings>
+</TrID>

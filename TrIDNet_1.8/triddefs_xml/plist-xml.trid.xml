@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XML Property List</FileType>
+		<Ext>PLIST</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Property_list</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>28</Min>
+			<Sec>02</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "	e n c o d i n g = " U T F - 8 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCTYPE PLIST</String>
+		<String>PLIST VERSION</String>
+		<String>PROPERTYLIST</String>
+		<String>XML VERSION</String>
+		<String>ENCODING</String>
+		<String>APPLE</String>
+		<String>UTF-8</String>
+		<String>.DTD</String>
+		<String>DTDS</String>
+	</GlobalStrings>
+</TrID>

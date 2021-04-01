@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PostgreSQL database dump</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.postgresql.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>04</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>01</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5047444D50</Bytes>
+			<ASCII> P G D M P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

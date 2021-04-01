@@ -1,0 +1,67 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Spline Font Database</FileType>
+		<Ext>SFD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>5</Month>
+			<Day>7</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>9</Min>
+			<Sec>54</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53706C696E65466F6E7444423A20</Bytes>
+			<ASCII> S p l i n e F o n t D B :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E30</Bytes>
+			<ASCII> . 0</ASCII>
+			<Pos>15</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>UNDERLINEPOSITION</String>
+		<String>UNDERLINEWIDTH</String>
+		<String>ENDSPLINEFONT</String>
+		<String>ENDSPLINESET</String>
+		<String>SPLINEFONTDB</String>
+		<String>DISPLAYSIZE</String>
+		<String>ITALICANGLE</String>
+		<String>BEGINCHARS</String>
+		<String>FAMILYNAME</String>
+		<String>COPYRIGHT</String>
+		<String>STARTCHAR</String>
+		<String>ENCODING</String>
+		<String>ENDCHARS</String>
+		<String>FONTNAME</String>
+		<String>FULLNAME</String>
+		<String>DESCENT</String>
+		<String>VERSION</String>
+		<String>ASCENT</String>
+		<String>WEIGHT</String>
+		<String>FLAGS</String>
+		<String>REATE</String>
+		<String>SPACE</String>
+		<String>COMM</String>
+		<String>FORE</String>
+		<String>ININ</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Journal</FileType>
+		<Ext>JNT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/windowsxp/using/tabletpc/russel_03january20.mspx</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>09</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4E422A00</Bytes>
+			<ASCII> N B *</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N'''''''''''''''''''''''''''(</String>
+		<String>N'D'Q'R'V'O'R'S'Q'B'L'C'U'4'S'Z'K'E'I'U'B'3'M'F'2'G'''''''''''8</String>
+		<String>A'U'V'S'X'J'A'T'P'0'U'D'B'L'W'1'A'A'Q'5'E'U'B'R'5'H'''''''''''8</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>P'R'O'P'</String>
+		<String>DICT</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Gemtek router firmware (variant)</FileType>
+		<Ext>BIN</Ext>
+		<ExtraInfo>
+			<Rem>This variant (with 8 extra bytes at start) is used in some Gemtek based product by other manufacturers.</Rem>
+			<RefURL>http://www.gemtek.com.tw/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>09</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>14</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>474D544B</Bytes>
+			<ASCII> G M T K</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4C696E7578204B65726E656C20496D616765</Bytes>
+			<ASCII> L i n u x   K e r n e l   I m a g e</ASCII>
+			<Pos>72</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7A496D616765</Bytes>
+			<ASCII> z I m a g e</ASCII>
+			<Pos>114</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

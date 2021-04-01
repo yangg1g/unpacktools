@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Elcomsoft ADC Advanced Disc Catalog</FileType>
+		<Ext>CAT</Ext>
+		<ExtraInfo>
+			<Rem>This program allows you to catalog your drives including floppy, CD-ROM and ZIP disk drives</Rem>
+			<RefURL>https://web.archive.org/web/20120213212858/http://www.elcomsoft.com/adc.html</RefURL>
+		</ExtraInfo>
+		<User>Christian Wolkersdorfer</User>
+		<E-Mail>c.wolke(at)you-know-what-to-do(at)web.de</E-Mail>
+		<Home>https://www.Wolkersdorfer.info</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>48</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0B0000004144432E436174616C6F67</Bytes>
+			<ASCII> . . . . A D C . C a t a l o g</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

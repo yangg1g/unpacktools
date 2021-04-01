@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mapping Specification Language (ASCII)</FileType>
+		<Ext>MSL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://msdn.microsoft.com/en-us/library/ff953006.aspx</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>3</Month>
+			<Day>5</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>18</Min>
+			<Sec>5</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ENTITYCONTAINERMAPPING</String>
+		<String>STORAGEENTITYCONTAINER</String>
+		<String>TYPEMAPPING TYPENAME</String>
+		<String>SCALARPROPERTY NAME</String>
+		<String>CDMENTITYCONTAINER</String>
+		<String>MAPPING SPACE</String>
+		<String>COLUMNNAME</String>
+		<String>MICROSOFT</String>
+		<String>TMAPPING</String>
+		<String>SCHEMAS</String>
+		<String>STORE</String>
+		<String>XMLNS</String>
+		<String>.COM</String>
+	</GlobalStrings>
+</TrID>

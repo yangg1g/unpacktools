@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MacBinary 2 header</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem>MacBinary is a standard for encoding Macintosh files for file transfer</Rem>
+			<RefURL>http://www.macdisk.com/macbinen.php3</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>05</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>74</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>82</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

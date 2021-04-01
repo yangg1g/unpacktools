@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Jahshaka Scene File</FileType>
+		<Ext>JSF</Ext>
+		<ExtraInfo>
+			<Rem>Jahshaka is an OpenSource Realtime Editing and Effects System.</Rem>
+			<RefURL>http://www.jahshaka.org</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>51</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D27312E302720656E636F64696E673D277574662D38</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = ' 1 . 0 '   e n c o d i n g = ' u t f - 8</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>-- JAHSHAKA SCENE FILE --</String>
+		<String>JAHSHAKA JAH_VERSION</String>
+		<String>XML_FILE_VERSION</String>
+		<String>SCENE_FILE NAME</String>
+		<String>JAHLAYER</String>
+		<String>MEDIA</String>
+	</GlobalStrings>
+</TrID>

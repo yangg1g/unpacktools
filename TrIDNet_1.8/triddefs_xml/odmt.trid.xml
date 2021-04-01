@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OpenDocument Master Text document</FileType>
+		<Ext>ODM</Ext>
+		<ExtraInfo>
+			<Rem>Standard, open, XML based, document file format for office-like documents. It's derived from the format used by OpenOffice.org's suite.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/OpenDocument</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>10</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>59</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D696D65747970656170706C69636174696F6E2F766E642E6F617369732E6F70656E646F63756D656E742E746578742D6D6173746572504B</Bytes>
+			<ASCII> m i m e t y p e a p p l i c a t i o n / v n d . o a s i s . o p e n d o c u m e n t . t e x t - m a s t e r P K</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VND.OASIS.OPENDOCUMENT.TEXT-MASTERPK</String>
+		<String>MIMETYPEAPPLICATION</String>
+		<String>THUMBNAIL.PNGPK</String>
+		<String>CONFIGURATIONS</String>
+		<String>MANIFEST.XMLPK</String>
+		<String>SETTINGS.XMLPK</String>
+		<String>CONTENT.XMLPK</String>
+		<String>STYLES.XMLPK</String>
+		<String>META.XMLPK</String>
+		<String>MIMETYPEPK</String>
+		<String>THUMBNAILS</String>
+		<String>META-INF</String>
+		<String>STAT</String>
+	</GlobalStrings>
+</TrID>

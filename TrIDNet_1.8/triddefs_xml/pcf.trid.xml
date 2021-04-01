@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Cisco VPN Profile Configuration File</FileType>
+		<Ext>PCF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cisco.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>39</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B6D61696E5D</Bytes>
+			<ASCII> [ m a i n ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SAVEUSERPASSWORD</String>
+		<String>ENABLEISPCONNECT</String>
+		<String>ISPCONNECTTYPE</String>
+		<String>BACKUPSERVER</String>
+		<String>ENABLEBACKUP</String>
+		<String>DESCRIPTION</String>
+		<String>PEERTIMEOUT</String>
+		<String>ISPCOMMAND</String>
+		<String>ENABLENAT</String>
+		<String>GROUPNAME</String>
+		<String>USERNAME</String>
+		<String>AUTHTYPE</String>
+		<String>GROUPPWD</String>
+		<String>HOST</String>
+		<String>MAIN</String>
+	</GlobalStrings>
+</TrID>

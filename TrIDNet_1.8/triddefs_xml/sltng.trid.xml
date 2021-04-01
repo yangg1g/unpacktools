@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>StarLogo TNG Project</FileType>
+		<Ext>SLTNG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/StarLogo</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>43</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>537461724C6F676F544E472022</Bytes>
+			<ASCII> S t a r L o g o T N G   "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SLCODEBLOCKS</String>
+		<String>XML VERSION</String>
+		<String>ENCODING</String>
+		<String>PAGES</String>
+	</GlobalStrings>
+</TrID>

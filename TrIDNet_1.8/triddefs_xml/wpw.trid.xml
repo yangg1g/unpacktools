@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WhatPulse Pre-Pulse Information</FileType>
+		<Ext>WPW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://whatpulse.org/</RefURL>
+		</ExtraInfo>
+		<User>Ryan Jones</User>
+		<E-Mail>sciguyryan@gmail.com</E-Mail>
+		<Home>http://ccc-cymru.com/</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>04</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>07</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>63B8533A08449A4032ED7527B33EEF5CBDB82EACBD762024EFD600AD6C111CC49E32CD09867280E51C7F29D33780EEEE</Bytes>
+			<ASCII> c . S : . D . @ 2 . u ' . . . \ . . . . . v   $ . . . . l . . . . 2 . . . r . . . . ) . 7</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

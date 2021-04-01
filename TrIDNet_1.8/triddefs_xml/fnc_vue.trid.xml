@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Vue D'Esprit function definition (generic)</FileType>
+		<Ext>FNC</Ext>
+		<ExtraInfo>
+			<Rem>Vue functions can be used to model objects and terrains on a procedural basis, adding fractal/regular patterns.</Rem>
+			<RefURL>http://www.e-onsoftware.com</RefURL>
+		</ExtraInfo>
+		<User>Alex Paven</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>93</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>59</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFFFF</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000200</Bytes>
+			<Pos>4</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000FCFF</Bytes>
+			<Pos>10</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000900</Bytes>
+			<Pos>16</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000056756520</Bytes>
+			<ASCII> . . . V u e</ASCII>
+			<Pos>22</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>E-ON SOFTWARE</String>
+		<String>INC.</String>
+	</GlobalStrings>
+</TrID>

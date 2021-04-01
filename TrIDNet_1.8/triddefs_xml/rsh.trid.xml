@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Warhammer 40K textures</FileType>
+		<Ext>RSH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>59</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52656C6963204368756E6B79</Bytes>
+			<ASCII> R e l i c   C h u n k y</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>464F4C4453485246</Bytes>
+			<ASCII> F O L D S H R F</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DATACHAN</String>
+		<String>DATADATA</String>
+		<String>FOLDIMAG</String>
+		<String>FOLDTXTR</String>
+		<String>DATAATTR</String>
+		<String>FOLDSHRF</String>
+		<String>DATAHEAD</String>
+	</GlobalStrings>
+</TrID>

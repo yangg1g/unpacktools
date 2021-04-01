@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Actionamics Sound Tool</FileType>
+		<Ext>AST</Ext>
+		<ExtraInfo>
+			<Rem> Created by Michael Kleps for the game Dynablaster.</Rem>
+			<RefURL>http://exotica.fix.no/tunes/unexotica/formats/Actionamics_Sound_Tool.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>15</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>007D</Bytes>
+			<Pos>00</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>414354494F4E414D49435320534F554E4420544F4F4C2056302E31</Bytes>
+			<ASCII> A C T I O N A M I C S 	S O U N D 	T O O L 	V 0 . 1</ASCII>
+			<Pos>62</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

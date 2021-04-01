@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Micrognosis compressed archive</FileType>
+		<Ext>MAR</Ext>
+		<ExtraInfo>
+			<Rem>A compression program by Haruhiko Okumura.</Rem>
+			<RefURL>74050.1022@compuserve.com</RefURL>
+		</ExtraInfo>
+		<User>Label</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2009</Year>
+			<Month>04</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>16</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2D6168302D</Bytes>
+			<ASCII> - a h 0 -</ASCII>
+			<Pos>2</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

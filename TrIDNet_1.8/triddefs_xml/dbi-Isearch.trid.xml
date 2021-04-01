@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Isearch Database Info</FileType>
+		<Ext>DBI</Ext>
+		<ExtraInfo>
+			<Rem>Isearch is a full-text searching system published under an open source license.</Rem>
+			<RefURL>http://www.etymon.com/Isearch/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>36</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2B4462496E666F0A202B56657273696F6E4E756D6265720A</Bytes>
+			<ASCII> + D b I n f o .   + V e r s i o n N u m b e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>+VERSIONNUMBER</String>
+		<String>+MAGICNUMBER</String>
+		<String>+BIGENDIAN</String>
+		<String>+DOCTYPE</String>
+		<String>+DBINFO</String>
+	</GlobalStrings>
+</TrID>

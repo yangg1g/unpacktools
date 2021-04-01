@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>InstallShield archive</FileType>
+		<Ext>Z</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Surfer</User>
+		<E-Mail>Surfer56@gmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>01</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>135D658C3A010200</Bytes>
+			<ASCII> . ] e . :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,70 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Nmap scan results</FileType>
+		<Ext>LOG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Nmap</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>9</Hour>
+			<Min>43</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2320</Bytes>
+			<ASCII> #</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D617020</Bytes>
+			<ASCII> m a p</ASCII>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>207363616E20696E6974696174656420</Bytes>
+			<ASCII>   s c a n   i n i t i a t e d</ASCII>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A</Bytes>
+			<ASCII> :</ASCII>
+			<Pos>40</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A</Bytes>
+			<ASCII> :</ASCII>
+			<Pos>43</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2061733A20</Bytes>
+			<ASCII>   a s :</ASCII>
+			<Pos>51</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCAN INITIATED</String>
+		<String>NMAP -</String>
+		<String>STATE</String>
+		<String>PORT</String>
+	</GlobalStrings>
+</TrID>

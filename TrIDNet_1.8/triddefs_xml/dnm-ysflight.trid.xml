@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>YS FLIGHT Dynamic 3d model</FileType>
+		<Ext>DNM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://wwwe.ysflight.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>80</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>31</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>44594E414D4F44454C0D0A</Bytes>
+			<ASCII> D Y N A M O D E L</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>REL DEP</String>
+		<String>.SRF</String>
+	</GlobalStrings>
+</TrID>

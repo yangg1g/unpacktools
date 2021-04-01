@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DeskMate song</FileType>
+		<Ext>SNG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Deskmate</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>86</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>13</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0C534E47</Bytes>
+			<ASCII> . S N G</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

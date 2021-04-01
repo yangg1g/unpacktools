@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Lexar Encrypted file</FileType>
+		<Ext>LRS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.lexar.com/jumpdrive/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>03</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>33</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4C45584152454E43</Bytes>
+			<ASCII> L E X A R E N C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Texinfo source</FileType>
+		<Ext>TEXI/TEXINFO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Texinfo</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>26</FileNum>
+		<Refine>10 by Marco Pontello - 6 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>15</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5C696E70757420746578696E666F</Bytes>
+			<ASCII> \ i n p u t   t e x i n f o</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>END TITLEPAGE</String>
+		<String>INPUT TEXINFO</String>
+		<String>SETFILENAME</String>
+		<String>SETTITLE</String>
+		<String>DOCUMENT</String>
+		<String>CONTENTS</String>
+		<String>AUTHOR</String>
+		<String>CODE</String>
+		<String>DIST</String>
+		<String>TEXT</String>
+		<String>MENU</String>
+	</GlobalStrings>
+</TrID>

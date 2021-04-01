@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Alias PIX bitmap</FileType>
+		<Ext>PIX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.alias.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>09</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>32</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000000050018</Bytes>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Rainlendar Skin</FileType>
+		<Ext>R2SKIN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.rainlendar.net</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>53</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ICCPPHOTOSHOP ICC PROFILE''X</String>
+		<String>CALENDAR.XML</String>
+		<String>ELEMENTS.XML</String>
+		<String>CHRM''Z%</String>
+		<String>SKIN.XML</String>
+		<String>TODAY.P</String>
+		<String>TOOLTIP</String>
+		<String>AR.PNG</String>
+		<String>D.PNG</String>
+		<String>E.PNG</String>
+		<String>EVENT</String>
+		<String>IDATX</String>
+		<String>N.PNG</String>
+		<String>S.PNG</String>
+		<String>T.PNG</String>
+		<String>Y.PNG</String>
+		<String>IEND</String>
+		<String>IHDR</String>
+		<String>OTTO</String>
+		<String>OUX*</String>
+		<String>PHYS</String>
+	</GlobalStrings>
+</TrID>

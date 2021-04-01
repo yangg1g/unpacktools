@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Logitech G15 keyboard Profile</FileType>
+		<Ext>LGP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Logitech_G15</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>11</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>07</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0D0A3C70726F66696C65733E0D0A093C70726F66696C6520677569643D227B</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ? . . . . p r o f i l e s . . . . . p r o f i l e   g u i d = " {</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ASSIGNMENT GAMEKEY</String>
+		<String>PROFILE GUID</String>
+		<String>ASSIGNMENTS</String>
+		<String>XML VERSION</String>
+		<String>DESCRIPTION</String>
+		<String>EVENT TYPE</String>
+		<String>SHIFTSTATE</String>
+		<String>MACRO NAME</String>
+		<String>MACROGUID</String>
+		<String>SINGLEKEY</String>
+		<String>PLAYMODE</String>
+		<String>ENCODING</String>
+		<String>PROFILES</String>
+		<String>MULTIKEY</String>
+		<String>KEYNAME</String>
+		<String>KEYDOWN</String>
+		<String>ONESHOT</String>
+		<String>TARGET</String>
+		<String>MACROS</String>
+		<String>VISION</String>
+		<String>KEYUP</String>
+		<String>UTF-8</String>
+		<String>REVI</String>
+	</GlobalStrings>
+</TrID>

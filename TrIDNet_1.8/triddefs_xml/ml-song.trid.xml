@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Musicline song</FileType>
+		<Ext>ML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.musicline.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>6</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>37</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D4C45444D4F444C</Bytes>
+			<ASCII> M L E D M O D L</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MLEDMODL</String>
+		<String>INST</String>
+		<String>PART</String>
+		<String>SMPL</String>
+		<String>VERS</String>
+	</GlobalStrings>
+</TrID>

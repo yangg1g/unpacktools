@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DAZ Studio script</FileType>
+		<Ext>DSA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/DAZ_Studio</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>3</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>17</Min>
+			<Sec>3</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2F2F2044415A2053747564696F2076657273696F6E20</Bytes>
+			<ASCII> / /   D A Z   S t u d i o   v e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FILETYPE</String>
+		<String>SCRIPT</String>
+	</GlobalStrings>
+</TrID>

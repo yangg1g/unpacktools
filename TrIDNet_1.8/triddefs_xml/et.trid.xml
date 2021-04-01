@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Kingsoft Spreadsheet</FileType>
+		<Ext>ET</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.kingsoftresearch.com/kso.php</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>3</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>E'T'E'X'T'D'A'T'A</String>
+		<String>W'O'R'K'B'O'O'K</String>
+		<String>TEPW'SKINGSOFT</String>
+	</GlobalStrings>
+</TrID>

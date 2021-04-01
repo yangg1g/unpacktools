@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Oracle SQL Developer Data Model</FileType>
+		<Ext>DMD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>39</Min>
+			<Sec>9</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E203D2027312E302720656E636F64696E67203D20275554462D38273F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n   =   ' 1 . 0 '   e n c o d i n g   =   ' U T F - 8 ' ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ORACLE.DBTOOLS.CREST.MODEL.DESIGN.DESIGN</String>
+		<String>OSDM_DESIGN CLASS</String>
+		<String>OWNERDESIGNNAME</String>
+		<String>CAPITALNAMES</String>
+		<String>CREATEDTIME</String>
+		<String>XML VERSION</String>
+		<String>CREATEDBY</String>
+		<String>DESIGNID</String>
+		<String>ENCODING</String>
+		<String>FALSE</String>
+		<String>UTF-8</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,63 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SPSS Sampling Plan</FileType>
+		<Ext>CSPLAN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/SPSS</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>37</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D3822207374616E64616C6F6E653D226E6F223F3E0A3C21444F43545950452053505353436F6D706C657853616D706C65732053595354454D2022</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 "   s t a n d a l o n e = " n o " ? . . . ! D O C T Y P E   S P S S C o m p l e x S a m p l e s   S Y S T E M   "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCTYPE SPSSCOMPLEXSAMPLES SYSTEM</String>
+		<String>CLUSTERVARLIST NUMBEROFVARIABLES</String>
+		<String>STRATAVARLIST NUMBEROFVARIABLES</String>
+		<String>ANALYSISSTAGE ESTIMATIONMETHOD</String>
+		<String>ANALYSISDESIGN NUMBEROFSTAGES</String>
+		<String>SAMPLEDESIGN NUMBEROFSTAGES</String>
+		<String>SAMPLESTAGE SELECTIONMETHOD</String>
+		<String>2003. ALL RIGHTS RESERVED.</String>
+		<String>SPSSCOMPLEXSAMPLES VERSION</String>
+		<String>SAMPLEWEIGHTCUMULATIVE_1_</String>
+		<String>INCLUSIONPROBABILITY_1_</String>
+		<String>SAMPLEWEIGHT_FINAL_</String>
+		<String>CUMULATIVEWEIGHT</String>
+		<String>HEADER COPYRIGHT</String>
+		<String>INPUTSAMPLERATE</String>
+		<String>VARIABLE NAME</String>
+		<String>WRESTIMATION</String>
+		<String>STAGENUMBER</String>
+		<String>XML VERSION</String>
+		<String>STANDALONE</String>
+		<String>SPSS INC.</String>
+		<String>ENCODING</String>
+		<String>SIMPLE_W</String>
+		<String>INCPROB</String>
+		<String>UTF-8</String>
+		<String>.DTD</String>
+	</GlobalStrings>
+</TrID>

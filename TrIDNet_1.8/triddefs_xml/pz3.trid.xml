@@ -1,0 +1,99 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Poser scene</FileType>
+		<Ext>PZ3</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Poser</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>10</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>04</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7B0A0A76657273696F6E0A097B0A096E756D62657220</Bytes>
+			<ASCII> { . . v e r s i o n . . { . . n u m b e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CAMERA SHADOW_CAM_LITE</String>
+		<String>USECUSTOMFRAMESPERSEC</String>
+		<String>CAMERA BOTTOM_CAMERA</String>
+		<String>CAMERA RIGHT_CAMERA</String>
+		<String>CAMERA LHAND_CAMERA</String>
+		<String>CAMERA FRONT_CAMERA</String>
+		<String>CAMERA RHAND_CAMERA</String>
+		<String>CAMERA SIDE_CAMERA</String>
+		<String>CAMERA MAIN_CAMERA</String>
+		<String>CAMERA FACE_CAMERA</String>
+		<String>CAMERA BACK_CAMERA</String>
+		<String>OUTPUTFRAMESPERSEC</String>
+		<String>CAMERA POSE_CAMERA</String>
+		<String>CAMERA STD_CAMERA</String>
+		<String>CAMERA AUX_CAMERA</String>
+		<String>CAMERA TOP_CAMERA</String>
+		<String>QUANTOPTIONS ONE</String>
+		<String>OUTPUTSTARTFRAME</String>
+		<String>INNERLINES FALSE</String>
+		<String>OUTERLINES TRUE</String>
+		<String>OUTPUTENDFRAME</String>
+		<String>ACTOR UNIVERSE</String>
+		<String>AUTOPLAY TRUE</String>
+		<String>STORAGEOFFSET</String>
+		<String>OVERLAPCOLORS</String>
+		<String>OUTPUTHEIGHT</String>
+		<String>CURRENTFRAME</String>
+		<String>PROP GROUND</String>
+		<String>OUTPUTWIDTH</String>
+		<String>MBLURAMOUNT</String>
+		<String>RENDERSTYLE</String>
+		<String>LIGHT LIGHT</String>
+		<String>OBJFILEGEOM</String>
+		<String>OUTPUTTYPE</String>
+		<String>GEOMETRIES</String>
+		<String>QUANTFRAME</String>
+		<String>MOTIONBLUR</String>
+		<String>LINEWIDTH</String>
+		<String>NUMFRAMES</String>
+		<String>ANTIALIAS</String>
+		<String>MOVIENAME</String>
+		<String>FLASHINFO</String>
+		<String>L PREVIEW</String>
+		<String>NUMCOLORS</String>
+		<String>MOVIEINFO</String>
+		<String>BGMOVIEON</String>
+		<String>LOOPSTART</String>
+		<String>LOOPEND</String>
+		<String>RUNTIME</String>
+		<String>VERSION</String>
+		<String>FIGURE</String>
+		<String>NUMBER</String>
+		<String>SOURCE</String>
+		<String>HANDL</String>
+		<String>GEOMC</String>
+		<String>.PZ3</String>
+		<String>.OBJ</String>
+		<String>REAL</String>
+		<String>HEAD</String>
+		<String>HAIR</String>
+		<String>LEFT</String>
+		<String>HIGH</String>
+	</GlobalStrings>
+</TrID>

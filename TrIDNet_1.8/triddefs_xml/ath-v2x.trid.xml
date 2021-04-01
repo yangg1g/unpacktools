@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Athena document (v2.x)</FileType>
+		<Ext>ATH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.athenasoft.org/sub/software.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>43</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>B43D2E00000000000000000000000012000000617468656E615F6170706C69636174696F6E</Bytes>
+			<ASCII> . = . . . . . . . . . . . . . . . . . a t h e n a _ a p p l i c a t i o n</ASCII>
+			<Pos>11</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ATHENA_APPLICATIONPK</String>
+	</GlobalStrings>
+</TrID>

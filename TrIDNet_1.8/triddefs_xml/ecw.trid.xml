@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Ensoniq WaveSet Format</FileType>
+		<Ext>ECW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.synthzone.com/ensoniq.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>23</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>45434C57</Bytes>
+			<ASCII> E C L W</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E454357</Bytes>
+			<ASCII> . E C W</ASCII>
+			<Pos>184</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

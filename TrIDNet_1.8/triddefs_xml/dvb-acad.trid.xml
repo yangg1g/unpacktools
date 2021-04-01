@@ -1,0 +1,71 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AutoCAD VBA macro</FileType>
+		<Ext>DVB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.autodesk.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>51</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>03</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>09</Min>
+			<Sec>08</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E007400720079</Bytes>
+			<ASCII> R . o . o . t .   . E . n . t . r . y</ASCII>
+			<Pos>1536</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5600420041005F00500072006F006A006500630074</Bytes>
+			<ASCII> V . B . A . _ . P . r . o . j . e . c . t</ASCII>
+			<Pos>1664</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>560042004100</Bytes>
+			<ASCII> V . B . A</ASCII>
+			<Pos>1792</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>V'B'A'_'P'R'O'J'E'C'T'_'V'E'R'S'I'O'N'''''''''''''''''''''''''''(</String>
+		<String>V'I'S'U'A'L' 'B'A'S'I'C' 'F'O'R' 'A'P'P'L'I'C'A'T'I'O'N'S</String>
+		<String>THISDRAWING'T'H'I'S'D'R'A'W'I'N'G</String>
+		<String>O'L'E' 'A'U'T'O'M'A'T'I'O'N</String>
+		<String>ATTRIBUT'E VB_NAM'E</String>
+		<String>HOST EXTENDER INFO</String>
+		<String>P'R'O'J'E'C'T'W'M</String>
+		<String>L'I'B'R'A'R'Y</String>
+		<String>A'U'T'O'C'A'D</String>
+		<String>P'R'O'G'R'A'M</String>
+		<String>HELPCONTEXTID</String>
+		<String>ACADDOCUMENT</String>
+		<String>S'Y'S'T'E'M</String>
+		<String>_EVALUATE</String>
+		<String>.'D'L'L</String>
+		<String>AUTOCAD</String>
+		<String>WORKSP</String>
+		<String>STDOLE</String>
+		<String>V'B'E</String>
+		<String>SPACE</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

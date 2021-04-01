@@ -1,0 +1,68 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Volleyball Playbook project</FileType>
+		<Ext>EBP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.jes-soft.com/volleyball/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>09</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>29</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>56657273696F6E20203D20566F6C6C657962616C6C20506C6179626F6F6B20</Bytes>
+			<ASCII> V e r s i o n     =   V o l l e y b a l l   P l a y b o o k</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VOLLEYBALL PLAYBOOK</String>
+		<String>CHARSET</String>
+		<String>ANIMATION</String>
+		<String>NRPLAYERS</String>
+		<String>VIEWKIND</String>
+		<String>CREATEDBY</String>
+		<String>THICKNESS</String>
+		<String>GRAPHICNR</String>
+		<String>COLORTBL</String>
+		<String>ROTATION</String>
+		<String>PLAYNAME</String>
+		<String>NR_PARTS</String>
+		<String>CATEGORY</String>
+		<String>FONTTBL</String>
+		<String>PLAYTEXT</String>
+		<String>AGEGROUP</String>
+		<String>FONTNAME</String>
+		<String>VERSION</String>
+		<String>QUALITY</String>
+		<String>SUBCAT</String>
+		<String>NRBALLS</String>
+		<String>CIRCLE</String>
+		<String>NR_SEQ</String>
+		<String>FOCUS</String>
+		<String>LOOP</String>
+		<String>ARROW</String>
+		<String>PASS</String>
+		<String>COURT</String>
+		<String>LANG</String>
+		<String>HIDE</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

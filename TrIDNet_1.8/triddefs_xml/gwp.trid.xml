@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GoodWay Flight Planner flight plan</FileType>
+		<Ext>GWP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.xpgoodway.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>36</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4757205072656676657273696F6E3B</Bytes>
+			<ASCII> G W   P r e f v e r s i o n ;</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GENERAL AVIATION</String>
+		<String>FLIGHT_COMMENT</String>
+		<String>GW PREFVERSION</String>
+		<String>FLIGHT_FROMTO</String>
+		<String>DATA_VERSIONS</String>
+		<String>FLIGHT_PLAN</String>
+		<String>FLIGHT_INFO</String>
+		<String>ALTERNATE</String>
+		<String>AIRCRAFT</String>
+		<String>WAYPOINT</String>
+		<String>RUNWAY</String>
+		<String>.ACF</String>
+	</GlobalStrings>
+</TrID>

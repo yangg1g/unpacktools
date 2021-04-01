@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ASH compressed data</FileType>
+		<Ext>ASH</Ext>
+		<ExtraInfo>
+			<Rem>A compression program by Eugene D. Shelwien.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Label</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>01</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>56</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0101FF030500</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

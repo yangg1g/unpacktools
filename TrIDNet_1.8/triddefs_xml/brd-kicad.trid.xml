@@ -1,0 +1,81 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>KiCad pcbnew PCB layout</FileType>
+		<Ext>BRD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/KiCad</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>1</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5043424E45572D424F4152442056657273696F6E20</Bytes>
+			<ASCII> P C B N E W - B O A R D   V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PCBNEW-BOARD VERSION</String>
+		<String>AUXILIARYAXISORG</String>
+		<String>$ENDSHEETDESCR</String>
+		<String>TRACKCLEARENCE</String>
+		<String>DRAWSEGMWIDTH</String>
+		<String>EDGESEGMWIDTH</String>
+		<String>ZONECLEARENCE</String>
+		<String>EDGEMODWIDTH</String>
+		<String>TEXTMODWIDTH</String>
+		<String>TEXTPCBWIDTH</String>
+		<String>$ENDEQUIPOT</String>
+		<String>$ENDGENERAL</String>
+		<String>$SHEETDESCR</String>
+		<String>TEXTMODSIZE</String>
+		<String>TEXTPCBSIZE</String>
+		<String>LAYERCOUNT</String>
+		<String>TRACKWIDTH</String>
+		<String>$ENDBOARD</String>
+		<String>$ENDSETUP</String>
+		<String>$ENDTRACK</String>
+		<String>$ENDZONE</String>
+		<String>$EQUIPOT</String>
+		<String>$GENERAL</String>
+		<String>PADDRILL</String>
+		<String>VIADRILL</String>
+		<String>COMMENT</String>
+		<String>NMODULE</String>
+		<String>PADSIZE</String>
+		<String>VIASIZE</String>
+		<String>$SETUP</String>
+		<String>$TRACK</String>
+		<String>LAYERS</String>
+		<String>NOCONN</String>
+		<String>NTRACK</String>
+		<String>$ZONE</String>
+		<String>LINKS</String>
+		<String>NDRAW</String>
+		<String>NNETS</String>
+		<String>NZONE</String>
+		<String>TITLE</String>
+		<String>COMP</String>
+		<String>DATE</String>
+		<String>UNIT</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,68 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Juno address book</FileType>
+		<Ext>NV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.juno.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>03</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>15</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>547970653A56657273696F6E0D0A56657273696F6E3A</Bytes>
+			<ASCII> T y p e : V e r s i o n . . V e r s i o n :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>24</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>26</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>28</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A0D0A547970653A</Bytes>
+			<ASCII> . . . . T y p e :</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PRIMARY PHONE</String>
+		<String>VERSION</String>
+		<String>ADDRESS</String>
+		<String>DELETED</String>
+		<String>MEMBER</String>
+		<String>ALIAS</String>
+		<String>EMAIL</String>
+		<String>BIRTH</String>
+		<String>ENTRY</String>
+		<String>LIST</String>
+		<String>TIME</String>
+		<String>NAME</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

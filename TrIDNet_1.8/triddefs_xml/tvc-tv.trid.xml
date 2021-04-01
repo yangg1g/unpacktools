@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TeamViewer Configuration</FileType>
+		<Ext>TVC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/TeamViewer</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2014</Year>
+			<Month>1</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>52</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B5465616D56696577657220436F6E66696775726174696F6E5D0D0A</Bytes>
+			<ASCII> [ T e a m V i e w e r   C o n f i g u r a t i o n ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TEAMVIEWER CONFIGURATION</String>
+		<String>TARGETID</String>
+		<String>ACTION</String>
+	</GlobalStrings>
+</TrID>

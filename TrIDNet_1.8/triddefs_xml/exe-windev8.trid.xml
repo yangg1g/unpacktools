@@ -1,0 +1,97 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Win32 Executable WINDEV 8</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem>WINDEV is a RAD tool for Windows by PC SOFT.</Rem>
+			<RefURL>http://www.windev.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>29</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>15</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A240000000000000068F9E2</Bytes>
+			<ASCII> . . . . . . . . . . . ! . . L . ! T h i s 	p r o g r a m 	c a n n o t 	b e 	r u n 	i n 	D O S 	m o d e . . . . $ . . . . . . . h</ASCII>
+			<Pos>61</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>YY''PM''AM''DECEMBER''''NOVEMBER''''OCTOBER'SEPTEMBER'''AUGUST''JULY''''JUNE''''APRIL'''MARCH'''FEBRUARY''''JANUARY'DEC'NOV'OCT'SEP'AUG'JUL'JUN'MAY'APR'MAR'FEB'JAN'SATURDAY''''FRIDAY''THURSDAY''''WEDNESDAY'''TUESDAY'MONDAY''SUNDAY''SAT'FRI'THU'WED'TUE'MON'SUN</String>
+		<String>PCLQUERYIMGFACTORY''(EMPTY)'COMMON''WINDEV''8.0'PC SOFT'SOFTWARE''''...'WL_SETPARAM'WL_LISTEWDL'WL_INITGOREQUETE''''WL_DONNEFININIT'WL_DONNEGPU'WL_DONNEREP'WL_DONNEWDL'WL_LISTEDLL'WL_TEST</String>
+		<String>CHECK WHETHER DLLS USED TO OPERATE THE EXECUTABLE CAN BE ACCESSED BY PATH.''''WD80VM.DLL''LE FICHIER EX</String>
+		<String>GAISPROCESSORFEATUREPRESENT'''KERNEL32''''E+000'''__GLOBAL_HEAP_SELECTED''__MSVCRT_HEAP_SELECT</String>
+		<String>FAILURE INITIALIZING WD80VM.DLL DLL.''IMPOSSIBLE DE TROUVER LA DLL WD80VM.DLL.</String>
+		<String>BAD INFORMATION ON EXTERNAL LIBRARIES.''INFOEXE'CETTE APPLICATION NE PEUT PAS</String>
+		<String>USER32.DLL'Y''''GDI32.DLL'''''''SHELL32.DLL'''''MPR.DLL'''''''''ADVAPI32.DLL</String>
+		<String>WDUPDATE VERSION IS NOT COMPATIBLE WITH THIS APPLICATION</String>
+		<String>INITIALIZECRITICALSECTION'U'DELETECRITICALSECTION</String>
+		<String>- NOT ENOUGH SPACE FOR STDIO INITIALIZATION</String>
+		<String>- NOT ENOUGH SPACE FOR LOWIO INITIALIZATION</String>
+		<String>INITIALISATION DE LA DLL WD80VM.DLL.</String>
+		<String>MICROSOFT VISUAL C++ RUNTIME LIBRARY</String>
+		<String>- NOT ENOUGH SPACE FOR ENVIRONMENT</String>
+		<String>- NOT ENOUGH SPACE FOR THREAD DATA</String>
+		<String>- NOT ENOUGH SPACE FOR ARGUMENTS</String>
+		<String>- NOT ENOUGH SPACE FOR _ONEXIT</String>
+		<String>UNABLE TO FIND WD80VM.DLL DLL.</String>
+		<String>OPERATING SYSTEM ERROR MESSAGE</String>
+		<String>W'D'V'E'R'S'I'O'N'''''8'.'0</String>
+		<String>L'E'G'A'L'C'O'P'Y'R'I'G'H'T</String>
+		<String>S'T'R'I'N'G'F'I'L'E'I'N'F'O</String>
+		<String>C'O'M'P'A'N'Y'N'A'M'E</String>
+		<String>V'A'R'F'I'L'E'I'N'F'O</String>
+		<String>PROGRAM NAME UNKNOWN</String>
+		<String>APPLICATION RUNNING</String>
+		<String>LOCKRESOURCE</String>
+		<String>WD80OLDB.DLL</String>
+		<String>WDP80MEM.DLL</String>
+		<String>WINDEVOBJECT</String>
+		<String>WD80HTML.DLL</String>
+		<String>WD80ETAT.DLL</String>
+		<String>WD80AGT.DLL</String>
+		<String>WD80CPL.DLL</String>
+		<String>WD80GRF.DLL</String>
+		<String>WD80JAV.DLL</String>
+		<String>WD80RPL.DLL</String>
+		<String>WD80COM.DLL</String>
+		<String>WD80GPU.DLL</String>
+		<String>WD553HF.DLL</String>
+		<String>WD80OLE.DLL</String>
+		<String>WD80PLM.DLL</String>
+		<String>WD80PRN.DLL</String>
+		<String>WD80MAT.DLL</String>
+		<String>WD80RTF.DLL</String>
+		<String>WD80SQL.DLL</String>
+		<String>WD80STD.DLL</String>
+		<String>WD80TRS.DLL</String>
+		<String>WD80XML.DLL</String>
+		<String>WD553DB.DLL</String>
+		<String>WD80NET.DLL</String>
+		<String>WD80OBJ.DLL</String>
+		<String>WD80DB.DLL</String>
+		<String>WD80HF.DLL</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CATIA Drawing (v5 r11)</FileType>
+		<Ext>CATDRAWING</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Catia</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>03</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>27</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>56355F4346563200</Bytes>
+			<ASCII> V 5 _ C F V 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>C'A'T'S'T'O'R'A'G'E'P'R'O'P'E'R'T'Y</String>
+		<String>CATSUMMARYINFORMATION</String>
+		<String>CATSTORAGEPROPERTY</String>
+		<String>CATCATALOGMANAGER</String>
+		<String>DASSAULT-SYSTEMES</String>
+		<String>CATIAV5R11</String>
+		<String>CATDRAWING</String>
+		<String>C'A'T'I'A</String>
+		<String>.CAT</String>
+	</GlobalStrings>
+</TrID>

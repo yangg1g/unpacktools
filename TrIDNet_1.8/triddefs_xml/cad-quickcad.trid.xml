@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>QuickCAD Drawing</FileType>
+		<Ext>CAD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.autodesk.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>43</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0A000000000B03</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>084275696C6420</Bytes>
+			<ASCII> . B u i l d</ASCII>
+			<Pos>14</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DRAWING VARIABLES</String>
+		<String>COLOR PALETTE</String>
+		<String>LIGHT SOURCES</String>
+		<String>ENTITY LIST</String>
+		<String>BUILD</String>
+		<String>LAYER</String>
+		<String>IMAGE</String>
+		<String>MAIN</String>
+	</GlobalStrings>
+</TrID>

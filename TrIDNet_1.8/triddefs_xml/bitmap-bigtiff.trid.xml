@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BigTIFF bitmap</FileType>
+		<Ext>TIF/TIFF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.aperio.com/bigtiff</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>31</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D4D002B</Bytes>
+			<ASCII> M M . +</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

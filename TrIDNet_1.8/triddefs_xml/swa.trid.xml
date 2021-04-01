@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ShockWave Audio</FileType>
+		<Ext>SWA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.macromedia.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>40</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00000140000000030000</Bytes>
+			<ASCII> . . . @</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D4143525A08CD40535B11D0A8BB00A0C9008A4800</Bytes>
+			<ASCII> M A C R Z . . @ S [ . . . . . . . . . H</ASCII>
+			<Pos>36</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

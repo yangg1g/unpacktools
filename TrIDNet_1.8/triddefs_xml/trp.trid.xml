@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Ports of Call savegame</FileType>
+		<Ext>TRP</Ext>
+		<ExtraInfo>
+			<Rem>(This was verified for the classic Amiga version)</Rem>
+			<RefURL>http://www.portsofcall.de/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>34</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52444B205452414D5020312E302028432920313938372C4D75656E6368656E001A</Bytes>
+			<ASCII> R D K   T R A M P   1 . 0   ( C )   1 9 8 7 , M u e n c h e n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>--RDK--</String>
+	</GlobalStrings>
+</TrID>

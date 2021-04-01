@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Nokia Logo Manager bitmap</FileType>
+		<Ext>NLM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>55</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4E4C4D20</Bytes>
+			<ASCII> N L M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

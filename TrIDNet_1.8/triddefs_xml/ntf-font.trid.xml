@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Font descriptor</FileType>
+		<Ext>NTF</Ext>
+		<ExtraInfo>
+			<Rem>Binary files used for describing the device fonts of Postscript-compatible printers</Rem>
+			<RefURL>http://www.osronline.com/DDKx/gloss/glossary_7gmx.htm#ddk_ntf_gg_gly</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>05</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>33</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3146544E5350544E</Bytes>
+			<ASCII> 1 F T N S P T N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

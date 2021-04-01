@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Smacker movie/video</FileType>
+		<Ext>SMK</Ext>
+		<ExtraInfo>
+			<Rem>Smacker is a compressor for video, animation and sound data.</Rem>
+			<RefURL>http://www.radgametools.com/smkmain.htm</RefURL>
+		</ExtraInfo>
+		<User>Alex Martin</User>
+		<E-Mail>clothist at gmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>39</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>19</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>534D4B</Bytes>
+			<ASCII> S M K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>6</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

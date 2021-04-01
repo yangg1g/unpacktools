@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sonic Scenarist SubTitles</FileType>
+		<Ext>SST</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>20</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>73745F666F726D6174</Bytes>
+			<ASCII> s t _ f o r m a t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>320D0A446973706C61795F5374617274</Bytes>
+			<ASCII> 2 . . D i s p l a y _ S t a r t</ASCII>
+			<Pos>10</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DISPLAY_START</String>
+		<String>DISPLAY_AREA</String>
+		<String>PIXEL_AREA</String>
+		<String>DIRECTORY</String>
+		<String>ST_FORMAT</String>
+		<String>TAPE_TYPE</String>
+		<String>CONTRAST</String>
+		<String>NON_DROP</String>
+		<String>TV_TYPE</String>
+		<String>FORCED</String>
+		<String>COLOR</String>
+	</GlobalStrings>
+</TrID>

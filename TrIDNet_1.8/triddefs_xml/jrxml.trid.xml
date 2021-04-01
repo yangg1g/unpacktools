@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>JasperReports JRXML report definition</FileType>
+		<Ext>JRXML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/JasperReports</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>08</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>JASPERREPORTS.SOURCEFORGE.NET</String>
+		<String>DOCTYPE JASPERREPORT PUBLIC</String>
+		<String>JASPERREPORT NAME</String>
+		<String>DTD REPORT DESIGN</String>
+		<String>JASPERREPORT.DTD</String>
+		<String>REPORTELEMENT</String>
+		<String>BOTTOMMARGIN</String>
+		<String>BAND HEIGHT</String>
+		<String>COLUMNWIDTH</String>
+		<String>XML VERSION</String>
+		<String>TEXTELEMENT</String>
+		<String>RIGHTMARGIN</String>
+		<String>PAGEHEIGHT</String>
+		<String>LEFTMARGIN</String>
+		<String>PAGEWIDTH</String>
+		<String>TOPMARGIN</String>
+		<String>ENCODING</String>
+		<String>CDATA</String>
+		<String>DTDS</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

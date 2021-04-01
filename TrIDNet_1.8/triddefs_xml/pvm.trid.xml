@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OSTA.org MusicPhotoVideo</FileType>
+		<Ext>PVM</Ext>
+		<ExtraInfo>
+			<Rem>OSTA stand for Optical Storage Technology Association. PVM files are, for example, part of images 'albums' created with software that come with some HP products, among others.</Rem>
+			<RefURL>http://www.osta.org/mpv/public/index.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>14</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D</Bytes>
+			<ASCII> . ? x m l   v e r s i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>312E30</Bytes>
+			<ASCII> 1 . 0</ASCII>
+			<Pos>15</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NS.OSTA.ORG</String>
+		<String>XML VERSION</String>
+		<String>ASSETLIST</String>
+		<String>MANIFEST</String>
+		<String>PURL.ORG</String>
+		<String>ELEMENTS</String>
+		<String>XMLNS</String>
+		<String>FILE</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

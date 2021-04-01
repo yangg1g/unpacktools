@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>R saved work space</FileType>
+		<Ext>RDATA</Ext>
+		<ExtraInfo>
+			<Rem>R is a language and environment for statistical computing and graphics. It is a GNU project which is similar to the S language and environment which was developed at Bell Laboratories.</Rem>
+			<RefURL>http://www.r-project.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>40</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>524458320A</Bytes>
+			<ASCII> R D X 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DATA.FRAME</String>
+		<String>CLASS</String>
+		<String>NAMES</String>
+	</GlobalStrings>
+</TrID>

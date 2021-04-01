@@ -1,0 +1,69 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WinDev Component description</FileType>
+		<Ext>WDI</Ext>
+		<ExtraInfo>
+			<Rem>WinDev is a RAD tool by PC Soft.</Rem>
+			<RefURL>http://www.windev.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>11</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>08</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504353001400000001000E00</Bytes>
+			<ASCII> P C S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>13</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000C04</Bytes>
+			<Pos>15</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>23</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000</Bytes>
+			<Pos>27</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>34</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DEFLANG1036{</String>
+		<String>ANSICPG1252</String>
+		<String>FCHARSET0 T</String>
+		<String>VIEWKIND4</String>
+		<String>FONTTBL{</String>
+		<String>WINDEV</String>
+		<String>DEFF0</String>
+		<String>FS16</String>
+		<String>FS20</String>
+		<String>RTF1</String>
+		<String>FNIL</String>
+		<String>PARD</String>
+	</GlobalStrings>
+</TrID>

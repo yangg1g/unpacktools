@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>GFA-Basic ATARI tokenized source v2.x (protected)</FileType>
+        <Ext>GFA</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.gfasoft.gfa.net/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>4</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>25</Day>
+        </Date>
+        <Time>
+            <Hour>20</Hour>
+            <Min>14</Min>
+            <Sec>57</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>FF024766614241534943</Bytes>
+            <ASCII> . . G f a B A S I C</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

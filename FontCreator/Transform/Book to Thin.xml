@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+ <TransformScript>
+  <OtherComments>
+   <Content>Book to Thin
+This script changes a Book font to Thin stroke weight. 
+After running it you may need to reduce the weight of serifs, correct intersecting contours, and change the Panose classification.</Content>
+  </OtherComments>
+  <OutlineScale>
+   <AroundType>2</AroundType>
+   <AroundCorner>0</AroundCorner>
+   <AroundXPos>0</AroundXPos>
+   <AroundYPos>0</AroundYPos>
+   <Horizontal>96.00</Horizontal>
+   <Vertical>104.00</Vertical>
+   <PreserveBearings>TRUE</PreserveBearings>
+  </OutlineScale>
+  <EffectsThin>
+   <Horizontal>35</Horizontal>
+   <Vertical>29</Vertical>
+   <PreserveBearings>TRUE</PreserveBearings>
+  </EffectsThin>
+  <OutlineMove>
+   <Horizontal>0</Horizontal>
+   <Vertical>-29</Vertical>
+  </OutlineMove>
+  <MetricsLeftSideBearing>
+  </MetricsLeftSideBearing>
+ </TransformScript>
+</DATA>

@@ -1,0 +1,81 @@
+<TrID ver="1.18">
+	<Info>
+		<FileType>Ulead Photo Impact Presets</FileType>
+		<Ext>SMP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ulead.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Date>
+			<Year>2003</Year>
+			<Month>10</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>04</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.23</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>49494F32480000005000000054000000</Bytes>
+			<ASCII> I I O 2 H . . . P . . . T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000E8000000</Bytes>
+			<Pos>18</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>010000001200002000000088000000</Bytes>
+			<Pos>25</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>13000000020000</Bytes>
+			<Pos>41</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000001800000008000000</Bytes>
+			<Pos>49</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000000000000000000000FFFFFFFFFFFFFFFF000000000000000001000000640000000000000011020000000000000100000001000000FFFFFFFF20000000FFFFFFFF800000008000000001000000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . d</ASCII>
+			<Pos>63</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>155</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000500000060000000FFFFFFFF</Bytes>
+			<ASCII> . . . . . . . . . . `</ASCII>
+			<Pos>158</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000FF000000</Bytes>
+			<Pos>191</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>249</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>253</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000416C6C000000000000000000000000000000000000000000000000000000000000FFFF010000000000000000020000000000000000000000000000000000000000</Bytes>
+			<ASCII> . . . . . . . A l l</ASCII>
+			<Pos>257</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

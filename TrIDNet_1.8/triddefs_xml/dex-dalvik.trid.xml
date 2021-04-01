@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Dalvik Dex class</FileType>
+		<Ext>DEX</Ext>
+		<ExtraInfo>
+			<Rem>Used in Google Android platform.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Dalvik_virtual_machine</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>18</Min>
+			<Sec>1</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6465780A</Bytes>
+			<ASCII> d e x</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

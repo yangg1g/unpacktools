@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Portable Embosser Format</FileType>
+		<Ext>PEF</Ext>
+		<ExtraInfo>
+			<Rem>PEF is a data format for representing braille books, accurately and unambiguously.</Rem>
+			<RefURL>http://www.daisy.org/projects/braille/braille_workarea/pef.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>7</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D3822</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WWW.DAISY.ORG</String>
+		<String>APPLICATION</String>
+		<String>VOLUME COLS</String>
+		<String>XML VERSION</String>
+		<String>IDENTIFIER</String>
+		<String>META XMLNS</String>
+		<String>X-PEF+XML</String>
+		<String>ELEMENTS</String>
+		<String>ENCODING</String>
+		<String>PURL.ORG</String>
+		<String>SECTION</String>
+		<String>2008-1</String>
+		<String>DUPLEX</String>
+		<String>FORMAT</String>
+		<String>ROWGAP</String>
+		<String>UTF-8</String>
+		<String>BODY</String>
+		<String>HEAD</String>
+		<String>HTTP</String>
+		<String>PAGE</String>
+		<String>ROWS</String>
+	</GlobalStrings>
+</TrID>

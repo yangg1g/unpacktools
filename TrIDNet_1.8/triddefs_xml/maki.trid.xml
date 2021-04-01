@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Compiled Winamp Maki script</FileType>
+		<Ext>MAKI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://dev.aol.com/article/2007/winamp_skins</RefURL>
+		</ExtraInfo>
+		<User>Josef Schneider</User>
+		<E-Mail>TrID@netpage.dk</E-Mail>
+		<Home>http://netpage.dk</Home>
+	</Info>
+	<General>
+		<FileNum>51</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>13</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4647030417000000</Bytes>
+			<ASCII> F G</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000071496551870D514A91E3A6B53235F3E7640FF5D6FA93B74993F1BA66EFAE3E987BC40DE90D84E74AB02C040BD275F7FC</Bytes>
+			<ASCII> . . . q I e Q . . Q J . . . . 2 5 . . d . . . . . . I . . . f . . . . { . . . . . . J . , . . . u</ASCII>
+			<Pos>9</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>BE</Bytes>
+			<Pos>68</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>653660381B46A742AA75D83F6667BF73F47A78F4BBB2F74E9CFBE74BA9BEA88D020C373ABF3C9F4384F186885BCF1E36B65B0C5DE17D1F4BA70F8D1659941941</Bytes>
+			<ASCII> e 6 ` 8 . F . B . u . ? f g . s . z x . . . . N . . . K . . . . . . 7 : . . . C . . . . [ . . 6 . [ . ] . } . K . . . . Y . . A</ASCII>
+			<Pos>92</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ONSCRIPTLOADED</String>
+		<String>GETS</String>
+		<String>QIEQ</String>
+		<String>~S.H</String>
+	</GlobalStrings>
+</TrID>

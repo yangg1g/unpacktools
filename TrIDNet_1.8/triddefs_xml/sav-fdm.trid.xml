@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FDM downloads data</FileType>
+		<Ext>SAV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>www.freedownloadmanager.org</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>40</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>46444D20446F776E6C6F616473</Bytes>
+			<ASCII> F D M   D o w n l o a d s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FDM DOWNLOADS</String>
+	</GlobalStrings>
+</TrID>

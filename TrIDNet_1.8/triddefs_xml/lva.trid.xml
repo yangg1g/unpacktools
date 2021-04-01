@@ -1,0 +1,73 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Logitech Video Effects Avatar</FileType>
+		<Ext>LVA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.logitech.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>32</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D53434600000000</Bytes>
+			<ASCII> M S C F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>5DIGITAL ID CLASS 3 - MICROSOFT SOFTWARE VALIDATION V21</String>
+		<String>.CLASS 3 PUBLIC PRIMARY CERTIFICATION AUTHORITY0</String>
+		<String>%VERISIGN CLASS 3 CODE SIGNING 2004 CA0</String>
+		<String>CSC3-2004-CRL.VERISIGN.COM</String>
+		<String>CSC3-2004-AIA.VERISIGN.COM</String>
+		<String>_BACKGROUND_640X480.JPG</String>
+		<String>VERISIGN TRUST NETWORK1</String>
+		<String>2TERMS OF USE AT HTTPS</String>
+		<String>CLASS3CA2048-1-430</String>
+		<String>OCSP.VERISIGN.COM0</String>
+		<String>CSC3-2004-AIA.CER0</String>
+		<String>WWW.VERISIGN.COM</String>
+		<String>O'B'S'O'L'E'T'E</String>
+		<String>CSC3-2004.CRL0D</String>
+		<String>060527235959Z0</String>
+		<String>090715235959Z0</String>
+		<String>040716000000Z</String>
+		<String>050527000000Z</String>
+		<String>_METADATA.XML</String>
+		<String>RPA (C)041.0</String>
+		<String>CALIFORNIA1</String>
+		<String>_ANIM.GIF</String>
+		<String>PCA3.CRL0</String>
+		<String>LOGITECH</String>
+		<String>INC.1705</String>
+		<String>FREMONT1</String>
+		<String>VIDEO1</String>
+		<String>I0G0$</String>
+		<String>HRHO8</String>
+		<String>RPA01</String>
+		<String>INC.0</String>
+		<String>3HTTP</String>
+		<String>WDN+U</String>
+		<String>90705</String>
+		<String>}.XML</String>
+		<String>.GR2</String>
+		<String>MSCF</String>
+	</GlobalStrings>
+</TrID>

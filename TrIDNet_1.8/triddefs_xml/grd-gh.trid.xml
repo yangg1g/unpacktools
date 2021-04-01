@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Symantec Guard Header</FileType>
+		<Ext>GRD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>14</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B47756172644865616465725D0D0A4C6567616C3D436F7079726967687420</Bytes>
+			<ASCII> [ G u a r d H e a d e r ] . . L e g a l = C o p y r i g h t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BY SYMANTEC CORPORATION</String>
+		<String>LASTMODIFIEDGMTFORMATED</String>
+		<String>LASTMODIFIEDUTCSECONDS</String>
+		<String>ALL RIGHTS RESERVED.</String>
+		<String>GUARDHEADER</String>
+		<String>COPYRIGHT</String>
+		<String>FILE-</String>
+		<String>LEGAL</String>
+		<String>.SPM</String>
+		<String>SHA1</String>
+	</GlobalStrings>
+</TrID>

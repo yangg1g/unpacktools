@@ -1,0 +1,67 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Office Data Retrieval Service Connection</FileType>
+		<Ext>UXDC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>20</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E30223F3E0D0A</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONNECTIONINFO PURPOSE</String>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>SCHEMAS.XMLSOAP.ORG</String>
+		<String>REQUEST DOCUMENT</String>
+		<String>DSQUERY SELECT</String>
+		<String>STSDATAADAPTER</String>
+		<String>RESULTCONTENT</String>
+		<String>SUBTYPE TYPE</String>
+		<String>MINORVERSION</String>
+		<String>HEADER XMLNS</String>
+		<String>MAJORVERSION</String>
+		<String>QUERYREQUEST</String>
+		<String>XML VERSION</String>
+		<String>FIELD NAME</String>
+		<String>RESULTROOT</String>
+		<String>DATASOURCE</String>
+		<String>BODY XMLNS</String>
+		<String>SHAREPOINT</String>
+		<String>SOAPACTION</String>
+		<String>DATAROOT</String>
+		<String>VERSIONS</String>
+		<String>_VTI_BIN</String>
+		<String>ENVELOPE</String>
+		<String>DATAONLY</String>
+		<String>LOCATION</String>
+		<String>FIELDS</String>
+		<String>METHOD</String>
+		<String>LIST</String>
+		<String>HREF</String>
+		<String>UDCS</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,65 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Hitec Aurora 9 saved model</FileType>
+		<Ext>SET</Ext>
+		<ExtraInfo>
+			<Rem>Model memory saved with the HPP-22 interface.</Rem>
+			<RefURL>http://www.hitecrcd.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>50</Min>
+			<Sec>3</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3A4D6F64656C466F726D617456657273696F6E302F</Bytes>
+			<ASCII> : M o d e l F o r m a t V e r s i o n 0 /</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MODULATIONMETHOD_SHIFT_BAND_ID_FR4</String>
+		<String>DISPLAYADJUSTBUTTONMENUDEFAULT7</String>
+		<String>CHANNELFUNCTION_CONTROL5</String>
+		<String>POPUPMENUID_NUM_MAX-6</String>
+		<String>MODELFORMATVERSION0</String>
+		<String>MODELMEMORYNUMBER1</String>
+		<String>FLIGHTCONDITION16</String>
+		<String>SERVOSPEED13</String>
+		<String>FAILSAFE14</String>
+		<String>MODELNAME2</String>
+		<String>MODELTYPE3</String>
+		<String>STICKRATE9</String>
+		<String>TRAINER18</String>
+		<String>DTRIM11</String>
+		<String>FUELMIX</String>
+		<String>STRIM10</String>
+		<String>TIMER15</String>
+		<String>LEMIX2</String>
+		<String>PMIX17</String>
+		<String>GYRO2</String>
+		<String>MIX23</String>
+		<String>MIX24</String>
+		<String>MIX27</String>
+		<String>REV12</String>
+		<String>RMIX2</String>
+		<String>TION2</String>
+		<String>EPA8</String>
+		<String>THRO</String>
+	</GlobalStrings>
+</TrID>

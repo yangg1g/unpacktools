@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Electronic Arts in-game video</FileType>
+		<Ext>TGV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Electronic_arts</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>03</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>59</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53454144</Bytes>
+			<ASCII> S E A D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6B564754</Bytes>
+			<ASCII> k V G T</ASCII>
+			<Pos>20</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

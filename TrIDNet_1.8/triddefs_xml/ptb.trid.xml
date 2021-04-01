@@ -1,0 +1,29 @@
+<TrID ver="1.15">
+    <Info>
+        <FileType>Power Tab Guitar and Bass Tablature Editor </FileType>
+        <Ext>PTB</Ext>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>20</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>04</Day>
+        </Date>
+        <Time>
+            <Hour>19</Hour>
+            <Min>15</Min>
+            <Sec>29</Sec>
+        </Time>
+        <Creator>TrIDScan32 v0.54.4b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>70746162</Bytes>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

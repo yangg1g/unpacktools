@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Word 5.5 document</FileType>
+		<Ext>DOC</Ext>
+		<ExtraInfo>
+			<Rem>Old Microsoft word processor for DOS</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>9</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>44</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>31BE000000AB0000</Bytes>
+			<ASCII> 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.STY</String>
+	</GlobalStrings>
+</TrID>

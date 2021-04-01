@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Cheetah subtitles</FileType>
+		<Ext>ASC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>48</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2A4E6F6E44726F704672616D650D0A2A5769647468</Bytes>
+			<ASCII> * N o n D r o p F r a m e . . * W i d t h</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>** CAPTION NUMBER 1</String>
+		<String>*BOTTOMUP</String>
+		<String>*POPON</String>
+		<String>*WIDTH</String>
+	</GlobalStrings>
+</TrID>

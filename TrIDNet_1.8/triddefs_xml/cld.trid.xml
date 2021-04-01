@@ -1,0 +1,62 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CompanyLogoDesigner project file</FileType>
+		<Ext>COMPANYLOGO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Thomas Holz</User>
+		<E-Mail>cldlogo@nospam.itsth.com</E-Mail>
+		<Home>http://www.itsth.com/en/produkte/cld.php</Home>
+	</Info>
+	<General>
+		<FileNum>429</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>04</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>16</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>2</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>54</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>59</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>X-POSITION FIRMENNAME</String>
+		<String>Y-POSITION FIRMENNAME</String>
+		<String>ROTATION FIRMENNAME</String>
+		<String>E FIRMENNAME</String>
+		<String>SCHRIFTFARBE</String>
+		<String>UNTEROBJEKT</String>
+		<String>SCHRIFTGR</String>
+		<String>COLORFONT</String>
+		<String>TEXTOFFX</String>
+		<String>TEXTOFFY</String>
+		<String>TEXTZOOM</String>
+		<String>TEXTROT</String>
+		<String>ARIAL</String>
+		<String>BASE</String>
+	</GlobalStrings>
+</TrID>

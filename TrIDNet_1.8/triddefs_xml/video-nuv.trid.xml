@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>NuppelVideo (MythTV) video</FileType>
+		<Ext>NUV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://mythtv.org/</RefURL>
+		</ExtraInfo>
+		<User>Ariel</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>33</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D7974685456566964656F00</Bytes>
+			<ASCII> M y t h T V V i d e o</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>13</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

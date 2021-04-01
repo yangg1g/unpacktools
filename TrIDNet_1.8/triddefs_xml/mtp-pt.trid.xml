@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Power Translator document</FileType>
+		<Ext>MTP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.lec.com/power-translator-software.asp</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>38</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>43566D4C6973744D4446303030310D0A7B0D0A4865616465720D0A7B0D0A0D0A300D0A</Bytes>
+			<ASCII> C V m L i s t M D F 0 0 0 1 . . { . . H e a d e r . . { . . . . 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCUMENT_OPTIONS</String>
+		<String>DE0N1024N1024N0</String>
+		<String>CVMLISTMDF</String>
+		<String>MDF FILE</String>
+		<String>HEADER</String>
+		<String>SI0V+</String>
+		<String>CG1N</String>
+		<String>DA0S</String>
+		<String>DH0N</String>
+		<String>CI1N</String>
+		<String>CK1N</String>
+		<String>CONT</String>
+		<String>PA1N</String>
+		<String>PK1V</String>
+		<String>DATA</String>
+		<String>SV0N</String>
+		<String>DX0S</String>
+	</GlobalStrings>
+</TrID>

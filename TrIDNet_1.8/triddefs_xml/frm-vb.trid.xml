@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VisualBasic Form</FileType>
+		<Ext>FRM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>89</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>10</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>59</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>56455253494F4E20352E30300D0A</Bytes>
+			<ASCII> V E R S I O N   5 . 0 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ATTRIBUTE VB_GLOBALNAMESPACE</String>
+		<String>ATTRIBUTE VB_PREDECLAREDID</String>
+		<String>ATTRIBUTE VB_CREATABLE</String>
+		<String>ATTRIBUTE VB_EXPOSED</String>
+		<String>ATTRIBUTE VB_NAME</String>
+		<String>BEGIN VB.FORM</String>
+		<String>CLIENTHEIGHT</String>
+		<String>VERSION 5.00</String>
+		<String>CLIENTWIDTH</String>
+		<String>SCALEHEIGHT</String>
+		<String>SCALEWIDTH</String>
+		<String>CLIENTLEFT</String>
+		<String>CLIENTTOP</String>
+		<String>LINKTOPIC</String>
+		<String>FALSE</String>
+		<String>PTION</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

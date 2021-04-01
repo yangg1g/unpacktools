@@ -1,0 +1,169 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EDraw Max drawing</FileType>
+		<Ext>EDX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Edraw_Max</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>9</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>12</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SHAPEFORMAT QUICKMASK</String>
+		<String>CONLINEJUMPSTYLE</String>
+		<String>DOCUMENT VERSION</String>
+		<String>MOVETO JOINTTYPE</String>
+		<String>THEMEEFFECT NAME</String>
+		<String>ALIGNHORIZONTAL</String>
+		<String>CONLINEJUMPCODE</String>
+		<String>FILLFORMAT TYPE</String>
+		<String>THEMECOLOR NAME</String>
+		<String>BEGINARROWSIZE</String>
+		<String>DEFLANGFE2052{</String>
+		<String>THEMETEXT NAME</String>
+		<String>WATERMARK TYPE</String>
+		<String>ALIGNVERTICAL</String>
+		<String>FONTBACKCOLOR</String>
+		<String>FONTSTRIKEOUT</String>
+		<String>FONTUNDERLINE</String>
+		<String>LINEFILL TYPE</String>
+		<String>SHOWGUIDELINE</String>
+		<String>BEGINARROWID</String>
+		<String>EFFECTFORMAT</String>
+		<String>ENDARROWSIZE</String>
+		<String>DEFLANG1033</String>
+		<String>LINEPATTERN</String>
+		<String>RIGHTINDENT</String>
+		<String>SHADOW MODE</String>
+		<String>SPACEBEFORE</String>
+		<String>STARTINDENT</String>
+		<String>XML VERSION</String>
+		<String>BACKGROUND</String>
+		<String>CUSTHEIGHT</String>
+		<String>ENDARROWID</String>
+		<String>EXTENDMODE</String>
+		<String>FONTBULLET</String>
+		<String>FONTFAMILY</String>
+		<String>FONTHEIGHT</String>
+		<String>FONTITALIC</String>
+		<String>FONTOFFSET</String>
+		<String>FONTWEIGHT</String>
+		<String>GEOMETRIES</String>
+		<String>LEFTOFFSET</String>
+		<String>LINEFORMAT</String>
+		<String>LINEWEIGHT</String>
+		<String>OBJECTTYPE</String>
+		<String>PROTECTION</String>
+		<String>R0LGODLHLG</String>
+		<String>SHAPE TYPE</String>
+		<String>SPACEAFTER</String>
+		<String>STANDALONE</String>
+		<String>TEXTFORMAT</String>
+		<String>THEME NAME</String>
+		<String>CUSTWIDTH</String>
+		<String>DIRECTION</String>
+		<String>DOCCONFIG</String>
+		<String>EJUMPDIRX</String>
+		<String>EJUMPDIRY</String>
+		<String>EVENTDROP</String>
+		<String>FCHARSET0</String>
+		<String>LINESPACE</String>
+		<String>LOCKMOVEX</String>
+		<String>LOCKMOVEY</String>
+		<String>LOCPINX F</String>
+		<String>LOCPINY F</String>
+		<String>PAGE TYPE</String>
+		<String>PAGEPROPS</String>
+		<String>PREDEFINE</String>
+		<String>SHOWRULER</String>
+		<String>TRANSFORM</String>
+		<String>VIEWKIND4</String>
+		<String>COLORTBL</String>
+		<String>DEFAULTQ</String>
+		<String>DOCPROPS</String>
+		<String>ENCODING</String>
+		<String>FONTTBL{</String>
+		<String>GEOMETRY</String>
+		<String>HEIGHT F</String>
+		<String>JUMPSIZE</String>
+		<String>PREPAPER</String>
+		<String>ROUNDING</String>
+		<String>SHOWGRID</String>
+		<String>TXTFIELD</String>
+		<String>WAAAAALG</String>
+		<String>ACCENT1</String>
+		<String>ANSICPG</String>
+		<String>GPINX F</String>
+		<String>GPINY F</String>
+		<String>KHEIGHT</String>
+		<String>LINECAP</String>
+		<String>OFFSETX</String>
+		<String>OFFSETY</String>
+		<String>PREVIEW</String>
+		<String>SCROLLX</String>
+		<String>SCROLLY</String>
+		<String>SLMULT1</String>
+		<String>STOPNUM</String>
+		<String>WIDTH F</String>
+		<String>CENTER</String>
+		<String>CLOSED</String>
+		<String>EVENTS</String>
+		<String>GREEN0</String>
+		<String>KWIDTH</String>
+		<String>LINEAR</String>
+		<String>MIDDLE</String>
+		<String>NOFILL</String>
+		<String>NOLINE</String>
+		<String>NOSHOW</String>
+		<String>NOSNAP</String>
+		<String>SELECT</String>
+		<String>ZOOMUI</String>
+		<String>ANGLE</String>
+		<String>DEFF0</String>
+		<String>FALSE</String>
+		<String>FFEEE</String>
+		<String>FLIPX</String>
+		<String>FLIPY</String>
+		<String>FPRQ2</String>
+		<String>LAYER</String>
+		<String>LOCKC</String>
+		<String>SCALE</String>
+		<String>SOLID</String>
+		<String>TEXTS</String>
+		<String>UTF-8</String>
+		<String>BLUR</String>
+		<String>ENCI</String>
+		<String>MISC</String>
+		<String>NONE</String>
+		<String>PARD</String>
+		<String>RTF1</String>
+		<String>STEN</String>
+		<String>TENC</String>
+		<String>TRUE</String>
+		<String>UNIT</String>
+	</GlobalStrings>
+</TrID>

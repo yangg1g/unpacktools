@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sage Backup</FileType>
+		<Ext>000/001/999</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sagesoftware.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>26</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>534147454241434B5550</Bytes>
+			<ASCII> S A G E B A C K U P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>004261636B757020</Bytes>
+			<ASCII> . B a c k u p</ASCII>
+			<Pos>48</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>446174612046696C65732E0D0A</Bytes>
+			<ASCII> D a t a   F i l e s</ASCII>
+			<Pos>59</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ICE compressed archive</FileType>
+		<Ext>ICE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.iceows.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>41</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.7b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>494301020100</Bytes>
+			<ASCII> I C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4943</Bytes>
+			<ASCII> I C</ASCII>
+			<Pos>33</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

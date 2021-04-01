@@ -1,0 +1,1 @@
+﻿Sox (http://sourceforge.net/projects/sox/) and required .dlls go here.

@@ -1,0 +1,36 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AutoCAD Drawing Interchange Format (Binary)</FileType>
+		<Ext>DXF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://usa.autodesk.com/autocad/</RefURL>
+		</ExtraInfo>
+		<User>Paresh Modi</User>
+		<E-Mail>info@softpal.com</E-Mail>
+		<Home>www.softpal.com</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>44</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4175746F4341442042696E617279204458460D0A1A</Bytes>
+			<ASCII> A u t o C A D   B i n a r y   D X F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

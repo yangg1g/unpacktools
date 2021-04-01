@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CorelDream 3D drawing</FileType>
+		<Ext>D3D</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>06</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>334443207B0D0A206173636920310D0A2076732022</Bytes>
+			<ASCII> 3 D C   { . .   a s c i   1 . .   v s   "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>22</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>220D0A2073662022436F72656C445245414D203344220D0A207072767720</Bytes>
+			<ASCII> " . .   s f   " C o r e l D R E A M   3 D " . .   p r v w</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

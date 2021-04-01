@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Cinemaware CIN Music</FileType>
+		<Ext>CIN</Ext>
+		<ExtraInfo>
+			<Rem>A MIDI-like music format that appears to have only been used in Cinemaware's last game, Wings.</Rem>
+			<RefURL>http://exotica.fix.no/tunes/unexotica/formats/Cinemaware.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>49</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>49424C4B</Bytes>
+			<ASCII> I B L K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ASEQ</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GoBe Productive Document</FileType>
+		<Ext>PVE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.gobe.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>06</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>53</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>474F424520</Bytes>
+			<ASCII> G O B E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

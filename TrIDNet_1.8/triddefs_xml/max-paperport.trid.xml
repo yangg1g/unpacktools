@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PaperPort scanned document/image</FileType>
+		<Ext>MAX</Ext>
+		<ExtraInfo>
+			<Rem>PaperPort is a document management tool. It allow scanning and archiving documents, photos, papers, etc.</Rem>
+			<RefURL>http://www.scansoft.com/paperport/viewers/default.asp</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2005</Year>
+			<Month>04</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>42</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>566947</Bytes>
+			<ASCII> V i G</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>1A</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

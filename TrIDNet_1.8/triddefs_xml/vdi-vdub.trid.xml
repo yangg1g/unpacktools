@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VirtualDub Debug Info</FileType>
+		<Ext>VDI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.virtualdub.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>04</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>53</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B30</Bytes>
+			<ASCII> [ 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7C30</Bytes>
+			<ASCII> | 0</ASCII>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5D205669727475616C4475622064697361736D206D6F64756C652028</Bytes>
+			<ASCII> ]   V i r t u a l D u b   d i s a s m   m o d u l e   (</ASCII>
+			<Pos>6</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

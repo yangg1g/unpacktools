@@ -1,0 +1,99 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Find and Run Robot (FARR) plugin</FileType>
+		<Ext>DLL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.donationcoder.com/Software/Mouser/findrun/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>16</Min>
+			<Sec>0</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A</Bytes>
+			<ASCII> M Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000400</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00FFFF0000B8000000000000004000</Bytes>
+			<ASCII> . . . . . . . . . . . . . @</ASCII>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<Pos>27</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>62</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0E</Bytes>
+			<Pos>67</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>B409CD21B8014CCD21</Bytes>
+			<ASCII> . . . ! . . L . !</ASCII>
+			<Pos>69</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PLUGINFUNC_ASK_HOWMANYITEMRESULTSAREREADY</String>
+		<String>PLUGINFUNC_REQUEST_ITEMRESULTBYINDEX</String>
+		<String>PLUGINFUNC_ASK_ISANYRESULTAVAILABLE</String>
+		<String>PLUGINFUNC_INFORM_REGEXSEARCHMATCH</String>
+		<String>PLUGINFUNC_INFORM_SEARCHBEGINS</String>
+		<String>PLUGINFUNC_REQUEST_LOCKRESULTS</String>
+		<String>PLUGINFUNC_INFORM_SEARCHENDS</String>
+		<String>PLUGINFUNC_ASK_SEARCHSTATE</String>
+		<String>PLUGINFUNC_ASK_WANTFEATURE</String>
+		<String>PLUGINFUNC_SUPPORTCHECK</String>
+		<String>PLUGINFUNC_DOSHUTDOWN</String>
+		<String>PLUGINFUNC_GETSTRVAL</String>
+		<String>PLUGINFUNC_SETSTRVAL</String>
+		<String>PLUGINFUNC_DOINIT</String>
+		<String>KERNEL32.DLL</String>
+		<String>THIS PROGRAM</String>
+		<String>ADLIBRARY</String>
+		<String>BE RUN</String>
+		<String>WINDOW</String>
+		<String>ALLOC</String>
+		<String>PE''L</String>
+		<String>FARR</String>
+		<String>FREE</String>
+		<String>IFYS</String>
+		<String>IONS</String>
+		<String>ISPL</String>
+		<String>KEYW</String>
+		<String>MODE</String>
+		<String>NAME</String>
+		<String>NNOT</String>
+		<String>PROC</String>
+		<String>USER</String>
+	</GlobalStrings>
+</TrID>

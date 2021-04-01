@@ -1,0 +1,158 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FlowJo PC Workspace</FileType>
+		<Ext>WSP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.flowjo.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>29</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>10</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>42</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D2249534F2D383835392D31223F3E0D0A</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " I S O - 8 8 5 9 - 1 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>AUTOCALCULATEEXTRANEGATIVE</String>
+		<String>COMPENSATIONMATRIX NAME</String>
+		<String>HISTOGRAMSMOOTHINGCOUNT</String>
+		<String>SMOOTHINGHIGHRESOLUTION</String>
+		<String>KEEPQUADANNOTINCORNERS</String>
+		<String>DOCUMENTS AND SETTINGS</String>
+		<String>CONTOURHIGHRESOLUTION</String>
+		<String>GLOBAL DIVA SETTINGS</String>
+		<String>TRANSFORM SAMPLENAME</String>
+		<String>COMPENSATIONSCRIPTS</String>
+		<String>NONAUTOSAVEFILENAME</String>
+		<String>COLUMNS WSSORTORDER</String>
+		<String>SAMPLEREF SAMPLEID</String>
+		<String>FLOWJOEDITOR TITLE</String>
+		<String>LAYOUTEDITOR TITLE</String>
+		<String>SCIENTIFICNOTATION</String>
+		<String>DOCTYPE WORKSPACE</String>
+		<String>UNIT DISTRIBUTION</String>
+		<String>COMPENSATION NAME</String>
+		<String>TABLEEDITOR TITLE</String>
+		<String>TRANSFORMSETTINGS</String>
+		<String>NUMBEROFQUADGATES</String>
+		<String>ADVANCED TUTORIAL</String>
+		<String>WORKSPACE VERSION</String>
+		<String>DRAWCOLUMNBORDERS</String>
+		<String>WINDOWPOSITION X</String>
+		<String>SAMPLENODE NAME</String>
+		<String>EXTRANEGDECADES</String>
+		<String>GROUPPANEHEIGHT</String>
+		<String>GRAPH SMOOTHING</String>
+		<String>WSSORTASCENDING</String>
+		<String>TEXTTRAITS FONT</String>
+		<String>ISUSERMODIFIED</String>
+		<String>AXIS DIMENSION</String>
+		<String>XLABELOVERRIDE</String>
+		<String>SHOWUNCOMPPARM</String>
+		<String>DRAWROWBORDERS</String>
+		<String>ITERATIONVALUE</String>
+		<String>GROUPNODE NAME</String>
+		<String>YLABELOVERRIDE</String>
+		<String>SHOWGATENAMES</String>
+		<String>ITERATIONTYPE</String>
+		<String>LASTYAXISNAME</String>
+		<String>SHOWGATEFREQS</String>
+		<String>FLOWJOVERSION</String>
+		<String>DRAWLARGEDOTS</String>
+		<String>FLOWJODEMOID</String>
+		<String>SORTPRIORITY</String>
+		<String>SHOWOUTLIERS</String>
+		<String>SYNCHRONIZED</String>
+		<String>KEYWORD NAME</String>
+		<String>PSEUDOCOLOR</String>
+		<String>ALL SAMPLES</String>
+		<String>COLUMN NAME</String>
+		<String>XML VERSION</String>
+		<String>DEFAULTTOOL</String>
+		<String>DATASET URI</String>
+		<String>FOREGROUND</String>
+		<String>WIDTHBASIS</String>
+		<String>EXPERIMENT</String>
+		<String>DOTSTODRAW</String>
+		<String>PANELSTATE</String>
+		<String>SAMPLELIST</String>
+		<String>GROUP NAME</String>
+		<String>L-SELECTIN</String>
+		<String>TABLE NAME</String>
+		<String>WORKSPACES</String>
+		<String>BACKGROUND</String>
+		<String>ISTEMPLATE</String>
+		<String>WUNDERLICH</String>
+		<String>SAMPLEREFS</String>
+		<String>$BEGINDATA</String>
+		<String>POSDECADES</String>
+		<String>YAUTOTYPE</String>
+		<String>SHOWGATES</String>
+		<String>FONTSTYLE</String>
+		<String>CD4 CELLS</String>
+		<String>$DATATYPE</String>
+		<String>STATISTIC</String>
+		<String>NAC_TRIAL</String>
+		<String>FORECOLOR</String>
+		<String>$NEXTDATA</String>
+		<String>BACKCOLOR</String>
+		<String>EXPANDED</String>
+		<String>$ENDDATA</String>
+		<String>CRITERIA</String>
+		<String>KEYWORDS</String>
+		<String>SHOWAXES</String>
+		<String>ENCODING</String>
+		<String>$BYTEORD</String>
+		<String>CURGROUP</String>
+		<String>T-CELLS</String>
+		<String>FACSASP</String>
+		<String>CREATOR</String>
+		<String>DESKTOP</String>
+		<String>CURRENT</String>
+		<String>PHYERY</String>
+		<String>GROUPS</String>
+		<String>ORTHSC</String>
+		<String>ISDIVA</String>
+		<String>DIALOG</String>
+		<String>$CELLS</String>
+		<String>SCALE</String>
+		<String>$MODE</String>
+		<String>LYSYS</String>
+		<String>$TUBE</String>
+		<String>$DATE</String>
+		<String>FLUOR</String>
+		<String>$PROJ</String>
+		<String>FORSC</String>
+		<String>FAST</String>
+		<String>$EXP</String>
+		<String>LIVE</String>
+		<String>JUST</String>
+		<String>SIZE</String>
+		<String>OPEN</String>
+		<String>.WSP</String>
+		<String>LEFT</String>
+		<String>YMAX</String>
+		<String>YMIN</String>
+		<String>PMBC</String>
+	</GlobalStrings>
+</TrID>

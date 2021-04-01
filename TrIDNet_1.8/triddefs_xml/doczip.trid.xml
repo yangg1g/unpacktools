@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>dockzip format</FileType>
+		<Ext>DOCZIP</Ext>
+		<ExtraInfo>
+			<Rem>dockzip is a format developed by Stardock Corporation for use with ObjectDock, ObjectDock Plus, and licensed applications.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Stardock</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>29</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>E80400002E646F636B7A697020666F726D617420</Bytes>
+			<ASCII> . . . . . d o c k z i p   f o r m a t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

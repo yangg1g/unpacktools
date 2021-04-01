@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VP3 sewing machine file</FileType>
+		<Ext>VP3</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.jasonweiler.com/VP3FileFormatInfo.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>21</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>12</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2576736D25</Bytes>
+			<ASCII> % v s m %</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

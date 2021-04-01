@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Adobe Digital Editions Adobe Content Server Message</FileType>
+		<Ext>ACSM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>1</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>54</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FULFILLMENTTOKEN FULFILLMENTTYPE</String>
+		<String>RESOURCEITEMINFO</String>
+		<String>NS.ADOBE.COM</String>
+		<String>DISTRIBUTOR</String>
+		<String>OPERATORURL</String>
+		<String>TRANSACTION</String>
+		<String>EXPIRATION</String>
+		<String>ADEPT</String>
+		<String>XMLNS</String>
+		<String>HMAC</String>
+		<String>HTTP</String>
+		<String>UUID</String>
+	</GlobalStrings>
+</TrID>

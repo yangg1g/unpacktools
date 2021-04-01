@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PhCNC project</FileType>
+		<Ext>PHJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.accuratecnc.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>11</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>48</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>08000040</Bytes>
+			<ASCII> . . . @</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5068434E4320</Bytes>
+			<ASCII> P h C N C</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

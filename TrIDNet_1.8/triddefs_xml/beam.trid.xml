@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Compiled Erlang code</FileType>
+		<Ext>BEAM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Erlang_(programming_language)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>1</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>23</Min>
+			<Sec>6</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>464F5231</Bytes>
+			<ASCII> F O R 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4245414D41746F6D</Bytes>
+			<ASCII> B E A M A t o m</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GET_MODULE_INFO</String>
+		<String>BEAMATOM</String>
+		<String>VERSIONK</String>
+		<String>OPTIONS</String>
+		<String>SOURCEK</String>
+		<String>ERLANG</String>
+		<String>TIMEH</String>
+		<String>ABST</String>
+		<String>ATTR</String>
+		<String>CINF</String>
+		<String>CODE</String>
+		<String>EXPT</String>
+		<String>FOR1</String>
+		<String>IMPT</String>
+		<String>LOCT</String>
+		<String>STRT</String>
+		<String>VSNL</String>
+	</GlobalStrings>
+</TrID>

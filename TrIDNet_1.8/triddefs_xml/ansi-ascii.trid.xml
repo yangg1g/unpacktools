@@ -1,0 +1,99 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ANSI ISO 6429 ASCII file</FileType>
+		<Ext>ANS/ASC</Ext>
+		<ExtraInfo>
+			<Rem>Use ANSI ISO 6429 terminal control codes to create colors images.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>13</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1B5B</Bytes>
+			<ASCII> . [</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D1B5B33</Bytes>
+			<ASCII> m . [ 3</ASCII>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D1B5B34</Bytes>
+			<ASCII> m . [ 4</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6DB11B5B</Bytes>
+			<ASCII> m . . [</ASCII>
+			<Pos>13</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D1B5B33</Bytes>
+			<ASCII> m . [ 3</ASCII>
+			<Pos>18</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D1B5B34</Bytes>
+			<ASCII> m . [ 4</ASCII>
+			<Pos>23</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6DB11B5B</Bytes>
+			<ASCII> m . . [</ASCII>
+			<Pos>28</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D1B5B33</Bytes>
+			<ASCII> m . [ 3</ASCII>
+			<Pos>33</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D1B5B34</Bytes>
+			<ASCII> m . [ 4</ASCII>
+			<Pos>38</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6DB11B5B</Bytes>
+			<ASCII> m . . [</ASCII>
+			<Pos>43</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D1B5B33</Bytes>
+			<ASCII> m . [ 3</ASCII>
+			<Pos>48</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D1B5B34</Bytes>
+			<ASCII> m . [ 4</ASCII>
+			<Pos>53</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6DB11B5B</Bytes>
+			<ASCII> m . . [</ASCII>
+			<Pos>58</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D1B5B33</Bytes>
+			<ASCII> m . [ 3</ASCII>
+			<Pos>63</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

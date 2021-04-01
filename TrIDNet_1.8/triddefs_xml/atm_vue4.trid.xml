@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Vue D'Esprit 4 Atmosphere Preset</FileType>
+		<Ext>ATM</Ext>
+		<ExtraInfo>
+			<Rem>Describes sky, clouds, weather conditions etc. for use in Vue D'Esprit 4 projects.</Rem>
+			<RefURL>http://www.e-onsoftware.com</RefURL>
+		</ExtraInfo>
+		<User>Alex Paven</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>138</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>05</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>56</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>12</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ESPRIT</String>
+		<String>VUE D</String>
+	</GlobalStrings>
+</TrID>

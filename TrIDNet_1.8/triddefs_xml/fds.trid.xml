@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Nintendo Famicom (NES) Disk System</FileType>
+		<Ext>FDS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>06</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>04</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4644531A</Bytes>
+			<ASCII> F D S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2A4E494E54454E444F2D4856432A</Bytes>
+			<ASCII> * N I N T E N D O - H V C *</ASCII>
+			<Pos>17</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

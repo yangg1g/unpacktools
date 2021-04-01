@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SOR OTDR data</FileType>
+		<Ext>SOR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Otdr</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>08</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>45</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6400</Bytes>
+			<ASCII> d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>47656E506172616D7300</Bytes>
+			<ASCII> G e n P a r a m s</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>537570506172616D7300</Bytes>
+			<ASCII> S u p P a r a m s</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>467864506172616D7300</Bytes>
+			<ASCII> F x d P a r a m s</ASCII>
+			<Pos>40</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

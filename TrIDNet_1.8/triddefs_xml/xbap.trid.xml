@@ -1,0 +1,80 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XAML Browser Applications</FileType>
+		<Ext>XBAP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/XBAP</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>2</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.81</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D38223F3E0D0A3C61736D76313A617373656D626C79207873693A736368656D614C6F636174696F6E3D2275726E3A736368656D61732D6D6963726F736F66742D636F6D3A61736D2E763120617373656D626C792E61646170746976652E78736422206D616E696665737456657273696F6E3D22312E302220786D6C6E733A</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 " ? . . . . a s m v 1 : a s s e m b l y   x s i : s c h e m a L o c a t i o n = " u r n : s c h e m a s - m i c r o s o f t - c o m : a s m . v 1   a s s e m b l y . a d a p t i v e . x s d "   m a n i f e s t V e r s i o n = " 1 . 0 "   x m l n s :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DEPENDENTASSEMBLY DEPENDENCYTYPE</String>
+		<String>ASM.V1 ASSEMBLY.ADAPTIVE.XSD</String>
+		<String>HASHTRANSFORMS.IDENTITY</String>
+		<String>DIGESTMETHOD ALGORITHM</String>
+		<String>ASSEMBLYIDENTITY NAME</String>
+		<String>PROCESSORARCHITECTURE</String>
+		<String>SCHEMAS-MICROSOFT-COM</String>
+		<String>TRANSFORM ALGORITHM</String>
+		<String>DEPLOYMENT INSTALL</String>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>DESCRIPTION ASMV2</String>
+		<String>MANIFESTVERSION</String>
+		<String>PUBLICKEYTOKEN</String>
+		<String>SCHEMALOCATION</String>
+		<String>.EXE.MANIFEST</String>
+		<String>ASSEMBLY XSI</String>
+		<String>01-REL-R-NS</String>
+		<String>DIGESTVALUE</String>
+		<String>XML VERSION</String>
+		<String>WWW.W3.ORG</String>
+		<String>PUBLISHER</String>
+		<String>CODEBASE</String>
+		<String>ENCODING</String>
+		<String>LANGUAGE</String>
+		<String>NEUTRAL</String>
+		<String>PRODUCT</String>
+		<String>XMLDSIG</String>
+		<String>1.0.0.</String>
+		<String>ASM.V2</String>
+		<String>MPEG21</String>
+		<String>ASMV1</String>
+		<String>FALSE</String>
+		<String>UTF-8</String>
+		<String>WIN32</String>
+		<String>XMLNS</String>
+		<String>2000</String>
+		<String>2001</String>
+		<String>2003</String>
+		<String>HTTP</String>
+		<String>MSIL</String>
+		<String>SHA1</String>
+		<String>SIZE</String>
+		<String>XRML</String>
+	</GlobalStrings>
+</TrID>

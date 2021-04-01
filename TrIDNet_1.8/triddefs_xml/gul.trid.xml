@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Samsung document</FileType>
+		<Ext>BKG/GUL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>53</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>A'N'C'H'O'R'E'D' 'F'R'A'M'E</String>
+		<String>I'M'A'G'E' 'S'T'A'C'K</String>
+		<String>M'A'S'T'E'R'P'A'G'E'0</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>A'T'T'R'I'B'U'T'E</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>DOCUMENT FILE</String>
+		<String>SAMSUNG</String>
+	</GlobalStrings>
+</TrID>

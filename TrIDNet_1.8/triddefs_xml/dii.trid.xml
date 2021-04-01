@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Summation Document Image Information Load File</FileType>
+		<Ext>DII</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.summation.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>26</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3B</Bytes>
+			<ASCII> ;</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RECORD</String>
+	</GlobalStrings>
+</TrID>

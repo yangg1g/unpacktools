@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft PowerPoint document</FileType>
+		<Ext>PPS/PPT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/office</RefURL>
+		</ExtraInfo>
+		<User>Roberto 'rbnet' Bolli</User>
+		<E-Mail>infoNOSPAM@NOSPAMrbnet.it</E-Mail>
+		<Home>http://www.rbnet.it/</Home>
+	</Info>
+	<General>
+		<FileNum>67</FileNum>
+		<Refine>15 by Marco Pontello - 8 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>12</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>POWERPOINT</String>
+	</GlobalStrings>
+</TrID>

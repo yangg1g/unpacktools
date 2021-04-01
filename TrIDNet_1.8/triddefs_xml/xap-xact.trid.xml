@@ -1,0 +1,116 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XACT Project</FileType>
+		<Ext>XAP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Cross-platform_Audio_Creation_Tool</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>1</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5369676E6174757265203D2058414354</Bytes>
+			<ASCII> S i g n a t u r e   =   X A C T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BUILD SETTINGS LAST MODIFIED HIGH</String>
+		<String>BUILD SETTINGS LAST MODIFIED LOW</String>
+		<String>NEW SPEAKER POSITION ON LOOP</String>
+		<String>COMPRESSION PRESET NAME</String>
+		<String>EXCLUDE CATEGORY NAMES</String>
+		<String>EXCLUDE VARIABLE NAMES</String>
+		<String>SPEAKER POSITION ANGLE</String>
+		<String>NEW VARIATION ON LOOP</String>
+		<String>USE SPEAKER POSITION</String>
+		<String>VARIATION TABLE TYPE</String>
+		<String>DOPPLERPITCHSCALAR</String>
+		<String>LOOP REGION LENGTH</String>
+		<String>LOOP REGION OFFSET</String>
+		<String>PLAY REGION LENGTH</String>
+		<String>PLAY REGION OFFSET</String>
+		<String>USE CENTER SPEAKER</String>
+		<String>RANDOM RECURRENCE</String>
+		<String>BACKGROUND MUSIC</String>
+		<String>ORIENTATIONANGLE</String>
+		<String>BITS PER SAMPLE</String>
+		<String>GLOBAL SETTINGS</String>
+		<String>NUMCUEINSTANCES</String>
+		<String>PLAY WAVE EVENT</String>
+		<String>CATEGORY ENTRY</String>
+		<String>CROSSFADE TYPE</String>
+		<String>INSTANCE LIMIT</String>
+		<String>VARIATION TYPE</String>
+		<String>INITIAL VALUE</String>
+		<String>MAX INSTANCES</String>
+		<String>RANDOM OFFSET</String>
+		<String>SAMPLING RATE</String>
+		<String>EVENT HEADER</String>
+		<String>POSITION ARC</String>
+		<String>SPEEDOFSOUND</String>
+		<String>WINDOWS FILE</String>
+		<String>ENTRY INDEX</String>
+		<String>HEADER FILE</String>
+		<String>RELEASETIME</String>
+		<String>SEEK TABLES</String>
+		<String>SOUND ENTRY</String>
+		<String>ATTACKTIME</String>
+		<String>BANK INDEX</String>
+		<String>BREAK LOOP</String>
+		<String>ENTRY NAME</String>
+		<String>FORMAT TAG</String>
+		<String>SOUND BANK</String>
+		<String>WAVE ENTRY</String>
+		<String>WEIGHT MAX</String>
+		<String>WEIGHT MIN</String>
+		<String>BANK NAME</String>
+		<String>FILE TYPE</String>
+		<String>MONITORED</String>
+		<String>READ ONLY</String>
+		<String>SIGNATURE</String>
+		<String>TIMESTAMP</String>
+		<String>WAVE BANK</String>
+		<String>XBOX FILE</String>
+		<String>BEHAVIOR</String>
+		<String>CHANNELS</String>
+		<String>DISTANCE</String>
+		<String>EXTERNAL</String>
+		<String>FADE OUT</String>
+		<String>INTERNAL</String>
+		<String>PRIORITY</String>
+		<String>RELATIVE</String>
+		<String>RESERVED</String>
+		<String>DEFAULT</String>
+		<String>FADE IN</String>
+		<String>OPTIONS</String>
+		<String>VERSION</String>
+		<String>PUBLIC</String>
+		<String>VOLUME</String>
+		<String>CACHE</String>
+		<String>TRACK</String>
+		<String>.WAV</String>
+		<String>.XGS</String>
+		<String>.XSB</String>
+		<String>.XWB</String>
+		<String>XACT</String>
+	</GlobalStrings>
+</TrID>

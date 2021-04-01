@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>KOM game data archive</FileType>
+		<Ext>KOM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Elsword</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>58</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4B4F47204743205445414D204D41535346494C4520562E</Bytes>
+			<ASCII> K O G   G C   T E A M   M A S S F I L E   V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

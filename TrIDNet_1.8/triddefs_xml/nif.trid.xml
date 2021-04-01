@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Notation Interchange File Format</FileType>
+        <Ext>NIF</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.musique.umontreal.ca/personnel/Belkin/NIFF.doc.html</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>18</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>26</Day>
+        </Date>
+        <Time>
+            <Hour>23</Hour>
+            <Min>48</Min>
+            <Sec>07</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>5249465800</Bytes>
+            <ASCII> R I F X</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>4E4946464C495354000003</Bytes>
+            <ASCII> N I F F L I S T</ASCII>
+            <Pos>8</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

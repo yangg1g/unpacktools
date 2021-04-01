@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Long Range Zip compressed</FileType>
+		<Ext>LRZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>https://github.com/ckolivas/lrzip</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>8</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>6</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4C525A49</Bytes>
+			<ASCII> L R Z I</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

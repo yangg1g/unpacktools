@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ScreenSwift Screen Saver Project</FileType>
+		<Ext>SSP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.tenmiles.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>07</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>19</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B53637265656E53776966745D0D0A526567697374657265643D</Bytes>
+			<ASCII> [ S c r e e n S w i f t ] . . R e g i s t e r e d =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCREENSAVER</String>
+		<String>SCREENSWIFT</String>
+		<String>SETTINGSBOX</String>
+		<String>REGISTERED</String>
+		<String>INSTALLER</String>
+		<String>PREVIEW</String>
+		<String>MOVIE</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

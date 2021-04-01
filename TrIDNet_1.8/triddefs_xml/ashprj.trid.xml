@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Ashampoo Burning Studio project</FileType>
+		<Ext>ASHPRJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ashampoo.com/</RefURL>
+		</ExtraInfo>
+		<User>Ryan Jones</User>
+		<E-Mail>sciguyryan@gmail.com</E-Mail>
+		<Home>http://ccc-cymru.com</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2013</Year>
+			<Month>9</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>46</Min>
+			<Sec>4</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>61736870726A0000</Bytes>
+			<ASCII> a s h p r j</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

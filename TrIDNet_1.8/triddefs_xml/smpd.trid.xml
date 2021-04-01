@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sc2gears Mouse Print Data</FileType>
+		<Ext>SMPD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>https://sites.google.com/site/sc2gears/features/mouse-print-recorder</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>14</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>534D5044</Bytes>
+			<ASCII> S M P D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

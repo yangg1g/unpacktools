@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MIO compressed audio</FileType>
+		<Ext>MIO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.entis.gr.jp/eri/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>04</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>27</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>456E7469731A000000010003000000004D7573696320496E7465726C656176656420616E64204F7274686F676F6E616C207472616E73666F726D65640000000048656164657220205C0000000000000046696C6548647220140000000000000000010200000100000100000000000000</Bytes>
+			<ASCII> E n t i s . . . . . . . . . . . M u s i c   I n t e r l e a v e d   a n d   O r t h o g o n a l   t r a n s f o r m e d . . . . H e a d e r     \ . . . . . . . F i l e H d r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00536F756E64496E66280000000000000000030200</Bytes>
+			<ASCII> . S o u n d I n f (</ASCII>
+			<Pos>115</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000001000000053747265616D2020</Bytes>
+			<ASCII> . . . . . . . S t r e a m</ASCII>
+			<Pos>165</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000536F756E6453746D</Bytes>
+			<ASCII> . . . . S o u n d S t m</ASCII>
+			<Pos>184</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FILEHDR</String>
+		<String>SOUNDINF</String>
+		<String>SOUNDSTM</String>
+		<String>STREAM</String>
+	</GlobalStrings>
+</TrID>

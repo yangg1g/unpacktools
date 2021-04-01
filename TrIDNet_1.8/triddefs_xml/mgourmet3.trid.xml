@@ -1,0 +1,81 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MacGourmet 3 document</FileType>
+		<Ext>MGOURMET3</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://macgourmet.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>32</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0A3C21444F435459504520706C697374205055424C494320222D2F2F4170706C652F2F44544420504C49535420312E302F2F454E222022687474703A2F2F7777772E6170706C652E636F6D2F445444732F50726F70657274794C6973742D312E302E647464223E0A3C706C6973742076657273696F6E3D22312E30223E0A3C61727261793E0A093C646963743E0A09093C6B65793E414646494C494154455F49443C2F6B65793E0A09093C696E74656765723E2D313C2F696E74656765723E0A09093C6B65793E43</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ? . . . ! D O C T Y P E   p l i s t   P U B L I C   " - / / A p p l e / / D T D   P L I S T   1 . 0 / / E N "   " h t t p : / / w w w . a p p l e . c o m / D T D s / P r o p e r t y L i s t - 1 . 0 . d t d " . . . p l i s t   v e r s i o n = " 1 . 0 " . . . a r r a y . . . . d i c t . . . . . k e y . A F F I L I A T E _ I D . / k e y . . . . . i n t e g e r . - 1 . / i n t e g e r . . . . . k e y . C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCTYPE PLIST PUBLIC</String>
+		<String>PROPERTYLIST-1.0.DTD</String>
+		<String>INCLUDED_RECIPE_ID</String>
+		<String>MEASUREMENT_SYSTEM</String>
+		<String>INGREDIENTS_TREE</String>
+		<String>PUBLICATION_PAGE</String>
+		<String>DIRECTIONS_LIST</String>
+		<String>DIRECTION_TEXT</String>
+		<String>IS_HIGHLIGHTED</String>
+		<String>DTD PLIST 1.0</String>
+		<String>PLIST VERSION</String>
+		<String>WWW.APPLE.COM</String>
+		<String>AFFILIATE_ID</String>
+		<String>VARIATION_ID</String>
+		<String>COURSE_NAME</String>
+		<String>DESCRIPTION</String>
+		<String>XML VERSION</String>
+		<String>CUISINE_ID</String>
+		<String>DIFFICULTY</String>
+		<String>IS_DIVIDER</String>
+		<String>LABEL_TEXT</String>
+		<String>NOTES_LIST</String>
+		<String>PREP_TIMES</String>
+		<String>COURSE_ID</String>
+		<String>NUTRITION</String>
+		<String>SERVER_ID</String>
+		<String>ENCODING</String>
+		<String>KEYWORDS</String>
+		<String>QUANTITY</String>
+		<String>SERVINGS</String>
+		<String>INTEGER</String>
+		<String>IS_MAIN</String>
+		<String>SUMMARY</String>
+		<String>SOURCE</String>
+		<String>STRING</String>
+		<String>ARRAY</String>
+		<String>FALSE</String>
+		<String>UTF-8</String>
+		<String>YIELD</String>
+		<String>_TYPE</String>
+		<String>DICT</String>
+		<String>DTDS</String>
+		<String>HTTP</String>
+		<String>INUT</String>
+	</GlobalStrings>
+</TrID>

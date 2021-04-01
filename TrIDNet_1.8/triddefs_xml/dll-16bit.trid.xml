@@ -1,0 +1,69 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Win32 Dynamic Link Library (generic)</FileType>
+		<Ext>DLL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>43</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>05</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>53</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A</Bytes>
+			<ASCII> M Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000400</Bytes>
+			<Pos>6</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000800000000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D207265717569726573204D6963726F736F66742057696E646F77732E0D0A24000000000000004E4505</Bytes>
+			<ASCII> . . . . . . . . . . . . . @ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ! . . L . ! T h i s	p r o g r a m	r e q u i r e s   M i c r o s o f t   W i n d o w s . . . $ . . . . . . . N E</ASCII>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000</Bytes>
+			<Pos>136</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>83</Bytes>
+			<Pos>141</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>143</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>146</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000</Bytes>
+			<Pos>151</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>$'''''''NE</String>
+		<String>INTE</String>
+		<String>THIS PROGRAM REQUIRES MICROSOFT WINDOWS.</String>
+	</GlobalStrings>
+</TrID>

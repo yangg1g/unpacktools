@@ -1,0 +1,67 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Cumulate Draw's editable MMD format</FileType>
+		<Ext>MMD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cumulatelabs.com/cumulatedraw/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>11</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>09</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C3A</Bytes>
+			<ASCII> . ? x m l :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCHEMAS-CUMULATELABS-COM</String>
+		<String>CONNECTION-POINT XMLNS</String>
+		<String>SCHEMAS-MICROSOFT-COM</String>
+		<String>ZOOM-FACTOR FACTOR</String>
+		<String>NAMESPACE PREFIX</String>
+		<String>FILL OPACITY</String>
+		<String>STROKEWEIGHT</String>
+		<String>STROKECOLOR</String>
+		<String>RECT STYLE</String>
+		<String>COORDSIZE</String>
+		<String>SHADOW ON</String>
+		<String>FILLCOLOR</String>
+		<String>AL STYLE</String>
+		<String>POSITION</String>
+		<String>ROTATION</String>
+		<String>ABSOLUTE</String>
+		<String>GROUP ID</String>
+		<String>Z-INDEX</String>
+		<String>STROKED</String>
+		<String>OFFSET</String>
+		<String>FILLED</String>
+		<String>HEIGHT</String>
+		<String>SHAPE</String>
+		<String>FALSE</String>
+		<String>WIDTH</String>
+		<String>SOLID</String>
+		<String>WHITE</String>
+		<String>TYPE</String>
+		<String>V NS</String>
+		<String>TRUE</String>
+		<String>LEFT</String>
+	</GlobalStrings>
+</TrID>

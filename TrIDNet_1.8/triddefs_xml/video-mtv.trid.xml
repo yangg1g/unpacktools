@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MTV video</FileType>
+		<Ext>MTV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://wiki.multimedia.cx/index.php?title=MTV</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>47</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>414D56</Bytes>
+			<ASCII> A M V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

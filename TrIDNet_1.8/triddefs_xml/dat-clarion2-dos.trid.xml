@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Clarion 2 DataBase for DOS</FileType>
+		<Ext>DAT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Clarion_(programming_language)</RefURL>
+		</ExtraInfo>
+		<User>Anibal Galdeano!</User>
+		<E-Mail></E-Mail>
+		<Home>http://www.xune.com.ar</Home>
+	</Info>
+	<General>
+		<FileNum>44</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>09</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>28</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4333</Bytes>
+			<ASCII> C 3</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>111</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

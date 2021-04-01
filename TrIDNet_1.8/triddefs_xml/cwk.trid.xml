@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Claris Works document</FileType>
+		<Ext>CWK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.net</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>3 by Marco Pontello - 1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>05</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00424F424F</Bytes>
+			<ASCII> . B O B O</ASCII>
+			<Pos>3</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CELL</String>
+		<String>CHAR</String>
+		<String>DSET</String>
+		<String>DSUM</String>
+		<String>ETBL</String>
+		<String>FNTM</String>
+		<String>GRPH</String>
+		<String>HASH</String>
+		<String>HDNI</String>
+		<String>LKUP</String>
+		<String>NAME</String>
+		<String>RULR</String>
+		<String>STYL</String>
+		<String>BOBO</String>
+	</GlobalStrings>
+</TrID>

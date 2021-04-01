@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DVDFab Change Graphic Picture</FileType>
+		<Ext>CGP</Ext>
+		<ExtraInfo>
+			<Rem>A file that contains the graphic shown to indicate to change disk.</Rem>
+			<RefURL>http://www.dvdfab.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>31</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4456444661623320434750</Bytes>
+			<ASCII> D V D F a b 3   C G P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>445644466162</Bytes>
+			<ASCII> D V D F a b</ASCII>
+			<Pos>40</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

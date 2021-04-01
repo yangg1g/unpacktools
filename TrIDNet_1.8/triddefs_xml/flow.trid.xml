@@ -1,0 +1,77 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Expression SketchFlow data</FileType>
+		<Ext>FLOW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Microsoft_Expression_Studio</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>39</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D22</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>HIDEDESIGNTIMEANNOTATIONS</String>
+		<String>HIDEANNOTATIONANDINK</String>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>HIDENAVIGATION</String>
+		<String>RUNTIMEOPTIONS</String>
+		<String>SKETCHFLOWGUID</String>
+		<String>TRANSITIONTYPE</String>
+		<String>DISABLEINKING</String>
+		<String>HIDEFLOWGRAPH</String>
+		<String>SCHEMAVERSION</String>
+		<String>BRANDINGTEXT</String>
+		<String>ANNOTATIONS</String>
+		<String>CONNECTIONS</String>
+		<String>DISPLAYNAME</String>
+		<String>STARTSCREEN</String>
+		<String>XML VERSION</String>
+		<String>CONNECTION</String>
+		<String>DATA XMLNS</String>
+		<String>VISUALTAGS</String>
+		<String>WWW.W3.ORG</String>
+		<String>CLASSNAME</String>
+		<String>VIEWSTATE</String>
+		<String>VISUALTAG</String>
+		<String>XMLSCHEMA</String>
+		<String>ENCODING</String>
+		<String>FILENAME</String>
+		<String>POSITION</String>
+		<String>SCREENS</String>
+		<String>CENTER</String>
+		<String>SCREEN</String>
+		<String>SOURCE</String>
+		<String>TARGET</String>
+		<String>COLOR</String>
+		<String>XMLNS</String>
+		<String>2001</String>
+		<String>DATA</String>
+		<String>HTTP</String>
+		<String>NAME</String>
+		<String>TYPE</String>
+		<String>ZOOM</String>
+	</GlobalStrings>
+</TrID>

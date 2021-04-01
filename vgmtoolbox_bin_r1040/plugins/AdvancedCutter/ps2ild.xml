@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OffsetFinderTemplate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <FormatName>PlayStation 2 - ILD Music</FormatName>
+    <Author />
+  </Header>
+  <SearchParameters>
+    <SearchString>494C4400</SearchString>
+    <TreatSearchStringAsHex>true</TreatSearchStringAsHex>
+    <StartingOffset />
+    <UseModOffsetForSearchString>false</UseModOffsetForSearchString>
+    <SearchStringOffset>0x00</SearchStringOffset>
+    <OutputFileExtension>.ild</OutputFileExtension>
+    <MinimumSizeForCutting>0</MinimumSizeForCutting>
+    <CutParameters>
+      <CutStyle>offset</CutStyle>
+      <CutSizeAtOffset>0xC</CutSizeAtOffset>
+      <CutSizeOffsetSize>4</CutSizeOffsetSize>
+      <CutSizeOffsetEndianess>little</CutSizeOffsetEndianess>
+    </CutParameters>
+    <AddExtraBytes>true</AddExtraBytes>
+    <AddExtraByteSize>0x800</AddExtraByteSize>
+  </SearchParameters>
+  <NotesOrWarnings />
+</OffsetFinderTemplate>

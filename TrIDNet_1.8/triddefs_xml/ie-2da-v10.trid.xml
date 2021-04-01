@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Infinity Engine 2-Dimensional Array (v1.0)</FileType>
+		<Ext>2DA</Ext>
+		<ExtraInfo>
+			<Rem>Infinity Engine 2DA ("2-Dimensional Array") files contain a two-dimensional array of data.</Rem>
+			<RefURL>http://iesdp.gibberlings3.net/file_formats/ie_formats/2da.htm</RefURL>
+		</ExtraInfo>
+		<User>Sam.</User>
+		<E-Mail>sampsca@yahoo.com</E-Mail>
+		<Home>http://www.shsforums.net/user/10485-sam/</Home>
+	</Info>
+	<General>
+		<FileNum>852</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>01</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>53</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3244412056312E30</Bytes>
+			<ASCII> 2 D A   V 1 . 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

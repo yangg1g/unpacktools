@@ -1,0 +1,64 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Personal CAD PC-CAPS Database</FileType>
+		<Ext>SCH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>10</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>22</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>506572736F6E616C204341442053797374656D732C20496E632E202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200A0D50432D43415053202044617461626173652066696C652076657273696F6E203A20</Bytes>
+			<ASCII> P e r s o n a l   C A D   S y s t e m s ,   I n c .                                                                                                         . . P C - C A P S     D a t a b a s e   f i l e   v e r s i o n   :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>114</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0A0D4461746162617365207361766564206173203A20</Bytes>
+			<ASCII> . . D a t a b a s e   s a v e d   a s   :</ASCII>
+			<Pos>158</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PC-CAPS  DATABASE FILE VERSION</String>
+		<String>PERSONAL CAD SYSTEMS</String>
+		<String>DATABASE SAVED AS</String>
+		<String>BY NAME</String>
+		<String>BORDER</String>
+		<String>CMPNAM</String>
+		<String>DEVICE</String>
+		<String>NETNAM</String>
+		<String>OUTLIN</String>
+		<String>PINCON</String>
+		<String>PINFUN</String>
+		<String>PINNAM</String>
+		<String>PINNUM</String>
+		<String>REFDES</String>
+		<String>NOTES</String>
+		<String>WIRES</String>
+		<String>GATE</String>
+		<String>SDOT</String>
+	</GlobalStrings>
+</TrID>

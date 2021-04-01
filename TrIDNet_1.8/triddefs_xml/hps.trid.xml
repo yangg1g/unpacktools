@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HP HPS digital sender info</FileType>
+		<Ext>HPS</Ext>
+		<ExtraInfo>
+			<Rem>An HP-designed file format that carries the interface parameters for digital senders, this file contains, in text format, all of the index information that users enter at the front panel of the digital sender.</Rem>
+			<RefURL>http://www.hp.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>03</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>22</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B496E666F5D0D0A56657273696F6E3D</Bytes>
+			<ASCII> [ I n f o ] . . V e r s i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCANNERMODELNAME</String>
+		<String>APPLICATIONITEM</String>
+		<String>APPLICATIONPATH</String>
+		<String>APPLICATIONNAME</String>
+		<String>APPLICATIONTAG</String>
+		<String>SCNSETTINGTYPE</String>
+		<String>SCNSETTINGNAME</String>
+		<String>COMPRESSION</String>
+		<String>SCANNERNAME</String>
+		<String>VERSION</String>
+		<String>FORMAT</String>
+		<String>DUPLEX</String>
+		<String>SENDER</String>
+		<String>STATUS</String>
+		<String>TITLE</String>
+		<String>PAGES</String>
+		<String>INFO</String>
+	</GlobalStrings>
+</TrID>

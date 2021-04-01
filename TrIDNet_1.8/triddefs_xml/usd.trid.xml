@@ -1,0 +1,66 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>UML Sequence Diagram</FileType>
+		<Ext>USD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Sequence_diagram</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>0</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E3022207374616E64616C6F6E653D2279657322203F3E0D0A</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   s t a n d a l o n e = " y e s "   ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MESSAGE MESSTYPE</String>
+		<String>SEQUENCE DIAGRAM</String>
+		<String>ACTBOXES NUM</String>
+		<String>ELEMENTS NUM</String>
+		<String>DESCRIPTION</String>
+		<String>DIAGRAMTYPE</String>
+		<String>OBJSTART ID</String>
+		<String>UMLSDACTBOX</String>
+		<String>XML VERSION</String>
+		<String>OBJECTNAME</String>
+		<String>POINTS NUM</String>
+		<String>STANDALONE</String>
+		<String>ACTBOX ID</String>
+		<String>CLASSNAME</String>
+		<String>GUARDCOND</String>
+		<String>LINKS NUM</String>
+		<String>OBJEND ID</String>
+		<String>UMLSDMESS</String>
+		<String>BGRCOLOR</String>
+		<String>FGRCOLOR</String>
+		<String>UMLSDOBJ</String>
+		<String>LINK ID</String>
+		<String>PTDR X</String>
+		<String>PTUL X</String>
+		<String>OBJID</String>
+		<String>TITLE</String>
+		<String>MGEN</String>
+		<String>PT X</String>
+	</GlobalStrings>
+</TrID>

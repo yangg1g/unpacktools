@@ -1,0 +1,70 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Jolly Print Studio graphic</FileType>
+		<Ext>JPS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.jollytech.com/products/print_studio/index.php</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>48</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C4A50533E</Bytes>
+			<ASCII> . J P S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PRINTSTUDIOSAMPLE.MDB</String>
+		<String>JOLLY TECHNOLOGIES</String>
+		<String>PRINT_CONTEXT SIZE</String>
+		<String>STARTPRINTINGAT</String>
+		<String>DATABASE SIZE</String>
+		<String>PRINTINVERTED</String>
+		<String>PROGRAM FILES</String>
+		<String>SNAPSHOT SIZE</String>
+		<String>LAYEROPACITY</String>
+		<String>LAYERVISIBLE</String>
+		<String>PAGESET SIZE</String>
+		<String>PRINT STUDIO</String>
+		<String>PROFESSIONAL</String>
+		<String>LAYERNAME</String>
+		<String>TEMPLATES</String>
+		<String>BLOCK ID</String>
+		<String>NUMBEROF</String>
+		<String>EDITION</String>
+		<String>LAYER 1</String>
+		<String>PRODUCT</String>
+		<String>VERSION</String>
+		<String>BLOCKS</String>
+		<String>LAYERS</String>
+		<String>DBSET</String>
+		<String>SHAPE</String>
+		<String>SPOOL</String>
+		<String>WINNT</String>
+		<String>DRAW</String>
+		<String>HEAD</String>
+		<String>LOWE</String>
+		<String>MODE</String>
+		<String>PICC</String>
+		<String>PICO</String>
+	</GlobalStrings>
+</TrID>

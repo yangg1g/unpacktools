@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Memory-Map Navigator Overlay</FileType>
+		<Ext>MMO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.memory-map.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>40</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>35</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFF</Bytes>
+			<Pos>2</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>434F626A49636F6E730E556E6E616D6564206F626A656374</Bytes>
+			<ASCII> C O b j I c o n s . U n n a m e d   o b j e c t</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>UNNAMED OBJECT</String>
+		<String>CCATEGORY</String>
+		<String>COBJICONS</String>
+	</GlobalStrings>
+</TrID>

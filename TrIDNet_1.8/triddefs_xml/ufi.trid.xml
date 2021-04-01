@@ -1,0 +1,78 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>UFOCaptureV2 Preset settings</FileType>
+		<Ext>UFI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://sonotaco.com/soft/e_index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>27</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>45</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>56455253494F4E</Bytes>
+			<ASCII> V E R S I O N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>49462E73696E676C6566696C656D6F</Bytes>
+			<ASCII> I F . s i n g l e f i l e m o</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>49462E726573697A65</Bytes>
+			<ASCII> I F . r e s i z e</ASCII>
+			<Pos>48</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>49462E6378696E</Bytes>
+			<ASCII> I F . c x i n</ASCII>
+			<Pos>72</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>49462E6379696E</Bytes>
+			<ASCII> I F . c y i n</ASCII>
+			<Pos>96</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>49462E6379</Bytes>
+			<ASCII> I F . c y</ASCII>
+			<Pos>120</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>49462E6378</Bytes>
+			<ASCII> I F . c x</ASCII>
+			<Pos>144</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>49462E667073</Bytes>
+			<ASCII> I F . f p s</ASCII>
+			<Pos>168</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>49462E66735F68656164</Bytes>
+			<ASCII> I F . f s _ h e a d</ASCII>
+			<Pos>196</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>49462E66735F7461696C</Bytes>
+			<ASCII> I F . f s _ t a i l</ASCII>
+			<Pos>220</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

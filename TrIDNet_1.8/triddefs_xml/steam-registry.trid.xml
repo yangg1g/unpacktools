@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Steam Registry</FileType>
+		<Ext>BLOB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.steampowered.com/</RefURL>
+		</ExtraInfo>
+		<User>Jocker</User>
+		<E-Mail>jockersoft@nospam@gmail.com</E-Mail>
+		<Home>http://www.jockersoft.com</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>06</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>50</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0150</Bytes>
+			<ASCII> . P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000600</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00546F704B65790150</Bytes>
+			<ASCII> . T o p K e y . P</ASCII>
+			<Pos>15</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TOPKEY</String>
+	</GlobalStrings>
+</TrID>

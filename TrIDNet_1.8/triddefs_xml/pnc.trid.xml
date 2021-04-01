@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Panasonic Network Camera compressed images</FileType>
+		<Ext>PNC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2010</Year>
+			<Month>12</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>30</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00000001</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>50616E61736F6E6963204E6574776F726B2043616D657261</Bytes>
+			<ASCII> P a n a s o n i c   N e t w o r k   C a m e r a</ASCII>
+			<Pos>20</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FFD8FFFE001A</Bytes>
+			<Pos>132</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RPC III file</FileType>
+		<Ext>TIM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mts.com/rpc3/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>40</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>464F524D4154</Bytes>
+			<ASCII> F O R M A T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4E554D5F4845414445525F424C4F434B53</Bytes>
+			<ASCII> N U M _ H E A D E R _ B L O C K S</ASCII>
+			<Pos>128</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4E554D5F504152414D53</Bytes>
+			<ASCII> N U M _ P A R A M S</ASCII>
+			<Pos>256</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

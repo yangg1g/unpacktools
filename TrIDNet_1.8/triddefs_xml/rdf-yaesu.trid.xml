@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Yaesu radio memory file</FileType>
+		<Ext>RDF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.n0usr.com/memory.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>39</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52444600</Bytes>
+			<ASCII> R D F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>596165737520</Bytes>
+			<ASCII> Y a e s u</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>YAESU</String>
+	</GlobalStrings>
+</TrID>

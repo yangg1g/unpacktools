@@ -1,0 +1,38 @@
+<TrID ver="1.18">
+	<Info>
+		<FileType>FrontPage Binary-tree index</FileType>
+		<Ext>BTR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/frontpage/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Date>
+			<Year>2003</Year>
+			<Month>10</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>41</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.23</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1C010000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000C0100003512</Bytes>
+			<ASCII> . . . . . . 5</ASCII>
+			<Pos>6</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

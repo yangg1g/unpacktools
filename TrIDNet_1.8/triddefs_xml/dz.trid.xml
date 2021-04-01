@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Darius Zendeh Music</FileType>
+		<Ext>DZ</Ext>
+		<ExtraInfo>
+			<Rem>A music format created by Darius Zendeh (Mark II/Quadlite). It is basically his old Mark II Sound System format with support for subsongs.</Rem>
+			<RefURL>http://exotica.fix.no/tunes/unexotica/formats/Darius_Zendeh.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>28</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>00</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>48E7</Bytes>
+			<ASCII> H</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>F041FA</Bytes>
+			<ASCII> . A</ASCII>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4CD80600</Bytes>
+			<ASCII> L</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>P'R'T'V'X'NUA</String>
+		<String>BH''BH</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mac Stuffit Self-Extracting Archive</FileType>
+		<Ext>SEA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>35</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4150504C6175737421</Bytes>
+			<ASCII> A P P L a u s t !</ASCII>
+			<Pos>65</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5374756666497420286329313939372D3139393820416C616464696E2053797374656D732C20496E632E2C20687474703A2F2F7777772E616C616464696E7379732E636F6D2F53747566664974</Bytes>
+			<ASCII> S t u f f I t	( c ) 1 9 9 7 - 1 9 9 8   A l a d d i n   S y s t e m s ,   I n c . ,	h t t p : / / w w w . a l a d d i n s y s . c o m / S t u f f I t</ASCII>
+			<Pos>128</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>UNSTUFFING WAS SUCCESSFUL</String>
+		<String>THIS ARCHIVE IS DAMAGED.</String>
+		<String>THERE IS NOT ENOUGH ROOM</String>
+		<String>WWW.ALADDINSYS.COM</String>
+		<String>ALADDIN SYSTEMS</String>
+		<String>OWNER RESOURCE</String>
+		<String>DECOMPRESSION</String>
+		<String>STUFFIT SEA</String>
+		<String>APPLAUST</String>
+		<String>RESERVED</String>
+		<String>SEGMENT</String>
+	</GlobalStrings>
+</TrID>

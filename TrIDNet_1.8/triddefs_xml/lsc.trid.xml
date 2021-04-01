@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LOGO!Soft Comfort Circuit</FileType>
+		<Ext>LSC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.automation.siemens.com/logo/index_76.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>11</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>37</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>ACED000577</Bytes>
+			<ASCII> . . . . w</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7372002744452E7369656D656E732E61642E70647261772E666967757265732E426C6F636B466967757265FA60AD2B5962842A0200</Bytes>
+			<ASCII> s r . ' D E . s i e m e n s . a d . p d r a w . f i g u r e s . B l o c k F i g u r e . ` . + Y b . *</ASCII>
+			<Pos>22</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>490020626C6F636B46696775726553657269616C697A65644461746156657273696F6E5A001566426C6F636B4E756D626572497356697369626C65</Bytes>
+			<ASCII> I .   b l o c k F i g u r e S e r i a l i z e d D a t a V e r s i o n Z . . f B l o c k N u m b e r I s V i s i b l e</ASCII>
+			<Pos>76</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

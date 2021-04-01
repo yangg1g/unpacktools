@@ -1,0 +1,85 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Autodesk Inventor project</FileType>
+		<Ext>IPJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Autodesk_Inventor</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>33</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3C003F0078006D006C00</Bytes>
+			<ASCII> . . . . ? . x . m . l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>E'7'5'9'E'0'4'D'-'3'8'2'7'-'4'4'3'1'-'8'1'A'2'-'0'4'6'6'4'2'B'F'F'1'3'3</String>
+		<String>2'5'5'8'D'7'E'F'-'0'4'A'C'-'4'3'E'B'-'8'A'4'4'-'E'3'7'4'8'E'5'1'6'D'1'4</String>
+		<String>2'7'1'C'C'2'7'B'-'1'4'A'F'-'4'5'C'8'-'8'6'8'6'-'B'C'0'3'6'1'4'3'C'D'E'5</String>
+		<String>4'2'D'3'D'0'D'7'-'3'C'4'B'-'4'A'E'9'-'9'7'0'D'-'9'5'4'E'B'B'7'7'9'4'8'2</String>
+		<String>4'3'6'7'D'F'B'C'-'F'2'2'8'-'4'9'F'6'-'B'4'D'A'-'1'A'8'B'0'D'F'4'9'D'3'F</String>
+		<String>7'C'4'B'7'3'8'E'-'B'D'D'6'-'4'B'6'B'-'8'7'0'0'-'5'B'F'2'8'8'A'2'8'4'C'0</String>
+		<String>8'B'2'2'E'B'1'2'-'E'4'E'8'-'4'4'9'B'-'A'9'7'B'-'A'E'3'D'5'B'B'B'F'D'1'2</String>
+		<String>I'N'V'E'N'T'O'R'P'R'O'J'E'C'T' 'S'C'H'E'M'A'R'E'V'I'D</String>
+		<String>O'L'D'V'E'R'S'I'O'N'S'T'O'K'E'E'P'O'N'S'A'V'E</String>
+		<String>U'S'I'N'G'U'N'I'Q'U'E'F'I'L'E'N'A'M'E'S</String>
+		<String>P'R'O'J'E'C'T'P'A'T'H' 'P'A'T'H'T'Y'P'E</String>
+		<String>C'O'N'T'E'N'T'C'E'N'T'E'R'F'O'L'D'E'R</String>
+		<String>C'O'N'F'I'G'U'R'E'D'L'I'B'R'A'R'I'E'S</String>
+		<String>L'I'B'R'A'R'Y' 'D'I'S'P'L'A'Y'N'A'M'E</String>
+		<String>C'O'N'T'E'N'T'C'E'N'T'E'R'C'O'N'F'I'G</String>
+		<String>V'A'U'L'T'V'I'R'T'U'A'L'F'O'L'D'E'R</String>
+		<String>C'O'N'T'E'N'T'C'E'N'T'E'R'G'U'I'D</String>
+		<String>L'I'B'R'A'R'Y'A'T'T'A'C'H'N'A'M'E</String>
+		<String>I'N'V'E'N'T'O'R' 'F'E'A'T'U'R'E</String>
+		<String>I'N'V'E'N'T'O'R' 'P'A'R'K'E'R</String>
+		<String>I'N'C'L'U'D'E'D'P'R'O'J'E'C'T</String>
+		<String>I'N'V'E'N'T'O'R' 'O'T'H'E'R</String>
+		<String>P'R'O'J'E'C'T'O'P'T'I'O'N'S</String>
+		<String>F'O'L'D'E'R'O'P'T'I'O'N'S</String>
+		<String>V'A'U'L'T'D'A'T'A'B'A'S'E</String>
+		<String>I'N'V'E'N'T'O'R' 'A'N'S'I</String>
+		<String>P'U'B'L'I'S'H'F'O'L'D'E'R</String>
+		<String>V'A'U'L'T'O'P'T'I'O'N'S</String>
+		<String>I'N'T'E'R'N'A'L'N'A'M'E</String>
+		<String>P'R'O'J'E'C'T'P'A'T'H'S</String>
+		<String>I'N'V'E'N'T'O'R' 'I'S'O</String>
+		<String>I'N'V'E'N'T'O'R' 'D'I'N</String>
+		<String>S'T'Y'L'E'S'F'O'L'D'E'R</String>
+		<String>I'N'V'E'N'T'O'R' 'J'I'S</String>
+		<String>P'R'O'J'E'C'T'T'Y'P'E</String>
+		<String>V'A'U'L'T'S'E'R'V'E'R</String>
+		<String>I'S'R'E'A'D'O'N'L'Y</String>
+		<String>S'E'R'V'E'R'N'A'M'E</String>
+		<String>R'E'L'E'A'S'E'I'D</String>
+		<String>L'O'C'A'L'H'O'S'T</String>
+		<String>W'O'R'K'S'P'A'C'E</String>
+		<String>P'A'T'H'N'A'M'E</String>
+		<String>E'N'C'O'D'I'N'G</String>
+		<String>U'T'F'-'1'6</String>
+		<String>O'W'N'E'R</String>
+		<String>1'.'0</String>
+		<String>A'M'P</String>
+		<String>X'M'L</String>
+		<String>U'S'E</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>3D Studio Max ASCII Export file</FileType>
+		<Ext>ASE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.autodesk.com/3dsmax</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>13</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2A3344534D41585F41534349494558504F5254</Bytes>
+			<ASCII> * 3 D S M A X _ A S C I I E X P O R T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

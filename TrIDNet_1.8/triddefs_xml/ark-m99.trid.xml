@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>M99 compressed data</FileType>
+		<Ext>M99</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.michael-maniscalco.com/compression.htm</RefURL>
+		</ExtraInfo>
+		<User>Label</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2009</Year>
+			<Month>04</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>30</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00008000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000</Bytes>
+			<Pos>9</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

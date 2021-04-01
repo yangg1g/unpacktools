@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Declan Software word file</FileType>
+		<Ext>XWF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.declan-software.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>03</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>23</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>57006F0072006400460069006C0065004E0061006D0065</Bytes>
+			<ASCII> W . o . r . d . F . i . l . e . N . a . m . e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>57006F00720064</Bytes>
+			<ASCII> W . o . r . d</ASCII>
+			<Pos>512</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D00650061006E0069006E0067</Bytes>
+			<ASCII> M . e . a . n . i . n . g</ASCII>
+			<Pos>1024</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>57006F0072006400200054007900700065</Bytes>
+			<ASCII> W . o . r . d .   . T . y . p . e</ASCII>
+			<Pos>1536</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

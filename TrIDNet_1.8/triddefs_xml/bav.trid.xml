@@ -1,0 +1,75 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>The Bat! Antivirus plugin</FileType>
+		<Ext>BAV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ritlabs.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>48</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A</Bytes>
+			<ASCII> M Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000400</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00FFFF0000</Bytes>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000004000</Bytes>
+			<ASCII> . . . . . . . @</ASCII>
+			<Pos>17</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BAV_FILECHECKING'BAV_GET</String>
+		<String>BAV_CUREFILE'BAV_</String>
+		<String>GETMODULEHANDLEA</String>
+		<String>BAV_GETVERSION</String>
+		<String>BAV_GETSTATUS</String>
+		<String>BAV_CHECKFILE</String>
+		<String>ADVAPI32.DLL</String>
+		<String>KERNEL32.DLL</String>
+		<String>UNINITIALIZE</String>
+		<String>MESSAGEBOXA</String>
+		<String>BAV_GETNAME</String>
+		<String>EXITPROCESS</String>
+		<String>USER32.DLL</String>
+		<String>ALALLOC</String>
+		<String>PROGRAM</String>
+		<String>ALFREE</String>
+		<String>ERROR</String>
+		<String>POINT</String>
+		<String>PE''L</String>
+		<String>THIS</String>
+	</GlobalStrings>
+</TrID>

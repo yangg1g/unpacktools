@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Greenfoot Archive</FileType>
+		<Ext>GFAR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.greenfoot.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>10</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>51</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PROJECT.GREENFOOTPK</String>
+		<String>README.TXTPK</String>
+		<String>.CLASSPK</String>
+		<String>JAVA</String>
+	</GlobalStrings>
+</TrID>

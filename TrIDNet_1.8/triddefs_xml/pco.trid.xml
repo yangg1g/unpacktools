@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PC-Outline outline</FileType>
+		<Ext>PCO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>01</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>43</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00014F175017000002024D15</Bytes>
+			<ASCII> . . O . P . . . . . M</ASCII>
+			<Pos>31</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A5C</Bytes>
+			<ASCII> : \</ASCII>
+			<Pos>46</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>OUTLINE</String>
+		<String>.PCO</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Radiant LoopCAD Project</FileType>
+		<Ext>RLC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.loopcad.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>24</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>93B20000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0003000C00ED1FC3E7280000006F0072006900670069006E0061006C00730069007A006500</Bytes>
+			<ASCII> . . . . . . . . . ( . . . o . r . i . g . i . n . a . l . s . i . z . e</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0011200E006F5024E4D8FFFFFF63006F006D00700072006500730073006500640064006100740061000100</Bytes>
+			<ASCII> . .   . . o P $ . . . . . c . o . m . p . r . e . s . s . e . d . d . a . t . a</ASCII>
+			<Pos>47</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000789C</Bytes>
+			<ASCII> . . . . . x</ASCII>
+			<Pos>93</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>('''O'R'I'G'I'N'A'L'S'I'Z'E</String>
+		<String>C'O'M'P'R'E'S'S'E'D'D'A'T'A</String>
+	</GlobalStrings>
+</TrID>

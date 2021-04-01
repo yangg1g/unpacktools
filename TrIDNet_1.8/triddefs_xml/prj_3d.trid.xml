@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>3D Project file (generic)</FileType>
+		<Ext>PRJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Alex Paven</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>44</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>05</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>13</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3DC2</Bytes>
+			<ASCII> =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0010C0</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>9</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A5C</Bytes>
+			<ASCII> : \</ASCII>
+			<Pos>13</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.MLI</String>
+		<String>4C''''''''''''''''''''''4C</String>
+		<String>A'' A'' A</String>
+		<String>B''4C</String>
+		<String>B''HC</String>
+		<String>FONTS'D</String>
+		<String>HC''HC''HC</String>
+		<String>IMAGES</String>
+		<String>LIBS'F</String>
+		<String>LOFTS</String>
+		<String>P'''P</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Qmage encoded data</FileType>
+		<Ext>QMG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>42</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>514D</Bytes>
+			<ASCII> Q M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

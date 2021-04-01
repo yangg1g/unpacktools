@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PackJPG compressed JPEG bitmap</FileType>
+		<Ext>PJG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.elektronik.htw-aalen.de/packjpg/</RefURL>
+		</ExtraInfo>
+		<User>aeiou256</User>
+		<E-Mail>aeiou256@hotmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>30</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<Date>
+			<Year>2013</Year>
+			<Month>11</Month>
+			<Day>6</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>44</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4A53</Bytes>
+			<ASCII> J S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>01</Bytes>
+			<Pos>3</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

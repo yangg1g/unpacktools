@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Zebra metafile</FileType>
+		<Ext>ZBR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>1</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>13</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.1b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>9A02</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>002D2D2D00</Bytes>
+			<ASCII> . - - -</ASCII>
+			<Pos>3</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

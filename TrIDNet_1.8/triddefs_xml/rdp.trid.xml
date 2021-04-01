@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Remote Desktop Connection Settings</FileType>
+		<Ext>RDP</Ext>
+		<ExtraInfo>
+			<Rem>An .rdp file contains all of the information for a connection to a terminal server, including the Options settings that were configured when the file was saved.</Rem>
+			<RefURL>http://www.microsoft.com/windowsxp/using/mobility/default.mspx</RefURL>
+		</ExtraInfo>
+		<User>ptweasel</User>
+		<E-Mail>ptweasel@hotmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>06</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>06</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE730063007200650065006E0020006D006F00640065002000690064003A0069003A00</Bytes>
+			<ASCII> . . s . c . r . e . e . n .   . m . o . d . e .   . i . d . : . i . :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>A'U'T'O'R'E'C'O'N'N'E'C'T'I'O'N' 'E'N'A'B'L'E'D</String>
+		<String>B'I'T'M'A'P'C'A'C'H'E'P'E'R'S'I'S'T'E'N'A'B'L'E</String>
+		<String>D'I'S'A'B'L'E' 'F'U'L'L' 'W'I'N'D'O'W' 'D'R'A'G</String>
+		<String>S'H'E'L'L' 'W'O'R'K'I'N'G' 'D'I'R'E'C'T'O'R'Y</String>
+		<String>D'I'S'A'B'L'E' 'C'U'R'S'O'R' 'S'E'T'T'I'N'G</String>
+		<String>D'I'S'P'L'A'Y'C'O'N'N'E'C'T'I'O'N'B'A'R</String>
+		<String>D'I'S'A'B'L'E' 'M'E'N'U' 'A'N'I'M'S</String>
+		<String>R'E'D'I'R'E'C'T'S'M'A'R'T'C'A'R'D'S</String>
+		<String>D'I'S'A'B'L'E' 'W'A'L'L'P'A'P'E'R</String>
+		<String>R'E'D'I'R'E'C'T'C'O'M'P'O'R'T'S</String>
+		<String>R'E'D'I'R'E'C'T'P'R'I'N'T'E'R'S</String>
+		<String>A'L'T'E'R'N'A'T'E' 'S'H'E'L'L</String>
+		<String>S'C'R'E'E'N' 'M'O'D'E' 'I'D</String>
+		<String>D'I'S'A'B'L'E' 'T'H'E'M'E'S</String>
+		<String>D'E'S'K'T'O'P'H'E'I'G'H'T</String>
+		<String>D'E'S'K'T'O'P'W'I'D'T'H</String>
+		<String>K'E'Y'B'O'A'R'D'H'O'O'K</String>
+		<String>F'U'L'L' 'A'D'D'R'E'S'S</String>
+		<String>S'E'S'S'I'O'N' 'B'P'P</String>
+		<String>C'O'M'P'R'E'S'S'I'O'N</String>
+		<String>A'U'D'I'O'M'O'D'E</String>
+		<String>W'I'N'P'O'S'S'T'R</String>
+		<String>N'A'M'E</String>
+	</GlobalStrings>
+</TrID>

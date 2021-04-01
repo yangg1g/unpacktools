@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IDA Database</FileType>
+		<Ext>IDB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Ida_pro</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>2</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>27</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>494441310000</Bytes>
+			<ASCII> I D A 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>DDCCBBAA</Bytes>
+			<Pos>26</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>B-TREE V 1.6 (C) POL 1990</String>
+	</GlobalStrings>
+</TrID>

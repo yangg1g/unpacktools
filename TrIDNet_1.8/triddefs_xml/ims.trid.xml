@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IncrediMail skin</FileType>
+		<Ext>IMS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.incredimail.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>02</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>26</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D53434600000000</Bytes>
+			<ASCII> M S C F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ACTION.SWF</String>
+		<String>CAPTIONBAR.BMP</String>
+		<String>CONTACTVIEWER.BMP</String>
+		<String>CONTENT.INI</String>
+		<String>CONTENTBTN.BMP</String>
+		<String>CONTENTCAPTION.BMP</String>
+		<String>CONTENTSCROLLDOWN.BMP</String>
+		<String>CONTENTSCROLLUP.BMP</String>
+		<String>DIALOGBUTTON.BMP</String>
+		<String>GETFROMFILE.BMP'X</String>
+		<String>GETFROMWEB.BMP</String>
+		<String>MANAGERICONS.BMP</String>
+		<String>MESSAGE.SWF</String>
+		<String>MESSAGEVIEWER.BMP</String>
+		<String>PROGRESS.SWF</String>
+		<String>PROGRESSPLUS.SWF</String>
+		<String>RECEIVING.SWF</String>
+		<String>SENDING.SWF</String>
+		<String>STATUS.SWF</String>
+		<String>STATUS_OFF.SWF</String>
+	</GlobalStrings>
+</TrID>

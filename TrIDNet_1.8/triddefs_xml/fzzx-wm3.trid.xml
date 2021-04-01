@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MSC.visualNastran Desktop Document</FileType>
+		<Ext>WM3</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mscsoftware.com/</RefURL>
+		</ExtraInfo>
+		<User>TBeu</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>71</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>02</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>467A7A580004576D3344</Bytes>
+			<ASCII> F z z X . . W m 3 D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000449453634000457696E64</Bytes>
+			<ASCII> . . I E 6 4 . . W i n d</ASCII>
+			<Pos>14</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

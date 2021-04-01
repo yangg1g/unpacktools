@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Jesusonic Preset</FileType>
+		<Ext>JCP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.jesusonic.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>07</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>33</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6A63702D696E666F2E747874</Bytes>
+			<ASCII> j c p - i n f o . t x t</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>JCP-INFO.TXTPK</String>
+		<String>EFFECTS</String>
+	</GlobalStrings>
+</TrID>

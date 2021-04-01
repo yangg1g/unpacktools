@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FormTool Gold form</FileType>
+		<Ext>TFM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://tinyurl.com/6fw6gp</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>41</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4357464F524D53</Bytes>
+			<ASCII> C W F O R M S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54686973206973206120466F726D546F6F6C20476F6C6420466F726D2066696C652E200D0A446F206E6F7420696E746572666572652077697468206974211A</Bytes>
+			<ASCII> T h i s   i s   a   F o r m T o o l   G o l d   F o r m   f i l e .   . . D o   n o t   i n t e r f e r e   w i t h   i t !</ASCII>
+			<Pos>14</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

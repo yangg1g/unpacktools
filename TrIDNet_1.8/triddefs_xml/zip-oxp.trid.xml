@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Oolite eXpansion Pack</FileType>
+		<Ext>ZIP</Ext>
+		<ExtraInfo>
+			<Rem>Oolite is a space sim game, inspired by Elite.</Rem>
+			<RefURL>http://wiki.alioth.net/index.php/OXP</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>11</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>56</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>EQUIPMENT.PLIST</String>
+		<String>REQUIRES.PLIST</String>
+		<String>CONFIG</String>
+		<String>SCRIPT</String>
+		<String>.OXP</String>
+	</GlobalStrings>
+</TrID>

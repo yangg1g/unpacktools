@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Lotus Approach (generic)</FileType>
+		<Ext>APR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>55</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E007400720079</Bytes>
+			<ASCII> R . o . o . t .   . E . n . t . r . y</ASCII>
+			<Pos>1024</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>B'L'A'N'K' 'D'A'T'A'B'A'S'E</String>
+		<String>D'O'C'U'M'E'N'T'W'I'N'D'O'W</String>
+		<String>A'P'P'R'G'L'O'B'O'B'J</String>
+		<String>A'P'P'R'O'A'C'H'D'O'C</String>
+		<String>W'O'R'K'S'H'E'E'T</String>
+		<String>O'B'J'T'E'X'T'.'E</String>
+		<String>DEFAULT STYLET</String>
+		<String>V'E'R'S'I'O'N</String>
+		<String>T'I'T'L'E'.'E</String>
+		<String>O'B'J'L'I'N'E</String>
+		<String>WORKSHEET</String>
+		<String>OBJTABLE</String>
+		<String>B'O'D'Y</String>
+		<String>OBJTEXT</String>
+		<String>I'N'F'O</String>
+		<String>TITLE</String>
+		<String>BODY</String>
+	</GlobalStrings>
+</TrID>

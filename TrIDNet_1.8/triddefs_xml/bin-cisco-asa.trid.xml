@@ -1,0 +1,77 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Cisco ASA firmware</FileType>
+		<Ext>BIN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Chris Clemson</User>
+		<E-Mail>ChrisDOTClemson@btinternetDOTcom</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Refine>8 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>10</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>54</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FA672E0F0115BC7D0000660F01E06683C801</Bytes>
+			<ASCII> . g . . . . . } . . f . . . f</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000FFFF0000009FCF00FFFF00000093CF001700A47D00000D0A46696E6573736520666C6F70707920626F6F747374726170202856322E30290D0A00E60000000002121BFF00000000000000000000000000000055AA0B01640000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . } . . . . F i n e s s e   f l o p p y   b o o t s t r a p   ( V 2 . 0 ) . . . . . . . . . . . . . . . . . . . . . . . . . . . U . . . d</ASCII>
+			<Pos>420</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000010000000000000</Bytes>
+			<Pos>518</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000A0000000000000000000000F011539A000000F20C083C8010F22C0F8730289C0BC00000A00E8</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . 9 . . . .   . . . . . " . . s</ASCII>
+			<Pos>530</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000EBFE0000000000000000FFFF0000009FCF00FFFF00000093CF00170021A00000900D0A257300</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ! . . . . . . % s</ASCII>
+			<Pos>572</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CISCO PIX SECURITY APPLIANCE'FIREWALL SERVICES MODULE'ADAPTIVE SECURITY APPLIANCE'UNEXPECTED PLATFORM TYPE 0X%X</String>
+		<String>CISCO ADAPTIVE SECURITY APPLIANCE SOFTWARE VERSION'UNKNOWN PLATFORM 0X%X VERSION</String>
+		<String>CISCO PIX SECURITY APPLIANCE SOFTWARE VERSION'FWSM FIREWALL VERSION</String>
+		<String>CHECKSUM VERIFICATION ON INSTALL IMAGE FAILED.</String>
+		<String>SECURITY APPLIANCE FLOPPY LOADER (3.0)</String>
+		<String>SECURITY APPLIANCE ADMIN LOADER (3.0)</String>
+		<String>PIXFIREWALL'CISCOASA'PLATFORM0X%X</String>
+		<String>FINESSE FLOPPY BOOTSTRAP (V2.0)</String>
+		<String>PIX'ASA'PLATFORM-TYPE-0X%X</String>
+		<String>REBOOTING...</String>
+		<String>LE VERSION</String>
+		<String>SUPPORTED</String>
+		<String>PIX-506E</String>
+		<String>PIX-515E</String>
+		<String>INVALID</String>
+		<String>PIX-525</String>
+		<String>PIX-535</String>
+		<String>CORR</String>
+		<String>FILE</String>
+		<String>PTED</String>
+	</GlobalStrings>
+</TrID>

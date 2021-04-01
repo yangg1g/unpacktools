@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Google Desktop Gadget manifest</FileType>
+		<Ext>GMANIFEST</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://desktop.google.com/plugins/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>1</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>19</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.2b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>67</Bytes>
+			<ASCII> g</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GADGET MINIMUMGOOGLEDESKTOPVERSION</String>
+		<String>AUTHORWEBSITE</String>
+		<String>DESCRIPTION</String>
+		<String>ABOUTTEXT</String>
+		<String>COPYRIGHT</String>
+		<String>ICON</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

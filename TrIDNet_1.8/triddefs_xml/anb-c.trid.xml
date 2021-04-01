@@ -1,0 +1,1127 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Enter a useful file type description</FileType>
+		<Ext>ANB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>11</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>41</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE1001100000000000000000000000000003E000300FEFF0900060000000000000000000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N'''''''''''''''''''''''''''(</String>
+		<String>.YEAR-LONG-MONTH-SHORT-DAY 24-HOUR</String>
+		<String>%YEAR-LONG-MONTH-SHORT-DAY 24-HOUR</String>
+		<String>HEARD ISLAND AND MCDONALD ISLANDS</String>
+		<String>SAINT VINCENT AND THE GRENADINES</String>
+		<String>THE FORMER YUGOSLAV REPUBLIC OF</String>
+		<String>THE DEMOCRATIC REPUBLIC OF THE</String>
+		<String>BRITISH INDIAN OCEAN TERRITORY</String>
+		<String>HOLY SEE (VATICAN CITY STATE)</String>
+		<String>NB_AUTOATTRIBUTECLASSNOSAVE</String>
+		<String>A'F'R'O'-'C'A'R'I'B'B'E'A'N</String>
+		<String>FRENCH SOUTHERN TERRITORIES</String>
+		<String>FALKLAND ISLANDS (MALVINAS)</String>
+		<String>IRAN (ISLAMIC REPUBLIC OF)</String>
+		<String>FLAG GB - NORTHERN IRELAND</String>
+		<String>SAINT PIERRE AND MIQUELON</String>
+		<String>PB_PROPERTYBAGCOLLECTION</String>
+		<String>WALLIS AND FUTUNA ISLAND</String>
+		<String>TURKS AND CAICOS ISLANDS</String>
+		<String>%KOREA DEMOCRATIC PEOPLE</String>
+		<String>NORTHERN MARIANA ISLANDS</String>
+		<String>CENTRAL AFRICAN REPUBLIC</String>
+		<String>COCOS (KEELING) ISLANDS</String>
+		<String>DOCUMENTS AND SETTINGS</String>
+		<String>SVALBARD AND JAN MAYEN</String>
+		<String>LST_LABELLEDFRAMESTYLE</String>
+		<String>BOSNIA AND HERZEGOVINA</String>
+		<String>LIBYAN ARAB JAMAHIRIYA</String>
+		<String>NB_DATETIMEFORMATLIST</String>
+		<String>D'I'R'E'C'T' 'D'I'A'L</String>
+		<String>C'R'E'D'I'T' 'C'A'R'D</String>
+		<String>FLAG GB - ISLE OF MAN</String>
+		<String>M'I'D'D'L'E' 'E'A'S'T</String>
+		<String>SAO TOME AND PRINCIPE</String>
+		<String>PALESTINIAN AUTHORITY</String>
+		<String>SAINT KITTS AND NEVIS</String>
+		<String>S DEMOCRATIC REPUBLIC</String>
+		<String>POSSESSION OF WEAPON</String>
+		<String>INDUSTRIAL CHEMICALS</String>
+		<String>UNITED ARAB EMIRATES</String>
+		<String>SYRIAN ARAB REPUBLIC</String>
+		<String>NB_DBPROXYCOLLECTION</String>
+		<String>EMPTY GRADING SYSTEM</String>
+		<String>TB_INTERVALBANDSTYLE</String>
+		<String>NETHERLANDS ANTILLES</String>
+		<String>PROFESSIONAL FEMALE</String>
+		<String>YEAR-LONG-MONTH-DAY</String>
+		<String>ANTIGUA AND BARBUDA</String>
+		<String>LST_CONNECTIONSTYLE</String>
+		<String>FEDERATED STATES OF</String>
+		<String>TRINIDAD AND TOBAGO</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>PL_GENERICPRINTINFO</String>
+		<String>FLAG GB - GUERNSEY</String>
+		<String>DOMINICAN REPUBLIC</String>
+		<String>SNAPSHOTCOLLECTION</String>
+		<String>PRESCRIPTION DRUGS</String>
+		<String>LST_TEXTBLOCKSTYLE</String>
+		<String>UNITED REPUBLIC OF</String>
+		<String>FLAG GB - SCOTLAND</String>
+		<String>RUSSIAN FEDERATION</String>
+		<String>MEDICAL LABORATORY</String>
+		<String>COMMODITY TRANSFER</String>
+		<String>TB_LABELSTYLEOWNER</String>
+		<String>TB_MARKERBANDSTYLE</String>
+		<String>CRIMINAL ASSOCIATE</String>
+		<String>CRD_CARDCOLLECTION</String>
+		<String>REPUBLIC OF CHINA</String>
+		<String>U'S' 'D'O'L'L'A'R</String>
+		<String>ATTENDING OFFICER</String>
+		<String>FLAG GB - ENGLAND</String>
+		<String>PROFESSIONAL MALE</String>
+		<String>EQUATORIAL GUINEA</String>
+		<String>NB_ATTRIBUTECLASS</String>
+		<String>BRUNEI DARUSSALAM</String>
+		<String>LST_JUNCTIONSTYLE</String>
+		<String>WWD_ORDEREDWORLD</String>
+		<String>FLAG GB - JERSEY</String>
+		<String>INDUSTRIAL PLANT</String>
+		<String>LEG_LEGENDWIDGET</String>
+		<String>TB_TICKBANDSTYLE</String>
+		<String>FRENCH POLYNESIA</String>
+		<String>APPROXIMATE TIME</String>
+		<String>APPLICATION DATA</String>
+		<String>CHRISTMAS ISLAND</String>
+		<String>MARSHALL ISLANDS</String>
+		<String>TRANSACTION DATE</String>
+		<String>SERVICE PROVIDER</String>
+		<String>PAPUA NEW GUINEA</String>
+		<String>SELECTION SET 8</String>
+		<String>FUCHSIA PYRAMID</String>
+		<String>SELECTION SET 5</String>
+		<String>SELECTION SET 9</String>
+		<String>SOLOMON ISLANDS</String>
+		<String>STERLING AMOUNT</String>
+		<String>WWD_THEMEDWORLD</String>
+		<String>SELECTION SET 0</String>
+		<String>E'U'R'O'P'E'A'N</String>
+		<String>SELECTION SET 3</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>LST_CIRCLESTYLE</String>
+		<String>SELECTION SET 7</String>
+		<String>NB_IGRADESYSTEM</String>
+		<String>PAL_BASEPALETTE</String>
+		<String>C'A'N'N'A'B'I'S</String>
+		<String>S'T'E'R'L'I'N'G</String>
+		<String>SELECTION SET 6</String>
+		<String>LAW ENFORCEMENT</String>
+		<String>TY_GENERATENAME</String>
+		<String>SELECTION SET 4</String>
+		<String>FUCHSIA DIAMOND</String>
+		<String>SOFTWARE PIRACY</String>
+		<String>SELECTION SET 2</String>
+		<String>FLAG GB - WALES</String>
+		<String>SELECTION SET 1</String>
+		<String>PAL_USERPALETTE</String>
+		<String>2003 1 1 0 0 0</String>
+		<String>NB_DEFAULTDATE</String>
+		<String>NB_IGRADERANGE</String>
+		<String>YELLOW DIAMOND</String>
+		<String>UNITED NATIONS</String>
+		<String>SILVER DIAMOND</String>
+		<String>CZECH REPUBLIC</String>
+		<String>WESTERN SAHARA</String>
+		<String>YELLOW PYRAMID</String>
+		<String>CI_SOURCEHINTS</String>
+		<String>-DAY-NAME-LONG</String>
+		<String>SILVER PYRAMID</String>
+		<String>NORFOLK ISLAND</String>
+		<String>CAYMAN ISLANDS</String>
+		<String>PURPLE PYRAMID</String>
+		<String>LST_LABELSTYLE</String>
+		<String>DAY-NAME-SHORT</String>
+		<String>LST_EVENTSTYLE</String>
+		<String>CONTAINER SHIP</String>
+		<String>VIDEO CASSETTE</String>
+		<String>PURPLE DIAMOND</String>
+		<String>ASSAULT WEAPON</String>
+		<String>ACCOUNT HOLDER</String>
+		<String>AUDIO CASSETTE</String>
+		<String>TELEPHONE CALL</String>
+		<String>LST_THEMESTYLE</String>
+		<String>MAROON PYRAMID</String>
+		<String>UNITED KINGDOM</String>
+		<String>5DAY-NAME-LONG</String>
+		<String>VIRGIN ISLANDS</String>
+		<String>PRISON OFFICER</String>
+		<String>FUCHSIA SQUARE</String>
+		<String>FINANCE ORGANI</String>
+		<String>COLOUR FUCHSIA</String>
+		<String>FUCHSIA CIRCLE</String>
+		<String>PAL_PALETTESET</String>
+		<String>MONEY TRANSFER</String>
+		<String>AMERICAN SAMOA</String>
+		<String>MAROON DIAMOND</String>
+		<String>CI2STRINGARRAY</String>
+		<String>FEMALE LAWYER</String>
+		<String>ASSASSINATION</String>
+		<String>ETHNIC ORIGIN</String>
+		<String>S REPUBLIC OF</String>
+		<String>WWG_TEXTBLOCK</String>
+		<String>A'S'S'A'U'L'T</String>
+		<String>GUINEA-BISSAU</String>
+		<String>PURPLE CIRCLE</String>
+		<String>SILVER SQUARE</String>
+		<String>FAROE ISLANDS</String>
+		<String>LST_LINKSTYLE</String>
+		<String>FEMALE FIGURE</String>
+		<String>COLOUR MAROON</String>
+		<String>TIME OF DEATH</String>
+		<String>(''')'''*'''+</String>
+		<String>COLOUR SILVER</String>
+		<String>LIECHTENSTEIN</String>
+		<String>C'O'C'A'I'N'E</String>
+		<String>WWG_RECTANGLE</String>
+		<String>DATE OF BIRTH</String>
+		<String>SILVER CIRCLE</String>
+		<String>DOLLAR AMOUNT</String>
+		<String>MAROON CIRCLE</String>
+		<String>APPROXIMATELY</String>
+		<String>GREEN DIAMOND</String>
+		<String>LST_ICONSTYLE</String>
+		<String>PURPLE SQUARE</String>
+		<String>BOUVET ISLAND</String>
+		<String>CI_POSITIONED</String>
+		<String>E'C'S'T'A'S'Y</String>
+		<String>G'E'R'M'A'N'Y</String>
+		<String>U'N'K'N'O'W'N</String>
+		<String>H'E'R'O'I'N'X</String>
+		<String>B'R'I'T'I'S'H</String>
+		<String>GREEN PYRAMID</String>
+		<String>MAROON SQUARE</String>
+		<String>COLOUR YELLOW</String>
+		<String>WIRE TRANSFER</String>
+		<String>BLACK PYRAMID</String>
+		<String>YELLOW SQUARE</String>
+		<String>COLOUR PURPLE</String>
+		<String>WHITE PYRAMID</String>
+		<String>LCI_CHARTITEM</String>
+		<String>WHITE DIAMOND</String>
+		<String>OLIVE PYRAMID</String>
+		<String>FRENCH GUIANA</String>
+		<String>R'O'B'B'E'R'Y</String>
+		<String>NEW CALEDONIA</String>
+		<String>MIN TZ-OFFSET</String>
+		<String>YELLOW CIRCLE</String>
+		<String>OLIVE DIAMOND</String>
+		<String>WWG_MULTILINE</String>
+		<String>BLACK DIAMOND</String>
+		<String>SHELL COMPANY</String>
+		<String>YYYY-MM-DD HH</String>
+		<String>LIME PYRAMID</String>
+		<String>BLACK SQUARE</String>
+		<String>BLUE DIAMOND</String>
+		<String>LIME DIAMOND</String>
+		<String>ACCOUNT TYPE</String>
+		<String>SAUDI ARABIA</String>
+		<String>COOK ISLANDS</String>
+		<String>BURKINA FASO</String>
+		<String>GREY DIAMOND</String>
+		<String>COLOUR GREEN</String>
+		<String>NAVY DIAMOND</String>
+		<String>SURVEILLANCE</String>
+		<String>CREDIT CARDS</String>
+		<String>AQUA PYRAMID</String>
+		<String>PICKUP TRUCK</String>
+		<String>BLUE PYRAMID</String>
+		<String>WWG_TIMEABLE</String>
+		<String>TEAL DIAMOND</String>
+		<String>SAINT HELENA</String>
+		<String>GREY PYRAMID</String>
+		<String>HOSPITAL BED</String>
+		<String>WHITE SQUARE</String>
+		<String>FLAG ZW'''')</String>
+		<String>OLIVE SQUARE</String>
+		<String>WWG_RECTAREA</String>
+		<String>MOBILE PHONE</String>
+		<String>NAVY PYRAMID</String>
+		<String>TEAL PYRAMID</String>
+		<String>SOUTH AFRICA</String>
+		<String>MANUFACTURER</String>
+		<String>AQUA DIAMOND</String>
+		<String>GREEN CIRCLE</String>
+		<String>STANDARD.ANT</String>
+		<String>CD_PRINTINFO</String>
+		<String>LST_BOXSTYLE</String>
+		<String>COLOUR BLACK</String>
+		<String>LST_ENDSTYLE</String>
+		<String>SEC.MILLISEC</String>
+		<String>TURKMENISTAN</String>
+		<String>COLOUR OLIVE</String>
+		<String>SIERRA LEONE</String>
+		<String>BULLET CASES</String>
+		<String>NB_GLOBALKEY</String>
+		<String>S NOTEBOOK 6</String>
+		<String>MIN TZ-SHORT</String>
+		<String>BLACK CIRCLE</String>
+		<String>OLIVE CIRCLE</String>
+		<String>WHITE CIRCLE</String>
+		<String>NB_STRENGTHS</String>
+		<String>COLOUR WHITE</String>
+		<String>LST_OLESTYLE</String>
+		<String>GREEN SQUARE</String>
+		<String>YEAR 24-HOUR</String>
+		<String>FLAG - NATO</String>
+		<String>TEAL SQUARE</String>
+		<String>NAVY CIRCLE</String>
+		<String>DAY-ORDINAL</String>
+		<String>NEW ZEALAND</String>
+		<String>SYSTEM DATE</String>
+		<String>AFGHANISTAN</String>
+		<String>EURO AMOUNT</String>
+		<String>PHILIPPINES</String>
+		<String>MACHINE GUN</String>
+		<String>S'I'L'V'E'R</String>
+		<String>COMMODITIES</String>
+		<String>COLOUR GREY</String>
+		<String>AQUA SQUARE</String>
+		<String>BLUE CIRCLE</String>
+		<String>RBLACK''''8</String>
+		<String>TEAL CIRCLE</String>
+		<String>GREY CIRCLE</String>
+		<String>NATIONALITY</String>
+		<String>FINGERPRINT</String>
+		<String>COLOUR TEAL</String>
+		<String>RED PYRAMID</String>
+		<String>FAX MACHINE</String>
+		<String>MIN TZ-LONG</String>
+		<String>SYSTEM TIME</String>
+		<String>UNCONFIRMED</String>
+		<String>RED DIAMOND</String>
+		<String>COLOUR AQUA</String>
+		<String>Y'E'L'L'O'W</String>
+		<String>AQUA CIRCLE</String>
+		<String>SAINT LUCIA</String>
+		<String>EL SALVADOR</String>
+		<String>TY_LINKTYPE</String>
+		<String>COLOUR LIME</String>
+		<String>COLOUR BLUE</String>
+		<String>LIME SQUARE</String>
+		<String>COUNTERFEIT</String>
+		<String>LIME CIRCLE</String>
+		<String>PARTICIPANT</String>
+		<String>GREY SQUARE</String>
+		<String>SWITZERLAND</String>
+		<String>NAVY SQUARE</String>
+		<String>COLOUR NAVY</String>
+		<String>PUERTO RICO</String>
+		<String>BLUE SQUARE</String>
+		<String>BANGLADESH</String>
+		<String>TB_TIMEBAR</String>
+		<String>HELICOPTER</String>
+		<String>CAPE VERDE</String>
+		<String>LAO PEOPLE</String>
+		<String>KAZAKHSTAN</String>
+		<String>RED SQUARE</String>
+		<String>EAST TIMOR</String>
+		<String>ACTIVITIES</String>
+		<String>MARTINIQUE</String>
+		<String>YUGOSLAVIA</String>
+		<String>COSTA RICA</String>
+		<String>MONTH-LONG</String>
+		<String>CI_VISIBLE</String>
+		<String>LUXEMBOURG</String>
+		<String>MADAGASCAR</String>
+		<String>POLICE CAR</String>
+		<String>TY_ENDTYPE</String>
+		<String>SUBSCRIBER</String>
+		<String>MICRONESIA</String>
+		<String>AZERBAIJAN</String>
+		<String>GUADELOUPE</String>
+		<String>MONTSERRAT</String>
+		<String>MOZAMBIQUE</String>
+		<String>COLOUR RED</String>
+		<String>ST_VISIBLE</String>
+		<String>ANTARCTICA</String>
+		<String>LCI_ENTITY</String>
+		<String>KYRGYZSTAN</String>
+		<String>MAURITANIA</String>
+		<String>HOVERCRAFT</String>
+		<String>RESTAURANT</String>
+		<String>KIDNAPPING</String>
+		<String>RED CIRCLE</String>
+		<String>UZBEKISTAN</String>
+		<String>MOTORCYCLE</String>
+		<String>TAJIKISTAN</String>
+		<String>SEYCHELLES</String>
+		<String>SAN MARINO</String>
+		<String>*MACEDONIA</String>
+		<String>GOVERNMENT</String>
+		<String>PICKUP VAN</String>
+		<String>SPEEDBOAT</String>
+		<String>PORT''''O</String>
+		<String>WST_SFONT</String>
+		<String>GIBRALTAR</String>
+		<String>SRI LANKA</String>
+		<String>MAURITIUS</String>
+		<String>CIRSILVER</String>
+		<String>VENEZUELA</String>
+		<String>CIRMAROON</String>
+		<String>CAMCORDER</String>
+		<String>SQRPURPLE</String>
+		<String>ARGENTINA</String>
+		<String>WWG_LABEL</String>
+		<String>INDONESIA</String>
+		<String>PYRMAROON</String>
+		<String>DRUG TYPE</String>
+		<String>HONG KONG</String>
+		<String>A'R'S'O'N</String>
+		<String>WAREHOUSE</String>
+		<String>FLAG - EU</String>
+		<String>GREENLAND</String>
+		<String>NICARAGUA</String>
+		<String>FLAG - UN</String>
+		<String>LITHUANIA</String>
+		<String>W'H'I'T'E</String>
+		<String>LNB_CHART</String>
+		<String>HAS CARDS</String>
+		<String>PAY PHONE</String>
+		<String>SQRMAROON</String>
+		<String>RADIATION</String>
+		<String>WST_VFONT</String>
+		<String>AMBULANCE</String>
+		<String>G'R'E'E'N</String>
+		<String>SWAZILAND</String>
+		<String>SINGAPORE</String>
+		<String>WST_FRAME</String>
+		<String>LOCATIONS</String>
+		<String>SQRSILVER</String>
+		<String>TENTATIVE</String>
+		<String>B'''N'''O</String>
+		<String>B'L'A'C'K</String>
+		<String>BYSTANDER</String>
+		<String>DEPARTURE</String>
+		<String>ATT_CLASS</String>
+		<String>DIAMAROON</String>
+		<String>ANONYMOUS</String>
+		<String>WWG_ARROW</String>
+		<String>INFORMANT</String>
+		<String>FREIGHTER</String>
+		<String>FOOTPRINT</String>
+		<String>BRIEFCASE</String>
+		<String>DIAPURPLE</String>
+		<String>CALL TYPE</String>
+		<String>AUSTRALIA</String>
+		<String>WWD_WORLD</String>
+		<String>CIRPURPLE</String>
+		<String>TEMPLATES</String>
+		<String>PYRSILVER</String>
+		<String>PYRPURPLE</String>
+		<String>A'S'I'A'N</String>
+		<String>CI_STYLED</String>
+		<String>WWD_OWNER</String>
+		<String>GUATEMALA</String>
+		<String>DIASILVER</String>
+		<String>PASSENGER</String>
+		<String>SRVLANC0</String>
+		<String>ETHIOPIA</String>
+		<String>JEWELLRY</String>
+		<String>FUGITIVE</String>
+		<String>SLOVAKIA</String>
+		<String>JIFFYBAG</String>
+		<String>DIAGREEN</String>
+		<String>WWG_ICON</String>
+		<String>CIRWHITE</String>
+		<String>SIM CARD</String>
+		<String>SRVLANC1</String>
+		<String>DIAOLIVE</String>
+		<String>BOTSWANA</String>
+		<String>WWG_BASE</String>
+		<String>PAKISTAN</String>
+		<String>WWD_BASE</String>
+		<String>MACHNGUN</String>
+		<String>CLOTHING</String>
+		<String>ST_TYPED</String>
+		<String>FOOTPRNT</String>
+		<String>CIRBLACK</String>
+		<String>TELECOMS</String>
+		<String>_DAT_BTH</String>
+		<String>PYRFUSCH</String>
+		<String>CD_CHART</String>
+		<String>MNYTRANS</String>
+		<String>BLACKTRI</String>
+		<String>PITCAIRN</String>
+		<String>SQRGREEN</String>
+		<String>SQRFUSCH</String>
+		<String>KIRIBATI</String>
+		<String>PORTUGAL</String>
+		<String>_SUSPCT2</String>
+		<String>VIET NAM</String>
+		<String>RESTRANT</String>
+		<String>BLACKDOT</String>
+		<String>BARBADOS</String>
+		<String>SQROLIVE</String>
+		<String>DIABLACK</String>
+		<String>TIRETRED</String>
+		<String>SURINAME</String>
+		<String>CIRFUSCH</String>
+		<String>WST_FILL</String>
+		<String>PASSPORT</String>
+		<String>CELLFONE</String>
+		<String>WST_FONT</String>
+		<String>CATEGORY</String>
+		<String>CIW_LINK</String>
+		<String>DRUGATTR</String>
+		<String>SQRWHITE</String>
+		<String>GREENDOT</String>
+		<String>FNGRPRNT</String>
+		<String>INCIDENT</String>
+		<String>ATTENDEE</String>
+		<String>VEHICLES</String>
+		<String>CAMBODIA</String>
+		<String>TB_STYLE</String>
+		<String>QUE''''B</String>
+		<String>_CONFRM1</String>
+		<String>DJIBOUTI</String>
+		<String>_CUR_EUR</String>
+		<String>WST_BASE</String>
+		<String>WWG_LINK</String>
+		<String>HOVCRAFT</String>
+		<String>BANKBLDG</String>
+		<String>BULCASES</String>
+		<String>DIAFUSCH</String>
+		<String>BULTCASE</String>
+		<String>COLOMBIA</String>
+		<String>CIRGREEN</String>
+		<String>THAILAND</String>
+		<String>EMPLOYEE</String>
+		<String>CNTRFEIT</String>
+		<String>CIROLIVE</String>
+		<String>SPEEBOAT</String>
+		<String>PAYPHONE</String>
+		<String>WORKSHOP</String>
+		<String>CAMEROON</String>
+		<String>SQRBLACK</String>
+		<String>CAR BOMB</String>
+		<String>MALAYSIA</String>
+		<String>WST_LINE</String>
+		<String>SLOVENIA</String>
+		<String>PROFMALE</String>
+		<String>SOFTPIRA</String>
+		<String>OFFENDER</String>
+		<String>AIRPLANE</String>
+		<String>WWG_LINE</String>
+		<String>_DANGERS</String>
+		<String>DIRECTOR</String>
+		<String>ENVELOPN</String>
+		<String>PYRBLACK</String>
+		<String>PROFFEML</String>
+		<String>LCI_LINK</String>
+		<String>PARAGUAY</String>
+		<String>GOVRMENT</String>
+		<String>PYRGREEN</String>
+		<String>AC-CARDS</String>
+		<String>CURRENCY</String>
+		<String>CONTSHIP</String>
+		<String>SIGHTING</String>
+		<String>ANGUILLA</String>
+		<String>LCI_ICON</String>
+		<String>DIAWHITE</String>
+		<String>HONDURAS</String>
+		<String>TANZANIA</String>
+		<String>RE TREAD</String>
+		<String>PHONE BO</String>
+		<String>COMPUTER</String>
+		<String>WEB SITE</String>
+		<String>_CALLDBY</String>
+		<String>FREIGHTR</String>
+		<String>ST_STYLE</String>
+		<String>VANPIKUP</String>
+		<String>FORENSIC</String>
+		<String>PYRWHITE</String>
+		<String>PRISONER</String>
+		<String>LWG_LINK</String>
+		<String>BULGARIA</String>
+		<String>WST_TEXT</String>
+		<String>TERMINAL</String>
+		<String>PYROLIVE</String>
+		<String>_CUR_STE</String>
+		<String>ENVELOPE</String>
+		<String>ZIMBABWE</String>
+		<String>PHONEBOX</String>
+		<String>LWG_ICON</String>
+		<String>BUILDING</String>
+		<String>CCD_CARD</String>
+		<String>MALDIVES</String>
+		<String>VANLUTON</String>
+		<String>AC-CLASH</String>
+		<String>SENTENCE</String>
+		<String>MONGOLIA</String>
+		<String>ALCOHOL</String>
+		<String>FLAG AS</String>
+		<String>FLAG LS</String>
+		<String>FLAG LY</String>
+		<String>FLAG EG</String>
+		<String>CIRAQUA</String>
+		<String>FLAG MN</String>
+		<String>FLAG SH</String>
+		<String>FLAG LV</String>
+		<String>FLAG AQ</String>
+		<String>FLAG SZ</String>
+		<String>AIRPORT</String>
+		<String>FLAG FJ</String>
+		<String>LIBERIA</String>
+		<String>FLAG VI</String>
+		<String>FLAG NL</String>
+		<String>FLAG VC</String>
+		<String>DIALIME</String>
+		<String>FLAG LU</String>
+		<String>FLAG MT</String>
+		<String>FLAG YU</String>
+		<String>FLAG NE</String>
+		<String>CIRNAVY</String>
+		<String>FLAG CL</String>
+		<String>FLAG AI</String>
+		<String>FLAG LT</String>
+		<String>BAHAMAS</String>
+		<String>DIAGREY</String>
+		<String>FLAG TM</String>
+		<String>ID CARD</String>
+		<String>STATION</String>
+		<String>GASPUMP</String>
+		<String>FLAG LC</String>
+		<String>FLAG CN</String>
+		<String>FLAG LK</String>
+		<String>FINLAND</String>
+		<String>CRUISER</String>
+		<String>B'L'U'E</String>
+		<String>FLAG AN</String>
+		<String>FLAG AO</String>
+		<String>FLAG AR</String>
+		<String>FLAG MD</String>
+		<String>FLAG NO</String>
+		<String>FLAG AM</String>
+		<String>FLAG MH</String>
+		<String>12-HOUR</String>
+		<String>GRENADA</String>
+		<String>FLAG TN</String>
+		<String>FLAG GL</String>
+		<String>FLAG MM</String>
+		<String>FLAG FM</String>
+		<String>ERITREA</String>
+		<String>FLATBED</String>
+		<String>FLAG GA</String>
+		<String>FLAG SY</String>
+		<String>GUNATTR</String>
+		<String>ALBANIA</String>
+		<String>FLAG BN</String>
+		<String>MYANMAR</String>
+		<String>FLAG UY</String>
+		<String>BELGIUM</String>
+		<String>ALGERIA</String>
+		<String>FLAG ES</String>
+		<String>MAYOTTE</String>
+		<String>AMBULNC</String>
+		<String>FLAG CA</String>
+		<String>FACTORY</String>
+		<String>GERMANY</String>
+		<String>FLAG BR</String>
+		<String>FLAG MC</String>
+		<String>FLAG YE</String>
+		<String>FLAG CH</String>
+		<String>FLAG CI</String>
+		<String>FLAG CK</String>
+		<String>SHERIFF</String>
+		<String>SHIELDU</String>
+		<String>FLAG LR</String>
+		<String>FLAG CM</String>
+		<String>WITNESS</String>
+		<String>ARMENIA</String>
+		<String>NIGERIA</String>
+		<String>CIRYELL</String>
+		<String>FLAG CV</String>
+		<String>ARRIVAL</String>
+		<String>PYRNAVY</String>
+		<String>FLAG AL</String>
+		<String>FLAG DE</String>
+		<String>FLAG BJ</String>
+		<String>FLAG TZ</String>
+		<String>FLAG DZ</String>
+		<String>FLAG BM</String>
+		<String>SOMALIA</String>
+		<String>FLAG EC</String>
+		<String>FLAG BO</String>
+		<String>OTHNAME</String>
+		<String>AUSTRIA</String>
+		<String>WWG_END</String>
+		<String>RADIATN</String>
+		<String>BAHRAIN</String>
+		<String>FLAG FI</String>
+		<String>CIRBLUE</String>
+		<String>FLAG FK</String>
+		<String>TRAWLER</String>
+		<String>SQRGREY</String>
+		<String>BELARUS</String>
+		<String>YYYY HH</String>
+		<String>SQRNAVY</String>
+		<String>WWG_TOP</String>
+		<String>LCI_END</String>
+		<String>FLAG TF</String>
+		<String>PACKAGE</String>
+		<String>FLAG MP</String>
+		<String>FLAG MR</String>
+		<String>LEARJET</String>
+		<String>LEBANON</String>
+		<String>BLACKSQ</String>
+		<String>LESOTHO</String>
+		<String>FLAG GM</String>
+		<String>DIANAVY</String>
+		<String>FLAG FR</String>
+		<String>FLAG BG</String>
+		<String>DIATEAL</String>
+		<String>FLAG GR</String>
+		<String>BLUEDOT</String>
+		<String>FLAG GS</String>
+		<String>FLAG GT</String>
+		<String>BOLIVIA</String>
+		<String>FLAG GY</String>
+		<String>FLAG US</String>
+		<String>FLAG HN</String>
+		<String>FLAG HM</String>
+		<String>SQRAQUA</String>
+		<String>PRISOFF</String>
+		<String>FLAG HU</String>
+		<String>GENERAL</String>
+		<String>ANDORRA</String>
+		<String>FLAG AG</String>
+		<String>FLAG WS</String>
+		<String>FLAG IO</String>
+		<String>FLAG IQ</String>
+		<String>BURUNDI</String>
+		<String>FLAG PL</String>
+		<String>CABINET</String>
+		<String>LWG_END</String>
+		<String>BICYCLE</String>
+		<String>FLAG JO</String>
+		<String>FLAG JP</String>
+		<String>FLAG CO</String>
+		<String>FLAG KG</String>
+		<String>ICELAND</String>
+		<String>FLAG KI</String>
+		<String>FLAG KM</String>
+		<String>FLAG KN</String>
+		<String>FLAG SR</String>
+		<String>FLAG KR</String>
+		<String>FLAG RU</String>
+		<String>FLAG DK</String>
+		<String>PYRTEAL</String>
+		<String>FLAG LB</String>
+		<String>PYRYELL</String>
+		<String>FLAG SC</String>
+		<String>JAMAICA</String>
+		<String>FLAG LI</String>
+		<String>TOBACCO</String>
+		<String>FLAG EH</String>
+		<String>CHOPPER</String>
+		<String>TOKELAU</String>
+		<String>TRACTOR</String>
+		<String>FLAG MA</String>
+		<String>FLAG AE</String>
+		<String>MEETING</String>
+		<String>FLAG SO</String>
+		<String>HUNGARY</String>
+		<String>FLAG MG</String>
+		<String>FLAG MK</String>
+		<String>CIRGREY</String>
+		<String>CIRLIME</String>
+		<String>REUNION</String>
+		<String>MINIBUS</String>
+		<String>FLAG AU</String>
+		<String>FLAG AT</String>
+		<String>FLAG MQ</String>
+		<String>FLAG MS</String>
+		<String>CIRTEAL</String>
+		<String>MOLDOVA</String>
+		<String>FLAG MU</String>
+		<String>CIW_END</String>
+		<String>ARTICAB</String>
+		<String>FLAG MY</String>
+		<String>ADDRESS</String>
+		<String>FLAG BI</String>
+		<String>MOROCCO</String>
+		<String>FLAG NC</String>
+		<String>VANUATU</String>
+		<String>FLAG UG</String>
+		<String>NAMIBIA</String>
+		<String>FLAG NI</String>
+		<String>VIDCASS</String>
+		<String>FLAG BT</String>
+		<String>FLAG VG</String>
+		<String>FLAG NU</String>
+		<String>ANALYST</String>
+		<String>HOSPBED</String>
+		<String>FLAG PA</String>
+		<String>SENEGAL</String>
+		<String>FLAG CF</String>
+		<String>ECUADOR</String>
+		<String>FLAG CD</String>
+		<String>FLAG CG</String>
+		<String>SHELLCO</String>
+		<String>FLAG PK</String>
+		<String>FLAG PM</String>
+		<String>SHOTGUN</String>
+		<String>FLAG PR</String>
+		<String>FLAG PN</String>
+		<String>COMMENT</String>
+		<String>FLAG CR</String>
+		<String>FLAG PT</String>
+		<String>FLAG CU</String>
+		<String>COMOROS</String>
+		<String>FLAG CY</String>
+		<String>FLAG QA</String>
+		<String>NUCLEAR</String>
+		<String>ASLTWPN</String>
+		<String>FLAG DJ</String>
+		<String>FLAG RW</String>
+		<String>FLAG DO</String>
+		<String>COUNTRY</String>
+		<String>FLAG SB</String>
+		<String>FLAG UM</String>
+		<String>FLAG EE</String>
+		<String>FLAG SG</String>
+		<String>FLAG UZ</String>
+		<String>CROATIA</String>
+		<String>FLAG SJ</String>
+		<String>FLAG SK</String>
+		<String>FLAG FO</String>
+		<String>FLAG SM</String>
+		<String>FLAG AF</String>
+		<String>FLAG SN</String>
+		<String>FLAG CC</String>
+		<String>SQRLIME</String>
+		<String>FLAG SV</String>
+		<String>TUNISIA</String>
+		<String>DENMARK</String>
+		<String>PATIENT</String>
+		<String>DIAAQUA</String>
+		<String>FLAG MO</String>
+		<String>FLAG GE</String>
+		<String>FLAG TH</String>
+		<String>PERFUME</String>
+		<String>FLAG TK</String>
+		<String>FLAG GF</String>
+		<String>FLAG GI</String>
+		<String>FLAG BD</String>
+		<String>FLAG TR</String>
+		<String>FLAG GP</String>
+		<String>FLAG TT</String>
+		<String>PICTURE</String>
+		<String>FLAG TW</String>
+		<String>DIAYELL</String>
+		<String>FLAG UA</String>
+		<String>FLAG ZM</String>
+		<String>FLAG NG</String>
+		<String>FLAG GW</String>
+		<String>FLAG VA</String>
+		<String>FLAG BS</String>
+		<String>FLAG ER</String>
+		<String>FLAG VE</String>
+		<String>FLAG HR</String>
+		<String>FLAG HT</String>
+		<String>FLAG VN</String>
+		<String>FLAG VU</String>
+		<String>FLAG WF</String>
+		<String>FLAG IL</String>
+		<String>FLAG IN</String>
+		<String>FLAG YT</String>
+		<String>FLAG PG</String>
+		<String>FLAG ZA</String>
+		<String>FLAG ML</String>
+		<String>FLAG IT</String>
+		<String>PYRAQUA</String>
+		<String>DIABLUE</String>
+		<String>PYRBLUE</String>
+		<String>ESTONIA</String>
+		<String>MAGNIFY</String>
+		<String>PYRGREY</String>
+		<String>PYRLIME</String>
+		<String>FLAG CX</String>
+		<String>FLAG PY</String>
+		<String>FLAG KP</String>
+		<String>MALELAW</String>
+		<String>FLAG KY</String>
+		<String>FLAG MZ</String>
+		<String>FEMALER</String>
+		<String>FLAG LA</String>
+		<String>FLAG IS</String>
+		<String>FLAG GU</String>
+		<String>FLAG SD</String>
+		<String>FLAG SE</String>
+		<String>FLAG HK</String>
+		<String>FLAG AW</String>
+		<String>FLAG SI</String>
+		<String>FLAG ET</String>
+		<String>FLAG AD</String>
+		<String>TRAILER</String>
+		<String>FLAG OM</String>
+		<String>WEAPONS</String>
+		<String>FLAG PE</String>
+		<String>WWG_SUB</String>
+		<String>FLAG ST</String>
+		<String>FLAG NA</String>
+		<String>FLAG PH</String>
+		<String>BERMUDA</String>
+		<String>FLAG TC</String>
+		<String>ROMANIA</String>
+		<String>FLAG BF</String>
+		<String>SQRTEAL</String>
+		<String>FLAG KE</String>
+		<String>FLAG AZ</String>
+		<String>FLAG BA</String>
+		<String>FLAG BB</String>
+		<String>FLAG PW</String>
+		<String>FLAG BE</String>
+		<String>FLAG JM</String>
+		<String>FLAG MX</String>
+		<String>FLAG BH</String>
+		<String>FLAG GQ</String>
+		<String>FLAG DM</String>
+		<String>FLAG SA</String>
+		<String>FLAG BY</String>
+		<String>FLAG BZ</String>
+		<String>FLAG ID</String>
+		<String>FLAG IE</String>
+		<String>FLAG TG</String>
+		<String>FLAG GD</String>
+		<String>FLAG BV</String>
+		<String>FLAG BW</String>
+		<String>FLAG IR</String>
+		<String>FLAG GH</String>
+		<String>SQRBLUE</String>
+		<String>FLAG TD</String>
+		<String>FLAG RE</String>
+		<String>FLAG RO</String>
+		<String>FLAG PF</String>
+		<String>FLAG KZ</String>
+		<String>FLAG KH</String>
+		<String>FLAG NR</String>
+		<String>WAHOUSE</String>
+		<String>FLAG TO</String>
+		<String>FLAG CZ</String>
+		<String>FLAG GN</String>
+		<String>URUGUAY</String>
+		<String>FLAG PS</String>
+		<String>SUSPECT</String>
+		<String>SQRYELL</String>
+		<String>FLAG NP</String>
+		<String>FLAG NZ</String>
+		<String>FLAG MV</String>
+		<String>FLAG TP</String>
+		<String>FLAG MW</String>
+		<String>FLAG TV</String>
+		<String>FLAG SL</String>
+		<String>UKRAINE</String>
+		<String>FLAG TJ</String>
+		<String>FLAG KW</String>
+		<String>TY_TYPE</String>
+		<String>CAMERA</String>
+		<String>_WIDTH</String>
+		<String>IVOIRE</String>
+		<String>N''''I</String>
+		<String>GARAGE</String>
+		<String>I2SEL4</String>
+		<String>I2SEL3</String>
+		<String>E''''U</String>
+		<String>CIRRED</String>
+		<String>I2SEL7</String>
+		<String>O''''K</String>
+		<String>REDTRI</String>
+		<String>GUYANA</String>
+		<String>NB_KEY</String>
+		<String>CHEQUE</String>
+		<String>I2SEL8</String>
+		<String>HAZARD</String>
+		<String>D''''-</String>
+		<String>R''''X</String>
+		<String>GAMBIA</String>
+		<String>TAIWAN</String>
+		<String>GREECE</String>
+		<String>POLAND</String>
+		<String>VICTIM</String>
+		<String>KUWAIT</String>
+		<String>I2SEL6</String>
+		<String>PANAMA</String>
+		<String>I2SEL0</String>
+		<String>PYRRED</String>
+		<String>YELTRI</String>
+		<String>BLUESQ</String>
+		<String>S''''+</String>
+		<String>BHUTAN</String>
+		<String>I2SEL5</String>
+		<String>YELDOT</String>
+		<String>RWANDA</String>
+		<String>BRAZIL</String>
+		<String>LATVIA</String>
+		<String>RECORD</String>
+		<String>MCYCLE</String>
+		<String>SS.FFF</String>
+		<String>E''''G</String>
+		<String>REDDOT</String>
+		<String>ZAMBIA</String>
+		<String>BELIZE</String>
+		<String>TAHOMA</String>
+		<String>I2SEL1</String>
+		<String>DEALER</String>
+		<String>ARREST</String>
+		<String>LETTER</String>
+		<String>TUVALU</String>
+		<String>MEXICO</String>
+		<String>A''''W</String>
+		<String>E''''C</String>
+		<String>INMATE</String>
+		<String>T''''P</String>
+		<String>FEMLAW</String>
+		<String>DRIVER</String>
+		<String>CASINO</String>
+		<String>SQRRED</String>
+		<String>ANGOLA</String>
+		<String>E''''D</String>
+		<String>DOCTOR</String>
+		<String>PISTOL</String>
+		<String>UGANDA</String>
+		<String>TURKEY</String>
+		<String>FRANCE</String>
+		<String>CYPRUS</String>
+		<String>SWEDEN</String>
+		<String>E''''T</String>
+		<String>DIARED</String>
+		<String>MIN AM</String>
+		<String>%CONGO</String>
+		<String>COMMON</String>
+		<String>MALAWI</String>
+		<String>MONACO</String>
+		<String>ISRAEL</String>
+		<String>MEDLAB</String>
+		<String>NORWAY</String>
+		<String>COTE D</String>
+		<String>CHURCH</String>
+		<String>SEARCH</String>
+		<String>_CUR_$</String>
+		<String>I2SEL2</String>
+		<String>SHAPES</String>
+		<String>JORDAN</String>
+		<String>PERSON</String>
+		<String>I2SEL9</String>
+		<String>OFFNDR</String>
+		<String>CANADA</String>
+		<String>GABON</String>
+		<String>HAITI</String>
+		<String>CHILE</String>
+		<String>TRASH</String>
+		<String>REDSQ</String>
+		<String>ARENA</String>
+		<String>FERRY</String>
+		<String>}'''~</String>
+		<String>Y'E'N</String>
+		<String>ALERT</String>
+		<String>SUDAN</String>
+		<String>SPAIN</String>
+		<String>CHILD</String>
+		<String>NAURU</String>
+		<String>PAGER</String>
+		<String>PLACE</String>
+		<String>MALEB</String>
+		<String>NEPAL</String>
+		<String>QUERY</String>
+		<String>QATAR</String>
+		<String>COACH</String>
+		<String>BCASE</String>
+		<String>21554</String>
+		<String>MALTA</String>
+		<String>COURT</String>
+		<String>CLOCK</String>
+		<String>HANDS</String>
+		<String>FRAUD</String>
+		<String>LORRY</String>
+		<String>FLAGS</String>
+		<String>MACAU</String>
+		<String>WOMAN</String>
+		<String>THEAT</String>
+		<String>KENYA</String>
+		<String>RIFLE</String>
+		<String>GROUP</String>
+		<String>ARSON</String>
+		<String>GHANA</String>
+		<String>ARUBA</String>
+		<String>EGYPT</String>
+		<String>ADULT</String>
+		<String>TONGA</String>
+		<String>-'''.</String>
+		<String>ITALY</String>
+		<String>YEMEN</String>
+		<String>JAPAN</String>
+		<String>MM TT</String>
+		<String>CRIME</String>
+		<String>ALIAS</String>
+		<String>EMAIL</String>
+		<String>STORE</String>
+		<String>BENIN</String>
+		<String>YACHT</String>
+		<String>TRAIN</String>
+		<String>KNIFE</String>
+		<String>STAGE</String>
+		<String>START</String>
+		<String>_SEEN</String>
+		<String>$'''%</String>
+		<String>PALAU</String>
+		<String>CLAIM</String>
+		<String>E TAP</String>
+		<String>MM ZZ</String>
+		<String>BLOOD</String>
+		<String>2336</String>
+		<String>U.S.</String>
+		<String>LAKE</String>
+		<String>CUBA</String>
+		<String>FIJI</String>
+		<String>CASH</String>
+		<String>NIUE</String>
+		<String>SMAN</String>
+		<String>GUAM</String>
+		<String>MMMM</String>
+		<String>5934</String>
+		<String>DDDD</String>
+		<String>PERU</String>
+		<String>BODY</String>
+		<String>CHAD</String>
+		<String>DISC</String>
+		<String>DISK</String>
+		<String>GIRL</String>
+		<String>TOGO</String>
+		<String>H TT</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WordPerfect Slide Show</FileType>
+		<Ext>SHW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.corel.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>07</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>08</Min>
+			<Sec>02</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N'''''''''''''''''''''''''''(</String>
+		<String>P'E'R'F'E'C'T'O'F'F'I'C'E'_'O'B'J'E'C'T'S</String>
+		<String>P'E'R'F'E'C'T'O'F'F'I'C'E'_'M'A'I'N</String>
+		<String>T'I'T'L'E' 'O'F' 'C'H'A'R'T</String>
+		<String>C'O'M'B'I'N'A'T'I'O'N</String>
+		<String>D'A'T'A' 'C'H'A'R'T</String>
+		<String>ORIGINAL SLIDE SHOW</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>B'A'C'K'G'R'O'U'N'D</String>
+		<String>S'L'I'D'E'S'H'O'W</String>
+		<String>O'R'G' 'C'H'A'R'T</String>
+		<String>S'U'B'T'I'T'L'E</String>
+		<String>L'E'G'E'N'D'D</String>
+		<String>B'U'L'L'E'T</String>
+		<String>PROGRAMS</String>
+		<String>SUBTITLE</String>
+		<String>SUBITEM</String>
+		<String>N'A'M'E</String>
+		<String>T'E'X'T</String>
+		<String>ITEM.</String>
+	</GlobalStrings>
+</TrID>

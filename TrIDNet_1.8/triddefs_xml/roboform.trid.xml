@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RoboForm saved data</FileType>
+		<Ext>RFN/RFP/RFX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Roboform</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>26</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>55524C333A766572333A</Bytes>
+			<ASCII> U R L 3 : v e r 3 :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PROTECTED</String>
+	</GlobalStrings>
+</TrID>

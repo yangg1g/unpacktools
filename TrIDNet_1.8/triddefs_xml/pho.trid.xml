@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Gerber Photoplot</FileType>
+		<Ext>PHO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>06</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>43</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2A</Bytes>
+			<ASCII> *</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>) GENERATED GERBER (RS-274-X) FILE*</String>
+		<String>G04</String>
+		<String>.PCB - CIRCUITRY*</String>
+		<String>.PCB</String>
+		<String>VERSION</String>
+		<String>LAYER NAME</String>
+		<String>(BUILD NUMBER</String>
+	</GlobalStrings>
+</TrID>

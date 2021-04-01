@@ -1,0 +1,70 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Adobe AIR Native Extension</FileType>
+		<Ext>ANE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Adobe_Integrated_Runtime</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>10</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>4</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7166AF</Bytes>
+			<ASCII> q f</ASCII>
+			<Pos>14</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D696D65747970655554090003</Bytes>
+			<ASCII> m i m e t y p e U T</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>55780400CB0000006170706C69636174696F6E2F766E642E61646F62652E6169722D6E61746976652D657874656E73696F6E2D7061636B6167652B7A6970504B0304</Bytes>
+			<ASCII> U x . . . . . . a p p l i c a t i o n / v n d . a d o b e . a i r - n a t i v e - e x t e n s i o n - p a c k a g e + z i p P K</ASCII>
+			<Pos>51</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00001A0015004D4554412D494E462F414E452F657874656E73696F6E2E786D6C5554090003</Bytes>
+			<ASCII> . . . . . . M E T A - I N F / A N E / e x t e n s i o n . x m l U T</ASCII>
+			<Pos>137</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>55780400CB000000</Bytes>
+			<ASCII> U x</ASCII>
+			<Pos>182</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VND.ADOBE.AIR-NATIVE-EXTENSION-PACKAGE+ZIPPK</String>
+		<String>EXTENSION.XMLUT</String>
+		<String>CATALOG.XMLUT</String>
+		<String>LIBRARY.SWFUT</String>
+		<String>APPLICATION</String>
+		<String>MIMETYPEUT</String>
+		<String>META-INF</String>
+		<String>UX''PK</String>
+	</GlobalStrings>
+</TrID>

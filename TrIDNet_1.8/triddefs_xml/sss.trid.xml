@@ -1,0 +1,74 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Coda Style Sheet</FileType>
+		<Ext>SSS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Coda_(web_development_software)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>6</Month>
+			<Day>7</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>24</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>636F6D6D656E74207B0A2020</Bytes>
+			<ASCII> c o m m e n t   {</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>STYLE.VALUE.COLOR.RGB-VALUE {</String>
+		<String>MARKUP.TAG.ATTRIBUTE.VALUE {</String>
+		<String>MARKUP.TAG.ATTRIBUTE.NAME {</String>
+		<String>META.INVISIBLE.CHARACTERS {</String>
+		<String>CONSTANT.NUMERIC.KEYWORD {</String>
+		<String>MARKUP.CONSTANT.ENTITY {</String>
+		<String>MARKUP.INLINE.CDATA {</String>
+		<String>STYLE.PROPERTY.NAME {</String>
+		<String>STYLE.VALUE.KEYWORD {</String>
+		<String>STYLE.VALUE.NUMERIC {</String>
+		<String>MARKUP.DECLARATION {</String>
+		<String>STYLE.VALUE.STRING {</String>
+		<String>LANGUAGE.FUNCTION {</String>
+		<String>LANGUAGE.OPERATOR {</String>
+		<String>LANGUAGE.VARIABLE {</String>
+		<String>LIGHT.CURRENTLINE {</String>
+		<String>MARKUP.PROCESSING {</String>
+		<String>CONSTANT.NUMERIC {</String>
+		<String>KEYWORD.CONTROL {</String>
+		<String>BACKGROUND-COLOR</String>
+		<String>MARKUP.COMMENT {</String>
+		<String>META.IMPORTANT {</String>
+		<String>STYLE.AT-RULE {</String>
+		<String>STYLE.COMMENT {</String>
+		<String>FONT-UNDERLINE</String>
+		<String>KEYWORD.TYPE {</String>
+		<String>META.DEFAULT {</String>
+		<String>META.INVALID {</String>
+		<String>STRING.REGEX {</String>
+		<String>MARKUP.TAG {</String>
+		<String>FONT-WEIGHT</String>
+		<String>META.LINK {</String>
+		<String>FONT-STYLE</String>
+		<String>SUPPORT {</String>
+		<String>META.HIG</String>
+		<String>NORMAL</String>
+		<String>NONE</String>
+	</GlobalStrings>
+</TrID>

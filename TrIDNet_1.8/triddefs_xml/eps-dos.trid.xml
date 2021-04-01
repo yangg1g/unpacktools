@@ -1,0 +1,118 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Encapsulated PostScript (with DOS style preview)</FileType>
+        <Ext>EPS/PS</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://dspace.dial.pipex.com/quite/eps1.htm</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>11</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2004</Year>
+            <Month>01</Month>
+            <Day>10</Day>
+        </Date>
+        <Time>
+            <Hour>00</Hour>
+            <Min>08</Min>
+            <Sec>27</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>C5D0D3C6</Bytes>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000</Bytes>
+            <Pos>6</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>000000000000000000</Bytes>
+            <Pos>11</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00</Bytes>
+            <Pos>23</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00FFFF</Bytes>
+            <Pos>27</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>%%BEGINPROLOG</String>
+        <String>%%BEGINSETUP</String>
+        <String>%%BOUNDINGBOX</String>
+        <String>%%CREATIONDATE</String>
+        <String>%%CREATOR</String>
+        <String>%%ENDCOMMENTS</String>
+        <String>%%ENDPROLOG</String>
+        <String>%%ENDSETUP</String>
+        <String>%%HIRESBOUNDINGBOX</String>
+        <String>%%TITLE</String>
+        <String>.EPS</String>
+        <String>BIND</String>
+        <String>BITSPERCOMPONENT</String>
+        <String>COPYRIGHT</String>
+        <String>CURRENTDICT END</String>
+        <String>CURRENTFILE</String>
+        <String>CURRENTGRAY</String>
+        <String>CURRENTTRANSFER</String>
+        <String>DATASOURCE</String>
+        <String>DECODE</String>
+        <String>DEF}</String>
+        <String>DEVICE</String>
+        <String>DOCUMENT</String>
+        <String>E CURRENT</String>
+        <String>E LOAD</String>
+        <String>EDATA</String>
+        <String>EXCH</String>
+        <String>EXEC</String>
+        <String>GRESTORE</String>
+        <String>GSAVE</String>
+        <String>HALFTONE</String>
+        <String>HEIGHT</String>
+        <String>IMAGE GET DEF</String>
+        <String>IMAGE L</String>
+        <String>IMAGE SYSTEMDICT</String>
+        <String>IMAGEMATRIX</String>
+        <String>IMAGETYPE 1 DEF</String>
+        <String>INGS</String>
+        <String>INVERT</String>
+        <String>LANGUAGELEVEL KNOWN</String>
+        <String>LEVEL2</String>
+        <String>OVER</String>
+        <String>POP D</String>
+        <String>POP S</String>
+        <String>POP}</String>
+        <String>PRINT</String>
+        <String>PROCESSCOLORS</String>
+        <String>PS-ADOBE-3.0 EPSF-3.0</String>
+        <String>R GET DEF</String>
+        <String>R SYSTEMDICT</String>
+        <String>ROLL</String>
+        <String>SCALE</String>
+        <String>SETCOLORSPACE</String>
+        <String>SETGRAY GET DEF</String>
+        <String>SETTRANSFER</String>
+        <String>STAT</String>
+        <String>STRING DEF</String>
+        <String>TRAILER</String>
+        <String>UNDEF</String>
+        <String>UUUU</String>
+        <String>VERSION C</String>
+        <String>WHERE</String>
+        <String>WIDTH</String>
+        <String>_CURRENT</String>
+        <String>_IMAGE</String>
+        <String>_SET</String>
+    </GlobalStrings>
+</TrID>

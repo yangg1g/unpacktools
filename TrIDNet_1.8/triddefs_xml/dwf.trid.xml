@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Autodesk Design Web Format</FileType>
+		<Ext>DWF</Ext>
+		<ExtraInfo>
+			<Rem>DWF is file format especially suited to distribuite and publish design data.</Rem>
+			<RefURL>http://www.autodesk.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>44</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>284457462056</Bytes>
+			<ASCII> ( D W F   V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>29</Bytes>
+			<ASCII> )</ASCII>
+			<Pos>11</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

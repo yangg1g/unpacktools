@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Rock Band multi track music</FileType>
+		<Ext>MOGG</Ext>
+		<ExtraInfo>
+			<Rem>A container for several Ogg streams.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Rock_Band_(video_game)</RefURL>
+		</ExtraInfo>
+		<User>FROG33R</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<Refine>16 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>10</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>31</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0A000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>XIPH.ORG LIBVORBIS</String>
+		<String>OGGS</String>
+	</GlobalStrings>
+</TrID>

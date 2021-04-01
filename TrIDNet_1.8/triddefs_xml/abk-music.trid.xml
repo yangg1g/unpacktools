@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AMOS Music Bank</FileType>
+		<Ext>ABK</Ext>
+		<ExtraInfo>
+			<Rem>Tracker-like music player created by Francois Lionet for his AMOS Basic programming language. AMOS comes with programs for converting tracker and Sonix music to the AMOS format.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/AMOS_(programming_language)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail..com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>09</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>416D426B</Bytes>
+			<ASCII> A m B k</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D75736963</Bytes>
+			<ASCII> M u s i c</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

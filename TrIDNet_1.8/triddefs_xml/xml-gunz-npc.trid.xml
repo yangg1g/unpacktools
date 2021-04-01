@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Gunz Online NPC model</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.gunzonline.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>07</Min>
+			<Sec>08</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>22</Bytes>
+			<ASCII> "</ASCII>
+			<Pos>29</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>_DAMAGE_LIGHTNING.ELU.ANI</String>
+		<String>_DAMAGE_MELEE.ELU.ANI</String>
+		<String>_DAMAGE_RANGE.ELU.ANI</String>
+		<String>ADDBASEMODEL NAME</String>
+		<String>ADDANIMATION NAME</String>
+		<String>MOTION_LOOP_TYPE</String>
+		<String>_NEGLECT.ELU.ANI</String>
+		<String>MAKEANIMATIONMAP</String>
+		<String>RANGE_ATTACKED</String>
+		<String>MELEE_ATTACKED</String>
+		<String>_IDLE.ELU.ANI</String>
+		<String>XML VERSION</String>
+		<String>MOTION_TYPE</String>
+		<String>NPCMODEL</String>
+		<String>ENCODING</String>
+		<String>FILENAME</String>
+	</GlobalStrings>
+</TrID>

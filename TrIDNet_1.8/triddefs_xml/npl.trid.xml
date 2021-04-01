@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Xilinx Integrated Software Environment Project</FileType>
+		<Ext>NPL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.xilinx.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>21</FileNum>
+		<Refine>7 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>8</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>15</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4A444620</Bytes>
+			<ASCII> J D F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2F</Bytes>
+			<ASCII> /</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CREATED BY</String>
+		<String>PROJECT</String>
+		<String>VER 1.0</String>
+		<String>DESIGN</String>
+		<String>MODULE</String>
+		<String>RATE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,72 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AddOn Studio for Word of Warcraft Project</FileType>
+		<Ext>WOWPROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://addonstudio.codeplex.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>7</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>58</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C50726F6A6563742044656661756C74546172676574733D22</Bytes>
+			<ASCII> . . . . P r o j e c t   D e f a u l t T a r g e t s = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>$(MSBUILDEXTENSIONSPATH)</String>
+		<String>CONFIGURATION CONDITION</String>
+		<String>PROPERTYGROUP CONDITION</String>
+		<String>PROJECT DEFAULTTARGETS</String>
+		<String>WOWADDONSTUDIO.TARGETS</String>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>$(CONFIGURATION)</String>
+		<String>CONTENT INCLUDE</String>
+		<String>TABLEOFCONTENTS</String>
+		<String>IMPORT PROJECT</String>
+		<String>BEFOREREBUILD</String>
+		<String>DEPENDENTUPON</String>
+		<String>ROOTNAMESPACE</String>
+		<String>SCHEMAVERSION</String>
+		<String>AFTERREBUILD</String>
+		<String>ASSEMBLYNAME</String>
+		<String>BEFOREDEPLOY</String>
+		<String>AFTERDEPLOY</String>
+		<String>BEFORECLEAN</String>
+		<String>PROJECTGUID</String>
+		<String>TARGET NAME</String>
+		<String>ADDONTITLE</String>
+		<String>AFTERCLEAN</String>
+		<String>OUTPUTPATH</String>
+		<String>DEVELOPER</String>
+		<String>FRAME.LUA</String>
+		<String>FRAME.XML</String>
+		<String>ITEMGROUP</String>
+		<String>SUBTYPE</String>
+		<String>WOWPATH</String>
+		<String>XMLNS</String>
+		<String>.TOC</String>
+		<String>2003</String>
+		<String>CODE</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

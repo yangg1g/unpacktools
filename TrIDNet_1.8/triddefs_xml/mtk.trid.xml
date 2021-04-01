@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MPU-401 trakker module</FileType>
+		<Ext>MTK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.adlibtracker.net</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>9</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>34</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6D70753430317472926B6BEE724064617461</Bytes>
+			<ASCII> m p u 4 0 1 t r . k k . r @ d a t a</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

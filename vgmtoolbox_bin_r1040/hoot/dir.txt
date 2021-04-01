@@ -1,0 +1,2 @@
+﻿Hoot XML will output here.
+Hoot Collection Auditor information will also output here.

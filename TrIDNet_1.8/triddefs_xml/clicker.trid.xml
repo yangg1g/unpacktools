@@ -1,0 +1,162 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Crick Software Clicker File</FileType>
+		<Ext>CLKX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cricksoft.com/uk/products/clicker</RefURL>
+		</ExtraInfo>
+		<User>Andrew Burt</User>
+		<E-Mail>andrewburt at cricksoft dot com</E-Mail>
+		<Home>http://www.cricksoft.com/</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>03</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>27</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D38223F3E0D0A3C637269636B677269643E0D0A20203C63693A637269636B696E666F2076657273696F6E3D22312220786D6C6E733A63693D22687474703A2F2F7777772E637269636B736F66742E636F6D2F736368656D61732F66696C652F637269636B696E666F2E787364223E0D0A202020203C63693A746172676574617070206E616D653D22436C69636B657222202F3E0D0A202020203C63693A617574686F72617070206E616D653D22436C69636B65722035222076657273696F6E3D22</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 " ? . . . . c r i c k g r i d . . .     . c i : c r i c k i n f o   v e r s i o n = " 1 "   x m l n s : c i = " h t t p : / / w w w . c r i c k s o f t . c o m / s c h e m a s / f i l e / c r i c k i n f o . x s d " . . .         . c i : t a r g e t a p p   n a m e = " C l i c k e r "   / . . .         . c i : a u t h o r a p p   n a m e = " C l i c k e r   5 "   v e r s i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>00000000-0000-0000-0000-000000000238</String>
+		<String>SPELLING ADDWORDSTOSPELLCHECKER</String>
+		<String>AUTOCORRECT CAPITALIZENAMES</String>
+		<String>INSTANTPICTURES.INCELLS</String>
+		<String>SHOWPIXINSPELLCHECKER</String>
+		<String>OTHERGROUP SIMPLESCAN</String>
+		<String>INSTANTPICSASYOUTYPE</String>
+		<String>CLICKER WRITER TOOLS</String>
+		<String>UNDERLINEMISPELLING</String>
+		<String>CRICKDATA STARTGRID</String>
+		<String>CAPITALIZESENTENCES</String>
+		<String>DETAILS FILEVERSION</String>
+		<String>CLICKER GRID TOOLS</String>
+		<String>SPEECH SPEAKLETTER</String>
+		<String>LIBRARIES PICORDER</String>
+		<String>BACKGROUND PATTERN</String>
+		<String>ASPECTRATIOLOCKED</String>
+		<String>BACKGROUND TILING</String>
+		<String>CRICKINFO VERSION</String>
+		<String>WWW.CRICKSOFT.COM</String>
+		<String>DISABLENONACTIVE</String>
+		<String>TOOLSGROUP NAME</String>
+		<String>INCLUDEONEXPORT</String>
+		<String>AUTHORAPP NAME</String>
+		<String>ROOTGROUP NAME</String>
+		<String>TARGETAPP NAME</String>
+		<String>NAMEDGRID GRID</String>
+		<String>INSTANTPICSIZE</String>
+		<String>CORRECTACCENTS</String>
+		<String>SCANWITHPARENT</String>
+		<String>TEXTBACKGROUND</String>
+		<String>HIGHLIGHTCOLOR</String>
+		<String>INCLUDEONPRINT</String>
+		<String>SPEAKSENTENCE</String>
+		<String>SHAPE MARGINH</String>
+		<String>HIDDENONPRINT</String>
+		<String>PICDATA STATE</String>
+		<String>CRICKINFO.XSD</String>
+		<String>POINTER NAME</String>
+		<String>BUILDVERSION</String>
+		<String>SPACING LOCK</String>
+		<String>SPEAKONCLICK</String>
+		<String>LANG ACTORID</String>
+		<String>DATEMODIFIED</String>
+		<String>TRANSPARENCY</String>
+		<String>WRITERTOOLS</String>
+		<String>DESCRIPTION</String>
+		<String>SCAN GROUPS</String>
+		<String>TRANSPARENT</String>
+		<String>PROPORTIONV</String>
+		<String>XML VERSION</String>
+		<String>BORDER SIZE</String>
+		<String>_POPUPGRIDS</String>
+		<String>DATECREATED</String>
+		<String>MARGINUNITS</String>
+		<String>SEQUENCE ID</String>
+		<String>FONT FAMILY</String>
+		<String>LINESPACING</String>
+		<String>LANGUAGE ID</String>
+		<String>SHOWTEXTURE</String>
+		<String>SOUNDSEARCH</String>
+		<String>ADJUSTMENT</String>
+		<String>SHOWBORDER</String>
+		<String>_TEMPLATES</String>
+		<String>SOUNDORDER</String>
+		<String>AUTOREPEAT</String>
+		<String>IMAGEALIGN</String>
+		<String>REPLACEDOC</String>
+		<String>PICSEARCH</String>
+		<String>FONT NAME</String>
+		<String>CRICKGRID</String>
+		<String>GRIDUNITS</String>
+		<String>WRITER ID</String>
+		<String>GRIDTOOLS</String>
+		<String>CLICKER 5</String>
+		<String>BACKCOLOR</String>
+		<String>TOOLBARID</String>
+		<String>TEXTALIGN</String>
+		<String>ROWCOLUMN</String>
+		<String>LANGUAGES</String>
+		<String>SHOWIMAGE</String>
+		<String>SPEAKWORD</String>
+		<String>SORTALPHA</String>
+		<String>VOICE ID</String>
+		<String>_DEFAULT</String>
+		<String>SNDL OPT</String>
+		<String>CRICKPIX</String>
+		<String>DISABLED</String>
+		<String>ADDSPACE</String>
+		<String>ACTOR ID</String>
+		<String>PLATFORM</String>
+		<String>SEND OPT</String>
+		<String>SNDR OPT</String>
+		<String>ENCODING</String>
+		<String>ISO639-1</String>
+		<String>OPT NAME</String>
+		<String>ISO639-2</String>
+		<String>SNDO OPT</String>
+		<String>MARGINV</String>
+		<String>STRETCH</String>
+		<String>CELL ID</String>
+		<String>ENGLISH</String>
+		<String>REGULAR</String>
+		<String>LIBRARY</String>
+		<String>ORDERED</String>
+		<String>BALANCE</String>
+		<String>OPTIONS</String>
+		<String>SCHEMAS</String>
+		<String>GRID ID</String>
+		<String>TOOLTIP</String>
+		<String>PRESSED</String>
+		<String>FEMALE</String>
+		<String>GENDER</String>
+		<String>PIC ID</String>
+		<String>ACTORS</String>
+		<String>NORMAL</String>
+		<String>HEIGHT</String>
+		<String>EDITOR</String>
+		<String>{CELL.</String>
+		<String>WIN32</String>
+		<String>STYLE</String>
+		<String>RIGHT</String>
+		<String>SPEED</String>
+		<String>UTF-8</String>
+		<String>LUCY</String>
+	</GlobalStrings>
+</TrID>

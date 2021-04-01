@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PLC Data</FileType>
+		<Ext>VD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>04</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>07</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504C4320446174612046696C652E</Bytes>
+			<ASCII> P L C   D a t a   F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

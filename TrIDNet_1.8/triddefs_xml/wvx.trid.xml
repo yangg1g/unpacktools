@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Media redirector / shortcut</FileType>
+		<Ext>WVX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>48</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B5265666572656E63655D0D</Bytes>
+			<ASCII> [ R e f e r e n c e ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>REFERENCE</String>
+		<String>HTTP</String>
+		<String>REF1</String>
+	</GlobalStrings>
+</TrID>

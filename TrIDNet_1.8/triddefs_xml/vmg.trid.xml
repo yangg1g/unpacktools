@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Saved SMS</FileType>
+		<Ext>VMG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>19</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>424547494E3A564D5347</Bytes>
+			<ASCII> B E G I N : V M S G</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VERSION</String>
+		<String>VBODY</String>
+		<String>BEGIN</String>
+		<String>VMSG</String>
+		<String>VENV</String>
+	</GlobalStrings>
+</TrID>

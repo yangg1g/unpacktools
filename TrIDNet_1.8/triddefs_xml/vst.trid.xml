@@ -1,0 +1,62 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Visio Template</FileType>
+		<Ext>VST</Ext>
+		<ExtraInfo>
+			<Rem>Visio is the business and technical diagramming program of the Microsoft Office suite.</Rem>
+			<RefURL>http://www.microsoft.com/office/visio</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>17</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>56006900730069006F0044006F00630075006D0065006E0074</Bytes>
+			<ASCII> V . i . s . i . o . D . o . c . u . m . e . n . t</ASCII>
+			<Pos>1664</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>530075006D006D0061007200790049006E0066006F0072006D006100740069006F006E</Bytes>
+			<ASCII> S . u . m . m . a . r . y . I . n . f . o . r . m . a . t . i . o . n</ASCII>
+			<Pos>1794</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>44006F00630075006D0065006E007400530075006D006D0061007200790049006E0066006F0072006D006100740069006F006E</Bytes>
+			<ASCII> D . o . c . u . m . e . n . t . S . u . m . m . a . r . y . I . n . f . o . r . m . a . t . i . o . n</ASCII>
+			<Pos>1922</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>D'O'C'U'M'E'N'T'S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N'''''''''''8</String>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N'''''''''''''''''''''''''''(</String>
+		<String>V'I'S'I'O'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>V'I'S'I'O'D'O'C'U'M'E'N'T</String>
+		<String>_VPID_ALTERNATENAMES</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>VISIO (TM) DRAWING</String>
+		<String>_PID_LINKBASE</String>
+		<String>MICROSOFT</String>
+		<String>TEMPLATE</String>
+		<String>PAGES</String>
+	</GlobalStrings>
+</TrID>

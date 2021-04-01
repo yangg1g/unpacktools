@@ -1,0 +1,64 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Rockwell Logix 500 SLC-5 Software</FileType>
+		<Ext>RSS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.rockwellautomation.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>36</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>D'A'T'A'L'O'G'G'I'N'G' 'C'O'N'F'I'G'U'R'A'T'I'O'N</String>
+		<String>C'H'A'N'N'E'L' 'C'O'N'F'I'G'U'R'A'T'I'O'N</String>
+		<String>C'U'S'T'O'M' 'D'A'T'A' 'M'O'N'I'T'O'R'S</String>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>R'E'P'O'R'T'O'P'T'I'O'N'S'E'T'U'P</String>
+		<String>I'O' 'C'O'N'F'I'G'U'R'A'T'I'O'N</String>
+		<String>A'P'P'L'I'C'A'T'I'O'N'H'E'L'P</String>
+		<String>R'E'V'I'S'I'O'N' 'N'O'T'E'S</String>
+		<String>R'E'P'O'R'T' 'O'P'T'I'O'N'S</String>
+		<String>P'R'O'G'R'A'M' 'F'I'L'E'S</String>
+		<String>G'R'A'P'I'C' 'F'I'L'E'S</String>
+		<String>M'E'M' 'D'A'T'A'B'A'S'E</String>
+		<String>R'E'C'I'P'E' 'F'I'L'E'S</String>
+		<String>O'B'J'E'C'T'D'A'T'A</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>R'C'P' 'H'O'L'D'E'R</String>
+		<String>D'A'T'A' 'F'I'L'E'S</String>
+		<String>W'O'R'K'S'P'A'C'E</String>
+		<String>P'R'O'C'E'S'S'O'R</String>
+		<String>C'O'M'P'I'L'E'R</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>CCHANNELCONFIG</String>
+		<String>CREPORTOPTIONS</String>
+		<String>C'O'N'T'R'O'L</String>
+		<String>RSLOGIX</String>
+		<String>CPC5OPTIONS</String>
+		<String>T'R'E'N'D'S</String>
+		<String>CIOINFO</String>
+		<String>CPROC</String>
+	</GlobalStrings>
+</TrID>

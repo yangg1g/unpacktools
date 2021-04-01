@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>European Data Format</FileType>
+		<Ext>EDF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.edfplus.info/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>12</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>2</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3020202020202020</Bytes>
+			<ASCII> 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>170</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>173</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>178</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>181</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,74 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DeleD scene</FileType>
+		<Ext>DXS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.delgine.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>46</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C7363656E652076657273696F6E3D22</Bytes>
+			<ASCII> . s c e n e   v e r s i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>17</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RECEIVESHADOWS</String>
+		<String>CATEGORY NAME</String>
+		<String>SCENE VERSION</String>
+		<String>SETTINGS NAME</String>
+		<String>SHADOWOPACITY</String>
+		<String>PRIMITIVE ID</String>
+		<String>TEXTURE FILE</String>
+		<String>CASTSHADOWS</String>
+		<String>MATERIAL ID</String>
+		<String>LAYER TYPE</String>
+		<String>PRIMITIVES</String>
+		<String>VERTEX VID</String>
+		<String>AMBIENT R</String>
+		<String>MATERIALS</String>
+		<String>VERTEX ID</String>
+		<String>COMMENTS</String>
+		<String>LIGHTMAP</String>
+		<String>POLY MID</String>
+		<String>POLYGONS</String>
+		<String>VERTICES</String>
+		<String>DIFFUSE</String>
+		<String>REPLACE</String>
+		<String>VISIBLE</String>
+		<String>AUTHOR</String>
+		<String>AUTOUV</String>
+		<String>LIGHTS</String>
+		<String>SYSTEM</String>
+		<String>BLEND</String>
+		<String>FALSE</String>
+		<String>SNAP</String>
+		<String>TRUE</String>
+		<String>USED</String>
+		<String>USER</String>
+	</GlobalStrings>
+</TrID>

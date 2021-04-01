@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GIF animated bitmap</FileType>
+		<Ext>GIF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.onicos.com/staff/iz/formats/gif.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>1 by Marco Pontello - 1 by Marco Pontello - 1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>01</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>25</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>474946383961</Bytes>
+			<ASCII> G I F 8 9 a</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NETSCAPE2.0</String>
+		<String>GIF89A</String>
+	</GlobalStrings>
+</TrID>

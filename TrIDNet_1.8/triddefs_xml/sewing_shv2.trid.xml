@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Viking embroidery data disk</FileType>
+		<Ext>SHV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>www.vikingsewing.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>27</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>456D62726F6964657279206469736B2063726561746564207573696E6720736F667477617265206C6963656E7365642066726F6D2056696B696E6720536577696E67204D616368696E65732041422C2053776564656E</Bytes>
+			<ASCII> E m b r o i d e r y   d i s k   c r e a t e d   u s i n g   s o f t w a r e   l i c e n s e d   f r o m   V i k i n g   S e w i n g   M a c h i n e s   A B ,   S w e d e n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

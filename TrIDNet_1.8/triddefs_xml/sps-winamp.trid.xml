@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Winamp Signal Processing Studio DSP-Effect</FileType>
+		<Ext>SPS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.winamp.com/plugins/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>01</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>41</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B535053205052455345545D0D0A</Bytes>
+			<ASCII> [ S P S   P R E S E T ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CODE0_DATA</String>
+		<String>CODE0_SIZE</String>
+		<String>LABELS_</String>
+		<String>SLIDER</String>
+	</GlobalStrings>
+</TrID>

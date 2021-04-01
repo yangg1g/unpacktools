@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SeeYou Waypoint</FileType>
+		<Ext>NDB</Ext>
+		<ExtraInfo>
+			<Rem>SeeYou is a planning and analysis tool for glider pilots.</Rem>
+			<RefURL>http://www.seeyou.ws/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>03</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>12</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2120494C454320</Bytes>
+			<ASCII> ! 	I L E C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

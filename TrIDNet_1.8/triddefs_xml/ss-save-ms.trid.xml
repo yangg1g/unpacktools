@@ -1,0 +1,75 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Spider Solitaire Saved game</FileType>
+		<Ext>SPIDERSOLITAIRESAVE-MS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>1</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>4</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52474D48010000002820</Bytes>
+			<ASCII> R G M H . . . . (</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'P'I'D'E'R' 'S'O'L'I'T'A'I'R'E'.'S'P'I'D'E'R'S'O'L'I'T'A'I'R'E'S'A'V'E'-'M'S</String>
+		<String>N'U'M'E'N'D'C'A'R'D'S'S'P'A'C'E'D</String>
+		<String>E'I'G'H'T'O'F'S'P'A'D'E'S</String>
+		<String>Q'U'E'E'N'O'F'S'P'A'D'E'S</String>
+		<String>S'E'V'E'N'O'F'S'P'A'D'E'S</String>
+		<String>T'H'R'E'E'O'F'S'P'A'D'E'S</String>
+		<String>F'I'V'E'O'F'S'P'A'D'E'S</String>
+		<String>F'O'U'R'O'F'S'P'A'D'E'S</String>
+		<String>J'A'C'K'O'F'S'P'A'D'E'S</String>
+		<String>K'I'N'G'O'F'S'P'A'D'E'S</String>
+		<String>N'I'N'E'O'F'S'P'A'D'E'S</String>
+		<String>A'C'E'O'F'S'P'A'D'E'S</String>
+		<String>S'I'X'O'F'S'P'A'D'E'S</String>
+		<String>T'E'N'O'F'S'P'A'D'E'S</String>
+		<String>T'W'O'O'F'S'P'A'D'E'S</String>
+		<String>C'A'R'D'S'T'A'C'K'S</String>
+		<String>C'A'R'D'T'A'B'L'E</String>
+		<String>D'I'R'E'C'T'I'O'N</String>
+		<String>G'A'M'E'S'T'A'T'E</String>
+		<String>C'O'M'P'L'E'T'E</String>
+		<String>G'A'M'E'S'E'E'D</String>
+		<String>E'N'A'B'L'E'D</String>
+		<String>S'T'A'C'K'1'0</String>
+		<String>V'E'R'S'I'O'N</String>
+		<String>F'A'C'E'U'P</String>
+		<String>F'A'L'S'E</String>
+		<String>M'O'V'E'S</String>
+		<String>S'C'O'R'E</String>
+		<String>D'E'C'K</String>
+		<String>N'A'M'E</String>
+		<String>R'O'O'T</String>
+		<String>T'R'U'E</String>
+		<String>T'Y'P'E</String>
+		<String>IDATX</String>
+		<String>IEND</String>
+		<String>IHDR</String>
+		<String>PHYS</String>
+		<String>RGMH</String>
+	</GlobalStrings>
+</TrID>

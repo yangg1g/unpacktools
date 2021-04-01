@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Nord Modular G2 Patch</FileType>
+		<Ext>PCH2</Ext>
+		<ExtraInfo>
+			<Rem>Nord Modular G2 is a synth by Clavia.</Rem>
+			<RefURL>http://www.clavia.se/G2/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>314</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>01</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>19</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>56657273696F6E3D4E6F7264204D6F64756C61722047322046696C6520466F726D617420310D0A547970653D50617463680D0A56657273696F6E3D</Bytes>
+			<ASCII> V e r s i o n = N o r d   M o d u l a r   G 2   F i l e   F o r m a t   1 . . T y p e = P a t c h . . V e r s i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>496E666F3D4255494C4420</Bytes>
+			<ASCII> I n f o = B U I L D</ASCII>
+			<Pos>63</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NORD MODULAR G2 FILE FORMAT 1</String>
+		<String>VERSION</String>
+		<String>BUILD</String>
+		<String>PATCH</String>
+		<String>INFO</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

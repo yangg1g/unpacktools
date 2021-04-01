@@ -1,0 +1,85 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Oxygene Project</FileType>
+		<Ext>OXYGENE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.remobjects.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>36</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C50726F6A6563742044656661756C74546172676574733D224275696C642220786D6C6E733D22687474703A2F2F736368656D61732E6D6963726F736F66742E636F6D2F646576656C6F7065722F6D736275696C642F323030332220546F6F6C7356657273696F6E3D22332E35223E0D0A20203C50726F706572747947726F75703E0D0A202020203C</Bytes>
+			<ASCII> . P r o j e c t   D e f a u l t T a r g e t s = " B u i l d "   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / d e v e l o p e r / m s b u i l d / 2 0 0 3 "   T o o l s V e r s i o n = " 3 . 5 " . . .     . P r o p e r t y G r o u p</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SETTINGSSINGLEFILEGENERATOR</String>
+		<String>REMOBJECTS.OXYGENE.TARGETS</String>
+		<String>$(MSBUILDEXTENSIONSPATH)</String>
+		<String>EMBEDDEDRESOURCE INCLUDE</String>
+		<String>CONFIGURATION CONDITION</String>
+		<String>PROPERTYGROUP CONDITION</String>
+		<String>PROJECT DEFAULTTARGETS</String>
+		<String>RESOURCES.DESIGNER.PAS</String>
+		<String>TARGETFRAMEWORKVERSION</String>
+		<String>RESXFILECODEGENERATOR</String>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>SETTINGS.DESIGNER.PAS</String>
+		<String>ALLOWLEGACYOUTPARAMS</String>
+		<String>REMOBJECTS SOFTWARE</String>
+		<String>ALLOWLEGACYCREATE</String>
+		<String>REFERENCE INCLUDE</String>
+		<String>SETTINGS.SETTINGS</String>
+		<String>$(CONFIGURATION)</String>
+		<String>ASSEMBLYINFO.PAS</String>
+		<String>COMPILE INCLUDE</String>
+		<String>DEFINECONSTANTS</String>
+		<String>IMPORT PROJECT</String>
+		<String>RESOURCES.RESX</String>
+		<String>ENABLEASSERTS</String>
+		<String>ROOTNAMESPACE</String>
+		<String>ALLOWGLOBALS</String>
+		<String>ASSEMBLYNAME</String>
+		<String>NONE INCLUDE</String>
+		<String>TOOLSVERSION</String>
+		<String>GENERATEMDB</String>
+		<String>GENERATEPDB</String>
+		<String>OUTPUTPATH</String>
+		<String>OUTPUTTYPE</String>
+		<String>PROPERTIES</String>
+		<String>DEVELOPER</String>
+		<String>ITEMGROUP</String>
+		<String>HINTPATH</String>
+		<String>MSCORLIB</String>
+		<String>RELEASE</String>
+		<String>SYSTEM</String>
+		<String>DEBUG</String>
+		<String>FALSE</String>
+		<String>TRACE</String>
+		<String>XMLNS</String>
+		<String>.DLL</String>
+		<String>2003</String>
+		<String>HTTP</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

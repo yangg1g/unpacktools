@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Claris Draw document</FileType>
+		<Ext>CDD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Claris</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>13</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>01</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0045585057</Bytes>
+			<ASCII> . E X P W</ASCII>
+			<Pos>3</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CORRECTION</String>
+		<String>IMPORTANT</String>
+		<String>URGENT</String>
+		<String>DSET</String>
+		<String>NOTE</String>
+		<String>TEXT</String>
+		<String>FNTM</String>
+		<String>EXPW</String>
+	</GlobalStrings>
+</TrID>

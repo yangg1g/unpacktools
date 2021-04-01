@@ -1,0 +1,72 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VisualBasic Project (Control)</FileType>
+		<Ext>VBP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Visual_Basic</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>01</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>51</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>547970653D436F6E74726F6C</Bytes>
+			<ASCII> T y p e = C o n t r o l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>G{00020430-0000-0000-C000-000000000046}</String>
+		<String>FAVORPENTIUMPRO(TM)</String>
+		<String>SERVERSUPPORTFILES</String>
+		<String>MAXNUMBEROFTHREADS</String>
+		<String>CODEVIEWDEBUGINFO</String>
+		<String>AUTOINCREMENTVER</String>
+		<String>OPTIMIZATIONTYPE</String>
+		<String>THREADPEROBJECT</String>
+		<String>COMPILATIONTYPE</String>
+		<String>OLE AUTOMATION</String>
+		<String>COMPATIBLEMODE</String>
+		<String>HELPCONTEXTID</String>
+		<String>OVERFLOWCHECK</String>
+		<String>FLPOINTCHECK</String>
+		<String>REVISIONVER</String>
+		<String>UNROUNDEDFP</String>
+		<String>STDOLE2.TLB</String>
+		<String>BOUNDSCHECK</String>
+		<String>USERCONTROL</String>
+		<String>NOALIASING</String>
+		<String>UNATTENDED</String>
+		<String>REFERENCE</String>
+		<String>FDIVCHECK</String>
+		<String>COMMAND32</String>
+		<String>STARTMODE</String>
+		<String>HELPFILE</String>
+		<String>SYSTEM32</String>
+		<String>MINORVER</String>
+		<String>MAJORVER</String>
+		<String>STARTUP</String>
+		<String>(NONE)</String>
+		<String>PTION</String>
+		<String>NAME</String>
+		<String>.CTL</String>
+	</GlobalStrings>
+</TrID>

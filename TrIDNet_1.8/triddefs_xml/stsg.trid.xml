@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SuperTux Saved Game</FileType>
+		<Ext>STSG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/SuperTux</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>29</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2873757065727475782D7361766567616D650A20202876657273696F6E2031290A</Bytes>
+			<ASCII> ( s u p e r t u x - s a v e g a m e .     ( v e r s i o n   1 )</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>(SUPERTUX-SAVEGAME</String>
+		<String>(VERSION 1)</String>
+		<String>LEVELS</String>
+		<String>BONUS</String>
+		<String>SCORE</String>
+		<String>TITLE</String>
+		<String>(TUX</String>
+		<String>BACK</String>
+		<String>NONE</String>
+	</GlobalStrings>
+</TrID>

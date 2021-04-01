@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Code::Blocks Dependencies</FileType>
+		<Ext>DEPEND</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Code::Blocks</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Refine>6 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>1</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>4</Hour>
+			<Min>3</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2320646570736C696220646570656E64656E63792066696C652076312E30</Bytes>
+			<ASCII> #   d e p s l i b   d e p e n d e n c y   f i l e   v 1 . 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DEPSLIB DEPENDENCY FILE</String>
+		<String>SOURCE</String>
+	</GlobalStrings>
+</TrID>

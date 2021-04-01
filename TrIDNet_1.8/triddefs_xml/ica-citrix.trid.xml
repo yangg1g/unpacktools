@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Citrix Independent Computer Architecture</FileType>
+		<Ext>ICA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.dabcc.com/nfuse/Docs/ica_file_explained.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>32</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B</Bytes>
+			<ASCII> [</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>APPLICATIONSERVERS</String>
+		<String>TRANSPORTDRIVER</String>
+		<String>WFCLIENT</String>
+		<String>ADDRESS</String>
+		<String>PROGRAM</String>
+		<String>LPRO</String>
+		<String>WINS</String>
+	</GlobalStrings>
+</TrID>

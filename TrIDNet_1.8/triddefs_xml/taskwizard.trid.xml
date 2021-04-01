@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Exchange Task Wizard XML</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://msdn.microsoft.com/en-us/library/aa125983(EXCHG.65).aspx</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>12</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3C003F0078006D006C002000760065007200730069006F006E003D00220031002E0030002200200065006E0063006F00640069006E0067003D00220075006E00690063006F00640065002200</Bytes>
+			<ASCII> . . . . ? . x . m . l .   . v . e . r . s . i . o . n . = . " . 1 . . . 0 . " .   . e . n . c . o . d . i . n . g . = . " . u . n . i . c . o . d . e . "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>C'O'M'P'L'E'T'E'D'C'O'U'N'T</String>
+		<String>T'A'S'K'W'I'Z'A'R'D'R'U'N</String>
+		<String>W'A'R'N'I'N'G'C'O'U'N'T</String>
+		<String>M'I'L'L'I'S'E'C'O'N'D'S</String>
+		<String>B'U'I'L'D'N'U'M'B'E'R</String>
+		<String>X'M'L' 'V'E'R'S'I'O'N</String>
+		<String>T'A'S'K'S'U'M'M'A'R'Y</String>
+		<String>E'R'R'O'R'C'O'U'N'T</String>
+		<String>E'R'R'O'R'C'O'D'E</String>
+		<String>S'T'A'R'T'T'I'M'E</String>
+		<String>R'U'N'N'I'N'G'A'S</String>
+		<String>I'S'W'A'R'N'I'N'G</String>
+		<String>P'R'O'G'R'E'S'S</String>
+		<String>T'I'M'E'S'P'A'N</String>
+		<String>E'N'C'O'D'I'N'G</String>
+		<String>T'A'S'K'N'A'M'E</String>
+		<String>M'A'I'L'B'O'X</String>
+		<String>U'N'I'C'O'D'E</String>
+		<String>A'D'S'P'A'T'H</String>
+		<String>D'C'N'A'M'E</String>
+		<String>C'L'A'S'S</String>
+		<String>I'T'E'M'S</String>
+		<String>.'C'O'M</String>
+		<String>U'S'E'R</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PRO100 Furniture design project</FileType>
+		<Ext>STO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.pro100.eu/</RefURL>
+		</ExtraInfo>
+		<User>Stas Resenchuk</User>
+		<E-Mail>jokerRS@gmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>632</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>07</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>44</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2A443F03</Bytes>
+			<ASCII> * D ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

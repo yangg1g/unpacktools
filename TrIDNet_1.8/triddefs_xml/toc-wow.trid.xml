@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>World of Warcraft TOC file</FileType>
+		<Ext>TOC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.wowwiki.com/.toc</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>39</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>30</Bytes>
+			<ASCII> 0</ASCII>
+			<Pos>18</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>INTERFACE</String>
+		<String>VERSION</String>
+		<String>TITLE</String>
+		<String>NOTES</String>
+		<String>DEPS</String>
+		<String>.LUA</String>
+	</GlobalStrings>
+</TrID>

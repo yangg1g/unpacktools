@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Touhou Danmakufu script</FileType>
+		<Ext>DNH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>10</Min>
+			<Sec>0</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23546F75686F7544616E6D616B7566750D0A235469746C655B</Bytes>
+			<ASCII> # T o u h o u D a n m a k u f u . . # T i t l e [</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

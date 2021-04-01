@@ -1,0 +1,41 @@
+<TrID ver="1.15">
+	<Info>
+		<FileType>Borland Turbo Pascal 7.0 compiled Unit</FileType>
+		<Ext>TPU</Ext>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<Date>
+			<Year>2003</Year>
+			<Month>6</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>54</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan v0.54b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5450555100000000E2006000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>47</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000000000000000000000000000000000000000000000000000000000007E00</Bytes>
+			<Pos>54</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000053</Bytes>
+			<Pos>226</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

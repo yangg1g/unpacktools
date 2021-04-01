@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PCsync for Windows</FileType>
+		<Ext>TWF</Ext>
+		<ExtraInfo>
+			<Rem>PCsync is a management tool for Casio Pocket Viewer and Business Navigator</Rem>
+			<RefURL>http://www.pcsyncpro.de/e_home.asp</RefURL>
+		</ExtraInfo>
+		<User>D@rkPhoenix</User>
+		<E-Mail>Phoenix.Fire[remove_me!]@web.de</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>06</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>36</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5357E6E7E7E7</Bytes>
+			<ASCII> S W</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>C2BE828B8B88</Bytes>
+			<Pos>17</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

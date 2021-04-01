@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ProSpace schematic</FileType>
+		<Ext>PSA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>07</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>06</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50524F535041434520534348454D415449432046494C450D0A3B2056657273696F6E20</Bytes>
+			<ASCII> P R O S P A C E   S C H E M A T I C   F I L E . . ;   V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

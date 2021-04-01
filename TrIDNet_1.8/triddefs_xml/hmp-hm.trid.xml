@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Help Magician Project</FileType>
+		<Ext>HMP</Ext>
+		<ExtraInfo>
+			<Rem>Help authoring software for Windows.</Rem>
+			<RefURL>http://www.sinterphase.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>16</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>484D2050726F6A6563742046696C652076</Bytes>
+			<ASCII> H M   P r o j e c t   F i l e   v</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Power 64 RAM Snapshot</FileType>
+        <Ext></Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>2</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </Date>
+        <Time>
+            <Hour>16</Hour>
+            <Min>26</Min>
+            <Sec>33</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.2b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>43424D640000</Bytes>
+            <ASCII> C B M d</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

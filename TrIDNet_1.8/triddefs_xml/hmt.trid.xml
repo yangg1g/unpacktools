@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HighMAT file</FileType>
+		<Ext>HMT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/HighMAT</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>43</Min>
+			<Sec>02</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>484D5464</Bytes>
+			<ASCII> H M T d</ASCII>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

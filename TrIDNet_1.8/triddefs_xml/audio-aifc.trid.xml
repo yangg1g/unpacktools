@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AIFF-C (Audio Interchange File Format Compressed)</FileType>
+		<Ext>AIFC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.tsp.ece.mcgill.ca/MMSP/Documents/AudioFormats/AIFF/AIFF.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>33</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>464F524D0000</Bytes>
+			<ASCII> F O R M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4149464346564552</Bytes>
+			<ASCII> A I F C F V E R</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

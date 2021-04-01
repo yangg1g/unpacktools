@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DACT (Dynamic Adaptive Compression Tool)</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem>DACT is a compression software by . It attempts to create very efficient compressed files by attempting to use many different algorithms on each block until it finds the best for every block in the file.</Rem>
+			<RefURL>http://www.rkeene.org/oss/dact/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marco@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>44</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>444354C30008</Bytes>
+			<ASCII> D C T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

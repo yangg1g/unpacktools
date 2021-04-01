@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Emu48 keyboard configuration</FileType>
+		<Ext>KML</Ext>
+		<ExtraInfo>
+			<Rem>Emu48 is an emulator for the HP48 and HP49 calculators.</Rem>
+			<RefURL>http://www.hpcalc.org</RefURL>
+		</ExtraInfo>
+		<User>Renan</User>
+		<E-Mail>renan.birck at gmail.com</E-Mail>
+		<Home>http://marreka.no-ip.com</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>11</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>02</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>476C6F62616C0D0A09</Bytes>
+			<ASCII> G l o b a l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>14</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ANNUNCIATOR</String>
+		<String>BACKGROUND</String>
+		<String>BEEP.EXT</String>
+		<String>AUTHOR</String>
+		<String>OFFSET</String>
+		<String>BITMAP</String>
+		<String>BUTTON</String>
+		<String>ROM.48</String>
+		<String>GLOBAL</String>
+		<String>OUTIN</String>
+		<String>DEBUG</String>
+		<String>COLOR</String>
+		<String>PATCH</String>
+		<String>TITLE</String>
+		<String>MODEL</String>
+		<String>.BMP</String>
+		<String>SIZE</String>
+		<String>DOWN</String>
+		<String>ZOOM</String>
+	</GlobalStrings>
+</TrID>

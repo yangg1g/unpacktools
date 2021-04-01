@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Registry Data (Ver. 5.0)</FileType>
+		<Ext>REG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>44</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>57696E646F777320526567697374727920456469746F722056657273696F6E20352E30300D0A</Bytes>
+			<ASCII> W i n d o w s	R e g i s t r y   E d i t o r	V e r s i o n	5 . 0 0 . .</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Leges Motus Map</FileType>
+		<Ext>MAP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://legesmotus.endrift.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>2</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>43</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6E616D6520</Bytes>
+			<ASCII> n a m e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>REVISION</String>
+		<String>HEIGHT</String>
+		<String>METAL_</String>
+		<String>SPAWN</String>
+		<String>WIDTH</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

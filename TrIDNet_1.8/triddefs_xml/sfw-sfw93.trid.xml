@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Seattle FilmWorks / PhotoWorks photo (SFW93)</FileType>
+		<Ext>SFW</Ext>
+		<ExtraInfo>
+			<Rem>Seattle FilmWorks (aka PhotoWorks) SFW93 format image with JPEG SOI/APP0 markers. Might have filetype of .#nn (instead of .sfw), where 'nn' are digits. Please submit examples to e-mail provided.</Rem>
+			<RefURL>http://jonesrh.info/sfw/</RefURL>
+		</ExtraInfo>
+		<User>Richard H. Jones</User>
+		<E-Mail>sfwwhichfmt@-REMOV-jonesrh.info</E-Mail>
+		<Home>http://jonesrh.info/sfw/</Home>
+	</Info>
+	<General>
+		<FileNum>0</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>02</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>08</Hour>
+			<Min>25</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>Richard H. Jones</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5346573933</Bytes>
+			<ASCII> S F W 9 3</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FFD8FFE0</Bytes>
+			<ASCII> . . . .</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

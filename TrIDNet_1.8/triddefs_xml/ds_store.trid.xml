@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mac OS X folder information</FileType>
+		<Ext>DS_STORE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.apple.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>17</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00000001427564310000</Bytes>
+			<ASCII> . . . . B u d 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BUD1</String>
+		<String>DSDB</String>
+	</GlobalStrings>
+</TrID>

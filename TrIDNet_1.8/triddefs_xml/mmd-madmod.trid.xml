@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Madonna Model</FileType>
+		<Ext>MMD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.berkeleymadonna.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>03</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>56</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>014D61646F6E6E614D6F64656CF8</Bytes>
+			<ASCII> . M a d o n n a M o d e l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

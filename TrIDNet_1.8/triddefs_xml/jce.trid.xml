@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>JWPce document</FileType>
+		<Ext>JCE</Ext>
+		<ExtraInfo>
+			<Rem>A free Word Processor for Japanese.</Rem>
+			<RefURL>http://www.physics.ucla.edu/~grosenth/jwpce.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>34</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>672602424A</Bytes>
+			<ASCII> g . . B J</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>6</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

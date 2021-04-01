@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MSN Messenger Wink</FileType>
+		<Ext>MCO</Ext>
+		<ExtraInfo>
+			<Rem>Winks are little animation that can be sent to other contacs during a conversation.</Rem>
+			<RefURL>http://www.imagine-msn.com/Messenger/Post/Communicate/Wink.aspx</RefURL>
+		</ExtraInfo>
+		<User>Stef</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>197</FileNum>
+		<Refine>109 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>48</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D53434600000000</Bytes>
+			<ASCII> M S C F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000002C0000000000000003010100</Bytes>
+			<ASCII> . . . . . ,</ASCII>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>59</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONTENT.XML</String>
+		<String>MSCF</String>
+	</GlobalStrings>
+</TrID>

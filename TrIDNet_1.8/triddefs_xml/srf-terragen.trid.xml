@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Terragen Surface Map</FileType>
+		<Ext>SRF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.planetside.co.uk/terragen</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>03</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>544552524147454E535552464D415032</Bytes>
+			<ASCII> T E R R A G E N S U R F M A P 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

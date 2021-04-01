@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GenCAD layout</FileType>
+		<Ext>CAD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>03</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>56</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>24484541444552</Bytes>
+			<ASCII> $ H E A D E R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>$ENDCOMPONENTS</String>
+		<String>$ENDDEVICES</String>
+		<String>$COMPONENTS</String>
+		<String>$ENDHEADER</String>
+		<String>$ENDSHAPES</String>
+		<String>TRANSLATOR</String>
+		<String>$ENDLAYERS</String>
+		<String>INTERTRACK</String>
+		<String>$ENDBOARD</String>
+		<String>$DEVICES</String>
+		<String>$ENDMECH</String>
+		<String>ROTATION</String>
+		<String>$SHAPES</String>
+		<String>$LAYERS</String>
+		<String>$HEADER</String>
+		<String>DRAWING</String>
+		<String>$BOARD</String>
+		<String>ORIGIN</String>
+		<String>GENCAD</String>
+		<String>PLACE</String>
+		<String>$MECH</String>
+		<String>UNITS</String>
+		<String>LINE</String>
+		<String>USER</String>
+	</GlobalStrings>
+</TrID>

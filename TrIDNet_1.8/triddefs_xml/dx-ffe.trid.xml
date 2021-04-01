@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Microsoft DirectInput Force Feedback Effect</FileType>
+        <Ext>FFE</Ext>
+        <ExtraInfo>
+            <Rem>FFE are created using FEdit from the DirectX SDK</Rem>
+            <RefURL>http://msdn.microsoft.com/library/en-us/directx9_c/directx/input/tips/programmingtipstools.asp#force_editor_dinput</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>98</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </Date>
+        <Time>
+            <Hour>00</Hour>
+            <Min>30</Min>
+            <Sec>21</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.50</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>5249464600000000464F52435C777E19BA34D311ABD500C04F8EC6274C495354</Bytes>
+            <ASCII> R I F F . . . . F O R C \ w ~ . . 4 . . . . . . O . . ' L I S T</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00000065666374</Bytes>
+            <ASCII> . . . e f c t</ASCII>
+            <Pos>33</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>LIST</String>
+        <String>RIFF''''FORC</String>
+        <String>data</String>
+        <String>efct</String>
+    </GlobalStrings>
+</TrID>

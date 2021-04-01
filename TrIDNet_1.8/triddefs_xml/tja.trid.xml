@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Taikojiro Song Map</FileType>
+		<Ext>TJA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>5</Month>
+			<Day>7</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>21</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5449544C453A</Bytes>
+			<ASCII> T I T L E :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GOGOSTART</String>
+		<String>GOGOEND</String>
+		<String>OFFSET</String>
+		<String>LEVEL</String>
+		<String>TITLE</String>
+		<String>WAVE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Apple Interface Builder NIB archive (binary)</FileType>
+		<Ext>NIB</Ext>
+		<ExtraInfo>
+			<Rem>Nib files are a statically stored representation of the set of interface objects used by the application and their relationships.</Rem>
+			<RefURL>http://developer.apple.com/tools/interfacebuilder/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<Refine>10 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>01</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>20</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4E494241726368697665</Bytes>
+			<ASCII> N I B A r c h i v e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

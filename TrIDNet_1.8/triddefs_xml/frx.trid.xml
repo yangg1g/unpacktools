@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Visual Basic Form</FileType>
+		<Ext>FRX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>38</FileNum>
+		<Refine>19 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>53</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4C420800</Bytes>
+			<ASCII> L B</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>24</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MICROSOFT FORMS 2.0</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>EMBEDDED OBJECT</String>
+		<String>C'O'M'P'O'B'J</String>
+		<String>FORMS.FORM.</String>
+	</GlobalStrings>
+</TrID>

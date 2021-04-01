@@ -1,0 +1,77 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Camtasia Studio Project (UTF)</FileType>
+		<Ext>CAMPROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Camtasia_Studio</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>08</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>45</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D22312E30223F3E0D0A3C50726F6A6563745F446174612056657273696F6E3D22</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n = " 1 . 0 " ? . . . . P r o j e c t _ D a t a   V e r s i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DSHOWCONTROL_EDIT_ARRAY</String>
+		<String>DSHOWCONTROL_CLIPMAP</String>
+		<String>PROJECT_DATA VERSION</String>
+		<String>QUESTIONGROUP_ARRAY</String>
+		<String>POWERPOINTPROJECT</String>
+		<String>AUDIOTWOSELECTED</String>
+		<String>MAXCAPTIONLENGTH</String>
+		<String>CAPTIONSELECTED</String>
+		<String>OVERLAYCAPTIONS</String>
+		<String>BOOKMARK_ARRAY</String>
+		<String>ALWAYSDISPLAY</String>
+		<String>OVERLAY_ARRAY</String>
+		<String>CLIPBIN_ARRAY</String>
+		<String>CAPTION_ARRAY</String>
+		<String>VIDEOSELECTED</String>
+		<String>SHOWCAPTIONS</String>
+		<String>TITLE_ARRAY</String>
+		<String>PIPSELECTED</String>
+		<String>XML VERSION</String>
+		<String>ZOOM_ARRAY</String>
+		<String>UI_LAYOUT</String>
+		<String>PIP_ARRAY</String>
+		<String>QUESTIONS</String>
+		<String>BOOKMARKS</String>
+		<String>FILENAME</String>
+		<String>PIPAUDIO</String>
+		<String>AUDIOONE</String>
+		<String>SETTINGS</String>
+		<String>CALLOUT</String>
+		<String>DOCKPIP</String>
+		<String>_OBJECT</String>
+		<String>TRATIO</String>
+		<String>HEIGHT</String>
+		<String>CTION</String>
+		<String>MEDIA</String>
+		<String>WIDTH</String>
+		<String>SIZE</String>
+		<String>MENT</String>
+		<String>INFO</String>
+	</GlobalStrings>
+</TrID>

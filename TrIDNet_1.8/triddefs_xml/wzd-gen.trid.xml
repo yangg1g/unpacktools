@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sharp Wizard data (generic)</FileType>
+		<Ext>WZD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://dmoz.org/Computers/Systems/Handhelds/Sharp/Wizard/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>32</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>10</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>04</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C534841525020575A4420444154413E</Bytes>
+			<ASCII> . S H A R P   W Z D   D A T A</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SHARP WZD DATA</String>
+		<String>DATA TYPE</String>
+		<String>CATEGORY</String>
+		<String>TITLE</String>
+	</GlobalStrings>
+</TrID>

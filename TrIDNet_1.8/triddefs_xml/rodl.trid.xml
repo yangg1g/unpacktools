@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RemObjects Definition Language</FileType>
+		<Ext>RODL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.remobjects.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>22</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>INTERFACE NAME</String>
+		<String>LIBRARY NAME</String>
+		<String>SERVICE NAME</String>
+		<String>INTERFACES</String>
+		<String>OPERATIONS</String>
+		<String>SERVICES</String>
+		<String>DEFAULT</String>
+		<String>DATA</String>
+		<String>RODL</String>
+	</GlobalStrings>
+</TrID>

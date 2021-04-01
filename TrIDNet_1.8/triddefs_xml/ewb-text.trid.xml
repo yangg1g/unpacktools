@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EasyWorship Bible text</FileType>
+		<Ext>EWB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.easyworship.com/bibletext.php</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>53</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>45617379576F7273686970204269626C6520546578741A</Bytes>
+			<ASCII> E a s y W o r s h i p	B i b l e   T e x t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

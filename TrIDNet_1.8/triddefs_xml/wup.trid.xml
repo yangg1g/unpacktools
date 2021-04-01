@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WhatsUp Gold network map</FileType>
+		<Ext>WUP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.whatsupgold.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>0</Hour>
+			<Min>37</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>57555000</Bytes>
+			<ASCII> W U P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5768617473557032</Bytes>
+			<ASCII> W h a t s U p 2</ASCII>
+			<Pos>17</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WHATSUP2</String>
+		<String>CONNECT</String>
+		<String>CHOST</String>
+		<String>.WAV</String>
+	</GlobalStrings>
+</TrID>

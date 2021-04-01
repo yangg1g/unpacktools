@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XPilot NG map</FileType>
+		<Ext>XP2</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://xpilot.sourceforge.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>37</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C5850696C6F744D6170</Bytes>
+			<ASCII> . X P i l o t M a p</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GENERALOPTIONS</String>
+		<String>EDGESTYLE ID</String>
+		<String>POLYSTYLE ID</String>
+		<String>OPTION NAME</String>
+		<String>WALLBOUNCE</String>
+		<String>POLYGON X</String>
+		<String>XPILOTMAP</String>
+		<String>OFFSET X</String>
+		<String>DEFEDGE</String>
+		<String>INITIAL</String>
+		<String>TARGET</String>
+		<String>COLOR</String>
+		<String>FLAGS</String>
+		<String>VALUE</String>
+		<String>WIDTH</String>
+		<String>BALL</String>
+		<String>BASE</String>
+		<String>FUEL</String>
+		<String>LLOW</String>
+		<String>RESE</String>
+		<String>TEAM</String>
+	</GlobalStrings>
+</TrID>

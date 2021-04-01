@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Content Sealed Format</FileType>
+		<Ext>CSF</Ext>
+		<ExtraInfo>
+			<Rem>CSF files are DRM enabled and encrypted.</Rem>
+			<RefURL>http://www.bravaviewer.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>03</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6C000000496E666F726D617469766520477261706869637320436F72702E2053656375726520436F6E74656E7420466F726D6174</Bytes>
+			<ASCII> l . . . I n f o r m a t i v e   G r a p h i c s   C o r p .   S e c u r e   C o n t e n t   F o r m a t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

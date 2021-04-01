@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Portable Sound Format - Playstation 2</FileType>
+		<Ext>PSF2</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Portable_Sound_Format</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>70</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>9</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>9</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50534602</Bytes>
+			<ASCII> P S F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000042474D</Bytes>
+			<ASCII> . . . B G M</ASCII>
+			<Pos>17</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

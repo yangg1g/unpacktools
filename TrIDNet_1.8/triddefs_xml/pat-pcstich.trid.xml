@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PCStich pattern</FileType>
+		<Ext>PAT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pcstitch.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>05</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>45</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504353746974636820</Bytes>
+			<ASCII> P C S t i t c h</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>205061747465726E2046696C6520</Bytes>
+			<ASCII> 	P a t t e r n 	F i l e</ASCII>
+			<Pos>10</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PATTERN FILE</String>
+		<String>PCSTITCH</String>
+	</GlobalStrings>
+</TrID>

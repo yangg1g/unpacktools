@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DATACOMP 1.0 compressed archive</FileType>
+		<Ext>EMD</Ext>
+		<ExtraInfo>
+			<Rem>Seems to be a compressor by Andrew Kadatch, widely used to compress chess's tablebases</Rem>
+			<RefURL>ftp://ftp.cis.uab.edu/pub/hyatt/TB/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmai.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>07</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>00</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>436F6D707265737365642062792044415441434F4D50207620312E302028632920313939312D2D3139393820416E64726577204B6164617463680D0A</Bytes>
+			<ASCII> C o m p r e s s e d   b y   D A T A C O M P   v   1 . 0   ( c )   1 9 9 1 - - 1 9 9 8   A n d r e w   K a d a t c h</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

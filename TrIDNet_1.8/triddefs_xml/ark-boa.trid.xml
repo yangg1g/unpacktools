@@ -1,0 +1,30 @@
+<TrID ver="1.16">
+	<Info>
+		<FileType>BOA Constrictor Archiver compressed archive</FileType>
+		<Ext>BOA/B**</Ext>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2003</Year>
+			<Month>07</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>42</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.00.1</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>424F4100</Bytes>
+			<ASCII> B O A .</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

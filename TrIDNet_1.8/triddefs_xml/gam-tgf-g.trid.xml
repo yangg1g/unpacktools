@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>The Games Factory Game (G)</FileType>
+		<Ext>GAM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.clickteam.com/English/tgf.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>34</Min>
+			<Sec>02</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>474150500702</Bytes>
+			<ASCII> G A P P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

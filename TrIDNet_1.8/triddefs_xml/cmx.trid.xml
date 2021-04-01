@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Corel Metafile Exchange Image</FileType>
+		<Ext>CMX</Ext>
+		<ExtraInfo>
+			<Rem>Essentially, just another graphics metafile format.</Rem>
+			<RefURL>http://www.corel.com</RefURL>
+		</ExtraInfo>
+		<User>Alex Paven</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>52</FileNum>
+		<Refine>20 by Marco Pontello - 5 by Paresh Modi</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>51</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52494646</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00434D5831636F6E74B40000007B436F72656C2042696E617279204D6574612046696C657D000000000000000057696E646F777320332E31000000000032000000</Bytes>
+			<ASCII> . C M X 1 c o n t . . . . { C o r e l   B i n a r y   M e t a   F i l e } . . . . . . . . W i n d o w s   3 . 1 . . . . . 2</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>{COREL BINARY META FILE}</String>
+		<String>LISTT'''INFOIKEY</String>
+		<String>CMX1CONT</String>
+		<String>INDXIXLR</String>
+		<String>ICMT</String>
+		<String>IXMR</String>
+		<String>IXPG</String>
+		<String>IXTL</String>
+		<String>PAGE</String>
+		<String>RCLR</String>
+		<String>RIFF</String>
+		<String>RLST</String>
+		<String>RSCR</String>
+	</GlobalStrings>
+</TrID>

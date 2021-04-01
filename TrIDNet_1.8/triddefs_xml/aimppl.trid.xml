@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AIMP PlayList</FileType>
+		<Ext>AIMPPL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.aimp2.us/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>9</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>32</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE23004E0061006D0065003A00</Bytes>
+			<ASCII> . . # . N . a . m . e . :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>C'U'R'S'O'R</String>
+		<String>F'L'A'G'S</String>
+		<String>T'R'A'C'K</String>
+		<String>N'A'M'E</String>
+	</GlobalStrings>
+</TrID>

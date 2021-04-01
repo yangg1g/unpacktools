@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WorldMachine document</FileType>
+		<Ext>TMD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.world-machine.com</RefURL>
+		</ExtraInfo>
+		<User>Chris Malady</User>
+		<E-Mail>chris_malady@yahoo.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>02</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>55</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>535052576F726C64</Bytes>
+			<ASCII> S P R W o r l d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DISTORTION DIRECTION</String>
+		<String>DISTORTION AMOUNT</String>
+		<String>DISTORTION ENABLE</String>
+		<String>SPRWORLD</String>
+		<String>OFFSET</String>
+		<String>HEIGHT</String>
+		<String>SCALE</String>
+		<String>STYLE</String>
+		<String>SEED</String>
+		<String>SPRK</String>
+		<String>GAIN</String>
+		<String>OUTP</String>
+	</GlobalStrings>
+</TrID>

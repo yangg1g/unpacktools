@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft SZDD compressed (Haruhiko Okumura's LZSS)</FileType>
+		<Ext>EX_</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>86</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>43</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>535A444488F0273341</Bytes>
+			<ASCII> S Z D D . . ' 3 A</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

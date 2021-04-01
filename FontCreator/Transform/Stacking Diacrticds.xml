@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+  <TransformScript>
+    <OtherComments>
+      <Content>Stacking Diacritics
+This script inserts stacking diacritics for use with uppercase composites. They should be designed to fit the space above Capials and below the WinAscent. </Content>
+    </OtherComments>
+    <GlyphInsertCharacters>
+      <Characters>57344-57364</Characters>
+      <OverrideRange>TRUE</OverrideRange>
+    </GlyphInsertCharacters>
+    <GlyphCompleteComposites>
+    </GlyphCompleteComposites>
+    <GlyphDecompose>
+    </GlyphDecompose>
+    <MetricsCenterGlyph>
+    </MetricsCenterGlyph>
+    <MetricsLeftSideBearing>
+    </MetricsLeftSideBearing>
+    <MetricsWidth>
+      <WidthType>0</WidthType>
+      <Width>0</Width>
+      <Adjust>2</Adjust>
+    </MetricsWidth>
+    <OtherComments>
+      <Content>To make the design stage easier, the Advance Width is initialy reset to zero.
+Display the capital E in the comparison toolbar and design the diacritics to align over that.  Afterwards you can set a uniform advance width of 1024, which is used by many fonts, but it won&apos;t affect their horizontal position in composites.
+
+When you have finished, move them all down by the same distance to align with lowercase accents. </Content>
+    </OtherComments>
+  </TransformScript>
+</DATA>

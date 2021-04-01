@@ -1,0 +1,75 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Phoenix Visual Designer form</FileType>
+		<Ext>FRM</Ext>
+		<ExtraInfo>
+			<Rem>Phoenix is a complete self-contained Rapid Application Development (RAD) environment featuring an advanced form designer, code generator and editor for the PowerBASIC Windows compiler.</Rem>
+			<RefURL>http://www.phnxthunder.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>37</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>56455253494F4E20312E300D0A554E49545320506978656C730D0A424547494E205650425F</Bytes>
+			<ASCII> V E R S I O N 	1 . 0 . . U N I T S 	P i x e l s . . B E G I N 	V P B _</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BEGIN EXTSTYLE</String>
+		<String>BEGIN VPB_</String>
+		<String>BEGIN WINSTYLE</String>
+		<String>COLOR_</String>
+		<String>CS_DBLCLKS</String>
+		<String>CURSOR</String>
+		<String>DEFAULT_GUI_FONT</String>
+		<String>EXTRACLSBYTES</String>
+		<String>EXTRAWNDBYTES</String>
+		<String>FORM</String>
+		<String>HEIGHT</String>
+		<String>IDC_ARROW</String>
+		<String>IDD_</String>
+		<String>IDNUMBER</String>
+		<String>IDSYMBOL</String>
+		<String>IDS_</String>
+		<String>INITDIM</String>
+		<String>INITPOS</String>
+		<String>LARGEICON</String>
+		<String>LEFT</String>
+		<String>MENU</String>
+		<String>NAME</String>
+		<String>NORMAL</String>
+		<String>SHOWGRID</String>
+		<String>SMALLICON</String>
+		<String>SNAPTO</String>
+		<String>TION</String>
+		<String>TYPE</String>
+		<String>UNITS PIXELS</String>
+		<String>VERSION 1.0</String>
+		<String>WIDTH</String>
+		<String>WINDOWCLASS</String>
+		<String>WINDOWPLACEMENT</String>
+		<String>WINDOWPROCEDURE</String>
+		<String>WS_EX_WINDOWEDGE</String>
+		<String>WS_VISIBLE</String>
+		<String>_CLASS</String>
+		<String>_WNDPROC</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Atari ST program/executable</FileType>
+		<Ext>PRG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>104</FileNum>
+		<Refine>53 by Marco Pontello</Refine>
+		<Date>
+			<Year>2005</Year>
+			<Month>07</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>15</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>601A00</Bytes>
+			<ASCII> `</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>6</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>10</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>14</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000</Bytes>
+			<Pos>18</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>26</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BigJig Jigsaw</FileType>
+		<Ext>JG6</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.lenagames.com/bigjig.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>47</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4249474A4947362E</Bytes>
+			<ASCII> B I G J I G 6</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

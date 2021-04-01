@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Palm Tides</FileType>
+		<Ext>PDB</Ext>
+		<ExtraInfo>
+			<Rem>Tides is a freeware program by Ken Hancock for keeping track of local tide tables.</Rem>
+			<RefURL>http://members.aol.com/khancock/pilot.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>14</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5464617454696465</Bytes>
+			<ASCII> T d a t T i d e</ASCII>
+			<Pos>60</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TDATTIDE</String>
+	</GlobalStrings>
+</TrID>

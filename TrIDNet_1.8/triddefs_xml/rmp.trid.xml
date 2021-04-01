@@ -1,0 +1,70 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Real Metadata Package</FileType>
+		<Ext>RMP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.real.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>54</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E30223F3E0D0A3C5041434B4147453E0D0A</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 " ? . . . . P A C K A G E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WWW.REAL.COM</String>
+		<String>REALNETWORKS</String>
+		<String>TRACKLIST ID</String>
+		<String>XML VERSION</String>
+		<String>REALPLAYER</String>
+		<String>LOCATION</String>
+		<String>FILENAME</String>
+		<String>DURATION</String>
+		<String>CHANNELS</String>
+		<String>PROVIDER</String>
+		<String>EXP_DATE</String>
+		<String>PACKAGE</String>
+		<String>QUALITY</String>
+		<String>NETNAME</String>
+		<String>REALONE</String>
+		<String>TRACKID</String>
+		<String>CONTACT</String>
+		<String>SERVER</String>
+		<String>ARTIST</String>
+		<String>TARGET</String>
+		<String>ACTION</String>
+		<String>AUTHOR</String>
+		<String>FORMAT</String>
+		<String>LISTID</String>
+		<String>IMPORT</String>
+		<String>ALBUM</String>
+		<String>GENRE</String>
+		<String>TITLE</String>
+		<String>DESC</String>
+		<String>%FID</String>
+		<String>%LID</String>
+		<String>%PID</String>
+		<String>SIZE</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

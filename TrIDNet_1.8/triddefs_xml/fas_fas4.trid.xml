@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AutoCAD Fast-load AutoLISP (FAS4)</FileType>
+		<Ext>FAS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.autodesk.com/siteselect.htm</RefURL>
+		</ExtraInfo>
+		<User>ptweasel</User>
+		<E-Mail>ptweasel@hotmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>56</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0D0A20464153342D46494C45203B20446F206E6F74206368616E6765206974210D0A</Bytes>
+			<ASCII> . .   F A S 4 - F I L E   ;   D o   n o t   c h a n g e   i t !</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DO NOT CHANGE IT</String>
+		<String>FAS4 CRUNCH</String>
+		<String>FAS4-FILE</String>
+	</GlobalStrings>
+</TrID>
+

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MagicDraw UML project</FileType>
+		<Ext>MDR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Magicdraw</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>44</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D6167696344726177554D4C2022</Bytes>
+			<ASCII> M a g i c D r a w U M L   "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

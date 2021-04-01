@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PalmDraft schematic</FileType>
+		<Ext>PDB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://pages.total.net/~hkonstas/palmdraft.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>11</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>19</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00080002</Bytes>
+			<Pos>32</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6473636870446674</Bytes>
+			<ASCII> d s c h p D f t</ASCII>
+			<Pos>60</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DSCHPDFT</String>
+	</GlobalStrings>
+</TrID>

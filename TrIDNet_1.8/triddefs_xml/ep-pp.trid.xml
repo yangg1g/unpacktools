@@ -1,0 +1,80 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Pencil Project sketch</FileType>
+		<Ext>EP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://pencil.evolus.vn</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>56</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E30223F3E0A3C446F63756D656E7420786D6C6E733D22687474703A2F2F7777772E65766F6C75732E766E2F4E616D6573706163652F50656E63696C223E3C50726F706572746965732F3E3C50616765733E3C506167653E3C50726F706572746965733E3C50726F7065727479206E616D653D226E616D65223E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 " ? . . . D o c u m e n t   x m l n s = " h t t p : / / w w w . e v o l u s . v n / N a m e s p a c e / P e n c i l " . . P r o p e r t i e s / . . P a g e s . . P a g e . . P r o p e r t i e s . . P r o p e r t y   n a m e = " n a m e "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCUMENT XMLNS</String>
+		<String>PROPERTY NAME</String>
+		<String>WWW.EVOLUS.VN</String>
+		<String>FILL-OPACITY</String>
+		<String>STROKE-WIDTH</String>
+		<String>FONT-FAMILY</String>
+		<String>FONT-WEIGHT</String>
+		<String>XML VERSION</String>
+		<String>FONT-STYLE</String>
+		<String>PROPERTIES</String>
+		<String>TEXT-ALIGN</String>
+		<String>VISIBILITY</String>
+		<String>WWW.W3.ORG</String>
+		<String>FONT-SIZE</String>
+		<String>NAMESPACE</String>
+		<String>TEXTCOLOR</String>
+		<String>TRANSFORM</String>
+		<String>TRANSLATE</String>
+		<String>METADATA</String>
+		<String>TEXTFONT</String>
+		<String>CONTENT</String>
+		<String>ECOLOR</String>
+		<String>HEIGHT</String>
+		<String>MATRIX</String>
+		<String>NORMAL</String>
+		<String>PENCIL</String>
+		<String>ATION</String>
+		<String>CDATA</String>
+		<String>ECT X</String>
+		<String>PAGES</String>
+		<String>SHAPE</String>
+		<String>CENT</String>
+		<String>DING</String>
+		<String>HTTP</String>
+		<String>KEST</String>
+		<String>LINK</String>
+		<String>NONE</String>
+		<String>PATH</String>
+		<String>RECT</String>
+		<String>RGB(</String>
+		<String>TRUE</String>
+		<String>TYPE</String>
+		<String>WITH</String>
+	</GlobalStrings>
+</TrID>

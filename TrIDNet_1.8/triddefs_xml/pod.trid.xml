@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Plain Old Documentation format</FileType>
+		<Ext>POD</Ext>
+		<ExtraInfo>
+			<Rem>pod is a lightweight markup language used to document the Perl programming language.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Plain_Old_Documentation</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>11</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>44</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3D686561643120</Bytes>
+			<ASCII> = h e a d 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>HEAD1 AUTHOR</String>
+		<String>HEAD1 NAME</String>
+	</GlobalStrings>
+</TrID>

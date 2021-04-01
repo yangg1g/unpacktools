@@ -1,0 +1,65 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Terragen project</FileType>
+		<Ext>TGD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Terragen</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Refine>5 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2014</Year>
+			<Month>1</Month>
+			<Day>2</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>43</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C746572726167656E0D0A</Bytes>
+			<ASCII> . t e r r a g e n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COMPUTE TERRAIN</String>
+		<String>GUI_NODE_SIZE</String>
+		<String>GUI_NODE_POS</String>
+		<String>HAZE_DENSITY</String>
+		<String>IMAGE_HEIGHT</String>
+		<String>ORTHOGRAPHIC</String>
+		<String>IMAGE_WIDTH</String>
+		<String>PERSPECTIVE</String>
+		<String>ELEVATION</String>
+		<String>GUI_GROUP</String>
+		<String>COMMENTS</String>
+		<String>FRACTAL_</String>
+		<String>ROTATION</String>
+		<String>HEADING</String>
+		<String>OBJECTS</String>
+		<String>_AMOUNT</String>
+		<String>AUTHOR</String>
+		<String>CAMERA</String>
+		<String>ENVIRO</String>
+		<String>RADIUS</String>
+		<String>RENDER</String>
+		<String>ROTATE</String>
+		<String>SHADER</String>
+		<String>FLOOR</String>
+		<String>LIGHT</String>
+		<String>SEED</String>
+		<String>TING</String>
+	</GlobalStrings>
+</TrID>

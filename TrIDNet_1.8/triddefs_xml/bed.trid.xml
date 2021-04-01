@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>UCSC BED Annotation Track</FileType>
+		<Ext>BED</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://genome.ucsc.edu/FAQ/FAQformat.html#format1</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>9</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>8</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>62726F7773657220706F736974696F6E20636872</Bytes>
+			<ASCII> b r o w s e r   p o s i t i o n   c h r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DESCRIPTION</String>
+		<String>TRACK</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

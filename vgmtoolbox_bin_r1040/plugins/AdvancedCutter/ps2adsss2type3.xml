@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OffsetFinderTemplate>
+  <Header>
+    <FormatName>PlayStation 2 - SShd/SSbd Streams Type 3</FormatName>
+    <Author>bxaimc</Author>
+  </Header>
+  <SearchParameters>
+    <SearchString>535368641800</SearchString>
+    <TreatSearchStringAsHex>true</TreatSearchStringAsHex>
+    <SearchStringOffset>0</SearchStringOffset>
+    <OutputFileExtension>.ads</OutputFileExtension>
+    <CutParameters>
+      <CutStyle>offset</CutStyle>
+      <CutSizeAtOffset>0x24</CutSizeAtOffset>
+      <CutSizeOffsetSize>4</CutSizeOffsetSize>
+      <CutSizeOffsetEndianess>little</CutSizeOffsetEndianess>      
+    </CutParameters>
+    <AddExtraBytes>true</AddExtraBytes>
+    <AddExtraByteSize>2048</AddExtraByteSize>    
+  </SearchParameters>
+  <NotesOrWarnings>Note: For use with certain games if type 1 or 2 did not work correctly (static, etc.) like "Another Century's Episode 3." Files can also be renamed to .SS2. Warning: ADS/SS2 Streams from PSS video might be ripped also and will play static. Discard these and use a proper extractor/demuxer for PSS video. Important!: Be sure to check after ripping.</NotesOrWarnings>
+</OffsetFinderTemplate>

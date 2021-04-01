@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Nintendo DS Packed Images</FileType>
+		<Ext>IPK</Ext>
+		<ExtraInfo>
+			<Rem>A package containing images and thumbnails.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>27</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5061636B6564496D6167657330310000</Bytes>
+			<ASCII> P a c k e d I m a g e s 0 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Cisco Unity Express script</FileType>
+		<Ext>AEF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>10</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>17</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>ACED000573720024636F6D2E636973636F2E77666672616D65776F726B2E6F626A2E5746576F726B666C6F7773</Bytes>
+			<ASCII> . . . . s r . $ c o m . c i s c o . w f f r a m e w o r k . o b j . W F W o r k f l o w s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>636F6D70696C65644A000B6E4C6173745573656449444C</Bytes>
+			<ASCII> c o m p i l e d J . . n L a s t U s e d I D L</ASCII>
+			<Pos>58</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CISCO.WFFRAMEWORK</String>
+		<String>AUTHOR</String>
+		<String>VALUES</String>
+		<String>TYPES</String>
+		<String>LOCAL</String>
+		<String>NAMES</String>
+	</GlobalStrings>
+</TrID>

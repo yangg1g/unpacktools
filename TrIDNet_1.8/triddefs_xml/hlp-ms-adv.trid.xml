@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Advisor Help file</FileType>
+		<Ext>HLP</Ext>
+		<ExtraInfo>
+			<Rem>An old Help file format from Microsoft, mostly used on their dev tools.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>07</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>21</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4C4E0200</Bytes>
+			<ASCII> L N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>003A00</Bytes>
+			<ASCII> . :</ASCII>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

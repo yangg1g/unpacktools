@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>NanoZip compressed archive (generic)</FileType>
+		<Ext>NZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.nanozip.net</RefURL>
+		</ExtraInfo>
+		<User>Label</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>26</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>11</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>11</Min>
+			<Sec>6</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>616E6F</Bytes>
+			<ASCII> a n o</ASCII>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>697020</Bytes>
+			<ASCII> i p</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

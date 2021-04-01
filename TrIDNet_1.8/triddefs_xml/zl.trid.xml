@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Easy CD Creator Drag to Disk File</FileType>
+		<Ext>ZL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sonic.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>07</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>47</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>78DAEC3B7F78</Bytes>
+			<ASCII> x . . ; . x</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>UDFREADR_XP.SYS</String>
+		<String>UDFREADR.</String>
+	</GlobalStrings>
+</TrID>

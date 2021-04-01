@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AOL Preferences/Personal Filing Cabinet</FileType>
+		<Ext>PFC</Ext>
+		<ExtraInfo>
+			<Rem>AOL PFC files can hold settings, contacts, favorites, etc.</Rem>
+			<RefURL>http://file-extension.net/info/pfc-aol-preferences-personal-filing-cabinet-file.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>01</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>22</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>414F4C564D313030</Bytes>
+			<ASCII> A O L V M 1 0 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

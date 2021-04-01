@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OffsetFinderTemplate>
+  <Header>
+    <FormatName>PlayStation 2 - beatmaniaIIDX BMDX Streams</FormatName>
+    <Author>bxaimc</Author>
+  </Header>
+  <SearchParameters>
+    <SearchString>01006408</SearchString>
+    <TreatSearchStringAsHex>true</TreatSearchStringAsHex>
+    <SearchStringOffset>0</SearchStringOffset>
+    <OutputFileExtension>.bmdx</OutputFileExtension>
+    <CutParameters>
+      <CutStyle>offset</CutStyle>
+      <CutSizeAtOffset>0x0c</CutSizeAtOffset>
+      <CutSizeOffsetSize>4</CutSizeOffsetSize>
+      <CutSizeOffsetEndianess>little</CutSizeOffsetEndianess>      
+    </CutParameters>
+    <AddExtraBytes>true</AddExtraBytes>
+    <AddExtraByteSize>2048</AddExtraByteSize>    
+  </SearchParameters>
+</OffsetFinderTemplate>

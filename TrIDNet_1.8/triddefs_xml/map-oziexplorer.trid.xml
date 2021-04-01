@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OziExplorer Map data</FileType>
+		<Ext>MAP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.oziexplorer.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>30</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>48</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4F7A694578706C6F726572204D617020446174612046696C652056657273696F6E20</Bytes>
+			<ASCII> O z i E x p l o r e r   M a p   D a t a   F i l e   V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>35</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>OZIEXPLORER MAP DATA FILE VERSION</String>
+		<String>THESE FOLLOW IF THEY EXIST</String>
+		<String>MAGNETIC VARIATION</String>
+		<String>PROJECTION SETUP</String>
+		<String>MAP PROJECTION</String>
+		<String>MAP COMMENT</String>
+		<String>MAP FEATURE</String>
+		<String>MOVING MAP</String>
+		<String>TRACK FILE</String>
+		<String>RESERVED</String>
+		<String>POINT</String>
+		<String>GRID</String>
+	</GlobalStrings>
+</TrID>

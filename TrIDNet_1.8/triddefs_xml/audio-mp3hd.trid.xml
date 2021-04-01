@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>mp3HD audio</FileType>
+		<Ext>MP3</Ext>
+		<ExtraInfo>
+			<Rem>A new revision of MP3 with lossless compression.</Rem>
+			<RefURL>http://www.all4mp3.com/Software1.aspx</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>03</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>48</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>49443303000000</Bytes>
+			<ASCII> I D 3</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>-ACGP</String>
+		<String>MP3HD</String>
+		<String>KC(RP</String>
+		<String>8LM6</String>
+		<String>AMH9</String>
+		<String>I6W3</String>
+		<String>PUSY</String>
+		<String>RR19</String>
+		<String>TENC</String>
+		<String>XING</String>
+		<String>XHD3</String>
+	</GlobalStrings>
+</TrID>

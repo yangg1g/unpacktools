@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Genbox Family History dictionary</FileType>
+		<Ext>GDT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.genbox.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>25</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>47424F5844494354</Bytes>
+			<ASCII> G B O X D I C T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Scriptable Network Graphics</FileType>
+		<Ext>SNG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://sng.sourceforge.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>1</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>9</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.78b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23534E47</Bytes>
+			<ASCII> # S N G</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

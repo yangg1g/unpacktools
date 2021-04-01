@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Texas Instruments Calculators Program</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ticalc.org/pub/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>05</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>08</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2A2A5449</Bytes>
+			<ASCII> * * T I</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2A</Bytes>
+			<ASCII> *</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

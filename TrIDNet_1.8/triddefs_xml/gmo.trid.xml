@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GNU Gettext Machine Object file</FileType>
+		<Ext>GMO/MO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.gnu.org/software/gettext/gettext.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Refine>5 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>6</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>44</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.8b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>DE120495</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONTENT-TRANSFER-ENCODING</String>
+		<String>PROJECT-ID-VERSION</String>
+		<String>POT-CREATION-DATE</String>
+		<String>PO-REVISION-DATE</String>
+		<String>LAST-TRANSLATOR</String>
+		<String>LANGUAGE-TEAM</String>
+		<String>CONTENT-TYPE</String>
+		<String>MIME-VERSION</String>
+		<String>CHARSET</String>
+		<String>PLAIN</String>
+		<String>TEXT</String>
+	</GlobalStrings>
+</TrID>

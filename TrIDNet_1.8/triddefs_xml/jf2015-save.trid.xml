@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>JetFighter 2015 savegame</FileType>
+		<Ext>BIN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.globalstarsoftware.com/jetfighter2015/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>68</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>48</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>616C61F3320B766762</Bytes>
+			<ASCII> a l a . 2 . v g b</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ALAPK</String>
+	</GlobalStrings>
+</TrID>

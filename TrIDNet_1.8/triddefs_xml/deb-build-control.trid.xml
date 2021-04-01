@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DEB build control</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Debian</RefURL>
+		</ExtraInfo>
+		<User>Eduardo</User>
+		<E-Mail>eduardosanchezmunoz@gmail.com</E-Mail>
+		<Home>http://eduardo38.netne.net/</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>11</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>20</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>536F757263653A</Bytes>
+			<ASCII> S o u r c e :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DESCRIPTION</String>
+		<String>DEPENDS</String>
+		<String>PACKAGE</String>
+		<String>SOURCE</String>
+	</GlobalStrings>
+</TrID>

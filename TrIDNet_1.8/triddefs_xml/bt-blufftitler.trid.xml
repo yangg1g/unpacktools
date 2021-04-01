@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BluffTitler Show</FileType>
+		<Ext>BT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.outerspace-software.com/</RefURL>
+		</ExtraInfo>
+		<User>Ryan Jones</User>
+		<E-Mail>sciguyryan@gmail.com</E-Mail>
+		<Home>http://ccc-cymru.com/</Home>
+	</Info>
+	<General>
+		<FileNum>366</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>05</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>58</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE42006C007500660066005400690074006C00650072002000530068006F007700200034000D000A004C0045004E000900</Bytes>
+			<ASCII> . . B . l . u . f . f . T . i . t . l . e . r .   . S . h . o . w .   . 4 . . . . . L . E . N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>B'L'U'F'F'T'I'T'L'E'R' 'S'H'O'W' '4</String>
+		<String>C'A'M'E'R'A</String>
+		<String>L'I'G'H'T</String>
+	</GlobalStrings>
+</TrID>

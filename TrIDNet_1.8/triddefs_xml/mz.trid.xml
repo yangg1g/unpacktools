@@ -1,0 +1,65 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MOZART Music Document</FileType>
+		<Ext>MZ</Ext>
+		<ExtraInfo>
+			<Rem>MOZART is a music notation software.</Rem>
+			<RefURL>http://www.mozart.co.uk/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>36</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>04</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>06</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>444D574D5A3A</Bytes>
+			<ASCII> D M W M Z :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>END OF HEADER INFORMATION</String>
+		<String>TUNEFLAGS</String>
+		<String>PRINTFONT</String>
+		<String>HEADTEXT</String>
+		<String>LOGFONTS</String>
+		<String>DYNAMICS</String>
+		<String>FOOTTEXT</String>
+		<String>KEY--SIG</String>
+		<String>TIME-SIG</String>
+		<String>SCOREKEY</String>
+		<String>ED_MODE</String>
+		<String>BARS_AT</String>
+		<String>STRINGS</String>
+		<String>PRINTER</String>
+		<String>CREDIT</String>
+		<String>LAYOUT</String>
+		<String>GFRAME</String>
+		<String>VOLUME</String>
+		<String>STAVES</String>
+		<String>PATCH</String>
+		<String>CARET</String>
+		<String>SWING</String>
+		<String>INDEX</String>
+		<String>PARTS</String>
+		<String>TITLE</String>
+		<String>TEMPO</String>
+		<String>DMWMZ</String>
+		<String>CELL</String>
+	</GlobalStrings>
+</TrID>

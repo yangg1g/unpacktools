@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SubStation Alpha Subtitle (Unicode)</FileType>
+		<Ext>ASS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/SubStation_Alpha</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>31</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>43</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE5B00530063007200690070007400200049006E0066006F005D</Bytes>
+			<ASCII> . . [ . S . c . r . i . p . t .   . I . n . f . o . ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'E'C'O'N'D'A'R'Y'C'O'L'O'U'R</String>
+		<String>P'R'I'M'A'R'Y'C'O'L'O'U'R</String>
+		<String>S'C'R'I'P'T' 'I'N'F'O</String>
+		<String>B'O'R'D'E'R'S'T'Y'L'E</String>
+		<String>B'A'C'K'C'O'L'O'U'R</String>
+		<String>A'L'I'G'N'M'E'N'T</String>
+		<String>F'O'N'T'N'A'M'E</String>
+		<String>D'I'A'L'O'G'U'E</String>
+		<String>F'O'N'T'S'I'Z'E</String>
+		<String>E'N'C'O'D'I'N'G</String>
+		<String>M'A'R'G'I'N'V</String>
+		<String>M'A'R'G'I'N'R</String>
+		<String>O'U'T'L'I'N'E</String>
+		<String>M'A'R'G'I'N'L</String>
+		<String>I'T'A'L'I'C</String>
+		<String>E'V'E'N'T'S</String>
+		<String>E'F'F'E'C'T</String>
+		<String>F'O'R'M'A'T</String>
+		<String>S'H'A'D'O'W</String>
+		<String>S'T'Y'L'E'S</String>
+		<String>S'T'A'R'T</String>
+		<String>B'O'L'D</String>
+		<String>T'Y'P'E</String>
+		<String>T'E'X'T</String>
+	</GlobalStrings>
+</TrID>

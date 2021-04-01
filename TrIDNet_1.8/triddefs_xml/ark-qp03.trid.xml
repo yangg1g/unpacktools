@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>qpress compressed archive</FileType>
+		<Ext>QP03</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.quicklz.com</RefURL>
+		</ExtraInfo>
+		<User>Label</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2009</Year>
+			<Month>04</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>23</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7170726573733130</Bytes>
+			<ASCII> q p r e s s 1 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

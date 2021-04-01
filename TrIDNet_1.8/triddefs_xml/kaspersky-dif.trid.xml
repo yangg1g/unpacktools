@@ -1,0 +1,36 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Kaspersky Anti-Virus update diff</FileType>
+		<Ext>DIF</Ext>
+		<ExtraInfo>
+			<Rem>Kaspersky Anti-Virus</Rem>
+			<RefURL>http://www.kaspersky.com/</RefURL>
+		</ExtraInfo>
+		<User>xoxmodav</User>
+		<E-Mail>i@xoxmodav.net</E-Mail>
+		<Home>http://xoxmodav.net/</Home>
+	</Info>
+	<General>
+		<FileNum>21</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>6</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>25</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4B4C4432</Bytes>
+			<ASCII> K L D 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

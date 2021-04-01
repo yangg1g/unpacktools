@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Chinese KuGou ResourCe (KuGou Music lyric)</FileType>
+		<Ext>KRC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.kugou.com/</RefURL>
+		</ExtraInfo>
+		<User>fengdaolong</User>
+		<E-Mail>fengdaolong@gmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>608</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>7</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>43</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6B72633138</Bytes>
+			<ASCII> k r c 1 8</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

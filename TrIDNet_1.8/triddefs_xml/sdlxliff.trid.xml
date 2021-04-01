@@ -1,0 +1,77 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SDL Trados XLIFF Localization data</FileType>
+		<Ext>SDLXLIFF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.trados.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>9</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>4</Hour>
+			<Min>4</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D38223F3E3C786C69666620786D6C6E733A73646C3D22687474703A2F2F73646C2E636F6D2F46696C6554797065732F53646C586C6966662F312E30222076657273696F6E3D22312E32222073646C3A76657273696F6E3D22312E302220786D6C6E733D2275726E3A6F617369733A6E616D65733A74633A786C6966663A646F63756D656E743A312E32223E3C</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 " ? . . x l i f f   x m l n s : s d l = " h t t p : / / s d l . c o m / F i l e T y p e s / S d l X l i f f / 1 . 0 "   v e r s i o n = " 1 . 2 "   s d l : v e r s i o n = " 1 . 0 "   x m l n s = " u r n : o a s i s : n a m e s : t c : x l i f f : d o c u m e n t : 1 . 2 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DETECTED-SOURCE-LANG DETECTION-LEVEL</String>
+		<String>X-SDLFILTERFRAMEWORK2</String>
+		<String>ORIGINALFILEPATH</String>
+		<String>FILE-INFO XMLNS</String>
+		<String>SOURCE-LANGUAGE</String>
+		<String>TAG-DEFS XMLNS</String>
+		<String>FILE ORIGINAL</String>
+		<String>FILETYPE-INFO</String>
+		<String>TRANS-UNIT ID</String>
+		<String>CREATIONDATE</String>
+		<String>FILETYPE-ID</String>
+		<String>XLIFF XMLNS</String>
+		<String>XML VERSION</String>
+		<String>SEG-SOURCE</String>
+		<String>SNIFF-INFO</String>
+		<String>FILETYPES</String>
+		<String>MT-DEF ID</String>
+		<String>REFERENCE</String>
+		<String>TRANSLATE</String>
+		<String>VALUE KEY</String>
+		<String>DATATYPE</String>
+		<String>DOCUMENT</String>
+		<String>ENCODING</String>
+		<String>EXPECTED</String>
+		<String>INTERNAL</String>
+		<String>SDLXLIFF</String>
+		<String>MT-DEFS</String>
+		<String>SDL.COM</String>
+		<String>FILEID</String>
+		<String>FORMAT</String>
+		<String>HEADER</String>
+		<String>TAG ID</String>
+		<String>GROUP</String>
+		<String>GUESS</String>
+		<String>NAMES</String>
+		<String>PROPS</String>
+		<String>BASE</String>
+		<String>BODY</String>
+		<String>HTTP</String>
+		<String>TEXT</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Black and White 2 Environment data</FileType>
+		<Ext>BWE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Black_%26_White_2</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>01</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>56455253494F4E28</Bytes>
+			<ASCII> V E R S I O N (</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SET_DEFAULT_SOUND_SURFACE</String>
+		<String>GREEK_ABODE_TOWN_CENTRE</String>
+		<String>CREATE_MOBILE_STATIC</String>
+		<String>CREATE_NAMED_FEATURE</String>
+		<String>CREATE_VILLAGER_POS</String>
+		<String>SET_TOWN_TECH_LEVEL</String>
+		<String>CREATE_TOWN_CENTRE</String>
+		<String>CREATE_ORE_LODE</String>
+		<String>SET_LAND_NUMBER</String>
+		<String>GREEK_HOUSEWIFE</String>
+		<String>ORE ROCK MEDIUM</String>
+		<String>LOAD_LANDSCAPE</String>
+		<String>GREEK_FORESTER</String>
+		<String>SET_DAY_LENGTH</String>
+		<String>CREATE_FOREST</String>
+		<String>ROCK BOULDER</String>
+		<String>CREATE_TREE</String>
+		<String>SPRUCE TREE</String>
+		<String>PLAYER_ONE</String>
+		<String>ORE LODE</String>
+		<String>VERSION</String>
+		<String>DATA</String>
+		<String>.TER</String>
+		<String>HUGE</String>
+	</GlobalStrings>
+</TrID>

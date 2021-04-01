@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sound Forge project</FileType>
+		<Ext>FRG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sonymediasoftware.com/products/soundforgefamily.asp</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>04</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>21</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3C0073006F0075006E0064005F0066006F007200670065005F00700072006F006A006500630074002000760065007200730069006F006E</Bytes>
+			<ASCII> . . . . s . o . u . n . d . _ . f . o . r . g . e . _ . p . r . o . j . e . c . t .   . v . e . r . s . i . o . n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

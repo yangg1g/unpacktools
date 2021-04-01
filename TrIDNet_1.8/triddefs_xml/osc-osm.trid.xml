@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OpenStreetMap Change data</FileType>
+		<Ext>OSC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.openstreetmap.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>5</Month>
+			<Day>6</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>30</Min>
+			<Sec>0</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>OSMCHANGE VERSION</String>
+		<String>GENERATOR</String>
+		<String>TIMESTAMP</String>
+		<String>OSMOSIS</String>
+		<String>TAG K</String>
+	</GlobalStrings>
+</TrID>

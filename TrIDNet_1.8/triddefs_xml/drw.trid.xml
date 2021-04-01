@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Draw drawing</FileType>
+		<Ext>DRW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>06</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>24</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>01FF</Bytes>
+			<ASCII></ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>57696E646F777320447261772044726177696E67</Bytes>
+			<ASCII> W i n d o w s   D r a w   D r a w i n g</ASCII>
+			<Pos>15</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WINDOWS DRAW DRAWING</String>
+	</GlobalStrings>
+</TrID>

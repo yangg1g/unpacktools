@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ASHRAE Design Conditions Design Day data</FileType>
+		<Ext>DDY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Ashrae</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>34</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>05</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>20212054686520666F6C6C6F77696E67204C6F636174696F6E20616E642044657369676E204461792064617461206172652070726F647563656420617320706F737369626C652066726F6D2074686520696E64696361746564206461746120736F757263652E</Bytes>
+			<ASCII>   !   T h e   f o l l o w i n g   L o c a t i o n   a n d   D e s i g n   D a y   d a t a   a r e   p r o d u c e d   a s   p o s s i b l e   f r o m   t h e   i n d i c a t e d   d a t a   s o u r c e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>- LONGITUDE {W- E+}</String>
+		<String>- LATITUDE {N+ S-}</String>
+		<String>DESIGN_CONDITIONS</String>
+		<String>- ELEVATION {M}</String>
+		<String>- LOCATION NAME</String>
+		<String>COOLING</String>
+		<String>HEATING</String>
+		<String>CLIMATE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ImageMagick Machine independent File Format bitmap</FileType>
+		<Ext>MIF/MIFF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.go.dlr.de/pdinfo_dv/ImageMagick.html#miff</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>50</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>69643D496D6167654D616769636B</Bytes>
+			<ASCII> i d = I m a g e M a g i c k</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

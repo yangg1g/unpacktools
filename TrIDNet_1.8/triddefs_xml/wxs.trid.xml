@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WiX Source</FileType>
+		<Ext>WXS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/WiX</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>10</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>16</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D</Bytes>
+			<ASCII> . ? x m l   v e r s i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>XML VERSION</String>
+		<String>WIX XMLNS</String>
+		<String>SOURCE</String>
+		<String>COMP</String>
+		<String>FILE</String>
+		<String>HTTP</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

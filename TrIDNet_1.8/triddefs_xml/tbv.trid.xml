@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>3D Ultra Cool data file</FileType>
+		<Ext>TBV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://wiki.xentax.com/index.php/GRAF:3D_Ultra_Cool_TBV</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>06</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>41</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5442566F6C756D65</Bytes>
+			<ASCII> T B V o l u m e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

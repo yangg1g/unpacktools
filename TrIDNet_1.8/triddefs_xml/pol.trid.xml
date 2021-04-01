@@ -1,0 +1,30 @@
+<TrID ver="1.16">
+    <Info>
+        <FileType>InnovMetric Software Polygon Model</FileType>
+        <Ext>POL</Ext>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>7</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>17</Day>
+        </Date>
+        <Time>
+            <Hour>13</Hour>
+            <Min>25</Min>
+            <Sec>31</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00.1</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>504F4C20466F726D61742076</Bytes>
+            <ASCII> P O L   F o r m a t   v</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

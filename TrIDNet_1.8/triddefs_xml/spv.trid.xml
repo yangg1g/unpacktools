@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SpacEyes3D Viewer project</FileType>
+		<Ext>SPV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.spaceyes.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>06</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>24</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53706163457965733344205669657765722050726F6A6563742046696C65</Bytes>
+			<ASCII> S p a c E y e s 3 D   V i e w e r   P r o j e c t   F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SPACEYES3D VIEWER PROJECT FILE</String>
+	</GlobalStrings>
+</TrID>

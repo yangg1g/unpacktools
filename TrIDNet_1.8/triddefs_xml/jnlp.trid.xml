@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Java Web Start application descriptor</FileType>
+		<Ext>JNLP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://java.sun.com/products/javawebstart/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>47</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>APPLICATION-DESC</String>
+		<String>INFORMATION</String>
+		<String>RESOURCES</String>
+		<String>CODEBASE</String>
+		<String>VERSION</String>
+		<String>VENDOR</String>
+		<String>TITLE</String>
+		<String>HREF</String>
+		<String>J2SE</String>
+		<String>JNLP</String>
+	</GlobalStrings>
+</TrID>

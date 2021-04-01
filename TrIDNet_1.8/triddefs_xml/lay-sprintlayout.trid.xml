@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sprint Layout Printed Circuit Design (v6.0)</FileType>
+		<Ext>LAY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.abacom-online.de/uk/html/sprint-layout.html</RefURL>
+		</ExtraInfo>
+		<User>Abacom</User>
+		<E-Mail>abacom.del AT t-online DOT de</E-Mail>
+		<Home>www.abacom-online.de</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>30</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0533AAFF</Bytes>
+			<ASCII> . 3</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>EIA'CODE</String>
+	</GlobalStrings>
+</TrID>

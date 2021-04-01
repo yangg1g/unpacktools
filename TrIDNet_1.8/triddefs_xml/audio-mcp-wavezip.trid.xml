@@ -1,0 +1,70 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>WaveZIP lossless compressed audio</FileType>
+        <Ext>MCP</Ext>
+        <ExtraInfo>
+            <Rem>WaveZIP used audio the MUSICompress(TM) compression technology from Soundspace Audio.</Rem>
+            <RefURL>http://web.archive.org/web/19990220172029/www.gadgetlabs.com/wavezip_frame.htm</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>16</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>12</Month>
+            <Day>26</Day>
+        </Date>
+        <Time>
+            <Hour>02</Hour>
+            <Min>04</Min>
+            <Sec>28</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>474C575A42303034FFFF6E616D6550000000</Bytes>
+            <ASCII> G L W Z B 0 0 4 . . n a m e P</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>A63101</Bytes>
+            <ASCII> . 1</ASCII>
+            <Pos>19</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>006173697304000000574156456173697318000000666D7420100000000100</Bytes>
+            <ASCII> . a s i s . . . . W A V E a s i s . . . . f m t</ASCII>
+            <Pos>113</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00100067666D740C0000000100</Bytes>
+            <ASCII> . . . g f m t</ASCII>
+            <Pos>155</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00001000FF0073697A6504000000</Bytes>
+            <ASCII> . . . . . . s i z e</ASCII>
+            <Pos>172</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00696E6478</Bytes>
+            <ASCII> . i n d x</ASCII>
+            <Pos>189</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>COMP</String>
+        <String>GFMT</String>
+        <String>GLWZB004</String>
+        <String>INDX</String>
+        <String>NAMEP</String>
+        <String>RIFF</String>
+        <String>SIZE</String>
+        <String>WAVEASIS</String>
+    </GlobalStrings>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AkAbak Script</FileType>
+		<Ext>AKS</Ext>
+		<ExtraInfo>
+			<Rem>AkAbak is a simulation program for electro-mechano-acoustical networks.</Rem>
+			<RefURL>http://www.randteam.de/AkAbak/Index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>37</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>5</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>21</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>414B4142414B5F5343524950545F31303030</Bytes>
+			<ASCII> A K A B A K _ S C R I P T _ 1 0 0 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PAQ8L compressed archive</FileType>
+		<Ext>PAQ8L</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cs.fit.edu/~mmahoney/compression/</RefURL>
+		</ExtraInfo>
+		<User>Holger Burghardt</User>
+		<E-Mail>holger_burghardt (AT) yahoo.com</E-Mail>
+		<Home>http://www.geocities/holger_burghardt/</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>11</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>58</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>706171386C202D</Bytes>
+			<ASCII> p a q 8 l   -</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A</Bytes>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

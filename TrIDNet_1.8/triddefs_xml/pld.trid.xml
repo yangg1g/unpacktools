@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PhotoLine32 Document - Image</FileType>
+		<Ext>PLD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pl32.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>49</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50686F746F204C696E6520446F63756D656E7400</Bytes>
+			<ASCII> P h o t o   L i n e   D o c u m e n t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Yountel Unicode font</FileType>
+		<Ext>FNT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.yountel.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>04</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>12</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>554E49434F444520464F4E540000000056657220</Bytes>
+			<ASCII> U N I C O D E   F O N T . . . . V e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>22</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>436F707972696768742028432920</Bytes>
+			<ASCII> C o p y r i g h t   ( C )</ASCII>
+			<Pos>32</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20627920596F756E74656C20</Bytes>
+			<ASCII>   b y   Y o u n t e l</ASCII>
+			<Pos>55</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

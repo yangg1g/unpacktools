@@ -1,0 +1,29 @@
+<TrID ver="1.15">
+    <Info>
+        <FileType>AutoCAD Drawing Exchange Binary Format (v1.0)</FileType>
+        <Ext>DXB</Ext>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>3</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>12</Day>
+        </Date>
+        <Time>
+            <Hour>12</Hour>
+            <Min>08</Min>
+            <Sec>38</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4175746F4341442044584220312E300D0A</Bytes>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

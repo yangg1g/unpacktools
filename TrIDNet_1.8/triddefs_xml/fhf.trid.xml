@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Cleanersoft Free Hide Folder data</FileType>
+		<Ext>FHF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cleanersoft.com/hidefolder/free_hide_folder.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>06</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>21</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>46726565204869646520466F6C64657220</Bytes>
+			<ASCII> F r e e   H i d e   F o l d e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

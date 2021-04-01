@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CXF Vector Map Format (v3.x)</FileType>
+		<Ext>CXF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://heightmap.org/index.php?m=2</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>25</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>43585446</Bytes>
+			<ASCII> C X T F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

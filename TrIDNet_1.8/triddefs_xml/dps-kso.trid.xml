@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Kingsoft Presentation document</FileType>
+		<Ext>DPS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Kingsoft_Office</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>20</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>P'O'W'E'R'P'O'I'N'T' 'D'O'C'U'M'E'N'T'''''''''''''''''''''''''''(</String>
+		<String>D'O'C'U'M'E'N'T'S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N'''''''''''8</String>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N'''''''''''''''''''''''''''(</String>
+		<String>B'L'I'N'D'S'('H'O'R'I'Z'O'N'T'A'L')</String>
+		<String>K'S'O'P'R'O'D'U'C'T'B'U'I'L'D'V'E'R</String>
+		<String>S'T'Y'L'E'.'V'I'S'I'B'I'L'I'T'Y</String>
+		<String>K'I'N'G'S'O'F'T' 'O'F'F'I'C'E</String>
+		<String>C'U'R'R'E'N'T' 'U'S'E'R</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>P'I'C'T'U'R'E'S</String>
+		<String>_'_'_'P'P'T'1'0</String>
+		<String>S'H'O'W</String>
+		<String>T'Y'P'E</String>
+	</GlobalStrings>
+</TrID>

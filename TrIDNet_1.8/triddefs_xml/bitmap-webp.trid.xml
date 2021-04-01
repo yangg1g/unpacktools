@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WebP bitmap</FileType>
+		<Ext>WEBP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://code.google.com/speed/webp/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>10</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>11</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52494646</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>57454250</Bytes>
+			<ASCII> W E B P</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

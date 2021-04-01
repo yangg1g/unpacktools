@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Zinio Reader Magazine</FileType>
+		<Ext>ZNO</Ext>
+		<ExtraInfo>
+			<Rem>Zinio markets various electronic versions of magazines.</Rem>
+			<RefURL>http://www.zinio.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2005</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>57</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5A4E4F</Bytes>
+			<ASCII> Z N O</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>424D</Bytes>
+			<ASCII> B M</ASCII>
+			<Pos>32</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

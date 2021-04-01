@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Policy Administrative Template</FileType>
+		<Ext>ADM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://support.microsoft.com/kb/228460</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>50</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>434C41535320</Bytes>
+			<ASCII> C L A S S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CLASS MACHINE</String>
+		<String>END CATEGORY</String>
+		<String>END POLICY</String>
+		<String>VALUENAME</String>
+		<String>KEYNAME</String>
+	</GlobalStrings>
+</TrID>

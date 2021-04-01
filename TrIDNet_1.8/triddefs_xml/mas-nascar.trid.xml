@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Nascar SimRacing data</FileType>
+		<Ext>MAS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>49</Min>
+			<Sec>54</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>435542454D4153342E3130</Bytes>
+			<ASCII> C U B E M A S 4 . 1 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

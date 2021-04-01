@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Merriam-Webster's Pocket Dictionary</FileType>
+		<Ext>PDB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>12</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>03</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D2D5720506F636B65742044696374696F6E617279</Bytes>
+			<ASCII> M - W   P o c k e t   D i c t i o n a r y</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5044637450507273</Bytes>
+			<ASCII> P D c t P P r s</ASCII>
+			<Pos>60</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

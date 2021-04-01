@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Outlook Message</FileType>
+		<Ext>MSG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>34</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>04</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>15</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>_'_'P'R'O'P'E'R'T'I'E'S'_'V'E'R'S'I'O'N'1'.'0</String>
+		<String>_'_'N'A'M'E'I'D'_'V'E'R'S'I'O'N'1'.'0</String>
+		<String>_'_'S'U'B'S'T'G'1'.'0'_</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+	</GlobalStrings>
+</TrID>

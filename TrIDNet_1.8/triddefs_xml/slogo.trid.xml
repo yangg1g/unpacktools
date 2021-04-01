@@ -1,0 +1,77 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>StarLogo project</FileType>
+		<Ext>SLOGO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/StarLogo</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>110</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>25</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4A61766120537461724C6F676F</Bytes>
+			<ASCII> J a v a   S t a r L o g o</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>OBSERVER-COMMAND-CENTER-HEIGHT</String>
+		<String>TURTLE-COMMAND-CENTER-HEIGHT</String>
+		<String>CONTROL-CENTER-HEIGHT</String>
+		<String>INTERFACE-WINDOW-SIZE</String>
+		<String>INTERFACE-WINDOW-XCOR</String>
+		<String>INTERFACE-WINDOW-YCOR</String>
+		<String>CONTROL-CENTER-WIDTH</String>
+		<String>OUTPUT-WINDOW-HEIGHT</String>
+		<String>CONTROL-CENTER-XCOR</String>
+		<String>CONTROL-CENTER-YCOR</String>
+		<String>OUTPUT-WINDOW-WIDTH</String>
+		<String>INFO-WINDOW-HEIGHT</String>
+		<String>OUTPUT-WINDOW-XCOR</String>
+		<String>OUTPUT-WINDOW-YCOR</String>
+		<String>SCREEN-HALF-HEIGHT</String>
+		<String>TURTLE-OR-OBSERVER</String>
+		<String>INFO-WINDOW-WIDTH</String>
+		<String>SCREEN-HALF-WIDTH</String>
+		<String>INFO-WINDOW-XCOR</String>
+		<String>INFO-WINDOW-YCOR</String>
+		<String>OBSERVER WORLD</String>
+		<String>BUTTON-NUMBER</String>
+		<String>JAVA STARLOGO</String>
+		<String>DOUBLE TABLE</String>
+		<String>STRING TABLE</String>
+		<String>SYMBOL TABLE</String>
+		<String>TURTLE WORLD</String>
+		<String>WIDTH-HEIGHT</String>
+		<String>INFORMATION</String>
+		<String>LINE-TO-RUN</String>
+		<String>PATCH WORLD</String>
+		<String>LIST TABLE</String>
+		<String>NUM-SHAPES</String>
+		<String>PATCH-SIZE</String>
+		<String>SHOW-NAME</String>
+		<String>SETTINGS</String>
+		<String>SLBUTTON</String>
+		<String>SLCANVAS</String>
+		<String>TOP-LEFT</String>
+		<String>FOREVER</String>
+	</GlobalStrings>
+</TrID>

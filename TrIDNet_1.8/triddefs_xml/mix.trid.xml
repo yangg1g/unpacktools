@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft PhotoDraw drawing</FileType>
+		<Ext>MIX</Ext>
+		<ExtraInfo>
+			<Rem>The MIX file format is the Microsoft PhotoDraw master file format. By default, PhotoDraw saves the pictures in this format.</Rem>
+			<RefURL>http://office.microsoft.com/assistance/category.aspx?CategoryID=CH010620051033</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<Refine>1 by Marco Pontello - 1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>04</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>39</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE1</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>M'I'C'R'O'S'O'F'T' 'E'M'B'E'D'D'I'N'G' 'I'N'F'O</String>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>D'A'T'A' 'O'B'J'E'C'T' '0'0'0'0'0</String>
+		<String>G'L'O'B'A'L' 'I'N'F'O</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>C'O'M'P'O'B'J</String>
+		<String>0'0'0'0'0'1</String>
+		<String>MICROSOFT P</String>
+		<String>VERSION</String>
+		<String>PICTURE</String>
+		<String>OAVT</String>
+	</GlobalStrings>
+</TrID>

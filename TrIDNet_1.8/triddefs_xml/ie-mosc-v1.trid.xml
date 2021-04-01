@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Infinity Engine compressed graphic (v1)</FileType>
+		<Ext>MOS</Ext>
+		<ExtraInfo>
+			<Rem>Infinity Engine MOSC files describe zlib compressed MOS files which describe static graphics in a tile based bitmap format.</Rem>
+			<RefURL>http://iesdp.gibberlings3.net/file_formats/ie_formats/mos_v1.htm#mosc_v1_Header</RefURL>
+		</ExtraInfo>
+		<User>Sam.</User>
+		<E-Mail>sampsca@yahoo.com</E-Mail>
+		<Home>http://www.shsforums.net/user/10485-sam/</Home>
+	</Info>
+	<General>
+		<FileNum>845</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>01</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>56</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D4F534356312020</Bytes>
+			<ASCII> M O S C V 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

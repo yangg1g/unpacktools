@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ArtBorder data</FileType>
+		<Ext>ARTBORDER</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://artisticsoftware.com/artborders.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>04</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>51</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>262A</Bytes>
+			<ASCII> . *</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

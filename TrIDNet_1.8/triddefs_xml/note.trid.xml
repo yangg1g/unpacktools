@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Handrite Note document</FileType>
+		<Ext>NOTE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>https://play.google.com/store/apps/details?id=my.handrite</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>50</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>48616E6472697465206E6F74652076</Bytes>
+			<ASCII> H a n d r i t e   n o t e   v</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

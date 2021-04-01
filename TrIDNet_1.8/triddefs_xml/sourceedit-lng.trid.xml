@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SourceEdit Language Definition</FileType>
+		<Ext>LNG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.brixoft.com/default.asp</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>29</FileNum>
+		<Refine>12 by Marco Pontello</Refine>
+		<Date>
+			<Year>2004</Year>
+			<Month>01</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>56</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>93B20000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0008000800BBD765E2</Bytes>
+			<ASCII> . . . . . . . e</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000006C0061006E0067006E0061006D006500</Bytes>
+			<ASCII> . . . l . a . n . g . n . a . m . e</ASCII>
+			<Pos>17</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

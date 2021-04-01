@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>API Viewer Database</FileType>
+		<Ext>APV</Ext>
+		<ExtraInfo>
+			<Rem>API Viewer 2004 is an expandable plugin-based Win32 API syntax viewer/converter, supports many languages (C/MASM/.NET/VB/PowerBASIC/PureBASIC/IBasic/PyxiaBASIC/LibertyBASIC/Borland Delphi)</Rem>
+			<RefURL>http://www.activevb.de/rubriken/apiviewer/index-apiviewereng.html</RefURL>
+		</ExtraInfo>
+		<User>voodooattack</User>
+		<E-Mail>voodooattack at hotmail dot com</E-Mail>
+		<Home>http://voodooattack.deviantart.com</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>15</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5642415049</Bytes>
+			<ASCII> V B A P I</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>6</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

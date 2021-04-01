@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sony Ericsson Mobile Phone Note</FileType>
+		<Ext>VNT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>12</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>16</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>424547494E3A564E4F54450D0A56455253494F4E3A</Bytes>
+			<ASCII> B E G I N : V N O T E . . V E R S I O N :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>22</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VERSION</String>
+		<String>BEGIN</String>
+		<String>VNOTE</String>
+		<String>BODY</String>
+	</GlobalStrings>
+</TrID>

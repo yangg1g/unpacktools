@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BrioQuery</FileType>
+		<Ext>BQY</Ext>
+		<ExtraInfo>
+			<Rem>BrioQuery is a sophisticated ad hoc query and reporting application for client/server database environments.</Rem>
+			<RefURL>http://www.fis.ncsu.edu/acs_extracts/Brio.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>06</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>49</Min>
+			<Sec>54</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>234252494620</Bytes>
+			<ASCII> # B R I F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

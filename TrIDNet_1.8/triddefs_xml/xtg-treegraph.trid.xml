@@ -1,0 +1,76 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>eXtensible TreeGraph format</FileType>
+		<Ext>XTG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://treegraph.bioinfweb.info/Development/XTG</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>11</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>52</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GLOBALFORMATS BGCOLOR</String>
+		<String>SCALEBAR LINECOLOR</String>
+		<String>TREEGRAPHDOCUMENT</String>
+		<String>BRANCHLENGTHSCALE</String>
+		<String>BRANCH LINECOLOR</String>
+		<String>NODE UNIQUENAME</String>
+		<String>LEAFMARGIN LEFT</String>
+		<String>ALIGNTOSUBTREE</String>
+		<String>DOCMARGIN LEFT</String>
+		<String>CONSTANTWIDTH</String>
+		<String>MINSPACEBELOW</String>
+		<String>LOCALEVARIANT</String>
+		<String>SMALLINTERVAL</String>
+		<String>DECIMALFORMAT</String>
+		<String>LOCALECOUNTRY</String>
+		<String>MINSPACEABOVE</String>
+		<String>LONGINTERVAL</String>
+		<String>TREEDISTANCE</String>
+		<String>SHOWSCALEBAR</String>
+		<String>XML VERSION</String>
+		<String>FONTFAMILY</String>
+		<String>INCREASING</String>
+		<String>TEXTHEIGHT</String>
+		<String>LABELSLEFT</String>
+		<String>LOCALELANG</String>
+		<String>EDGERADIUS</String>
+		<String>SHOWROOTED</String>
+		<String>ISDECIMAL</String>
+		<String>LINEWIDTH</String>
+		<String>NODE TEXT</String>
+		<String>MINLENGTH</String>
+		<String>STARTLEFT</String>
+		<String>TEXTCOLOR</String>
+		<String>TEXTSTYLE</String>
+		<String>ENCODING</String>
+		<String>BOTTOM</String>
+		<String>RIGHT</String>
+		<String>FALSE</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BrainSuite Surface File Format</FileType>
+		<Ext>DFS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://users.loni.ucla.edu/~shattuck/brainsuite/file-formats/dfs/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>8</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4446535F</Bytes>
+			<ASCII> D F S _</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>452056322E3000</Bytes>
+			<ASCII> E   V 2 . 0</ASCII>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

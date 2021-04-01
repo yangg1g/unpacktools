@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sharp Wizard program</FileType>
+		<Ext>WZD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://dmoz.org/Computers/Systems/Handhelds/Sharp/Wizard/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>10</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>01</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C534841525020575A4420444154413E0D0A3C4441544120545950453E0D0A4D592050524F4752414D530D0A3C2F4441544120545950453E0D0A3C5449544C453E0D0A</Bytes>
+			<ASCII> . S H A R P   W Z D   D A T A . . . . D A T A   T Y P E . . . M Y   P R O G R A M S . . . / D A T A   T Y P E . . . . T I T L E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SHARP WZD DATA</String>
+		<String>MY PROGRAMS</String>
+		<String>BIN_PROG_1</String>
+		<String>DATA TYPE</String>
+		<String>CATEGORY</String>
+		<String>CONTENT</String>
+		<String>PFILE</String>
+		<String>TITLE</String>
+		<String>.BAS</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MDict dictionary</FileType>
+		<Ext>MDX</Ext>
+		<ExtraInfo>
+			<Rem>MDict is a multi-language dictionary under WinCE for PDAs.</Rem>
+			<RefURL>http://www.octopus-studio.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>57</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3C00440069006300740069006F006E006100720079002000470065006E006500720061007400650064004200790045006E00670069006E006500560065007200730069006F006E003D002200</Bytes>
+			<ASCII> . . D . i . c . t . i . o . n . a . r . y .   . G . e . n . e . r . a . t . e . d . B . y . E . n . g . i . n . e . V . e . r . s . i . o . n . = . "</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00220020005200650071007500690072006500640045006E00670069006E006500560065007200730069006F006E003D002200</Bytes>
+			<ASCII> . " .   . R . e . q . u . i . r . e . d . E . n . g . i . n . e . V . e . r . s . i . o . n . = . "</ASCII>
+			<Pos>85</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>D'I'C'T'I'O'N'A'R'Y' 'G'E'N'E'R'A'T'E'D'B'Y'E'N'G'I'N'E'V'E'R'S'I'O'N</String>
+		<String>R'E'Q'U'I'R'E'D'E'N'G'I'N'E'V'E'R'S'I'O'N</String>
+		<String>D'A'T'A'S'O'U'R'C'E'F'O'R'M'A'T</String>
+		<String>K'E'Y'C'A'S'E'S'E'N'S'I'T'I'V'E</String>
+		<String>D'E'S'C'R'I'P'T'I'O'N</String>
+		<String>S'T'Y'L'E'S'H'E'E'T</String>
+		<String>E'N'C'R'Y'P'T'E'D</String>
+		<String>E'N'C'O'D'I'N'G</String>
+		<String>C'O'M'P'A'C'T</String>
+		<String>C'O'M'P'A'T</String>
+		<String>T'I'T'L'E</String>
+		<String>C'O'L'O'R</String>
+		<String>H'T'M'L</String>
+		<String>S'I'Z'E</String>
+		<String>F'O'N'T</String>
+	</GlobalStrings>
+</TrID>

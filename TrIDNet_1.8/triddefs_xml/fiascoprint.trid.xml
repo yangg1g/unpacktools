@@ -1,0 +1,30 @@
+<TrID ver="1.16">
+    <Info>
+        <FileType>Fiasco Database: print report definitions</FileType>
+        <Ext>FPR</Ext>
+        <User>Ruggero Furlanetto</User>
+        <E-Mail>furlanr@REMOVEMEFORSPAMinfinito.it</E-Mail>
+        <Home>http://members.xoom.virgilio.it/misartim/</Home>
+    </Info>
+    <General>
+        <FileNum>2</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>15</Day>
+        </Date>
+        <Time>
+            <Hour>11</Hour>
+            <Min>37</Min>
+            <Sec>03</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00.1</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>46505254</Bytes>
+            <ASCII> F P R T</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Musicator Delta song/music</FileType>
+		<Ext>MCR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.musicator.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>05</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>14</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52494646</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D43415476657273</Bytes>
+			<ASCII> M C A T v e r s</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52494646</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>28</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4241525376657273</Bytes>
+			<ASCII> B A R S v e r s</ASCII>
+			<Pos>36</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4C495354</Bytes>
+			<ASCII> L I S T</ASCII>
+			<Pos>56</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4142415262686564</Bytes>
+			<ASCII> A B A R b h e d</ASCII>
+			<Pos>64</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>The TFMX Professional 2.0 song/module</FileType>
+        <Ext></Ext>
+        <ExtraInfo>
+            <Rem>The Final Musicsystem eXtended. An elaborate music format devised and created by Chris Huelsbeck, with Peter Thierolf writing the editor.</Rem>
+            <RefURL>http://darkstar.tabu.uni-bonn.de/~neo/tfmx/tfmx-format.txt</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>24</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>27</Day>
+        </Date>
+        <Time>
+            <Hour>22</Hour>
+            <Min>58</Min>
+            <Sec>12</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>54464D582D534F4E4720</Bytes>
+            <ASCII> T F M X - S O N G</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

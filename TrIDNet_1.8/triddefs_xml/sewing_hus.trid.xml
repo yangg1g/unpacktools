@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Husqvarna Designer I Embroidery Machine Format</FileType>
+		<Ext>HUS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>FILExt</User>
+		<E-Mail>Use the Website form</E-Mail>
+		<Home>http://filext.com/</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>53</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5DFCC800</Bytes>
+			<ASCII> ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>6</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>9</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>21</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>25</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000</Bytes>
+			<Pos>30</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>43</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

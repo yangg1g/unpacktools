@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>E-Mail message (Var. 5)</FileType>
+		<Ext>EML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>11</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>21</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52656365697665643A2066726F6D20</Bytes>
+			<ASCII> R e c e i v e d :   f r o m</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONTENT-TRANSFER-ENCODING</String>
+		<String>CONTENT-TYPE</String>
+		<String>MIME-VERSION</String>
+		<String>MESSAGE-ID</String>
+		<String>RECEIVED</String>
+		<String>SUBJECT</String>
+		<String>DATE</String>
+		<String>FROM</String>
+		<String>MAIL</String>
+		<String>TIME</String>
+		<String>WITH</String>
+	</GlobalStrings>
+</TrID>

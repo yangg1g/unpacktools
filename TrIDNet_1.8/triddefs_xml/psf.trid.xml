@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PowerArchiver skin</FileType>
+		<Ext>PSF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.powerarchiver.com/skin</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>08</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>33</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>42480507</Bytes>
+			<ASCII> B H</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0025D5000208</Bytes>
+			<ASCII> . %</ASCII>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PROGRESSBAR.</String>
+		<String>SBAR.BMP</String>
+		<String>BOTTOM</String>
+		<String>REBAR.</String>
+		<String>COMBOB</String>
+		<String>HEADER</String>
+		<String>SCROLL</String>
+		<String>STATUS</String>
+		<String>CHECK</String>
+		<String>MENUB</String>
+		<String>RADIO</String>
+		<String>RIGHT</String>
+		<String>FRAME</String>
+		<String>GROUP</String>
+		<String>TOOLB</String>
+		<String>.BMPS</String>
+		<String>LEFT</String>
+		<String>.UIS</String>
+	</GlobalStrings>
+</TrID>

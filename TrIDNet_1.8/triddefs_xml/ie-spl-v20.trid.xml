@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Infinity Engine spell (v2.0)</FileType>
+		<Ext>SPL</Ext>
+		<ExtraInfo>
+			<Rem>Infinity Engine SPL files describe a "spell".</Rem>
+			<RefURL>http://iesdp.gibberlings3.net/file_formats/ie_formats/spl_v2.htm</RefURL>
+		</ExtraInfo>
+		<User>Sam.</User>
+		<E-Mail>sampsca@yahoo.com</E-Mail>
+		<Home>http://www.shsforums.net/user/10485-sam/</Home>
+	</Info>
+	<General>
+		<FileNum>788</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>2</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>7</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53504C2056322E30</Bytes>
+			<ASCII> S P L   V 2 . 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

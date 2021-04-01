@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OffsetFinderTemplate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <FormatName>Nintendo 3DS - CSEQ Files</FormatName>
+    <Author>soneek</Author>
+  </Header>
+  <SearchParameters>
+    <SearchString>43534551FFFE</SearchString>
+    <TreatSearchStringAsHex>true</TreatSearchStringAsHex>
+    <StartingOffset />
+    <UseModOffsetForSearchString>false</UseModOffsetForSearchString>
+    <SearchStringOffset>0</SearchStringOffset>
+    <OutputFileExtension>.cseq</OutputFileExtension>
+    <MinimumSizeForCutting />
+    <CutParameters>
+      <CutStyle>offset</CutStyle>
+      <CutSizeAtOffset>0xC</CutSizeAtOffset>
+      <CutSizeOffsetSize>4</CutSizeOffsetSize>
+      <CutSizeOffsetEndianess>little</CutSizeOffsetEndianess>
+    </CutParameters>
+    <AddExtraBytes>false</AddExtraBytes>
+    <AddExtraByteSize />
+  </SearchParameters>
+  <NotesOrWarnings>For use with archives such as .bcsar</NotesOrWarnings>
+</OffsetFinderTemplate>

@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Pixelmator graphic</FileType>
+		<Ext>PXM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pixelmator.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>28</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>55</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.10b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0000000850584D545F444F43</Bytes>
+			<ASCII> . . . . P X M T _ D O C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000006484541444552</Bytes>
+			<ASCII> . . . . H E A D E R</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000084D45544144415441</Bytes>
+			<ASCII> . . . . M E T A D A T A</ASCII>
+			<Pos>78</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

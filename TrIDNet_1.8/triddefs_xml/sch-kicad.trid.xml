@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>KiCad Schematics</FileType>
+		<Ext>SCH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/KiCad</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>24</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>3</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4545536368656D6120536368656D617469632046696C652056657273696F6E20</Bytes>
+			<ASCII> E E S c h e m a   S c h e m a t i c   F i l e   V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MICROCONTROLLERS</String>
+		<String>ANALOG_SWITCHES</String>
+		<String>WIRE WIRE LINE</String>
+		<String>$ENDSCHEMATC</String>
+		<String>EELAYER END</String>
+		<String>CONNECTION</String>
+		<String>$ENDDESCR</String>
+		<String>MICROCHIP</String>
+		<String>$ENDCOMP</String>
+		<String>COMMENT</String>
+		<String>$DESCR</String>
+		<String>DEVICE</String>
+		<String>LINEAR</String>
+		<String>$COMP</String>
+		<String>CACHE</String>
+		<String>POWER</String>
+		<String>REGUL</String>
+		<String>SHEET</String>
+		<String>TITLE</String>
+		<String>DATE</String>
+		<String>LIBS</String>
+		<String>TEXT</String>
+	</GlobalStrings>
+</TrID>

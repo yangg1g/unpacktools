@@ -1,0 +1,62 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BlackBerry resource</FileType>
+		<Ext>RRH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/BlackBerry</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>08</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>40</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7061636B61676520</Bytes>
+			<ASCII> p a c k a g e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>APPLICATION_DESCRIPTION</String>
+		<String>APPLICATION_TITLE</String>
+		<String>MENU_ABOUT</String>
+		<String>COPYRIGHT</String>
+		<String>_PASSWORD</String>
+		<String>_MESSAGES</String>
+		<String>T_TITLE</String>
+		<String>_DELETE</String>
+		<String>LABEL_P</String>
+		<String>E_LABEL</String>
+		<String>_CANCEL</String>
+		<String>VERSION</String>
+		<String>_PREFIX</String>
+		<String>PACKAGE</String>
+		<String>N_CLOSE</String>
+		<String>BUTTON</String>
+		<String>RATION</String>
+		<String>_AUTO</String>
+		<String>LOAD</String>
+		<String>SAVE</String>
+		<String>NAME</String>
+		<String>STAT</String>
+		<String>ABLE</String>
+		<String>TING</String>
+		<String>DATE</String>
+	</GlobalStrings>
+</TrID>

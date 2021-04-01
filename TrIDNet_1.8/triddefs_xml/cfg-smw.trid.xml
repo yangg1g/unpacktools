@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ShowMiiWads configuration</FileType>
+		<Ext>CFG</Ext>
+		<ExtraInfo>
+			<Rem>ShowMiiWads is a 'Wad File Manager' for Windows.</Rem>
+			<RefURL>http://code.google.com/p/showmiiwads/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>11</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>06</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CREATEBACKUPS</String>
+		<String>WINDOWHEIGHT</String>
+		<String>SPLASHSCREEN</String>
+		<String>WINDOWWIDTH</String>
+		<String>XML VERSION</String>
+		<String>WINDOWSTATE</String>
+		<String>SHOWMIIWADS</String>
+		<String>SAVEFOLDERS</String>
+		<String>FOLDERCOUNT</String>
+		<String>STANDALONE</String>
+		<String>MAXIMIZED</String>
+		<String>LOCATIONX</String>
+		<String>LOCATIONY</String>
+		<String>LANGUAGE</String>
+		<String>AUTOSIZE</String>
+		<String>ACCEPTED</String>
+		<String>SHOWPATH</String>
+		<String>NANDPATH</String>
+		<String>PORTABLE</String>
+		<String>SETTINGS</String>
+		<String>LANGFILE</String>
+		<String>FOLDER0</String>
+		<String>ADDSUB</String>
+		<String>VIEW</String>
+	</GlobalStrings>
+</TrID>

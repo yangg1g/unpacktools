@@ -1,0 +1,73 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TuneUp Visual Style</FileType>
+		<Ext>TVS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.tune-up.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>01</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>57</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>544B0304</Bytes>
+			<ASCII> T K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E5468656D65</Bytes>
+			<ASCII> . T h e m e</ASCII>
+			<Pos>36</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>EXCLAMATION.WAVPK</String>
+		<String>SHELLSTYLE.DLLPK</String>
+		<String>DISCONNECT.WAVPK</String>
+		<String>NAVIGATE.WAVPK</String>
+		<String>ASTERISK.WAVPK</String>
+		<String>SHUTDOWN.WAVPK</String>
+		<String>EMPTY.WAVMYYW</String>
+		<String>DEFAULT.WAVPK</String>
+		<String>STARTUP.WAVPK</String>
+		<String>LOWBATT.WAVPK</String>
+		<String>R.IEBARZIPPK</String>
+		<String>LOGOFF.WAVPK</String>
+		<String>DEFAULT.WAV}</String>
+		<String>NOTIFY.WAVPK</String>
+		<String>STARTUP.WAVM</String>
+		<String>NOTIFY.WAVMZ</String>
+		<String>LOWBATT.WAV}</String>
+		<String>LOGON.WAVPK</String>
+		<String>EMAIL.WAVPK</String>
+		<String>NORMALCOLOR</String>
+		<String>.MSSTYLESPK</String>
+		<String>EMPTY.WAVPK</String>
+		<String>EXPLORERBAR</String>
+		<String>HAND.WAVPK</String>
+		<String>FAIL.WAVPK</String>
+		<String>WALLPAPER</String>
+		<String>.THEMEPK</String>
+		<String>COLD.PNG</String>
+		<String>HOT.PNG</String>
+		<String>.TTFPK</String>
+		<String>SOUNDS</String>
+	</GlobalStrings>
+</TrID>

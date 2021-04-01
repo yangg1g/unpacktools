@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Palm TealInfo</FileType>
+		<Ext>PDB</Ext>
+		<ExtraInfo>
+			<Rem>TealPoint Software TealInfo is an information presentation program.</Rem>
+			<RefURL>http://www.tealpoint.com/softinfo.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>35</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00000000496E666F546C4966</Bytes>
+			<ASCII> . . . . I n f o T l I f</ASCII>
+			<Pos>56</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>INFOTLIF</String>
+		<String>IHDR</String>
+		<String>TDAT</String>
+		<String>TOFF</String>
+	</GlobalStrings>
+</TrID>

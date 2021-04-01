@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AutoPano project</FileType>
+		<Ext>OTO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://autopano.kolor.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>31</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23206F746F2070726F6A6563742066696C652067656E657261746564206279206175746F70616E6F0D0A</Bytes>
+			<ASCII> #   o t o   p r o j e c t   f i l e   g e n e r a t e d   b y   a u t o p a n o</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

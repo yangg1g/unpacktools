@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PostScript Printer Description</FileType>
+		<Ext>PPD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/PostScript_Printer_Description</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2009</Year>
+			<Month>09</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>48</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2A5050442D41646F62653A</Bytes>
+			<ASCII> * P P D - A d o b e :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

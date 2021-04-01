@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Digital Trainer Encrypted Score file</FileType>
+		<Ext>EDF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>55</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4469676974616C20547261696E657220456E637279707465642053636F72652046696C651A</Bytes>
+			<ASCII> D i g i t a l   T r a i n e r   E n c r y p t e d   S c o r e   F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

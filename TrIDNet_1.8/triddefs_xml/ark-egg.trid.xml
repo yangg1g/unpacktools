@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EGG compressed archive</FileType>
+		<Ext>EGG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.altools.com/ALTools/ALZip/Egg-format.aspx</RefURL>
+		</ExtraInfo>
+		<User>aeiou256</User>
+		<E-Mail>aeiou256@hotmail.com</E-Mail>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>09</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>30</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>454747410001</Bytes>
+			<ASCII> E G G A</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

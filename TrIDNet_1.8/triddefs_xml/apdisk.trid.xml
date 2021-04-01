@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OS X system data</FileType>
+		<Ext>APDISK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>58</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0A3C21444F435459504520706C697374205055424C494320222D2F2F4170706C652F2F44544420504C49535420312E302F2F454E222022687474703A2F2F7777772E6170706C652E636F6D2F445444732F50726F70657274794C6973742D312E302E647464223E0A3C706C6973742076657273696F6E3D22312E30223E0A3C646963743E0A093C6B65793E6469736B557569643C2F6B65793E0A093C737472696E673E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ? . . . ! D O C T Y P E   p l i s t   P U B L I C   " - / / A p p l e / / D T D   P L I S T   1 . 0 / / E N "   " h t t p : / / w w w . a p p l e . c o m / D T D s / P r o p e r t y L i s t - 1 . 0 . d t d " . . . p l i s t   v e r s i o n = " 1 . 0 " . . . d i c t . . . . k e y . d i s k U u i d . / k e y . . . . s t r i n g</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCTYPE PLIST PUBLIC</String>
+		<String>PROPERTYLIST-1.0.DTD</String>
+		<String>DTD PLIST 1.0</String>
+		<String>PLIST VERSION</String>
+		<String>WWW.APPLE.COM</String>
+		<String>XML VERSION</String>
+		<String>DISKUUID</String>
+		<String>ENCODING</String>
+		<String>STRING</String>
+		<String>UTF-8</String>
+		<String>DICT</String>
+		<String>DTDS</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

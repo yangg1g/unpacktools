@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Poly Tracker module/song</FileType>
+        <Ext>PTM</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://thorkildsen.no/faqsys/docs/ptmform.doc</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>2</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>10</Day>
+        </Date>
+        <Time>
+            <Hour>20</Hour>
+            <Min>52</Min>
+            <Sec>54</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.40b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>1A030200</Bytes>
+            <Pos>28</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000000050544D4600000000000000000000000000000000</Bytes>
+            <ASCII> . . . . P T M F</ASCII>
+            <Pos>40</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

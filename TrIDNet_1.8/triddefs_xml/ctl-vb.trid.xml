@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Visual Basic user-defined control file</FileType>
+		<Ext>CTL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.hitmill.com/programming/vb/filetypes.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>04</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>56455253494F4E20</Bytes>
+			<ASCII> V E R S I O N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>9</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ATTRIBUTE VB_GLOBALNAMESPACE</String>
+		<String>ATTRIBUTE VB_PREDECLAREDID</String>
+		<String>USERCONTROL_INITIALIZE()</String>
+		<String>ATTRIBUTE VB_CREATABLE</String>
+		<String>ATTRIBUTE VB_EXPOSED</String>
+		<String>BEGIN VB.USERCONTROL</String>
+		<String>ATTRIBUTE VB_NAME</String>
+		<String>PROPERTY</String>
+		<String>CAPTION</String>
+		<String>OPTION</String>
+	</GlobalStrings>
+</TrID>

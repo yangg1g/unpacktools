@@ -1,0 +1,62 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sharp Wizard schedule</FileType>
+		<Ext>WZD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://dmoz.org/Computers/Systems/Handhelds/Sharp/Wizard/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>10</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>02</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C534841525020575A4420444154413E0D0A3C4441544120545950453E0D0A5343484544554C450D0A3C2F4441544120545950453E0D0A3C5449544C453E0D0A</Bytes>
+			<ASCII> . S H A R P   W Z D   D A T A . . . . D A T A   T Y P E . . . S C H E D U L E . . . / D A T A   T Y P E . . . . T I T L E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SHARP DOWNLOAD DATA V1.0</String>
+		<String>SHARP WZD DATA</String>
+		<String>REPEAT FLAG</String>
+		<String>REPEAT INFO</String>
+		<String>REPEAT LINK</String>
+		<String>DESCRIPTION</String>
+		<String>QUICK MEMO</String>
+		<String>ALARM TIME</String>
+		<String>ALARM FLAG</String>
+		<String>START TIME</String>
+		<String>ATTRIBUTE</String>
+		<String>DATA TYPE</String>
+		<String>END TIME</String>
+		<String>SCHEDULE</String>
+		<String>CATEGORY</String>
+		<String>TITLE</String>
+		<String>ATTM</String>
+		<String>LKTM</String>
+		<String>RPST</String>
+		<String>ALRM</String>
+		<String>CGR1</String>
+		<String>SRPT</String>
+		<String>QMEM</String>
+		<String>TIM1</String>
+		<String>MEM1</String>
+	</GlobalStrings>
+</TrID>

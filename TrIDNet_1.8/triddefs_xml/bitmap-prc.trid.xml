@@ -1,0 +1,54 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Picture Gear Pocket bitmap</FileType>
+        <Ext>PRC</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>21</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>27</Day>
+        </Date>
+        <Time>
+            <Hour>12</Hour>
+            <Min>35</Min>
+            <Sec>21</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.02.6b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4269746D6170</Bytes>
+            <ASCII> B i t m a p</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>69494E4603E80000</Bytes>
+            <ASCII> i I N F</ASCII>
+            <Pos>78</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>6946524903E80000</Bytes>
+            <ASCII> i F R I</ASCII>
+            <Pos>88</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>6954494C03E80000</Bytes>
+            <ASCII> i T I L</ASCII>
+            <Pos>98</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>69494E46044C0000</Bytes>
+            <ASCII> i I N F . L</ASCII>
+            <Pos>108</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

@@ -1,0 +1,96 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>NetCracker Resource Inventory</FileType>
+		<Ext>NET</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.netcracker.com/en/products/resource_inventory/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>06</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>49</Min>
+			<Sec>02</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00000000070000000A4E6574437261636B6572</Bytes>
+			<ASCII> . . . . . . . . . N e t C r a c k e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>53617665644964</Bytes>
+			<ASCII> S a v e d I d</ASCII>
+			<Pos>29</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>437265617465644279</Bytes>
+			<ASCII> C r e a t e d B y</ASCII>
+			<Pos>61</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CIRCUIT SWITCHING</String>
+		<String>CCHANGEABLEOBJECT</String>
+		<String>CRELATIONMANAGER</String>
+		<String>TELECOM LIBRARY</String>
+		<String>CMODULEHOLDER</String>
+		<String>CMODULEOBJECT</String>
+		<String>CRELATIONTYPE</String>
+		<String>CLAYEROBJECT</String>
+		<String>COBJECTTITLE</String>
+		<String>CDEVICETITLE</String>
+		<String>PROFESSIONAL</String>
+		<String>CDRAWMODULE</String>
+		<String>CDRAWOBJECT</String>
+		<String>CDRAWSIMPLE</String>
+		<String>CREATEDPROD</String>
+		<String>CWINDOWINFO</String>
+		<String>NETCRACKER</String>
+		<String>CONNECTORS</String>
+		<String>CREATEDVER</String>
+		<String>TOKEN RING</String>
+		<String>INDICATORS</String>
+		<String>STANDALONE</String>
+		<String>CREATEDBY</String>
+		<String>CDRAWLINE</String>
+		<String>LINKROOTS</String>
+		<String>CDRAWTEXT</String>
+		<String>CREATEDID</String>
+		<String>SAVEDPROD</String>
+		<String>WORKGROUP</String>
+		<String>ETHERNET</String>
+		<String>SAVEDVER</String>
+		<String>CTRACKER</String>
+		<String>GRAPHICS</String>
+		<String>SAVEDBY</String>
+		<String>SAVEDID</String>
+		<String>DEVICES</String>
+		<String>VERSION</String>
+		<String>GRAPHS</String>
+		<String>FORMAT</String>
+		<String>SERIAL</String>
+		<String>ROUTER</String>
+		<String>VOICE</String>
+		<String>BUILD</String>
+		<String>LINKS</String>
+		<String>.NTM</String>
+		<String>ISDN</String>
+		<String>HTTP</String>
+		<String>WWW.</String>
+	</GlobalStrings>
+</TrID>

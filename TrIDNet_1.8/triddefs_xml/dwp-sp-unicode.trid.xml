@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SharePoint Portal Server Dashboard Web Part (Unicode)</FileType>
+		<Ext>DWP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Microsoft_SharePoint</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>07</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>51</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MICROSOFT.SHAREPOINT.WEBPARTPAGES</String>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>71E9BCE111E9429C</String>
+		<String>PUBLICKEYTOKEN</String>
+		<String>WEBPART XMLNS</String>
+		<String>DESCRIPTION</String>
+		<String>WWW.W3.ORG</String>
+		<String>XMLSCHEMA</String>
+		<String>ASSEMBLY</String>
+		<String>CONNECT</String>
+		<String>CONTENT</String>
+		<String>VERSION</String>
+		<String>CULTURE</String>
+		<String>DEFAULT</String>
+		<String>NEUTRAL</String>
+		<String>SOURCE</String>
+		<String>LLINK</String>
+		<String>TITLE</String>
+		<String>IMAGE</String>
+		<String>DING</String>
+		<String>TYPE</String>
+		<String>NAME</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

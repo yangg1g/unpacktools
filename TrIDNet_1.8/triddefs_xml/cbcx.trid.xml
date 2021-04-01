@@ -1,0 +1,71 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Comic Book Creator document</FileType>
+		<Ext>CBCX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mycomicbookcreator.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>02</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>46</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C20</Bytes>
+			<ASCII> . ? x m l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COMIC BOOK CR</String>
+		<String>CONTENT PACKS</String>
+		<String>BORDER COLOR</String>
+		<String>LASTMODIFIED</String>
+		<String>XML VERSION</String>
+		<String>BALLOON ID</String>
+		<String>BITMAPFILE</String>
+		<String>BODYPOINT</String>
+		<String>TEXT TYPE</String>
+		<String>PAPERSIZE</String>
+		<String>KEYWORDS</String>
+		<String>COMMENTS</String>
+		<String>POSITION</String>
+		<String>BOOK ID</String>
+		<String>CBC.DTD</String>
+		<String>CREATED</String>
+		<String>DOCTYPE</String>
+		<String>PAGE ID</String>
+		<String>METRIC</String>
+		<String>SYSTEM</String>
+		<String>AUTHOR</String>
+		<String>FORMAT</String>
+		<String>OFFSET</String>
+		<String>CBCVER</String>
+		<String>MARGIN</String>
+		<String>PANEL</String>
+		<String>STYLE</String>
+		<String>TITLE</String>
+		<String>WIDTH</String>
+		<String>NAME</String>
+		<String>PATH</String>
+		<String>LANG</String>
+		<String>BACK</String>
+	</GlobalStrings>
+</TrID>

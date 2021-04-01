@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+ <TransformScript>
+  <OtherComments>
+   <Content>Small Capitals
+This script scales the selected glyphs to about 80%. Before running it you need to copy the uppercase glyphs to the lowercase glyphs and select them. For fonts with lowercase AND Small Capitals use the Private Use Area scripts.</Content>
+  </OtherComments>
+  <OutlineScale>
+   <AroundType>2</AroundType>
+   <AroundCorner>6</AroundCorner>
+   <AroundXPos>0</AroundXPos>
+   <AroundYPos>0</AroundYPos>
+   <Horizontal>75.00</Horizontal>
+   <Vertical>78.00</Vertical>
+   <PreserveBearings>FALSE</PreserveBearings>
+  </OutlineScale>
+  <EffectsBold>
+   <Horizontal>20</Horizontal>
+   <Vertical>12</Vertical>
+   <PreserveBearings>TRUE</PreserveBearings>
+  </EffectsBold>
+  <OutlineMove>
+   <Horizontal>0</Horizontal>
+   <Vertical>12</Vertical>
+  </OutlineMove>
+  <MetricsLeftSideBearing>
+  </MetricsLeftSideBearing>
+ </TransformScript>
+</DATA>

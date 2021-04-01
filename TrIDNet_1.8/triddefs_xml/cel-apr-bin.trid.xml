@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Affymetrix Probe Results (Bin)</FileType>
+		<Ext>CEL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.affymetrix.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>35</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3B01000000010000</Bytes>
+			<ASCII> ;</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>616666796D65747269782D63616C76696E2D696E74656E73697479</Bytes>
+			<ASCII> a f f y m e t r i x - c a l v i n - i n t e n s i t y</ASCII>
+			<Pos>14</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>61006600660079006D00650074007200690078002D0061006C0067006F0072006900740068006D002D0070006100720061006D</Bytes>
+			<ASCII> a . f . f . y . m . e . t . r . i . x . - . a . l . g . o . r . i . t . h . m . - . p . a . r . a . m</ASCII>
+			<Pos>126</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

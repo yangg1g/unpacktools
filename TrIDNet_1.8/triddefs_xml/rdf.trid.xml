@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Resource Description Framework</FileType>
+		<Ext>RDF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mozilla.org/rdf/doc/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>26</FileNum>
+		<Refine>5 by Marco Pontello - 1 by Marco Pontello - 3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>49</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>22-RDF-SYNTAX-NS</String>
+		<String>WWW.W3.ORG</String>
+		<String>XMLNS</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

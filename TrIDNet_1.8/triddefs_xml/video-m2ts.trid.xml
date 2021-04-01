@@ -1,0 +1,145 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MPEG-2 Transport Stream video</FileType>
+		<Ext>M2TS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/.m2ts</RefURL>
+		</ExtraInfo>
+		<User>Yamahapsr200</User>
+		<E-Mail>Platinmod@gmail.com</E-Mail>
+		<Home>http://yamacraft.de.vu</Home>
+	</Info>
+	<General>
+		<FileNum>38</FileNum>
+		<Refine>38 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>3</Month>
+			<Day>2</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>32</Min>
+			<Sec>5</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>474000100000B01100</Bytes>
+			<ASCII> G @</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>C100000000E01F0001E100</Bytes>
+			<Pos>14</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</Bytes>
+			<Pos>29</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>474100100002B0</Bytes>
+			<ASCII> G A</ASCII>
+			<Pos>196</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0001C10000F001F00C</Bytes>
+			<Pos>204</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>04</Bytes>
+			<Pos>214</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>04</Bytes>
+			<Pos>220</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>1BF011F0</Bytes>
+			<Pos>225</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</Bytes>
+			<Pos>263</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>47401F</Bytes>
+			<ASCII> G @</ASCII>
+			<Pos>388</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>007FF019FFFFC10000F00A6308C1</Bytes>
+			<ASCII> . . . . . . . . . . . c</ASCII>
+			<Pos>392</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FFFFFFFFFF00018000</Bytes>
+			<Pos>408</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</Bytes>
+			<Pos>421</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>47</Bytes>
+			<ASCII> G</ASCII>
+			<Pos>580</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</Bytes>
+			<Pos>605</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>47</Bytes>
+			<ASCII> G</ASCII>
+			<Pos>772</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>776</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>47</Bytes>
+			<ASCII> G</ASCII>
+			<Pos>964</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>47</Bytes>
+			<ASCII> G</ASCII>
+			<Pos>1156</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>47</Bytes>
+			<ASCII> G</ASCII>
+			<Pos>1348</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>47</Bytes>
+			<ASCII> G</ASCII>
+			<Pos>1540</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>47</Bytes>
+			<ASCII> G</ASCII>
+			<Pos>1732</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>47</Bytes>
+			<ASCII> G</ASCII>
+			<Pos>1924</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>AC-3</String>
+		<String>AMES</String>
+		<String>G1'0</String>
+		<String>G1'2</String>
+		<String>G1'4</String>
+		<String>G1'6</String>
+		<String>G1'8</String>
+		<String>HDMV</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Meal-Master Format recipe</FileType>
+		<Ext>MMF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>11</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>3</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D4D4D4D4D2D2D2D2D2D2052656369706520766961204D65616C2D4D61737465722028746D292076</Bytes>
+			<ASCII> M M M M M - - - - -   R e c i p e   v i a   M e a l - M a s t e r   ( t m )   v</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CATEGORIES</String>
+		<String>SERVINGS</String>
+		<String>TITLE</String>
+	</GlobalStrings>
+</TrID>

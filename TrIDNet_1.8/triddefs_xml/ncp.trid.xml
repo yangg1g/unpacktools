@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Nikon Custom Picture Control</FileType>
+		<Ext>NCP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>27</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>7</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>38</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4E435000000000010000002430313030</Bytes>
+			<ASCII> N C P . . . . . . . . $ 0 1 0 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LAMPWords Dictionary Databases</FileType>
+		<Ext>PDB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://members.shaw.ca/lampwords/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>48</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4C414D50576F7264734442</Bytes>
+			<ASCII> L A M P W o r d s D B</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6461746170734C44</Bytes>
+			<ASCII> d a t a p s L D</ASCII>
+			<Pos>60</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

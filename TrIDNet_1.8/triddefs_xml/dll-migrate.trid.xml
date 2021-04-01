@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>NT5 Migrate DLL</FileType>
+        <Ext>DLL</Ext>
+        <ExtraInfo>
+            <Rem>A migration DLL allows an application installed on Microsoft Win95/98 to function correctly after a user has upgraded to Win/2K</Rem>
+            <RefURL>http://msdn.microsoft.com/archive/en-us/dnarw2k/html/msdn_migdbg.asp</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>28</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>05</Day>
+        </Date>
+        <Time>
+            <Hour>13</Hour>
+            <Min>41</Min>
+            <Sec>26</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+            <ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A2400000000000000</Bytes>
+            <ASCII> . . . . . . . . . . ! . . L . ! T h i s   p r o g r a m   c a n n o t   b e   r u n   i n   D O S   m o d e . . . . $</ASCII>
+            <Pos>62</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>PE''L</String>
+        <String>KERNEL32.dll</String>
+        <String>Initialize9x</String>
+        <String>QueryVersion</String>
+        <String>MigrateUser9x</String>
+        <String>MigrateSystem9x</String>
+        <String>InitializeNT</String>
+        <String>MigrateUserNT</String>
+        <String>MigrateSystemNT</String>
+        <String>Window</String>
+    </GlobalStrings>
+</TrID>

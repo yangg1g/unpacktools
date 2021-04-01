@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DMesh 3d model</FileType>
+		<Ext>DMZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.geocities.com/SoHo/Studios/4500/dmesh100a/index.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>48</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>06</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>17</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>48534D44</Bytes>
+			<ASCII> H S M D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DMESH</String>
+		<String>KBDLLAYER</String>
+		<String>KBDLMUSCLE</String>
+		<String>OBJECT</String>
+	</GlobalStrings>
+</TrID>

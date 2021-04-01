@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SPIFF Still Picture Interchange File Format bitmap</FileType>
+		<Ext>SPF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>1</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>10</Min>
+			<Sec>6</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.1b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFD8FFE8</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>535049464600</Bytes>
+			<ASCII> S P I F F</ASCII>
+			<Pos>6</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

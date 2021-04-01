@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Free Notes document</FileType>
+		<Ext>FNS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Kenneth Pierce</User>
+		<E-Mail>kcpiercejr {at} googlemail</E-Mail>
+		<Home>http://www.miscarchives.com</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2010</Year>
+			<Month>12</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>48</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFFFF00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00280000000000000000000000</Bytes>
+			<ASCII> . (</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>22</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>26</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>30</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

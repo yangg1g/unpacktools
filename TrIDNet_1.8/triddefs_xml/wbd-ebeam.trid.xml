@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>eBeam Whiteboard</FileType>
+		<Ext>ESB/WBD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.e-beam.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<Date>
+			<Year>2010</Year>
+			<Month>03</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>41</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>654265616D4D656574696E6746696C650D0A4F726967696E616C2043726561746F723A</Bytes>
+			<ASCII> e B e a m M e e t i n g F i l e . . O r i g i n a l   C r e a t o r :</ASCII>
+			<Pos>2</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

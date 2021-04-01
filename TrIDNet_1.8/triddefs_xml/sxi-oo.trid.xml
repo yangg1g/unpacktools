@@ -1,0 +1,79 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OpenOffice Impress presentation</FileType>
+		<Ext>SXI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/OpenDocument</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>58</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>50696374757265732F</Bytes>
+			<ASCII> P i c t u r e s /</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCUMENT-STATISTIC META</String>
+		<String>DTD OFFICEDOCUMENT 1.0</String>
+		<String>DOCUMENT-META PUBLIC</String>
+		<String>DOCUMENT-META XMLNS</String>
+		<String>USER-DEFINED META</String>
+		<String>EDITING-DURATION</String>
+		<String>DOCTYPE OFFICE</String>
+		<String>EDITING-CYCLES</String>
+		<String>MANIFEST.XMLPK</String>
+		<String>OPENOFFICE.ORG</String>
+		<String>SETTINGS.XMLPK</String>
+		<String>CONTENT.XMLPK</String>
+		<String>CREATION-DATE</String>
+		<String>OBJECT-COUNT</String>
+		<String>PRESENTATION</String>
+		<String>STYLES.XMLPK</String>
+		<String>XML VERSION</String>
+		<String>META.XMLPK</String>
+		<String>OFFICE.DTD</String>
+		<String>WWW.W3.ORG</String>
+		<String>GENERATOR</String>
+		<String>ELEMENTS</String>
+		<String>ENCODING</String>
+		<String>LANGUAGE</String>
+		<String>META-INF</String>
+		<String>PICTURES</String>
+		<String>PURL.ORG</String>
+		<String>.PNGPK</String>
+		<String>IDATX</String>
+		<String>XLINK</String>
+		<String>1999</String>
+		<String>2000</String>
+		<String>HTTP</String>
+		<String>IEND</String>
+		<String>IHDR</String>
+		<String>INFO</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

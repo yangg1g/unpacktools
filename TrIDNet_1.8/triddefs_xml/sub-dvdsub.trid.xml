@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DVDSubtitle subtitles</FileType>
+		<Ext>SUB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>8</Min>
+			<Sec>1</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7B48454144</Bytes>
+			<ASCII> { H E A D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CODEPAGE</String>
+		<String>DVDTITLE</String>
+		<String>ORIGINAL</String>
+		<String>LICENSE</String>
+		<String>AUTHOR</String>
+		<String>DISCID</String>
+		<String>FORMAT</String>
+		<String>INFO</String>
+		<String>LANG</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Cyberlore Studios Playboy game map</FileType>
+		<Ext>PB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Playboy:_The_Mansion</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>08</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>24</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>56455253</Bytes>
+			<ASCII> V E R S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>437965726C6F72652053747564696F7320506C6179626F792067616D65206D6170</Bytes>
+			<ASCII> C y e r l o r e   S t u d i o s   P l a y b o y   g a m e   m a p</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

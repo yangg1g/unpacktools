@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TrendMicro AntiVirus database</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem>These files are most usualy stored as numbered files e.g. lpt$vpn.123 however the extension is only temporarily significant i.e. a file from 2004 or 2011 could be .890 and a file from 1998 or 2008 could be .321</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Kieran O'Donnell</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>00</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1A</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>BD1A</Bytes>
+			<Pos>2</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>13</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>39</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>57</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>113</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>602PC Suite Template Document</FileType>
+		<Ext>WPT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.software602.com/products/pcs/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>53</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>19</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4F006C0065004F0062006A006500630074007300</Bytes>
+			<ASCII> O . l . e . O . b . j . e . c . t . s</ASCII>
+			<Pos>1664</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43006F006D0070004F0062006A00</Bytes>
+			<ASCII> C . o . m . p . O . b . j</ASCII>
+			<Pos>1794</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43004F004E00540045004E0054005300</Bytes>
+			<ASCII> C . O . N . T . E . N . T . S</ASCII>
+			<Pos>1920</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N'''''''''''''''''''''''''''(</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>O'L'E'O'B'J'E'C'T'S</String>
+		<String>_WINTEXT_DOCUMENT</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>C'O'M'P'O'B'J</String>
+		<String>SOFTWARE602</String>
+		<String>SYMBOL</String>
+		<String>WT602</String>
+	</GlobalStrings>
+</TrID>

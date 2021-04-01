@@ -1,0 +1,87 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Leica RAW image</FileType>
+		<Ext>RWL</Ext>
+		<ExtraInfo>
+			<Rem>http://en.wikipedia.org/wiki/Leica_Camera</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>6</Month>
+			<Day>6</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>25</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>49495500</Bytes>
+			<ASCII> I I U</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A</Bytes>
+			<ASCII> :</ASCII>
+			<Pos>883</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A</Bytes>
+			<ASCII> :</ASCII>
+			<Pos>886</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A</Bytes>
+			<ASCII> :</ASCII>
+			<Pos>903</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A</Bytes>
+			<ASCII> :</ASCII>
+			<Pos>906</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7DFE45786966000049492A</Bytes>
+			<ASCII> } . E x i f . . I I *</ASCII>
+			<Pos>1540</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4C4549434100</Bytes>
+			<ASCII> L E I C A</ASCII>
+			<Pos>1730</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5665722E</Bytes>
+			<ASCII> V e r</ASCII>
+			<Pos>1760</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>1765</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2020</Bytes>
+			<Pos>1767</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A</Bytes>
+			<ASCII> :</ASCII>
+			<Pos>1774</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A</Bytes>
+			<ASCII> :</ASCII>
+			<Pos>1777</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

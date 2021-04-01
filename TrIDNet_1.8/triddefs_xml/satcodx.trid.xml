@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SatcoDX channel list</FileType>
+		<Ext>SDX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.satcodx.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>03</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>14</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53</Bytes>
+			<ASCII> S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SATCODX1</String>
+		<String>CHANNEL</String>
+		<String>RADIO</String>
+		<String>IRDT</String>
+	</GlobalStrings>
+</TrID>

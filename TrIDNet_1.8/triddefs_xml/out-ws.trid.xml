@@ -1,0 +1,63 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Wireshark traffic log</FileType>
+		<Ext>OUT/TXT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Wireshark</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>07</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>02</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4672616D6520</Bytes>
+			<ASCII> F r a m e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TIME DELTA FROM PREVIOUS</String>
+		<String>INTERNET PROTOCOL</String>
+		<String>DESTINATION PORT</String>
+		<String>FRAGMENT OFFSET</String>
+		<String>HEADER CHECKSUM</String>
+		<String>MORE FRAGMENTS</String>
+		<String>IDENTIFICATION</String>
+		<String>CAPTURE LENGTH</String>
+		<String>HEADER LENGTH</String>
+		<String>TIME TO LIVE</String>
+		<String>ARRIVAL TIME</String>
+		<String>FRAME NUMBER</String>
+		<String>TOTAL LENGTH</String>
+		<String>IP (0X0800)</String>
+		<String>SOURCE PORT</String>
+		<String>CAPTURED</String>
+		<String>SERVICE</String>
+		<String>SECONDS</String>
+		<String>VERSION</String>
+		<String>NOT SET</String>
+		<String>ON WIRE</String>
+		<String>BYTES</String>
+		<String>FLAGS</String>
+		<String>PACK</String>
+		<String>TYPE</String>
+		<String>ECT)</String>
+	</GlobalStrings>
+</TrID>

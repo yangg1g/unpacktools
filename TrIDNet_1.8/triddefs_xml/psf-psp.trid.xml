@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PSP metadata file</FileType>
+		<Ext>PSF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://mc.pp.se/psp/psf.xhtml</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>58</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00505346</Bytes>
+			<ASCII> . P S F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

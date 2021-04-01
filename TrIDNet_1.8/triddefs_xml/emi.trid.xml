@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Pocket Tanks emitter</FileType>
+		<Ext>EMI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Pocket_Tanks</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>23</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4F514E515715094A3F5D504C3D4C46</Bytes>
+			<ASCII> O Q N Q W . . J ? ] P L = L F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

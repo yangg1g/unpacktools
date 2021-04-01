@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OziExplorer track file</FileType>
+		<Ext>PLT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://216.218.220.254/eng/utilities.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>59</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4F7A694578706C6F72657220547261636B20506F696E742046696C652056657273696F6E20</Bytes>
+			<ASCII> O z i E x p l o r e r   T r a c k   P o i n t   F i l e   V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>38</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D</Bytes>
+			<Pos>40</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TESIV:Oblivion Plug-in</FileType>
+		<Ext>ESP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.elderscrolls.com/</RefURL>
+		</ExtraInfo>
+		<User>Thaimodz</User>
+		<E-Mail>admin@thaimodz.net</E-Mail>
+		<Home>http://www.thaimodz.net</Home>
+	</Info>
+	<General>
+		<FileNum>29</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>02</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>54455334</Bytes>
+			<ASCII> T E S 4</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000484544520C00</Bytes>
+			<ASCII> . . . . . . . . . . . . . . H E D R</ASCII>
+			<Pos>6</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3F</Bytes>
+			<ASCII> ?</ASCII>
+			<Pos>29</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>434E414D</Bytes>
+			<ASCII> C N A M</ASCII>
+			<Pos>38</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>OBLIVION.ESM'DATA</String>
+		<String>GRUP</String>
+		<String>EDID</String>
+		<String>HEDR</String>
+		<String>MAST</String>
+		<String>CNAM</String>
+		<String>TES4</String>
+	</GlobalStrings>
+</TrID>

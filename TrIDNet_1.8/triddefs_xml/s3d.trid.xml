@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Spazio3D drawing</FileType>
+		<Ext>S3D</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.spazio3d.com</RefURL>
+		</ExtraInfo>
+		<User>BrainSoftware</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>72</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>10</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>10</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3A010100000D000000427261696E536F6674776172651100000057696E646F7773205370617A696F20334406000000766572322E30</Bytes>
+			<ASCII> : . . . . . . . . B r a i n S o f t w a r e . . . . W i n d o w s   S p a z i o   3 D . . . . v e r 2 . 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BRAINSOFTWARE TEAM</String>
+		<String>WINDOWS SPAZIO 3D</String>
+		<String>TLAYERCON</String>
+		<String>DEFAULT</String>
+		<String>PB''PB</String>
+		<String>TENTDB</String>
+		<String>TEXTTS</String>
+		<String>VIEWS</String>
+	</GlobalStrings>
+</TrID>

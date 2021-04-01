@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TADS 2 Game</FileType>
+		<Ext>GAM</Ext>
+		<ExtraInfo>
+			<Rem>TADS stand for Text Adventure Development System</Rem>
+			<RefURL>http://tads.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>05</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>12</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>54414453322062696E0A0D1A0076322E</Bytes>
+			<ASCII> T A D S 2   b i n . . . . v 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

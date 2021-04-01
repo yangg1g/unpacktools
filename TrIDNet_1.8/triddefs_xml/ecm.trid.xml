@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Error Code Modeler</FileType>
+		<Ext>ECM</Ext>
+		<ExtraInfo>
+			<Rem>ECM is a CD image preprocessor to achieve better compression ratios.</Rem>
+			<RefURL>http://www.neillcorlett.com/ecm/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>07</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>51</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>45434D00</Bytes>
+			<ASCII> E C M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Kefrens-Sound Machine song/module</FileType>
+        <Ext>KSM</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://membres.lycos.fr/asle/AMPD_src/Kefrens.html</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>2</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>26</Day>
+        </Date>
+        <Time>
+            <Hour>23</Hour>
+            <Min>29</Min>
+            <Sec>48</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4D2E</Bytes>
+            <ASCII> M</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>61</Bytes>
+            <ASCII> a</ASCII>
+            <Pos>15</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>FFFFFFFF</Bytes>
+            <Pos>1532</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

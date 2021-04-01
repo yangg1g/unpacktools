@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Bryce 6 Scene</FileType>
+		<Ext>BR6</Ext>
+		<ExtraInfo>
+			<Rem>Bryce is a 3D modeling, rendering and animation program specializing in fractal landscapes.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Bryce_%28software%29</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>20</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>42727963655F362E305F46696C6500</Bytes>
+			<ASCII> B r y c e _ 6 . 0 _ F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

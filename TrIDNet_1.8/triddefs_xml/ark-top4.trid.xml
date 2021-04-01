@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Top 4 compressed data</FileType>
+		<Ext>TO4/T4</Ext>
+		<ExtraInfo>
+			<Rem>An old compression software by Tobias Svensson.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Label</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>02</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>10</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>54341A00</Bytes>
+			<ASCII> T 4</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

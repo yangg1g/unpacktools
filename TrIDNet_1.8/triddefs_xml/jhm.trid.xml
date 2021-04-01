@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>JavaHelp map</FileType>
+		<Ext>JHM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>1</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>2</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D</Bytes>
+			<ASCII> . ? x m l   v e r s i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MAPID TARGET</String>
+		<String>MAP VERSION</String>
+		<String>XML VERSION</String>
+		<String>ENCODING</String>
+		<String>GENERAL</String>
+		<String>SYSTEM</String>
+		<String>.HTM</String>
+		<String>HELP</String>
+	</GlobalStrings>
+</TrID>

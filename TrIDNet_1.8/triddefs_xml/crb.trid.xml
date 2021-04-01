@@ -1,0 +1,109 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Enter a useful file type description</FileType>
+		<Ext>CRB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>09</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>25</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FF0A00544341535245504F525444455349474E4552003010</Bytes>
+			<ASCII> . . . T C A S R E P O R T D E S I G N E R . 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>005450463012544341535265706F727444657369676E6572065265706F7274044C656674020003546F7002</Bytes>
+			<ASCII> . T P F 0 . T C A S R e p o r t D e s i g n e r . R e p o r t . L e f t . . . T o p</ASCII>
+			<Pos>27</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0557696474680389020648656967687403</Bytes>
+			<ASCII> . W i d t h . . . . H e i g h t</ASCII>
+			<Pos>71</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000854434153426F6479</Bytes>
+			<ASCII> . . T C A S B o d y</ASCII>
+			<Pos>90</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>72</Bytes>
+			<ASCII> r</ASCII>
+			<Pos>150</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>65</Bytes>
+			<ASCII> e</ASCII>
+			<Pos>409</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>LISTCOLUMNMARGINBOTTOM</String>
+		<String>LISTHEADERFONT.CHARSET</String>
+		<String>LISTCOLUMNMARGINRIGHT</String>
+		<String>LISTHEADERFONT.HEIGHT</String>
+		<String>TCASREPORTDESIGNER'0</String>
+		<String>LISTHEADERFONT.COLOR</String>
+		<String>LISTHEADERFONT.STYLE</String>
+		<String>LISTCOLUMNMARGINLEFT</String>
+		<String>LISTCOLUMNMARGINTOP</String>
+		<String>PAGEBREAKDISTANCEMM</String>
+		<String>LISTHEADERFONT.NAME</String>
+		<String>PRINTNOLISTHEADER</String>
+		<String>TCASPRINTLINE</String>
+		<String>TALEFTJUSTIFY</String>
+		<String>SMHORIZONTAL</String>
+		<String>CLWINDOWTEXT</String>
+		<String>FIELDNUMBER</String>
+		<String>WMSELECTION</String>
+		<String>STRETCHMODE</String>
+		<String>BREAKBAND</String>
+		<String>ALIGNMENT</String>
+		<String>FIELDNAME</String>
+		<String>GRIDSIZEX</String>
+		<String>BMVIRTUAL</String>
+		<String>GRIDSIZEY</String>
+		<String>FRAMEBAND</String>
+		<String>_CHARSET</String>
+		<String>UNTITLED</String>
+		<String>SHOWGRID</String>
+		<String>LISTMODE</String>
+		<String>HEIGHTMM</String>
+		<String>BANDMODE</String>
+		<String>TCASBODY</String>
+		<String>TCASLINE</String>
+		<String>COLUMNS</String>
+		<String>CRARROW</String>
+		<String>NEWPAGE</String>
+		<String>WIDTHMM</String>
+		<String>PRINTIT</String>
+		<String>CAPTION</String>
+		<String>DEFAULT</String>
+		<String>LEFTMM</String>
+		<String>CURSOR</String>
+		<String>ARIAL</String>
+		<String>TOPMM</String>
+		<String>TPF0</String>
+		<String>YNNO</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Psycle Tune/Song</FileType>
+		<Ext>PSY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://psycle.pastnotecut.org/portal.php</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2004</Year>
+			<Month>07</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>42</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>505359</Bytes>
+			<ASCII> P S Y</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>534F4E47</Bytes>
+			<ASCII> S O N G</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

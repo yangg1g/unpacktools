@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Topografix's EasyGPS/TerraByte Location file</FileType>
+		<Ext>LOC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.topografix.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>19</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>546572726142797465204C6F636174696F6E2046696C6520436F7079726967687420</Bytes>
+			<ASCII> T e r r a B y t e   L o c a t i o n   F i l e   C o p y r i g h t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20546F706F477261666978</Bytes>
+			<ASCII>   T o p o G r a f i x</ASCII>
+			<Pos>38</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

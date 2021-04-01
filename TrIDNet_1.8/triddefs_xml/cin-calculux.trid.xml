@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Calculux Indoor project</FileType>
+		<Ext>CIN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.lighting.philips.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>08</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>50</Min>
+			<Sec>02</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>43616C63756C757820496E646F6F722050726F6A6563742066696C65</Bytes>
+			<ASCII> C a l c u l u x   I n d o o r   P r o j e c t   f i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

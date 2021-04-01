@@ -1,0 +1,151 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Spartan molecule data</FileType>
+		<Ext>SMOL</Ext>
+		<ExtraInfo>
+			<Rem>A chemistry format.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>55</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>09</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>43</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>494E5055543D3235367E</Bytes>
+			<ASCII> I N P U T = 2 5 6 ~</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>424547494E</Bytes>
+			<ASCII> B E G I N</ASCII>
+			<Pos>256</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PROP  VALUE ATOMIC_CPK_VOLUME BYATOM BEGIN</String>
+		<String>PROP  VALUE ATOMIC_CPK_AREA BYATOM BEGIN</String>
+		<String>PROP  VALUE MULCHARGES BYATOM BEGIN</String>
+		<String>PROP  VALUE NATCHARGES BYATOM BEGIN</String>
+		<String>PROP STRING CALCULATION_VERSION</String>
+		<String>PROP  VALUE MOMENT_I_CM 3 BEGIN</String>
+		<String>PROP STRING CALCULATION_TARGET</String>
+		<String>PROP STRING INITIAL_KEYWORDS</String>
+		<String>SPARTAN PROPERTIES PACKAGE</String>
+		<String>PROP  VALUE TOT_ELECTRONEG</String>
+		<String>NUMBER OF BASIS FUNCTIONS</String>
+		<String>USE OF MOLECULAR SYMMETRY</String>
+		<String>PROP VALUE PROP_TIME_MIN</String>
+		<String>PROP  VALUE TOT_HARDNESS</String>
+		<String>PROP  VALUE Q_MINUS_NAO</String>
+		<String>PROP  VALUE Q_MINUS_MUL</String>
+		<String>PROP STRING SYM_STRING</String>
+		<String>PROP  VALUE Q_PLUS_NAO</String>
+		<String>PROP  VALUE MO_ENERGY</String>
+		<String>SUCCESSFUL COMPLETION</String>
+		<String>PROP  VALUE CPKVOLUME</String>
+		<String>TERMINATED NORMALLY</String>
+		<String>NUMBER OF ELECTRONS</String>
+		<String>PROP STRING DO_QSAR</String>
+		<String>PROP  VALUE OVALITY</String>
+		<String>PROP  VALUE CPKAREA</String>
+		<String>PROP  VALUE E_LUMO</String>
+		<String>PROP  VALUE E_HOMO</String>
+		<String>PROP  VALUE WEIGHT</String>
+		<String>PROP  VALUE HOMO_N</String>
+		<String>DEGREES OF FREEDOM</String>
+		<String>PROGRAM WALL TIME</String>
+		<String>SPIN MULTIPLICITY</String>
+		<String>PROP  VALUE PROP_</String>
+		<String>PROGRAM CPU TIME</String>
+		<String>MOLECULAR CHARGE</String>
+		<String>NUMBER OF SHELLS</String>
+		<String>REASON FOR EXIT</String>
+		<String>END-   MOLECULE</String>
+		<String>THIS SYSTEM HAS</String>
+		<String>ENDSTRUCTMODEL</String>
+		<String>BEGINMOLSTATE</String>
+		<String>~248~VIBSTATE</String>
+		<String>PROP_KEYWORDS</String>
+		<String>ENDATOMLABELS</String>
+		<String>BEGINVIBSTATE</String>
+		<String>ENDTRANSITION</String>
+		<String>ENDATOMALIGN</String>
+		<String>BEGINPROPARC</String>
+		<String>ENDLABELTYPE</String>
+		<String>0~0~MOLSTATE</String>
+		<String>BEGINRETCODE</String>
+		<String>BEGINVOUTPUT</String>
+		<String>BEGINARCHIVE</String>
+		<String>BEGINPROPIN</String>
+		<String>ENDEMPTYVAL</String>
+		<String>BEGINOUTPUT</String>
+		<String>POINT GROUP</String>
+		<String>MEMORY USED</String>
+		<String>ENDVIBSTATE</String>
+		<String>ENDMOLSTATE</String>
+		<String>ENDRETCODE</String>
+		<String>ENDARCHIVE</String>
+		<String>~26~OUTPUT</String>
+		<String>BEGINCELLS</String>
+		<String>ENDVOUTPUT</String>
+		<String>BEGININPUT</String>
+		<String>ENDPROPARC</String>
+		<String>ENDMOLFONT</String>
+		<String>ENDISOTOPE</String>
+		<String>ENDOUTPUT</String>
+		<String>LABELATOM</String>
+		<String>ENDFROZEN</String>
+		<String>ENDPROPIN</String>
+		<String>ENDLIGAND</String>
+		<String>MULLIKEN</String>
+		<String>ENDPLANE</String>
+		<String>RUN TYPE</String>
+		<String>ENDPOINT</String>
+		<String>BEGINRES</String>
+		<String>~RETCODE</String>
+		<String>ENDALIGN</String>
+		<String>GEOMETRY</String>
+		<String>WAVEFUNC</String>
+		<String>~20~ISOD</String>
+		<String>~ARCHIVE</String>
+		<String>ENDCELLS</String>
+		<String>ENDINPUT</String>
+		<String>~PROPARC</String>
+		<String>HYDROGEN</String>
+		<String>ENDHESS</String>
+		<String>HESSIAN</String>
+		<String>ENDCART</String>
+		<String>~PROPIN</String>
+		<String>LOGP_GC</String>
+		<String>ENDRES</String>
+		<String>DIPOLE</String>
+		<String>NSYMOP</String>
+		<String>~CELLS</String>
+		<String>CYCLE</String>
+		<String>ORDER</String>
+		<String>ABLED</String>
+		<String>GRAD.</String>
+		<String>~ISOE</String>
+		<String>DIST.</String>
+		<String>EIGEN</String>
+		<String>BUILD</String>
+		<String>~VOUT</String>
+		<String>OPTI</String>
+	</GlobalStrings>
+</TrID>

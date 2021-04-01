@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LaTeX-CAD drawing</FileType>
+		<Ext>LP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>05</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>252044726177696E672067656E657261746564206279204C615465582D43414420</Bytes>
+			<ASCII> %   D r a w i n g   g e n e r a t e d   b y   L a T e X - C A D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>34</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

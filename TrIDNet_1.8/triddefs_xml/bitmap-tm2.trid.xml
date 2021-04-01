@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TIM2 PlayStation2 bitmap</FileType>
+		<Ext>TM2</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.webtech.co.jp/eng/istudio/ps2/spec01.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>11</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>54494D32</Bytes>
+			<ASCII> T I M 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

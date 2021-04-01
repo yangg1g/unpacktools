@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Kaspersky Lab black list file</FileType>
+		<Ext>LST</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.kaspersky.com/support/sos5/key?qid=193239113</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>04</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>13</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4B4C424C</Bytes>
+			<ASCII> K L B L</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4B6173706572736B79204C616220626C61636B206C6973742066696C65</Bytes>
+			<ASCII> K a s p e r s k y   L a b   b l a c k	l i s t   f i l e</ASCII>
+			<Pos>20</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

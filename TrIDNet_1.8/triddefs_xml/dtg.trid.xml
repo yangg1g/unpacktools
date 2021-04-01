@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Desktop Guitarist music score</FileType>
+		<Ext>DTG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://web.archive.org/web/20030204140941/http://www.desktopmusic.com/guitar/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>11</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2A496E666F20313A204465736B546F70204775697461726973742056657273696F6E20</Bytes>
+			<ASCII> * I n f o   1 :   D e s k T o p   G u i t a r i s t   V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>36</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

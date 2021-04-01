@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Jet DB Workgroup Information</FileType>
+		<Ext>MDW</Ext>
+		<ExtraInfo>
+			<Rem>Used by Microsoft Access.</Rem>
+			<RefURL>http://www.microsoft.com/office</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>07</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>13</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000100004A65742053797374656D204442202000</Bytes>
+			<ASCII> . . . . J e t	S y s t e m   D B</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

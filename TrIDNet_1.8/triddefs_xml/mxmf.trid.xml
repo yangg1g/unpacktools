@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MXMF Nokia Ringtone</FileType>
+		<Ext>MXMF/XMF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>35</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>584D465F</Bytes>
+			<ASCII> X M F _</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.MID</String>
+	</GlobalStrings>
+</TrID>

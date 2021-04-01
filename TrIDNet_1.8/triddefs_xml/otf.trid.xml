@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OpenType - CFF compact font format</FileType>
+		<Ext>OTF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/OpenType/OTSpec/otff.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>12</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>59</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4F54544F00</Bytes>
+			<ASCII> O T T O</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CMAP</String>
+		<String>HEAD</String>
+		<String>MAXP</String>
+		<String>POST</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

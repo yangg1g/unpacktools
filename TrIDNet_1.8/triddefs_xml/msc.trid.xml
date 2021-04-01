@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Management Console Snap-in control file</FileType>
+		<Ext>MSC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>11</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>29</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E30223F3E0D0A3C4D4D435F436F6E736F6C6546696C6520436F6E736F6C6556657273696F6E3D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 " ? . . . . M M C _ C o n s o l e F i l e   C o n s o l e V e r s i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>57</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>222050726F6772616D4D6F64653D22</Bytes>
+			<ASCII> "   P r o g r a m M o d e = "</ASCII>
+			<Pos>59</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

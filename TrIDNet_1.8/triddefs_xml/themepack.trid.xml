@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows 7 theme</FileType>
+		<Ext>THEMEPACK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://windows.microsoft.com/en-US/windows/downloads/personalize</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>11</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>01</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D53434600000000</Bytes>
+			<ASCII> M S C F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DESKTOPBACKGROUND</String>
+		<String>.THEME</String>
+		<String>MSCF</String>
+		<String>.JPG</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Ability Office Spreadsheet</FileType>
+		<Ext>AWS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ability.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>10</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>36</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>M'A'C'R'O'M'O'D'U'L'E'C'O'L'L'E'C'T'I'O'N</String>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>S'P'R'E'A'D'S'H'E'E'T</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>W'O'R'K'B'O'O'K</String>
+	</GlobalStrings>
+</TrID>

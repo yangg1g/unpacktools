@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Primavera's proprietary exchange format</FileType>
+		<Ext>XER</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ims-web.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>05</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>56</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>45524D48445209</Bytes>
+			<ASCII> E R M H D R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

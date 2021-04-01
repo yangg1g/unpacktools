@@ -1,0 +1,146 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SNS-HDR project</FileType>
+		<Ext>SNS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sns-hdr.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>3</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>23</Min>
+			<Sec>54</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6B40</Bytes>
+			<ASCII> k @</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SIG ''''CRT DESC'''''''-REFERENCE VIEWING CONDITION IN IEC 61966-2-1</String>
+		<String>DESC'''''''.IEC 61966-2-1 DEFAULT RGB COLOUR SPACE - SRGB</String>
+		<String>-TEXT''''COPYRIGHT INTERNATIONAL COLOR CONSORTIUM</String>
+		<String>SRGB IEC61966-2-1 BLACK SCALED</String>
+		<String>NOISEREDUCTIONCHROMINANCE</String>
+		<String>LIGHTSMICRODETAILSPOINTS</String>
+		<String>W5M0MPCEHIHZRESZNTCZKC9D</String>
+		<String>NOISEREDUCTIONLUMINANCE</String>
+		<String>LIGHTSBRIGHTNESSPOINTS</String>
+		<String>LIGHTSSATURATIONPOINTS</String>
+		<String>COLORLIGHTSSATURATION</String>
+		<String>GAUSSIANBLURINTENSITY</String>
+		<String>UNSHARPMASKINTENSITY</String>
+		<String>HIGHLIGHTPROTECTION</String>
+		<String>LIGHTSWHITEBALANCEB</String>
+		<String>LIGHTSWHITEBALANCEG</String>
+		<String>LIGHTSWHITEBALANCER</String>
+		<String>MICROCONTRASTPOINTS</String>
+		<String>GAUSSIANBLURRADIUS</String>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>COLORLIGHTSWARMTH</String>
+		<String>UNSHARPMASKRADIUS</String>
+		<String>22-RDF-SYNTAX-NS</String>
+		<String>COLORLIGHTSGREEN</String>
+		<String>HIGHLIGHTDETAILS</String>
+		<String>PARAMETERS XMLNS</String>
+		<String>SHADOWPROTECTION</String>
+		<String>VIGNETTEMIDPOINT</String>
+		<String>YCBCRSUBSAMPLING</String>
+		<String>COLORLIGHTSBLUE</String>
+		<String>COLORSATURATION</String>
+		<String>DESCRIPTION RDF</String>
+		<String>LIGHTSHUEPOINTS</String>
+		<String>MIDTONECONTRAST</String>
+		<String>COLORLIGHTSHUE</String>
+		<String>COLORLIGHTSRED</String>
+		<String>RESOLUTIONUNIT</String>
+		<String>VIGNETTEAMOUNT</String>
+		<String>BITSPERSAMPLE</String>
+		<String>EXIFTOOL 8.68</String>
+		<String>XMPMETA XMLNS</String>
+		<String>XPACKET BEGIN</String>
+		<String>CURVEPOINTSB</String>
+		<String>CURVEPOINTSG</String>
+		<String>CURVEPOINTSR</String>
+		<String>NS.ADOBE.COM</String>
+		<String>PARAMETERSPK</String>
+		<String>COLORWARMTH</String>
+		<String>IMAGE.EX1PK</String>
+		<String>IMAGELENGTH</String>
+		<String>MASKNUMBERV</String>
+		<String>MNTRRGB XYZ</String>
+		<String>XML VERSION</String>
+		<String>XPACKET END</String>
+		<String>XRESOLUTION</String>
+		<String>YRESOLUTION</String>
+		<String>COLORGREEN</String>
+		<String>HIGHLIGHTS</String>
+		<String>IMAGEWIDTH</String>
+		<String>LOCALMASKS</String>
+		<String>METADATAPK</String>
+		<String>SHARPENING</String>
+		<String>WWW.W3.ORG</String>
+		<String>C'H'M'R'W</String>
+		<String>COLORBLUE</String>
+		<String>RDF XMLNS</String>
+		<String>COLORHUE</String>
+		<String>COLORRED</String>
+		<String>ENCODING</String>
+		<String>IMAGEPK</String>
+		<String>.JPGPK</String>
+		<String>ENABLE</String>
+		<String>MODIFY</String>
+		<String>POINTC</String>
+		<String>SECTOR</String>
+		<String>$BKPT</String>
+		<String>ABOUT</String>
+		<String>B0BRB</String>
+		<String>FALSE</String>
+		<String>GAMMA</String>
+		<String>ICCPK</String>
+		<String>UTF-8</String>
+		<String>XMPTK</String>
+		<String>$3BR</String>
+		<String>1999</String>
+		<String>2001</String>
+		<String>ACSP</String>
+		<String>BTRC</String>
+		<String>CPRT</String>
+		<String>DMDD</String>
+		<String>GTRC</String>
+		<String>GXYZ</String>
+		<String>HTTP</String>
+		<String>JFIF</String>
+		<String>MEAS</String>
+		<String>NAME</String>
+		<String>RTRC</String>
+		<String>RXYZ</String>
+		<String>TECH</String>
+		<String>TIFF</String>
+		<String>TRUE</String>
+		<String>USER</String>
+		<String>VUED</String>
+		<String>WTPT</String>
+	</GlobalStrings>
+</TrID>

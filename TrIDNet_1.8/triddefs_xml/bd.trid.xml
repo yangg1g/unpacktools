@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Benn Daglish Music</FileType>
+		<Ext>BD</Ext>
+		<ExtraInfo>
+			<Rem>A music format created for Ben 'Benn' Daglish by Colin 'Fungus the Bogeyman' Dooley .</Rem>
+			<RefURL>http://exotica.fix.no/tunes/unexotica/formats/Benn_Daglish.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>27</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>43</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6000</Bytes>
+			<ASCII> `</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6000</Bytes>
+			<ASCII> `</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

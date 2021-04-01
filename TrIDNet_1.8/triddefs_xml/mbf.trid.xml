@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Money Backup file</FileType>
+		<Ext>MBF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/money</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>49</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D53434600000000</Bytes>
+			<ASCII> M S C F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20006D6266</Bytes>
+			<ASCII>   . m b f</ASCII>
+			<Pos>58</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.TMP</String>
+		<String>MSCF</String>
+	</GlobalStrings>
+</TrID>

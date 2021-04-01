@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Power To-Do List Data</FileType>
+		<Ext>BTD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.powertodolist.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>21</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4361C94362CDBD3F</Bytes>
+			<ASCII> C a . C b . . ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>B57595446DDC47</Bytes>
+			<ASCII> . u . D m . G</ASCII>
+			<Pos>96</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

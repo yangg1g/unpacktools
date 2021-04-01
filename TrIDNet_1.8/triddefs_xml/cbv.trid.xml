@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ChessBase Archive file</FileType>
+		<Ext>CBV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.chessbase.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>53</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0800</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.CBA</String>
+		<String>.CBC</String>
+		<String>.CBG</String>
+		<String>.CBH</String>
+		<String>.CBP</String>
+		<String>.CBS</String>
+		<String>.CBT</String>
+		<String>.INI</String>
+		<String>ITLE</String>
+	</GlobalStrings>
+</TrID>

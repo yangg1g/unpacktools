@@ -1,0 +1,87 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>COLLADA interchange database scheme for 3D</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem>COLLADA is a COLLAborative Design Activity for establishing an interchange database schema for interactive 3D applications.</Rem>
+			<RefURL>http://collada.org</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>03</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>42</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D38223F3E0A3C434F4C4C41444120786D6C6E733D22687474703A2F2F7777772E636F6C6C6164612E6F72672F323030352F434F4C4C414441536368656D61222076657273696F6E3D22312E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 " ? . . . C O L L A D A   x m l n s = " h t t p : / / w w w . c o l l a d a . o r g / 2 0 0 5 / C O L L A D A S c h e m a "   v e r s i o n = " 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E30223E0A20203C61737365743E0A202020203C7265766973696F6E</Bytes>
+			<ASCII> . 0 " . .     . a s s e t . .         . r e v i s i o n</ASCII>
+			<Pos>110</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TECHNIQUE PROFILE</String>
+		<String>ACCESSOR SOURCE</String>
+		<String>WWW.COLLADA.ORG</String>
+		<String>AUTHORING_TOOL</String>
+		<String>INPUT SEMANTIC</String>
+		<String>POLYGONS COUNT</String>
+		<String>COLLADASCHEMA</String>
+		<String>COLLADA XMLNS</String>
+		<String>LIBRARY TYPE</String>
+		<String>INSTANCE URL</String>
+		<String>VERTICES ID</String>
+		<String>PERSPECTIVE</String>
+		<String>PROGRAM URL</String>
+		<String>XML VERSION</String>
+		<String>PARAM NAME</String>
+		<String>CAMERA ID</String>
+		<String>SOURCE ID</String>
+		<String>ENCODING</String>
+		<String>REVISION</String>
+		<String>MODIFIED</String>
+		<String>GEOMETRY</String>
+		<String>POSITION</String>
+		<String>ARRAY ID</String>
+		<String>DEFAULT</String>
+		<String>OPTICS</String>
+		<String>COMMON</String>
+		<String>LOOKAT</String>
+		<String>ROTATE</String>
+		<String>STRIDE</String>
+		<String>VERTEX</String>
+		<String>-ARRAY</String>
+		<String>2004-</String>
+		<String>SCENE</String>
+		<String>ASSET</String>
+		<String>ZNEAR</String>
+		<String>FLOAT</String>
+		<String>-VTX</String>
+		<String>FLOW</String>
+		<String>2005</String>
+		<String>HTTP</String>
+		<String>NODE</String>
+		<String>YFOV</String>
+		<String>ZFAR</String>
+		<String>MESH</String>
+		<String>-POS</String>
+	</GlobalStrings>
+</TrID>

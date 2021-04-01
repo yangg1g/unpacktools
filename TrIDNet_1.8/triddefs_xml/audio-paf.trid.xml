@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Ensoniq PARIS Audio File</FileType>
+        <Ext>PAF</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.greatidea.com/paris/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>13</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>09</Month>
+            <Day>01</Day>
+        </Date>
+        <Time>
+            <Hour>16</Hour>
+            <Min>06</Min>
+            <Sec>06</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>207061660000000001000000</Bytes>
+            <ASCII>   p a f</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

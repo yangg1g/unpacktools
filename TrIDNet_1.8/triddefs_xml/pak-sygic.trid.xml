@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sygic map</FileType>
+		<Ext>PAK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sygic.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>03</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>39</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>316B6170</Bytes>
+			<ASCII> 1 k a p</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>61006400720000007366666F</Bytes>
+			<ASCII> a . d . r . . . s f f o</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.'A'R'0'''SFFO</String>
+		<String>.'C'O'F'''SFFO</String>
+		<String>.'S'I'G'''SFFO</String>
+		<String>.'L'2'G'''SFFO</String>
+		<String>.'N'A'M'''SFFO</String>
+		<String>.'N'H'N'''SFFO</String>
+		<String>.'P'O'I'''SFFO</String>
+		<String>.'G'0'''SFFO</String>
+		<String>1PAM</String>
+		<String>1KAP</String>
+	</GlobalStrings>
+</TrID>

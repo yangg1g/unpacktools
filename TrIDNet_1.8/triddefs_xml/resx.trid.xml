@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft .NET XML Resource template</FileType>
+		<Ext>RESX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>25</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>11</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>24</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D38223F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SYSTEM.RESOURCES.RESXRESOURCEREADER</String>
+		<String>SYSTEM.RESOURCES.RESXRESOURCEWRITER</String>
+		<String>MICROSOFT-RESX</String>
+		<String>RESHEADER NAME</String>
+		<String>PUBLICKEYTOKEN</String>
+		<String>XML VERSION</String>
+		<String>RESMIMETYPE</String>
+		<String>DATA NAME</String>
+		<String>NEUTRAL</String>
+		<String>CULTURE</String>
+		<String>UTF-8</String>
+		<String>VALUE</String>
+		<String>TION</String>
+		<String>TEXT</String>
+		<String>ROOT</String>
+	</GlobalStrings>
+</TrID>

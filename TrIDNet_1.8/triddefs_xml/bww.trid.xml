@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Bagpipe notation</FileType>
+		<Ext>BWW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>12</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>57</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4261677069706520</Bytes>
+			<ASCII> B a g p i p e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>INSTRUMENTMAPPINGS</String>
+		<String>GRACENOTEDURATIONS</String>
+		<String>FREQUENCYMAPPINGS</String>
+		<String>MIDINOTEMAPPINGS</String>
+		<String>TUNEFORMAT</String>
+		<String>TUNETEMPO</String>
+		<String>FONTSIZES</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,67 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows 8 Appx Package Manifest</FileType>
+		<Ext>APPXMANIFEST</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>48</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>PUBLISHERDISPLAYNAME</String>
+		<String>OSMAXVERSIONTESTED</String>
+		<String>RESOURCE LANGUAGE</String>
+		<String>BACKGROUNDCOLOR</String>
+		<String>DEFAULTTILE SHO</String>
+		<String>FOREGROUNDTEXT</String>
+		<String>VISUALELEMENTS</String>
+		<String>PACKAGE XMLNS</String>
+		<String>PREREQUISITES</String>
+		<String>APPLICATIONS</String>
+		<String>OSMINVERSION</String>
+		<String>SPLASHSCREEN</String>
+		<String>DESCRIPTION</String>
+		<String>XML VERSION</String>
+		<String>PROPERTIES</String>
+		<String>RESOURCES</String>
+		<String>SMALLLOGO</String>
+		<String>ALLLOGOS</String>
+		<String>ENCODING</String>
+		<String>IDENTITY</String>
+		<String>MANIFEST</String>
+		<String>SHOWNAME</String>
+		<String>AMPLE</String>
+		<String>ELOGO</String>
+		<String>IMAGE</String>
+		<String>LIGHT</String>
+		<String>.PNG</String>
+		<String>APPX</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

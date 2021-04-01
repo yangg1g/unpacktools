@@ -1,0 +1,76 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OptiY Model</FileType>
+		<Ext>OPY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.optiy.de</RefURL>
+		</ExtraInfo>
+		<User>TBeu</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>40</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1E000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000001000000000000000A4578706572696D656E74</Bytes>
+			<ASCII> . . . . . . . . . . . . E x p e r i m e n t</ASCII>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000005000000025831</Bytes>
+			<ASCII> . . . . . . . . X 1</ASCII>
+			<Pos>68</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000025831</Bytes>
+			<ASCII> . . . . X 1</ASCII>
+			<Pos>96</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000001000000000000000000000005000000025832</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . X 2</ASCII>
+			<Pos>149</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000025832</Bytes>
+			<ASCII> . . . . X 2</ASCII>
+			<Pos>189</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3F</Bytes>
+			<ASCII> ?</ASCII>
+			<Pos>216</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>40</Bytes>
+			<ASCII> @</ASCII>
+			<Pos>232</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>INSTALLATION</String>
+		<String>EXPERIMENT</String>
+		<String>OUTPUT</String>
+		<String>INPUT</String>
+		<String>OPTIY</String>
+	</GlobalStrings>
+</TrID>

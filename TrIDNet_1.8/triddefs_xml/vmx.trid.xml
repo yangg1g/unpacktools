@@ -1,0 +1,64 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VMware configuration</FileType>
+		<Ext>VMX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.vmware.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>41</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>636F6E6669672E76657273696F6E203D2022</Bytes>
+			<ASCII> c o n f i g . v e r s i o n   =   "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>220D0A7669727475616C48572E76657273696F6E203D2022</Bytes>
+			<ASCII> " . . v i r t u a l H W . v e r s i o n   =   "</ASCII>
+			<Pos>19</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ETHERNET0.GENERATEDADDRESSOFFSET</String>
+		<String>ETHERNET0.ADDRESSTYPE</String>
+		<String>ETHERNET0.PRESENT</String>
+		<String>VIRTUALHW.VERSION</String>
+		<String>CONFIG.VERSION</String>
+		<String>SOUND.FILENAME</String>
+		<String>SOUND.PRESENT</String>
+		<String>UUID.LOCATION</String>
+		<String>.DEVICETYPE</String>
+		<String>.VIRTUALDEV</String>
+		<String>DISPLAYNAME</String>
+		<String>AUTO DETECT</String>
+		<String>.FILENAME</String>
+		<String>CDROM-RAW</String>
+		<String>FLOPPY0.</String>
+		<String>GUESTOS</String>
+		<String>MEMSIZE</String>
+		<String>WINDOWS</String>
+		<String>.VMDK</String>
+		<String>TRUE</String>
+		<String>IDE1</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ListPro data</FileType>
+		<Ext>CLF</Ext>
+		<ExtraInfo>
+			<Rem>ListPro is a personal information tool.</Rem>
+			<RefURL>http://www.iliumsoft.com/site/lp/listpro.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>11</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>35</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2A496C69756D20536F6674776172652A0D0A0D0A546869732069732061204C69737450726F2066696C652E2049742063616E206F6E6C7920626520757365642077697468204C69737450726F2E20446F206E6F74206564697420746869732066696C65207769746820616E79206F746865722070726F6772616D2E</Bytes>
+			<ASCII> * I l i u m   S o f t w a r e * . . . . T h i s   i s   a   L i s t P r o   f i l e .   I t   c a n   o n l y   b e   u s e d   w i t h   L i s t P r o .   D o   n o t   e d i t   t h i s   f i l e   w i t h   a n y   o t h e r   p r o g r a m</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4300680063006B004D00610074006500</Bytes>
+			<ASCII> C . h . c . k . M . a . t . e</ASCII>
+			<Pos>140</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

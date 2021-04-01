@@ -1,0 +1,42 @@
+<TrID ver="1.16">
+    <Info>
+        <FileType>Vista Digital Elevation Map</FileType>
+        <Ext>DEM</Ext>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>2</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>21</Day>
+        </Date>
+        <Time>
+            <Hour>01</Hour>
+            <Min>57</Min>
+            <Sec>15</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00.1</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>56697374612044454D2046696C65</Bytes>
+            <ASCII> V i s t a   D E M   F i l e</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00</Bytes>
+            <Pos>31</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00</Bytes>
+            <Pos>63</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00</Bytes>
+            <Pos>127</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

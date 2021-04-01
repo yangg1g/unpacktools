@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GUI Design Studio Catalogue</FileType>
+		<Ext>GCAT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.carettasoftware.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>6</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>34</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C436174616C6F677565</Bytes>
+			<ASCII> . C a t a l o g u e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ORIGINALPATH</String>
+		<String>ORIGINALROOT</String>
+		<String>RELATIVEPATH</String>
+		<String>CATALOGUE</String>
+		<String>$PROJECT</String>
+		<String>FILEINFO</String>
+		<String>NEXTCID</String>
+		<String>FILES</String>
+		<String>.GUI</String>
+	</GlobalStrings>
+</TrID>

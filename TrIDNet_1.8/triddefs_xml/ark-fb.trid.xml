@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Slim! compressed archive</FileType>
+		<Ext>FB</Ext>
+		<ExtraInfo>
+			<Rem>Slim! is a powerful experimental compression utility, bundled with basic archiving functionality. Its primary purpose is to achieve maximum possible compression level, disregarding compression speed and memory requirements.</Rem>
+			<RefURL>http://www.bars.lg.ua/slim/#intro</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<Refine>5 by Marco Pontello - 3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>15</Min>
+			<Sec>54</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>06000000</Bytes>
+			<Pos>2</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4642</Bytes>
+			<ASCII> F B</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

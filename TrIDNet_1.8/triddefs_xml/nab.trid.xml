@@ -1,0 +1,62 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Novell Groupwise Address Book</FileType>
+		<Ext>NAB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.novell.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>56</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3A3A3A5441474D41503A3A3A30464645303030333A2A2A2A</Bytes>
+			<ASCII> : : : T A G M A P : : : 0 F F E 0 0 0 3 : * * *</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>OFFICE PHONE NUMBER</String>
+		<String>DISTINGUISHED NAME</String>
+		<String>E-MAIL ADDRESS</String>
+		<String>E-MAIL TYPE</String>
+		<String>POST OFFICE</String>
+		<String>DEPARTMENT</String>
+		<String>NETWORK ID</String>
+		<String>FAX NUMBER</String>
+		<String>FIRST NAME</String>
+		<String>LAST NAME</String>
+		<String>USER ID</String>
+		<String>DOMAIN</String>
+		<String>TAGMAP</String>
+		<String>INTERN</String>
+		<String>TITLE</String>
+		<String>ATION</String>
+		<String>ORGAN</String>
+		<String>CELL</String>
+		<String>ADDI</String>
+		<String>OWNE</String>
+		<String>ENTS</String>
+		<String>GREE</String>
+		<String>GUID</String>
+		<String>STOP</String>
+	</GlobalStrings>
+</TrID>

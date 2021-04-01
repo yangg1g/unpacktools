@@ -1,0 +1,40 @@
+<TrID ver="1.16">
+	<Info>
+		<FileType>AIN compressed DOS Executable</FileType>
+		<Ext>EXE</Ext>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Date>
+			<Year>2003</Year>
+			<Month>07</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>42</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.00.1</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A</Bytes>
+			<ASCII> M Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>14000000000000004D5A</Bytes>
+			<ASCII> . . . . . . . . M Z</ASCII>
+			<Pos>20</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>41494E32FFFF</Bytes>
+			<ASCII> A I N 2</ASCII>
+			<Pos>32</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

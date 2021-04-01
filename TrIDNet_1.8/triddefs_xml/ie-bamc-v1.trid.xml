@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Infinity Engine Compressed Animation (v1)</FileType>
+		<Ext>BAM</Ext>
+		<ExtraInfo>
+			<Rem>Infinity Engine BAMC files describe zlib compressed BAM files which are animated graphics. Such files are used for animations (both creature animations, item and spell animations) and interactive GUI elements (e.g. buttons) and for logical collections of images (e.g. fonts). The format supports multiple animation cycles, each containing multiple frames.  Applies to: BG1, BG1:ToSC, BG2, BG2:ToB, PST, IWD, IWD:HoW, IWD:TotL, IWD2</Rem>
+			<RefURL>http://iesdp.gibberlings3.net/file_formats/ie_formats/bam_v1.htm#bamcv1_Header</RefURL>
+		</ExtraInfo>
+		<User>Sam.</User>
+		<E-Mail>sampsca@yahoo.com</E-Mail>
+		<Home>http://www.shsforums.net/user/10485-sam/</Home>
+	</Info>
+	<General>
+		<FileNum>27684</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>2</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>34</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>42414D435631</Bytes>
+			<ASCII> B A M C V 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0078</Bytes>
+			<ASCII> . x</ASCII>
+			<Pos>11</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

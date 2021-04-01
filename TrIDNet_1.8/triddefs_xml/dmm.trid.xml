@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DropMind Mind Map</FileType>
+		<Ext>DMM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://dropmind.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>2</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>34</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>312A6265756160616961</Bytes>
+			<ASCII> 1 * b e u a ` a i a</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3C21</Bytes>
+			<ASCII> . !</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

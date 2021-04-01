@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GRAFIT layout</FileType>
+		<Ext>DES</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>19</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2554686973206973206120475241464954206C61796F75742066696C652E0A</Bytes>
+			<ASCII> % T h i s   i s   a   G R A F I T   l a y o u t   f i l e . .</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

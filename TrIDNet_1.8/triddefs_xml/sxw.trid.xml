@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>StarOffice Writer document</FileType>
+		<Ext>SXW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Oracle_Open_Office</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>30</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D696D65747970656170706C69636174696F6E2F766E642E73756E2E786D6C2E777269746572504B</Bytes>
+			<ASCII> m i m e t y p e a p p l i c a t i o n / v n d . s u n . x m l . w r i t e r P K</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VND.SUN.XML.WRITERPK</String>
+		<String>MIMETYPEAPPLICATION</String>
+		<String>MANIFEST.XMLPK</String>
+		<String>SETTINGS.XMLPK</String>
+		<String>CONTENT.XMLPK</String>
+		<String>STYLES.XMLPK</String>
+		<String>META.XMLPK</String>
+		<String>MIMETYPEPK</String>
+		<String>META-INF</String>
+		<String>URATION</String>
+		<String>ERATOR</String>
+		<String>IMAGE</String>
+		<String>STAT</String>
+	</GlobalStrings>
+</TrID>

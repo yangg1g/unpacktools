@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EAGLE Parameter</FileType>
+		<Ext>USR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cadsoft.de</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>01</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>36</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23204541474C4520506172616D657465722046696C65202867656E657261746564206279204541474C452056657273696F6E20</Bytes>
+			<ASCII> #   E A G L E   P a r a m e t e r   F i l e   ( g e n e r a t e d   b y   E A G L E   V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>52</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

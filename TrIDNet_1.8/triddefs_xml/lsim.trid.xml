@@ -1,0 +1,91 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LogicSim circuit (Java ver.)</FileType>
+		<Ext>LSIM</Ext>
+		<ExtraInfo>
+			<Rem>A Java Digital logic circuit designer and simulator.</Rem>
+			<RefURL>http://www.tetzl.de/java_logic_simulator.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>6</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>49</Min>
+			<Sec>0</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>ACED0005737200116C6F67696373696D2E476174654C6973743000C9F78B8F6BF60200014C000567617465737400124C6A6176612F7574696C2F566563746F723B7870737200106A6176612E7574696C2E566563746F72D9977D5B803BAF01</Bytes>
+			<ASCII> . . . . s r . . l o g i c s i m . G a t e L i s t 0 . . . . . k . . . . L . . g a t e s t . . L j a v a / u t i l / V e c t o r ; x p s r . . j a v a . u t i l . V e c t o r . . } [ . ;</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00034900116361706163697479496E6372656D656E7449000C656C656D656E74436F756E745B000B656C656D656E74446174617400135B4C6A6176612F6C616E672F4F626A6563743B787000000000000000</Bytes>
+			<ASCII> . . I . . c a p a c i t y I n c r e m e n t I . . e l e m e n t C o u n t [ . . e l e m e n t D a t a t . . [ L j a v a / l a n g / O b j e c t ; x p</ASCII>
+			<Pos>96</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>757200135B4C6A6176612E6C616E672E4F626A6563743B90CE589F1073296C0200007870000000</Bytes>
+			<ASCII> u r . . [ L j a v a . l a n g . O b j e c t ; . . X . . s ) l . . . x p</ASCII>
+			<Pos>179</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>737200</Bytes>
+			<ASCII> s r</ASCII>
+			<Pos>219</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6C6F67696373696D2E</Bytes>
+			<ASCII> l o g i c s i m</ASCII>
+			<Pos>223</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CAPACITYINCREMENTI</String>
+		<String>LOGICSIM.GATELIST0</String>
+		<String>JAVA.LANG.BOOLEAN</String>
+		<String>LJAVA.LANG.OBJECT</String>
+		<String>GATEIMAGEHEIGHTI</String>
+		<String>JAVA.AWT.POLYGON</String>
+		<String>JAVA.UTIL.VECTOR</String>
+		<String>GATEIMAGEWIDTHI</String>
+		<String>ONIMAGENAMEQ'~</String>
+		<String>LOGICSIM.WIRE</String>
+		<String>ELEMENTCOUNT</String>
+		<String>ELEMENTDATAT</String>
+		<String>VALUEXP'SQ'~</String>
+		<String>INPUTTYPEST</String>
+		<String>LOGICSIM.L</String>
+		<String>XPOINTSQ'~</String>
+		<String>YPOINTSQ'~</String>
+		<String>NUMINPUTI</String>
+		<String>RECTANGLE</String>
+		<String>NODESQ'~</String>
+		<String>NPOINTSL</String>
+		<String>PPPPPPPP</String>
+		<String>BOUNDST</String>
+		<String>GATEST</String>
+		<String>STRING</String>
+		<String>XPSQ'~</String>
+		<String>DSQ'~</String>
+		<String>INQ'~</String>
+		<String>NAMET</String>
+		<String>POLYT</String>
+		<String>PUQ'~</String>
+		<String>OUTT</String>
+		<String>XPSR</String>
+		<String>XQ'~</String>
+	</GlobalStrings>
+</TrID>

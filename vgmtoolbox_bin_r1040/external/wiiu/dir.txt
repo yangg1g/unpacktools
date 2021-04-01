@@ -1,0 +1,3 @@
+﻿Place your key files here.
+
+ckey.bin for the Common key.

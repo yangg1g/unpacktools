@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MPEG-4 ALS (Audio Lossless coding Standard)</FileType>
+		<Ext>ALS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.nue.tu-berlin.de/forschung/projekte/lossless/mp4als.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>12</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>53</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FF00</Bytes>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>80002C</Bytes>
+			<ASCII> . . ,</ASCII>
+			<Pos>17</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52494646</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>22</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>57415645666D74</Bytes>
+			<ASCII> W A V E f m t</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0064617461</Bytes>
+			<ASCII> . d a t a</ASCII>
+			<Pos>57</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

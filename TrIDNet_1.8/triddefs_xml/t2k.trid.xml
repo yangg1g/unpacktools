@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Teach2000 document</FileType>
+		<Ext>T2K</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.teach2000.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>9</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>16</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0D0A3C</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FREE FLASHCARD SOFTWARE TEACH2000</String>
+		<String>MESSAGE_DATA MM_FILES_EMBEDDED</String>
+		<String>TEACH2000 HOMEPAGE</String>
+		<String>IS_MULTIPLECHOICE</String>
+		<String>WWW.TEACH2000.NL</String>
+		<String>FONT_QUESTION</String>
+		<String>INTERNATIONAL</String>
+		<String>DESCRIPTION</String>
+		<String>FONT_ANSWER</String>
+		<String>TESTRESULTS</String>
+		<String>XML VERSION</String>
+		<String>TESTCOUNT</String>
+		<String>ENCODING</String>
+		<String>ITEM ID</String>
+		<String>A HREF</String>
+		<String>ERRORS</String>
+		<String>NORMAL</String>
+		<String>ITEMS</String>
+		<String>TITLE</String>
+		<String>UTF-8</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

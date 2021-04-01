@@ -1,0 +1,64 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Cumulate Draw's editable FMD format</FileType>
+		<Ext>FMD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cumulatelabs.com/cumulatedraw/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>11</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>13</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C73766720786D6C6E733D22687474703A2F2F7777772E77332E6F72672F323030302F7376672220</Bytes>
+			<ASCII> . s v g   x m l n s = " h t t p : / / w w w . w 3 . o r g / 2 0 0 0 / s v g "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCHEMAS-CUMULATELABS-COM</String>
+		<String>CONNECTION-POINT XMLNS</String>
+		<String>FEGAUSSIANBLUR RESULT</String>
+		<String>PRESERVEASPECTRATIO</String>
+		<String>ZOOM-FACTOR FACTOR</String>
+		<String>FILTER FILTERUNITS</String>
+		<String>LINEARGRADIENT ID</String>
+		<String>-MOZ-USER-SELECT</String>
+		<String>FEOFFSET RESULT</String>
+		<String>PAGE-SIZE WIDTH</String>
+		<String>FEMERGENODE IN</String>
+		<String>STROKE-OPACITY</String>
+		<String>USERSPACEONUSE</String>
+		<String>SOURCEGRAPHIC</String>
+		<String>SHADOW_FILTER</String>
+		<String>FILL-OPACITY</String>
+		<String>STROKE-WIDTH</String>
+		<String>STDDEVIATION</String>
+		<String>SOURCEALPHA</String>
+		<String>STOP OFFSET</String>
+		<String>PATH STROKE</String>
+		<String>G TRANSFORM</String>
+		<String>WWW.W3.ORG</String>
+		<String>STOP-COLOR</String>
+		<String>FINALBLUR</String>
+		<String>SVG XMLNS</String>
+		<String>_TEMPLATE</String>
+		<String>POSITION</String>
+	</GlobalStrings>
+</TrID>

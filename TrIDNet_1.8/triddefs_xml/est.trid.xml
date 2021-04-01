@@ -1,0 +1,69 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Streets and Trips map</FileType>
+		<Ext>EST</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/streets/default.mspx</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>5 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>09</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E00740072007900</Bytes>
+			<ASCII> R . o . o . t .   . E . n . t . r . y</ASCII>
+			<Pos>1024</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43006F006E00740065006E00740073</Bytes>
+			<ASCII> C . o . n . t . e . n . t . s</ASCII>
+			<Pos>1152</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4A006F00750072006E00650079</Bytes>
+			<ASCII> J . o . u . r . n . e . y</ASCII>
+			<Pos>1664</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>48006900670068006C00690067006800740073</Bytes>
+			<ASCII> H . i . g . h . l . i . g . h . t . s</ASCII>
+			<Pos>1792</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>M'I'C'R'O'S'O'F'T' 'S'T'R'E'E'T'S</String>
+		<String>A'N'N'O'T'A'T'I'O'N'S</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>H'I'G'H'L'I'G'H'T'S</String>
+		<String>T'E'M'P'L'A'T'E'S</String>
+		<String>U'S'E'R'D'A'T'A</String>
+		<String>L'A'N'G'U'A'G'E</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>P'R'O'D'U'C'T</String>
+		<String>M'A'P'N'A'M'E</String>
+		<String>T'R'I'P'S</String>
+	</GlobalStrings>
+</TrID>

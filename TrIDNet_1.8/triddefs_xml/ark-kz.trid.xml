@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Chinese kuaiya kzip compressed archive</FileType>
+		<Ext>KZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.kuaizip.com/</RefURL>
+		</ExtraInfo>
+		<User>fengdaolong</User>
+		<E-Mail>fengdaolong@gmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>7</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>51</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6B5AEA07000001002A00</Bytes>
+			<ASCII> k Z . . . . . . *</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7777772E4B7561695A69702E636F6D000000</Bytes>
+			<ASCII> w w w . K u a i Z i p . c o m</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

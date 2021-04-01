@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Rage Maker workspace</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://ragemaker.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>6</Month>
+			<Day>7</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>27</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C726167656D616B65723E0A20203C70616E656C733E</Bytes>
+			<ASCII> . r a g e m a k e r . .     . p a n e l s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>REDDITWATERMARK</String>
+		<String>GRIDLINESARRAY</String>
+		<String>GRIDABOVEALL</String>
+		<String>RAGEMAKER</String>
+		<String>SHOWGRID</String>
+		<String>OPACITY</String>
+		<String>PANELS</String>
+		<String>FALSE</String>
+		<String>ITEMX</String>
+		<String>ITEMY</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Advanced Forensics Format disk image</FileType>
+		<Ext>AFF</Ext>
+		<ExtraInfo>
+			<Rem>AFF is an open and extensible file format designed to store disk images and associated metadata.</Rem>
+			<RefURL>http://www.afflib.org</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>53</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>414646</Bytes>
+			<ASCII> A F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

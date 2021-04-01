@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Terragen Object geometry</FileType>
+		<Ext>TGO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Terragen</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<Date>
+			<Year>2014</Year>
+			<Month>1</Month>
+			<Day>2</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>52</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>544552524147454E47454F4D45545259444154411C</Bytes>
+			<ASCII> T E R R A G E N G E O M E T R Y D A T A</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

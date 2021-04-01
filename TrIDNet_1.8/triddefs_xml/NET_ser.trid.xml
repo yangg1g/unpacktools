@@ -1,0 +1,67 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>.NET serialized data</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>12</Min>
+			<Sec>0</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0001000000FFFFFFFF0100000000000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>19</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E436F</Bytes>
+			<ASCII> . C o</ASCII>
+			<Pos>29</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>65</Bytes>
+			<ASCII> e</ASCII>
+			<Pos>59</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>69</Bytes>
+			<ASCII> i</ASCII>
+			<Pos>74</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SYSTEM.COLLECTIONS.</String>
+		<String>PUBLICKEYTOKEN</String>
+		<String>_VERSION</String>
+		<String>CULTURE</String>
+		<String>NEUTRAL</String>
+		<String>POINTS</String>
+		<String>_ITEMS</String>
+		<String>_SIZE</String>
+		<String>1.0.</String>
+		<String>BACK</String>
+		<String>LIST</String>
+		<String>NULL</String>
+	</GlobalStrings>
+</TrID>

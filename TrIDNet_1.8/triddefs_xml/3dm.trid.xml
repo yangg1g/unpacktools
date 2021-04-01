@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Rhinoceros 3D Model</FileType>
+		<Ext>3DM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.rhino3d.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>28</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>33442047656F6D657472792046696C6520466F726D6174</Bytes>
+			<ASCII> 3 D   G e o m e t r y   F i l e   F o r m a t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MicroStation Symbology Resources</FileType>
+		<Ext>RSC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Microstation</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>04</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D6963726F53746174696F6E2053796D626F6C6F6779205265736F75726365731A</Bytes>
+			<ASCII> M i c r o S t a t i o n   S y m b o l o g y   R e s o u r c e s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,74 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Visual Studio Web Deployment Project</FileType>
+		<Ext>WDPROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>02</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>40</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C212D2D</Bytes>
+			<ASCII> . ! - -</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MICROSOFT.WEBDEPLOYMENT.TARGETS</String>
+		<String>$(MSBUILDEXTENSIONSPATH)</String>
+		<String>PROJECTREFERENCE INCLUDE</String>
+		<String>MICROSOFT VISUAL STUDIO</String>
+		<String>CONFIGURATION CONDITION</String>
+		<String>PROPERTYGROUP CONDITION</String>
+		<String>PROJECT DEFAULTTARGETS</String>
+		<String>WEB DEPLOYMENT PROJECT</String>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>SOURCEWEBPHYSICALPATH</String>
+		<String>SOURCEWEBVIRTUALPATH</String>
+		<String>SINGLEASSEMBLYNAME</String>
+		<String>PLATFORM CONDITION</String>
+		<String>GO.MICROSOFT.COM</String>
+		<String>ENABLEUPDATEABLE</String>
+		<String>$(CONFIGURATION)</String>
+		<String>SOURCEWEBPROJECT</String>
+		<String>IMPORT PROJECT</String>
+		<String>PRODUCTVERSION</String>
+		<String>SCHEMAVERSION</String>
+		<String>DEBUGSYMBOLS</String>
+		<String>PROJECTGUID</String>
+		<String>$(PLATFORM)</String>
+		<String>TARGET NAME</String>
+		<String>OUTPUTPATH</String>
+		<String>DEVELOPER</String>
+		<String>ITEMGROUP</String>
+		<String>USEMERGE</String>
+		<String>RELEASE</String>
+		<String>FWLINK</String>
+		<String>ANYCPU</String>
+		<String>LINKID</String>
+		<String>EXIST</String>
+		<String>FALSE</String>
+		<String>XMLNS</String>
+		<String>TASK</String>
+		<String>HTTP</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

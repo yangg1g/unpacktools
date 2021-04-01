@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+  <TransformScript>
+    <OtherComments>
+      <Content>Greek Petite Capitals
+This script inserts x-height Greek Small Capitals in the Private Use Area. The scale factor will need adjustment to suit the x-height of your font. The bold effect will need adjustment to suit the weight of the lowercase Greek letters in your font. </Content>
+    </OtherComments>
+    <GlyphInsertCharacters>
+      <Characters>58945-58961, 58963-58969</Characters>
+      <OverrideRange>TRUE</OverrideRange>
+    </GlyphInsertCharacters>
+    <GlyphCompleteComposites>
+    </GlyphCompleteComposites>
+    <GlyphDecompose>
+    </GlyphDecompose>
+    <OutlineScale>
+      <AroundType>2</AroundType>
+      <AroundCorner>0</AroundCorner>
+      <AroundXPos>0</AroundXPos>
+      <AroundYPos>0</AroundYPos>
+      <Horizontal>61.00</Horizontal>
+      <Vertical>58.00</Vertical>
+      <PreserveBearings>FALSE</PreserveBearings>
+    </OutlineScale>
+    <EffectsBold>
+      <Horizontal>12</Horizontal>
+      <Vertical>6</Vertical>
+      <PreserveBearings>TRUE</PreserveBearings>
+    </EffectsBold>
+    <OutlineMove>
+      <Horizontal>0</Horizontal>
+      <Vertical>6</Vertical>
+    </OutlineMove>
+    <MetricsLeftSideBearing>
+    </MetricsLeftSideBearing>
+    <OtherComments>
+      <Content>Accented Petite Capitals
+Thie rest of this script then adds composites of these new glyphs to create accented Greek small capitals. You will need to align the accents and edit some glyphs.</Content>
+    </OtherComments>
+    <GlyphInsertCharacters>
+      <Characters>58912, 58940-58944, 58970-58974</Characters>
+      <OverrideRange>TRUE</OverrideRange>
+    </GlyphInsertCharacters>
+    <GlyphCompleteComposites>
+    </GlyphCompleteComposites>
+  </TransformScript>
+</DATA>

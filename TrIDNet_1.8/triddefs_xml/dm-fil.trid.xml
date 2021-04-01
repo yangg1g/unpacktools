@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DeskMate Filer database</FileType>
+		<Ext>FIL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Deskmate</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>31</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0346494C</Bytes>
+			<ASCII> . F I L</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4442434F4C53</Bytes>
+			<ASCII> D B C O L S</ASCII>
+			<Pos>1026</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DBCOLS</String>
+		<String>FORMAT</String>
+		<String>CNAME</String>
+		<String>OWNER</String>
+		<String>START</String>
+		<String>TYPE</String>
+		<String>UNIQ</String>
+	</GlobalStrings>
+</TrID>

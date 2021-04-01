@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>iTunes Music Library</FileType>
+		<Ext>ITL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.apple.com/itunes/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>9</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6864666D000000</Bytes>
+			<ASCII> h d f m</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

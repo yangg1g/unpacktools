@@ -1,0 +1,198 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Comic Life 2 Archive</FileType>
+		<Ext>CL2ARC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://plasq.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>10</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>7</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>664C6D4330303031436F6E74656E7473</Bytes>
+			<ASCII> f L m C 0 0 0 1 C o n t e n t s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2000303030</Bytes>
+			<ASCII>   . 0 0 0</ASCII>
+			<Pos>114</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CALIBRATED-RGB-COLOR-TYPE PQA</String>
+		<String>TEXT_HORIZONTALJUSTIFICATION</String>
+		<String>TEXT_VERTICALJUSTIFICATION</String>
+		<String>LINT%20MCCREE%20INTL%20BB</String>
+		<String>STROKE_OUTLINEALTCOLOR</String>
+		<String>FILL_IMAGETINTOPACITY</String>
+		<String>COM.PLASQ.COMICLIFE2</String>
+		<String>SHOWLAYOUTSANDPHOTOS</String>
+		<String>MAINTAINASPECTRATIO</String>
+		<String>PARAGRAPH-STYLE PQA</String>
+		<String>SHOWALIGNMENTGUIDES</String>
+		<String>STROKE_OUTLINECOUNT</String>
+		<String>LETTERING_BASELINE</String>
+		<String>SHOWPAGESANDSTYLES</String>
+		<String>LETTERING_SPACING</String>
+		<String>RESTARTPAGENUMBER</String>
+		<String>SHADOW_BLURRADIUS</String>
+		<String>ALREADYAUTOSIZED</String>
+		<String>BALLOON_TAILTYPE</String>
+		<String>FLMC0001CONTENTS</String>
+		<String>FOREGROUND-COLOR</String>
+		<String>IMAGEMANAGER PQA</String>
+		<String>LETTERING_JOINED</String>
+		<String>LINTMCCREEINTLBB</String>
+		<String>STROKE_JOINSTYLE</String>
+		<String>VIEWSETTINGS PQA</String>
+		<String>BACKGROUNDCOLOR</String>
+		<String>FONT_UNDERLINED</String>
+		<String>IMAGEHANDLE PQA</String>
+		<String>IMAGEHELPER PQA</String>
+		<String>PQCOLORSTOP PQA</String>
+		<String>REVISIONHISTORY</String>
+		<String>STROKE_CAPSTYLE</String>
+		<String>STROKE_DASHTYPE</String>
+		<String>APP_BUILD_DATE</String>
+		<String>FILL_IMAGEMODE</String>
+		<String>FLIPHORIZONTAL</String>
+		<String>IMAGE_COLORIZE</String>
+		<String>IMAGE_FILTERID</String>
+		<String>OBJECT-REF PQA</String>
+		<String>PQGRADIENT PQA</String>
+		<String>SHADOW_ENABLED</String>
+		<String>SHADOW_OPACITY</String>
+		<String>SHADOW_XOFFSET</String>
+		<String>SHADOW_YOFFSET</String>
+		<String>STROKE_ENABLED</String>
+		<String>STYLEOVERRIDES</String>
+		<String>STYLESHEET PQA</String>
+		<String>SYSTEM-VERSION</String>
+		<String>FILL_GRADIENT</String>
+		<String>IMAGEFILE PQA</String>
+		<String>IMAGE_ENABLED</String>
+		<String>LETTERING PQA</String>
+		<String>NEWPAGENUMBER</String>
+		<String>SNAPTOLERANCE</String>
+		<String>TEMPLATEPAGES</String>
+		<String>THUMBNAIL.PNG</String>
+		<String>BOTTOMMARGIN</String>
+		<String>FILL_ENABLED</String>
+		<String>FLIPVERTICAL</String>
+		<String>FONT_ENABLED</String>
+		<String>GRIDINTERVAL</String>
+		<String>IMAGE_INVERT</String>
+		<String>IMPORTIMAGES</String>
+		<String>ORIGINALPATH</String>
+		<String>PAGE-001.JPG</String>
+		<String>PORTRAITMODE</String>
+		<String>PROPERTY-MAP</String>
+		<String>SHADOW_COLOR</String>
+		<String>SHAPE_FACTOR</String>
+		<String>STROKE_COLOR</String>
+		<String>STROKE_WIDTH</String>
+		<String>STYLEDEF PQA</String>
+		<String>BALLOON PQA</String>
+		<String>CLIPTOFRAME</String>
+		<String>RIGHTMARGIN</String>
+		<String>SHOWMARGINS</String>
+		<String>TEXT_MARGIN</String>
+		<String>XML VERSION</String>
+		<String>BRIGHTNESS</String>
+		<String>BUBBLE PQA</String>
+		<String>COLORSTOPS</String>
+		<String>FONT_COLOR</String>
+		<String>INFO.PLIST</String>
+		<String>LEFTMARGIN</String>
+		<String>NAMESPACES</String>
+		<String>NUMBER PQA</String>
+		<String>SATURATION</String>
+		<String>SHAPE_TYPE</String>
+		<String>SNAPTOGRID</String>
+		<String>STRING PQA</String>
+		<String>COMIC PQA</String>
+		<String>FILL_TYPE</String>
+		<String>FILTERDPI</String>
+		<String>FONT-NAME</String>
+		<String>FONT_FONT</String>
+		<String>GENERATOR</String>
+		<String>HASPANELS</String>
+		<String>IMAGE PQA</String>
+		<String>IMAGEINFO</String>
+		<String>IMAGERECT</String>
+		<String>INDEX.XML</String>
+		<String>INPACKAGE</String>
+		<String>POINT PQA</String>
+		<String>SHARPNESS</String>
+		<String>STARTTAIL</String>
+		<String>TAB-STOPS</String>
+		<String>TOPMARGIN</String>
+		<String>_SETTINGS</String>
+		<String>CONTRAST</String>
+		<String>CONTROL1</String>
+		<String>ELEMENTS</String>
+		<String>EXPOSURE</String>
+		<String>FONT PQA</String>
+		<String>PAGE PQA</String>
+		<String>PAGENAME</String>
+		<String>PAGESIZE</String>
+		<String>RECT PQA</String>
+		<String>SHOWGRID</String>
+		<String>SIZE PQA</String>
+		<String>TAIL PQA</String>
+		<String>CAPTION</String>
+		<String>DEFAULT</String>
+		<String>ENDTAIL</String>
+		<String>IMAGEID</String>
+		<String>MIDTAIL</String>
+		<String>PKGINFO</String>
+		<String>REGULAR</String>
+		<String>STAGGER</String>
+		<String>THOUGHT</String>
+		<String>CENTER</String>
+		<String>EDITED</String>
+		<String>FAMILY</String>
+		<String>MASTER</String>
+		<String>POINT0</String>
+		<String>SPREAD</String>
+		<String>ANGLE</String>
+		<String>ARRAY</String>
+		<String>CDATA</String>
+		<String>IDATX</String>
+		<String>TSPAN</String>
+		<String>USTAR</String>
+		<String>XMLNS</String>
+		<String>_NAME</String>
+		<String>$3BR</String>
+		<String>HERE</String>
+		<String>HTTP</String>
+		<String>IEND</String>
+		<String>IHDR</String>
+		<String>JFIF</String>
+		<String>LOCK</String>
+		<String>MM'*</String>
+		<String>NONE</String>
+		<String>PHYS</String>
+		<String>RREG</String>
+		<String>SKEW</String>
+	</GlobalStrings>
+</TrID>

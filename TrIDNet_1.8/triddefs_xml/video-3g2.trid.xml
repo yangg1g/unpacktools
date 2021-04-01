@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>3GPP2 multimedia audio/video</FileType>
+		<Ext>3G2</Ext>
+		<ExtraInfo>
+			<Rem>3GPP-3GPP2 is a global standards for the creation, delivery and playback of multimedia over 3rd generation, wireless networks, cell phones, etc.</Rem>
+			<RefURL>http://www.apple.com/mpeg4/3gpp/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>02</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>21</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>66747970</Bytes>
+			<ASCII> f t y p</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MDIA''' MDHD</String>
+		<String>LMVHD</String>
+		<String>H'''H</String>
+		<String>$DINF</String>
+		<String>FTYP</String>
+		<String>DREF</String>
+		<String>MDAT</String>
+		<String>MOOV</String>
+		<String>MINF</String>
+		<String>STBL</String>
+		<String>STCO</String>
+		<String>STSC</String>
+		<String>STSD</String>
+		<String>STSS</String>
+		<String>STSZ</String>
+		<String>STTS</String>
+		<String>TKHD</String>
+		<String>TRAK</String>
+		<String>VIDE</String>
+		<String>VMHD</String>
+	</GlobalStrings>
+</TrID>

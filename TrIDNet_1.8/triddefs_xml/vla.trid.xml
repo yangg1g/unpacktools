@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Digistar II VLA geometry</FileType>
+		<Ext>VLA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://paulbourke.net/dataformats/vla/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>43</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>73657420</Bytes>
+			<ASCII> s e t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SET PARAMETRIC NON_PARAMETRIC</String>
+		<String>SET DEFAULTDRAW STELLAR</String>
+		<String>SET INTENSITY EXPLICIT</String>
+		<String>SET FILECONTENT LINES</String>
+		<String>SET FILETYPE NEW</String>
+		<String>SET DEPTHCUE</String>
+		<String>SET COORDSYS</String>
+		<String>SET AUTHOR</String>
+		<String>SET SITE</String>
+	</GlobalStrings>
+</TrID>

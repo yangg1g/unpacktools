@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Half-Life 2 savegame</FileType>
+		<Ext>SAV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Half-Life_%28series%29</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>20</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4A53415673</Bytes>
+			<ASCII> J S A V s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7374617465</Bytes>
+			<ASCII> s t a t e</ASCII>
+			<Pos>982</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D61704E616D65</Bytes>
+			<ASCII> m a p N a m e</ASCII>
+			<Pos>1969</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

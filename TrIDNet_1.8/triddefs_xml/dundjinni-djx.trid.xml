@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Fluid Entertainment Dundjinni - included Art</FileType>
+		<Ext>DJX</Ext>
+		<ExtraInfo>
+			<Rem>Art included in Dundjinni which is used to create your maps, (such as an image of a trophy, or a bathtub), have the .djx extension. Miniature tokens also receive this extension.</Rem>
+			<RefURL>http://www.dundjinni.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>67</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>18</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>XML VERSION</String>
+		<String>DJX-IMAGE</String>
+		<String>ELEMENTS</String>
+		<String>DJX-PROP</String>
+		<String>ENCODING</String>
+		<String>MAJOR</String>
+		<String>LOW-1</String>
+		<String>UTF-8</String>
+		<String>MINOR</String>
+		<String>ROOT</String>
+	</GlobalStrings>
+</TrID>

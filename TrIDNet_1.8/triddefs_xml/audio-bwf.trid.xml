@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Broadcast Wave File audio</FileType>
+		<Ext>WAV/BWF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ebu.ch/departments/technical/pmc/pmc_bwf.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>1</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>26</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.78b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52494646</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>005741564562657874</Bytes>
+			<ASCII> . W A V E b e x t</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

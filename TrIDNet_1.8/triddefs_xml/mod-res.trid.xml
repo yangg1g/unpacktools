@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MicroStation Modification resource file</FileType>
+		<Ext>M01/P01/R01/S01</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://selectservices.bentley.com/en-US/Support/Support+Tools/TechNotes+and+FAQs/MicroStation+J/Managing+Custom+User+Interface+Ids.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>58</Min>
+			<Sec>54</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D6F64696669636174696F6E205265736F757263652046696C651A</Bytes>
+			<ASCII> M o d i f i c a t i o n   R e s o u r c e   F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

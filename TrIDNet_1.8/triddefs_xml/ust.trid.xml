@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>UTAU vocal track</FileType>
+		<Ext>UST</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://utau.wikia.com/wiki/UTAU</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>7</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>13</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B2353455454494E475D0D0A54656D706F3D</Bytes>
+			<ASCII> [ # S E T T I N G ] . . T e m p o =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PROJECTNAME</String>
+		<String>WAVTOOL.EXE</String>
+		<String>MODURATION</String>
+		<String>INTENSITY</String>
+		<String>RESAMPLER</String>
+		<String>CACHEDIR</String>
+		<String>TRACKEND</String>
+		<String>VOICEDIR</String>
+		<String>NOTENUM</String>
+		<String>OUTFILE</String>
+		<String>SETTING</String>
+		<String>.CACHE</String>
+		<String>LENGTH</String>
+		<String>TRACKS</String>
+		<String>LYRIC</String>
+		<String>TEMPO</String>
+		<String>TOOL1</String>
+		<String>TOOL2</String>
+		<String>0000</String>
+	</GlobalStrings>
+</TrID>

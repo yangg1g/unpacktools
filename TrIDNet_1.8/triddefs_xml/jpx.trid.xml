@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>jalbum image info</FileType>
+		<Ext>JPX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://jalbum.net/software</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>05</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>23</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B</Bytes>
+			<ASCII> [</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BRIGHTNESSTRAFOS</String>
+		<String>COLORCORRECTION</String>
+		<String>SELBRIGHTNESS</String>
+		<String>DESCRIPTION</String>
+		<String>ROTATION</String>
+		<String>CONTRAST</String>
+		<String>STRENGTH</String>
+		<String>COMMENT</String>
+		<String>BOTTOM</String>
+		<String>DETAIL</String>
+		<String>ANGLE</String>
+		<String>GAMMA</String>
+		<String>LEFT</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

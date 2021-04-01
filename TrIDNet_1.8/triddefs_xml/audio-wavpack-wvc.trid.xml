@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WavPack compressed audio correction data</FileType>
+		<Ext>WVC</Ext>
+		<ExtraInfo>
+			<Rem>This data are used along a WavPack lossy hybrid file to reconstruct the original audio data.</Rem>
+			<RefURL>http://www.wavpack.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>38</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>47</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7776706B</Bytes>
+			<ASCII> w v p k</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

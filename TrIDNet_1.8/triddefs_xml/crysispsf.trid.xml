@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Crysis Warhead saved game</FileType>
+		<Ext>CRYSISPSF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Crysis</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>11</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52474D480100000028200000000000000000000036</Bytes>
+			<ASCII> R G M H . . . . (   . . . . . . . . . . 6</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>004A2BC8CD4075A545B92E9A7C7033DBF2530069006E0067006C00650050006C006100790065007200</Bytes>
+			<ASCII> . J + . . @ u . E . . . | p 3 . . S . i . n . g . l . e . P . l . a . y . e . r</ASCII>
+			<Pos>23</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'I'N'G'L'E'P'L'A'Y'E'R</String>
+		<String>.'C'R'Y'S'I'S'P'S'F</String>
+		<String>S'A'V'E'G'A'M'E'S</String>
+		<String>METADATA VERSION</String>
+		<String>SP_LEVELPLAYTIME</String>
+		<String>D'E'F'A'U'L'T'_</String>
+		<String>SP_GAMEPLAYTIME</String>
+		<String>V_ALTITUDELIMIT</String>
+		<String>CHECKPOINTNAME</String>
+		<String>SP_DIFFICULTY</String>
+		<String>SINGLEPLAYER</String>
+		<String>%'U'S'E'R'%</String>
+		<String>GAMERULES</String>
+		<String>SP_DEATHS</String>
+		<String>SAVETIME</String>
+		<String>SP_KILLS</String>
+		<String>BUILD</String>
+		<String>DATC</String>
+		<String>RGMH</String>
+	</GlobalStrings>
+</TrID>

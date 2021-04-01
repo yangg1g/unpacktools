@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Speccy snapshot</FileType>
+		<Ext>SPECCY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.piriform.com/speccy/</RefURL>
+		</ExtraInfo>
+		<User>Ryan Jones</User>
+		<E-Mail>sciguyryan@gmail.com</E-Mail>
+		<Home>http://ccc-cymru.com</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>0</Hour>
+			<Min>41</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5344</Bytes>
+			<ASCII> S D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>3</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

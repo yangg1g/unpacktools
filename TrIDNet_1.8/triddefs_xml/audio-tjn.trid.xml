@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Taijin Media Net karaoke song</FileType>
+		<Ext>TJN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.taijinmedia.co.kr/taijinwow/english/vision.asp</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>09</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>00</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00035441494A494E204D4544494120434F2E2C4C5444</Bytes>
+			<ASCII> . . T A I J I N   M E D I A   C O . , L T D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MTHD</String>
+	</GlobalStrings>
+</TrID>

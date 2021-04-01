@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AppFace skin</FileType>
+		<Ext>URF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.appface.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>31</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>02</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>03</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>A1A0AEABBCA8AAA8A0A8</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>A8A8</Bytes>
+			<Pos>20</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>A8A8</Bytes>
+			<Pos>24</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>A8B9A8A6D09EC36B11DF6D</Bytes>
+			<ASCII> . . . . . . . k . . m</ASCII>
+			<Pos>27</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

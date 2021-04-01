@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Draft Choice for Windows drawing</FileType>
+		<Ext>DCW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sw-computerconsultancy.com/products/draft_Choice/dcwin.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>06</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>49</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0E444357494E2044726177696E671A</Bytes>
+			<ASCII> . D C W I N   D r a w i n g</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

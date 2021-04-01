@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MadAppLauncher configuration</FileType>
+		<Ext>MAL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>https://sites.google.com/site/madapplauncher/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>7</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>6</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E3022207374616E64616C6F6E653D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   s t a n d a l o n e = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MADAPPLAUNCHER.SOURCEFORGE.NET</String>
+		<String>WORKINGDIRECTORY</String>
+		<String>WINDOWMOVEDELAY</String>
+		<String>MACONFIG XMLNS</String>
+		<String>WINDOWSTYLEEX</String>
+		<String>MACONFIG.XSD</String>
+		<String>XML VERSION</String>
+		<String>BUTTONTEXT</String>
+		<String>RUNASADMIN</String>
+		<String>STANDALONE</String>
+		<String>ARGUMENTS</String>
+		<String>ICONINDEX</String>
+		<String>BUTTONID</String>
+		<String>FILENAME</String>
+		<String>ICONFILE</String>
+		<String>MABUTTON</String>
+		<String>TABNAME</String>
+		<String>FALSE</String>
+		<String>MATAB</String>
+		<String>TABID</String>
+		<String>2010</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

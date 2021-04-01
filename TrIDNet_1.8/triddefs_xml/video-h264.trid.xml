@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Raw H.264/MPEG-4 AVC Video</FileType>
+		<Ext>H264</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/H.264/MPEG-4_AVC</RefURL>
+		</ExtraInfo>
+		<User>Ryan Jones</User>
+		<E-Mail>sciguyryan@gmail.com</E-Mail>
+		<Home>http://ccc-cymru.com</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>04</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>20</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000000016764001FAC34E240B4117EE1</Bytes>
+			<ASCII> . . . . g d . . . 4 . @ . . ~</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>H.264</String>
+		<String>MPEG-4 AVC</String>
+	</GlobalStrings>
+</TrID>

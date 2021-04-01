@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XSI Addon</FileType>
+		<Ext>XSIADDON</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Autodesk_Softimage</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>12</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>15</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E3022</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DEFAULTDESTINATION</String>
+		<String>ADDONVERSION</String>
+		<String>DESCRIPTION</String>
+		<String>XML VERSION</String>
+		<String>AUTHOREMAIL</String>
+		<String>INSTALLDIR</String>
+		<String>AUTHORNAME</String>
+		<String>CATEGORIES</String>
+		<String>PLATFORMS</String>
+		<String>LANGUAGE</String>
+		<String>COMPANY</String>
+		<String>SUMMARY</String>
+		<String>NATURE</String>
+		<String>TITLE</String>
+		<String>USAGE</String>
+		<String>IMAGE</String>
+	</GlobalStrings>
+</TrID>

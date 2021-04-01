@@ -1,0 +1,62 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EDIF Netlist</FileType>
+		<Ext>EDN</Ext>
+		<ExtraInfo>
+			<Rem>http://en.wikipedia.org/wiki/EDIF</Rem>
+			<RefURL>http://www.xilinx.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>49</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>9</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>58</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>286564696620</Bytes>
+			<ASCII> ( e d i f</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>(CELLTYPE GENERIC</String>
+		<String>(NUMBERDEFINITION</String>
+		<String>(KEYWORDLEVEL</String>
+		<String>(EDIFVERSION</String>
+		<String>(INSTANCEREF</String>
+		<String>(KEYWORDMAP</String>
+		<String>(LIBRARYREF</String>
+		<String>(TECHNOLOGY</String>
+		<String>(DIRECTION</String>
+		<String>(EDIFLEVEL</String>
+		<String>(INTERFACE</String>
+		<String>(TIMESTAMP</String>
+		<String>(CONTENTS</String>
+		<String>(VIEWTYPE</String>
+		<String>(CELLREF</String>
+		<String>(PORTREF</String>
+		<String>(PROGRAM</String>
+		<String>(VERSION</String>
+		<String>(VIEWREF</String>
+		<String>(WRITTEN</String>
+		<String>(DESIGN</String>
+		<String>(JOINED</String>
+		<String>(STATUS</String>
+		<String>(NET</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LinTech resource</FileType>
+		<Ext>REZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.planetavp.com/modmaker/modmaker2.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>19</Min>
+			<Sec>54</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52657A4D67722056657273696F6E203120436F70797269676874202843292031393935204D4F4E4F4C49544820494E432E20</Bytes>
+			<ASCII> R e z M g r   V e r s i o n   1   C o p y r i g h t   ( C )   1 9 9 5   M O N O L I T H   I N C</ASCII>
+			<Pos>2</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4C69746854656368205265736F757263652046696C6520</Bytes>
+			<ASCII> L i t h T e c h   R e s o u r c e   F i l e</ASCII>
+			<Pos>64</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

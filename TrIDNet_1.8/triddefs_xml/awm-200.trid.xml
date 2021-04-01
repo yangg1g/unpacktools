@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AllWebMenus project (v2.xx)</FileType>
+		<Ext>AWM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.likno.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>09</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>41</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>61776D3230300D0A</Bytes>
+			<ASCII> a w m 2 0 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MENU TREE</String>
+	</GlobalStrings>
+</TrID>

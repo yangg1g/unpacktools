@@ -1,0 +1,63 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PhotoShop plug-in (generic)</FileType>
+		<Ext>8*</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.adobe.com/products/photoshop/main.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>128</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>11</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>47</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A2400000000000000</Bytes>
+			<ASCII> . . . . . . . . . . ! . . L . ! T h i s   p r o g r a m   c a n n o t   b e   r u n   i n   D O S   m o d e . . . . $</ASCII>
+			<Pos>62</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>THIS PROGRAM CANNOT BE RUN IN DOS MODE.</String>
+		<String>O'R'I'G'I'N'A'L</String>
+		<String>MIB8EMAN</String>
+		<String>MIB8DNIK</String>
+		<String>MIB868XW</String>
+		<String>MIB8SREV</String>
+		<String>P'I'P'L</String>
+		<String>S'I'O'N</String>
+		<String>C'O'M'P</String>
+		<String>V'E'R'S</String>
+		<String>.RELOC</String>
+		<String>PLUGIN</String>
+		<String>.RDATA</String>
+		<String>PE''L</String>
+		<String>I'N'G</String>
+		<String>.DATA</String>
+		<String>.RSRC</String>
+		<String>.TEXT</String>
+		<String>A'M'E</String>
+		<String>RICH</String>
+		<String>.DLL</String>
+	</GlobalStrings>
+</TrID>

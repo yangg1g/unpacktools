@@ -1,0 +1,66 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Channel Master Project</FileType>
+		<Ext>CMPROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sharpc.com/CM</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>36</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>01</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DISEQCSWITCH</String>
+		<String>TRANSPONDERS</String>
+		<String>SWITCHDISEQC</String>
+		<String>CHANNELTYPE</String>
+		<String>XML VERSION</String>
+		<String>SATELLITES</String>
+		<String>FAVORITES</String>
+		<String>CHANNELNO</String>
+		<String>LONGITUDE</String>
+		<String>FREQUENCY</String>
+		<String>AUDIOPID</String>
+		<String>LNBFREQ1</String>
+		<String>VIDEOPID</String>
+		<String>CHANNELS</String>
+		<String>POLARITY</String>
+		<String>ENCODING</String>
+		<String>LATITUDE</String>
+		<String>LNBFREQ2</String>
+		<String>LNBTYPE</String>
+		<String>PROJECT</String>
+		<String>STBTYPE</String>
+		<String>COMMENT</String>
+		<String>ECMPID</String>
+		<String>PCRPID</String>
+		<String>DEGREE</String>
+		<String>SYMBOL</String>
+		<String>STATE</String>
+		<String>NAME</String>
+		<String>PORT</String>
+	</GlobalStrings>
+</TrID>

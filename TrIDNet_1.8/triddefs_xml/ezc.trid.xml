@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EZGUI Designer control definition</FileType>
+		<Ext>EZC</Ext>
+		<ExtraInfo>
+			<Rem>EZGUI is a GUI engine for use with PowerBASIC compiler.</Rem>
+			<RefURL>http://www.ezgui.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>10</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>52</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3C3C444553433E3E3E0D0A09</Bytes>
+			<ASCII> . . . D E S C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DEFAULTTEXT</String>
+		<String>USECOLORMSG</String>
+		<String>USEFONTMSG</String>
+		<String>REGISTER</String>
+		<String>INCLUDES</String>
+		<String>INITCODE</String>
+		<String>NOTIFY</String>
+		<String>STYLES</String>
+		<String>CLASS</String>
+		<String>DESC</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ZModeler profile</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Zmodeler</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>3</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>49</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0D0A</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WWW.ZMODELER</String>
+		<String>PROFILE XMLNS</String>
+		<String>FOLDER NAME</String>
+		<String>XML VERSION</String>
+		<String>ENCODING</String>
+		<String>KEY NAME</String>
+		<String>UTF-8</String>
+		<String>VALUE</String>
+		<String>HTTP</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>YUV4MPEG2 video</FileType>
+		<Ext>Y4M</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://wiki.multimedia.cx/index.php?title=YUV4MPEG2</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>9</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>16</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>595556344D5045473220</Bytes>
+			<ASCII> Y U V 4 M P E G 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FRAME</String>
+	</GlobalStrings>
+</TrID>

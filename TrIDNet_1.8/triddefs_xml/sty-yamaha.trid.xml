@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Yamaha General Style</FileType>
+		<Ext>STY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.jososoft.dk/yamaha/software.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>1611</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>29</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D546864</Bytes>
+			<ASCII> M T h d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D54726B</Bytes>
+			<ASCII> M T r k</ASCII>
+			<Pos>14</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MAIN B</String>
+		<String>MTHD</String>
+		<String>MTRK</String>
+		<String>SFF1</String>
+		<String>SINT</String>
+	</GlobalStrings>
+</TrID>

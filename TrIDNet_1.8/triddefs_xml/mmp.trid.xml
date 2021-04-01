@@ -1,0 +1,80 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mindjet MindManager Map</FileType>
+		<Ext>MMP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mindjet.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>06</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>40</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>32</Bytes>
+			<ASCII> 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>OPLEASE SEND YOUR COMMENTS TO {MYEMAIL}. THIS DOCUMENT WAS UPDATED {CHANGEDATE}.G(</String>
+		<String>WAITING FOR INFORMATION</String>
+		<String>LOOK AT PARENT BRANCH</String>
+		<String>TABLE OF CONTENTSI(</String>
+		<String>YELLOW HIGHLIGHT</String>
+		<String>HOME'''''2'''''2</String>
+		<String>BOTH IMPORTANT</String>
+		<String>READ DOCUMENT</String>
+		<String>WITH IMAGEMAP</String>
+		<String>THIS IS GOOD</String>
+		<String>CUT THIS OUT</String>
+		<String>SEE DOCUMENT</String>
+		<String>BLUE BRANCH</String>
+		<String>THUMBS DOWN</String>
+		<String>INTERESTING</String>
+		<String>2'''''''''2</String>
+		<String>MAKE A NOTE</String>
+		<String>THIS DOESN</String>
+		<String>CONFERENCE</String>
+		<String>RED BRANCH</String>
+		<String>2'''''''2</String>
+		<String>THUMBS UP</String>
+		<String>READ THIS</String>
+		<String>16777215Z</String>
+		<String>ARIAL' '2</String>
+		<String>CONFUSING</String>
+		<String>SEE ALSO</String>
+		<String>PRIORITY</String>
+		<String>DELIVER</String>
+		<String>MEETING</String>
+		<String>DROP IT</String>
+		<String>MORE I</String>
+		<String>TOPICC</String>
+		<String>T WORK</String>
+		<String>ANGRY</String>
+		<String>GREEN</String>
+		<String>ITEMC</String>
+		<String>2''2</String>
+		<String>DING</String>
+		<String>RESS</String>
+		<String>COMP</String>
+		<String>FREE</String>
+		<String>COOL</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Microsoft Direct3D Object (binary)</FileType>
+        <Ext>X</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>33</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </Date>
+        <Time>
+            <Hour>00</Hour>
+            <Min>48</Min>
+            <Sec>57</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.50</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>786F6620</Bytes>
+            <ASCII> x o f</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>62</Bytes>
+            <ASCII> b</ASCII>
+            <Pos>8</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

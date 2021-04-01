@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Karma Asset</FileType>
+		<Ext>KA</Ext>
+		<ExtraInfo>
+			<Rem>Used for 'rag-doll' physics in the UnrealEngine.</Rem>
+			<RefURL>http://udn.epicgames.com/Two/KarmaAuthoringTool.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>04</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>15</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C</Bytes>
+			<ASCII> . ? x m l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>KARMA KA_FILE_VERSION</String>
+		<String>DYNAMICS_AND_GEOMETRY</String>
+		<String>PRIMITIVE ID</String>
+		<String>MASS_OFFSET</String>
+		<String>GEOMETRY ID</String>
+		<String>MASS_SCALE</String>
+		<String>JOINT ID</String>
+		<String>ASSET ID</String>
+		<String>MODEL ID</String>
+		<String>PART ID</String>
+		<String>.PSK</String>
+	</GlobalStrings>
+</TrID>

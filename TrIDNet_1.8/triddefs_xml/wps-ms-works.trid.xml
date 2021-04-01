@@ -1,0 +1,98 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Works text document</FileType>
+		<Ext>WPS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>65</FileNum>
+		<Refine>22 by Marco Pontello - 1 by Marco Pontello - 5 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>06</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>00</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE1</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52</Bytes>
+			<ASCII> R</ASCII>
+			<Pos>1024</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6F</Bytes>
+			<ASCII> o</ASCII>
+			<Pos>1026</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6F</Bytes>
+			<ASCII> o</ASCII>
+			<Pos>1028</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>74</Bytes>
+			<ASCII> t</ASCII>
+			<Pos>1030</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>1032</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>45</Bytes>
+			<ASCII> E</ASCII>
+			<Pos>1034</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6E</Bytes>
+			<ASCII> n</ASCII>
+			<Pos>1036</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>74</Bytes>
+			<ASCII> t</ASCII>
+			<Pos>1038</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>72</Bytes>
+			<ASCII> r</ASCII>
+			<Pos>1040</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>79</Bytes>
+			<ASCII> y</ASCII>
+			<Pos>1042</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>QUILL96 STORY GROUP CLASS</String>
+		<String>BTEP</String>
+		<String>CHNK</String>
+		<String>FDPC</String>
+		<String>FDPP</String>
+		<String>FRAM</String>
+		<String>BTEC</String>
+		<String>STRS</String>
+		<String>STSH</String>
+		<String>SYID</String>
+		<String>TEXT</String>
+		<String>FONT</String>
+	</GlobalStrings>
+</TrID>

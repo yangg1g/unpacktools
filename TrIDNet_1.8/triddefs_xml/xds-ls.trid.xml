@@ -1,0 +1,68 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LCDStudio Design</FileType>
+		<Ext>XDS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.lcdstudio.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>11</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>00</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C44657369676E3E0D0A20203C44657369676E20786D6C6E733A7873693D22687474703A2F2F7777772E77332E6F72672F323030312F584D4C536368656D612D696E7374616E63652220786D6C6E733A7873643D22687474703A2F2F7777772E77332E6F72672F323030312F584D4C536368656D61223E0D0A202020203C44697274793E</Bytes>
+			<ASCII> . D e s i g n . . .     . D e s i g n   x m l n s : x s i = " h t t p : / / w w w . w 3 . o r g / 2 0 0 1 / X M L S c h e m a - i n s t a n c e "   x m l n s : x s d = " h t t p : / / w w w . w 3 . o r g / 2 0 0 1 / X M L S c h e m a " . . .         . D i r t y</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BACKGROUND_DITHERING</String>
+		<String>BACKGROUND_FILENAME</String>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>BACKGROUND_INVERT</String>
+		<String>COMPOSITINGMODE</String>
+		<String>RENDERER XMLNS</String>
+		<String>COREWIDGETS.</String>
+		<String>DESIGN XMLNS</String>
+		<String>WIDGET TYPE</String>
+		<String>WWW.W3.ORG</String>
+		<String>SOURCEOVER</String>
+		<String>ROTATION</String>
+		<String>SIZEMODE</String>
+		<String>LASTSIZE</String>
+		<String>LOCATION</String>
+		<String>XMLIMAGE</String>
+		<String>DATAKEY</String>
+		<String>HEIGHT</String>
+		<String>SPACE</String>
+		<String>FALSE</String>
+		<String>DIRTY</String>
+		<String>WIDTH</String>
+		<String>RECT</String>
+		<String>SCRO</String>
+		<String>MENT</String>
+		<String>VIDE</String>
+		<String>HTTP</String>
+		<String>INDE</String>
+		<String>FONT</String>
+		<String>LEFT</String>
+		<String>TEXT</String>
+	</GlobalStrings>
+</TrID>

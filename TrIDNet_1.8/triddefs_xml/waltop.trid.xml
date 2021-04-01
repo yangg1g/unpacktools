@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Waltop digital ink-pad graphic</FileType>
+		<Ext>TOP</Ext>
+		<ExtraInfo>
+			<Rem>Free converter to svg at http://freshmeat.net/projects/top2svg/</Rem>
+			<RefURL>http://www.waltop.com.tw/P-my_note_t01s.htm</RefURL>
+		</ExtraInfo>
+		<User>Josef Schneider</User>
+		<E-Mail>TrID@netpage.dk</E-Mail>
+		<Home>http://netpage.dk</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>08</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>27</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>57414C544F50</Bytes>
+			<ASCII> W A L T O P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A</Bytes>
+			<ASCII> :</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

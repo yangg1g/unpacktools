@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Game Maker 6 project</FileType>
+		<Ext>GM6</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.yoyogames.com/gamemaker</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>24</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>08</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>54</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>91D5120058020000</Bytes>
+			<ASCII> . . . . X</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GLOBAL GAME SETTINGS</String>
+		<String>GAME INFORMATION</String>
+		<String>BACKGROUNDS</String>
+		<String>TIME LINES</String>
+		<String>COLORTBL</String>
+		<String>VIEWKIND</String>
+		<String>OBJECTS</String>
+		<String>SCRIPTS</String>
+		<String>FONTTBL</String>
+		<String>SPRITES</String>
+		<String>SOUNDS</String>
+		<String>ROOMS</String>
+		<String>BLUE0</String>
+		<String>FONTS</String>
+		<String>DEFF0</String>
+		<String>GREEN</String>
+		<String>PATHS</String>
+		<String>PARD</String>
+		<String>ANSI</String>
+		<String>RED0</String>
+		<String>LANG</String>
+		<String>RTF1</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CD Label Pro project</FileType>
+		<Ext>CDL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cdlabelpro.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>04</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>10</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>BEBA0C43442D4C4142454C2050524F00</Bytes>
+			<ASCII> . . . C D - L A B E L   P R O</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

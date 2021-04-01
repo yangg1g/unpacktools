@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GZipped File</FileType>
+		<Ext>Z/GZ/GZIP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Davide "Airex" Airaghi</User>
+		<E-Mail>airex"AT"tiscali"DOT"it</E-Mail>
+		<Home>http://tinyurl.com/6vyg2wu</Home>
+	</Info>
+	<General>
+		<FileNum>167</FileNum>
+		<Refine>146 by Marco Pontello</Refine>
+		<Date>
+			<Year>2004</Year>
+			<Month>07</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>03</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1F8B08</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

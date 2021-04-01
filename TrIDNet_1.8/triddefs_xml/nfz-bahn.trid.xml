@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>JB BAHN vehicle</FileType>
+		<Ext>NFZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.jbss.de</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>21</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4461746569206D6974206E75747A6572646566696E69657274656E20466168727A657567656E0D0A45727374656C6C74206D697420</Bytes>
+			<ASCII> D a t e i   m i t   n u t z e r d e f i n i e r t e n   F a h r z e u g e n . . E r s t e l l t   m i t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

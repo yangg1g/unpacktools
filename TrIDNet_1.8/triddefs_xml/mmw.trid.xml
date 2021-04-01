@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AceMoney data</FileType>
+		<Ext>MMW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mechcad.net/products/acemoney/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>02</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>35</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00000001000000</Bytes>
+			<Pos>1</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CREDIT</String>
+		<String>MENT</String>
+		<String>TELE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Entrust Entelligence Profile</FileType>
+		<Ext>EPF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.entrust.com/entelligence/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>22</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B50617373776F726420546F6B656E5D</Bytes>
+			<ASCII> [ P a s s w o r d   T o k e n ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PROFILE VERSION</String>
+		<String>USER X.500 NAME</String>
+		<String>PASSWORD TOKEN</String>
+		<String>PROTECTION</String>
+		<String>SALTVALUE</String>
+		<String>COUNT</String>
+		<String>HASH</String>
+	</GlobalStrings>
+</TrID>

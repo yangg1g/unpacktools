@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Compiled AppleScript script</FileType>
+		<Ext>SCPT</Ext>
+		<ExtraInfo>
+			<Rem>AppleScript is Apple's powerful and versatile native language scripting technology for Mac OS X.</Rem>
+			<RefURL>http://developer.apple.com/applescript/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>04</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>13</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4661736455415320</Bytes>
+			<ASCII> F a s d U A S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

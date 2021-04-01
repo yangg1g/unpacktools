@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Extended MIDI</FileType>
+		<Ext>XMI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Midi</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>28</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>01</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>33</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>464F524D</Bytes>
+			<ASCII> F O R M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>58444952494E464F</Bytes>
+			<ASCII> X D I R I N F O</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00434154200000</Bytes>
+			<ASCII> . C A T</ASCII>
+			<Pos>21</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>584D4944464F524D</Bytes>
+			<ASCII> X M I D F O R M</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>584D4944</Bytes>
+			<ASCII> X M I D</ASCII>
+			<Pos>42</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

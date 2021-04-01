@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Construct compressed game project</FileType>
+		<Ext>CAPX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.scirra.com/construct2</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>9</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>17</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.UISTATE.XMLPK</String>
+		<String>EVENT SHEETS</String>
+		<String>ANIMATIONS</String>
+		<String>.CAPROJPK</String>
+		<String>000.PNGPK</String>
+		<String>DEFAULT</String>
+		<String>LAYOUTS</String>
+		<String>GAMA</String>
+		<String>IDAT</String>
+		<String>IEND</String>
+		<String>IHDR</String>
+		<String>SRGB</String>
+		<String>TEXT</String>
+	</GlobalStrings>
+</TrID>

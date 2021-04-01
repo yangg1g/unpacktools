@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MapInfo MapBasic application eXtension (generic)</FileType>
+		<Ext>MBX</Ext>
+		<ExtraInfo>
+			<Rem>Support files for MapInfo Professional GIS.</Rem>
+			<RefURL>http://www.mapinfo.com/</RefURL>
+		</ExtraInfo>
+		<User>Kieran O'Donnell</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>42</FileNum>
+		<Refine>12 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>13</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>214170700A2156657273696F6E20</Bytes>
+			<ASCII> ! A p p . ! V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>214368617273657420</Bytes>
+			<ASCII> ! C h a r s e t</ASCII>
+			<Pos>18</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MAPBASIC.DEF</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>iPhone Ringtone</FileType>
+		<Ext>M4R</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Iphone</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>464</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>20</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>66747970</Bytes>
+			<ASCII> f t y p</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SMHD'''''''''''$DINF</String>
+		<String>HDLR''''''''SOUN</String>
+		<String>MOOV'''LMVHD</String>
+		<String>MDIA''' MDHD</String>
+		<String>DREF</String>
+		<String>MDAT</String>
+		<String>FTYP</String>
+		<String>MINF</String>
+		<String>ISOM</String>
+		<String>MP4A</String>
+		<String>ESDS</String>
+		<String>STBL</String>
+		<String>STCO</String>
+		<String>STSC</String>
+		<String>STSD</String>
+		<String>STSZ</String>
+		<String>STTS</String>
+		<String>TKHD</String>
+		<String>TRAK</String>
+	</GlobalStrings>
+</TrID>

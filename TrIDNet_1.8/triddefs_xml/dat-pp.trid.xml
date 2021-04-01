@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>PestPatrol data / scan strings</FileType>
+        <Ext>DAT</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://pestpatrol.com</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>3</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2004</Year>
+            <Month>01</Month>
+            <Day>24</Day>
+        </Date>
+        <Time>
+            <Hour>23</Hour>
+            <Min>09</Min>
+            <Sec>35</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>50455354</Bytes>
+            <ASCII> P E S T</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>D3C30100C0612ADD5DC201</Bytes>
+            <ASCII> . . . . . a * . ]</ASCII>
+            <Pos>17</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>LXHB</String>
+        <String>PEST</String>
+    </GlobalStrings>
+</TrID>

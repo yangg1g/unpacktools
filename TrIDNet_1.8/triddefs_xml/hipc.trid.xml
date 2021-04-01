@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Hippel-COSO Music</FileType>
+		<Ext>HIPC</Ext>
+		<ExtraInfo>
+			<Rem>A variant of the Hippel music format. This also includes Hippel COSO 7V (seven voices) music. COSO means 'crunched datablock', i.e. the music data is compressed. The Hippel-COSO file format can be decrunched into the regular Hippel format.</Rem>
+			<RefURL>http://exotica.fix.no/tunes/unexotica/formats/Hippel-COSO.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>39</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>41</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>434F534F000000400000</Bytes>
+			<ASCII> C O S O . . . @</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54464D5800</Bytes>
+			<ASCII> T F M X</ASCII>
+			<Pos>32</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

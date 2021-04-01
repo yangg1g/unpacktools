@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>UVMapper object</FileType>
+		<Ext>OBJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.uvmapper.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>07</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>232066696C652067656E6572617465642062792055564D6170706572</Bytes>
+			<ASCII> #   f i l e   g e n e r a t e d   b y   U V M a p p e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

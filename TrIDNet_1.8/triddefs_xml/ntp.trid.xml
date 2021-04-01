@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>NovoTrade Packer Music</FileType>
+		<Ext>NTP</Ext>
+		<ExtraInfo>
+			<Rem>Module packer created by NovoTrade.</Rem>
+			<RefURL>http://exotica.fix.no/tunes/unexotica/formats/NovoTrade_Packer.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>16</Min>
+			<Sec>54</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D4F4455</Bytes>
+			<ASCII> M O D U</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000</Bytes>
+			<Pos>17</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BODY</String>
+		<String>RPLD</String>
+		<String>SAMP</String>
+	</GlobalStrings>
+</TrID>

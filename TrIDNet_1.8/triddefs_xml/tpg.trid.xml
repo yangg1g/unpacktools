@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Tektronix Pattern</FileType>
+		<Ext>TPG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>8</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>55</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>54656B74726F6E6978205061747465726E2047656E657261746F72</Bytes>
+			<ASCII> T e k t r o n i x   P a t t e r n   G e n e r a t o r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2F</Bytes>
+			<ASCII> /</ASCII>
+			<Pos>51</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2F</Bytes>
+			<ASCII> /</ASCII>
+			<Pos>54</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>57</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A</Bytes>
+			<ASCII> :</ASCII>
+			<Pos>60</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>63</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

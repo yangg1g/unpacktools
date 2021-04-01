@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Infinity Engine compiled character Script</FileType>
+		<Ext>BS</Ext>
+		<ExtraInfo>
+			<Rem>Infinity Engine BS files are scripts which drive a character's actions automatically (AI scripts) based on criteria in the environment.</Rem>
+			<RefURL>http://iesdp.gibberlings3.net/file_formats/ie_formats/bcs.htm</RefURL>
+		</ExtraInfo>
+		<User>Sam.</User>
+		<E-Mail>sampsca@yahoo.com</E-Mail>
+		<Home>http://www.shsforums.net/user/10485-sam/</Home>
+	</Info>
+	<General>
+		<FileNum>79</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>01</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>56</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53430A</Bytes>
+			<ASCII> S C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0A</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

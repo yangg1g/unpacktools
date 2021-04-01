@@ -1,0 +1,68 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VIP Organizer DB</FileType>
+		<Ext>VPDB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.todolistsoft.com/organizer/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>21</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>45</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000000010000000000</Bytes>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000260000007B</Bytes>
+			<ASCII> . . . . . . . {</ASCII>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2D</Bytes>
+			<ASCII> -</ASCII>
+			<Pos>27</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>)'''GRIDTASKVIEWCOLUMNTASKRESOURCESDEPARTMENT</String>
+		<String>$'''GRIDTASKVIEWCOLUMNTASKDATECOMPLLETED</String>
+		<String>$'''GRIDTASKVIEWCOLUMNTASKSLEFTDAYSSHORT</String>
+		<String>GRIDTASKVIEWCOLUMNTASKDATELASTMODIFIED</String>
+		<String>GRIDTASKVIEWCOLUMNTASKSDUEDATESHORT</String>
+		<String>GRIDTASKVIEWCOLUMNTASKSREMINDERTIME</String>
+		<String>GRIDTASKVIEWCOLUMNTASKSDESCRIPTION</String>
+		<String>GRIDTASKVIEWCOLUMNTASKDATECREATED</String>
+		<String>GRIDTASKVIEWCOLUMNTASKDATEOPENED</String>
+		<String>GRIDTASKVIEWCOLUMNTASKGROUPIMAGE</String>
+		<String>GRIDTASKVIEWCOLUMNTASKSDUE_DATE</String>
+		<String>GRIDTASKVIEWCOLUMNTASKSPRIORITY</String>
+		<String>GRIDTASKVIEWCOLUMNTASKCOMPLETE</String>
+		<String>GRIDTASKVIEWCOLUMNTASKLEFTTIME</String>
+		<String>GRIDTASKVIEWCOLUMNTASKFILEURL</String>
+		<String>GRIDTASKVIEWCOLUMNTASKSTATUS</String>
+		<String>GRIDTASKVIEWCOLUMNTASKSDONE</String>
+		<String>GRIDTASKVIEWCOLUMNTASKSNAME</String>
+		<String>GRIDTASKVIEWCOLUMNTASKSTATE</String>
+		<String>DEFAULT TASK VIEW LAYOUT</String>
+		<String>FILTER</String>
+		<String>ITEM</String>
+	</GlobalStrings>
+</TrID>

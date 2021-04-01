@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>KeyWallet Object - encrypted data</FileType>
+		<Ext>KWO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.keywallet.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>29</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7B007B004B0065007900570061006C006C00650074005F004F0062006A006500630074007D007D007B007B00420069006E006100720079007D007D007B007B0043007200790070007400530074006F0072006100670065007D007D</Bytes>
+			<ASCII> { . { . K . e . y . W . a . l . l . e . t . _ . O . b . j . e . c . t . } . } . { . { . B . i . n . a . r . y . } . } . { . { . C . r . y . p . t . S . t . o . r . a . g . e . } . }</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7B004B0057005F00530074006F00720061006700650062006C0065005F004F0062006A006500630074005F0046006F0072006D00610074007D</Bytes>
+			<ASCII> { . K . W . _ . S . t . o . r . a . g . e . b . l . e . _ . O . b . j . e . c . t . _ . F . o . r . m . a . t . }</ASCII>
+			<Pos>97</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

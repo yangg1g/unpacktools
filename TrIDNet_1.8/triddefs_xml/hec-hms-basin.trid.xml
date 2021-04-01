@@ -1,0 +1,71 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HEC-HMS Basin model settings</FileType>
+		<Ext>BASIN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.hec.usace.army.mil/software/hec-hms/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>12</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>426173696E3A20</Bytes>
+			<ASCII> B a s i n :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COMPUTE LOCAL FLOW AT JUNCTIONS</String>
+		<String>BASIN SCHEMATIC PROPERTIES</String>
+		<String>PERCENT IMPERVIOUS AREA</String>
+		<String>DEVELOPED POWER BLOCK</String>
+		<String>MISSING FLOW TO ZERO</String>
+		<String>DRAW FLOW DIRECTION</String>
+		<String>LAST MODIFIED TIME</String>
+		<String>LAST MODIFIED DATE</String>
+		<String>ENABLE FLOW RATIO</String>
+		<String>DRAW ICON LABELS</String>
+		<String>MAXIMUM VIEW S</String>
+		<String>MAXIMUM VIEW N</String>
+		<String>MAXIMUM VIEW W</String>
+		<String>ALLOW BLENDING</String>
+		<String>MAXIMUM VIEW E</String>
+		<String>DRAW GRIDLINES</String>
+		<String>EXTENT METHOD</String>
+		<String>CURVE NUMBER</String>
+		<String>DESCRIPTION</String>
+		<String>LAST VIEW S</String>
+		<String>LAST VIEW W</String>
+		<String>LAST VIEW N</String>
+		<String>LAST VIEW E</String>
+		<String>UNIT SYSTEM</String>
+		<String>DRAW ICONS</String>
+		<String>TRANSFORM</String>
+		<String>CANVAS Y</String>
+		<String>LOSSRATE</String>
+		<String>BASEFLOW</String>
+		<String>ELEMENTS</String>
+		<String>CANVAS X</String>
+		<String>SUBBASIN</String>
+		<String>VERSION</String>
+		<String>BUFFER</String>
+		<String>NONE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>KolibriOS application</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://kolibrios.org/</RefURL>
+		</ExtraInfo>
+		<User>Erik Siers</User>
+		<E-Mail>eriksiers-at-bmi-dot-net</E-Mail>
+		<Home>https://sourceforge.net/users/eriksiers</Home>
+	</Info>
+	<General>
+		<FileNum>154</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>10</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>37</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4B50434B</Bytes>
+			<ASCII> K P C K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000001469117428E</Bytes>
+			<ASCII> . . . . F . . B</ASCII>
+			<Pos>9</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

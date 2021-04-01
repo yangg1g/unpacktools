@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LZMA compressed archive</FileType>
+		<Ext>LZMA</Ext>
+		<ExtraInfo>
+			<Rem>LZMA SDK</Rem>
+			<RefURL>http://www.7-zip.org/sdk.html</RefURL>
+		</ExtraInfo>
+		<User>selepo</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>69</FileNum>
+		<Refine>5 by Marco Pontello</Refine>
+		<Date>
+			<Year>2009</Year>
+			<Month>01</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>31</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5D0000</Bytes>
+			<ASCII> ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WinDev Controls' Styles description</FileType>
+		<Ext>GAB</Ext>
+		<ExtraInfo>
+			<Rem>WinDev is a RAD tool by PC Soft.</Rem>
+			<RefURL>http://www.windev.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>70</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>11</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>58</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5043530014000000</Bytes>
+			<ASCII> P C S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000B00</Bytes>
+			<Pos>9</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>13</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>15</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>04</Bytes>
+			<Pos>19</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>23</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>25</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

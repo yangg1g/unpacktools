@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Autorun.inf file</FileType>
+		<Ext>INF</Ext>
+		<ExtraInfo>
+			<Rem>Placed in CDs/DVDs to make autorun or set the disk's logo.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Thaimodz</User>
+		<E-Mail>admin@thaimodz.net</E-Mail>
+		<Home>http://www.thaimodz.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>18</Min>
+			<Sec>54</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B6175746F72756E5D0D0A</Bytes>
+			<ASCII> [ a u t o r u n ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3D</Bytes>
+			<ASCII> =</ASCII>
+			<Pos>15</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

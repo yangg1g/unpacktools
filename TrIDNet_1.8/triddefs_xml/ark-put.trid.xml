@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microfox Company PUT compressed archive</FileType>
+		<Ext>PUT/INS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://web.archive.org/web/19991004055217/ourworld.compuserve.com/homepages/microfox/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>33</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2D6C5A</Bytes>
+			<ASCII> - l Z</ASCII>
+			<Pos>2</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2D</Bytes>
+			<ASCII> -</ASCII>
+			<Pos>6</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

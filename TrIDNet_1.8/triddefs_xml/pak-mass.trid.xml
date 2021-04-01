@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Massive Development package/container</FileType>
+        <Ext>PAK</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.massive.de/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>2</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>09</Month>
+            <Day>29</Day>
+        </Date>
+        <Time>
+            <Hour>00</Hour>
+            <Min>36</Min>
+            <Sec>50</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4D41535349564546494C450003000300</Bytes>
+            <ASCII> M A S S I V E F I L E</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

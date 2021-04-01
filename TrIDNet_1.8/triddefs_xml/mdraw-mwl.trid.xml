@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mighty Draw Windows library</FileType>
+		<Ext>MWL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.theliquidateher.com/mightydraw-windows.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>24</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D696768747920447261772057696E646F771A</Bytes>
+			<ASCII> M i g h t y   D r a w   W i n d o w</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

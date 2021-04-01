@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GrafX2 bitmap</FileType>
+		<Ext>PKM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://code.google.com/p/grafx2/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>11</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>28</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B4D00</Bytes>
+			<ASCII> P K M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WinZix compressed archive</FileType>
+		<Ext>ZIX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.winzix.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>34</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5A4958</Bytes>
+			<ASCII> Z I X</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ANSYS model data</FileType>
+		<Ext>ANS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ansys.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>03</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>10</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2F5449544C45204D6F64656C3A20</Bytes>
+			<ASCII> / T I T L E   M o d e l :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COM FINITE ELEMENT MESH - PTC - ANSYS</String>
+		<String>TITLE MODEL</String>
+		<String>FINISH</String>
+		<String>NROTAT</String>
+		<String>PREP</String>
+		<String>ALPX</String>
+		<String>CSYS</String>
+		<String>DENS</String>
+		<String>GOPR</String>
+		<String>NOPR</String>
+		<String>NUXY</String>
+		<String>REAL</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

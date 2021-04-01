@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Policy Administrative Template (Unicode)</FileType>
+		<Ext>ADM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://support.microsoft.com/kb/228460</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>54</FileNum>
+		<Refine>47 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>1</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>54</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.78b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE43004C004100530053002000</Bytes>
+			<ASCII> . . C . L . A . S . S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>E'N'D' 'C'A'T'E'G'O'R'Y</String>
+		<String>E'N'D' 'P'O'L'I'C'Y</String>
+		<String>V'A'L'U'E'N'A'M'E</String>
+		<String>K'E'Y'N'A'M'E</String>
+		<String>M'A'C'H'I'N'E</String>
+		<String>C'L'A'S'S</String>
+	</GlobalStrings>
+</TrID>

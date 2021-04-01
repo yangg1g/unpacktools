@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Primo computer emulator tape file</FileType>
+		<Ext>PTP</Ext>
+		<ExtraInfo>
+			<Rem>This file is usable in a Primo emulator, or transferable back to tape.</Rem>
+			<RefURL>http://primo.homeserver.hu</RefURL>
+		</ExtraInfo>
+		<User>Viktor Varga</User>
+		<E-Mail>varganospamviktor@pro.hu</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>331</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>07</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>29</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FF</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>55</Bytes>
+			<ASCII> U</ASCII>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>008300</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

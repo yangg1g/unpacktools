@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Live for Speed data</FileType>
+		<Ext>SPR</Ext>
+		<ExtraInfo>
+			<Rem>Live for Speed is an online racing simulator.</Rem>
+			<RefURL>http://www.lfs.net</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>09</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4C4653535052</Bytes>
+			<ASCII> L F S S P R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

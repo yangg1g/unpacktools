@@ -1,0 +1,75 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Dependency Walker Image</FileType>
+		<Ext>DWI</Ext>
+		<ExtraInfo>
+			<Rem>Dependency Walker is a free utility that scans any 32-bit or 64-bit Windows module (exe, dll, ocx, sys, etc.) and builds a hierarchical tree diagram of all dependent modules.</Rem>
+			<RefURL>http://www.dependencywalker.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>2 by Marco Pontello - 3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2004</Year>
+			<Month>03</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>40</Min>
+			<Sec>08</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>44574900</Bytes>
+			<ASCII> D W I</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>205374657070696E6720</Bytes>
+			<ASCII>   S t e p p i n g</ASCII>
+			<Pos>388</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0065006C002000</Bytes>
+			<ASCII> . e . l</ASCII>
+			<Pos>399</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0020005300740065007000700069006E0067002000</Bytes>
+			<ASCII> .   . S . t . e . p . p . i . n . g</ASCII>
+			<Pos>407</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000572E204575726F7065205374616E646172642054696D65000000000000000000C4FFFFFF</Bytes>
+			<ASCII> . . . . W .   E u r o p e   S t a n d a r d   T i m e</ASCII>
+			<Pos>828</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000400000019003C536964652D62792D5369646520436F6D706F6E656E74733E00</Bytes>
+			<ASCII> . . . . . . . . S i d e - b y - S i d e   C o m p o n e n t s</ASCII>
+			<Pos>907</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A5C77696E646F77735C73797374656D33325C</Bytes>
+			<ASCII> : \ w i n d o w s \ s y s t e m 3 2 \</ASCII>
+			<Pos>1375</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A5C77696E646F77735C73797374656D33325C</Bytes>
+			<ASCII> : \ w i n d o w s \ s y s t e m 3 2 \</ASCII>
+			<Pos>1411</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A5C77696E646F77735C73797374656D33325C</Bytes>
+			<ASCII> : \ w i n d o w s \ s y s t e m 3 2 \</ASCII>
+			<Pos>1907</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

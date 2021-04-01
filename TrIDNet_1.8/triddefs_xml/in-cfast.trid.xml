@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CFAST input - data</FileType>
+		<Ext>IN</Ext>
+		<ExtraInfo>
+			<Rem>CFAST stand for Consolidated Model of Fire and Smoke Transport.</Rem>
+			<RefURL>http://fast.nist.gov/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>03</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>564552534E</Bytes>
+			<ASCII> V E R S N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TARGET AND DETECTOR KEYWORDS</String>
+		<String>ENVIRONMENTAL KEYWORDS</String>
+		<String>COMPARTMENT KEYWORDS</String>
+		<String>VENT KEYWORDS</String>
+		<String>FIRE KEYWORDS</String>
+		<String>OBJECT</String>
+		<String>TIMES</String>
+		<String>HVENT</String>
+		<String>VERSN</String>
+		<String>WALLS</String>
+		<String>EAMB</String>
+		<String>TAMB</String>
+		<String>CJET</String>
+		<String>WIND</String>
+		<String>WOOD</String>
+	</GlobalStrings>
+</TrID>

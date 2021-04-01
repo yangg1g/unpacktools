@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Symantec LiveState recovery image</FileType>
+		<Ext>SV2I</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.symantec.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>56</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C53444F20636C7369643D22</Bytes>
+			<ASCII> . S D O   c l s i d = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>OFFSETONMEDIA VT</String>
+		<String>DEVICENUMBER VT</String>
+		<String>VOLUMETYPE VT</String>
+		<String>IMAGEFILE VT</String>
+		<String>ISLOGICAL VT</String>
+		<String>ISHIDDEN VT</String>
+		<String>SEGMENT1 VT</String>
+		<String>ISACTIVE VT</String>
+		<String>VOLUME1 VT</String>
+		<String>VOLUME2 VT</String>
+		<String>SDO CLSID</String>
+		<String>SIZE VT</String>
+		<String>.V2I</String>
+	</GlobalStrings>
+</TrID>

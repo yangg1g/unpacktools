@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TINA Schematic</FileType>
+		<Ext>TSC/SCH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://wiki.xtronics.com/index.php/Tina</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>01</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4F4253531A</Bytes>
+			<ASCII> O B S S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43697263756974204465736372697074696F6E</Bytes>
+			<ASCII> C i r c u i t   D e s c r i p t i o n</ASCII>
+			<Pos>20</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54494E4120</Bytes>
+			<ASCII> T I N A</ASCII>
+			<Pos>115</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

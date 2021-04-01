@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Rhea-PV2D (PlotView-2D) plot</FileType>
+		<Ext>PLT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.titanalgorithms.com/rhea_pv2d</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>13</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B53454354494F4E204845414445525D0D0A</Bytes>
+			<ASCII> [ S E C T I O N   H E A D E R ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SECTION VISIBILITY CONTROL</String>
+		<String>END VISIBILITY CONTROL</String>
+		<String>SECTION AXIS CONTROL</String>
+		<String>END AXIS CONTROL</String>
+		<String>SECTION HEADER</String>
+		<String>END HEADER</String>
+	</GlobalStrings>
+</TrID>

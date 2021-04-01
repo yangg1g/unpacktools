@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Liquid Executable bytecode</FileType>
+		<Ext>LDX</Ext>
+		<ExtraInfo>
+			<Rem>Executable for the Liquid Virtual Machine.</Rem>
+			<RefURL>http://www.globalheavyindustries.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>142</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>02</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>56</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4C4476</Bytes>
+			<ASCII> L D v</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>4</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

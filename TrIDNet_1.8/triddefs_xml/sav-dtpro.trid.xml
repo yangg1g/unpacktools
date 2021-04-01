@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Daemon Tools Pro disk image</FileType>
+		<Ext>SAV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.daemon-tools.cc</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>11</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>41</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>445450524F2D5361766564204469736B20496D616765</Bytes>
+			<ASCII> D T P R O - S a v e d   D i s k   I m a g e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

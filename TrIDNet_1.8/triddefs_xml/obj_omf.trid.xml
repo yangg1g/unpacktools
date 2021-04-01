@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OMF - Relocatable Object Module Format</FileType>
+		<Ext>OBJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.xaff.org/GI/OMF/omf.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>02</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>08</Min>
+			<Sec>08</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>80</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>2</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CODE</String>
+	</GlobalStrings>
+</TrID>

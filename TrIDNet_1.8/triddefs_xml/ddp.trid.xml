@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Delphi Diagram Portfolio</FileType>
+		<Ext>DDP</Ext>
+		<ExtraInfo>
+			<Rem>DDP files superceeded the DTI ones starting from Delphi 6.</Rem>
+			<RefURL>http://www.borland.com/delphi/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>05</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>59</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>071844454C5048492E4449414752414D2E504F5254464F4C494F</Bytes>
+			<ASCII> . . D E L P H I . D I A G R A M . P O R T F O L I O</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

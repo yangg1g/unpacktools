@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Ellisys Visual USB Data</FileType>
+		<Ext>UFO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ellisys.com/ufo/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>45</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>456C6C697379732056697375616C2055534220446174612046696C65</Bytes>
+			<ASCII> E l l i s y s	V i s u a l   U S B   D a t a	F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

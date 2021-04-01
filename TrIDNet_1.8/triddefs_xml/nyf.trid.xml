@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>myBase database</FileType>
+		<Ext>NYF</Ext>
+		<ExtraInfo>
+			<Rem>myBase is a Free-form Database Software.</Rem>
+			<RefURL>http://www.wjjsoft.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>38</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>755431010180000000</Bytes>
+			<ASCII> u T 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AutoCAD Drawing Interchange Format</FileType>
+		<Ext>DXF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.autodesk.com</RefURL>
+		</ExtraInfo>
+		<User>Piet de Visser</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<Refine>18 by Marco Pontello - 1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>7</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>38</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>202030</Bytes>
+			<ASCII>     0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ENTITIES</String>
+		<String>ENDSEC</String>
+	</GlobalStrings>
+</TrID>

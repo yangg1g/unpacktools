@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Embedded JCL debug info</FileType>
+		<Ext>JDBG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.delphi-jedi.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>46</Min>
+			<Sec>08</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4A444247</Bytes>
+			<ASCII> J D B G</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

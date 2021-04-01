@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TreePAD document</FileType>
+		<Ext>HJT</Ext>
+		<ExtraInfo>
+			<Rem>TreePAD is a program that lets you organize information in a tree/node layout</Rem>
+			<RefURL>http://www.treepad.com/</RefURL>
+		</ExtraInfo>
+		<User>Renan</User>
+		<E-Mail>renan.birck at gmail.com</E-Mail>
+		<Home>http://marreka.no-ip.com</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>5 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>11</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>20</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C54726565</Bytes>
+			<ASCII> . T r e e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>61642076657273696F6E20</Bytes>
+			<ASCII> a d   v e r s i o n</ASCII>
+			<Pos>6</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>18</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3E0D0A</Bytes>
+			<Pos>20</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TREEPAD VERSION</String>
+		<String>END NODE</String>
+		<String>TEXT</String>
+	</GlobalStrings>
+</TrID>

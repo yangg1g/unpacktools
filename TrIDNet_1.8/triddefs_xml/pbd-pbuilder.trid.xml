@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PowerBuilder Dynamic library</FileType>
+		<Ext>PBD</Ext>
+		<ExtraInfo>
+			<Rem>P-code library.</Rem>
+			<RefURL>http://www.sybase.com/products/developmentintegration/powerbuilder</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>23</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4844522A50</Bytes>
+			<ASCII> H D R * P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DAT*</String>
+		<String>ENT*</String>
+		<String>NOD*</String>
+		<String>FRE*</String>
+	</GlobalStrings>
+</TrID>

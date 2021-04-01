@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Children of the Nile campaign</FileType>
+		<Ext>SSA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Immortal_Cities:_Children_of_the_Nile</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>48</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>726173730100000001000000</Bytes>
+			<ASCII> r a s s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>C'O'P'C'M'P'G'N'_'S'C'E'N'A'R'I'O'D'E'T'A'I'L'L'I'S'T'.'T'X'T</String>
+		<String>C'O'P'C'M'P'G'N'_'S'C'E'N'A'R'I'O'L'I'S'T'.'T'X'T</String>
+		<String>C'A'M'P'A'I'G'N'D'E'S'C'R'I'P'T'I'O'N</String>
+		<String>B'A'C'K'G'R'O'U'N'D'I'M'A'G'E</String>
+		<String>C'A'M'P'A'I'G'N'T'I'E'R'S</String>
+		<String>C'A'M'P'A'I'G'N'N'A'M'E</String>
+		<String>W'L'_'M'A'P'_'1'_'1</String>
+		<String>C'A'M'P'A'I'G'N'S</String>
+		<String>S'C'E'N'A'R'I'O'S</String>
+		<String>.'J'P'G</String>
+		<String>.'S'C'N</String>
+		<String>RASS</String>
+		<String>ZLIB</String>
+	</GlobalStrings>
+</TrID>

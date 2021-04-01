@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Psycle display preset</FileType>
+		<Ext>PSV</Ext>
+		<ExtraInfo>
+			<Rem>A PSV file is part of a Psycle skin</Rem>
+			<RefURL>http://psycle.pastnotecut.org/portal.php</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>07</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>49</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B507379636C6520446973706C617920507265736574732076</Bytes>
+			<ASCII> [ P s y c l e   D i s p l a y   P r e s e t s   v</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>26</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

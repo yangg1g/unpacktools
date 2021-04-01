@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Clam AntiVirus virus database</FileType>
+		<Ext>CVD</Ext>
+		<ExtraInfo>
+			<Rem> Clam AntiVirus is a GPL anti-virus toolkit.</Rem>
+			<RefURL>http://www.clamav.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>02</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>32</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>436C616D41562D5644423A</Bytes>
+			<ASCII> C l a m A V - V D B :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>13</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>17</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>22</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>1F8B08</Bytes>
+			<Pos>512</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

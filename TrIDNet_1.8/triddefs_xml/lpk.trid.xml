@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Lazarus Package</FileType>
+		<Ext>LPK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Lazarus_(IDE)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>56</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E30223F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>UNITOUTPUTDIRECTORY VALUE</String>
+		<String>$(TARGETCPU)-$(TARGETOS)</String>
+		<String>COMPILERPATH VALUE</String>
+		<String>REQUIREDPKGS COUNT</String>
+		<String>PACKAGENAME VALUE</String>
+		<String>MINVERSION MAJOR</String>
+		<String>COMPILEROPTIONS</String>
+		<String>PACKAGE VERSION</String>
+		<String>PUBLISHOPTIONS</String>
+		<String>UNITPATH VALUE</String>
+		<String>VERSION VALUE</String>
+		<String>$(PKGOUTDIR)</String>
+		<String>USAGEOPTIONS</String>
+		<String>$(COMPPATH)</String>
+		<String>SEARCHPATHS</String>
+		<String>XML VERSION</String>
+		<String>CONFIG</String>
+		<String>OTHER</String>
+		<String>VALID</String>
+		<String>ITEM</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

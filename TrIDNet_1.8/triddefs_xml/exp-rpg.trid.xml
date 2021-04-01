@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Explorations RPG Game Engine resource</FileType>
+		<Ext>EGRP/EOBJ/ECHR</Ext>
+		<ExtraInfo>
+			<Rem>Explorations is a role playing game engine developed by Tyrone W. Lee</Rem>
+			<RefURL>http://www.explore-rpg.com/default.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>174</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>44</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5A4C4942</Bytes>
+			<ASCII> Z L I B</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00789C</Bytes>
+			<ASCII> . x</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

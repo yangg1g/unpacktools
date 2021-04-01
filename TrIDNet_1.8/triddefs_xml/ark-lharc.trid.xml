@@ -1,0 +1,41 @@
+<TrID ver="1.15">
+    <Info>
+        <FileType>LHARC/LZARK compressed archive</FileType>
+        <Ext>LZH/LHA</Ext>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>28</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>06</Month>
+            <Day>29</Day>
+        </Date>
+        <Time>
+            <Hour>20</Hour>
+            <Min>14</Min>
+            <Sec>28</Sec>
+        </Time>
+        <Creator>TrIDScan32 v0.54.4b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>2D6C68</Bytes>
+            <Pos>2</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>2D</Bytes>
+            <Pos>6</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00</Bytes>
+            <Pos>10</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00</Bytes>
+            <Pos>14</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

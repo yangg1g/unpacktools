@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>M.O.N New Music</FileType>
+		<Ext>MON</Ext>
+		<ExtraInfo>
+			<Rem>Music format created by Charles Deenen and Frederic Hahn, used by the Maniacs of Noise.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>34</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4EFA00</Bytes>
+			<ASCII> N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4EFA01</Bytes>
+			<ASCII> N</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4EFA00</Bytes>
+			<ASCII> N</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

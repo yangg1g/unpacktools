@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Segmented-Hypergraphic / Hotspot bitmap</FileType>
+		<Ext>SHG</Ext>
+		<ExtraInfo>
+			<Rem>A bitmap with hot-spots, used in/for help files.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>66</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>01</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>38</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6C</Bytes>
+			<ASCII> l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>010008000000</Bytes>
+			<Pos>2</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

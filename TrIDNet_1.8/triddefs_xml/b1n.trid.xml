@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Flymaster B1 Nav firmware</FileType>
+		<Ext>B1N</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.flymaster-avionics.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2014</Year>
+			<Month>1</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>17</Min>
+			<Sec>9</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>466C796D61737465722042316E6176206669726D7761726520</Bytes>
+			<ASCII> F l y m a s t e r   B 1 n a v   f i r m w a r e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>1A</Bytes>
+			<Pos>32</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

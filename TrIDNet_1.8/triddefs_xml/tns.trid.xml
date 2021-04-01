@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TI-Nspire Document</FileType>
+		<Ext>TNS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/TI-Nspire</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>24</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>04</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>13</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2A54494D4C50</Bytes>
+			<ASCII> * T I M L P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>446F63756D656E742E786D6C</Bytes>
+			<ASCII> D o c u m e n t . x m l</ASCII>
+			<Pos>36</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

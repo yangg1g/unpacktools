@@ -1,0 +1,39 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Hex Workshop Bookmark File</FileType>
+        <Ext>HBK</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.hexworkshop.com/</RefURL>
+        </ExtraInfo>
+        <User>.Cryorb</User>
+        <E-Mail>vy@nospam@tut.by</E-Mail>
+        <Home></Home>
+    </Info>
+    <General>
+        <FileNum>6</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>10</Month>
+            <Day>05</Day>
+        </Date>
+        <Time>
+            <Hour>11</Hour>
+            <Min>41</Min>
+            <Sec>19</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>00FFB40001000000</Bytes>
+            <ASCII> . . . . . . . .</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00000000000000000000000000000000000000000000000000000000000000000000427265616B506F696E7420536F6674776172652C20496E632E0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+            <ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B r e a k P o i n t   S o f t w a r e ,   I n c</ASCII>
+            <Pos>54</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ARIS Document File</FileType>
+		<Ext>ADF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/ARIS_Express</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2014</Year>
+			<Month>1</Month>
+			<Day>9</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>32</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>THUMBNAIL.JPGPK</String>
+		<String>METAINFO.XMLPK</String>
+		<String>PREVIEW.JPGPK</String>
+		<String>PREVIEW.JSPK</String>
+		<String>MODELPK</String>
+		<String>DATAPK</String>
+	</GlobalStrings>
+</TrID>

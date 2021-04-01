@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VectorWorks Drawing</FileType>
+		<Ext>MCD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.nemetschek.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>50</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>50</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2056</Bytes>
+			<ASCII>   V</ASCII>
+			<Pos>13</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00566563746F72576F726B7300</Bytes>
+			<ASCII> . V e c t o r W o r k s</ASCII>
+			<Pos>57</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VECTORWORKS</String>
+	</GlobalStrings>
+</TrID>

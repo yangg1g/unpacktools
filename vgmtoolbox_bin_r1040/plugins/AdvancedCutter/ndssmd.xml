@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OffsetFinderTemplate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <FormatName>Nintendo DS - SMD File</FormatName>
+    <Author />
+  </Header>
+  <SearchParameters>
+    <SearchString>736D646C00000000</SearchString>
+    <TreatSearchStringAsHex>true</TreatSearchStringAsHex>
+    <StartingOffset />
+    <UseModOffsetForSearchString>false</UseModOffsetForSearchString>
+    <SearchStringOffset>0x00</SearchStringOffset>
+    <OutputFileExtension>.smd</OutputFileExtension>
+    <MinimumSizeForCutting>0</MinimumSizeForCutting>
+    <CutParameters>
+      <CutStyle>offset</CutStyle>
+      <CutSizeAtOffset>8</CutSizeAtOffset>
+      <CutSizeOffsetSize>4</CutSizeOffsetSize>
+    </CutParameters>
+    <AddExtraBytes>false</AddExtraBytes>
+    <AddExtraByteSize />
+  </SearchParameters>
+  <NotesOrWarnings />
+</OffsetFinderTemplate>

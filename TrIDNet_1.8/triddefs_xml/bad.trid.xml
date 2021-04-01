@@ -1,0 +1,67 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Brutus Application Definition</FileType>
+		<Ext>BAD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.hoobie.net/brutus/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<Refine>9 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>01</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>44</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B427275747573204170706C69636174696F6E20446566696E6974696F6E5D</Bytes>
+			<ASCII> [ B r u t u s   A p p l i c a t i o n   D e f i n i t i o n ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BRUTUS APPLICATION DEFINITION</String>
+		<String>MASECONDARYRESPONSEISPOSITIVE</String>
+		<String>MAPRIMARYRESPONSEISPOSITIVE</String>
+		<String>MASECONDARYRESPONSEACTION</String>
+		<String>MAPRIMARYRESPONSEACTION</String>
+		<String>MAAUTHSTAGESTRINGS</String>
+		<String>MAAUTHSENDPOSTFIX</String>
+		<String>USEHTTPKEEPALIVE</String>
+		<String>MAAUTHREADLENGTH</String>
+		<String>HTTPREQUESTTYPE</String>
+		<String>MAMAXAUTHSCONX</String>
+		<String>HTTPFORMFIELDS</String>
+		<String>MAUSERPOSTFIX</String>
+		<String>MAPASSPOSTFIX</String>
+		<String>MAUSERPREFIX</String>
+		<String>MAUSEPREAUTH</String>
+		<String>MAPASSPREFIX</String>
+		<String>POSRESPONSE</String>
+		<String>USERPROMPT</String>
+		<String>RESPSTRING</String>
+		<String>PASSPROMPT</String>
+		<String>USEUSERID</String>
+		<String>ISTELNET</String>
+		<String>VERSION</String>
+		<String>TARGET</String>
+		<String>ISHTTP</String>
+		<String>ISSMB</String>
+		<String>NONE</String>
+		<String>PORT</String>
+	</GlobalStrings>
+</TrID>

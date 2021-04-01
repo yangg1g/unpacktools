@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PureBasic library</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.purebasic.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>129</FileNum>
+		<Refine>97 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>37</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>45525550</Bytes>
+			<ASCII> E R U P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00003342494C</Bytes>
+			<ASCII> . . 3 B I L</ASCII>
+			<Pos>6</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000004C494233</Bytes>
+			<ASCII> . . . L I B 3</ASCII>
+			<Pos>13</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>1TAD</String>
+	</GlobalStrings>
+</TrID>

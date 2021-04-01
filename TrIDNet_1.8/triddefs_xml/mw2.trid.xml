@@ -1,0 +1,75 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MicroWorlds LOGO Activity</FileType>
+		<Ext>MW2</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microworlds.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>112</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>33</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>006D77</Bytes>
+			<ASCII> . m w</ASCII>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TURTLE-DEAMONS</String>
+		<String>MOUSE-DEAMONS</String>
+		<String>GLOBALS-VARS</String>
+		<String>TURTLES-HAVE</String>
+		<String>GLOBALS-LIST</String>
+		<String>PROJECTSIZE</String>
+		<String>PROCEDURES</String>
+		<String>TRANSITION</String>
+		<String>CURTURTLE</String>
+		<String>HAVE-LIST</String>
+		<String>PENSTATE</String>
+		<String>PENCOLOR</String>
+		<String>FONTTBL</String>
+		<String>COLORIN</String>
+		<String>SHAPEIN</String>
+		<String>HEADING</String>
+		<String>PENSIZE</String>
+		<String>CURTEXT</String>
+		<String>DEFLANG</String>
+		<String>SHAPES</String>
+		<String>BUFFER</String>
+		<String>LOCKED</String>
+		<String>OBJECT</String>
+		<String>DEFF0</String>
+		<String>FALSE</String>
+		<String>SHOWN</String>
+		<String>PAGE</String>
+		<String>NAME</String>
+		<String>TRUE</String>
+		<String>KIND</String>
+		<String>PARD</String>
+		<String>TYPE</String>
+		<String>XPOS</String>
+		<String>YPOS</String>
+		<String>RTF1</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OptionScope Worksheet</FileType>
+		<Ext>OSC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.equis.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>56</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>184F7074696F6E20576F726B73686565742056657220</Bytes>
+			<ASCII> . O p t i o n	W o r k s h e e t   V e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>23</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

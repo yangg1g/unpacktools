@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Home Embroidery Format</FileType>
+		<Ext>PHC</Ext>
+		<ExtraInfo>
+			<Rem>Stitches' file used by Brother embroidery machines.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>01</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>06</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23504843</Bytes>
+			<ASCII> # P H C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>436F707972696768742062792062726F7468657220696E6475737472696573204C54442E</Bytes>
+			<ASCII> C o p y r i g h t   b y   b r o t h e r   i n d u s t r i e s   L T D</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Creative Voice audio</FileType>
+		<Ext>VOC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>83</FileNum>
+		<Refine>42 by Marco Pontello</Refine>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>7</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>437265617469766520566F6963652046696C651A1A00</Bytes>
+			<ASCII> C r e a t i v e   V o i c e   F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

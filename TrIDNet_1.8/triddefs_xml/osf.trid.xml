@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Oberon/F Symbol File</FileType>
+		<Ext>OSF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/BlackBox_Component_Builder</RefURL>
+		</ExtraInfo>
+		<User>Romiras</User>
+		<E-Mail>romiras [&#39;/at/&#39;] users dot sourceforge.net</E-Mail>
+		<Home>http://devlab.netne.net</Home>
+	</Info>
+	<General>
+		<FileNum>103</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>10</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>46534F6F</Bytes>
+			<ASCII> F S O o</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>01</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FSOO</String>
+	</GlobalStrings>
+</TrID>

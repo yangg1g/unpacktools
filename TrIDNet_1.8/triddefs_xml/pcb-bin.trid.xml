@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ACCEL or Protel Printed Circuit Board file (binary)</FileType>
+		<Ext>PCB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>56</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>17A15043422046494C4520392056455253494F4E20</Bytes>
+			<ASCII> . . P C B   F I L E   9   V E R S I O N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>22</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

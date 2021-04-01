@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Trillian zipped Skin</FileType>
+        <Ext>ZIP</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.trillian.cc</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>19</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>23</Day>
+        </Date>
+        <Time>
+            <Hour>02</Hour>
+            <Min>44</Min>
+            <Sec>52</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>504B0304</Bytes>
+            <ASCII> P K</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>.BMPPK</String>
+        <String>.INIPK</String>
+        <String>COLO</String>
+        <String>CONS</String>
+        <String>CONTAINER.</String>
+        <String>DESC.TXTPK</String>
+        <String>FILE</String>
+        <String>ICON</String>
+        <String>N.ICOPK</String>
+        <String>TRILLIAN.XMLPK</String>
+    </GlobalStrings>
+</TrID>

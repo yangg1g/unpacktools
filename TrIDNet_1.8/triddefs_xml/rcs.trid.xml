@@ -1,0 +1,94 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>RadDeveloper color scheme</FileType>
+        <Ext>RCS</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.raddeveloper.com/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>5</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2004</Year>
+            <Month>02</Month>
+            <Day>15</Day>
+        </Date>
+        <Time>
+            <Hour>14</Hour>
+            <Min>30</Min>
+            <Sec>43</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>54657874436F6C6F7245577C</Bytes>
+            <ASCII> T e x t C o l o r E W |</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>BACKGROUNDBW</String>
+        <String>BACKGROUNDCW</String>
+        <String>BACKGROUNDDW</String>
+        <String>BACKGROUNDEW</String>
+        <String>BACKGROUNDOW</String>
+        <String>BACKGROUNDPW</String>
+        <String>BACKGROUNDSELECTEDEW</String>
+        <String>BACKGROUNDWW</String>
+        <String>BOOKMARKS BKG</String>
+        <String>BOOKMARKS TEXT</String>
+        <String>BREAKPOINTS BKG</String>
+        <String>BREAKPOINTS TEXT</String>
+        <String>COMMENTS</String>
+        <String>COMPILE FAILURE TEXTCW</String>
+        <String>COMPILE SUCCESS TEXTCW</String>
+        <String>ERROR HIGHLIGHT BKGCW</String>
+        <String>ERROR HIGHLIGHT TEXTCW</String>
+        <String>ERRORMARK BKG</String>
+        <String>ERRORMARK TEXT</String>
+        <String>F0000</String>
+        <String>HC0C000</String>
+        <String>HFFFFFF</String>
+        <String>HIGHLIGHT BKGBW</String>
+        <String>HIGHLIGHT BKGOW</String>
+        <String>HIGHLIGHT BKGPW</String>
+        <String>HIGHLIGHT BKGWW</String>
+        <String>HIGHLIGHT TEXTBW</String>
+        <String>HIGHLIGHT TEXTOW</String>
+        <String>HIGHLIGHT TEXTPW</String>
+        <String>HIGHLIGHT TEXTWW</String>
+        <String>KEY WORDS</String>
+        <String>NUMBERS</String>
+        <String>PROC TIPS BKG</String>
+        <String>PROC TIPS TEXT</String>
+        <String>PROCLIST BKG</String>
+        <String>PROCLIST SEL BKG</String>
+        <String>PROCLIST SEL TEXT</String>
+        <String>PROCLIST TEXT</String>
+        <String>QUOTED TEXT</String>
+        <String>SELECTED BKGCW</String>
+        <String>SELECTED BKGDW</String>
+        <String>SELECTED TEXTCW</String>
+        <String>SELECTED TEXTDW</String>
+        <String>TEXTCOLORBW</String>
+        <String>TEXTCOLORCW</String>
+        <String>TEXTCOLORDW</String>
+        <String>TEXTCOLOREW</String>
+        <String>TEXTCOLOROW</String>
+        <String>TEXTCOLORPW</String>
+        <String>TEXTCOLORWW</String>
+        <String>TEXTSELECTEDEW</String>
+        <String>TRACEMARK BKG</String>
+        <String>TRACEMARK TEXT</String>
+        <String>VAR LIST SEL BKG</String>
+        <String>VARLIST BKG</String>
+        <String>VARLIST SEL TEXT</String>
+        <String>VARLIST TEXT</String>
+    </GlobalStrings>
+</TrID>

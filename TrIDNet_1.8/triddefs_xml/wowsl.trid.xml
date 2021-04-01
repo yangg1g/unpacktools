@@ -1,0 +1,88 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WOW Slider settings</FileType>
+		<Ext>WOWSL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://wowslider.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>9</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>3</Min>
+			<Sec>3</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>IMAGETEMPLATENAME</String>
+		<String>SLIDESHOWDURATION</String>
+		<String>IMAGEASPECTRATIO</String>
+		<String>GALLERY VERSION</String>
+		<String>PUBLISHFILENAME</String>
+		<String>PUBLISHPREVIEW</String>
+		<String>SLIDESHOWDELAY</String>
+		<String>VISUALLIGHTBOX</String>
+		<String>GALLERYSUFFIX</String>
+		<String>SOUNDFILENAME</String>
+		<String>IMAGEQUALITY</String>
+		<String>IMAGESTRETCH</String>
+		<String>PUBLISHINDEX</String>
+		<String>SHOWTOOLTIPS</String>
+		<String>THUMBQUALITY</String>
+		<String>GALLERYNAME</String>
+		<String>HTMLCHARSET</String>
+		<String>IMAGEEFFECT</String>
+		<String>IMAGEHEIGHT</String>
+		<String>IMAGESHRINK</String>
+		<String>PUBLISHPATH</String>
+		<String>PUBLISHTYPE</String>
+		<String>SHOWBULLETS</String>
+		<String>SOUNDENABLE</String>
+		<String>STOPONHOVER</String>
+		<String>THUMBFORMAT</String>
+		<String>THUMBHEIGHT</String>
+		<String>XML VERSION</String>
+		<String>APPVERSION</String>
+		<String>IMAGEWIDTH</String>
+		<String>THUMBALIGN</String>
+		<String>THUMBNAILS</String>
+		<String>THUMBWIDTH</String>
+		<String>TOOLTIPPOS</String>
+		<String>WOW SLIDER</String>
+		<String>WOWSLIDER.</String>
+		<String>TEMPLATES</String>
+		<String>AUTOPLAY</String>
+		<String>CAPTIONS</String>
+		<String>CONTROLS</String>
+		<String>ENCODING</String>
+		<String>SETTINGS</String>
+		<String>APPNAME</String>
+		<String>APPURLS</String>
+		<String>BACKGND</String>
+		<String>BOTTOM</String>
+		<String>FALSE</String>
+		<String>UTF-8</String>
+		<String>.COM</String>
+		<String>.JPG</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

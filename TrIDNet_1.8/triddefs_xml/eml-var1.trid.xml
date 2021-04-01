@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>E-Mail message (Var. 1)</FileType>
+		<Ext>EML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>05</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>06</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52657475726E2D506174683A20</Bytes>
+			<ASCII> R e t u r n - P a t h :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONTENT-TYPE</String>
+		<String>SUBJECT</String>
+		<String>FROM</String>
+		<String>DATE</String>
+		<String>FROM</String>
+	</GlobalStrings>
+</TrID>

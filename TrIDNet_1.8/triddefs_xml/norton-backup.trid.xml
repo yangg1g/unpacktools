@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Norton Backup file</FileType>
+		<Ext>001</Ext>
+		<ExtraInfo>
+			<Rem>Backup files created by an old DOS backup tool. 1 file for each disk, with progressive file extension.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>53</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>004E4F52544F4E2056657220</Bytes>
+			<ASCII> . N O R T O N   V e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A</Bytes>
+			<Pos>14</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

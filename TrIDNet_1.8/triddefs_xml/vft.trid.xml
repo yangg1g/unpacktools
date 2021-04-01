@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VisiForm form</FileType>
+		<Ext>VFT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.visiform.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>58</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0E2D2D2D56495349464F524D2D2D2D</Bytes>
+			<ASCII> . - - - V I S I F O R M - - -</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>56657273696F6E</Bytes>
+			<ASCII> V e r s i o n</ASCII>
+			<Pos>29</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>486561646572</Bytes>
+			<ASCII> H e a d e r</ASCII>
+			<Pos>92</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

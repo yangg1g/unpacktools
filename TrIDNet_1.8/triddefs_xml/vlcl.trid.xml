@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VMware Localization</FileType>
+		<Ext>VLCL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/VMware</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>10</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>57</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7369676E6174757265203D20227349674E615475526522</Bytes>
+			<ASCII> s i g n a t u r e   =   " s I g N a T u R e "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0A</Bytes>
+			<Pos>24</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>LOCALE</String>
+	</GlobalStrings>
+</TrID>

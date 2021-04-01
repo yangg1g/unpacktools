@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Electronics Workbench Circuit</FileType>
+		<Ext>EWB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.electronicsworkbench.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>04</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>35</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>456C656374726F6E69637320576F726B62656E636820436972637569742046696C65</Bytes>
+			<ASCII> E l e c t r o n i c s   W o r k b e n c h   C i r c u i t   F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ELECTRONICS WORKBENCH CIRCUIT FILE</String>
+		<String>USINGVECTORGRAPHICS</String>
+		<String>ENCRYPTIONTYPE</String>
+		<String>DESCRIPTION</String>
+		<String>CHARSET</String>
+		<String>VERSION</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,62 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Quake Live game data</FileType>
+		<Ext>PK3</Ext>
+		<ExtraInfo>
+			<Rem>Quake Live (formerly known as Quake Zero) is a first-person shooter web browser-based video game developed by id Software and announced in 2007.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Quake_Zero</RefURL>
+		</ExtraInfo>
+		<User>Oleg Surfer</User>
+		<E-Mail>surfer56@gmail.com</E-Mail>
+		<Home>http://surfer56.googlepages.com/</Home>
+	</Info>
+	<General>
+		<FileNum>54</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>03</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>10</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>9FC58D48</Bytes>
+			<ASCII> . . . H</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>D930CE</Bytes>
+			<ASCII> . 0</ASCII>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>32</Bytes>
+			<ASCII> 2</ASCII>
+			<Pos>9</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>10</Bytes>
+			<Pos>21</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>BF</Bytes>
+			<Pos>25</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>09</Bytes>
+			<Pos>27</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6B</Bytes>
+			<ASCII> k</ASCII>
+			<Pos>29</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

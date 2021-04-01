@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Pathetic Writer document</FileType>
+		<Ext>PW</Ext>
+		<ExtraInfo>
+			<Rem>PW (Pathetic Writer) is an X-based word processor for Unix.</Rem>
+			<RefURL>http://siag.nu/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>33</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>232043726561746F723A2050617468657469632057726974657220</Bytes>
+			<ASCII> #   C r e a t o r :   P a t h e t i c	W r i t e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>28</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

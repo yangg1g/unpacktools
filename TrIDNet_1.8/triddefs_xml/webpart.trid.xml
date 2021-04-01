@@ -1,0 +1,82 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SharePoint Web Part</FileType>
+		<Ext>WEBPART</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Refine>1 by Marco Pontello - 3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>12</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>12</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C77656250617274733E0D0A20203C7765625061727420786D6C6E733D22687474703A2F2F736368656D61732E6D6963726F736F66742E636F6D2F576562506172742F7633223E0D0A202020203C6D657461446174613E0D0A2020202020203C74797065206E616D653D22</Bytes>
+			<ASCII> . . . . w e b P a r t s . . .     . w e b P a r t   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / W e b P a r t / v 3 " . . .         . m e t a D a t a . . .             . t y p e   n a m e = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>CATALOGICONIMAGEURL</String>
+		<String>IMPORTERRORMESSAGE</String>
+		<String>TITLEICONIMAGEURL</String>
+		<String>MISSINGASSEMBLY</String>
+		<String>ALLOWZONECHANGE</String>
+		<String>PUBLICKEYTOKEN</String>
+		<String>ALLOWMINIMIZE</String>
+		<String>WEBPART XMLNS</String>
+		<String>PROPERTY NAME</String>
+		<String>ALLOWCONNECT</String>
+		<String>DESCRIPTION</String>
+		<String>CHROMESTATE</String>
+		<String>ALLOWCLOSE</String>
+		<String>EXPORTMODE</String>
+		<String>PROPERTIES</String>
+		<String>CHROMETYPE</String>
+		<String>ALLOWHIDE</String>
+		<String>TYPE NAME</String>
+		<String>DIRECTION</String>
+		<String>ALLOWEDIT</String>
+		<String>TEMPLATE</String>
+		<String>METADATA</String>
+		<String>HELPMODE</String>
+		<String>MODELESS</String>
+		<String>TITLEURL</String>
+		<String>WEBPARTS</String>
+		<String>VERSION</String>
+		<String>NEUTRAL</String>
+		<String>CULTURE</String>
+		<String>HELPURL</String>
+		<String>HEIGHT</String>
+		<String>NOTSET</String>
+		<String>HIDDEN</String>
+		<String>STRING</String>
+		<String>NORMAL</String>
+		<String>WIDTH</String>
+		<String>FALSE</String>
+		<String>PAGES</String>
+		<String>BOOL</String>
+		<String>TRUE</String>
+		<String>WWW.</String>
+		<String>.ORG</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

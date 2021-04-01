@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Lotus Freelance Graphics</FileType>
+		<Ext>PRZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2009</Year>
+			<Month>04</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>00</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00010F00465245454C414E4345</Bytes>
+			<ASCII> . . . . F R E E L A N C E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

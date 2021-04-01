@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>openEHR Archetype Definition Language</FileType>
+		<Ext>ADL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.openehr.org/FAQs/t_archetypes_FAQ.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>12</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>617263686574797065</Bytes>
+			<ASCII> a r c h e t y p e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TERM_DEFINITIONS</String>
+		<String>VALUE MATCHES {</String>
+		<String>OPENEHR-EHR-</String>
+		<String>DESCRIPTION</String>
+		<String>_LANGUAGE</String>
+		<String>ARCHETYPE</String>
+		<String>ONTOLOGY</String>
+		<String>CONCEPT</String>
+		<String>AT0000</String>
+		<String>ITEMS</String>
+		<String>DRAFT</String>
+		<String>TEXT</String>
+	</GlobalStrings>
+</TrID>

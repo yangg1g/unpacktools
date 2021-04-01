@@ -1,0 +1,82 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sony Movie Player video</FileType>
+		<Ext>MQV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sony.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>37</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>04</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>52</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00000018667479706D7174200100</Bytes>
+			<ASCII> . . . . f t y p m q t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D71742071742020000000207072666C0000000000000001000000006D71742070726964</Bytes>
+			<ASCII> m q t   q t     . . .   p r f l . . . . . . . . . . . . m q t   p r i d</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D646174</Bytes>
+			<ASCII> m d a t</ASCII>
+			<Pos>60</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SMHD'''''''''''$DINF</String>
+		<String>VIDEO MEDIA HANDLER</String>
+		<String>SOUND MEDIA HANDLER</String>
+		<String>4HDLR''''MHLRSOUN</String>
+		<String>4HDLR''''MHLRVIDE</String>
+		<String>MQT QT  ''' PRFL</String>
+		<String>MDIA''' MDHD</String>
+		<String>MOOV'''LMVHD</String>
+		<String>TKPT''''ORIG</String>
+		<String>ELEMENTARY</String>
+		<String>MQT PRID</String>
+		<String>FRMAMP4A</String>
+		<String>FTYPMQT</String>
+		<String>MPEG4</String>
+		<String>CWAVE</String>
+		<String>WMP4A</String>
+		<String>MDAT</String>
+		<String>ESDS</String>
+		<String>MINF</String>
+		<String>SONY</String>
+		<String>DREF</String>
+		<String>STBL</String>
+		<String>STCO</String>
+		<String>STSC</String>
+		<String>STSD</String>
+		<String>PASP</String>
+		<String>STSZ</String>
+		<String>STTS</String>
+		<String>TKHD</String>
+		<String>MP4V</String>
+		<String>UDTA</String>
+		<String>MQDS</String>
+		<String>VMHD</String>
+		<String>STSS</String>
+		<String>TRAK</String>
+	</GlobalStrings>
+</TrID>

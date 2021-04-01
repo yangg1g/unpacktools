@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SubStation Alpha Subtitle</FileType>
+		<Ext>ASS/SSA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/SubStation_Alpha</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>29</FileNum>
+		<Refine>19 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>35</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B53637269707420496E666F5D</Bytes>
+			<ASCII> [ S c r i p t   I n f o ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SECONDARYCOLOUR</String>
+		<String>PRIMARYCOLOUR</String>
+		<String>BORDERSTYLE</String>
+		<String>SCRIPT INFO</String>
+		<String>BACKCOLOUR</String>
+		<String>ALIGNMENT</String>
+		<String>FONTNAME</String>
+		<String>ENCODING</String>
+		<String>FONTSIZE</String>
+		<String>DIALOGUE</String>
+		<String>MARGINV</String>
+		<String>MARGINL</String>
+		<String>MARGINR</String>
+		<String>OUTLINE</String>
+		<String>ITALIC</String>
+		<String>SHADOW</String>
+		<String>FORMAT</String>
+		<String>EFFECT</String>
+		<String>EVENTS</String>
+		<String>STYLES</String>
+		<String>START</String>
+		<String>BOLD</String>
+		<String>TYPE</String>
+		<String>TEXT</String>
+	</GlobalStrings>
+</TrID>

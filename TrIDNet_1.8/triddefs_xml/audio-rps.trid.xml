@@ -1,0 +1,54 @@
+<TrID ver="1.16">
+    <Info>
+        <FileType>Propellerhead Software Reason Song</FileType>
+        <Ext>RPS</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.propellerheads.se/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>6</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>18</Day>
+        </Date>
+        <Time>
+            <Hour>22</Hour>
+            <Min>30</Min>
+            <Sec>41</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00.1</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>464F524D00</Bytes>
+            <ASCII> F O R M</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>52</Bytes>
+            <ASCII> R</ASCII>
+            <Pos>8</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>434154200000</Bytes>
+            <ASCII> C A T</ASCII>
+            <Pos>12</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>57575749464F524D000000</Bytes>
+            <ASCII> W W W I F O R M</ASCII>
+            <Pos>20</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>575757495757494400000015BC01000000000000000B57494E444F575449544C4500424F4459000000</Bytes>
+            <ASCII> W W W I W W I D . . . . . . . . . . . . . . W I N D O W T I T L E . B O D Y</ASCII>
+            <Pos>32</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>InfraRecorder Project</FileType>
+		<Ext>IRP</Ext>
+		<ExtraInfo>
+			<Rem>A free CD/DVD burning application.</Rem>
+			<RefURL>http://infrarecorder.sourceforge.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>08</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>22</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3C003F0078006D006C002000760065007200730069006F006E003D00220031002E0030002200200065006E0063006F00640069006E0067003D0022007500740066002D0031003600220020007300740061006E00640061006C006F006E0065003D00220079006500730022003F003E000D000A003C0049006E006600720061005200650063006F0072006400650072003E000D000A0009003C00500072006F006A006500630074002000760065007200730069006F006E003D0022</Bytes>
+			<ASCII> . . . . ? . x . m . l .   . v . e . r . s . i . o . n . = . " . 1 . . . 0 . " .   . e . n . c . o . d . i . n . g . = . " . u . t . f . - . 1 . 6 . " .   . s . t . a . n . d . a . l . o . n . e . = . " . y . e . s . " . ? . . . . . . . . . I . n . f . r . a . R . e . c . o . r . d . e . r . . . . . . . . . . . P . r . o . j . e . c . t .   . v . e . r . s . i . o . n . = . "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>P'R'O'J'E'C'T' 'V'E'R'S'I'O'N</String>
+		<String>I'N'F'R'A'R'E'C'O'R'D'E'R</String>
+		<String>X'M'L' 'V'E'R'S'I'O'N</String>
+		<String>S'T'A'N'D'A'L'O'N'E</String>
+		<String>E'N'C'O'D'I'N'G</String>
+		<String>U'T'F'-'1'6</String>
+		<String>T'Y'P'E</String>
+		<String>1'.'0</String>
+		<String>D'V'D</String>
+		<String>Y'E'S</String>
+	</GlobalStrings>
+</TrID>

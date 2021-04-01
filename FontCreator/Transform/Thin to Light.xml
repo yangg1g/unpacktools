@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+ <TransformScript>
+  <OtherComments>
+   <Content>Thin to Light
+This script changes a Thin font to Light stroke weight. 
+After running it you may need to increase the weight of serifs, correct intersecting contours, and change the Panose classification.</Content>
+  </OtherComments>
+  <OutlineScale>
+   <AroundType>2</AroundType>
+   <AroundCorner>0</AroundCorner>
+   <AroundXPos>0</AroundXPos>
+   <AroundYPos>0</AroundYPos>
+   <Horizontal>102.67</Horizontal>
+   <Vertical>102.67</Vertical>
+   <PreserveBearings>TRUE</PreserveBearings>
+  </OutlineScale>
+  <EffectsThin>
+   <Horizontal>25</Horizontal>
+   <Vertical>20</Vertical>
+   <PreserveBearings>TRUE</PreserveBearings>
+  </EffectsThin>
+  <OutlineMove>
+   <Horizontal>0</Horizontal>
+   <Vertical>-20</Vertical>
+  </OutlineMove>
+  <MetricsLeftSideBearing>
+  </MetricsLeftSideBearing>
+ </TransformScript>
+</DATA>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ExamView Online Test</FileType>
+		<Ext>EOT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.fscreations.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>46</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1A45564F4E4C494E45</Bytes>
+			<ASCII> . E V O N L I N E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

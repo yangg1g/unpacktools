@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WinFax Sent / Received Document</FileType>
+		<Ext>FXR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Winfax</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2009</Year>
+			<Month>08</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>16</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0B23</Bytes>
+			<ASCII> . #</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>C006</Bytes>
+			<Pos>3</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

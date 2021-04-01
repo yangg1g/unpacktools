@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MasterCook Mac Cookbook file</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>47</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D6173746572436F6F6B204D616320436F6F6B626F6F6B2066696C652E</Bytes>
+			<ASCII> M a s t e r C o o k   M a c   C o o k b o o k   f i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

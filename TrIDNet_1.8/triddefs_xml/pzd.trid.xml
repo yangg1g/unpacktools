@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Pocket Zone Drawing</FileType>
+		<Ext>PZD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cadzone.com/pocketzone/Pocket_Zone.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>28</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>500000</Bytes>
+			<ASCII> P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>57494E2D4345204341445A4F4E45</Bytes>
+			<ASCII> W I N - C E   C A D Z O N E</ASCII>
+			<Pos>80</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

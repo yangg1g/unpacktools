@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Allen Communications Quest Released Module (v5)</FileType>
+		<Ext>QRM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.allencomm.com</RefURL>
+		</ExtraInfo>
+		<User>Kieran O'Donnell</User>
+		<E-Mail>FileMan at Consultant dot Com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>01</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>00</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>524D2F5175657374204D6F64756C652046696C65000000000000000000000000000000352E</Bytes>
+			<ASCII> R M / Q u e s t   M o d u l e   F i l e . . . . . . . . . . . . . . . 5 .</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4368756E6B205461626C6500000000004354</Bytes>
+			<ASCII> C h u n k   T a b l e . . . . . C T</ASCII>
+			<Pos>64</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>486561646572000000000000000000005148</Bytes>
+			<ASCII> H e a d e r . . . . . . . . . . Q H</ASCII>
+			<Pos>90</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>QUEST MODULE FILE'''''''''''''''5.</String>
+		<String>HEADER''''''''''QH</String>
+		<String>CHUNK TABLE'''''CT</String>
+		<String>VARIABLES</String>
+		<String>BKGD</String>
+		<String>EDIT</String>
+	</GlobalStrings>
+</TrID>

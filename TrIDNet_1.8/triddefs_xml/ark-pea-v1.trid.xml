@@ -1,0 +1,32 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PEA compressed archive (v1.x)</FileType>
+		<Ext>PEA</Ext>
+		<ExtraInfo>
+			<Rem>PEA, Pack Encrypt Authenticate, is a general purpose archiving format, featuring compression and multiple volume output,  aiming  to  offer  a  flexible  security  model  through  Authenticated  Encryption.</Rem>
+			<RefURL>http://peazip.sourceforge.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>41</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EA01</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

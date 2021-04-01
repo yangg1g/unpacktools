@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Family Tree Maker Family Tree</FileType>
+		<Ext>FTW</Ext>
+		<ExtraInfo>
+			<Rem>Family Tree Maker is a complete family tree organization and database program.</Rem>
+			<RefURL>http://www.myfamilyinc.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>45</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>49004E0044002E00440042</Bytes>
+			<ASCII> I . N . D . . . D . B</ASCII>
+			<Pos>1152</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4100550058002E00440042</Bytes>
+			<ASCII> A . U . X . . . D . B</ASCII>
+			<Pos>1280</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>470045004E004500520041004C002E00440042</Bytes>
+			<ASCII> G . E . N . E . R . A . L . . . D . B</ASCII>
+			<Pos>1408</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4E0041004D0045002E004E00440058</Bytes>
+			<ASCII> N . A . M . E . . . N . D . X</ASCII>
+			<Pos>1536</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>420049005200540048002E004E00440058</Bytes>
+			<ASCII> B . I . R . T . H . . . N . D . X</ASCII>
+			<Pos>1664</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Xilinx Netlist</FileType>
+		<Ext>NGC/NGD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.xilinx.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>12</Min>
+			<Sec>54</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>58494C494E582D58444220302E31205354554220302E312041534349490A58494C494E582D58444D2056312E</Bytes>
+			<ASCII> X I L I N X - X D B   0 . 1   S T U B   0 . 1   A S C I I . X I L I N X - X D M   V 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

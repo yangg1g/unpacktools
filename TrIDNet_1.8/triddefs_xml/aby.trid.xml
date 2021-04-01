@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AOL Address Book</FileType>
+		<Ext>ABY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.aol.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>04</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>03</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>414F4C44422D3235</Bytes>
+			<ASCII> A O L D B - 2 5</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52324432</Bytes>
+			<ASCII> R 2 D 2</ASCII>
+			<Pos>25</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

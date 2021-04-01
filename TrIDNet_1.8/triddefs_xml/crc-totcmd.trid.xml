@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Total Commander CRC file</FileType>
+		<Ext>CRC</Ext>
+		<ExtraInfo>
+			<Rem>Total Commander use this for checking the integrity of a file resulting from the combination of various splitted parts.</Rem>
+			<RefURL>http://www.ghisler.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>02</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>49</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>66696C656E616D653D</Bytes>
+			<ASCII> f i l e n a m e =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FILENAME</String>
+		<String>CRC32</String>
+		<String>SIZE</String>
+	</GlobalStrings>
+</TrID>

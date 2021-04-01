@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Encapsulated PostScript</FileType>
+        <Ext>EPS</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.adobe.com</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>309</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>20</Day>
+        </Date>
+        <Time>
+            <Hour>00</Hour>
+            <Min>30</Min>
+            <Sec>43</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>252150532D41646F62652D</Bytes>
+            <ASCII> % ! P S - A d o b e -</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>2E</Bytes>
+            <Pos>12</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>%%BOUNDINGBOX</String>
+        <String>%%CREATOR</String>
+        <String>%%ENDCOMMENTS</String>
+        <String>%%ENDPROLOG</String>
+        <String>%%PAGE</String>
+        <String>%%TITLE</String>
+        <String>%%TRAILER</String>
+        <String>COLOR</String>
+        <String>CURREN</String>
+        <String>GRESTORE</String>
+        <String>GSAVE</String>
+        <String>LATE</String>
+        <String>MAGE</String>
+        <String>PS-ADOBE-</String>
+    </GlobalStrings>
+</TrID>

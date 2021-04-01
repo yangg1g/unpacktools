@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AutoCAD Autoshade rendering slide</FileType>
+		<Ext>RND</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Paresh Modi</User>
+		<E-Mail>info@softpal.com</E-Mail>
+		<Home>www.softpal.com</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>7</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4175746F53686164652052656E646572696E6720536C6964650D0A5772697474656E2062793A</Bytes>
+			<ASCII> A u t o S h a d e   R e n d e r i n g   S l i d e . . W r i t t e n   b y :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

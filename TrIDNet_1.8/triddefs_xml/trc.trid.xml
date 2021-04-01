@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+	<Info>
+		<FileType>Sniffer capture</FileType>
+		<Ext>SNF/TRC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2003</Year>
+			<Month>08</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>09</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.23</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5452534E4946462064617461202020201A</Bytes>
+			<ASCII> T R S N I F F	d a t a</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>InstallShield Compiled Rules</FileType>
+		<Ext>INX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.installshield.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<Refine>6 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>01</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>23</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>614C755A0000436F707972696768742028632920313939302D</Bytes>
+			<ASCII> a L u Z . . C o p y r i g h t	( c )	1 9 9 0 -</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

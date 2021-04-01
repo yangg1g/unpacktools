@@ -1,0 +1,133 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VirtualBox machine definition</FileType>
+		<Ext>VBOX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.virtualbox.org/</RefURL>
+		</ExtraInfo>
+		<User>Ryan Jones</User>
+		<E-Mail>ryan.jones@ccc-cymru.com</E-Mail>
+		<Home>http://ccc-cymru.com/</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<Refine>6 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>10</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>52</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E30223F3E0A3C</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>HARDWAREVIRTEXNESTEDPAGING ENABLED</String>
+		<String>HARDWAREVIRTEXLARGEPAGES ENABLED</String>
+		<String>HARDWAREVIRTEXVPID ENABLED</String>
+		<String>HARDWAREVIRTFORCE ENABLED</String>
+		<String>AUDIOADAPTER CONTROLLER</String>
+		<String>GUEST MEMORYBALLOONSIZE</String>
+		<String>HARDWAREVIRTEX ENABLED</String>
+		<String>STORAGECONTROLLER NAME</String>
+		<String>REMOTEDISPLAY ENABLED</String>
+		<String>USBCONTROLLER ENABLED</String>
+		<String>ATTACHEDDEVICE TYPE</String>
+		<String>VIRTUALBOX-SETTINGS</String>
+		<String>EXTRADATAITEM NAME</String>
+		<String>STORAGECONTROLLERS</String>
+		<String>ACCELERATE2DVIDEO</String>
+		<String>USE-HOST-RESOLVER</String>
+		<String>DISPLAY VRAMSIZE</String>
+		<String>HARDWARE VERSION</String>
+		<String>PXEDEBUG ENABLED</String>
+		<String>TIMEOFFSET VALUE</String>
+		<String>VIRTUALBOX XMLNS</String>
+		<String>BANDWIDTHGROUPS</String>
+		<String>DNS PASS-DOMAIN</String>
+		<String>GUESTPROPERTIES</String>
+		<String>IOCACHE ENABLED</String>
+		<String>LASTSTATECHANGE</String>
+		<String>CLIPBOARD MODE</String>
+		<String>IOAPIC ENABLED</String>
+		<String>MEMORY RAMSIZE</String>
+		<String>MESSAGEANDMENU</String>
+		<String>ORDER POSITION</String>
+		<String>RTC LOCALORUTC</String>
+		<String>SNAPSHOTFOLDER</String>
+		<String>USE-SAME-PORTS</String>
+		<String>USEHOSTIOCACHE</String>
+		<String>WWW.INNOTEK.DE</String>
+		<String>ALIAS LOGGING</String>
+		<String>BIDIRECTIONAL</String>
+		<String>BOOTMENU MODE</String>
+		<String>DISABLEDMODES</String>
+		<String>HARDDISK UUID</String>
+		<String>MEDIAREGISTRY</String>
+		<String>SHAREDFOLDERS</String>
+		<String>ACCELERATE3D</String>
+		<String>ACPI ENABLED</String>
+		<String>ADAPTER SLOT</String>
+		<String>CHIPSET TYPE</String>
+		<String>DISCONNECTED</String>
+		<String>FLOPPYIMAGES</String>
+		<String>HID POINTING</String>
+		<String>HPET ENABLED</String>
+		<String>MACHINE UUID</String>
+		<String>MONITORCOUNT</String>
+		<String>DISPLAYTIME</String>
+		<String>ENABLEDEHCI</String>
+		<String>LOGO FADEIN</String>
+		<String>PAE ENABLED</String>
+		<String>PS2KEYBOARD</String>
+		<String>XML VERSION</String>
+		<String>IMAGE UUID</String>
+		<String>MACADDRESS</String>
+		<String>PAGEFUSION</String>
+		<String>PROXY-ONLY</String>
+		<String>CPU COUNT</String>
+		<String>DVDIMAGES</String>
+		<String>EXCLUSIVE</String>
+		<String>HARDDISKS</String>
+		<String>PORT SLOT</String>
+		<String>PORTCOUNT</String>
+		<String>SNAPSHOTS</String>
+		<String>USE-PROXY</String>
+		<String>AUTHTYPE</String>
+		<String>BOOTABLE</String>
+		<String>HOSTMODE</String>
+		<String>LOCATION</String>
+		<String>FADEOUT</String>
+		<String>HOTPLUG</String>
+		<String>NETWORK</String>
+		<String>DRIVER</String>
+		<String>FORMAT</String>
+		<String>IOBASE</String>
+		<String>NORMAL</String>
+		<String>OSTYPE</String>
+		<String>WINDOW</String>
+		<String>CABLE</String>
+		<String>FALSE</String>
+		<String>PIIX3</String>
+		<String>SPEED</String>
+		<String>AC97</String>
+		<String>BIOS</String>
+		<String>HTTP</String>
+		<String>NONE</String>
+		<String>NULL</String>
+		<String>TRUE</String>
+		<String>UART</String>
+	</GlobalStrings>
+</TrID>

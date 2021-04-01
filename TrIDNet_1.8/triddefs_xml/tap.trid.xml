@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>C64 Tape image format</FileType>
+		<Ext>TAP/RAW</Ext>
+		<ExtraInfo>
+			<Rem> </Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>12</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>57</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4336342D544150452D524157</Bytes>
+			<ASCII> C 6 4 - T A P E - R A W</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

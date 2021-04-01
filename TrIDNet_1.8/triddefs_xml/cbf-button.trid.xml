@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CoffeeCup Button Factory button</FileType>
+		<Ext>CBF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.coffeecup.com/button-factory/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>59</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D4F56494520</Bytes>
+			<ASCII> M O V I E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BEGIN OBJECT</String>
+		<String>BORDER COLOR</String>
+		<String>BORDER STYLE</String>
+		<String>BORDER WIDTH</String>
+		<String>TRANSPARANCY</String>
+		<String>START EFFECT</String>
+		<String>FADE EFFECT</String>
+		<String>FONT COLOR</String>
+		<String>IMAGE PATH</String>
+		<String>END OBJECT</String>
+		<String>FONT SIZE</String>
+		<String>OPACITY</String>
+		<String>CLWHITE</String>
+		<String>BUTTON</String>
+		<String>HEIGHT</String>
+		<String>FRAME</String>
+		<String>MOVIE</String>
+		<String>TEXT</String>
+		<String>LEFT</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Opus compressed audio</FileType>
+		<Ext>OPUS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://opus-codec.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>9</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>14</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4F676753</Bytes>
+			<ASCII> O g g S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4F70757348656164</Bytes>
+			<ASCII> O p u s H e a d</ASCII>
+			<Pos>28</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

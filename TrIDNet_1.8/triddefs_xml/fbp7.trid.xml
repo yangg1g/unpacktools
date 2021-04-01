@@ -1,0 +1,90 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FinalBuilder 7 Project</FileType>
+		<Ext>FBP7</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.finalbuilder.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>43</Min>
+			<Sec>3</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3C003F0078006D006C002000760065007200730069006F006E003D00220031002E0030002200200065006E0063006F00640069006E0067003D0022005500540046002D003100360022003F003E000D000A003C005600530058004D004C003E000D000A00200020003C004F0062006A00650063007400200043006C006100730073003D002200540046004200500072006F006A006500630074002200200058004D004C00490044003D0022007B00</Bytes>
+			<ASCII> . . . . ? . x . m . l .   . v . e . r . s . i . o . n . = . " . 1 . . . 0 . " .   . e . n . c . o . d . i . n . g . = . " . U . T . F . - . 1 . 6 . " . ? . . . . . . . . . V . S . X . M . L . . . . . . .   .   . . . O . b . j . e . c . t .   . C . l . a . s . s . = . " . T . F . B . P . r . o . j . e . c . t . " .   . X . M . L . I . D . = . " . {</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>T'F'B'A'C'T'I'O'N'L'I'S'T'P'A'R'A'M'E'T'E'R'S'C'O'L'L'E'C'T'I'O'N</String>
+		<String>T'F'B'A'C'T'I'O'N'L'I'S'T'C'O'L'L'E'C'T'I'O'N</String>
+		<String>S'U'P'P'R'E'S'S'S'T'A'T'U'S'M'E'S'S'A'G'E'S</String>
+		<String>T'F'B'V'A'R'I'A'B'L'E'S'C'O'L'L'E'C'T'I'O'N</String>
+		<String>E'N'C'R'Y'P'T'E'D'E'D'I'T'P'A'S'S'W'O'R'D</String>
+		<String>E'X'P'A'N'D'A'C'T'I'O'N'L'O'G'T'I'T'L'E</String>
+		<String>L'O'G'A'C'T'I'O'N'P'R'O'P'E'R'T'I'E'S</String>
+		<String>P'R'O'P'E'R'T'Y' 'M'U'L'T'I'V'A'L'U'E</String>
+		<String>F'I'N'A'L'B'U'I'L'D'E'R'A'C'T'I'O'N</String>
+		<String>R'E'T'R'Y'P'A'U'S'E'I'N'T'E'R'V'A'L</String>
+		<String>A'C'T'I'O'N'D'E'S'C'R'I'P'T'I'O'N</String>
+		<String>H'I'D'E'A'C'T'I'O'N'F'R'O'M'L'O'G</String>
+		<String>M'A'X'R'E'T'R'Y'A'T'T'E'M'P'T'S</String>
+		<String>T'F'B'V'A'R'I'A'B'L'E'S'C'O'P'E</String>
+		<String>A'C'T'I'O'N'T'E'X'T'C'O'L'O'R</String>
+		<String>A'C'T'I'O'N'C'O'M'M'E'N'T</String>
+		<String>I'G'N'O'R'E'F'A'I'L'U'R'E</String>
+		<String>L'O'G'T'O'V'A'R'I'A'B'L'E</String>
+		<String>P'R'O'J'E'C'T'A'U'T'H'O'R</String>
+		<String>P'R'O'P'E'R'T'Y' 'N'A'M'E</String>
+		<String>A'C'T'I'O'N'T'Y'P'E'I'D</String>
+		<String>D'E'F'A'U'L'T'V'A'L'U'E</String>
+		<String>F'O'R'M'A'T'S'T'R'I'N'G</String>
+		<String>I'S'P'E'R'S'I'S'T'E'N'T</String>
+		<String>O'B'J'E'C'T' 'C'L'A'S'S</String>
+		<String>P'R'O'J'E'C'T'N'O'T'E'S</String>
+		<String>X'M'L' 'V'E'R'S'I'O'N</String>
+		<String>T'B'A'S'I'C'T'Y'P'E</String>
+		<String>T'F'B'P'R'O'J'E'C'T</String>
+		<String>G'R'O'U'P'N'A'M'E</String>
+		<String>I'S'F'A'I'L'U'R'E</String>
+		<String>O'N'F'A'I'L'U'R'E</String>
+		<String>P'R'O'J'E'C'T'I'D</String>
+		<String>V'T'P'R'O'J'E'C'T</String>
+		<String>C'A'R'D'I'N'A'L</String>
+		<String>E'N'C'O'D'I'N'G</String>
+		<String>U'N'I'Q'U'E'I'D</String>
+		<String>B'O'O'L'E'A'N</String>
+		<String>E'N'A'B'L'E'D</String>
+		<String>I'S'M'A'C'R'O</String>
+		<String>M'A'K'E'E'N'V</String>
+		<String>P'A'C'T'I'O'N</String>
+		<String>D'E'F'I'N'E</String>
+		<String>F'A'I'L'I'F</String>
+		<String>I'S'M'A'I'N</String>
+		<String>T'V'A'R'I'A</String>
+		<String>U'T'F'-'1'6</String>
+		<String>C'D'A'T'A</String>
+		<String>F'A'L'S'E</String>
+		<String>V'S'X'M'L</String>
+		<String>X'M'L'I'D</String>
+		<String>T'R'U'E</String>
+		<String>T'D'E</String>
+	</GlobalStrings>
+</TrID>

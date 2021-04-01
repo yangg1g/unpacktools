@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>NIfTI-1 data format</FileType>
+		<Ext>NII</Ext>
+		<ExtraInfo>
+			<Rem>NIfTI stand for Neuroimaging Informatics Technology Initiative</Rem>
+			<RefURL>http://nifti.nimh.nih.gov/nifti-1/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>33</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>08</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>59</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0000015C00000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<ASCII> . . . \</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2B31</Bytes>
+			<ASCII> + 1</ASCII>
+			<Pos>345</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

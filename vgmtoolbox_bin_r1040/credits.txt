@@ -1,0 +1,22 @@
+﻿2sftool.exe is courtesy of unknownfile and CaitSith2(unknown.hcs64.com).
+bin2psf.exe is courtesy of Neil Corlett (http://www.neillcorlett.com/psfpoint/).
+mkpsf2.exe is courtesy of Neill Corlett (http://www.neillcorlett.com/).
+psfpoint.exe is courtesy of Neil Corlett (http://www.neillcorlett.com/psfpoint/).
+sseq2mid.exe is courtesy of loveemu (http://loveemu.yh.land.to/wiki/NDS/SDAT.html).
+ssfinfo.py is courtesy of kingshriek (http://snesmusic.org/hoot/kingshriek/ssf/).
+ssfmake.py is courtesy of kingshriek (http://snesmusic.org/hoot/kingshriek/ssf/).
+unpkpsf2.exe is courtesty of CaitSith2 (http://www.caitsith2.com/).
+zlib1.dll is courtesy of the zlib team (http://www.zlib.net/).
+
+listsig.exe is courtesy of someone42 (http://www.angelfire.com/tx5/someone42/).
+sigfind.exe is courtesy of someone42 (http://www.angelfire.com/tx5/someone42/).
+sigfind2.exe is courtesy of someone42 (http://www.angelfire.com/tx5/someone42/).
+sig.dat is courtesy of someone42 (http://www.angelfire.com/tx5/someone42/).
+
+mk.bat, psfdrv.c were originally written by Neill Corlett (http://www.neillcorlett.com/psfpoint/).
+  I have made minor modifications thanks to the help of manakoAT.
+
+SevenZipSharp.dll is written by markhor (http://www.codeplex.com/sevenzipsharp).
+7z.dll is courtesy of the 7zip team (http://7-zip.org/).  7-Zip is licensed under the GNU LGPL license.
+
+Button-Refresh-16x16.png icon created by Deleket (Jojo Mendoza) and used under CC Attribution-Noncommercial-No Derivate 3.0 license (http://creativecommons.org/licenses/by-nc-nd/3.0/).

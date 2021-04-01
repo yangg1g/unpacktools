@@ -1,0 +1,134 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WinLIFT skin</FileType>
+		<Ext>SKL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.zapsolution.com/winlift/index.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<Refine>8 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>02</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>02</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A0A000200000004000F00FFFF0000C00000000000000040000000000000000000000000000000000000000000000000000000000000000000000080000000B409BA10000E1FCD21B8014CCD2190905468697320697320612057696E33322070726F6772616D2E0D0A24000000000000000000000000000000000000000000504500004C01</Bytes>
+			<ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ! . . L . ! . . T h i s   i s   a   W i n 3 2   p r o g r a m . . . $ . . . . . . . . . . . . . . . . . . . . . P E . . L</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00393000000000000000000000E0000E230B010234</Bytes>
+			<ASCII> . 9 0 . . . . . . . . . . . . . # . . . 4</ASCII>
+			<Pos>135</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000100000002000000000400000100000000200000400000000000000040000000000000000</Bytes>
+			<ASCII> . . . . . .   . . . . @</ASCII>
+			<Pos>171</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000004000000000000020000000000100000200000000010000010000000000000100000000000000000000000</Bytes>
+			<Pos>211</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000400000</Bytes>
+			<ASCII> . . . @</ASCII>
+			<Pos>262</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>002E74657874002020</Bytes>
+			<ASCII> . . t e x t</ASCII>
+			<Pos>375</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E64617461002020</Bytes>
+			<ASCII> . d a t a</ASCII>
+			<Pos>416</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000002000000002000000</Bytes>
+			<Pos>426</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000400000C02E6C696E6B002020</Bytes>
+			<ASCII> . . . . . . . . . . . . . . @ . . . . l i n k</ASCII>
+			<Pos>438</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000400000C02E72737263002020</Bytes>
+			<ASCII> . . . . . . . . . . . . . . @ . . . . r s r c</ASCII>
+			<Pos>478</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000040000000</Bytes>
+			<ASCII> . . @</ASCII>
+			<Pos>507</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000400000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . @</ASCII>
+			<Pos>518</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E726C6F63002020</Bytes>
+			<ASCII> . r l o c</ASCII>
+			<Pos>536</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000400000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . @</ASCII>
+			<Pos>558</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>$'''''''''''''''''''''PE''L</String>
+		<String>THIS IS A WIN32 PROGRAM.</String>
+		<String>P'R'O'G'R'E'S'S'B'A'R</String>
+		<String>C'A'P'T'I'O'N'L'E'D</String>
+		<String>S'T'A'T'U'S'B'A'C'K</String>
+		<String>GETMODULEHANDLEA</String>
+		<String>C'A'P'T'I'O'N'M</String>
+		<String>M'E'N'U'B'A'C'K</String>
+		<String>C'H'E'C'K'B'U'T</String>
+		<String>R'A'D'I'O'B'U'T</String>
+		<String>C'A'P'T'I'O'N'R</String>
+		<String>SAFEARRAYCREATE</String>
+		<String>REGOPENKEYEXA</String>
+		<String>M'E'N'U'B'A'R</String>
+		<String>C'T'L'B'A'C'K</String>
+		<String>ADVAPI32.DLL</String>
+		<String>KERNEL32.DLL</String>
+		<String>OLEAUT32.DLL</String>
+		<String>COINITIALIZE</String>
+		<String>B'U'T'T'O'N</String>
+		<String>EXITPROCESS</String>
+		<String>OLE32.DLL</String>
+		<String>S'I'D'E'B</String>
+		<String>S'I'D'E'R</String>
+		<String>S'I'D'E'L</String>
+		<String>ALFREE</String>
+		<String>.DATA</String>
+		<String>.RLOC</String>
+		<String>.RSRC</String>
+		<String>.TEXT</String>
+		<String>.LINK</String>
+		<String>ERROR</String>
+		<String>POINT</String>
+	</GlobalStrings>
+</TrID>

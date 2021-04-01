@@ -1,0 +1,69 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Intergraph SmartSketch Drawing</FileType>
+		<Ext>IGR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.intergraph.com/smartsketch/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<Refine>2 by Marco Pontello - 1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>03</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>D'O'C'U'M'E'N'T'S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>A'P'P'L'I'C'A'T'I'O'N'.'P'A'T'H</String>
+		<String>P'S'M'C'L'U'S'T'E'R'T'A'B'L'E</String>
+		<String>P'S'M'S'E'G'M'E'N'T'T'A'B'L'E</String>
+		<String>S'T'Y'L'E'L'I'B'R'A'R'I'A'N</String>
+		<String>P'R'E'F'E'R'E'N'C'E'S'E'T</String>
+		<String>S'T'Y'L'E'C'L'U'S'T'E'R</String>
+		<String>D'O'C'V'E'R'S'I'O'N'2</String>
+		<String>P'S'M'S'P'A'C'E'M'A'P</String>
+		<String>P'S'M'C'L'U'S'T'E'R'0</String>
+		<String>S'I'T'E'O'B'J'E'C'T'S</String>
+		<String>B'A'C'K'G'R'O'U'N'D'S</String>
+		<String>J'S'I'T'E'S'L'I'S'T</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>I'N'T'E'R'G'R'A'P'H</String>
+		<String>P'S'M'R'O'O'T'S</String>
+		<String>D'O'C'S'T'O'R'E</String>
+		<String>S'E'C'T'I'O'N'1</String>
+		<String>S'Y'M'B'O'L'S</String>
+		<String>D'E'F'A'U'L'T</String>
+		<String>S'K'E'T'C'H</String>
+		<String>APPLICATION</String>
+		<String>N'O'R'M'A'L</String>
+		<String>S'H'E'E'T'S</String>
+		<String>S'O'L'I'D</String>
+		<String>M'O'D'E</String>
+		<String>I'G'R</String>
+		<String>D'R'A</String>
+		<String>SMART</String>
+		<String>CLST</String>
+		<String>ROOT</String>
+		<String>STAB</String>
+		<String>.IGR</String>
+	</GlobalStrings>
+</TrID>

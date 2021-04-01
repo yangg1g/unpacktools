@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Artweaver Brush</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem>Artweaver is a simple Freeware program for creative painting.</Rem>
+			<RefURL>http://www.artweaver.de</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>212</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>08</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>35</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E30223F3E0D0A3C212D2D2041727477656176657220</Bytes>
+			<ASCII> . ? x m l 	v e r s i o n = " 1 . 0 " ? . . . . ! - - 	A r t w e a v e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ARTWEAVER-BRUSH-DEFINITION</String>
+		<String>SPACING-CONTINUOUSDRAW</String>
+		<String>BRUSH DEFINITION --</String>
+		<String>SPACING-PARAMETERS</String>
+		<String>VARIANT-PARAMETERS</String>
+		<String>GENERAL-PARAMETERS</String>
+		<String>WELL-RESATURATION</String>
+		<String>RANDOM-PARAMETERS</String>
+		<String>RANDOM-RANDOMRATE</String>
+		<String>GENERAL-BRUSHTYPE</String>
+		<String>BRUSH-PARAMETERS</String>
+		<String>GENERAL-OPACITY</String>
+		<String>WELL-PARAMETERS</String>
+		<String>INPUT-OPTIONS</String>
+		<String>-- ARTWEAVER</String>
+		<String>VARIANT-NAME</String>
+		<String>-CONTROLLER</String>
+		<String>XML VERSION</String>
+		<String>WELL-DRYOUT</String>
+		<String>WELL-BLEED</String>
+		<String>BRUSH-SIZE</String>
+		<String>-INVERT</String>
+		<String>COLOR</String>
+	</GlobalStrings>
+</TrID>

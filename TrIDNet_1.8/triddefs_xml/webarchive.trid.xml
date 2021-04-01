@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Apple Safari WebArchive</FileType>
+		<Ext>WEBARCHIVE</Ext>
+		<ExtraInfo>
+			<Rem>Safari browser use this format to keep a webpage including all resources embedded in one file.</Rem>
+			<RefURL>http://www.apple.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>28</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>03</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>22</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>62706C6973743030</Bytes>
+			<ASCII> b p l i s t 0 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WEBRESOURCETEXTENCODINGNAME</String>
+		<String>WEBRESOURCEMIMETYPE</String>
+		<String>WEBRESOURCEDATA</String>
+		<String>WEBMAINRESOURCE</String>
+		<String>WEBRESOURCEURL</String>
+		<String>BPLIST00</String>
+		<String>YTEXT</String>
+		<String>HTML</String>
+		<String>HTTP</String>
+		<String>BODY</String>
+	</GlobalStrings>
+</TrID>

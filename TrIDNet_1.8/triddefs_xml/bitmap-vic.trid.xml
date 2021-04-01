@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Vicar picture bitmap</FileType>
+		<Ext>VIC/IMG</Ext>
+		<ExtraInfo>
+			<Rem>Vicar stand for: Video Image Communication and Retrieval.</Rem>
+			<RefURL>http://www-mipl.jpl.nasa.gov/external/vicar.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>1</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>53</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.1b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4C424C53495A453D</Bytes>
+			<ASCII> L B L S I Z E =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>464F524D41543D</Bytes>
+			<ASCII> F O R M A T =</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>545950453D</Bytes>
+			<ASCII> T Y P E =</ASCII>
+			<Pos>39</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>42554653495A3D</Bytes>
+			<ASCII> B U F S I Z =</ASCII>
+			<Pos>53</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

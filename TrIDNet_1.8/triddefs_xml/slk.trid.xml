@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SYLK - SYmbolic LinK data</FileType>
+		<Ext>SLK</Ext>
+		<ExtraInfo>
+			<Rem>A Microsoft file format typically used to exchange data between applications, specifically spreadsheets.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/SYmbolic_LinK_%28SYLK%29</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>25</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>49443B50</Bytes>
+			<ASCII> I D ; P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

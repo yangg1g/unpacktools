@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>QV Map Calibration data</FileType>
+		<Ext>CAL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.touratech.de</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>35</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3B2043616C6962726174696F6E20</Bytes>
+			<ASCII> ;   C a l i b r a t i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CALIBRATION</String>
+		<String>SCALE_AREA</String>
+		<String>PROJPARAMS</String>
+		<String>PROJ_MODE</String>
+		<String>C1_LAT</String>
+		<String>C1_LON</String>
+		<String>C2_LAT</String>
+		<String>C2_LON</String>
+		<String>DATUM</String>
+		<String>FNAME</String>
+		<String>C1_X</String>
+		<String>C1_Y</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Earth Resource Mapping Satellite Image Header</FileType>
+		<Ext>ERS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>21</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4461746173657448656164657220426567696E</Bytes>
+			<ASCII> D a t a s e t H e a d e r   B e g i n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COORDINATESPACE BEGIN</String>
+		<String>COORDINATESPACE END</String>
+		<String>DATASETHEADER BEGIN</String>
+		<String>DATASETHEADER END</String>
+		<String>RASTERINFO BEGIN</String>
+		<String>NROFCELLSPERLINE</String>
+		<String>COORDINATETYPE</String>
+		<String>RASTERINFO END</String>
+		<String>BANDID BEGIN</String>
+		<String>LASTUPDATED</String>
+		<String>DATASETTYPE</String>
+		<String>BANDID END</String>
+		<String>PROJECTION</String>
+		<String>NROFLINES</String>
+		<String>NROFBANDS</String>
+		<String>BYTEORDER</String>
+		<String>CELLTYPE</String>
+		<String>DATATYPE</String>
+		<String>ROTATION</String>
+		<String>VERSION</String>
+		<String>SBFIRST</String>
+		<String>DATUM</String>
+		<String>VALUE</String>
+	</GlobalStrings>
+</TrID>

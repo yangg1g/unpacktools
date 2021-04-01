@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MyLifeOrganized data</FileType>
+		<Ext>ML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mylifeorganized.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>23</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D794C6966654461746146696C65</Bytes>
+			<ASCII> M y L i f e D a t a F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VIA setup configuration file</FileType>
+		<Ext>SCF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/VIA_Technologies</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>31</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B5343465D0D0A434F4D50414E593D</Bytes>
+			<ASCII> [ S C F ] . . C O M P A N Y =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SYSTEM MANUFACTURER</String>
+		<String>SYSTEM SIGNATURE</String>
+		<String>WWW.VIAARENA.COM</String>
+		<String>VIA TECHNOLOGIES</String>
+		<String>PACKAGE_VERSION</String>
+		<String>IDENTIFICATION</String>
+		<String>SETUP WIZARD</String>
+		<String>VIA.COM.TW</String>
+		<String>SCFVERSION</String>
+		<String>COMPONENT</String>
+		<String>BGBITMAP</String>
+		<String>ENCRYPT</String>
+		<String>PRODUCT</String>
+		<String>SERVICE</String>
+		<String>COMPANY</String>
+		<String>MFGICON</String>
+		<String>STRING</String>
+		<String>TITLE</String>
+		<String>SORRY</String>
+		<String>EMAIL</String>
+		<String>.BMP</String>
+		<String>INC.</String>
+	</GlobalStrings>
+</TrID>

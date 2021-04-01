@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AIFF Audio Interchange File Format</FileType>
+		<Ext>AIF/AIFF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://developer.apple.com/documentation/QuickTime/INMAC/SOUND/imsoundmgr.30.htm</RefURL>
+		</ExtraInfo>
+		<User>James Heinrich</User>
+		<E-Mail>getid3@nospam@users.sourceforge.net</E-Mail>
+		<Home>http://getid3.sourceforge.net</Home>
+	</Info>
+	<General>
+		<FileNum>21</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>59</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>464F524D</Bytes>
+			<ASCII> F O R M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>414946</Bytes>
+			<ASCII> A I F</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

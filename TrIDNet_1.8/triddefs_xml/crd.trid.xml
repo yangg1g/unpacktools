@@ -1,0 +1,30 @@
+<TrID ver="1.16">
+    <Info>
+        <FileType>Microsoft Windows 3.x Cardfile database</FileType>
+        <Ext>CRD</Ext>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>2</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>19</Day>
+        </Date>
+        <Time>
+            <Hour>02</Hour>
+            <Min>51</Min>
+            <Sec>13</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00.1</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4D4743</Bytes>
+            <ASCII> M G C</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

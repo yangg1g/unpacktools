@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Apple Suitcase font</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>06</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>58</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000516</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4646494C6674626B</Bytes>
+			<ASCII> F F I L f t b k</ASCII>
+			<Pos>62</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FONT</String>
+	</GlobalStrings>
+</TrID>

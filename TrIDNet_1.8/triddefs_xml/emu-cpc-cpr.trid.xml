@@ -1,0 +1,39 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>CPC Plus Cartridge image</FileType>
+        <Ext>CPR</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://andercheran.aiind.upv.es/~amstrad/docs/cprdef.html</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>18</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>15</Day>
+        </Date>
+        <Time>
+            <Hour>19</Hour>
+            <Min>05</Min>
+            <Sec>35</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>52494646</Bytes>
+            <ASCII> R I F F</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00414D5321</Bytes>
+            <ASCII> . A M S !</ASCII>
+            <Pos>7</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

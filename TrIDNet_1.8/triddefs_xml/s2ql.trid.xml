@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>StarCraft 2 Unit Localization</FileType>
+		<Ext>S2QL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>08</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>34</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D38223F3E3C4C6F63616C6520726567696F6E3D22656E5553223E3C652069643D2230223E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 " ? . . L o c a l e   r e g i o n = " e n U S " . . e   i d = " 0 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>LOCALE REGION</String>
+		<String>XML VERSION</String>
+		<String>ENCODING</String>
+		<String>UTF-8</String>
+		<String>E ID</String>
+		<String>ENUS</String>
+	</GlobalStrings>
+</TrID>

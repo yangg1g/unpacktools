@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OffsetFinderTemplate>
+  <Header>
+    <FormatName>PlayStation - SEQ File</FormatName>
+    <Author />
+  </Header>
+  <SearchParameters>
+    <SearchString>7051455300000001</SearchString>
+    <TreatSearchStringAsHex>true</TreatSearchStringAsHex>
+    <SearchStringOffset>0</SearchStringOffset>
+    <OutputFileExtension>.seq</OutputFileExtension>
+    <CutParameters>
+      <CutStyle>terminator</CutStyle>
+      <TerminatorString>FF2F00</TerminatorString>
+      <TreatTerminatorStringAsHex>true</TreatTerminatorStringAsHex>
+      <IncludeTerminatorInSize>true</IncludeTerminatorInSize>      
+    </CutParameters>
+    <AddExtraBytes>false</AddExtraBytes>    
+  </SearchParameters>
+</OffsetFinderTemplate>
+

@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sega Genesis / Megadrive / 32x ROM image</FileType>
+		<Ext>BIN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Piwi</User>
+		<E-Mail>xs01@nospamgrazie@libero.it</E-Mail>
+		<Home>http://reload.bbk.com</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>8 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>08</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>17</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5345474120</Bytes>
+			<ASCII> S E G A</ASCII>
+			<Pos>256</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>284329</Bytes>
+			<ASCII> ( C )</ASCII>
+			<Pos>272</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20474D20</Bytes>
+			<ASCII>   G M</ASCII>
+			<Pos>383</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

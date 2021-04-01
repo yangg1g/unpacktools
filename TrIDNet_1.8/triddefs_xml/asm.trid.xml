@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>freeCAD assembly</FileType>
+		<Ext>ASM</Ext>
+		<ExtraInfo>
+			<Rem>freeCAD is a basic 3D CAD with advanced Motion Simulation capabilities</Rem>
+			<RefURL>http://www.askoh.com/freecad/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>05</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>52</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>424F5353203720</Bytes>
+			<ASCII> B O S S   7</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ANGLE</String>
+		<String>CORE.</String>
+		<String>CURRENT</String>
+		<String>LENGTH</String>
+		<String>NAME</String>
+		<String>STCAD.</String>
+	</GlobalStrings>
+</TrID>

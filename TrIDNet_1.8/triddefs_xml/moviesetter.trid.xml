@@ -1,0 +1,72 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Amiga Moviesetter animation</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Robert Killingsworth</User>
+		<E-Mail>gooberslotstopspam@gmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>29</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>59</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>78</Bytes>
+			<ASCII> x</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>65</Bytes>
+			<ASCII> e</ASCII>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>74</Bytes>
+			<ASCII> t</ASCII>
+			<Pos>9</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>722056312E30</Bytes>
+			<ASCII> r   V 1 . 0</ASCII>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>77</Bytes>
+			<ASCII> w</ASCII>
+			<Pos>33</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7600</Bytes>
+			<ASCII> v</ASCII>
+			<Pos>36</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SSETPROP'''LILBMCMAP</String>
+		<String>GOLD DISK IN</String>
+		<String>TOROIDCHAN</String>
+		<String>ILBMFACE</String>
+		<String>8SVXVHDR</String>
+		<String>R V1.0</String>
+		<String>ANNO</String>
+		<String>FORM</String>
+		<String>LIST</String>
+		<String>BODY</String>
+	</GlobalStrings>
+</TrID>

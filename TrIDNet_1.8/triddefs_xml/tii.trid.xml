@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TI Interactive Workbook</FileType>
+		<Ext>TII</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/TI_Interactive!</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>11</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>03</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5449496E7465724163746976652046696C65</Bytes>
+			<ASCII> T I I n t e r A c t i v e   F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>O'L'E'P'R'E'S'</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>CTXOBJITEM</String>
+	</GlobalStrings>
+</TrID>

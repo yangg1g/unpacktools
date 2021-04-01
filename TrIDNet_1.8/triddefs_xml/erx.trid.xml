@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AllFusion ERwin data</FileType>
+		<Ext>ER1/ERX</Ext>
+		<ExtraInfo>
+			<Rem>AllFusion ERwin Data Modeler is an industry-leading data modeling for creatin and maintain databases, data warehouses and enterprise data models.</Rem>
+			<RefURL>http://www3.ca.com/Solutions/Product.asp?ID=260</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>21</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>53</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>56</Bytes>
+			<ASCII> V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>2</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2045527769</Bytes>
+			<ASCII>   E R w i</ASCII>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

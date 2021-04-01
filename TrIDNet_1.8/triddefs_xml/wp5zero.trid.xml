@@ -1,0 +1,42 @@
+<TrID ver="1.16">
+	<Info>
+		<FileType>WordPerfect 5.0 document</FileType>
+		<Ext>WP</Ext>
+		<User>Philip Storry</User>
+		<E-Mail>phil@nospam[AT]philipstorry.net</E-Mail>
+		<Home>http://www.philipstorry.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Date>
+			<Year>2003</Year>
+			<Month>07</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>16</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.00.1</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FF575043</Bytes>
+			<ASCII> . W P C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00010A0000</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>14</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>602</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

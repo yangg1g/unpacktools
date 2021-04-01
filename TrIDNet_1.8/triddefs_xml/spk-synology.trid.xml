@@ -1,0 +1,79 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Synology Package</FileType>
+		<Ext>SPK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.synology.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>21</Min>
+			<Sec>6</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>494E464F000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000303030</Bytes>
+			<ASCII> I N F O . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 0 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7573746172</Bytes>
+			<ASCII> u s t a r</ASCII>
+			<Pos>257</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7061636B6167653D22</Bytes>
+			<ASCII> p a c k a g e = "</ASCII>
+			<Pos>512</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>START-STOP-STATUS</String>
+		<String>SYNOLOGY INC.</String>
+		<String>DESCRIPTION</String>
+		<String>PACKAGE.TGZ</String>
+		<String>MAINTAINER</String>
+		<String>POSTUNINST</String>
+		<String>$SYNOPKG_</String>
+		<String>PREUNINST</String>
+		<String>PACKAGES</String>
+		<String>POSTINST</String>
+		<String>PREINST</String>
+		<String>SCRIPTS</String>
+		<String>VERSION</String>
+		<String>ECHO $</String>
+		<String>EXIT 0</String>
+		<String>EXIT 1</String>
+		<String>TARGET</String>
+		<String>RM -F</String>
+		<String>USTAR</String>
+		<String>ARCH</String>
+		<String>CASE</String>
+		<String>ELSE</String>
+		<String>ESAC</String>
+		<String>FILE</String>
+		<String>FIRM</String>
+		<String>GREP</String>
+		<String>KILL</String>
+		<String>LOG)</String>
+		<String>SERV</String>
+		<String>THEN</String>
+		<String>TUPG</String>
+		<String>WARE</String>
+	</GlobalStrings>
+</TrID>

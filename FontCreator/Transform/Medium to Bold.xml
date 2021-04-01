@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+ <TransformScript>
+  <OtherComments>
+   <Content>Medium to Bold
+This script changes a Medium font to Bold stroke weight. 
+After running it you may need to reduce the weight of serifs, correct intersecting contours, and change the Panose classification. </Content>
+  </OtherComments>
+  <OutlineScale>
+   <AroundType>2</AroundType>
+   <AroundCorner>0</AroundCorner>
+   <AroundXPos>0</AroundXPos>
+   <AroundYPos>0</AroundYPos>
+   <Horizontal>92.40</Horizontal>
+   <Vertical>92.40</Vertical>
+   <PreserveBearings>TRUE</PreserveBearings>
+  </OutlineScale>
+  <EffectsBold>
+   <Horizontal>81</Horizontal>
+   <Vertical>57</Vertical>
+   <PreserveBearings>TRUE</PreserveBearings>
+  </EffectsBold>
+  <OutlineMove>
+   <Horizontal>0</Horizontal>
+   <Vertical>57</Vertical>
+  </OutlineMove>
+  <MetricsLeftSideBearing>
+  </MetricsLeftSideBearing>
+ </TransformScript>
+</DATA>

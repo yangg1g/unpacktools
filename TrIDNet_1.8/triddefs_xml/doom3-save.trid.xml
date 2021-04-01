@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>id Software Doom 3 savegame</FileType>
+		<Ext>SAVE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.doom3.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>53</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>06000000444F4F4D2033100000001300000067616D652F</Bytes>
+			<ASCII> . . . . D O O M   3 . . . . . . . . g a m e /</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000061726D6F7200</Bytes>
+			<ASCII> . . . a r m o r</ASCII>
+			<Pos>38</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

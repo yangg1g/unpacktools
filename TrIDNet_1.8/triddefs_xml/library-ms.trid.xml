@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Windows library description</FileType>
+		<Ext>LIBRARY-MS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>7</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>37</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SEARCHCONNECTORDESCRIPTION PUBLISHER</String>
+		<String>SEARCHCONNECTORDESCRIPTIONLIST</String>
+		<String>ISDEFAULTNONOWNERSAVELOCATION</String>
+		<String>LIBRARYDESCRIPTION XMLNS</String>
+		<String>ISDEFAULTSAVELOCATION</String>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>ISLIBRARYPINNED</String>
+		<String>SIMPLELOCATION</String>
+		<String>ICONREFERENCE</String>
+		<String>TEMPLATEINFO</String>
+		<String>KNOWNFOLDER</String>
+		<String>XML VERSION</String>
+		<String>FOLDERTYPE</String>
+		<String>SERIALIZED</String>
+		<String>ENCODING</String>
+		<String>OWNERSID</String>
+		<String>PRODUCT</String>
+		<String>WINDOWS</String>
+		<String>UTF-8</String>
+		<String>.DLL</String>
+		<String>HTTP</String>
+		<String>NAME</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

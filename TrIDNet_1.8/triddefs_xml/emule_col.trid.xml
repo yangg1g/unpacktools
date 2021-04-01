@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>eMule Collection file</FileType>
+		<Ext>EMULECOLLECTION</Ext>
+		<ExtraInfo>
+			<Rem>A text file that contain a list of related files to be downloaded with eMule.</Rem>
+			<RefURL>http://www.emule-project.net</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>53</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>01000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000002010001</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>USRobotics firmware</FileType>
+		<Ext>USR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.usr.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>04</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>01</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>55535230</Bytes>
+			<ASCII> U S R 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>48445230</Bytes>
+			<ASCII> H D R 0</ASCII>
+			<Pos>28</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

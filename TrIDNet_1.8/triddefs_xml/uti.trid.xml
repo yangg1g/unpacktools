@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SafeGuard PrivateCrypto Encrypted</FileType>
+		<Ext>UTI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.utimaco.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>6</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>5</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>536166654775617264205072697661746543727970746F0D0A436F70797269676874202843292032303030205574696D61636F2053616665776172652041470D0A0D0A454E435259505445442046494C452E0D0A1A</Bytes>
+			<ASCII> S a f e G u a r d   P r i v a t e C r y p t o . . C o p y r i g h t   ( C )   2 0 0 0   U t i m a c o   S a f e w a r e   A G . . . . E N C R Y P T E D   F I L E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

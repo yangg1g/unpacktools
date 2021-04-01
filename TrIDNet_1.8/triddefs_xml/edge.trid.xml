@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Adobe Edge Project</FileType>
+		<Ext>EDGE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Adobe_Edge</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>8</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>34</Min>
+			<Sec>3</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7B</Bytes>
+			<ASCII> {</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>STAGE-DEFAULT TIMELINE_PLAYHEAD_MS</String>
+		<String>TRANSITIONIDCOUNTER</String>
+		<String>ELEMENTKEYFRAMES</String>
+		<String>COMPZOOMFACTOR</String>
+		<String>ELE_TL_COLOR_</String>
+		<String>HTMLFILENAME</String>
+		<String>MODELDATA</String>
+		<String>TIMELINES</String>
+		<String>ELE_EFA_</String>
+		<String>USEDBOM</String>
+		<String>FALSE</String>
+		<String>.HTM</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,69 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DeliPlayer genie</FileType>
+		<Ext>DLL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.deliplayer.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>32</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A24</Bytes>
+			<ASCII> . . . . . . . . . . ! . . L . ! T h i s   p r o g r a m   c a n n o t   b e   r u n   i n   D O S   m o d e . . . . $</ASCII>
+			<Pos>62</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.DATA</String>
+		<String>.RDATA</String>
+		<String>.RELOC</String>
+		<String>.TEXT</String>
+		<String>1TYPE_INFO</String>
+		<String>AVAFX_MODULE_STATE</String>
+		<String>AVCNOTRACKOBJECT</String>
+		<String>AVTYPE_INFO</String>
+		<String>AV_AFX_DLL_MODULE_STATE</String>
+		<String>FLORIAN</String>
+		<String>I'__CXXFRAMEHANDLER</String>
+		<String>LOCALALLOC''KERNEL32.DLL</String>
+		<String>LOCALFREE</String>
+		<String>MALLOC</String>
+		<String>MFC42.DLL</String>
+		<String>MSVCRT.DLL</String>
+		<String>NWVS</String>
+		<String>PE''L</String>
+		<String>PLUGINTAGARRAY</String>
+		<String>RICH</String>
+		<String>T6VP</String>
+		<String>THIS PROGRAM CANNOT BE RUN IN DOS MODE.</String>
+		<String>U'__DLLONEXIT</String>
+		<String>U7WPS</String>
+		<String>VORBERGER</String>
+		<String>_ADJUST_FDIV</String>
+		<String>_INITTERM</String>
+		<String>_ONEXIT</String>
+	</GlobalStrings>
+</TrID>

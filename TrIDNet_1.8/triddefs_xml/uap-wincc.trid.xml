@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WinCC User Archive export</FileType>
+		<Ext>UAP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.automation.siemens.com/mcms/human-machine-interface/en/visualization-software/Pages/Default.aspx</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>11</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>47</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>55415030313030</Bytes>
+			<ASCII> U A P 0 1 0 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

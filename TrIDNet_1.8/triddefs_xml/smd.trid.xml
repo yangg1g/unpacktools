@@ -1,0 +1,75 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MicroMap map data</FileType>
+		<Ext>SMD</Ext>
+		<ExtraInfo>
+			<Rem>Highly compressed vector map format, used by MapDroyd.</Rem>
+			<RefURL>http://www.mapdroyd.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>11</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>01</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>534D44</Bytes>
+			<ASCII> S M D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>76657273696F6E03</Bytes>
+			<ASCII> v e r s i o n</ASCII>
+			<Pos>9</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>18</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>09707265636973696F6E</Bytes>
+			<ASCII> . p r e c i s i o n</ASCII>
+			<Pos>20</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>626F756E6473</Bytes>
+			<ASCII> b o u n d s</ASCII>
+			<Pos>40</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>OSM ADMIN_LEVEL</String>
+		<String>OSM TRACKTYPE</String>
+		<String>OSM WATERWAY</String>
+		<String>OSM RELIGION</String>
+		<String>OSM BOUNDARY</String>
+		<String>OSM RAILWAY</String>
+		<String>OSM TOURISM</String>
+		<String>OSM AEROWAY</String>
+		<String>OSM AMENITY</String>
+		<String>OSM SERVICE</String>
+		<String>OSM BICYCLE</String>
+		<String>OSM NATURAL</String>
+		<String>OSM LEISURE</String>
+		<String>OSM LANDUSE</String>
+		<String>OSM BARRIER</String>
+		<String>OSM PLACE</String>
+		<String>OSM POWER</String>
+		<String>OSM FOOT</String>
+		<String>OSM SHOP</String>
+	</GlobalStrings>
+</TrID>

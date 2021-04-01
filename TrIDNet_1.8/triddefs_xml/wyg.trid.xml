@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WYSIWYG project data</FileType>
+		<Ext>WYG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.castlighting.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>11</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5759534957594720446174612046696C650D0A56657273696F6E20</Bytes>
+			<ASCII> W Y S I W Y G   D a t a   F i l e . . V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>28</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A1A</Bytes>
+			<Pos>33</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

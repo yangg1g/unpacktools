@@ -1,0 +1,63 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Office SmartArt Graphics Layout</FileType>
+		<Ext>GLOX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://office.microsoft.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>4</Hour>
+			<Min>3</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00001A001C006469616772616D732F6C61796F7574486561646572312E786D6C20</Bytes>
+			<ASCII> . . . . . . d i a g r a m s / l a y o u t H e a d e r 1 . x m l</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCHEMAS.OPENXMLFORMATS.ORG</String>
+		<String>DIAGRAMLAYOUTHEADER</String>
+		<String>LAYOUTHEADER1.XMLPK</String>
+		<String>RELATIONSHIPS XMLNS</String>
+		<String>RELATIONSHIP TYPE</String>
+		<String>OFFICEDOCUMENT</String>
+		<String>CONTENT_TYPES</String>
+		<String>LAYOUT1.XMLPK</String>
+		<String>XML VERSION</String>
+		<String>DIAGRAMS</String>
+		<String>ENCODING</String>
+		<String>.RELSPK</String>
+		<String>PACKAGE</String>
+		<String>TARGET</String>
+		<String>E~WOG</String>
+		<String>UTF-8</String>
+		<String>_RELS</String>
+		<String>-AW0</String>
+		<String>2006</String>
+		<String>HTTP</String>
+		<String>RID1</String>
+	</GlobalStrings>
+</TrID>

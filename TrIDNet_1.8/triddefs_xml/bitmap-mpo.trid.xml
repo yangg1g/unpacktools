@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Multi Picture Object bitmap</FileType>
+		<Ext>MPO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/.mpo#JPEG_Multi-Picture_Format</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>2</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>59</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFD8FFE1</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>457869660000</Bytes>
+			<ASCII> E x i f</ASCII>
+			<Pos>6</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CDEFGHIJSTUVWXYZCDEFGHIJSTUVWXYZ</String>
+		<String>()*456789</String>
+		<String>()*56789</String>
+		<String>2'''R</String>
+		<String>$3BR</String>
+		<String>0100</String>
+		<String>EXIF</String>
+	</GlobalStrings>
+</TrID>

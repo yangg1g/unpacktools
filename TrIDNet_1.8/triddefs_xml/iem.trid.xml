@@ -1,0 +1,134 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Internet Explorer Maintenance extension</FileType>
+		<Ext>IEM</Ext>
+		<ExtraInfo>
+			<Rem>Extension settings in Group Policy that you can use to manage browsers on your users' computers</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Stef</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>10</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>37</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0065007200</Bytes>
+			<ASCII> . e . r</ASCII>
+			<Pos>11</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>C'H'E'C'K' 'F'O'R' 'I'N'T'E'R'N'E'T' 'E'X'P'L'O'R'E'R' 'U'P'D'A'T'E'S</String>
+		<String>S'E'T'T'I'N'G'S' 'P'O'L'I'C'Y' 'T'E'M'P'L'A'T'E</String>
+		<String>I'N'T'E'R'N'E'T' 'E'X'P'L'O'R'E'R' 'W'I'L'L</String>
+		<String>I'E'A'K'_'D'E'S'C'R'I'P'T'I'O'N'T'I'T'L'E</String>
+		<String>T' 'I'N'T'E'R'N'E'T' 'E'X'P'L'O'R'E'R</String>
+		<String>V'A'L'U'E'O'F'F' 'N'U'M'E'R'I'C' '1</String>
+		<String>0' 'V'A'L'U'E' 'N'U'M'E'R'I'C' '0</String>
+		<String>2' 'V'A'L'U'E' 'N'U'M'E'R'I'C' '2</String>
+		<String>3' 'V'A'L'U'E' 'N'U'M'E'R'I'C' '3</String>
+		<String>I'E'A'K'_'D'E'S'C'R'I'P'T'I'O'N'1</String>
+		<String>I'E'A'K'_'D'E'S'C'R'I'P'T'I'O'N'2</String>
+		<String>I'E'A'K'_'D'E'S'C'R'I'P'T'I'O'N'3</String>
+		<String>I'E'A'K'_'D'E'S'C'R'I'P'T'I'O'N'4</String>
+		<String>I'N'T'E'R'N'E'T' 'S'E'T'T'I'N'G'S</String>
+		<String>V'A'L'U'E'O'N' 'N'U'M'E'R'I'C' '0</String>
+		<String>W'H'E'N' 'S'E'A'R'C'H'I'N'G' 'F</String>
+		<String>V'A'L'U'E' 'N'U'M'E'R'I'C' '1</String>
+		<String>C'A'C'H'E' 'C'H'E'C'K'B'O'X</String>
+		<String>C'U'R'R'E'N'T'V'E'R'S'I'O'N</String>
+		<String>E'N'D' 'A'C'T'I'O'N'L'I'S'T</String>
+		<String>N'U'M'O'F'D'E'S'C'L'I'N'E'S</String>
+		<String>T' 'D'R'O'P'D'O'W'N'L'I'S'T</String>
+		<String>T'H'E'S'E' 'S'E'T'T'I'N'G'S</String>
+		<String>A'U'T'O'M'A'T'I'C'A'L'L'Y</String>
+		<String>C'L'A'S'S' 'M'A'C'H'I'N'E</String>
+		<String>N'O'U'P'D'A'T'E'C'H'E'C'K</String>
+		<String>V'A'L'U'E'N'A'M'E' 'U'S'E</String>
+		<String>B'E' 'D'I'S'P'L'A'Y'E'D</String>
+		<String>E'N'D' 'C'A'T'E'G'O'R'Y</String>
+		<String>E'N'D' 'I'T'E'M'L'I'S'T</String>
+		<String>U'P'D'A'T'E' 'C'H'E'C'K</String>
+		<String>D'I'S'A'B'L'E'C'A'C'H</String>
+		<String>T'E' 'S'E'T'T'I'N'G'S</String>
+		<String>T'H'E' 'B'R'O'W'S'E'R</String>
+		<String>V'A'L'U'E'N'A'M'E' 'P</String>
+		<String>C'L'A'S'S' 'U'S'E'R</String>
+		<String>E' 'D'O'W'N'L'O'A'D</String>
+		<String>E'N'D' 'P'O'L'I'C'Y</String>
+		<String>I'E'A'K'_'T'I'T'L'E</String>
+		<String>M'I'C'R'O'S'O'F'T</String>
+		<String>T'H'I'S' 'F'I'L'E</String>
+		<String>D'E'F'A'U'L'T'S</String>
+		<String>E'D' 'P'A'G'E'S</String>
+		<String>E'D'I'T'T'E'X'T</String>
+		<String>E'N'D' 'P'A'R'T</String>
+		<String>P'E'R'I'O'D'I'C</String>
+		<String>P'L'A'T'F'O'R'M</String>
+		<String>S'O'F'T'W'A'R'E</String>
+		<String>C'O'N'T'E'N'T</String>
+		<String>C'O'N'T'R'O'L</String>
+		<String>K'E'Y'N'A'M'E</String>
+		<String>S'E'A'R'C'H'P</String>
+		<String>S'T'R'I'N'G'S</String>
+		<String>W'I'N'D'O'W'S</String>
+		<String>B'U'T'T'O'N</String>
+		<String>E' 'H'T'M'L</String>
+		<String>E' 'P'A'G'E</String>
+		<String>E'R'R'O'R'S</String>
+		<String>E'R'R'O'R'T</String>
+		<String>T'H'E' 'I'N</String>
+		<String>E'S'I'Z'E</String>
+		<String>E'V'E'R'Y</String>
+		<String>M'I'N' '1</String>
+		<String>N'E'V'E'R</String>
+		<String>R'O'L'E'S</String>
+		<String>S'I'B'L'E</String>
+		<String>S'I'T'E'S</String>
+		<String>T'U'R'E'S</String>
+		<String>.'C'O'M</String>
+		<String>A' 'S'E</String>
+		<String>A'I'L'S</String>
+		<String>B'A'S'E</String>
+		<String>H'E'R'E</String>
+		<String>H'T'T'P</String>
+		<String>I'O'N'S</String>
+		<String>L'O'C'K</String>
+		<String>M'A'I'N</String>
+		<String>M'E'N'U</String>
+		<String>M'O'D'E</String>
+		<String>S'H'O'W</String>
+		<String>0'1'0</String>
+		<String>A'N'D</String>
+		<String>C'H'O</String>
+		<String>C'O'D</String>
+		<String>E'C'T</String>
+		<String>E'R')</String>
+		<String>L'E'D</String>
+		<String>M'A'X</String>
+		<String>M'I'T</String>
+		<String>O'T'H</String>
+		<String>Y'E'S</String>
+		<String>Y'O'U</String>
+	</GlobalStrings>
+</TrID>

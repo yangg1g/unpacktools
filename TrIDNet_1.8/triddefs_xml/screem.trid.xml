@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SCREEM project</FileType>
+		<Ext>SCREEM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/SCREEM</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>53</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E30223F3E0A3C53435245454D5F50524F4A45435420786D6C6E733A73637265656D3D22687474703A2F2F7777772E73637265656D2E6F72672F223E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 " ? . . . S C R E E M _ P R O J E C T   x m l n s : s c r e e m = " h t t p : / / w w w . s c r e e m . o r g / "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCREEM_PROJECT XMLNS</String>
+		<String>WWW.SCREEM.ORG</String>
+		<String>REMOTE METHOD</String>
+		<String>NO_OVERWRITE</String>
+		<String>AUTO_UPDATE</String>
+		<String>CHECK_MOVED</String>
+		<String>PERMISSIONS</String>
+		<String>XML VERSION</String>
+		<String>NO_DELETE</String>
+		<String>TEMPLATE</String>
+		<String>EXCLUDES</String>
+		<String>USERNAME</String>
+		<String>PASSWORD</String>
+		<String>SYMLINKS</String>
+		<String>IGNORES</String>
+		<String>OPTIONS</String>
+		<String>CVS USE</String>
+		<String>TITLE</String>
+		<String>TASKS</String>
+		<String>FALSE</String>
+		<String>HTTP</String>
+		<String>PATH</String>
+	</GlobalStrings>
+</TrID>

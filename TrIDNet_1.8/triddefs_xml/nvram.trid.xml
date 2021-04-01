@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VMware BIOS state</FileType>
+		<Ext>NVRAM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.vmware.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>54</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D52564E</Bytes>
+			<ASCII> M R V N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>434D4F53</Bytes>
+			<ASCII> C M O S</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Hudson Entertainment Sound</FileType>
+		<Ext>HES</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://namida.com/kaminarimon/hes/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>08</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4845534D</Bytes>
+			<ASCII> H E S M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>44415441</Bytes>
+			<ASCII> D A T A</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

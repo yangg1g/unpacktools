@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>'Electronic Arts' Game Archive</FileType>
+		<Ext>BIG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>voodooattack</User>
+		<E-Mail>voodooattack at hotmail dot com</E-Mail>
+		<Home>http://voodooattack.deviantart.com</Home>
+	</Info>
+	<General>
+		<FileNum>31</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>51</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>42494746</Bytes>
+			<ASCII> B I G F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

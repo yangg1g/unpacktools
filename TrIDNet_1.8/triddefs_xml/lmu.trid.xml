@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RPG Maker 2000/2003 Map</FileType>
+		<Ext>LMU</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.enterbrain.co.jp/en/c_outline/goods_soft.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>08</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0A4C63664D6170556E6974</Bytes>
+			<ASCII> . L c f M a p U n i t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

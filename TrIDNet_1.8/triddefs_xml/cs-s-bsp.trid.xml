@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Valve Source map</FileType>
+		<Ext>BSP</Ext>
+		<ExtraInfo>
+			<Rem>Usend in Counter-Strike: Source, Half-Life 2, etc.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Thaimodz</User>
+		<E-Mail>admin@thaimodz.net</E-Mail>
+		<Home>http://www.thaimodz.net</Home>
+	</Info>
+	<General>
+		<FileNum>90</FileNum>
+		<Refine>77 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>9</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>41</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5642535013000000</Bytes>
+			<ASCII> V B S P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MATERIALTABLE {</String>
+		<String>STATICSOLID {</String>
+		<String>MATERIALS</String>
+		<String>CONTENTS</String>
+		<String>.VTFVTF</String>
+		<String>DEFAULT</String>
+		<String>.VTFPK</String>
+		<String>INDEX</String>
+		<String>LIGHT</String>
+		<String>ONCRE</String>
+		<String>PROPS</String>
+		<String>EMAP</String>
+		<String>IVPS</String>
+		<String>MAPS</String>
+		<String>OUND</String>
+		<String>PRPD</String>
+		<String>PRPS</String>
+		<String>VBSP</String>
+		<String>VPHY</String>
+	</GlobalStrings>
+</TrID>

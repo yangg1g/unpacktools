@@ -1,0 +1,68 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MS generic-sfx Cabinet File Unpacker (32/64bit MSCFU)</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Kieran O'Donnell</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>99</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>01</Min>
+			<Sec>54</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A2400000000000000</Bytes>
+			<ASCII> . . . . . . . . . . . ! . . L . ! T h i s   p r o g r a m   c a n n o t   b e   r u n   i n   D O S   m o d e . . . . $</ASCII>
+			<Pos>61</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>C'O'M'P'A'N'Y'N'A'M'E'''''M'I'C'R'O'S'O'F'T' 'C'O'R'P'O'R'A'T'I'O'N</String>
+		<String>V'A'R'F'I'L'E'I'N'F'O'''''$</String>
+		<String>L'E'G'A'L'C'O'P'Y'R'I'G'H'T</String>
+		<String>S'T'R'I'N'G'F'I'L'E'I'N'F'O</String>
+		<String>SETUNHANDLEDEXCEPTIONFILTER</String>
+		<String>MICROSOFT CODE SIGNING PCA0</String>
+		<String>P'R'O'D'U'C'T'V'E'R'S'I'O'N</String>
+		<String>EXPANDENVIRONMENTSTRINGSA</String>
+		<String>ALLOCATEANDINITIALIZESID</String>
+		<String>I'N'T'E'R'N'A'L'N'A'M'E</String>
+		<String>LOCALFILETIMETOFILETIME</String>
+		<String>GETSYSTEMTIMEASFILETIME</String>
+		<String>QUERYPERFORMANCECOUNTER</String>
+		<String>MICROSOFT CORPORATION1</String>
+		<String>MICROSOFT CORPORATION0</String>
+		<String>DOSDATETIMETOFILETIME</String>
+		<String>T'R'A'N'S'L'A'T'I'O'N</String>
+		<String>F'I'L'E'V'E'R'S'I'O'N</String>
+		<String>GETDISKFREESPACEA</String>
+		<String>B'R'O'W'S'E'.'.'.</String>
+		<String>SHBROWSEFORFOLDER</String>
+		<String>CRL.MICROSOFT.COM</String>
+		<String>S'H'U'T'D'O'W'N</String>
+		<String>WRITEFILE</String>
+		<String>EXTRACT</String>
+		<String>MSCFU</String>
+	</GlobalStrings>
+</TrID>

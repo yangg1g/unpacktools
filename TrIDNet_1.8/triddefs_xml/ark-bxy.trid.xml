@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>NuFX archive (with Binary II header)</FileType>
+		<Ext>BXY</Ext>
+		<ExtraInfo>
+			<Rem>Old Apple ][ compression format.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>46</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0A474CC3E0028000</Bytes>
+			<ASCII> . G L</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4EF546E96CE5</Bytes>
+			<ASCII> N . F . l</ASCII>
+			<Pos>128</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

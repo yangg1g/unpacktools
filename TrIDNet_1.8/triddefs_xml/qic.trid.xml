@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows 98 MSBackup backup set</FileType>
+		<Ext>QIC</Ext>
+		<ExtraInfo>
+			<Rem>Backup file created with the backup utility shipped with Windows 98</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2005</Year>
+			<Month>03</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>45</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5654424C</Bytes>
+			<ASCII> V T B L</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

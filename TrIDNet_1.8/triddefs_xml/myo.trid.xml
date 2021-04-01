@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MYOB data</FileType>
+		<Ext>MYO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.myob.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>27</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BASLINK.TXTPK</String>
+		<String>EXTRACT.INFPK</String>
+		<String>MYOBAO.TXTPK</String>
+	</GlobalStrings>
+</TrID>

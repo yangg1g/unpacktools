@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FamiTracker Instrument</FileType>
+		<Ext>FTI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://famitracker.shoodot.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>1</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>30</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.76b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>465449</Bytes>
+			<ASCII> F T I</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E3000</Bytes>
+			<ASCII> . 0</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

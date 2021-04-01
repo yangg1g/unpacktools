@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Evernote Exported XML</FileType>
+		<Ext>ENEX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.evernote.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>01</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>37</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCTYPE EN-EXPORT SYSTEM</String>
+		<String>DOCTYPE EN-NOTE SYSTEM</String>
+		<String>EN-EXPORT EXPORT-DATE</String>
+		<String>EVERNOTE-EXPORT.DTD</String>
+		<String>XML.EVERNOTE.COM</String>
+		<String>DATA ENCODING</String>
+		<String>APPLICATION</String>
+		<String>XML VERSION</String>
+		<String>RESOURCE</String>
+		<String>ENML.DTD</String>
+		<String>EN-MEDIA</String>
+		<String>CONTENT</String>
+		<String>UPDATED</String>
+		<String>CREATED</String>
+		<String>BASE64</String>
+		<String>TITLE</String>
+		<String>UTF-8</String>
+		<String>CDATA</String>
+		<String>MIME</String>
+		<String>HTTP</String>
+		<String>HASH</String>
+	</GlobalStrings>
+</TrID>

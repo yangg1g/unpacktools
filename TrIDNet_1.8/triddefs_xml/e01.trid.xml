@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EnCase Forensic Drive Image</FileType>
+		<Ext>E01</Ext>
+		<ExtraInfo>
+			<Rem>These are Forensic Drive image files created with EnCase by Guidance Software Inc. There are third party software packages that can mount these images as a drive letter so one can access the files.</Rem>
+			<RefURL>http://www.encase.com/</RefURL>
+		</ExtraInfo>
+		<User>Tom Strack</User>
+		<E-Mail>tom.strack@earlycase.com</E-Mail>
+		<Home>http://www.earlycase.com</Home>
+        </Info>
+	<General>
+		<FileNum>19</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>59</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>455646</Bytes>
+			<ASCII> E V F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>686561646572</Bytes>
+			<ASCII> h e a d e r</ASCII>
+			<Pos>13</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

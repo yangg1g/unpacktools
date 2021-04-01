@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CBI document</FileType>
+		<Ext>CBI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cbi-org.eu/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>3</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>47</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>204942</Bytes>
+			<ASCII>   I B</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

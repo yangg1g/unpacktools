@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ClickOnce Compiled Manifest</FileType>
+		<Ext>CDF-MS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/ClickOnce</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>1132</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>57</Min>
+			<Sec>4</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.81</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50636D480100000000000000</Bytes>
+			<ASCII> P c m H</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000540000000000000000000000</Bytes>
+			<ASCII> . . T</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000FFFFFFFFFF1B352825D55541ACB06E7C64C725D8</Bytes>
+			<ASCII> . . . . . . . . 5 ( % . U A . . n | d . %</ASCII>
+			<Pos>62</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PROCESSORARCHITECTURE</String>
+		<String>PUBLICKEYTOKEN</String>
+		<String>VERSION</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Grace project file</FileType>
+		<Ext>AGR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>12</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>24</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>232047726163652070726F6A6563742066696C65</Bytes>
+			<ASCII> #   G r a c e	p r o j e c t	f i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>KGB Archiver compressed archive</FileType>
+		<Ext>KGB</Ext>
+		<ExtraInfo>
+			<Rem>KGB is the archive with unbelievable high compression rate.</Rem>
+			<RefURL>http://www.icpnet.pl/~tomekpawlak/kgb/?lang=en</RefURL>
+		</ExtraInfo>
+		<User>Edgaras</User>
+		<E-Mail>garas-@freemail.lt</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<Date>
+			<Year>2006</Year>
+			<Month>03</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>36</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4B47425F61726368202D</Bytes>
+			<ASCII> K G B _ a r c h   -</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A</Bytes>
+			<Pos>11</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

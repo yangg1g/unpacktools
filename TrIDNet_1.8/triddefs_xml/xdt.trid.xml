@@ -1,0 +1,97 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Termbase definition</FileType>
+		<Ext>XDT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Termbase</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2014</Year>
+			<Month>1</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>46</Min>
+			<Sec>0</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C4F75747075743E3C4F626A6563743E3C547265653E3C4E6F64652049443D2230223E3C546578744368696C64</Bytes>
+			<ASCII> . O u t p u t . . O b j e c t . . T r e e . . N o d e   I D = " 0 " . . T e x t C h i l d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCHEMAS-MICROSOFT-COM</String>
+		<String>TERMBASE DEFINITION</String>
+		<String>ATTRIBUTETYPE NAME</String>
+		<String>TERMINOLOGYFIELDS</String>
+		<String>LEVEL MINOCCURS</String>
+		<String>MANDATORY XMLNS</String>
+		<String>ELEMENTTYPE ID</String>
+		<String>MULTIPLY XMLNS</String>
+		<String>NODETYPE XMLNS</String>
+		<String>LANGUAGE TYPE</String>
+		<String>MODIFICATION</String>
+		<String>OPTION XMLNS</String>
+		<String>TRANSAC TYPE</String>
+		<String>CAROL BLAKE</String>
+		<String>DESCRIPTION</String>
+		<String>ENTRY LEVEL</String>
+		<String>ENUMERATION</String>
+		<String>INDEX LEVEL</String>
+		<String>LANGUAGEGRP</String>
+		<String>ORIGINATION</String>
+		<String>SCHEMA NAME</String>
+		<String>SYSTEM TYPE</String>
+		<String>CONCEPTGRP</String>
+		<String>DESCRIPGRP</String>
+		<String>DUMMYENTRY</String>
+		<String>EMPTYENTRY</String>
+		<String>ENTRYCLASS</String>
+		<String>ITEMLOCALE</String>
+		<String>OCCURENCES</String>
+		<String>TERM LEVEL</String>
+		<String>TRANSACGRP</String>
+		<String>DATATYPES</String>
+		<String>LANGUAGES</String>
+		<String>MAXOCCURS</String>
+		<String>STRUCTURE</String>
+		<String>TEXTCHILD</String>
+		<String>ITEMTEXT</String>
+		<String>READONLY</String>
+		<String>SYNONYM.</String>
+		<String>TEXTONLY</String>
+		<String>BOOLEAN</String>
+		<String>CONTENT</String>
+		<String>ELTONLY</String>
+		<String>ENGLISH</String>
+		<String>HISTORY</String>
+		<String>LOCALES</String>
+		<String>NODE ID</String>
+		<String>TERMGRP</String>
+		<String>LABELS</String>
+		<String>OBJECT</String>
+		<String>OUTPUT</String>
+		<String>STRING</String>
+		<String>VALUES</String>
+		<String>MIXED</String>
+		<String>ORDER</String>
+		<String>TLINK</String>
+		<String>DATE</String>
+		<String>MANY</String>
+		<String>TREE</String>
+		<String>XREF</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LTSpice Circuit Schematic</FileType>
+		<Ext>ASC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.linear.com/designtools/software/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>24</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>56657273696F6E20340D0A5348454554203120</Bytes>
+			<ASCII> V e r s i o n   4 . . S H E E T   1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SYMATTR INSTNAME</String>
+		<String>SYMATTR VALUE</String>
+		<String>SYMBOL</String>
+		<String>WINDOW</String>
+		<String>SHEET</String>
+		<String>FLAG</String>
+		<String>LEFT</String>
+		<String>TEXT</String>
+		<String>WIRE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ELI 5750 compressed archive</FileType>
+		<Ext>ELI</Ext>
+		<ExtraInfo>
+			<Rem>A file compression utility by Jule Revsin.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>34</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4F726120</Bytes>
+			<ASCII> O r a</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

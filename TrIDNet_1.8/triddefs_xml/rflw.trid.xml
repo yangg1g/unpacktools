@@ -1,0 +1,87 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Edge Reflow data</FileType>
+		<Ext>RFLW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Adobe_Edge</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>11</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>58</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7B2256657273696F6E223A</Bytes>
+			<ASCII> { " V e r s i o n " :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>12</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RECENTLYUSEDGRADIENTS</String>
+		<String>GRID .COLUMN.GRID-</String>
+		<String>GRID .OUTER.GUTTER</String>
+		<String>RECENTLYUSEDCOLORS</String>
+		<String>.PRIMARYCONTAINER</String>
+		<String>APPLICATIONMODEL</String>
+		<String>HASOUTERGUTTERS</String>
+		<String>VISIBLECOLUMNS</String>
+		<String>GRID .GUTTER.</String>
+		<String>GRIDCONTAINER</String>
+		<String>MARGIN-RIGHT</String>
+		<String>MAXDRAGLIMIT</String>
+		<String>MINDRAGLIMIT</String>
+		<String>GRID .GRID-</String>
+		<String>GUTTERWIDTH</String>
+		<String>MARGIN-LEFT</String>
+		<String>ORIENTATION</String>
+		<String>REGIONCOLOR</String>
+		<String>COLLECTION</String>
+		<String>MIN-HEIGHT</String>
+		<String>REGIONTYPE</String>
+		<String>VISIBILITY</String>
+		<String>CONTEXTID</String>
+		<String>CHILDREN</String>
+		<String>SELECTED</String>
+		<String>DEFAULT</String>
+		<String>DISPLAY</String>
+		<String>OPACITY</String>
+		<String>REFLOW-</String>
+		<String>REGIONS</String>
+		<String>TYPEKIT</String>
+		<String>VERSION</String>
+		<String>-WIDTH</String>
+		<String>FALSE}</String>
+		<String>HIDDEN</String>
+		<String>STYLES</String>
+		<String>ASSET</String>
+		<String>BLOCK</String>
+		<String>CLEAR</String>
+		<String>FLOAT</String>
+		<String>LABEL</String>
+		<String>AUTO</String>
+		<String>BODY</String>
+		<String>NONE</String>
+		<String>NULL</String>
+		<String>RGB(</String>
+	</GlobalStrings>
+</TrID>

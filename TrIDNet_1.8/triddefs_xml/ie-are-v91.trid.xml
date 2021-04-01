@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Infinity Engine Area (v9.1)</FileType>
+		<Ext>ARE</Ext>
+		<ExtraInfo>
+			<Rem>Infinity Engine ARE files are area defintions and include actor, door, region and container details as well as references to other files used by the area.</Rem>
+			<RefURL>http://iesdp.gibberlings3.net/file_formats/ie_formats/are_v9.1.htm</RefURL>
+		</ExtraInfo>
+		<User>Sam.</User>
+		<E-Mail>sampsca@yahoo.com</E-Mail>
+		<Home>http://www.shsforums.net/user/10485-sam/</Home>
+	</Info>
+	<General>
+		<FileNum>118</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>2</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>53</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4152454156392E314152</Bytes>
+			<ASCII> A R E A V 9 . 1 A R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

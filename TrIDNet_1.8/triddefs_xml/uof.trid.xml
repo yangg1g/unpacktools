@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Uniform Office Format</FileType>
+		<Ext>UOF</Ext>
+		<ExtraInfo>
+			<Rem>A Chinese developed open standard for 'office' applications.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Uniform_Office_Format</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>04</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>52</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>SCHEMAS.UOF.ORG</String>
+		<String>UOF-SPREADSHEET</String>
+		<String>SCHEMALOCATION</String>
+		<String>UOF-SLIDESHOW</String>
+		<String>UOF-WORDPROC</String>
+		<String>UOF_SCHEMA</String>
+		<String>WWW.W3.ORG</String>
+		<String>UOF XMLNS</String>
+		<String>ATTRLIST</String>
+		<String>LANGUAGE</String>
+		<String>UOF.XSD</String>
+		<String>VERSION</String>
+		<String>HTTP</String>
+		<String>TIME</String>
+	</GlobalStrings>
+</TrID>

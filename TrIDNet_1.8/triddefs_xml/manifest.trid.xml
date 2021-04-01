@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Manifest - Visual Stylesheet XML file</FileType>
+		<Ext>MANIFEST</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<Refine>9 by Marco Pontello - 1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>08</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>34</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D</Bytes>
+			<ASCII> . ? x m l   v e r s i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PROCESSORARCHITECTURE</String>
+		<String>SCHEMAS-MICROSOFT-COM</String>
+		<String>ASSEMBLYIDENTITY</String>
+		<String>MANIFESTVERSION</String>
+		<String>PUBLICKEYTOKEN</String>
+		<String>ASSEMBLY XMLNS</String>
+		<String>XML VERSION</String>
+		<String>STANDALONE</String>
+		<String>MICROSOFT.</String>
+		<String>ENCODING</String>
+		<String>ASM.V1</String>
+		<String>UTF-8</String>
+		<String>WIN32</String>
+		<String>TYPE</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

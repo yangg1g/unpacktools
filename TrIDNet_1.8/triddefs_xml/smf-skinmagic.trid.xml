@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SkinMagic Skin</FileType>
+		<Ext>SMF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.appspeed.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>0</Hour>
+			<Min>59</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>534B494E4D414749435F534B494E5F46494C45</Bytes>
+			<ASCII> S K I N M A G I C _ S K I N _ F I L E</ASCII>
+			<Pos>6</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>417070737065656420496E632E00</Bytes>
+			<ASCII> A p p s p e e d   I n c</ASCII>
+			<Pos>28</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SKINMAGIC_SKIN_FILE</String>
+		<String>APPSPEED INC.</String>
+		<String>PPLICATION</String>
+		<String>UPPORT</String>
+		<String>WWW.*</String>
+		<String>.BMP</String>
+		<String>.COM</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Pioneer OEL screensaver</FileType>
+		<Ext>LKD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.oel-downloads.co.uk/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>07</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>57</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7A4C4B44</Bytes>
+			<ASCII> z L K D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

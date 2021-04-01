@@ -1,0 +1,145 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Win32 Executable MS Visual FoxPro 8</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>03</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>06</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000F00000000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A240000000000000006431E20422270734222707342227073B801697344227073422271736F227073B806697341227073B8066D7343227073B806307343227073B8066C734E227073B806357343227073B8064D73432270735269636842227073000000000000000000000000000000000000000000000000504500004C01040047B4733F0000000000000000E0000F010B010700000C000000</Bytes>
+			<ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ! . . L . ! T h i s 	p r o g r a m 	c a n n o t 	b e 	r u n 	i n 	D O S 	m o d e . . . . $ . . . . . . . . C . 	B " p s B " p s B " p s . . i s D " p s B " q s o " p s . . i s A " p s . . m s C " p s . . 0 s C " p s . . l s N " p s . . 5 s C " p s . . M s C " p s R i c h B " p s . . . . . . . . . . . . . . . . . . . . . . . . P E . . L . . . G . s ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E7465787400</Bytes>
+			<ASCII> . t e x t</ASCII>
+			<Pos>488</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E726461746100</Bytes>
+			<ASCII> . r d a t a</ASCII>
+			<Pos>528</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E6461746100</Bytes>
+			<ASCII> . d a t a</ASCII>
+			<Pos>568</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E7273726300</Bytes>
+			<ASCII> . r s r c</ASCII>
+			<Pos>608</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>C'A'N'N'O'T' 'L'O'C'A'T'E' 'T'H'E' 'M'I'C'R'O'S'O'F'T' 'V'I'S'U'A'L' 'F'O'X'P'R'O' 'S'U'P'P'O'R'T' 'L'I'B'R'A'R'Y'.</String>
+		<String>T'H'E' '%'S' 'F'I'L'E' 'I'S' 'I'N'V'A'L'I'D' 'O'R' 'D'A'M'A'G'E'D'.')'C'A'N'N'O'T' 'R'U'N' 'T'H'E' 'F'I'L'E' '%'S'.</String>
+		<String>VISUALFOXPRORUNTIME.8'''DLLOLEINIT''DLLWINMAIN''UNREGSERVER'REGSERVER'''-T</String>
+		<String>THIS PROGRAM CANNOT BE RUN IN DOS MODE.</String>
+		<String>MICROSOFT.WINDOWS.COMMON-CONTROLS</String>
+		<String>E'R'R'O'R' 'C'O'D'E' '0'X'L'X'.</String>
+		<String>PS''''''''''''''''''''''''PE''L</String>
+		<String>_AMSG_EXIT''Q'__GETMAINARGS'B</String>
+		<String>__SET_APP_TYPE''N'__DLLONEXIT</String>
+		<String>GETSTARTUPINFOA'KERNEL32.DLL</String>
+		<String>REGOPENKEYA'ADVAPI32.DLL</String>
+		<String>MICROSOFT.VISUALFOXPRO</String>
+		<String>GETMODULEFILENAMEA''G</String>
+		<String>SCHEMAS-MICROSOFT-COM</String>
+		<String>PROCESSORARCHITECTURE</String>
+		<String>WSPRINTFA'USER32.DLL</String>
+		<String>GETCURRENTDIRECTORYA</String>
+		<String>_EXIT'O'_XCPTFILTER</String>
+		<String>_MBSCHR'MSVCR70.DLL</String>
+		<String>GETSYSTEMDIRECTORYA</String>
+		<String>V'F'P'8'R'.'D'L'L</String>
+		<String>V'F'P'8'T'.'D'L'L</String>
+		<String>DEPENDENTASSEMBLY</String>
+		<String>6595B64144CCF1DF</String>
+		<String>ASSEMBLYIDENTITY</String>
+		<String>__SETUSERMATHERR</String>
+		<String>GETMODULEHANDLEA</String>
+		<String>_EXCEPT_HANDLER3</String>
+		<String>LOADLIBRARYA''-</String>
+		<String>MANIFESTVERSION</String>
+		<String>V'F'P'8'.'E'X'E</String>
+		<String>PUBLICKEYTOKEN</String>
+		<String>REGQUERYVALUEA</String>
+		<String>GETPROCADDRESS</String>
+		<String>ASSEMBLY XMLNS</String>
+		<String>VISUAL FOXPRO</String>
+		<String>FREELIBRARY'E</String>
+		<String>SHELLEXECUTE</String>
+		<String>__P__COMMODE</String>
+		<String>_ADJUST_FDIV</String>
+		<String>MESSAGEBOXA</String>
+		<String>DESCRIPTION</String>
+		<String>LOADSTRINGA</String>
+		<String>SHELL32.DLL</String>
+		<String>XML VERSION</String>
+		<String>LSTRCPYA''.</String>
+		<String>REGCLOSEKEY</String>
+		<String>GDIPLUS'DLL</String>
+		<String>DEPENDENCY</String>
+		<String>_SPLITPATH</String>
+		<String>__P__FMODE</String>
+		<String>_CONTROLFP</String>
+		<String>STANDALONE</String>
+		<String>_MAKEPATH</String>
+		<String>_INITTERM</String>
+		<String>_MBSICMP</String>
+		<String>ENCODING</String>
+		<String>LANGUAGE</String>
+		<String>LSTRCATA</String>
+		<String>_MBSRCHR</String>
+		<String>ISSPACE</String>
+		<String>_ACCESS</String>
+		<String>_LLSEEK</String>
+		<String>_ACMDLN</String>
+		<String>_ONEXIT</String>
+		<String>_C_EXIT</String>
+		<String>_LCLOSE</String>
+		<String>COMMAND</String>
+		<String>6.0.0.0</String>
+		<String>1.0.0.0</String>
+		<String>_CEXIT</String>
+		<String>_LOPEN</String>
+		<String>_LREAD</String>
+		<String>.RDATA</String>
+		<String>ASM.V1</String>
+		<String>.RSRC</String>
+		<String>.TEXT</String>
+		<String>FIELD</String>
+		<String>WIN32</String>
+		<String>.DATA</String>
+		<String>CLASS</String>
+		<String>XPVSS</String>
+		<String>UTF-8</String>
+		<String>SVWH</String>
+		<String>8MZU</String>
+		<String>TEMP</String>
+		<String>AUTO</String>
+		<String>STAT</String>
+	</GlobalStrings>
+</TrID>

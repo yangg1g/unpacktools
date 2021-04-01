@@ -1,0 +1,97 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Kurzweil 3000 document</FileType>
+		<Ext>KES</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.kurzweiledu.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>30</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>1 ASCII TEXT FILE CONTAINS FILE</String>
+		<String>1 CPC TEXT BITMAP CONTAINS FILE</String>
+		<String>1 CPC TEXT BITMAP IMAGE NUMBER</String>
+		<String>1 CPC TEXT BITMAP FILE NUMBER</String>
+		<String>1 V7 THUMBNAIL CONTAINS INFO</String>
+		<String>1 TEXT BITMAP CONTAINS FILE</String>
+		<String>1 COLOR INFO CONTAINS INFO</String>
+		<String>1 OCR INFO 2 CONTAINS INFO</String>
+		<String>1 WAV SOUND CONTAINS FILE</String>
+		<String>1 OCR INFO CONTAINS INFO</String>
+		<String>1 RTF TEXT CONTAINS FILE</String>
+		<String>1 ASCII TEXT FILE COUNT</String>
+		<String>1 COLOR PICTURE 1 COUNT</String>
+		<String>1 CPC TEXT BITMAP COUNT</String>
+		<String>V'7' 'T'H'U'M'B'N'A'I'L</String>
+		<String>BOOKMARK 0 DESCRIPTION</String>
+		<String>KESI VALUE STREAM 1.0</String>
+		<String>SECTION 0 HASCHILDREN</String>
+		<String>T'E'X'T' 'B'I'T'M'A'P</String>
+		<String>1 V7 THUMBNAIL COUNT</String>
+		<String>1 TEXT BITMAP COUNT</String>
+		<String>BOOKMARK 0 PAGE NUM</String>
+		<String>BOOKMARK 0 POSITION</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>1 ASCII TEXT COUNT</String>
+		<String>1 COLOR INFO COUNT</String>
+		<String>1 OCR INFO 2 COUNT</String>
+		<String>KESI COMPOUND FILE</String>
+		<String>MAIN SECTION COUNT</String>
+		<String>1 WAV SOUND COUNT</String>
+		<String>D'A'T'A' 'L'E'A'F</String>
+		<String>F'I'L'E' 'D'A'T'A</String>
+		<String>HAS V7 THUMBNAILS</String>
+		<String>1 OCR INFO COUNT</String>
+		<String>1 RTF TEXT COUNT</String>
+		<String>1NUM HIGHLIGHTS</String>
+		<String>MAIN PAGE COUNT</String>
+		<String>O'C'R' 'I'N'F'O</String>
+		<String>SECTION 0 COUNT</String>
+		<String>SECTION 0 PAGES</String>
+		<String>1 MODIFIED OCR</String>
+		<String>SECTION 0 NAME</String>
+		<String>MAJOR VERSION</String>
+		<String>MINOR VERSION</String>
+		<String>1 COLOR JPEG</String>
+		<String>GRAPHICZONES</String>
+		<String>K3000VERSION</String>
+		<String>KESI COOKIE</String>
+		<String>P'A'G'E' '1</String>
+		<String>'PAGE 1</String>
+		<String>FILETAG</String>
+		<String>LOCKOUT</String>
+		<String>1 TAG</String>
+		<String>CHARS</String>
+		<String>FALSE</String>
+		<String>$3BR</String>
+		<String>FONT</String>
+		<String>INTE</String>
+		<String>JFIF</String>
+		<String>NOTE</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

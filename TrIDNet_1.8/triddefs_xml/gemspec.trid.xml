@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Ruby Gem::Specification</FileType>
+		<Ext>GEMSPEC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://docs.rubygems.org/read/chapter/20</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>9</Min>
+			<Sec>9</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23</Bytes>
+			<ASCII> #</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SPECIFICATION.NEW</String>
+		<String>.HOMEPAGE</String>
+		<String>.AUTHORS</String>
+		<String>.SUMMARY</String>
+		<String>.VERSION</String>
+		<String>.EMAIL</String>
+		<String>.FILES</String>
+		<String>.NAME</String>
+		<String>_FILE</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

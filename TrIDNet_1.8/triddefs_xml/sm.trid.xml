@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>StepMania step file</FileType>
+		<Ext>SM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.stepmania.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>5</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>235449544C453A</Bytes>
+			<ASCII> # T I T L E :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>---------------DANCE-SINGLE -</String>
+		<String>SUBTITLETRANSLIT</String>
+		<String>ARTISTTRANSLIT</String>
+		<String>SAMPLELENGTH</String>
+		<String>SAMPLESTART</String>
+		<String>BACKGROUND</String>
+		<String>LYRICSPATH</String>
+		<String>SELECTABLE</String>
+		<String>BGCHANGES</String>
+		<String>CDTITLE</String>
+		<String>BANNER</String>
+		<String>CREDIT</String>
+		<String>MEDIUM</String>
+		<String>OFFSET</String>
+		<String>MUSIC</String>
+		<String>NOTES</String>
+		<String>STOPS</String>
+		<String>BPMS</String>
+		<String>EASY</String>
+		<String>HARD</String>
+	</GlobalStrings>
+</TrID>

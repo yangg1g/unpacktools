@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DemoForge demo</FileType>
+		<Ext>DMF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.demoforge.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>05</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>47</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>545352</Bytes>
+			<ASCII> T S R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>425A6839314159265359</Bytes>
+			<ASCII> B Z h 9 1 A Y . S Y</ASCII>
+			<Pos>18</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

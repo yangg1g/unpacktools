@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Codebreaker save</FileType>
+		<Ext>CBS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cmgsccc.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>45</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>43465500401F0000</Bytes>
+			<ASCII> C F U . @</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

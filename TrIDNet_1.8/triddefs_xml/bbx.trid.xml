@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BrainBox neural net</FileType>
+		<Ext>BBX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://neil.fraser.name/software/brainbox/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>15</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>427261696E426F782076657273696F6E3A202020202020202020202020</Bytes>
+			<ASCII> B r a i n B o x   v e r s i o n :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>30</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

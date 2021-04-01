@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SMIRT file</FileType>
+		<Ext>SWM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.smirtware.com/products.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>08</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>16</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>424547494E20</Bytes>
+			<ASCII> B E G I N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BEGIN MFA COLOR</String>
+		<String>BEGIN MATERIAL</String>
+		<String>END MFA COLOR</String>
+		<String>END MATERIAL</String>
+		<String>DESCRIPTION</String>
+		<String>HEAT TREAT</String>
+		<String>PART_NAME</String>
+		<String>COMMENT</String>
+		<String>DETAIL</String>
+		<String>STRING</String>
+		<String>POINT</String>
+		<String>LOWER</String>
+		<String>UPPER</String>
+		<String>TYPE</String>
+		<String>HOLE</String>
+	</GlobalStrings>
+</TrID>

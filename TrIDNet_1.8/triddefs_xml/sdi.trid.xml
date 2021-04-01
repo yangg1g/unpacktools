@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>System Deployment Image</FileType>
+		<Ext>SDI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/System_Deployment_Image</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>3</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>55</Min>
+			<Sec>7</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2453444930303031</Bytes>
+			<ASCII> $ S D I 0 0 0 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

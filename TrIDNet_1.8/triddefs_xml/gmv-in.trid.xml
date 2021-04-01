@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GMV input file</FileType>
+		<Ext>GMV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www-xdiv.lanl.gov/XCM/gmv/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>09</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>676D76696E7075742061736369690A</Bytes>
+			<ASCII> g m v i n p u t   a s c i i</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GMVINPUT ASCII</String>
+		<String>VARIABLE</String>
+		<String>ENDVARS</String>
+		<String>ENDGMV</String>
+		<String>CELLS</String>
+		<String>NODES</String>
+	</GlobalStrings>
+</TrID>

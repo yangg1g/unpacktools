@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Driver: Parallel Lines savegame</FileType>
+		<Ext>DPLSAVE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Driver:_Parallel_Lines</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>32</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52474D48010000002820</Bytes>
+			<ASCII> R G M H . . . . (</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0100451387BBF7D11A4D8A9DEFA618FAA37C44007200690076006500720020003A00200050006100720061006C006C0065006C0020004C0069006E00650073</Bytes>
+			<ASCII> . . E . . . . . . M . . . . . . . | D . r . i . v . e . r .   . : .   . P . a . r . a . l . l . e . l .   . L . i . n . e . s</ASCII>
+			<Pos>22</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>P'A'R'A'L'L'E'L' 'L'I'N'E'S</String>
+		<String>CHARACTER_SWAPPREVWEAP</String>
+		<String>VEHICLE_TANK_FIRE</String>
+		<String>CHARACTER_SHOOT</String>
+		<String>RESTARTMISSION</String>
+		<String>VEHICLE_LOCKON</String>
+		<String>ACTION_STRING</String>
+		<String>VEHICLE_HORN</String>
+		<String>D'R'I'V'E'R</String>
+		<String>ACKFORWARD</String>
+		<String>DISPLAY_ID</String>
+		<String>OOTUP_OVER</String>
+		<String>K_UPDOWN</String>
+		<String>1'0'0</String>
+		<String>IDATU</String>
+		<String>IDATX</String>
+		<String>IHDR</String>
+		<String>RGMH</String>
+		<String>~SSS</String>
+	</GlobalStrings>
+</TrID>

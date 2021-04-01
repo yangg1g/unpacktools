@@ -1,0 +1,75 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PhotoMovieMaker / Smilebox slideshow</FileType>
+		<Ext>PMM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.smilebox.com/partner/preclick/pmm/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>01</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>13</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C736C69646573686F772076657273696F6E3D22</Bytes>
+			<ASCII> . s l i d e s h o w   v e r s i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TIMELINE TIMINGUNIT</String>
+		<String>SLIDESHOW VERSION</String>
+		<String>SCALEPHOTOSTOFIT</String>
+		<String>TRANSITION TYPE</String>
+		<String>ASSET LOCATION</String>
+		<String>ASSET ROTATION</String>
+		<String>CATEGORY NAME</String>
+		<String>SHOWCAPTIONS</String>
+		<String>TEMPLATENAME</String>
+		<String>ACTION TYPE</String>
+		<String>STYLE_FLASH</String>
+		<String>EVENT TRACK</String>
+		<String>FRAMESPEED</String>
+		<String>LAYOUTNAME</String>
+		<String>MUSICTIME</String>
+		<String>TITLEPAGE</String>
+		<String>SPEEDTYPE</String>
+		<String>MOVIETIME</String>
+		<String>PUBLISHER</String>
+		<String>SUBTITLE</String>
+		<String>FULLNAME</String>
+		<String>METADATA</String>
+		<String>DURATION</String>
+		<String>UNTITLED</String>
+		<String>ID TYPE</String>
+		<String>UNKNOWN</String>
+		<String>AUTHOR</String>
+		<String>ARTIST</String>
+		<String>UPDATE</String>
+		<String>IMAGE</String>
+		<String>ALBUM</String>
+		<String>EMAIL</String>
+		<String>VALUE</String>
+		<String>FILE</String>
+		<String>PLAY</String>
+		<String>LOOP</String>
+		<String>PATH</String>
+		<String>YEAR</String>
+	</GlobalStrings>
+</TrID>

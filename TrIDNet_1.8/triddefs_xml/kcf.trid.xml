@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sony Ericsson remote control configuration</FileType>
+		<Ext>KCF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>45</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.10b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SONY_ERICSSON_REMOTE_CONTROL_CONFIGURATION</String>
+		<String>KEYBOARD MODIFIERS</String>
+		<String>USAGEID</String>
+		<String>VERSION</String>
+		<String>ACTION</String>
+		<String>KEYMAP</String>
+		<String>_DOWN</String>
+		<String>KEY_</String>
+	</GlobalStrings>
+</TrID>

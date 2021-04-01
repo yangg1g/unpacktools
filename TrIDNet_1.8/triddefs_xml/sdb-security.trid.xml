@@ -1,0 +1,85 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Security Database</FileType>
+		<Ext>SDB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/technet/security/prodtech/windowsxp/secwinxp/xpsgch05.mspx</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>07</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>33</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFCDAB892006</Bytes>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.'S'E'R'V'I'C'E' 'G'E'N'E'R'A'L' 'S'E'T'T'I'N'G'%</String>
+		<String>A'C'C'O'U'N'T' 'P'R'O'F'I'L'E'S'%</String>
+		<String>P'R'I'V'I'L'E'G'E' 'R'I'G'H'T'S'%</String>
+		<String>G'R'O'U'P' 'M'E'M'B'E'R'S'H'I'P'%</String>
+		<String>K'E'R'B'E'R'O'S' 'P'O'L'I'C'Y'7</String>
+		<String>A'P'P'L'I'C'A'T'I'O'N' 'L'O'G</String>
+		<String>R'E'G'I'S'T'R'Y' 'V'A'L'U'E'S</String>
+		<String>S'Y'S'T'E'M' 'A'C'C'E'S'S'%</String>
+		<String>R'E'G'I'S'T'R'Y' 'K'E'Y'S'%</String>
+		<String>S'E'C'U'R'I'T'Y' 'L'O'G'%</String>
+		<String>F'I'L'E' 'S'E'C'U'R'I'T'Y</String>
+		<String>E'V'E'N'T' 'A'U'D'I'T</String>
+		<String>D'S' 'S'E'C'U'R'I'T'Y</String>
+		<String>S'Y'S'T'E'M' 'L'O'G</String>
+		<String>U'S'E'R' 'L'I'S'T'%</String>
+		<String>LASTUSEDMERGETABLE</String>
+		<String>PROFILEDESCRIPTION</String>
+		<String>CONDITIONALCOLUMNS</String>
+		<String>MSYSOBJECTSSHADOW</String>
+		<String>ANALYZETIMESTAMP</String>
+		<String>COLTYPORPGNOFDP</String>
+		<String>CONFIGTIMESTAMP</String>
+		<String>S'Y'S'T'E'M'3'2</String>
+		<String>PAGESORLOCALE</String>
+		<String>TEMPLATETABLE</String>
+		<String>RECORDOFFSET</String>
+		<String>SMTBLSECTION</String>
+		<String>DEFAULTVALUE</String>
+		<String>SMTBLVERSION</String>
+		<String>ROOTOBJECTS</String>
+		<String>DISPLAYNAME</String>
+		<String>LCMAPFLAGS</String>
+		<String>OBJIDTABLE</String>
+		<String>SPACEUSAGE</String>
+		<String>SECTIONKEY</String>
+		<String>KEYFLDIDS</String>
+		<String>VARSEGMAC</String>
+		<String>SMTBLSCP2</String>
+		<String>SECTIONID</String>
+		<String>S'E'T'U'P</String>
+		<String>SMTBLGPO</String>
+		<String>SMTBLSMP</String>
+		<String>ROOTFLAG</String>
+		<String>GPONAME</String>
+		<String>GPOID</String>
+		<String>STATS</String>
+		<String>SECID</String>
+		<String>W'I'N</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,6 @@
+AndroidKiller：解决编译源码卡死[2018.3 更新链接]
+https://www.52pojie.cn/thread-658341-1-1.html
+(出处: 吾爱破解论坛)
+
+
+替换AndroidKiller目录中的：rtl230.bpl

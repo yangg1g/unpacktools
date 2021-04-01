@@ -1,0 +1,88 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OpenDocument Flat XML Presentation</FileType>
+		<Ext>FODP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/OpenDocument</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>9</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>4</Hour>
+			<Min>12</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VND.OASIS.OPENDOCUMENT.PRESENTATION</String>
+		<String>PAGE-LAYOUT-PROPERTIES</String>
+		<String>TEXT-PROPERTIES STYLE</String>
+		<String>MASTER-PAGE STYLE</String>
+		<String>PAGE-LAYOUT STYLE</String>
+		<String>PRINT-ORIENTATION</String>
+		<String>XSL-FO-COMPATIBLE</String>
+		<String>AUTOMATIC-STYLES</String>
+		<String>MASTER-PAGE-NAME</String>
+		<String>PAGE-LAYOUT-NAME</String>
+		<String>DOCUMENT XMLNS</String>
+		<String>SVG-COMPATIBLE</String>
+		<String>MARGIN-BOTTOM</String>
+		<String>MASTER-STYLES</String>
+		<String>MARGIN-RIGHT</String>
+		<String>WRITING-MODE</String>
+		<String>APPLICATION</String>
+		<String>FONT-FAMILY</String>
+		<String>MARGIN-LEFT</String>
+		<String>PAGE-HEIGHT</String>
+		<String>STYLE STYLE</String>
+		<String>XML VERSION</String>
+		<String>MARGIN-TOP</String>
+		<String>PAGE-WIDTH</String>
+		<String>STYLE-NAME</String>
+		<String>WWW.W3.ORG</String>
+		<String>FONT-SIZE</String>
+		<String>PAGE DRAW</String>
+		<String>PARAGRAPH</String>
+		<String>ENCODING</String>
+		<String>MIMETYPE</String>
+		<String>PORTRAIT</String>
+		<String>STANDARD</String>
+		<String>TEXT-BOX</String>
+		<String>DEFAULT</String>
+		<String>DRAWING</String>
+		<String>-FONT-</String>
+		<String>BASE64</String>
+		<String>FORMAT</String>
+		<String>OFFICE</String>
+		<String>STRING</String>
+		<String>COLOR</String>
+		<String>FRAME</String>
+		<String>NAMES</String>
+		<String>UTF-8</String>
+		<String>XLINK</String>
+		<String>BODY</String>
+		<String>FOOT</String>
+		<String>HEAD</String>
+		<String>KERN</String>
+		<String>NOTE</String>
+	</GlobalStrings>
+</TrID>

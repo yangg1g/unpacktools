@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Gambas form (v3)</FileType>
+		<Ext>FORM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Gambas</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>5</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>24</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>232047616D62617320466F726D2046696C6520332E300A0A7B20</Bytes>
+			<ASCII> #   G a m b a s   F o r m   F i l e   3 . 0 . . {</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

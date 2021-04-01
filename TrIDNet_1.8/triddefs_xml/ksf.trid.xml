@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Korg Trinity/Triton sample</FileType>
+		<Ext>KSF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.fmjsoft.com/fmt/ksf.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>112</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>04</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>534D5031</Bytes>
+			<ASCII> S M P 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SMD1</String>
+	</GlobalStrings>
+</TrID>

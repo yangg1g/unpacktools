@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Generic CADD 6.x drawing</FileType>
+		<Ext>GCD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.genericcadd.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@mail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>56</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>03EA0400001447454E4552494320434144442056657220362E</Bytes>
+			<ASCII> . . . . . . G E N E R I C   C A D D   V e r   6</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

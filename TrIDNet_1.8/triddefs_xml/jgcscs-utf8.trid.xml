@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EditPad Pro Custom Syntax Coloring Scheme (UTF-8)</FileType>
+		<Ext>JGCSCS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.editpadpro.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>4</Month>
+			<Day>6</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>29</Min>
+			<Sec>3</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF4A4743534353</Bytes>
+			<ASCII> . . . J G C S C S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FALSE</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

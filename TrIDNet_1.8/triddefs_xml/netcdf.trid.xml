@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>NetCDF Network Common Data Form</FileType>
+		<Ext>NC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.unidata.ucar.edu/packages/netcdf/guide_toc.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>01</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>434446</Bytes>
+			<ASCII> C D F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

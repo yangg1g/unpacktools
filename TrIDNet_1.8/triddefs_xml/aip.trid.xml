@@ -1,0 +1,152 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Advanced Installer Project</FileType>
+		<Ext>AIP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.advancedinstaller.com/</RefURL>
+		</ExtraInfo>
+		<User>Paul Beesley</User>
+		<E-Mail>wordpress@nospam.paulbeesley.com</E-Mail>
+		<Home>http://www.paulbeesley.com</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>12</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>43</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D3822207374616E64616C6F6E653D22796573223F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 "   s t a n d a l o n e = " y e s " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CAPHYON.ADVINST.MSICOMP.MSIINSTALLUISEQUENCECOMPONENT</String>
+		<String>CAPHYON.ADVINST.MSICOMP.MSICONTROLEVENTCOMPONENT</String>
+		<String>CAPHYON.ADVINST.MSICOMP.MSIINSTEXSEQCOMPONENT</String>
+		<String>CAPHYON.ADVINST.MSICOMP.DICTIONARYCOMPONENT</String>
+		<String>CAPHYON.ADVINST.MSICOMP.MSICONTROLCOMPONENT</String>
+		<String>CAPHYON.ADVINST.MSICOMP.MSICUSTACTCOMPONENT</String>
+		<String>CAPHYON.ADVINST.MSICOMP.MSIUPGRADECOMPONENT</String>
+		<String>CAPHYON.ADVINST.MSICOMP.MSIBINARYCOMPONENT</String>
+		<String>CAPHYON.ADVINST.MSICOMP.FRAGMENTCOMPONENT</String>
+		<String>CAPHYON.ADVINST.MSICOMP.MSICOMPSCOMPONENT</String>
+		<String>CAPHYON.ADVINST.MSICOMP.MSIFEATSCOMPONENT</String>
+		<String>CAPHYON.ADVINST.MSICOMP.MSIFILESCOMPONENT</String>
+		<String>CAPHYON.ADVINST.MSICOMP.MSIPROPSCOMPONENT</String>
+		<String>CAPHYON.ADVINST.MSICOMP.MSIDIRSCOMPONENT</String>
+		<String>AI_NEWERPRODUCTFOUND AND (UILEVEL</String>
+		<String>CAPHYON.ADVINST.MSICOMP.MSIS</String>
+		<String>SET_TARGETDIR_TO_APPDIR</String>
+		<String>SECURECUSTOMPROPERTIES</String>
+		<String>MAINTENANCEWELCOMEDLG</String>
+		<String>AI_RESTORE_LOCATION</String>
+		<String>AND (NOT INSTALLED)</String>
+		<String>STATICUISTRINGS.AIP</String>
+		<String>ADVANCED INSTALLER</String>
+		<String>AI_PREPARE_UPGRADE</String>
+		<String>ARPINSTALLLOCATION</String>
+		<String>MAINTENANCETYPEDLG</String>
+		<String>PROGRAMFILESFOLDER</String>
+		<String>AI_STORE_LOCATION</String>
+		<String>PROGRAMMENUFOLDER</String>
+		<String>DIRECTORY_PARENT</String>
+		<String>FIXEDSIZEBITMAPS</String>
+		<String>INSTALLATIONTYPE</String>
+		<String>PATCHWELCOMEDLG</String>
+		<String>PRODUCTLANGUAGE</String>
+		<String>RESTORELOCATION</String>
+		<String>ROW UPGRADECODE</String>
+		<String>SET_SHORTCUTDIR</String>
+		<String>ATTRIBUTE NAME</String>
+		<String>CURRENTFEATURE</String>
+		<String>PREPAREUPGRADE</String>
+		<String>PRODUCTVERSION</String>
+		<String>VERIFYREADYDLG</String>
+		<String>COMPONENT CID</String>
+		<String>CREATEVERSION</String>
+		<String>DOCUMENT TYPE</String>
+		<String>FOLDERDLG.AIP</String>
+		<String>ROW COMPONENT</String>
+		<String>ROW DIRECTORY</String>
+		<String>AI_DOWNGRADE</String>
+		<String>BANNERBITMAP</String>
+		<String>DIALOGBITMAP</String>
+		<String>ISPSEUDOROOT</String>
+		<String>MANUFACTURER</String>
+		<String>ROW FRAGMENT</String>
+		<String>ROW PROPERTY</String>
+		<String>ARPCOMMENTS</String>
+		<String>COMPONENTID</String>
+		<String>DESCRIPTION</String>
+		<String>MAINFEATURE</String>
+		<String>OLDPRODUCTS</String>
+		<String>PRODUCTCODE</String>
+		<String>PRODUCTNAME</String>
+		<String>ROW DIALOG_</String>
+		<String>ROW FEATURE</String>
+		<String>XML VERSION</String>
+		<String>AI_INSTALL</String>
+		<String>AI_UPGRADE</String>
+		<String>ATTRIBUTES</String>
+		<String>COMPONENTS</String>
+		<String>COMPONENT_</String>
+		<String>DCOMPONENT</String>
+		<String>DEFAULTDIR</String>
+		<String>ROW ACTION</String>
+		<String>SET_APPDIR</String>
+		<String>SOURCEPATH</String>
+		<String>STANDALONE</String>
+		<String>VALUELOCID</String>
+		<String>VERSIONMAX</String>
+		<String>VERSIONMIN</String>
+		<String>CONDITION</String>
+		<String>NEWDIALOG</String>
+		<String>SOURCEDIR</String>
+		<String>UI_EN.AIL</String>
+		<String>AI_MAINT</String>
+		<String>AI_PATCH</String>
+		<String>ALLUSERS</String>
+		<String>ARGUMENT</String>
+		<String>CONTROL_</String>
+		<String>ENCODING</String>
+		<String>FILENAME</String>
+		<String>ORDERING</String>
+		<String>ROOTPATH</String>
+		<String>ROW FILE</String>
+		<String>ROW NAME</String>
+		<String>ROW PATH</String>
+		<String>DISPLAY</String>
+		<String>KEYPATH</String>
+		<String>MODULES</String>
+		<String>SELFREG</String>
+		<String>ATURE_</String>
+		<String>UI.AIL</String>
+		<String>UI.AIP</String>
+		<String>BUILD</String>
+		<String>CONTA</String>
+		<String>FALSE</String>
+		<String>ROW S</String>
+		<String>TITLE</String>
+		<String>UTF-8</String>
+		<String>.DLL</String>
+		<String>BACK</String>
+		<String>NEXT</String>
+		<String>QUOT</String>
+		<String>TRUE</String>
+		<String>_DIR</String>
+	</GlobalStrings>
+</TrID>

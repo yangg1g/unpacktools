@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>TI bitmap</FileType>
+        <Ext>92I</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>28</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>27</Day>
+        </Date>
+        <Time>
+            <Hour>11</Hour>
+            <Min>04</Min>
+            <Sec>14</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.02.6b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>2A2A544939322A2A</Bytes>
+            <ASCII> * * T I 9 2 * *</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Pocket Streets v8.0 (2004) Map</FileType>
+		<Ext>MPS</Ext>
+		<ExtraInfo>
+			<Rem>Files created by Microsoft Streets and Trips 2004 for use with PocketStreets for PocketPC</Rem>
+			<RefURL>http://www.microsoft.com/mappoint/pocketstreets/default.mspx</RefURL>
+		</ExtraInfo>
+		<User>ptweasel</User>
+		<E-Mail>ptweasel@hotmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Refine>7 by Marco Pontello</Refine>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>59</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000900B88A0800</Bytes>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00E4040000000000004D53205073747265657473202D2056382E</Bytes>
+			<ASCII> . . . . . . . . . M S	P s t r e e t s   -   V 8</ASCII>
+			<Pos>27</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

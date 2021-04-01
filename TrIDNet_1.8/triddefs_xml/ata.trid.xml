@@ -1,0 +1,129 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Antenna project</FileType>
+		<Ext>ATA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.stormdance.net/software/antenna/software%20overview.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>27</FileNum>
+		<Refine>7 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>12</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>517569636B204172636869766520A932303033204A756C69616E205370656E636572</Bytes>
+			<ASCII> Q u i c k   A r c h i v e   . 2 0 0 3   J u l i a n   S p e n c e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>%APPNAME% %APPVERSION%</String>
+		<String>OBJECT_00000000STYLE</String>
+		<String>OBJECT_0GLOBAL0STYLE</String>
+		<String>%APPNAME%=ANTENNA</String>
+		<String>FTP.YOURHOST.NET</String>
+		<String>LASTPUBLISH.TXT</String>
+		<String>NEEDSPUBLISHING</String>
+		<String>PAGE PROPERTIES</String>
+		<String>PAGE_HTMLID0001</String>
+		<String>LANGUAGEDEFAULT</String>
+		<String>JULIAN SPENCER</String>
+		<String>%LAYEROPACITY%</String>
+		<String>SELECTEDOBJECT</String>
+		<String>REMOVEDELETED</String>
+		<String>CUSTOMPALETTE</String>
+		<String>PICTURE FRAME</String>
+		<String>SELECTEDLAYER</String>
+		<String>QUICK ARCHIVE</String>
+		<String>IMAGE-TOOLBAR</String>
+		<String>LINKEDSCRIPT</String>
+		<String>BORDERCOLOUR</String>
+		<String>BCHANGESONLY</String>
+		<String>REMOTEFOLDER</String>
+		<String>CREATIONDATE</String>
+		<String>FX-DURATION</String>
+		<String>STYLEGLOBAL</String>
+		<String>BORDERWIDTH</String>
+		<String>FONT-COLOUR</String>
+		<String>DEFAULT.JPG</String>
+		<String>REMEMBERPWD</String>
+		<String>LASTUPDATED</String>
+		<String>BORDERSTYLE</String>
+		<String>FTPSETTINGS</String>
+		<String>TEXT-ALIGN</String>
+		<String>VARSGLOBAL</String>
+		<String>PATHSMEDIA</String>
+		<String>SUBHEADING</String>
+		<String>BACKCOLOUR</String>
+		<String>GRIDCOLOUR</String>
+		<String>%APPBUILD%</String>
+		<String>PATHSPAGES</String>
+		<String>HYPERLINK</String>
+		<String>FONT-SIZE</String>
+		<String>GENERATOR</String>
+		<String>BASESTYLE</String>
+		<String>LANGUAGES</String>
+		<String>PAGECOUNT</String>
+		<String>%CHARSET%</String>
+		<String>%UPDATED%</String>
+		<String>DATETIME</String>
+		<String>HTMLTAIL</String>
+		<String>STANDARD</String>
+		<String>HTMLHEAD</String>
+		<String>OVERFLOW</String>
+		<String>MODIFIED</String>
+		<String>USERNAME</String>
+		<String>UNTITLED</String>
+		<String>FX-TYPE</String>
+		<String>WEB.TXT</String>
+		<String>PADDING</String>
+		<String>WEBPAGE</String>
+		<String>VISIBLE</String>
+		<String>_OBJECT</String>
+		<String>MEDIAID</String>
+		<String>STRETCH</String>
+		<String>LAYER 0</String>
+		<String>PASSIVE</String>
+		<String>ACTIVE</String>
+		<String>CENTER</String>
+		<String>PLAIN-</String>
+		<String>CANVAS</String>
+		<String>NUMBER</String>
+		<String>HIDDEN</String>
+		<String>CREATE</String>
+		<String>RESIZE</String>
+		<String>HEIGHT</String>
+		<String>LAYER_</String>
+		<String>STYLES</String>
+		<String>_LAYER</String>
+		<String>-TEXT</String>
+		<String>UNDER</String>
+		<String>_PAGE</String>
+		<String>FALSE</String>
+		<String>BYTES</String>
+		<String>SOLID</String>
+		<String>PORT</String>
+		<String>END*</String>
+		<String>.HTM</String>
+		<String>WITH</String>
+		<String>AUTO</String>
+		<String>LEFT</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

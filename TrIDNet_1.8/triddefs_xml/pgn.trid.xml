@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Portable Gaming Notation</FileType>
+		<Ext>PGN</Ext>
+		<ExtraInfo>
+			<Rem>PGN is "Portable Game Notation", a standard designed for the representation of chess game data using ASCII text files.</Rem>
+			<RefURL>http://pgn.freeservers.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>06</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>37</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B4576656E742022</Bytes>
+			<ASCII> [ E v e n t   "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RESULT</String>
+		<String>ROUND</String>
+		<String>EVENT</String>
+		<String>WHITE</String>
+		<String>DATE</String>
+		<String>SITE</String>
+	</GlobalStrings>
+</TrID>

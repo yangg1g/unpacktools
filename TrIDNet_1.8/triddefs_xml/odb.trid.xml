@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OpenDocument DataBase</FileType>
+		<Ext>ODB</Ext>
+		<ExtraInfo>
+			<Rem>Standard, open, XML based, document file format for office-like documents. It's derived from the format used by OpenOffice.org's suite.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/OpenDocument</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>01</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>17</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D696D65747970656170706C69636174696F6E2F766E642E</Bytes>
+			<ASCII> m i m e t y p e a p p l i c a t i o n / v n d</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MIMETYPEAPPLICATION</String>
+		<String>MANIFEST.XMLPK</String>
+		<String>SETTINGS.XMLPK</String>
+		<String>CONTENT.XMLPK</String>
+		<String>MIMETYPEPK</String>
+		<String>META-INF</String>
+		<String>DATABASE</String>
+		<String>.BASEPK</String>
+		<String>VND.</String>
+	</GlobalStrings>
+</TrID>

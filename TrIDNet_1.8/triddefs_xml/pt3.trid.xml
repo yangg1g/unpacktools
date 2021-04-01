@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ProTracker 3.x compilation</FileType>
+		<Ext>PT3</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.protracker.de/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>08</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>55</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50726F547261636B657220332E</Bytes>
+			<ASCII> P r o T r a c k e r   3</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20636F6D70696C6174696F6E206F6620</Bytes>
+			<ASCII>   c o m p i l a t i o n   o f</ASCII>
+			<Pos>14</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20627920</Bytes>
+			<ASCII>   b y</ASCII>
+			<Pos>62</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

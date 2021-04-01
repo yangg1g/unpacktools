@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Hitachi Raster Format bitmap</FileType>
+        <Ext>HRF</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>15</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>26</Day>
+        </Date>
+        <Time>
+            <Hour>22</Hour>
+            <Min>18</Min>
+            <Sec>33</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.02.6b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>434144432F4B5220525354</Bytes>
+            <ASCII> C A D C / K R   R S T</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

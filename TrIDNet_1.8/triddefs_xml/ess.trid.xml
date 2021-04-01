@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>The Elder Scrolls IV: Oblivion savegame</FileType>
+		<Ext>ESS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>04</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>544553345341564547414D4500</Bytes>
+			<ASCII> T E S 4 S A V E G A M E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

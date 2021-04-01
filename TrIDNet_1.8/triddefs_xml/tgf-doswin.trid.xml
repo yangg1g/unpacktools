@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MDL Transportable Graphics Format (DOS/Win)</FileType>
+		<Ext>TGF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mdli.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>26</FileNum>
+		<Refine>6 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>37</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0D0A2456657273696F6E3A20</Bytes>
+			<ASCII> . . $ V e r s i o n :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>$FILL_RGB2COLOR</String>
+		<String>$PEN_RGB2COLOR</String>
+		<String>$ENDSKETCH</String>
+		<String>$RXNATCH</String>
+		<String>$VERSION</String>
+		<String>$TOTOBJS</String>
+		<String>_COORDS</String>
+		<String>$FONT</String>
+		<String>$OBJ</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>bzip2 compressed archive</FileType>
+		<Ext>BZ2/BZIP2</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://sources.redhat.com/bzip2/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Refine>5 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>38</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>425A68</Bytes>
+			<ASCII> B Z h</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>314159265359</Bytes>
+			<ASCII> 1 A Y . S Y</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

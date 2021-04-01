@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>World of Tanks battle recording</FileType>
+		<Ext>WOTREPLAY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://worldoftanks.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>41</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3234</Bytes>
+			<ASCII> 2 4</ASCII>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MAPDISPLAYNAME</String>
+		<String>PLAYERVEHICLE</String>
+		<String>ISTEAMKILLER</String>
+		<String>VEHICLETYPE</String>
+		<String>CLANABBREV</String>
+		<String>PLAYERNAME</String>
+		<String>DATETIME</String>
+		<String>GAMEPLAY</String>
+		<String>PLAYERID</String>
+		<String>VEHICLES</String>
+		<String>ISALIVE</String>
+		<String>MAPNAME</String>
+		<String>EVENTS</String>
+		<String>FALSE</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

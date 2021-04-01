@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LPMD Molecular Data</FileType>
+		<Ext>LPMD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.lpmd.cl/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>4</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>21</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4C504D4420322E30204C0A4844522053594D205820</Bytes>
+			<ASCII> L P M D   2 . 0   L . H D R   S Y M   X</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Propilkki data</FileType>
+		<Ext>DAT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.kalassa.net/propilkki2</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>47</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50726F2050696C6B6B69206461746166696C652076</Bytes>
+			<ASCII> P r o   P i l k k i   d a t a f i l e   v</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

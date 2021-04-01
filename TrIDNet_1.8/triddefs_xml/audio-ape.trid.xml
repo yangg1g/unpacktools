@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Monkey's Audio</FileType>
+		<Ext>APE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.monkeysaudio.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>51</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>04</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D414320</Bytes>
+			<ASCII> M A C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

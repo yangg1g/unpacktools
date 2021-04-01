@@ -1,0 +1,32 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DIGITAL Document Interchange Format</FileType>
+		<Ext>DDIF</Ext>
+		<ExtraInfo>
+			<Rem>An old file format for storing both documents and images.</Rem>
+			<RefURL>http://tinyurl.com/fd5tx</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>00</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFF7F80A0808001018101</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

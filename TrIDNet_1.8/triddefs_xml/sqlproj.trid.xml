@@ -1,0 +1,89 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Visual Studio SQL Server Project</FileType>
+		<Ext>SQLPROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>33</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D38223F3E0D0A3C50726F6A6563742044656661756C74546172676574733D224275696C642220786D6C6E733D22687474703A2F2F736368656D61732E6D6963726F736F66742E636F6D2F646576656C6F7065722F6D736275696C642F323030332220546F6F6C7356657273696F6E3D22342E30223E0D0A20203C</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 " ? . . . . P r o j e c t   D e f a u l t T a r g e t s = " B u i l d "   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / d e v e l o p e r / m s b u i l d / 2 0 0 3 "   T o o l s V e r s i o n = " 4 . 0 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MICROSOFT.DATA.TOOLS.SCHEMA.SQLTASKS.TARGETS</String>
+		<String>MICROSOFT.DATA.TOOLS.SCHEMA.SQL.SQL</String>
+		<String>VISUALSTUDIOVERSION CONDITION</String>
+		<String>$(MSBUILDPROJECTNAME).SQL</String>
+		<String>$(MSBUILDEXTENSIONSPATH)</String>
+		<String>CONFIGURATION CONDITION</String>
+		<String>PROPERTYGROUP CONDITION</String>
+		<String>V$(VISUALSTUDIOVERSION)</String>
+		<String>$(MSBUILDTOOLSVERSION)</String>
+		<String>DATABASESCHEMAPROVIDER</String>
+		<String>MICROSOFT.COMMON.PROPS</String>
+		<String>PROJECT DEFAULTTARGETS</String>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>SQLSERVERVERIFICATION</String>
+		<String>DEFAULTFILESTRUCTURE</String>
+		<String>PLATFORM CONDITION</String>
+		<String>APPDESIGNERFOLDER</String>
+		<String>$(CONFIGURATION)</String>
+		<String>WARNINGSASERRORS</String>
+		<String>BUILDSCRIPTNAME</String>
+		<String>FOLDER INCLUDE</String>
+		<String>IMPORT PROJECT</String>
+		<String>MODELCOLLATION</String>
+		<String>PROJECTVERSION</String>
+		<String>TARGETLANGUAGE</String>
+		<String>ROOTNAMESPACE</String>
+		<String>SCHEMAVERSION</String>
+		<String>$(PLATFORM)</String>
+		<String>PROJECTGUID</String>
+		<String>XML VERSION</String>
+		<String>OUTPUTPATH</String>
+		<String>OUTPUTTYPE</String>
+		<String>PROPERTIES</String>
+		<String>DEVELOPER</String>
+		<String>ITEMGROUP</String>
+		<String>ENCODING</String>
+		<String>ROOTPATH</String>
+		<String>EXISTS(</String>
+		<String>OPTIMIZ</String>
+		<String>RELEASE</String>
+		<String>ANYCPU</String>
+		<String>DEPLOY</String>
+		<String>DEBUG</String>
+		<String>ETRAC</String>
+		<String>FALSE</String>
+		<String>TREAT</String>
+		<String>UTF-8</String>
+		<String>XMLNS</String>
+		<String>FULL</String>
+		<String>HTTP</String>
+		<String>SSDT</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Lecturnity Player file</FileType>
+		<Ext>LPD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.im-c.de/lecturnity/</RefURL>
+		</ExtraInfo>
+		<User>Meigel</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>03</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>12</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>45504648</Bytes>
+			<ASCII> E P F H</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

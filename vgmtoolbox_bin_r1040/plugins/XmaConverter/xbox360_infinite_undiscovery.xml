@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XmaConverterSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <FormatName>[XBOX360] Infinite Undiscovery</FormatName>
+    <Author>Based on ripkit by bxaimc.</Author>
+  </Header>
+  <UseXmaParse>true</UseXmaParse>
+  <XmaParseParameters>
+    <XmaType>2</XmaType>
+    <RebuildXma>false</RebuildXma>
+    <IgnoreXmaParseErrors>true</IgnoreXmaParseErrors>
+    <UseStaticStartOffset>true</UseStaticStartOffset>
+    <UseDynamicStartOffset>false</UseDynamicStartOffset>
+    <SetStartOffsetAfterRiffHeader>false</SetStartOffsetAfterRiffHeader>
+    <StartOffsetStatic>0x1000</StartOffsetStatic>
+    <UseStaticBlockSize>true</UseStaticBlockSize>
+    <UseDynamicBlockSize>false</UseDynamicBlockSize>
+    <BlockSizeStatic>0x10000</BlockSizeStatic>
+    <UseStaticDataSize>true</UseStaticDataSize>
+    <UseDynamicDataSize>false</UseDynamicDataSize>
+    <GetDataSizeFromRiffHeader>false</GetDataSizeFromRiffHeader>
+    <DataSizeStatic />
+  </XmaParseParameters>
+  <AddRiffHeader>true</AddRiffHeader>
+  <RiffParameters>
+    <UseStaticFrequency>true</UseStaticFrequency>
+    <GetFrequencyFromRiffHeader>false</GetFrequencyFromRiffHeader>
+    <FrequencyStatic>48000</FrequencyStatic>
+    <UseStaticChannels>true</UseStaticChannels>
+    <GetChannelsFromRiffHeader>false</GetChannelsFromRiffHeader>
+    <ChannelStatic>stereo</ChannelStatic>
+  </RiffParameters>
+  <CreatePosFile>false</CreatePosFile>
+  <PosFileParameters>
+    <UseStaticStartOffset>false</UseStaticStartOffset>
+    <UseDynamicStartOffset>true</UseDynamicStartOffset>
+    <StartOffsetStatic />
+    <StartOffsetOffset />
+    <StartOffsetOffsetSize>4</StartOffsetOffsetSize>
+    <StartOffsetOffsetEndianess>little</StartOffsetOffsetEndianess>
+    <StartOffsetCalculation />
+    <UseStaticEndOffset>false</UseStaticEndOffset>
+    <UseDynamicEndOffset>true</UseDynamicEndOffset>
+    <EndOffsetStatic />
+    <EndOffsetOffset />
+    <EndOffsetOffsetSize>4</EndOffsetOffsetSize>
+    <EndOffsetOffsetEndianess>little</EndOffsetOffsetEndianess>
+    <EndOffsetCalculation />
+  </PosFileParameters>
+  <WavConversionParameters>
+    <UseXmaEncode>false</UseXmaEncode>
+    <UseToWav>true</UseToWav>
+  </WavConversionParameters>
+  <NotesOrWarnings>Frequency is not perfect, some tracks use the 47999 frequency.</NotesOrWarnings>
+</XmaConverterSettings>

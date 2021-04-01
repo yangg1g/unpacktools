@@ -1,0 +1,107 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Weather data summary report</FileType>
+		<Ext>STAT</Ext>
+		<ExtraInfo>
+			<Rem>Weather statistics data in STAT format.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>98</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>03</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>205374617469737469637320666F7220</Bytes>
+			<ASCII>   S t a t i s t i c s   f o r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>AVERAGE HOURLY STATISTICS FOR DRY BULB TEMPERATURES</String>
+		<String>MONTHLY STATISTICS FOR DEW POINT TEMPERATURES</String>
+		<String>MONTHLY STATISTICS FOR DRY BULB TEMPERATURES</String>
+		<String>MONTHLY STATISTICS FOR EXTREME TEMPERATURES</String>
+		<String>MONTHLY INDICATORS FOR PRECIPITATION</String>
+		<String>MONTHLY STATISTICS FOR WIND SPEED M</String>
+		<String>MONTHLY STATISTICS FOR WIND CHILL</String>
+		<String>EXTREME COLD WEEK PERIOD SELECTED</String>
+		<String>MAXIMUM DEW POINT TEMPERATURE OF</String>
+		<String>MINIMUM DEW POINT TEMPERATURE OF</String>
+		<String>EXTREME HOT WEEK PERIOD SELECTED</String>
+		<String>MAXIMUM DRY BULB TEMPERATURE OF</String>
+		<String>MINIMUM DRY BULB TEMPERATURE OF</String>
+		<String>STANDARD PRESSURE AT ELEVATION</String>
+		<String>TYPICAL WEEK PERIOD SELECTED</String>
+		<String>EXTREME PERIOD DETERMINATION</String>
+		<String>MONTHLY STATISTICS FOR SOLAR</String>
+		<String>ANNUAL HEATING DEGREE-DAYS</String>
+		<String>USING DESIGN CONDITIONS</String>
+		<String>HEAT INDEX TEMPERATURES</String>
+		<String>MONTHLY WIND DIRECTION</String>
+		<String>MAXIMUM WIND SPEED OF</String>
+		<String>MINIMUM WIND SPEED OF</String>
+		<String>LY RELATIVE HUMIDITY</String>
+		<String>PPEN CLASSIFICATION</String>
+		<String>GROUND TEMPERATURES</String>
+		<String>COOLING DEGREE DAYS</String>
+		<String>MONTHLY CALCULATED</String>
+		<String>GROUNDTEMPERATURES</String>
+		<String>HEATINDEX TEMPS</String>
+		<String>MONTHLY HEATING</String>
+		<String>MAXIMUM DIRECT</String>
+		<String>MOISTURE (KPA)</String>
+		<String>REPRESENTATIVE</String>
+		<String>MINIMUM TEMP</String>
+		<String>CLIMATE TYPE</String>
+		<String>MAXIMUM TEMP</String>
+		<String>AVERAGE TEMP</String>
+		<String>UNDISTURBED</String>
+		<String>WMO STATION</String>
+		<String>DESIGN STAT</String>
+		<String>DIFFUSE AVG</String>
+		<String>AVERAGE WC</String>
+		<String>AVG DEL WC</String>
+		<String>MINIMUM WC</String>
+		<String>AVERAGE HI</String>
+		<String>MAXIMUM HI</String>
+		<String>DIRECT MAX</String>
+		<String>AVG DEL HI</String>
+		<String>DIRECT AVG</String>
+		<String>SOUTHWEST</String>
+		<String>DAILY AVG</String>
+		<String>SOUTHEAST</String>
+		<String>DEVIATION</String>
+		<String>NORTHEAST</String>
+		<String>SEA LEVEL</String>
+		<String>MIN HOUR</String>
+		<String>CDD BASE</String>
+		<String>MAX HOUR</String>
+		<String>LOCATION</String>
+		<String>CDH BASE</String>
+		<String>BASELINE</String>
+		<String>HOURS WC</String>
+		<String>HDD BASE</String>
+		<String>SOLAR OF</String>
+		<String>HOURS HI</String>
+		<String>SURFACE</String>
+		<String>NORMAL</String>
+		<String>RECORD</String>
+		<String>UNITS</String>
+		<String>DEEP</String>
+	</GlobalStrings>
+</TrID>

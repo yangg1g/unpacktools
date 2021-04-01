@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Ocean Data View data (TXT)</FileType>
+		<Ext>ODV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://odv.awi.de/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>02</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>59</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>437275697365</Bytes>
+			<ASCII> C r u i s e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>53746174696F6E</Bytes>
+			<ASCII> S t a t i o n</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>STATION</String>
+		<String>CRUISE</String>
+		<String>DEPTH</String>
+		<String>TEMP</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

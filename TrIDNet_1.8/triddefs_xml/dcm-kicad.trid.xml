@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>KiCad Documentation</FileType>
+		<Ext>DCM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/KiCad</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>53</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4545536368656D612D444F434C4942202056657273696F6E20</Bytes>
+			<ASCII> E E S c h e m a - D O C L I B     V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>26</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>END DOC LIBRARY</String>
+	</GlobalStrings>
+</TrID>

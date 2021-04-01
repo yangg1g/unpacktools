@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>The Player 4.0b module</FileType>
+		<Ext>P40</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.amiga-stuff.com/modpackers-download.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>36</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50343042</Bytes>
+			<ASCII> P 4 0 B</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

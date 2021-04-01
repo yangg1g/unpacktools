@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MathRevolt Plot</FileType>
+		<Ext>MRP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mathrevolt.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>11</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>52</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D525047</Bytes>
+			<ASCII> M R P G</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>KTechlab circuit design</FileType>
+		<Ext>CIRCUIT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://sourceforge.net/projects/ktechlab/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>27</Min>
+			<Sec>2</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C21444F4354595045204B546563686C61623E0A3C646F63756D656E7420747970653D226369726375697422203E0A203C6974656D20</Bytes>
+			<ASCII> . ! D O C T Y P E   K T e c h l a b . . . d o c u m e n t   t y p e = " c i r c u i t "   . .   . i t e m</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONNECTOR START-NODE-IS-CHILD</String>
+		<String>END-NODE-IS-CHILD</String>
+		<String>START-NODE-PARENT</String>
+		<String>DOCTYPE KTECHLAB</String>
+		<String>END-NODE-PARENT</String>
+		<String>START-NODE-CID</String>
+		<String>DOCUMENT TYPE</String>
+		<String>START-NODE-ID</String>
+		<String>END-NODE-CID</String>
+		<String>MANUAL-ROUTE</String>
+		<String>CONNECTOR__</String>
+		<String>END-NODE-ID</String>
+		<String>DATA VALUE</String>
+		<String>CIRCUIT</String>
+		<String>NODE1__</String>
+		<String>ITEM X</String>
+		<String>NODE X</String>
+		<String>NUMBER</String>
+		<String>ANGLE</String>
+		<String>FLIP</String>
+	</GlobalStrings>
+</TrID>

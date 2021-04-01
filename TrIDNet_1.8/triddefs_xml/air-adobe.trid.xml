@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Adobe Integrated Runtime</FileType>
+		<Ext>AIR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Adobe_AIR</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Refine>1 by Stef</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>06</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>05</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D696D65747970656170706C69636174696F6E2F766E642E61646F62652E6169722D6170706C69636174696F6E2D696E7374616C6C65722D7061636B6167652B7A6970504B0304</Bytes>
+			<ASCII> m i m e t y p e a p p l i c a t i o n / v n d . a d o b e . a i r - a p p l i c a t i o n - i n s t a l l e r - p a c k a g e + z i p P K</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D4554412D494E462F4149522F6170706C69636174696F6E2E786D6C</Bytes>
+			<ASCII> M E T A - I N F / A I R / a p p l i c a t i o n . x m l</ASCII>
+			<Pos>127</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VND.ADOBE.AIR-APPLICATION-INSTALLER-PACKAGE+ZIPPK</String>
+		<String>MIMETYPEAPPLICATION</String>
+		<String>APPLICATION.XMLPK</String>
+		<String>SIGNATURES.XMLPK</String>
+		<String>A'''META-INF</String>
+		<String>MIMETYPEPK</String>
+		<String>HASHPK</String>
+	</GlobalStrings>
+</TrID>

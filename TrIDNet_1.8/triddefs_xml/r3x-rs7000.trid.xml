@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Yamaha RS7000 - Sample data</FileType>
+		<Ext>R3A/R3P</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.yamahasynth.com/products/rs7000/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>06</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>41303533322053414D504C45202020205665722030</Bytes>
+			<ASCII> A 0 5 3 2   S A M P L E         V e r   0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E303020202020202020FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF59534643</Bytes>
+			<ASCII> . 0 0               . . . . . . . . . . . . . . . . Y S F C</ASCII>
+			<Pos>22</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,87 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Vue D'Esprit 4 function definition</FileType>
+		<Ext>FNC</Ext>
+		<ExtraInfo>
+			<Rem>Vue functions can be used to model objects and terrains on a procedural basis, adding fractal/regular patterns.</Rem>
+			<RefURL>http://www.e-onsoftware.com</RefURL>
+		</ExtraInfo>
+		<User>Alex Paven</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>92</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>05</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>01</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFFFF5D000000020001000000FCFF35000000090029000000567565206427457370726974202D20A93230303120652D6F6E20736F6674776172652C20696E632E00FEFF0C000000020090010000FDFF10000000090004000000666E630000FF</Bytes>
+			<ASCII> . . . ] . . . . . . . . . . . 5 . . . . . ) . . . V u e   d ' E s p r i t   -   . 2 0 0 1   e - o n   s o f t w a r e ,   i n c . . . . . . . . . . . . . . . . . . . . . . . . . . f n c</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000050FF</Bytes>
+			<ASCII> . . P</ASCII>
+			<Pos>98</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000001FF</Bytes>
+			<Pos>104</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000900</Bytes>
+			<Pos>109</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>115</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>119</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>121</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>123</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>125</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>127</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>165</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>167</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>)'''VUE D</String>
+		<String>2001 E-ON SOFTWARE</String>
+		<String>D'''D'D</String>
+		<String>ESPRIT -</String>
+		<String>INC.</String>
+	</GlobalStrings>
+</TrID>

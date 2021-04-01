@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Trackerpacker 3 Music</FileType>
+		<Ext>TP3</Ext>
+		<ExtraInfo>
+			<Rem>Module packer created by Crazy Crack/MEXX.</Rem>
+			<RefURL>http://exotica.fix.no/tunes/unexotica/formats/Trackerpacker_3.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>16</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>43504C585F545033</Bytes>
+			<ASCII> C P L X _ T P 3</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VMware 4 Virtual Harddisk description file for split disk</FileType>
+		<Ext>VMDK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.vmware.com</RefURL>
+		</ExtraInfo>
+		<User>THE LoW</User>
+		<E-Mail>the(d ot)low(a t)gmx.net</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Refine>1 by Marco Pontello - 1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>56</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23204469736B2044657363726970746F7246696C65</Bytes>
+			<ASCII> #   D i s k   D e s c r i p t o r F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DDB.GEOMETRY.CYLINDERS</String>
+		<String>DDB.GEOMETRY.SECTORS</String>
+		<String>DISK DESCRIPTORFILE</String>
+		<String>DDB.GEOMETRY.HEADS</String>
+		<String>THE DISK DATA BASE</String>
+		<String>EXTENT DESCRIPTION</String>
+		<String>CREATETYPE</String>
+	</GlobalStrings>
+</TrID>

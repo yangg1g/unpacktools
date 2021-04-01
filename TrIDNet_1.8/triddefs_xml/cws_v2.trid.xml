@@ -1,0 +1,130 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Combustion v2 WorkSpace project</FileType>
+		<Ext>CWS</Ext>
+		<ExtraInfo>
+			<Rem>Cannot guarrantee the accuracy, as I had a limited number of samples, plus the program writes a lot of user- and computer-based info in the files (that info is the same for every file created on a certain computer, so...). Should definitely be refined by at least one more person.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Alex Paven</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>05</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>39</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0D0A09092F2F20636F6D62757374696F6E2062792064697363726565742E20576F726B73706163652046696C652E0D0A0D0A536372697074496E666F2032203020310D0A0D0A526F6F744D657472696373203634302034383020</Bytes>
+			<ASCII> . . . . / /   c o m b u s t i o n   b y   d i s c r e e t .   W o r k s p a c e   F i l e . . . . . S c r i p t I n f o   2   0   1 . . . . R o o t M e t r i c s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>203234203136203120</Bytes>
+			<ASCII>   2 4   1 6   1</ASCII>
+			<Pos>93</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A0D0A53657444656661756C74496E746572706F6C6174696F6E20360D0A0D0A0D0A52656E646572496E666F2E496E707574506174686E616D652022220D0A52656E646572496E666F2E4F7574707574506174686E616D652022220D0A52656E646572496E666F2E4F70656E474C53657474696E6773206F6666206F6E206F6E0D0A52656E646572496E666F2E53656E64456D61696C206F6666206F6E206F66660D0A52656E646572496E666F2E456D61696C546F2022220D0A52656E646572496E666F2E4E616D6520</Bytes>
+			<ASCII> . . . . S e t D e f a u l t I n t e r p o l a t i o n   6 . . . . . . R e n d e r I n f o . I n p u t P a t h n a m e   " " . . R e n d e r I n f o . O u t p u t P a t h n a m e   " " . . R e n d e r I n f o . O p e n G L S e t t i n g s   o f f   o n   o n . . R e n d e r I n f o . S e n d E m a i l   o f f   o n   o f f . . R e n d e r I n f o . E m a i l T o   " " . . R e n d e r I n f o . N a m e</ASCII>
+			<Pos>103</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>0 0 0 0 OFF OFF OFF OFF OFF OFF 1 0 0.5 0.5 0 0.5 0</String>
+		<String>000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</String>
+		<String>ADDNODES 0</String>
+		<String>AUDIOSETUP</String>
+		<String>CLEARGRAPH</String>
+		<String>COMBUSTION BY DISCREET. WORKSPACE FILE.</String>
+		<String>COMBUSTIONV2</String>
+		<String>COMPOSITE -</String>
+		<String>COMPOSITIONSETTINGSEXT</String>
+		<String>CURRENTFRAME</String>
+		<String>ENDOUTPUTINFO</String>
+		<String>ENDPARTICLESOPERATORDATA</String>
+		<String>FOOTAGE -</String>
+		<String>ISLAYEDOUT</String>
+		<String>OUTPUTINFO.AUDIO OFF ON</String>
+		<String>OUTPUTINFO.AUDIOFILENAME</String>
+		<String>OUTPUTINFO.AUDIOFORMAT</String>
+		<String>OUTPUTINFO.AUDIOOPTIONS</String>
+		<String>OUTPUTINFO.BIN OFF</String>
+		<String>OUTPUTINFO.BINNAME</String>
+		<String>OUTPUTINFO.CHANNELS</String>
+		<String>OUTPUTINFO.COMPLETIONOPTIONS</String>
+		<String>OUTPUTINFO.DESCRIPTION</String>
+		<String>OUTPUTINFO.FIELDS</String>
+		<String>OUTPUTINFO.FRAMESIZE</String>
+		<String>OUTPUTINFO.FTP</String>
+		<String>OUTPUTINFO.INFO</String>
+		<String>OUTPUTINFO.INSTANCEOPTIONS</String>
+		<String>OUTPUTINFO.JOBNAME</String>
+		<String>OUTPUTINFO.QUALITY</String>
+		<String>OUTPUTINFO.RANGE</String>
+		<String>OUTPUTINFO.RENDERTIME</String>
+		<String>OUTPUTINFO.SCENE</String>
+		<String>OUTPUTINFO.SEQUENCEOPTIONS</String>
+		<String>OUTPUTINFO.SOURCENAME</String>
+		<String>OUTPUTINFO.TAKE</String>
+		<String>OUTPUTINFO.VIDEO</String>
+		<String>OUTPUTINFO.VIDEOFILENAME</String>
+		<String>OUTPUTINFO.VIDEOFORMAT</String>
+		<String>PLAYRANGE</String>
+		<String>PROXYNOTSET</String>
+		<String>RENDERINFO.ACTIVE</String>
+		<String>RENDERINFO.DEPENDENTS</String>
+		<String>RENDERINFO.DESCRIPTION</String>
+		<String>RENDERINFO.EMAILTO</String>
+		<String>RENDERINFO.INPUTPATHNAME</String>
+		<String>RENDERINFO.NAME</String>
+		<String>RENDERINFO.NOTIFICATION</String>
+		<String>RENDERINFO.NOTIFONCOMPLETION</String>
+		<String>RENDERINFO.NOTIFONFAILURE</String>
+		<String>RENDERINFO.NOTIFONPROGRESS</String>
+		<String>RENDERINFO.OPENGLSETTINGS</String>
+		<String>RENDERINFO.OUTPUTPATHNAME</String>
+		<String>RENDERINFO.PRIORITY</String>
+		<String>RENDERINFO.SENDEMAIL</String>
+		<String>RENDERINFO.SERVERLIST</String>
+		<String>ROOTMETRICS</String>
+		<String>SCHEMATICRESET</String>
+		<String>SCRIPTINFO 2 0 1</String>
+		<String>SETCLIPFILEINFO 640 480 8</String>
+		<String>SETCLIPFILEINFO 720 486 8 1</String>
+		<String>SETCOMPOSITEINFO 24 1 OFF OFF</String>
+		<String>SETCURRENTCLIP 0</String>
+		<String>SETCURRENTCLIP 1</String>
+		<String>SETCURRENTOBJECT</String>
+		<String>SETCURRENTOPERATOR 1</String>
+		<String>SETCURRENTOUTPUTINFO 1</String>
+		<String>SETCURRENTPLUGIN 0X09674DAF 0X055D46B4</String>
+		<String>SETCURRENTPLUGIN 0X5DB00D94 0X5DB20AE8</String>
+		<String>SETCURRENTPLUGIN 0X781833FA 0X5D223A2F</String>
+		<String>SETCURRENTRENDERER 2124222343 1130908126</String>
+		<String>SETCURRENTVIEW 0</String>
+		<String>SETDEFAULTINTERPOLATION 6</String>
+		<String>SETNAME CAMERA</String>
+		<String>SETNAME LIGHT</String>
+		<String>SETOPERATORNAME</String>
+		<String>TNDATA 000000000000000</String>
+		<String>TNINFO</String>
+		<String>VIDEO FOR WINDOWS</String>
+		<String>VIEWLUT 0</String>
+		<String>VIEWOPERATOR</String>
+		<String>VIEWOPTIONS</String>
+		<String>VIEWSETTINGS</String>
+	</GlobalStrings>
+</TrID>

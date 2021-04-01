@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Audacity project</FileType>
+		<Ext>AUP</Ext>
+		<ExtraInfo>
+			<Rem>Audacity is a free audio editor.</Rem>
+			<RefURL>http://audacity.sourceforge.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>05</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>18</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SIMPLEBLOCKFILE FILENAME</String>
+		<String>SEQUENCE MAXSAMPLES</String>
+		<String>ENVELOPE NUMPOINTS</String>
+		<String>AUDACITYPROJECT</String>
+		<String>WAVEBLOCK START</String>
+		<String>AUDACITYVERSION</String>
+		<String>WAVETRACK NAME</String>
+		<String>SAMPLEFORMAT</String>
+		<String>XML VERSION</String>
+		<String>NUMSAMPLES</String>
+		<String>PROJNAME</String>
+		<String>CHANNEL</String>
+		<String>OFFSET</String>
+		<String>LINKED</String>
+		<String>ID3V2</String>
+		<String>_DATA</String>
+		<String>GAIN</String>
+		<String>VPOS</String>
+		<String>RATE</String>
+		<String>TAGS</String>
+		<String>ZOOM</String>
+		<String>SEL0</String>
+	</GlobalStrings>
+</TrID>

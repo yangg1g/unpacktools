@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>sPlan schematic</FileType>
+		<Ext>SPL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.abacom-online.de/uk/html/splan.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>11</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>06</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0753504C414E</Bytes>
+			<ASCII> . S P L A N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Valve Texture File</FileType>
+		<Ext>VTF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://developer.valvesoftware.com/wiki/Valve_Texture_Format</RefURL>
+		</ExtraInfo>
+		<User>Timse</User>
+		<E-Mail>timse93@gmail.com</E-Mail>
+		<Home>No page yet</Home>
+	</Info>
+	<General>
+		<FileNum>1032</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2009</Year>
+			<Month>10</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>39</Min>
+			<Sec>02</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5654460007000000</Bytes>
+			<ASCII> V T F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>9</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>13</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>25</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

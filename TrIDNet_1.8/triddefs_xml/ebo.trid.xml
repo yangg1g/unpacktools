@@ -1,0 +1,99 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Reader eBook annotations</FileType>
+		<Ext>EBO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/reader/info/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>275</FileNum>
+		<Refine>182 by Marco Pontello - 1 by Marco Pontello - 1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>08</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>06</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>49544F4C49544C53</Bytes>
+			<ASCII> I T O L I T L S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4946434D</Bytes>
+			<ASCII> I F C M</ASCII>
+			<Pos>440</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>414F4C4C</Bytes>
+			<ASCII> A O L L</ASCII>
+			<Pos>472</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2F000000112F45424F626A65637453746F726167652F0091E9D6DF97C7AC8160EF98A6B8F88083B9311B2F45424F626A65637453746F726167652F307830303030303030</Bytes>
+			<ASCII> / . . . . / E B O b j e c t S t o r a g e / . . . . . . . . . ` . . . . . . . . 1 . / E B O b j e c t S t o r a g e / 0 x 0 0 0 0 0 0 0</ASCII>
+			<Pos>521</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2F45424F626A65637453746F726167652F</Bytes>
+			<ASCII> / E B O b j e c t S t o r a g e /</ASCII>
+			<Pos>595</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>55006E0063006F006D00700072006500730073006500640000000C004D00530043006F006D0070007200650073007300650064000000C607900A7640D31187890000F81057540000000000000000070000</Bytes>
+			<ASCII> U . n . c . o . m . p . r . e . s . s . e . d . . . . . M . S . C . o . m . p . r . e . s . s . e . d . . . . . . . v @ . . . . . . . . W T</ASCII>
+			<Pos>1502</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4C5A5843</Bytes>
+			<ASCII> L Z X C</ASCII>
+			<Pos>1584</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4946434D</Bytes>
+			<ASCII> I F C M</ASCII>
+			<Pos>1612</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>414F4C4C</Bytes>
+			<ASCII> A O L L</ASCII>
+			<Pos>1644</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>{0A9007C6-4076-11D3-8789-0000F8105754}</String>
+		<String>U'N'C'O'M'P'R'E'S'S'E'D</String>
+		<String>M'S'C'O'M'P'R'E'S'S'E'D</String>
+		<String>EBOBJECTSTORAGE</String>
+		<String>EBOBJFILEHEADER</String>
+		<String>INSTANCEDATA</String>
+		<String>MSCOMPRESSED</String>
+		<String>CONTROLDATA</String>
+		<String>EBOBJINDEX</String>
+		<String>RESETTABLE</String>
+		<String>DATASPACE</String>
+		<String>TRANSFORM</String>
+		<String>0X0000000</String>
+		<String>ITOLITLS</String>
+		<String>SPANINFO</String>
+		<String>NAMELIST</String>
+		<String>CONTENT</String>
+		<String>AOLL</String>
+		<String>ITSF</String>
+		<String>LZXC</String>
+		<String>CAOL</String>
+		<String>IFCM</String>
+	</GlobalStrings>
+</TrID>

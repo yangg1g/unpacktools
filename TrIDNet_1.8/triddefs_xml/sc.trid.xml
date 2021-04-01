@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IRIS Showcase drawing / presentation</FileType>
+		<Ext>SC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://raven.jsums.edu/~visweb/library/SGI_bookshelves/SGI_EndUser/books/ShowcaseUG/sgi_html/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>01</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>36</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5343464D03</Bytes>
+			<ASCII> S C F M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7061747465726E</Bytes>
+			<ASCII> p a t t e r n</ASCII>
+			<Pos>20</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>(THIS FILE CREATED BY IRIS SHOWCASE</String>
+		<String>CURRENT ITEM NUMBER</String>
+		<String>CURRENT PAGE NUMBER</String>
+		<String>SLIDE SHOW SCRIPT</String>
+		<String>STARTING SCRIPT</String>
+		<String>VERSION STRING</String>
+		<String>$VERSION CODE</String>
+		<String>ENDING SCRIPT</String>
+	</GlobalStrings>
+</TrID>

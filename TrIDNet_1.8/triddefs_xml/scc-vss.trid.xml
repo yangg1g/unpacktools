@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Visual SourceSafe control file (var 2)</FileType>
+		<Ext>SCC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Sourcesafe</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>58</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B5343435D</Bytes>
+			<ASCII> [ S C C ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43</Bytes>
+			<ASCII> C</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>THIS IS AN EMPTY STRING FOR THE MSSCCPRJ.SCC FILE</String>
+		<String>THIS PROJECT IS NOT UNDER SOURCE CODE CONTROL</String>
+		<String>THIS IS A SOURCE CODE CONTROL FILE</String>
+		<String>SCC_PROJECT_NAME</String>
+		<String>SCC_AUX_PATH</String>
+		<String>.VBP</String>
+	</GlobalStrings>
+</TrID>

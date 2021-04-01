@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SubEthaEdit Mode</FileType>
+		<Ext>ZIP</Ext>
+		<ExtraInfo>
+			<Rem>SubEthaEdit is a powerful collaborative text editor for Mac OS X. Modes add support for additional programming languages.</Rem>
+			<RefURL>http://www.codingmonkeys.de/subethaedit/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>45</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>01</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>05</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SYNTAXDEFINITION.XMLUX</String>
+		<String>INFOPLIST.STRINGSUX</String>
+		<String>ENGLISH.LPROJ</String>
+		<String>INFO.PLISTUX</String>
+		<String>RESOURCES</String>
+		<String>CONTENTS</String>
+		<String>.MODE</String>
+	</GlobalStrings>
+</TrID>

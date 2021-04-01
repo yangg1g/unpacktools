@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>H-BEDV - AVIRA product key</FileType>
+		<Ext>KEY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.avira.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>49</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>482B424544562050726F6475637473204C6963656E7365204B65792046696C650000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001A</Bytes>
+			<ASCII> H + B E D V   P r o d u c t s   L i c e n s e   K e y   F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

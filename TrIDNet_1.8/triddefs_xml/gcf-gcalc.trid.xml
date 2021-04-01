@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Graphing Calculator</FileType>
+		<Ext>GCF</Ext>
+		<ExtraInfo>
+			<Rem>Graphing Calculator is a tool for quickly visualizing math.</Rem>
+			<RefURL>http://www.pacifict.com/Home.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>126</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>12</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>56</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4772617068696E6743616C63756C61746F7220</Bytes>
+			<ASCII> G r a p h i n g C a l c u l a t o r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>20</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

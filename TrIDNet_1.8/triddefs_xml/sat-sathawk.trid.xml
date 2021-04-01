@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SatHawk data file</FileType>
+		<Ext>SAT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sathawk.tv</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>22</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>020000000000000053617448</Bytes>
+			<ASCII> . . . . . . . . S a t H</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SATHAWK</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ClickyMouse macro set</FileType>
+		<Ext>4CM</Ext>
+		<ExtraInfo>
+			<Rem>ClickyMouse is a tool used to create mouse macros.</Rem>
+			<RefURL>http://www.pitrinec.com/clickymouse.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>02</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100000000000000000000000000000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>4'C'M</String>
+	</GlobalStrings>
+</TrID>

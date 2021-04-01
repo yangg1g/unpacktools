@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>3D Home Design Suite model</FileType>
+		<Ext>BLD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.envisioneerexpress.com//</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>40</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>23</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E007400720079</Bytes>
+			<ASCII> R . o . o . t .   . E . n . t . r . y</ASCII>
+			<Pos>1024</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D00610069006E00530074007200650061006D</Bytes>
+			<ASCII> M . a . i . n . S . t . r . e . a . m</ASCII>
+			<Pos>1152</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>3D HOME DESIGN SUITE</String>
+		<String>M'A'I'N'S'T'R'E'A'M</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>BRODERBUND</String>
+	</GlobalStrings>
+</TrID>

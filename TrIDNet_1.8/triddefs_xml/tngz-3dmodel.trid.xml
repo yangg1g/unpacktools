@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Immaginaria TNG 3D scene</FileType>
+		<Ext>TNGZ</Ext>
+		<ExtraInfo>
+			<Rem>A cross-platform Web (and standalone) 3D View format</Rem>
+			<RefURL>http://tng3d.com/index.php</RefURL>
+		</ExtraInfo>
+		<User>Kieran O'Donnell</User>
+		<E-Mail>FileMan at Consultant dot Com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>01</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>00</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>2</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>789C</Bytes>
+			<ASCII> x</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

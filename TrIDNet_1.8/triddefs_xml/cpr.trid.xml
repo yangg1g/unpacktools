@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Cubase Project</FileType>
+		<Ext>CPR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.steinberg.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>26</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>5</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>0</Hour>
+			<Min>9</Min>
+			<Sec>7</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52494646</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4E554E44524F4F54</Bytes>
+			<ASCII> N U N D R O O T</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

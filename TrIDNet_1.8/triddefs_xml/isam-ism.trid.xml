@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ISAM table handler data</FileType>
+		<Ext>ISM</Ext>
+		<ExtraInfo>
+			<Rem>Data of the ISAM (not MyISAM) table handler, which can be used with database management systems like MySQL.</Rem>
+			<RefURL>http://www.mysql.com/</RefURL>
+		</ExtraInfo>
+		<User>Vincent van der Tuin</User>
+		<E-Mail>ibytedonotspam@removethis(youknowwhat)nl</E-Mail>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>11</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>45</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FEFE0502</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

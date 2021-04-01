@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LZEXE compressed DOS executable</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>1 by Marco Pontello - 4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>05</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>15</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A</Bytes>
+			<ASCII> M Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000200</Bytes>
+			<Pos>6</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>80000000</Bytes>
+			<Pos>16</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>21</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>1C000000</Bytes>
+			<Pos>24</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

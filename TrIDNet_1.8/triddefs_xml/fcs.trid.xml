@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Foobar 2000 Columns UI settings</FileType>
+		<Ext>FCS</Ext>
+		<ExtraInfo>
+			<Rem>Foobar2000 is an advanced audio player for the Windows platform.</Rem>
+			<RefURL>http://members.lycos.co.uk/musicf/columns_manual.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>24</FileNum>
+		<Refine>10 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>41</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>A5E2D605D59DCA23BE5A74723C6F0C75</Bytes>
+			<ASCII> . . . . . . . # . Z t r . o . u</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>$IF($</String>
+		<String>$IF(%_</String>
+		<String>%)))</String>
+		<String>%ALBUM%</String>
+		<String>%_FILENAME</String>
+		<String>%_LENGTH%</String>
+		<String>%_TIME_ELAPSED%</String>
+		<String>%__BITRATE%</String>
+		<String>($MOD(</String>
+		<String>(%ARTIST%</String>
+		<String>(%TITLE%</String>
+		<String>(%TRACKNUMBER%</String>
+		<String>(%_PLAYLIST_NUMBER%</String>
+		<String>000000</String>
+		<String>ING%</String>
+		<String>KBPS</String>
+		<String>NAME%</String>
+		<String>_SECONDS%</String>
+	</GlobalStrings>
+</TrID>

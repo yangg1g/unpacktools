@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ParaView Legacy VTK Data</FileType>
+		<Ext>VTK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/VTK</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>27</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>20</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>232076746B204461746146696C652056657273696F6E20</Bytes>
+			<ASCII> #   v t k   D a t a F i l e   V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E30</Bytes>
+			<ASCII> . 0</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

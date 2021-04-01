@@ -1,0 +1,73 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>StarCraft 2 Map data</FileType>
+		<Ext>S2MA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>40</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>08</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>17</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D50511B</Bytes>
+			<ASCII> M P Q</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000048324353080000003253</Bytes>
+			<ASCII> . . H 2 C S . . . . 2 S</ASCII>
+			<Pos>14</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>626E65743A626C697A7A6D61707323626C697A7A6D6170732F4C6962657274792E5343324D6F642C66696C653A4D6F64732F4C6962657274792E5343324D6F6400626E65743A626C697A7A6D61707323626C697A7A6D6170732F4C6962657274794D756C74692E5343324D6F642C66696C653A4D6F64732F4C6962657274794D756C74692E5343324D6F64</Bytes>
+			<ASCII> b n e t : b l i z z m a p s # b l i z z m a p s / L i b e r t y . S C 2 M o d , f i l e : M o d s / L i b e r t y . S C 2 M o d . b n e t : b l i z z m a p s # b l i z z m a p s / L i b e r t y M u l t i . S C 2 M o d , f i l e : M o d s / L i b e r t y M u l t i . S C 2 M o d</ASCII>
+			<Pos>64</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>496E666F2F</Bytes>
+			<ASCII> I n f o /</ASCII>
+			<Pos>213</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MAP CAME FROM BUILD SERVER</String>
+		<String>BLIZZARD ENTERTAINMENT</String>
+		<String>MELEE INITIALIZATION</String>
+		<String>LIBERTY.SC2MOD'BNET</String>
+		<String>LIBERTYMULTI.SC2MOD</String>
+		<String>DESCSHORTSUNE</String>
+		<String>DESCLONGSUNE</String>
+		<String>AUTHORSUNE</String>
+		<String>KNI-NLILG</String>
+		<String>BLIZZMAPS</String>
+		<String>NAMESUNE</String>
+		<String>MAPINFO</String>
+		<String>DOCINFO</String>
+		<String>TRIGGER</String>
+		<String>NEUTRAL</String>
+		<String>PLAYER</String>
+		<String>KNI-.</String>
+		<String>MODS</String>
+		<String>FILE</String>
+		<String>H2CS</String>
+		<String>{PSW</String>
+	</GlobalStrings>
+</TrID>

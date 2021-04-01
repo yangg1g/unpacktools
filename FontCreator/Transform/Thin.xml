@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+ <TransformScript>
+  <OtherComments>
+   <Content>Thin
+This script just reduces the stroke weight slightly. Run it several times if you want to make your font lighter. You may need to increase the weight of serifs and change the Panose weight classification afterwards.</Content>
+  </OtherComments>
+  <EffectsThin>
+   <Horizontal>5</Horizontal>
+   <Vertical>0</Vertical>
+   <PreserveBearings>TRUE</PreserveBearings>
+  </EffectsThin>
+  <MetricsLeftSideBearing>
+  </MetricsLeftSideBearing>
+ </TransformScript>
+</DATA>

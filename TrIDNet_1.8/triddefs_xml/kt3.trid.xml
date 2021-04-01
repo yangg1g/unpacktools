@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Battery 3 Drum Kit</FileType>
+		<Ext>KT3</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.native-instruments.com/#/en/products/producer/battery-3/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>7</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>13</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1290A87F000000000001722A013E01000800020233746142</Bytes>
+			<ASCII> . . . . . . . . . . r * . . . . . . . . 3 t a B</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

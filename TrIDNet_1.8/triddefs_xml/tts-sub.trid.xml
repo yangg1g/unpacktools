@@ -1,0 +1,67 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Turbo Titler Subtitles</FileType>
+		<Ext>TTS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>2</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3A</Bytes>
+			<ASCII> :</ASCII>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A</Bytes>
+			<ASCII> :</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2C</Bytes>
+			<ASCII> ,</ASCII>
+			<Pos>10</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A</Bytes>
+			<ASCII> :</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A</Bytes>
+			<ASCII> :</ASCII>
+			<Pos>15</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>18</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2C4E545020</Bytes>
+			<ASCII> , N T P</ASCII>
+			<Pos>21</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

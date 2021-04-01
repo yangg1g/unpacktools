@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DC2N DMP format</FileType>
+		<Ext>DMP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.luigidifraia.com/c64/dc2n/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>12</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>14</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4443324E2D5441502D524157</Bytes>
+			<ASCII> D C 2 N - T A P - R A W</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

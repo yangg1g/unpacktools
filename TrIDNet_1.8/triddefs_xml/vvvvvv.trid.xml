@@ -1,0 +1,68 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VVVVVV map</FileType>
+		<Ext>VVVVVV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://distractionware.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>12</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>31</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E3022</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>EDLEVELCLASS TILESET</String>
+		<String>-- SAVE FILE --</String>
+		<String>MAPDATA VERSION</String>
+		<String>LEVELMETADATA</String>
+		<String>XML VERSION</String>
+		<String>EDENTITIES</String>
+		<String>EDENTITY X</String>
+		<String>ENEMYTYPE</String>
+		<String>MAPHEIGHT</String>
+		<String>MODIFIERS</String>
+		<String>CONTENTS</String>
+		<String>LEVMUSIC</String>
+		<String>MAPWIDTH</String>
+		<String>MODIFIED</String>
+		<String>CREATED</String>
+		<String>CREATOR</String>
+		<String>ENEMYX1</String>
+		<String>ENEMYY1</String>
+		<String>TILECOL</String>
+		<String>WARPDIR</String>
+		<String>WEBSITE</String>
+		<String>PLATX1</String>
+		<String>PLATY1</String>
+		<String>SCRIPT</String>
+		<String>DESC1</String>
+		<String>PLATV</String>
+		<String>REPLY</String>
+		<String>TITLE</String>
+		<String>APOS</String>
+		<String>NTER</String>
+		<String>SAY(</String>
+	</GlobalStrings>
+</TrID>

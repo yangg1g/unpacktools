@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Free Backup Fix backup</FileType>
+		<Ext>FBF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.fixpcproblems.com/freebackupfix.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>02</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>27</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53796D42616B55702020</Bytes>
+			<ASCII> S y m B a k U p</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>11</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

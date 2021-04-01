@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LuraWave JPEG-2000 bitmap</FileType>
+		<Ext>JP2</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>36</FileNum>
+		<Refine>15 by Marco Pontello</Refine>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>40</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0000000C6A5020200D0A</Bytes>
+			<ASCII> . . . . j P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>667479706A703220</Bytes>
+			<ASCII> f t y p j p 2</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6A703220</Bytes>
+			<ASCII> j p 2</ASCII>
+			<Pos>28</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

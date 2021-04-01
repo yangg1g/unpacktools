@@ -1,0 +1,70 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Deployment Manager configuration</FileType>
+		<Ext>DEPLOYPROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Embarcadero_Delphi</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>9</Month>
+			<Day>5</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>53</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CODEGEAR.DEPLOYMENT.TARGETS</String>
+		<String>LIBCGUNWIND.1.0.DYLIB</String>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>ITEMGROUP CONDITION</String>
+		<String>DEPLOYFILE INCLUDE</String>
+		<String>PROJECTFILEVERSION</String>
+		<String>PROJECTEXTENSIONS</String>
+		<String>IMPORT CONDITION</String>
+		<String>PROJECT XMLNS</String>
+		<String>REMOTECOMMAND</String>
+		<String>LOCALCOMMAND</String>
+		<String>$(PLATFORM)</String>
+		<String>INFO.PLIST</String>
+		<String>REMOTENAME</String>
+		<String>$(CONFIG)</String>
+		<String>DEVELOPER</String>
+		<String>OPERATION</String>
+		<String>REMOTEDIR</String>
+		<String>CONTENTS</String>
+		<String>REQUIRED</String>
+		<String>RESOURCE</String>
+		<String>EXISTS(</String>
+		<String>MSBUILD</String>
+		<String>$(BDS)</String>
+		<String>REDIST</String>
+		<String>DEBUG</String>
+		<String>MACOS</String>
+		<String>OSX32</String>
+		<String>WIN32</String>
+		<String>WIN64</String>
+		<String>.APP</String>
+		<String>.RSM</String>
+		<String>2003</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

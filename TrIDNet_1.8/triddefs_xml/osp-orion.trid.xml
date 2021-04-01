@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Orion Sampler sample</FileType>
+		<Ext>OSP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Orion_(music_software)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>7</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>10</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4F505247</Bytes>
+			<ASCII> O P R G</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4C595253</Bytes>
+			<ASCII> L Y R S</ASCII>
+			<Pos>20</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SDAT</String>
+		<String>SIFS</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Acrobat spelling dictionary</FileType>
+		<Ext>HYP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>12</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>39</Min>
+			<Sec>08</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4859</Bytes>
+			<ASCII> H Y</ASCII>
+			<Pos>2</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>13</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>17</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>24</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ABCDEFGHIJKLMNOP</String>
+	</GlobalStrings>
+</TrID>

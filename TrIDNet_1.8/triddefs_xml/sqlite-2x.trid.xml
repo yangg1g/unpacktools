@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SQLite 2.x database</FileType>
+		<Ext>SQLITE</Ext>
+		<ExtraInfo>
+			<Rem>SQLite is a small C library that implements a self-contained, embeddable, zero-configuration SQL database engine.</Rem>
+			<RefURL>http://www.sqlite.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>07</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>08</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2A2A20546869732066696C6520636F6E7461696E7320616E2053514C69746520322E</Bytes>
+			<ASCII> * * 	T h i s 	f i l e 	c o n t a i n s 	a n 	S Q L i t e 	2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>206461746162617365202A2A00</Bytes>
+			<ASCII> 	d a t a b a s e 	* * .</ASCII>
+			<Pos>35</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

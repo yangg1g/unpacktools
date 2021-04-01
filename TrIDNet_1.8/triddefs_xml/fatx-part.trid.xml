@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FATX partition image</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://free60.org/FATX</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>2</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>14</Min>
+			<Sec>8</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>58544146</Bytes>
+			<ASCII> X T A F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

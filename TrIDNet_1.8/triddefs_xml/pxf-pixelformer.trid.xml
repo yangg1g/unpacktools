@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Pixelformer project</FileType>
+		<Ext>PXF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.qualibyte.com/pixelformer/</RefURL>
+		</ExtraInfo>
+		<User>aeiou256</User>
+		<E-Mail>aeiou256@hotmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>12</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>55</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50465031</Bytes>
+			<ASCII> P F P 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>10000000000000000101060900010000004352454114000000008A13506978656C666F726D657220</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . C R E A . . . . . . . P i x e l f o r m e r</ASCII>
+			<Pos>10</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>494D4147</Bytes>
+			<ASCII> I M A G</ASCII>
+			<Pos>76</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PIXELFORMER</String>
+		<String>CREA</String>
+		<String>LAYR</String>
+		<String>BMAP</String>
+		<String>IMAG</String>
+		<String>PFP1</String>
+		<String>DATA</String>
+	</GlobalStrings>
+</TrID>

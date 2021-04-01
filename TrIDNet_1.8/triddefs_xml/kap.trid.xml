@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MapInfo Sea Chart</FileType>
+		<Ext>KAP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mapinfo.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>47</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>21</Bytes>
+			<ASCII> !</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NOT_APPLICABLE</String>
+		<String>0000000000</String>
+		<String>0.000000</String>
+		<String>UNKNOWN</String>
+		<String>VER</String>
+		<String>RGB</String>
+		<String>IFM</String>
+	</GlobalStrings>
+</TrID>

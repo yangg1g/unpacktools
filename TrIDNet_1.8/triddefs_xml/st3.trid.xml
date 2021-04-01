@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Star 3 MIDI Karaoke file</FileType>
+		<Ext>ST3</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://wiki.multimedia.cx/index.php?title=Star_3</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>30</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5354415220444154412056332E</Bytes>
+			<ASCII> S T A R   D A T A   V 3</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>1A</Bytes>
+			<Pos>15</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

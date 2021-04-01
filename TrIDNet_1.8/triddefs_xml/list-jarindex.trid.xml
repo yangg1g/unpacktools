@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>JAR Index</FileType>
+		<Ext>LIST</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/JAR_(file_format)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>10</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>49</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4A6172496E6465782D56657273696F6E3A20312E30</Bytes>
+			<ASCII> J a r I n d e x - V e r s i o n :   1 . 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>JARINDEX-VERSION</String>
+		<String>.JAR</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Image Maker Annotation</FileType>
+		<Ext>TMP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>12</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>51</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>496D616765204D616B657220416E6E6F746174696F6E2046696C6520</Bytes>
+			<ASCII> I m a g e   M a k e r   A n n o t a t i o n   F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>29</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>1A</Bytes>
+			<Pos>31</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

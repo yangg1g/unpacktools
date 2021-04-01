@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Visual LISP Application</FileType>
+		<Ext>VLX</Ext>
+		<ExtraInfo>
+			<Rem>VLX files are compiled AutoLISP files that were created with Visual LISP.</Rem>
+			<RefURL>http://www.autodesk.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>43</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5652544C49422D</Bytes>
+			<ASCII> V R T L I B -</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4C4F41442828</Bytes>
+			<ASCII> L O A D ( (</ASCII>
+			<Pos>19</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

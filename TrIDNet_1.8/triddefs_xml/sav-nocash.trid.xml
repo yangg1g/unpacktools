@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>no$gba Nintendo Gameboy Advance emulator backup</FileType>
+		<Ext>SAV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://nocash.emubase.de/gba.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>04</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4E6F636173684762614261636B75704D656469615361764461746146696C651A</Bytes>
+			<ASCII> N o c a s h G b a B a c k u p M e d i a S a v D a t a F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FIGfont</FileType>
+		<Ext>FLF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.jave.de/figlet/fonts.html</RefURL>
+		</ExtraInfo>
+		<User>.Cryorb</User>
+		<E-Mail>vy@nospam@tut.by</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>28</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<Date>
+			<Year>2006</Year>
+			<Month>05</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>15</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>666C6632</Bytes>
+			<ASCII> f l f 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

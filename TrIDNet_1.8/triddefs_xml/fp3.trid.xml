@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FloorPlan Plus/3D Drawing</FileType>
+		<Ext>FP3</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.imsidesign.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>04</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>06</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>466C6F6F72506C616E20506C75732F33442044726177696E672046696C65</Bytes>
+			<ASCII> F l o o r P l a n   P l u s / 3 D   D r a w i n g   F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

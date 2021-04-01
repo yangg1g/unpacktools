@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Darwin Pond File</FileType>
+        <Ext>DWP</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.ventrella.com/</RefURL>
+        </ExtraInfo>
+        <User>.Cryorb</User>
+        <E-Mail>vy@nospam@tut.by</E-Mail>
+        <Home></Home>
+    </Info>
+    <General>
+        <FileNum>9</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>09</Month>
+            <Day>29</Day>
+        </Date>
+        <Time>
+            <Hour>17</Hour>
+            <Min>39</Min>
+            <Sec>19</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>2E44575003100000000000000000</Bytes>
+            <ASCII> . D W P</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

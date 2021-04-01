@@ -1,0 +1,67 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Kingsoft WPS Office 2002 document</FileType>
+		<Ext>WPS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.kingsoft.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>24</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E007400720079</Bytes>
+			<ASCII> R . o . o . t .   . E . n . t . r . y</ASCII>
+			<Pos>1024</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FOOTNOTEPREFIXANDSUFFIX8</String>
+		<String>FOR WINDOWS KINGSOFT</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>CMFRAME_BUFFSIZE</String>
+		<String>TOP_TOC_BUFFSIZE</String>
+		<String>K'I'N'G'S'O'F'T</String>
+		<String>TEXTRENDERRULE</String>
+		<String>TOP_TOC_BUFFER</String>
+		<String>APPENDEDDATA</String>
+		<String>CSTYLE_TEXT</String>
+		<String>W'P'S'D'O'C</String>
+		<String>COMMENTNUM</String>
+		<String>COMMENTMAN</String>
+		<String>CFRAMETEXT</String>
+		<String>KCDEFPROPY</String>
+		<String>STYLESHEET</String>
+		<String>CURUSERID</String>
+		<String>X'F'I'L'E</String>
+		<String>FNPREFIX</String>
+		<String>PAGEINFO</String>
+		<String>BOOKMARK</String>
+		<String>ENPREFIX</String>
+		<String>ENSUFFIX</String>
+		<String>FNSUFFIX</String>
+		<String>DOCINFO</String>
+		<String>WPS2002</String>
+		<String>WPSTEXT</String>
+	</GlobalStrings>
+</TrID>

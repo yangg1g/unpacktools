@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Snes9x snapshot</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem>Snes9x is a portable, freeware Super Nintendo Entertainment System (SNES) emulator.</Rem>
+			<RefURL>http://www.snes9x.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>5</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2321736E65733978</Bytes>
+			<ASCII> # ! s n e s 9 x</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

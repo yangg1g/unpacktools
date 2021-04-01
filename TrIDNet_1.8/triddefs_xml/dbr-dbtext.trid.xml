@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DB/TextWorks Database</FileType>
+		<Ext>DBR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.inmagic.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>52</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4442522030303120</Bytes>
+			<ASCII> D B R   0 0 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

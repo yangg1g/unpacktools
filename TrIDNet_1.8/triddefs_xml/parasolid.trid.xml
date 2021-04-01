@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Parasolid model</FileType>
+		<Ext>X_B/X_T</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>25</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2A2A4142434445464748494A4B4C4D4E4F505152535455565758595A6162636465666768696A6B6C6D6E6F707172737475767778797A2A</Bytes>
+			<ASCII> * * A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z *</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TRANSMIT FILE CREATED BY MODELLER VERSION</String>
+		<String>**END_OF_HEADER**</String>
+		<String>**PARASOLID</String>
+		<String>OS_RELEASE</String>
+		<String>USFLD_SIZE</String>
+		<String>MC_MODEL</String>
+		<String>**PART</String>
+		<String>FORMAT</String>
+		<String>GUISE</String>
+		<String>MC_ID</String>
+		<String>APPL</String>
+		<String>DATE</String>
+		<String>SCH_</String>
+		<String>SITE</String>
+		<String>USER</String>
+	</GlobalStrings>
+</TrID>

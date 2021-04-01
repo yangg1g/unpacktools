@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Crescendo Music Notation score</FileType>
+		<Ext>CDO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.nch.com.au/notation/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>3</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>58</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6C736466010005000000010000000000</Bytes>
+			<ASCII> l s d f</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000001000002F</Bytes>
+			<ASCII> . . . . . . . . . . /</ASCII>
+			<Pos>18</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

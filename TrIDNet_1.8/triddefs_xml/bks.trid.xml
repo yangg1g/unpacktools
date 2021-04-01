@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IBM Softcopy Reader (Bookmanager) book file</FileType>
+		<Ext>BKS</Ext>
+		<ExtraInfo>
+			<Rem>The IBM Softcopy Reader is an online documentation reader and organizer made up of two programs, the Book Reader and the Bookshelf Organizer.</Rem>
+			<RefURL>http://www.ibm.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>05</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>424B5348454C463D</Bytes>
+			<ASCII> B K S H E L F =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BKSDATETIME</String>
+		<String>BKIDATETIME</String>
+		<String>BKDATETIME</String>
+		<String>BKSINDEX</String>
+		<String>BKIBOOKS</String>
+		<String>BKSLEXIS</String>
+		<String>BKSTITLE</String>
+		<String>BKSHELF</String>
+		<String>BKNAME</String>
+		<String>BKFLAG</String>
+	</GlobalStrings>
+</TrID>

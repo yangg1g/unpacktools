@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Flash XML Graphics</FileType>
+		<Ext>FXG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>7</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>52</Min>
+			<Sec>7</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D3822</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NS.ADOBE.COM</String>
+		<String>XML VERSION</String>
+		<String>ENCODING</String>
+		<String>GRAPHIC</String>
+		<String>HEIGHT</String>
+		<String>UTF-8</String>
+		<String>WIDTH</String>
+		<String>XMLNS</String>
+		<String>2008</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

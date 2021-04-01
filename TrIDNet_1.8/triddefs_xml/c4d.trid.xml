@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CINEMA 4D model (generic)</FileType>
+		<Ext>C4D</Ext>
+		<ExtraInfo>
+			<Rem>CINEMA 4D is an application for creating high-end 3D pictures and animations.</Rem>
+			<RefURL>http://www.maxon.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>21</FileNum>
+		<Refine>7 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>3</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>48</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>43344443344436</Bytes>
+			<ASCII> C 4 D C 4 D 6</ASCII>
+			<Pos>1</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

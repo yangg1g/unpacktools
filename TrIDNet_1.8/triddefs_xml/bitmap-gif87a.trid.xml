@@ -1,0 +1,39 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>GIF87a Bitmap</FileType>
+        <Ext>GIF</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.onicos.com/staff/iz/formats/gif.html</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home></Home>
+    </Info>
+    <General>
+        <FileNum>24</FileNum>
+        <Refine>1 by Marco Pontello</Refine>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>17</Day>
+        </Date>
+        <Time>
+            <Hour>02</Hour>
+            <Min>53</Min>
+            <Sec>17</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>474946383761</Bytes>
+            <ASCII> G I F 8 7 a</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00</Bytes>
+            <Pos>12</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

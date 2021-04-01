@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Jasc PSP Browser Cache</FileType>
+		<Ext>JBF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.jasc.com/</RefURL>
+		</ExtraInfo>
+		<User>Dr.Ryo(TM)</User>
+		<E-Mail>dr.ryo@superfigo.com!</E-Mail>
+		<Home>http://www.superfigo.com</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>50</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4A4153432042524F57532046494C4500</Bytes>
+			<ASCII> J A S C   B R O W S   F I L E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>JB BAHN layout</FileType>
+		<Ext>NT3</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.jbss.de/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>24</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>5</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4A42</Bytes>
+			<ASCII> J B</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BAHN</String>
+		<String>NETZ</String>
+	</GlobalStrings>
+</TrID>

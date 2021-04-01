@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>REDway DER (Dynamic Elements Resource)</FileType>
+		<Ext>RED</Ext>
+		<ExtraInfo>
+			<Rem>A multi platform hybrid 3D model and ray-trace/rendering file format</Rem>
+			<RefURL>http://www.redway3d.com/pages/redsdk.php</RefURL>
+		</ExtraInfo>
+		<User>Kieran O'Donnell</User>
+		<E-Mail>FileMan at consultant dot com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>01</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>52</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>01000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000004445520000</Bytes>
+			<ASCII> . . . . . . . D E R</ASCII>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>19</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>656473646B00</Bytes>
+			<ASCII> e d s d k</ASCII>
+			<Pos>21</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>REDSDK</String>
+	</GlobalStrings>
+</TrID>

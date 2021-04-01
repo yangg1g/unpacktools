@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DASH Media Presentation Description</FileType>
+		<Ext>MPD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>11</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>31</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MEDIAPRESENTATIONDURATION</String>
+		<String>REPRESENTATION ID</String>
+		<String>INITIALIZATION</String>
+		<String>ADAPTATIONSET</String>
+		<String>MINBUFFERTIME</String>
+		<String>STARTWITHSAP</String>
+		<String>BANDWIDTH</String>
+		<String>MIMETYPE</String>
+		<String>PROFILES</String>
+		<String>SEGMENT</String>
+		<String>CODECS</String>
+		<String>HEIGHT</String>
+		<String>PERIOD</String>
+		<String>SCHEMA</String>
+		<String>STATIC</String>
+		<String>VIDEO</String>
+		<String>XMLNS</String>
+		<String>DASH</String>
+		<String>EURL</String>
+		<String>HTTP</String>
+		<String>MPEG</String>
+	</GlobalStrings>
+</TrID>

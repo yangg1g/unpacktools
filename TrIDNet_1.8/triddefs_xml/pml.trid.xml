@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Process Monitor Log (native format)</FileType>
+		<Ext>PML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://technet.microsoft.com/en-us/sysinternals</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>1</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>0</Hour>
+			<Min>23</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.73b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504D4C5F</Bytes>
+			<ASCII> P M L _</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>M'I'C'R'O'S'O'F'T</String>
+		<String>W'I'N'D'O'W'S</String>
+		<String>D'R'I'V'E'R</String>
+		<String>.'D'L'L</String>
+	</GlobalStrings>
+</TrID>

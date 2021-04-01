@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Outlook Send-Receive Settings</FileType>
+		<Ext>SRS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>06</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>27</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E007400720079</Bytes>
+			<ASCII> R . o . o . t .   . E . n . t . r . y</ASCII>
+			<Pos>1024</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5F005F0043006F006C006C004400610074006100530074006D</Bytes>
+			<ASCII> _ . _ . C . o . l . l . D . a . t . a . S . t . m</ASCII>
+			<Pos>1152</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>47005500490044007C007B00380033003000300042004300340030002D0037003100370030002D0034003300320038002D0041003600330044007E0031</Bytes>
+			<ASCII> G . U . I . D . | . { . 8 . 3 . 0 . 0 . B . C . 4 . 0 . - . 7 . 1 . 7 . 0 . - . 4 . 3 . 2 . 8 . - . A . 6 . 3 . D . ~ . 1</ASCII>
+			<Pos>1280</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>{'8'3'0'0'B'C'4'0'-'7'1'7'0'-'4'3'2'8'-'A'6'3'D'-'8'C'D'7'7'F'8'C'D'B'2'2'}''' '''G'U'I'D</String>
+		<String>{'8'3'0'0'B'C'4'0'-'7'1'7'0'-'4'3'2'8'-'A'6'3'D'~'1</String>
+		<String>_'_'C'O'L'L'D'A'T'A'S'T'M</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+	</GlobalStrings>
+</TrID>

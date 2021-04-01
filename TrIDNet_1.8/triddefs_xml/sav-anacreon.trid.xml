@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Anacreon savegame</FileType>
+		<Ext>SAV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Anacreon:_Reconstruction_4021</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>04</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>21</Min>
+			<Sec>02</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>46444C41</Bytes>
+			<ASCII> F D L A</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MISSIONINPROGRESS</String>
+		<String>TOTALMISSIONCOUNT</String>
+		<String>GATETOHUARAMARCA</String>
+		<String>LASTMISSIONTIME</String>
+		<String>TRAVEL ADVISORY</String>
+		<String>MESSAGE BEGINS</String>
+		<String>FREIGHTER</String>
+		<String>STARGATE</String>
+		<String>ASTEROID</String>
+		<String>ENDGAME</String>
+		<String>STATION</String>
+		<String>TARGET</String>
+		<String>RAIDER</String>
+		<String>DEBUG</String>
+		<String>FUELS</String>
+		<String>HOME</String>
+		<String>INFO</String>
+		<String>TEXT</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

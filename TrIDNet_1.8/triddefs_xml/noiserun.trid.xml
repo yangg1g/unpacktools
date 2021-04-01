@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>NoiseRunner song/module</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://perso.club-internet.fr/lclevy/exotica/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2003</Year>
+			<Month>11</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>01</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7F</Bytes>
+			<Pos>951</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D2E4B2E</Bytes>
+			<ASCII> M . K .</ASCII>
+			<Pos>1080</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

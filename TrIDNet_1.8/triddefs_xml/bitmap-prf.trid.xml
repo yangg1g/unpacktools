@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Polychrome Recursive Format bitmap</FileType>
+        <Ext>PRF</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.muppetlabs.com/~breadbox/software/prf.html</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>12</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>18</Day>
+        </Date>
+        <Time>
+            <Hour>15</Hour>
+            <Min>43</Min>
+            <Sec>18</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>50524631</Bytes>
+            <ASCII> P R F 1</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

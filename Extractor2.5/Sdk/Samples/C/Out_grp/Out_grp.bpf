@@ -1,0 +1,5 @@
+USEUNIT("out_grp.cpp");
+USEDEF("out_grp.def");
+USEUNIT("..\..\..\api\inc\ExtrDefs.c");
+//---------------------------------------------------------------------------
+DllMain

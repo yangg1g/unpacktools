@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Code::Blocks Project</FileType>
+		<Ext>CBP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Code::Blocks</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>19</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D3822207374616E64616C6F6E653D2279657322203F3E0A3C436F6465426C6F636B735F70726F6A6563745F66696C653E0A093C46696C6556657273696F6E206D616A6F723D223122206D696E6F723D223622202F3E0A093C50726F6A6563743E0A09093C4F7074696F6E207469746C653D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 "   s t a n d a l o n e = " y e s "   ? . . . C o d e B l o c k s _ p r o j e c t _ f i l e . . . . F i l e V e r s i o n   m a j o r = " 1 "   m i n o r = " 6 "   / . . . . P r o j e c t . . . . . O p t i o n   t i t l e = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CODEBLOCKS_PROJECT_FILE</String>
+		<String>FILEVERSION MAJOR</String>
+		<String>CODE_COMPLETION</String>
+		<String>OPTION COMPILER</String>
+		<String>OPTION PCH_MODE</String>
+		<String>EXTENSION_AUTO</String>
+		<String>OPTION OUTPUT</String>
+		<String>UNIT FILENAME</String>
+		<String>OPTION TITLE</String>
+		<String>TARGET TITLE</String>
+		<String>OPTION TYPE</String>
+		<String>PREFIX_AUTO</String>
+		<String>XML VERSION</String>
+		<String>ADD OPTION</String>
+		<String>EXTENSIONS</String>
+		<String>STANDALONE</String>
+		<String>ENCODING</String>
+		<String>BUILD</String>
+		<String>DEBUG</String>
+		<String>MINOR</String>
+		<String>UTF-8</String>
+	</GlobalStrings>
+</TrID>

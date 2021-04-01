@@ -1,0 +1,62 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Entity-Relationship (ER) Diagram</FileType>
+		<Ext>MER</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Er_diagram</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>33</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DRAWING GRIDVISIBLE</String>
+		<String>CONNECTION SESSION</String>
+		<String>ERDIAGRAM VERSION</String>
+		<String>DRAWING EXPANDED</String>
+		<String>RELATIONSHIPS</String>
+		<String>FASTROUTING</String>
+		<String>PRIMARY_KEY</String>
+		<String>COLUMN NAME</String>
+		<String>XML VERSION</String>
+		<String>FOREIGN_KEY</String>
+		<String>TABLE NAME</String>
+		<String>DIMENSIONS</String>
+		<String>DATA TYPE</String>
+		<String>DATABASE</String>
+		<String>REQUIRED</String>
+		<String>LOCATION</String>
+		<String>ENCODING</String>
+		<String>VARCHAR</String>
+		<String>COLUMNS</String>
+		<String>SNAPON</String>
+		<String>TABLES</String>
+		<String>UNIQUE</String>
+		<String>FALSE</String>
+		<String>SIZE</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

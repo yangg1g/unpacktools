@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Site Publisher Project</FileType>
+		<Ext>SPJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sitepublisher.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>12</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>55</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53504A</Bytes>
+			<ASCII> S P J</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>687474703A2F2F</Bytes>
+			<ASCII> h t t p : / /</ASCII>
+			<Pos>28</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

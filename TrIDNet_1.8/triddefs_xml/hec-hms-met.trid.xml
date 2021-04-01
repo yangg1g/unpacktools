@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HEC-HMS Metereologic model configuration</FileType>
+		<Ext>MET</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.hec.usace.army.mil/software/hec-hms/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>48</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D6574656F726F6C6F67793A20</Bytes>
+			<ASCII> M e t e o r o l o g y :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PRECIP METHOD PARAMETERS</String>
+		<String>PRECIPITATION METHOD</String>
+		<String>LAST MODIFIED TIME</String>
+		<String>LAST MODIFIED DATE</String>
+		<String>BASIN MODEL LIST</String>
+		<String>METEOROLOGY</String>
+		<String>UNIT SYSTEM</String>
+		<String>SUBBASIN</String>
+		<String>ENGLISH</String>
+		<String>VERSION</String>
+		<String>DEPTH</String>
+		<String>STORM</String>
+	</GlobalStrings>
+</TrID>

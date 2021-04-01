@@ -1,0 +1,589 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DOS Executable PowerBASIC 3.50</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.powerbasic.com/products/pbdos/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>90</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>09</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A</Bytes>
+			<ASCII> M Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000200</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00FFFF</Bytes>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>80000000D40000001C000000000000000000E9</Bytes>
+			<Pos>16</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>E9</Bytes>
+			<Pos>37</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>E9</Bytes>
+			<Pos>40</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>E9</Bytes>
+			<Pos>43</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>E9</Bytes>
+			<Pos>46</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>E9</Bytes>
+			<Pos>49</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>E9</Bytes>
+			<Pos>52</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>E9</Bytes>
+			<Pos>55</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>E9</Bytes>
+			<Pos>58</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>E9</Bytes>
+			<Pos>61</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>E9</Bytes>
+			<Pos>64</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>9050032000</Bytes>
+			<ASCII> . P</ASCII>
+			<Pos>67</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000303</Bytes>
+			<Pos>75</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>202020202020202020202020202020202020020000000000000000C80540FFFFFFFF010000003F133213321B321F32172A242C2EFFFF01C1000000003A00000000000300</Bytes>
+			<ASCII>                                     . . . . . . . . . . . @ . . . . . . . . ? . 2 . 2 . 2 . 2 . * $ , . . . . . . . . . :</ASCII>
+			<Pos>82</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000</Bytes>
+			<Pos>153</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0600</Bytes>
+			<Pos>160</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>164</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>02</Bytes>
+			<Pos>169</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>177</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>179</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>B000</Bytes>
+			<Pos>196</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000000000000000000000000000000000000000000000000721300004000000000002E8C1E82002EC70680000000E80601E8</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . r . . . @</ASCII>
+			<Pos>200</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0425DFFF2EA32E00E8</Bytes>
+			<ASCII> . %</ASCII>
+			<Pos>261</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0CB8FFFF2EF70692004000750232E450E8</Bytes>
+			<ASCII> . . . . . . . . . @ . u . 2 . P</ASCII>
+			<Pos>271</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0CE8100058E8</Bytes>
+			<ASCII> . . . . X</ASCII>
+			<Pos>289</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0C2E8E1E</Bytes>
+			<Pos>296</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2EA10200B44CCD21E82201E896017303E99500E85E02E89002892698008C169A00FA8E16</Bytes>
+			<ASCII> . . . . . L . ! . " . . . . s . . . . . ^</ASCII>
+			<Pos>301</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E8B26</Bytes>
+			<Pos>338</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2DFBFC8BCCBF100B2BCFD1E933C01607F3AB161FE8</Bytes>
+			<ASCII> - . . . . . . . + . . . 3</ASCII>
+			<Pos>342</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>03E8</Bytes>
+			<Pos>364</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>1036C6064300002EF706</Bytes>
+			<ASCII> . 6 . . C</ASCII>
+			<Pos>367</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2C0100750E2E800E</Bytes>
+			<ASCII> , . . u</ASCII>
+			<Pos>378</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2C202E8B0E</Bytes>
+			<ASCII> ,</ASCII>
+			<Pos>387</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2CE8</Bytes>
+			<ASCII> ,</ASCII>
+			<Pos>393</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>17E8</Bytes>
+			<Pos>396</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>198CC88ED82D6D01A386008EC0F70692000001740726C70602000000C706D00000FFC606</Bytes>
+			<ASCII> . . . . . - m . . . . . . . . . . . . t</ASCII>
+			<Pos>399</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>25008CC8BB8A00F7062E0002007403BB8C000307161FE8</Bytes>
+			<ASCII> % . . . . . . . . . . . . t</ASCII>
+			<Pos>436</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0BE8CE002EFF2EA4002E833E80000074132EA3A8002EC706AA0000002EC706AC000000C3E8</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . t</ASCII>
+			<Pos>460</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>1E5858E8</Bytes>
+			<ASCII> . X X</ASCII>
+			<Pos>498</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E8E1E8200BB8000C707CD211E5332E4CB8CC82E8B0E8E002E8B1688002E8B3690000BF6743203C12BCA2BC68ED8A16A008BD0D1E003C2E8</Bytes>
+			<ASCII> . . . . . . . . . . . ! . S 2 . . . . . . . . . . . . . . . . 6 . . . . t 2 . . + . + . . . . j</ASCII>
+			<Pos>504</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0C03066C0003C883C108B8</Bytes>
+			<ASCII> . . . l</ASCII>
+			<Pos>561</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>23E8</Bytes>
+			<ASCII> #</ASCII>
+			<Pos>573</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0C8CCB03C38ED803C68EC08BC1E8</Bytes>
+			<Pos>576</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0B58FA0E17BC</Bytes>
+			<ASCII> . X</ASCII>
+			<Pos>591</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>24FBFFE08CC88BD02E03168E0033F68EDABF</Bytes>
+			<ASCII> $ . . . . . . . . . . . . 3</ASCII>
+			<Pos>598</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2D8EC0B93700FCF3A58ED883C2080116</Bytes>
+			<ASCII> - . . . 7</ASCII>
+			<Pos>617</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2D8916A600B91000BF</Bytes>
+			<ASCII> -</ASCII>
+			<Pos>634</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2D011583C702F705FFFFE0F5B90C00BF</Bytes>
+			<ASCII> -</ASCII>
+			<Pos>644</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>011583C704E2F9C32EF7062E00020074291EB89BF833DBB910002E8B97</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . t ) . . . . 3</ASCII>
+			<Pos>662</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2D0BD274168EDA382600007509A20000A20B00A22E0083C302E2E11FC3E8C000720DE878007208E806007203E81800C32EF7062E000200750D2EF706</Bytes>
+			<ASCII> - . . t . . . 8 . . . u . . . . . . . . . . . . . . . . . . . . r . . x . r . . . . r . . . . . . . . . . . . u</ASCII>
+			<Pos>692</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2D00207404B80101F9C32EA02C002E8B1E</Bytes>
+			<ASCII> - .   t . . . . . . . . ,</ASCII>
+			<Pos>753</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2D3C037314F7C30002750F3C02740AF7C300017404B80301F9C3B80401F9C32EF7069200400074252E0B06CE002EA3CA002EF7062E000200740ADBE39B2ED92ECA009BC3CD37E3CD3C992ECA00C3B44ABBFFFF2E8E068200CD21B44ACD212E031E82002E891E</Bytes>
+			<ASCII> - . . s . . . . . u . . . t . . . . . t . . . . . . . . . . . . . . . . @ . t % . . . . . . . . . . . . . . . . t . . . . . . . . . . . . 7 . . . . . . . . . J . . . . . . . . . ! . J . !</ASCII>
+			<Pos>771</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E2E891E</Bytes>
+			<Pos>874</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E8BC32EF726</Bytes>
+			<Pos>879</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D2D010073014A2EA328002E89162A002E8C0E30002E3B1E</Bytes>
+			<ASCII> . - . . s . J . . ( . . . . * . . . . 0 . . ;</ASCII>
+			<Pos>886</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2DB80201C32E803E7700027201C3B80001C32E833E800004742C2EA1</Bytes>
+			<ASCII> - . . . . . . . w . . r . . . . . . . . . . . . t ,</ASCII>
+			<Pos>911</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>32FF2EC50E</Bytes>
+			<ASCII> 2</ASCII>
+			<Pos>941</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E33F6E31D8B7C018A1C2E8E87</Bytes>
+			<ASCII> . 3 . . . . |</ASCII>
+			<Pos>947</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2D260105720683C603E2ECC3268C0D83C603E2E3C32E8B16</Bytes>
+			<ASCII> - . . . r</ASCII>
+			<Pos>961</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2EBE</Bytes>
+			<Pos>986</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2EE80E00BE</Bytes>
+			<Pos>989</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2EE80800BE</Bytes>
+			<Pos>995</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2EE80200EB0A2EC4042BD08EDAE9</Bytes>
+			<ASCII> . . . . . . . . . +</ASCII>
+			<Pos>1001</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0A0E0733F62E8E1E</Bytes>
+			<ASCII> . . . 3</ASCII>
+			<Pos>1016</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2EBF</Bytes>
+			<Pos>1025</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2EB90800FCF3A533F62E8E1E</Bytes>
+			<ASCII> . . . . . . . 3</ASCII>
+			<Pos>1028</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2EB90800F3A50E1F8B0E</Bytes>
+			<Pos>1041</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E8B36</Bytes>
+			<ASCII> . . 6</ASCII>
+			<Pos>1052</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E8B16</Bytes>
+			<Pos>1056</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E8EC2E30E2601540226804C0D0483C670E2F2C30E1FFC33C08E06</Bytes>
+			<ASCII> . . . . . . . T . . . L . . . . p . . . . . . 3</ASCII>
+			<Pos>1060</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2EF606D000FF75188B0E</Bytes>
+			<ASCII> . . . . . . u</ASCII>
+			<Pos>1088</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E8B3E</Bytes>
+			<Pos>1099</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2ED1E9F3AB8B0E</Bytes>
+			<Pos>1103</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E8B3E</Bytes>
+			<Pos>1111</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2ED1E9F3AB8B0E</Bytes>
+			<Pos>1115</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E8B3E</Bytes>
+			<Pos>1123</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2ED1E9F3AB8B0E</Bytes>
+			<Pos>1127</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E8B3E</Bytes>
+			<Pos>1135</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2ED1E9F3ABF606D000FF750B8B0E</Bytes>
+			<ASCII> . . . . . . . . . . u</ASCII>
+			<Pos>1139</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E8B3E</Bytes>
+			<Pos>1154</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2EE82D008B0E</Bytes>
+			<ASCII> . . -</ASCII>
+			<Pos>1158</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E8B3E</Bytes>
+			<Pos>1165</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2EE82200C416</Bytes>
+			<ASCII> . . "</ASCII>
+			<Pos>1169</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2EE8</Bytes>
+			<Pos>1176</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0A8606D0000AC07512A1</Bytes>
+			<ASCII> . . . . . . . u</ASCII>
+			<Pos>1179</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2EA3</Bytes>
+			<Pos>1190</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2EA3</Bytes>
+			<Pos>1193</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2EC706</Bytes>
+			<Pos>1196</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E0000E8</Bytes>
+			<Pos>1200</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>C3E30E268945022680650DFB83C770E2F2C30E0E1F0733C0A3A800A3AE00A3BE00A3</Bytes>
+			<ASCII> . . . . . E . . . e . . . . p . . . . . . . 3</ASCII>
+			<Pos>1206</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>26FC</Bytes>
+			<Pos>1241</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>BF</Bytes>
+			<Pos>1270</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>1303</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>1340</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>1389</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>1392</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00E8</Bytes>
+			<Pos>1404</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>1407</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>E8</Bytes>
+			<Pos>1417</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>1422</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>1437</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>75</Bytes>
+			<ASCII> u</ASCII>
+			<Pos>1465</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>1470</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>1553</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>58</Bytes>
+			<ASCII> X</ASCII>
+			<Pos>1558</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>9D</Bytes>
+			<Pos>1571</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>74</Bytes>
+			<ASCII> t</ASCII>
+			<Pos>1579</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>74</Bytes>
+			<ASCII> t</ASCII>
+			<Pos>1594</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>9B</Bytes>
+			<Pos>1627</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>9B</Bytes>
+			<Pos>1630</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>83</Bytes>
+			<Pos>1787</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>1790</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>1862</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>06</Bytes>
+			<Pos>1991</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>1993</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NO DOS 2.0+$NO 8087$PROGRAM TOO BIG$NO 80286+$NO 80386+$</String>
+		<String>87'CGASNOWCHK'HERC'VGA'101KEY</String>
+		<String>BYTES FREERANDOM NUMBER SEED</String>
+		<String>333DDKJ5FDG3H3HHH</String>
+		<String>ERROR AT PGM-CTR</String>
+		<String>XWPMKHDCBA</String>
+		<String>-'ZSOMEN8</String>
+		<String>EMMXXXX0</String>
+		<String>COMSPEC</String>
+		<String>PSQRVWU</String>
+		<String>PQRVWU</String>
+		<String>HH9333</String>
+		<String>PPPPQR</String>
+		<String>3K5LC</String>
+		<String>9.6'T</String>
+		<String>BHOQQ</String>
+		<String>PSQWU</String>
+		<String>E'TF</String>
+		<String>COM1</String>
+		<String>FU).</String>
+		<String>4''.</String>
+		<String>KYBD</String>
+		<String>%''.</String>
+		<String>CONS</String>
+		<String>LPT2</String>
+		<String>LPT3</String>
+		<String>C''.</String>
+		<String>NULL</String>
+		<String>COM2</String>
+		<String>COM3</String>
+		<String>COM4</String>
+		<String>LPT1</String>
+		<String>SCRN</String>
+		<String>T4R3</String>
+		<String>-' T</String>
+	</GlobalStrings>
+</TrID>

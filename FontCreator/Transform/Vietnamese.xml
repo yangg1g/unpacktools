@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+  <TransformScript>
+    <OtherComments>
+      <Content>Vietnamese
+This script inserts an extensive range of Latin Extended characters, including all of those needed for Vietnamese, and most European languages that use Latin scripts. </Content>
+    </OtherComments>
+    <OtherComments>
+      <Content>First we insert the required accents
+Edit the accents and position them for lowercase a. </Content>
+    </OtherComments>
+    <GlyphInsertCharacters>
+      <Characters>175, 567, 699-703, 710-719, 728-733, 755, 759, 768-789, 795, 803-806, 813-818, 699, 700, 710, 711, 713-715, 717, 728-733, 759, 768-777, 784, 789, 803-806, 57344-57364</Characters>
+      <OverrideRange>TRUE</OverrideRange>
+    </GlyphInsertCharacters>
+    <GlyphCompleteComposites>
+    </GlyphCompleteComposites>
+    <GlyphDecompose>
+    </GlyphDecompose>
+    <OtherComments>
+      <Content>Insert all required characters and composites
+Missing glyph outlines will need to be added for the composites to work.</Content>
+    </OtherComments>
+    <GlyphInsertCharacters>
+      <Characters>32-126, 160-383, 402, 416, 417, 431, 432, 462-493, 496-500, 501, 504-539, 542, 543, 550-563, 937, 960, 7680-7835, 7840-7929, 8208-8231, 8240, 8242, 8243, 8258-8260, 8268-8270, 8273-8275, 8352-8367, 8448, 8449, 8451-8454, 8457, 8470, 8471, 8480-8482, 8486, 8487, 8490, 8491, 8494, 8507, 8531-8532, 8706, 8710, 8719, 8721, 8722, 8725, 8729, 8734, 8747-8748, 8756-8758, 8764, 8776, 8800, 8804, 8805, 64256-64262</Characters>
+      <OverrideRange>TRUE</OverrideRange>
+    </GlyphInsertCharacters>
+    <GlyphCompleteComposites>
+    </GlyphCompleteComposites>
+  </TransformScript>
+</DATA>

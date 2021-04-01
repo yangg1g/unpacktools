@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Maya ASCII Scene</FileType>
+		<Ext>MA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.alias.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>05</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>35</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2F2F4D617961204153434949</Bytes>
+			<ASCII> / / M a y a   A S C I I</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

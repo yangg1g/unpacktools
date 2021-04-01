@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Outlook 97 and 2000 E-mail Account Settings</FileType>
+		<Ext>IAF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Roberto 'rbnet' Bolli</User>
+		<E-Mail>infoNOSPAM@NOSPAMrbnet.it</E-Mail>
+		<Home>http://www.rbnet.it/</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>00</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>664D41490000</Bytes>
+			<ASCII> f M A I</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

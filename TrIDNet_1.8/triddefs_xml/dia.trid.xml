@@ -1,0 +1,78 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Dia drawing (uncompressed)</FileType>
+		<Ext>DIA</Ext>
+		<ExtraInfo>
+			<Rem>Dia is a free (GPL) drawing program, much like MS Visio.</Rem>
+			<RefURL>http://www.gnome.org/projects/dia/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>07</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>31</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WWW.LYSATOR.LIU.SE</String>
+		<String>ATTRIBUTE NAME</String>
+		<String>COMPOSITE TYPE</String>
+		<String>RECTANGLE VAL</String>
+		<String>DIAGRAM XMLNS</String>
+		<String>OBJECT TYPE</String>
+		<String>ELEM_CORNER</String>
+		<String>BOOLEAN VAL</String>
+		<String>ELEM_HEIGHT</String>
+		<String>DIAGRAMDATA</String>
+		<String>XML VERSION</String>
+		<String>IS_PORTRAIT</String>
+		<String>LAYER NAME</String>
+		<String>ELEM_WIDTH</String>
+		<String>BACKGROUND</String>
+		<String>VISIBLE_X</String>
+		<String>VISIBLE_Y</String>
+		<String>COLOR VAL</String>
+		<String>POINT VAL</String>
+		<String>REAL VAL</String>
+		<String>ENCODING</String>
+		<String>BMARGIN</String>
+		<String>TMARGIN</String>
+		<String>HGUIDES</String>
+		<String>OBJ_POS</String>
+		<String>VGUIDES</String>
+		<String>WIDTH_X</String>
+		<String>WIDTH_Y</String>
+		<String>SCALING</String>
+		<String>RMARGIN</String>
+		<String>LMARGIN</String>
+		<String>STRING</String>
+		<String>OBJ_BB</String>
+		<String>FFFFFF</String>
+		<String>~ALLA</String>
+		<String>FALSE</String>
+		<String>PAPER</String>
+		<String>FITTO</String>
+		<String>TRUE</String>
+		<String>GRID</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

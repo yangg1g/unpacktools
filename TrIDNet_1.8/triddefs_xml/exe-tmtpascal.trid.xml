@@ -1,0 +1,95 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Win32 EXE TMT Pascal (generic)</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.frameworkpascal.com/index.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>36</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>20</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A50000200000004000F00FFFF0000B80000000000000040001A00000000000000000000000000000000000000000000000000000000000000000000010000BA10000E1FB409CD21B8014CCD219090546869732070726F6772616D206D7573742062652072756E20756E6465722057696E33320D0A243700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000504500004C01</Bytes>
+			<ASCII> M Z P . . . . . . . . . . . . . . . . . . . . . @ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ! . . L . ! . . T h i s   p r o g r a m   m u s t   b e   r u n   u n d e r   W i n 3 2 . . $ 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . P E . . L</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000434F444500000000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C O D E</ASCII>
+			<Pos>399</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000040000000000000000000000000000200000604441544100000000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . .   . . ` D A T A</ASCII>
+			<Pos>522</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000400000C04253530000000000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . @ . . . B S S</ASCII>
+			<Pos>566</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000000000000000000000800000C02E69646174610000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . i d a t a</ASCII>
+			<Pos>599</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000000400000C02E73747562730000</Bytes>
+			<ASCII> . . . . . . . . . . . . . @ . . . . s t u b s</ASCII>
+			<Pos>647</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>********</String>
+		<String>.IDATA</String>
+		<String>.STUBS</String>
+		<String>0123456789</String>
+		<String>CLOSEHANDLE</String>
+		<String>CODE</String>
+		<String>CREATEFILEA</String>
+		<String>DISPATCHMESSAGEA</String>
+		<String>EXITPROCESS</String>
+		<String>FREEENVIRONMENTSTRINGSA</String>
+		<String>GETCOMMANDLINEA</String>
+		<String>GETENVIRONMENTSTRINGSA</String>
+		<String>GETLASTERROR</String>
+		<String>GETMODULEFILENAMEA</String>
+		<String>GETMODULEHANDLEA</String>
+		<String>GETSTARTUPINFOA</String>
+		<String>GETSTDHANDLE</String>
+		<String>HEAPCREATE</String>
+		<String>HEAPDESTROY</String>
+		<String>INPUT</String>
+		<String>ITMESSAGE</String>
+		<String>KERNEL32.DLL</String>
+		<String>MESSAGEBOXEXA</String>
+		<String>OUTPUT</String>
+		<String>READFILE</String>
+		<String>RUNERROR</String>
+		<String>SETLASTERROR</String>
+		<String>SETUNHANDLEDEXCEPTIONFILTER</String>
+		<String>THIS PROGRAM MUST BE RUN UNDER WIN32</String>
+		<String>TMT PASCAL RUNTIME LIBRARY'U</String>
+		<String>TRANSLATE</String>
+		<String>USER32.DLL</String>
+		<String>WINDOW</String>
+		<String>WRITEFILE</String>
+	</GlobalStrings>
+</TrID>

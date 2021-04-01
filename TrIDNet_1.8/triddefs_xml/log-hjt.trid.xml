@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HijackThis logfile</FileType>
+		<Ext>LOG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Hijackthis</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>23</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4C6F6766696C65206F66205472656E64204D6963726F2048696A61636B54686973</Bytes>
+			<ASCII> L o g f i l e   o f   T r e n d   M i c r o   H i j a c k T h i s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

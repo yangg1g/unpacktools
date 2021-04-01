@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>THX Tracker music</FileType>
+		<Ext>AHX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>55</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>544858</Bytes>
+			<ASCII> T H X</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

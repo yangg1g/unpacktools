@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Webgate WebEye bitmap</FileType>
+		<Ext>EYE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.webgateinc.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>49</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>424D</Bytes>
+			<ASCII> B M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0041445631</Bytes>
+			<ASCII> . A D V 1</ASCII>
+			<Pos>29</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,146 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Chris Sawyer's Locomotion Scenario</FileType>
+		<Ext>SC5</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Chris_Sawyer's_Locomotion</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>7</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>3</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>032000000002000000C411C000F311C0000000000000000000000000000000000000000000031A430000FF108D83</Bytes>
+			<ASCII> .   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0020000200</Bytes>
+			<Pos>47</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000000000000000000000000000000000</Bytes>
+			<Pos>57</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>CA</Bytes>
+			<Pos>86</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>40</Bytes>
+			<ASCII> @</ASCII>
+			<Pos>94</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>B0</Bytes>
+			<Pos>105</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>AC</Bytes>
+			<Pos>108</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<Pos>112</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>CA</Bytes>
+			<Pos>170</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>01</Bytes>
+			<Pos>183</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000FF</Bytes>
+			<Pos>340</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0008412083D118008C04004600</Bytes>
+			<ASCII> . . A   . . . . . . . F</ASCII>
+			<Pos>421</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>9862892698628926986289269862892698628926986289269862892698628926986289</Bytes>
+			<ASCII> . b . . . b . . . b . . . b . . . b . . . b . . . b . . . b . . . b</ASCII>
+			<Pos>436</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>986289269862892698628926986289269862892698628926986289269862892698628926986289269862892698628926986289269862892698628926986289269862892698628926986289269862892698628926986289269862892698</Bytes>
+			<ASCII> . b . . . b . . . b . . . b . . . b . . . b . . . b . . . b . . . b . . . b . . . b . . . b . . . b . . . b . . . b . . . b . . . b . . . b . . . b . . . b . . . b . . . b . . . b</ASCII>
+			<Pos>472</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NO DETAILS YET</String>
+		<String>OAL MINES 1</String>
+		<String>OAL MINES 2</String>
+		<String>G PLANT 1</String>
+		<String>ILFIELD 1</String>
+		<String>ACTORY 1</String>
+		<String>S 1'LANT</String>
+		<String>LEWORTH</String>
+		<String>BRIDGE</String>
+		<String>E'CITY</String>
+		<String>PRINGS</String>
+		<String>WICK'S</String>
+		<String>0.SC5</String>
+		<String>1'S 1</String>
+		<String>BERWI</String>
+		<String>BURGH</String>
+		<String>ERFOR</String>
+		<String>LIVER</String>
+		<String>MERIC</String>
+		<String>S 1'S</String>
+		<String>TON'L</String>
+		<String>WAY'R</String>
+		<String>7DPH</String>
+		<String>BERY</String>
+		<String>BL1(</String>
+		<String>BURY</String>
+		<String>D'NE</String>
+		<String>E SP</String>
+		<String>ESTO</String>
+		<String>F'GC</String>
+		<String>GLEW</String>
+		<String>HEAD</String>
+		<String>IGHT</String>
+		<String>INVE</String>
+		<String>ISLE</String>
+		<String>K'PH</String>
+		<String>L)XB</String>
+		<String>LAND</String>
+		<String>LIME</String>
+		<String>MORE</String>
+		<String>NKER</String>
+		<String>PORT</String>
+		<String>PYHC</String>
+		<String>RKET</String>
+		<String>STER</String>
+		<String>STON</String>
+		<String>T++1</String>
+		<String>TRAN</String>
+		<String>VENT</String>
+		<String>XBL9</String>
+		<String>Y CR</String>
+		<String>YA'B</String>
+		<String>Z+R9</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Drive SnapShot Disk Image</FileType>
+		<Ext>SNA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.drivesnapshot.de/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>06</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>46</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>534E5445</Bytes>
+			<ASCII> S N T E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

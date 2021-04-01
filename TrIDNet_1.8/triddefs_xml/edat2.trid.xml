@@ -1,0 +1,91 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>E-DataAid 2.0 data</FileType>
+		<Ext>EDAT2</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pstnet.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>7</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>0</Hour>
+			<Min>6</Min>
+			<Sec>5</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'T'R'E'A'M'_'R'E'C'O'R'D'F'O'R'M'A'T'''''''''''''''''''''''''''(</String>
+		<String>E'-'P'R'I'M'E' 'P'R'I'M'A'R'Y' 'R'E'A'L'T'I'M'E' 'C'L'O'C'K</String>
+		<String>S'C'H'E'M'A'S'-'M'I'C'R'O'S'O'F'T'-'C'O'M</String>
+		<String>D'I'S'P'L'A'Y'.'R'E'F'R'E'S'H'R'A'T'E</String>
+		<String>S'T'R'E'A'M'_'A'N'N'O'T'A'T'I'O'N'S</String>
+		<String>C'L'O'C'K'.'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>B'L'O'C'K'L'I'S'T'.'S'A'M'P'L'E</String>
+		<String>F'R'E'Q'U'E'N'C'Y'C'H'A'N'G'E'S</String>
+		<String>S'T'R'E'A'M'_'I'N'T'E'R'F'A'C'E</String>
+		<String>S'T'R'E'A'M'_'V'A'R'I'A'B'L'E'S</String>
+		<String>T'R'I'A'L'L'I'S'T'.'S'A'M'P'L'E</String>
+		<String>B'L'O'C'K'L'I'S'T'.'C'Y'C'L'E</String>
+		<String>T'R'I'A'L'L'I'S'T'.'C'Y'C'L'E</String>
+		<String>D'E'S'C'R'I'P'T'I'O'N' 'D'T</String>
+		<String>S'E'S'S'I'O'N'T'I'M'E'U'T'C</String>
+		<String>S'T'R'E'A'M'_'V'E'R'S'I'O'N</String>
+		<String>P'S'T' 'D'A'T'A' 'F'I'L'E</String>
+		<String>S'T'R'E'A'M'_'L'E'V'E'L'S</String>
+		<String>CRECORDFORMATDESCRIPTOR</String>
+		<String>F'R'E'Q'U'E'N'C'Y' 'D'T</String>
+		<String>S'T'R'E'A'M'_'I'N'D'E'X</String>
+		<String>T'I'M'E'S'T'A'M'P' 'D'T</String>
+		<String>C'L'O'C'K' 'X'M'L'N'S</String>
+		<String>I' 'F'E'E'L' 'H'I'G'H</String>
+		<String>S'E'S'S'I'O'N'D'A'T'E</String>
+		<String>S'T'R'E'A'M'_'D'A'T'A</String>
+		<String>X'M'L' 'V'E'R'S'I'O'N</String>
+		<String>C'U'R'R'E'N'T' 'D'T</String>
+		<String>CVARIABLEDESCRIPTOR</String>
+		<String>D'A'T'E'U'T'C' 'D'T</String>
+		<String>R'A'N'D'O'M'S'E'E'D</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>S'C'A'L'E'S'T'A'R'T</String>
+		<String>B'L'O'C'K'P'R'O'C</String>
+		<String>D'A'T'A'T'Y'P'E'S</String>
+		<String>P'R'O'C'E'D'U'R'E</String>
+		<String>S'C'A'L'E'S'T'O'P</String>
+		<String>S'T'A'R'T'T'I'M'E</String>
+		<String>T'R'I'A'L'P'R'O'C</String>
+		<String>CLEVELDESCRIPTOR</String>
+		<String>L'E'F'T'X'P'O'S</String>
+		<String>Q'U'E'S'T'I'O'N</String>
+		<String>C'O'R'R'E'C'T</String>
+		<String>R'U'N'N'I'N'G</String>
+		<String>CDATARECORD</String>
+		<String>R'A'T'I'N'G</String>
+		<String>S'T'I'M'U'L</String>
+		<String>S'T'R'I'N'G</String>
+		<String>CDATAVALUE</String>
+		<String>G'R'O'U'P</String>
+		<String>CSESSION</String>
+		<String>R'A'W'X</String>
+		<String>R'A'W'Y</String>
+		<String>Y'P'O'S</String>
+		<String>O'N'E</String>
+	</GlobalStrings>
+</TrID>

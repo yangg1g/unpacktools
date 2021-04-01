@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BlackBerry Backup</FileType>
+		<Ext>IPD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.blackberry.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2009</Year>
+			<Month>09</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>59</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>496E746572406374697665205061676572204261636B75702F526573746F72652046696C65</Bytes>
+			<ASCII> I n t e r @ c t i v e   P a g e r   B a c k u p / R e s t o r e   F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

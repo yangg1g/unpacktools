@@ -1,0 +1,67 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TrIDNet serialized definitions package</FileType>
+		<Ext>TRS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://mark0.net/soft-tridnet-e.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>11</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>35</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0001000000FFFFFFFF010000000000000004010000001C53797374656D2E436F6C6C656374696F6E732E41727261794C69737403000000065F6974656D73055F73697A65085F76657273696F6E</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . S y s t e m . C o l l e c t i o n s . A r r a y L i s t . . . . . _ i t e m s . _ s i z e . _ v e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TRIDNET.TRIDENGINE+TFILEDEFPAT</String>
+		<String>TRIDNET.TRIDENGINE+TEXTRAINFO</String>
+		<String>SYSTEM.COLLECTIONS.ARRAYLIST</String>
+		<String>TRIDNET.TRIDENGINE+TPATTERN</String>
+		<String>PUBLICKEYTOKEN</String>
+		<String>1.0.1707.39853</String>
+		<String>FRONTBLOCKSIZE</String>
+		<String>BACKBLOCKSIZE</String>
+		<String>GLOBALSTRINGS</String>
+		<String>FILESSCANNED</String>
+		<String>AUTHOREMAIL</String>
+		<String>AUTHORHOME</String>
+		<String>AUTHORNAME</String>
+		<String>.TRID.XML</String>
+		<String>FILETYPE</String>
+		<String>_VERSION</String>
+		<String>PATTERNS</String>
+		<String>ETRIDNET</String>
+		<String>CULTURE</String>
+		<String>NEUTRAL</String>
+		<String>FILEEXT</String>
+		<String>DEFFILE</String>
+		<String>FILEPTS</String>
+		<String>REMARK</String>
+		<String>POINTS</String>
+		<String>RELURL</String>
+		<String>XMNEED</String>
+		<String>_ITEMS</String>
+		<String>_SIZE</String>
+		<String>TEST</String>
+		<String>NULL</String>
+	</GlobalStrings>
+</TrID>

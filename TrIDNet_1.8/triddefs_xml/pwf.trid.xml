@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PageWunder document</FileType>
+		<Ext>PWF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pagewunder.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>52</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C41504D3E0D0A20203C446F63756D656E742053657475703D22</Bytes>
+			<ASCII> . A P M . . .     . D o c u m e n t   S e t u p = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MICROSOFT SANS SERIF</String>
+		<String>BORDERDASHSTYLE</String>
+		<String>SUPERLABEL NAME</String>
+		<String>DOCUMENT SETUP</String>
+		<String>TEXT_ALIGNMENT</String>
+		<String>SUPERDOCUMENT</String>
+		<String>DOUBLEBORDER</String>
+		<String>BORDERCOLOR</String>
+		<String>BORDERWIDTH</String>
+		<String>BACKCOLOR</String>
+		<String>FONT_SIZE</String>
+		<String>FORECOLOR</String>
+		<String>IMAGEMODE</String>
+		<String>UNDERLINE</String>
+		<String>DOCTAG</String>
+		<String>HEIGHT</String>
+		<String>PARENT</String>
+		<String>ZORDER</String>
+		<String>FALSE</String>
+		<String>.PWF</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

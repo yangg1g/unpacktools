@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Graphtec vector data / drawing</FileType>
+		<Ext>GSD</Ext>
+		<ExtraInfo>
+			<Rem>Vector format used by Graphtec cutting machines.</Rem>
+			<RefURL>http://www.graphtec.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>11</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>51</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>47524150485445432050525426435554</Bytes>
+			<ASCII> G R A P H T E C   P R T . C U T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

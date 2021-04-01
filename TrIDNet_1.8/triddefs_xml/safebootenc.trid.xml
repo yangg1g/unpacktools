@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SafeBoot encrypted data</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mcafee.com/it/products/endpoint-encryption.aspx</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>43</Min>
+			<Sec>2</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53616665426F6F74456E6346696C6500</Bytes>
+			<ASCII> S a f e B o o t E n c F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

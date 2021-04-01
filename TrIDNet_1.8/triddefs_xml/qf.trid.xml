@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Ovi Maps info</FileType>
+		<Ext>QF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Here_(Nokia)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>3</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>27</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>666F726D61743A51460D0A636C69656E745F69643A</Bytes>
+			<ASCII> f o r m a t : Q F . . c l i e n t _ i d :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>LANGUAGEID</String>
+		<String>VOICEFILES</String>
+		<String>VOICE_MODE</String>
+		<String>CACHEDATS</String>
+		<String>CLIENT_ID</String>
+		<String>DISKCACHE</String>
+		<String>CITIES</String>
+		<String>FORMAT</String>
+		<String>QUOTA</String>
+		<String>MAPS</String>
+	</GlobalStrings>
+</TrID>

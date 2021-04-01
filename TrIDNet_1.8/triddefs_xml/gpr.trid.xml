@@ -1,0 +1,74 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GenePix Results</FileType>
+		<Ext>GPR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.moleculardevices.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>26</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>04</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>07</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4154460931</Bytes>
+			<ASCII> A T F . 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NORMALIZATIONFACTOR</String>
+		<String>RATIOFORMULATION</String>
+		<String>RATIO OF MEDIANS</String>
+		<String>MEDIAN OF RATIOS</String>
+		<String>GENEPIX RESULTS</String>
+		<String>MEAN OF RATIOS</String>
+		<String>RATIO OF MEANS</String>
+		<String>SUM OF MEDIANS</String>
+		<String>SUM OF MEANS</String>
+		<String>TEMPERATURE</String>
+		<String>IMAGEORIGIN</String>
+		<String>JPEGORIGIN</String>
+		<String>LASERPOWER</String>
+		<String>PIXELSIZE</String>
+		<String>LOG RATIO</String>
+		<String>RATIOS SD</String>
+		<String>JPEGIMAGE</String>
+		<String>RGN RATIO</String>
+		<String>SETTINGS</String>
+		<String>DATETIME</String>
+		<String>B PIXELS</String>
+		<String>F PIXELS</String>
+		<String>BARCODE</String>
+		<String>CREATOR</String>
+		<String>SCANNER</String>
+		<String>GALFILE</String>
+		<String>COMMENT</String>
+		<String>COLUMN</String>
+		<String>% SAT.</String>
+		<String>BLOCK</String>
+		<String>FLAGS</String>
+		<String>+2SD</String>
+		<String>+1SD</String>
+		<String>NAME</String>
+		<String>.GAL</String>
+		<String>DIA.</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

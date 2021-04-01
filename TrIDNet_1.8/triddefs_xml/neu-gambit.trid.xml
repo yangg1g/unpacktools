@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Gambit Neutral file</FileType>
+		<Ext>NEU</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/GAMBIT</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>41</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2020202020202020434F4E54524F4C20494E464F20</Bytes>
+			<ASCII>                 C O N T R O L   I N F O</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NUMNP     NELEM     NGRPS    NBSETS     NDFCD     NDFVL</String>
+		<String>** GAMBIT NEUTRAL FILE</String>
+		<String>NODAL COORDINATES</String>
+		<String>ELEMENT GROUP</String>
+		<String>CONTROL INFO</String>
+		<String>ENDOFSECTION</String>
+		<String>ELEMENTS</String>
+		<String>MATERIAL</String>
+		<String>VERSION</String>
+		<String>NFLAGS</String>
+		<String>CELLS</String>
+	</GlobalStrings>
+</TrID>

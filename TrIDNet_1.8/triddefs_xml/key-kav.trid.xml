@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Kaspersky Lab Key file</FileType>
+		<Ext>KEY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.kaspersky.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>53</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4B4C7377</Bytes>
+			<ASCII> K L s w</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A53657269616C20</Bytes>
+			<ASCII> . . S e r i a l</ASCII>
+			<Pos>6</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>KASPERSKY LAB KEY FILE</String>
+		<String>SERIAL NUMBER</String>
+	</GlobalStrings>
+</TrID>

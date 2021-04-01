@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>NEC JIS encoded file</FileType>
+		<Ext>NEC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cit.gu.edu.au/~davidt/cit3611/C_UNIX/japanese.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>36</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1B4B</Bytes>
+			<ASCII> . K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

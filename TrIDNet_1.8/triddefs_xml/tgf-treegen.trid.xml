@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Tree Generator 3D tree</FileType>
+		<Ext>TGF</Ext>
+		<ExtraInfo>
+			<Rem>Tree Generator is a software for creating 3D trees.</Rem>
+			<RefURL>http://membres.lycos.fr/treegenerator/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>12</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>40</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>54474620627920547265652047656E657261746F720D0A</Bytes>
+			<ASCII> T G F   b y   T r e e   G e n e r a t o r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

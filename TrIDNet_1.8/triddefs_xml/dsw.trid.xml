@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Developer Studio Workspace</FileType>
+		<Ext>DSW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Microsoft_Visual_Studio</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>30</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>1</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>0</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.78b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D6963726F736F667420446576656C6F7065722053747564696F20576F726B73706163652046696C652C20466F726D61742056657273696F6E20</Bytes>
+			<ASCII> M i c r o s o f t   D e v e l o p e r   S t u d i o   W o r k s p a c e   F i l e ,   F o r m a t   V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DO NOT EDIT OR DELETE THIS WORKSPACE FILE</String>
+		<String>MICROSOFT DEVELOPER STUDIO WORKSPACE FILE</String>
+		<String>FORMAT VERSION</String>
+		<String>PACKAGE OWNER</String>
+		<String>PROJECT</String>
+		<String>WARNING</String>
+		<String>GLOBAL</String>
+		<String>.DSP</String>
+	</GlobalStrings>
+</TrID>

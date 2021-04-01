@@ -1,0 +1,39 @@
+<TrID ver="1.18">
+	<Info>
+		<FileType>Corel saved find/search</FileType>
+		<Ext>FIN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.corel.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2003</Year>
+			<Month>10</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>37</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.23</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>46525720434F52454C204452415700000000000009000000</Bytes>
+			<ASCII> F R W	C O R E L	D R A W</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>01000053524348544F4F4C5F524C530000000001000000000000000000000000000000000000000000000000000000</Bytes>
+			<ASCII> . . . S R C H T O O L _ R L S</ASCII>
+			<Pos>25</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

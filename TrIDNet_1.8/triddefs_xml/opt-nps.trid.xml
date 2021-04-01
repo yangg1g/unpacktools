@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Neuratron PhotoScore Document</FileType>
+		<Ext>OPT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.neuratron.com/photoscore.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>04</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>52</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D616E7363727074004E6575726174726F6E2050686F746F53636F7265</Bytes>
+			<ASCII> M a n s c r p t . N e u r a t r o n   P h o t o S c o r e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

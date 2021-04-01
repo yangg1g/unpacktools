@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Digital Micrograph Script</FileType>
+		<Ext>S</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.felmi-zfe.tugraz.at/dm_scripts/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>34</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2F</Bytes>
+			<ASCII> /</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCRIPT</String>
+	</GlobalStrings>
+</TrID>

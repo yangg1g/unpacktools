@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Gens movie capture</FileType>
+		<Ext>GMV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://gens.consolemul.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>11</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>47656E73204D6F76696520</Bytes>
+			<ASCII> G e n s   M o v i e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

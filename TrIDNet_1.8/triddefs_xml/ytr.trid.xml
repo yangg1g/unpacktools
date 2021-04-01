@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IRIS OCR data</FileType>
+		<Ext>YTR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.irislink.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>04</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>57</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>495249532067726F7570</Bytes>
+			<ASCII> I R I S   g r o u p</ASCII>
+			<Pos>2</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>A'B'C'D'E'F'G'H'I'J'K'L'M'N'O'P'Q'R'S'T'U'V'W'X'Y'Z'{</String>
+		<String>ABCDEFGHIJKLMNOPQRSTUVWXYZ{</String>
+		<String>0'1'2'3'4'5'6'7'8'9</String>
+		<String>IRIS GROUP</String>
+		<String>0123456789</String>
+	</GlobalStrings>
+</TrID>

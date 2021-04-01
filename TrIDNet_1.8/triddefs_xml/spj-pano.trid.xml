@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft ICE Panorama Project</FileType>
+		<Ext>SPJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://research.microsoft.com/en-us/um/redmond/groups/ivm/ICE/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>0</Hour>
+			<Min>38</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3C003F0078006D006C002000760065007200730069006F006E003D00220031002E00300022003F003E000D000A000D000A003C00730074006900740063006800500072006F006A006500630074000D000A002000200020002000760065007200730069006F006E003D00220031002E00</Bytes>
+			<ASCII> . . . . ? . x . m . l .   . v . e . r . s . i . o . n . = . " . 1 . . . 0 . " . ? . . . . . . . . . . . . . s . t . i . t . c . h . P . r . o . j . e . c . t . . . . .   .   .   .   . v . e . r . s . i . o . n . = . " . 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'T'I'T'C'H'P'R'O'J'E'C'T</String>
+		<String>S'O'U'R'C'E'I'M'A'G'E'S</String>
+		<String>S'T'I'T'C'H'P'A'R'A'M'S</String>
+		<String>M'O'T'I'O'N'M'O'D'E'L</String>
+		<String>X'M'L' 'V'E'R'S'I'O'N</String>
+		<String>C'A'M'O'R'I'E'N'T</String>
+		<String>I'M'A'G'E' 'S'R'C</String>
+		<String>R'O'T'A'T'I'O'N</String>
+		<String>M'A'P'P'I'N'G</String>
+		<String>.'J'P'G</String>
+	</GlobalStrings>
+</TrID>

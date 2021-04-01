@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Magellan MapSend</FileType>
+		<Ext>TRK/WPT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.gpsbabel.org/htmldoc-development/fmt_mapsend.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>07</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>36</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0D34443533333333</Bytes>
+			<ASCII> . 4 D 5 3 3 3 3</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>204D5333</Bytes>
+			<ASCII>   M S 3</ASCII>
+			<Pos>9</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Cartooners Actor</FileType>
+		<Ext>ACT</Ext>
+		<ExtraInfo>
+			<Rem>A 1989 educational game by Electronic Arts.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>3</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>21</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0010460000007707850C</Bytes>
+			<ASCII> . . F . . . w</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>N25600'--</String>
+		<String>NXXXXX'--</String>
+		<String>N28160</String>
+		<String>F'''W</String>
+	</GlobalStrings>
+</TrID>

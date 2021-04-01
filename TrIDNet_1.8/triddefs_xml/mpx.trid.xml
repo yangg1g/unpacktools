@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Project exported data</FileType>
+		<Ext>MPX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Microsoft_Project</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>10</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>36</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5058</Bytes>
+			<ASCII> M P X</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D6963726F736F66742050726F6A65637420666F722057696E646F7773</Bytes>
+			<ASCII> M i c r o s o f t   P r o j e c t   f o r   W i n d o w s</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MICROSOFT PROJECT FOR WINDOWS</String>
+		<String>STANDARD</String>
+		<String>UNIQUE</String>
+		<String>ANSI</String>
+		<String>DATE</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Derive for Windows (v6)</FileType>
+		<Ext>DFW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.chartwellyorke.com/dfwind.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>47</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4465726976652076657273696F6E20362E</Bytes>
+			<ASCII> D e r i v e   v e r s i o n   6</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>204466572066696C65207361766564206F6E20</Bytes>
+			<ASCII>   D f W   f i l e   s a v e d   o n</ASCII>
+			<Pos>19</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

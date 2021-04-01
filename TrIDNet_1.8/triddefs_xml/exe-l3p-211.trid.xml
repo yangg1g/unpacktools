@@ -1,0 +1,64 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>EXE DOS L3P v2.11 compiled</FileType>
+        <Ext>EXE</Ext>
+        <ExtraInfo>
+            <Rem>L3P is an educational multiparadigm programming language made in Italy.</Rem>
+            <RefURL>http://www.zuccante.it/L3P/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>32</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2004</Year>
+            <Month>02</Month>
+            <Day>17</Day>
+        </Date>
+        <Time>
+            <Hour>18</Hour>
+            <Min>17</Min>
+            <Sec>33</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4D5ACB00030000000200B50FFFFFF0FFFEFF00000001F0FF1C00000000000000EB3A900D0A4C33502052756E54696D65204C6F6164657220313139370D0A436F70797269676874202863292020434544414D205061646F76610D0A1AFCBD5C018B6E008BA602008B9E0400B44ACD21A12C0089861A008B9E0000FFE35B05C1016C0253E800005B5756B4FFAC0AC074093C257413AAFECC75F232C0AA5E5FB3FF2ADC885DFF5BC3AC493C2574E73C7F7512568BB60E00AC3C007405AAFECC75F65EEB0F8AF080EE30720E80FE097709FF57F80AE475B5EBC14E41FF57FAEBF3290253E80600444F533258005B51561EBE800033C98A0C463E02B61F000AF6752B50B430CD213C025877048D37EB2206578E062C0032C033FFB90080F2AEAE75FBAF8BF75F078E1E2C00EB05FF57FA7212AC3C20760D3C3B74093C2C7405AAFECC75EE1F5E595BC3490253E800005B32D2FF57FA7211FECE7E09FEC2FF57FA7204EBEC4EF85BC3F9EBFBAC3C0974143C3B74103C2C740C3C20720E74060AD275E9EB040AD274E3F8C3F9C3980253E800005B1EB9FF00578BFE8BD1B025F2AE2BD14A8BCF5F51FF57FA720AAC0AC07405AAFECC75F65E1F5BC3535157068E861A0033FF8BDE8BF38BCAF3A6741432C0B9FFFFF2AE26803D0075EB8BF7061FF9EB198BF7061FAC3C3D75FB803C0074EBAC0AC072043C2072F74EF8075F595BC34504F30403056204460553E8320000504154483D434F4D455845424154000000004C335052554E206E6F6E20696E20504154482021212120200D0A002F4320005B89770F897F118B960A0083C204C6473100C607008BFA33C90A0F7573525633D2807C013A750D8A1480E2DF80EA40A583470F02803C5C741CB05CAA568BF7B447CD215E32C0B94000F2AE4F807DFF5C7403B05CAA33C0AC3D2E2E750EFDB05CB91200F2AEF2AEFC47EBECAA8AE03C5C7503FE47313C0075DE4F8BD7FDB90500B02EF2AEFC7503478BD78BFA5E5AEB25807F310075088B770FFF57F673088D7713FF57F4EB7BB94900AC3C2076073C2E7403AAE2F4B02EAA8D7706B90300A5A432C0AA5256518BF2FF57FA595E5A730A83EF04E2E9FE07E93BFF83F90175338D772E83EA038BFAA5A432C0B9FC00F2AEC645FF208B7711384CFF77038A4CFFF3A4C6050D8BF28BC72BC28844FFFF57F2EB0F8B7F114FFE0D578BF2FF57F85FFE055BC36204DD0453E800005B8BFE4F8A861E001E50FF57FA2EFF57F8581F88861E005BC353E820000044554D4D59202020464342000000000044554D4D59202020464342000000005B1E0689A6020057568BF7468D3FB80329CD218D7F10B80329CD215E5F0E8D5710520E8D17520E572E8B861A00508BDCB8004B8BD6CD21BD5C012E8B6E008CCBFA8ED38BA60200FBFC071FB44DCD2188861E005BC3980253E80700434F4D535045435BBA07008BF3FF57FA5BC38A14460AD27406B402CD21EBF3C3980253E80400504154485B52561EBA04008BF3FF57FA49E30BAC0AC074243C3B75F7EBF2AC3C3B74070AC07403AAEBF40E1F26807DFF5C7403B05CAAF81F5E5A5BC3F9EBF88BD7B41ACD218BD633C9B44ECD21720483C71EF8C38C05AA07BB00AC07AD08AE09AF0ABC1BE8A10150B8E30AE8C6E2E80C02E800004C335052554E0008202530202F65780D008DB628008BBE0600B86201FFD08DB620008BBE0600B8E802FFD0B8004CCD21370D28261B1E4E726270716B1D6F6D6674735D6D631D6360206E5E727265206163686B256B6E657060361D1D442E</Bytes>
+            <ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . : . . . L 3 P   R u n T i m e   L o a d e r   1 1 9 7 . . C o p y r i g h t   ( c )     C E D A M   P a d o v a . . . . . \ . . n . . . . . . . . . . J . ! . , . . . . . . . . . . . [ . . . l . S . . . [ W V . . . . . t . . % t . . . . u . 2 . . ^ _ . . * . . ] . [ . . I . % t . . . u . V . . . . . . . t . . . . u . ^ . . . . . . 0 r . . . . w . . W . . . u . . . N A . W . . . ) . S . . . D O S 2 X . [ Q V . . . . 3 . . . F . . . . . . . u + P . 0 . ! . . X w . . 7 . " . W . . , . 2 . 3 . . . . . . . u . . . . _ . . . , . . . . W . r . . .   v . . ; t . . , t . . . . u . . ^ Y [ . I . S . . . [ 2 . . W . r . . . ~ . . . . W . r . . . N . [ . . . . . . . t . . ; t . . , t . .   r . t . . . u . . . . . t . . . . . . . S . . . [ . . . . W . . . . . % . . + . J . . _ Q . W . r . . . . t . . . . u . ^ . [ . S Q W . . . . . 3 . . . . . . . . . t . 2 . . . . . . . . = . u . . . . . . . . . . . . . . = u . . . . t . . . . r . .   r . N . . _ Y [ . E . . . . . b . F . S . 2 . . P A T H = C O M E X E B A T . . . . L 3 P R U N   n o n   i n   P A T H   ! ! !     . . . / C   . [ . w . . . . . . . . . . . . G 1 . . . . . . 3 . . . u s R V 3 . . | . : u . . . . . . . . @ . . G . . . . \ t . . \ . V . . . G . ! ^ 2 . . @ . . . O . } . \ t . . \ . 3 . . = . . u . . . \ . . . . . . . . G . . . . . . \ u . . G 1 . . u . O . . . . . . . . . . . u . G . . . . ^ Z . % . . 1 . u . . w . . W . s . . w . . W . . { . I . . .   v . . . t . . . . . . . . w . . . . . . 2 . . R V Q . . . W . Y ^ Z s . . . . . . . . . ; . . . . u 3 . w . . . . . . . . 2 . . . . . . . E .   . w . 8 L . w . . L . . . . . . . . . . + . . D . . W . . . . . . O . . W . . . W . _ . . [ . b . . . S . . . [ . . O . . . . . P . W . . . W . X . . . . . [ . S .   . . D U M M Y       F C B . . . . . D U M M Y       F C B . . . . [ . . . . . . W V . . F . ? . . ) . ! . . . . . ) . ! ^ _ . . W . R . . . R . W . . . . . P . . . . K . . . ! . \ . . . n . . . . . . . . . . . . . . . M . ! . . . . [ . . . S . . . C O M S P E C [ . . . . . . W . [ . . . F . . t . . . . ! . . . . . S . . . P A T H [ R V . . . . . . . W . I . . . . . t $ . ; u . . . . . ; t . . . t . . . . . . . . } . \ t . . \ . . . ^ Z [ . . . . . . . . . ! . . 3 . . N . ! r . . . . . . . . . . . . . . . . . . . . . . . . . P . . . . . . . . . . . . L 3 P R U N . .   % 0   / e x . . . . ( . . . . . . b . . . . .   . . . . . . . . . . . . L . ! 7 . ( . . . N r b p q k . o m f t s ] m c . c `   n ^ r r e   a c h k % k n e p ` 6 . . D</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>6C</Bytes>
+            <ASCII> l</ASCII>
+            <Pos>1276</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>6D</Bytes>
+            <ASCII> m</ASCII>
+            <Pos>1312</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>2B</Bytes>
+            <ASCII> +</ASCII>
+            <Pos>1444</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>)+)-</String>
+        <String>*-+)++(+</String>
+        <String>2''PATH</String>
+        <String>COMEXEBAT''''L3PRUN NON IN PATH</String>
+        <String>COMSPEC</String>
+        <String>COPYRIGHT (C)  CEDAM PADOVA</String>
+        <String>DOS2X</String>
+        <String>DUMMY</String>
+        <String>L3P RUNTIME LOADER 1197</String>
+        <String>NRBPQK</String>
+        <String>OMFTS</String>
+        <String>RRE ACHK%KNEP</String>
+        <String>USRV3</String>
+    </GlobalStrings>
+</TrID>

@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WinMount archive</FileType>
+		<Ext>MOU</Ext>
+		<ExtraInfo>
+			<Rem>http://www.winmount.com/mount_mou.html</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Ryan Jones</User>
+		<E-Mail>sciguyryan@gmail.com</E-Mail>
+		<Home>http://ccc-cymru.com/</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>05</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>18</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D4F55000000000000000500</Bytes>
+			<ASCII> M O U</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>57696E4D6F756E742E636F6D00000000</Bytes>
+			<ASCII> W i n M o u n t . c o m</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WINMOUNT.COM</String>
+	</GlobalStrings>
+</TrID>

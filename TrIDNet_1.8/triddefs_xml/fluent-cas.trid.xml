@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Fluent case</FileType>
+		<Ext>CAS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.fluent.com/software/fluent/index.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>12</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>35</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>28</Bytes>
+			<ASCII> (</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2022</Bytes>
+			<ASCII>   "</ASCII>
+			<Pos>2</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>13</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PRESSURE-</String>
+		<String>VELOCITY</String>
+		<String>INLET</String>
+		<String>CELLS</String>
+		<String>WALL-</String>
+		<String>FACES</String>
+		<String>TURE</String>
+		<String>ZONE</String>
+		<String>TYPE</String>
+		<String>UNST</String>
+		<String>GRID</String>
+	</GlobalStrings>
+</TrID>

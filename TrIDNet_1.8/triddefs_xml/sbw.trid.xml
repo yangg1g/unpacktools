@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Savings Bonds Wizard data</FileType>
+		<Ext>SBW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.savings-bonds-alert.com/us-savings-bond-wizard.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>11</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>40</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>2</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43426F6E64</Bytes>
+			<ASCII> C B o n d</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CBOND</String>
+	</GlobalStrings>
+</TrID>

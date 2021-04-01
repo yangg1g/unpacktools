@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DeLorme map data</FileType>
+		<Ext>PM0</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.delorme.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>21</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>434D6170584D6170</Bytes>
+			<ASCII> C M a p X M a p</ASCII>
+			<Pos>60</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FEATURE TABLE</String>
+		<String>COPYRIGHT</String>
+		<String>CUTTER</String>
+		<String>DELORME</String>
+		<String>-MAP</String>
+		<String>.FTB</String>
+		<String>TOPO</String>
+	</GlobalStrings>
+</TrID>

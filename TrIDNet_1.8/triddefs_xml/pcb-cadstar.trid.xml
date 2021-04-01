@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CADSTAR PCB</FileType>
+		<Ext>PCB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.quadrasol.co.uk/zukan-cadstar-pcb-design-software</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>54</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5043420D0A4461746120537472756374757265204163636573732056657273696F6E20</Bytes>
+			<ASCII> P C B . . D a t a   S t r u c t u r e   A c c e s s   V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

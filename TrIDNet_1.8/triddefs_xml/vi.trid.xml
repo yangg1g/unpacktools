@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LABView Virtual Instrument</FileType>
+		<Ext>VI</Ext>
+		<ExtraInfo>
+			<Rem>LabVIEW is a software tool for designing test, measurement, and control systems.</Rem>
+			<RefURL>http://www.ni.com/labview/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>02</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>42</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>525352430D0A00034C56494E4C42565700</Bytes>
+			<ASCII> R S R C . . . . L V I N L B V W</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

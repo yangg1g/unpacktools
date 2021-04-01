@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Arcsoft MultiMedia Email 3.0 message</FileType>
+		<Ext>ME3</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.arcsoft.com/en/products/multimediaemail/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>37</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>300000002000000050000000E425000034260000</Bytes>
+			<ASCII> 0 . . .   . . . P . . . . % . . 4</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>43</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00417263736F66744D756C74694D65646961456D61696C332E30</Bytes>
+			<ASCII> . A r c s o f t M u l t i M e d i a E m a i l 3 . 0</ASCII>
+			<Pos>47</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A5C</Bytes>
+			<ASCII> : \</ASCII>
+			<Pos>109</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

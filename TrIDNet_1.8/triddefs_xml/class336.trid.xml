@@ -1,0 +1,63 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CLASS336 Markup Language</FileType>
+		<Ext>CLA</Ext>
+		<ExtraInfo>
+			<Rem>An Italian ML for transporting data required by some law.</Rem>
+			<RefURL>www.catarsu.it/extra/CLASS336_v1.3.pdf </RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>29</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C</Bytes>
+			<ASCII> . ? x m l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PROTCOM_E_DATE DVIOLAZIONE</String>
+		<String>NUOVO_CENSIMENTO SEZCENS</String>
+		<String>PROTCAT_E_DATE DPRESAGG</String>
+		<String>CLASS336_MARKUP_FILE_V</String>
+		<String>SINTESI_DATI_ACCERTATI</String>
+		<String>IDENTIFICATIVO CODCOM</String>
+		<String>GENERALITA_DOMICILIO</String>
+		<String>DNOTIFINOLTRATA</String>
+		<String>DNOTIFAVVENUTA</String>
+		<String>INFO TIPOENTE</String>
+		<String>UIUELAB ESITO</String>
+		<String>COMUNE AZIONE</String>
+		<String>UIU SEZCENS</String>
+		<String>NNOTIFICA</String>
+		<String>ENCODING</String>
+		<String>NAGENZIA</String>
+		<String>DINATTI</String>
+		<String>DATAORA</String>
+		<String>CODENTE</String>
+		<String>VERSION</String>
+		<String>SEZURB</String>
+		<String>CLASSE</String>
+		<String>FOGLIO</String>
+		<String>CATEG</String>
+		<String>TOPON</String>
+		<String>NOTA</String>
+	</GlobalStrings>
+</TrID>

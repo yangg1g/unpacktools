@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Chaoxing SSReader Digital Library e-Book</FileType>
+		<Ext>PDG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.chaoxing.com/</RefURL>
+		</ExtraInfo>
+		<User>fengdaolong</User>
+		<E-Mail>fengdaolong@gmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>543</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>04</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>25</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>48480200</Bytes>
+			<ASCII> H H</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0C000000800000</Bytes>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<Pos>32</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>102</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000</Bytes>
+			<Pos>108</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000000000</Bytes>
+			<Pos>123</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

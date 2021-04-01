@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Z80 music code with AY music</FileType>
+        <Ext>AYM</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://sorry.vse.cz/~roman/dimension/rdos/rdosplay/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>27</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>24</Day>
+        </Date>
+        <Time>
+            <Hour>14</Hour>
+            <Min>00</Min>
+            <Sec>00</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>41594D30</Bytes>
+            <ASCII> A Y M 0</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="1.16">
+	<Info>
+		<FileType>Micrognosis Compression Archiver compressed archive</FileType>
+		<Ext></Ext>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2003</Year>
+			<Month>07</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>17</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.00.1</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>B7</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2D</Bytes>
+			<ASCII> -</ASCII>
+			<Pos>2</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>68302D</Bytes>
+			<ASCII> h 0 -</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

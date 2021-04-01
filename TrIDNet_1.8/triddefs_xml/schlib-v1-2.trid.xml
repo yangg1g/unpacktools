@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Protel Schematic Library editor binary v1.2-2.0</FileType>
+		<Ext>SCHLIB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.protel.com/</RefURL>
+		</ExtraInfo>
+		<User>fengdaolong</User>
+		<E-Mail>fengdaolong@gmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>461</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>04</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>17</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4B50726F74656C20666F722057696E646F7773202D20536368656D61746963204C69627261727920456469746F722042696E6172792046696C652056657273696F6E20312E32202D20322E30</Bytes>
+			<ASCII> K P r o t e l   f o r   W i n d o w s   -   S c h e m a t i c   L i b r a r y   E d i t o r   B i n a r y   F i l e   V e r s i o n   1 . 2   -   2 . 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000</Bytes>
+			<Pos>78</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000A000000000000000F54696D6573204E657720526F6D616E</Bytes>
+			<ASCII> . . . . . . . . . . T i m e s   N e w   R o m a n</ASCII>
+			<Pos>93</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>122</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>125</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>KPROTEL FOR WINDOWS - SCHEMATIC LIBRARY EDITOR BINARY FILE VERSION 1.2 - 2.0</String>
+		<String>TIMES NEW ROMAN</String>
+		<String>V 1.5</String>
+	</GlobalStrings>
+</TrID>

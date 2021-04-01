@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Guitar Pro v5 tablature</FileType>
+		<Ext>GP5</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.guitar-pro.com/</RefURL>
+		</ExtraInfo>
+		<User>Mamo</User>
+		<E-Mail>k3rb3ros@libero.it</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>12</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1846494348494552204755495441522050524F2076352E</Bytes>
+			<ASCII> . F I C H I E R   G U I T A R   P R O   v 5</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>	
+</TrID>
+
+

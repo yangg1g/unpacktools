@@ -1,0 +1,64 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>JellyFish Pro Editor PlugIn DLL</FileType>
+        <Ext>DLL</Ext>
+        <ExtraInfo>
+            <Rem>JellyFish Pro is a PowerBASIC editor</Rem>
+            <RefURL>http://www.planetsquires.com/jproplugins.htm</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>27</FileNum>
+        <Refine>13 by Marco Pontello</Refine>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>20</Day>
+        </Date>
+        <Time>
+            <Hour>00</Hour>
+            <Min>17</Min>
+            <Sec>21</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4D5A0A000200000004000F00FFFF0000C00000000000000040000000000000000000000000000000000000000000000000000000000000000000000080000000B409BA10000E1FCD21B8014CCD2190905468697320697320612057696E33322070726F6772616D2E0D0A24000000000000000000000000000000000000000000504500004C01</Bytes>
+            <ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ! . . L . ! . . T h i s   i s   a   W i n 3 2   p r o g r a m . . . $ . . . . . . . . . . . . . . . . . . . . . P E . . L</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00</Bytes>
+            <Pos>135</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000</Bytes>
+            <Pos>138</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00000000E0000E230B010234</Bytes>
+            <ASCII> . . . . . . . # . . . 4</ASCII>
+            <Pos>144</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>$'''''''''''''''''''''PE''L</String>
+        <String>ADVAPI32.DLL</String>
+        <String>COINITIALIZE</String>
+        <String>EXITPROCESS</String>
+        <String>GETMODULEHANDLEA</String>
+        <String>JFP_QUERYPLUGIN'JFP_RUNPLUGIN</String>
+        <String>KERNEL32.DLL</String>
+        <String>OLE32.DLL</String>
+        <String>OLEAUT32.DLL</String>
+        <String>REGOPENKEYEXA</String>
+        <String>SAFEARRAYCREATE</String>
+        <String>THIS IS A WIN32 PROGRAM.</String>
+        <String>USER32.DLL</String>
+    </GlobalStrings>
+</TrID>

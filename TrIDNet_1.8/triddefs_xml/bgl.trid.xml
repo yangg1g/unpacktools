@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Babylon Glossary</FileType>
+		<Ext>BGL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.babylon.com/</RefURL>
+		</ExtraInfo>
+		<User>r0bb3r_xXx</User>
+		<E-Mail>r0bb3r.xXx@gmail.com</E-Mail>
+	</Info>
+	<General>
+		<FileNum>40</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>07</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>24</Min>
+			<Sec>08</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>123400</Bytes>
+			<ASCII> . 4</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

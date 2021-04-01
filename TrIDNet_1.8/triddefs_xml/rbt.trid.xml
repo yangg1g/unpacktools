@@ -1,0 +1,105 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LEGO NXT brick</FileType>
+		<Ext>RBT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://mindstorms.lego.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>24</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>02</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>07</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>525352430D0A00034C56494E4C42565700</Bytes>
+			<ASCII> R S R C . . . . L V I N L B V W</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5361766564</Bytes>
+			<ASCII> S a v e d</ASCII>
+			<Pos>37</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NI.LV.ALL.GOODSYNTAXTARGETS</String>
+		<String>0HAS THE FOLLOWING TAGS SET</String>
+		<String>NI.LV.ALL.VILASTSAVEDTARGET</String>
+		<String>OLDEST COMPATIBLE LABVIEW.</String>
+		<String>_ORIGINALINSTANCEPATH</String>
+		<String>HWPAGE.SENSORTYPE.CTL</String>
+		<String>HWPAGE.SENSORMODE.CTL</String>
+		<String>SEQUENCEBOOLEAN.CTL</String>
+		<String>CONFIGURE START.VI</String>
+		<String>SEQUENCE FLOWPTH0</String>
+		<String>_STARTCONFIG.LLB</String>
+		<String>ISPERSISTANT</String>
+		<String>SENSOR MODE</String>
+		<String>STARTBLOCK</String>
+		<String>NOCONFIG</String>
+		<String>LVINLBVW</String>
+		<String>LEGO.LLB</String>
+		<String>MERLOTI</String>
+		<String>_WIZARD</String>
+		<String>PORT T</String>
+		<String>ACTION</String>
+		<String>LIBDIR</String>
+		<String>UDF'0P</String>
+		<String>UDF'.P</String>
+		<String>BLOCKS</String>
+		<String>VI.LIB</String>
+		<String>TAHOMA</String>
+		<String>TICL8</String>
+		<String>VILIB</String>
+		<String>GENER</String>
+		<String>HTITL</String>
+		<String>XFTAB</String>
+		<String>DHIST</String>
+		<String>VALUE</String>
+		<String>0VITS</String>
+		<String>XCPTM</String>
+		<String>PBDPW</String>
+		<String>DLIVI</String>
+		<String>CPMP</String>
+		<String>NAME</String>
+		<String>ICL4</String>
+		<String>RSRC</String>
+		<String>FPHP</String>
+		<String>LVSR</String>
+		<String>.RBT</String>
+		<String>DLDR</String>
+		<String>RSID</String>
+		<String>CODE</String>
+		<String>BDHP</String>
+		<String>FPTD</String>
+		<String>TREC</String>
+		<String>DSTM</String>
+		<String>VERS</String>
+		<String>BDTS</String>
+		<String>FPTS</String>
+		<String>VIDS</String>
+		<String>ICON</String>
+		<String>VINS</String>
+		<String>DFDS</String>
+		<String>DFLT</String>
+		<String>LIDS</String>
+		<String>LIFP</String>
+		<String>VICD</String>
+		<String>LVCC</String>
+	</GlobalStrings>
+</TrID>

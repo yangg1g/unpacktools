@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ArcExplorer Project</FileType>
+		<Ext>AEP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.esri.com/software/arcexplorer/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>45</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B4152434558504C4F5245525D0D0A56455253494F4E3D</Bytes>
+			<ASCII> [ A R C E X P L O R E R ] . . V E R S I O N =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>24</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

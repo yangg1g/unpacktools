@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Puntotek Embroidery Design</FileType>
+		<Ext>PTK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.puntotek.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>1</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>44</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D00700000000000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>01000100</Bytes>
+			<Pos>13</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0001</Bytes>
+			<Pos>20</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00FFFFFF000A00</Bytes>
+			<Pos>24</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ALGOD</String>
+		<String>CLARO</String>
+		<String>AIDA</String>
+	</GlobalStrings>
+</TrID>

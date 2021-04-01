@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>eMemoPad Data File</FileType>
+		<Ext>EDF</Ext>
+		<ExtraInfo>
+			<Rem>eMemoPad is an outline and layered text editor.</Rem>
+			<RefURL>http://www.ememopad.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>58</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>654D656D6F50616420446174612046696C650D0A56657273696F6E20</Bytes>
+			<ASCII> e M e m o P a d   D a t a   F i l e . . V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

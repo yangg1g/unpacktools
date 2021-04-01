@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PxTone music</FileType>
+		<Ext>PTCOP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/PxTone</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>102</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>7</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>30</Min>
+			<Sec>6</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5054434F4C4C4147452D</Bytes>
+			<ASCII> P T C O L L A G E -</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ASSIUNIT</String>
+		<String>PXTONEND</String>
+		<String>TEXTNAME</String>
+		<String>MATEP</String>
+		<String>EVEN</String>
+		<String>MAST</String>
+	</GlobalStrings>
+</TrID>

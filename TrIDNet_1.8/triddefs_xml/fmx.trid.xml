@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Oracle Executable Form</FileType>
+		<Ext>FMX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.oracle.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>52</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>271B000000000000</Bytes>
+			<ASCII> '</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ANONYMOUS</String>
+		<String>POPUPHINT</String>
+		<String>PKG INIT</String>
+		<String>SQLFORMS</String>
+		<String>STANDARD</String>
+		<String>ROWID</String>
+		<String>TEXT</String>
+	</GlobalStrings>
+</TrID>

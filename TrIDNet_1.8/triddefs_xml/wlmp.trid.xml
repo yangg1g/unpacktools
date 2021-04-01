@@ -1,0 +1,78 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Live Movie Maker Project</FileType>
+		<Ext>WLMP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://explore.live.com/windows-live-movie-maker</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>3</Month>
+			<Day>5</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>30</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D38223F3E0D0A3C50726F6A656374206E616D653D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 " ? . . . . P r o j e c t   n a m e = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BOUNDPROPERTYFLOATELEMENT VALUE</String>
+		<String>BOUNDPLACEHOLDER PLACEHOLDERID</String>
+		<String>BOUNDPROPERTYFLOATSET NAME</String>
+		<String>BOUNDPROPERTYFLOAT NAME</String>
+		<String>EXTENTSELECTOR EXTENTID</String>
+		<String>BOUNDPROPERTYINT NAME</String>
+		<String>SIMPLEPROJECTTEMPLATE</String>
+		<String>BOUNDPLACEHOLDERS</String>
+		<String>ROTATESTEPNINETY</String>
+		<String>SINGLEEXTENTVIEW</String>
+		<String>BOUNDPROPERTIES</String>
+		<String>CLIP EXTENTID</String>
+		<String>SOUNDTRACKMIX</String>
+		<String>EXTENTREF ID</String>
+		<String>MEDIAITEM ID</String>
+		<String>PRIMARYTRACK</String>
+		<String>PROJECT NAME</String>
+		<String>ASPECTRATIO</String>
+		<String>MEDIAITEMID</String>
+		<String>TRANSITIONS</String>
+		<String>XML VERSION</String>
+		<String>EXTENTREFS</String>
+		<String>MEDIAITEMS</String>
+		<String>SONGARTIST</String>
+		<String>TEMPLATEID</String>
+		<String>GAPBEFORE</String>
+		<String>NARRATION</String>
+		<String>SONGALBUM</String>
+		<String>SONGTITLE</String>
+		<String>ARHEIGHT</String>
+		<String>DURATION</String>
+		<String>ENCODING</String>
+		<String>FILEPATH</String>
+		<String>ARWIDTH</String>
+		<String>EFFECTS</String>
+		<String>FALSE</String>
+		<String>UTF-8</String>
+		<String>MAIN</String>
+		<String>TEXT</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

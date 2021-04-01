@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OffsetFinderTemplate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <FormatName>Sega Saturn - SDDRVS.TSK</FormatName>
+    <Author>snakemeat</Author>
+  </Header>
+  <SearchParameters>
+    <SearchString>46FC2700</SearchString>
+    <TreatSearchStringAsHex>true</TreatSearchStringAsHex>
+    <StartingOffset />
+    <UseModOffsetForSearchString>false</UseModOffsetForSearchString>
+    <SearchStringOffset>4096</SearchStringOffset>
+    <OutputFileExtension>.tsk</OutputFileExtension>
+    <MinimumSizeForCutting>0</MinimumSizeForCutting>
+    <CutParameters>
+      <CutStyle>static</CutStyle>
+      <StaticCutSize>28672</StaticCutSize>
+    </CutParameters>
+    <AddExtraBytes>false</AddExtraBytes>
+    <AddExtraByteSize />
+  </SearchParameters>
+  <NotesOrWarnings />
+</OffsetFinderTemplate>

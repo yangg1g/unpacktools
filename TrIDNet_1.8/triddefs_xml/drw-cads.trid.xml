@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CADS Planner drawing</FileType>
+		<Ext>DRW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cadsplanner.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>19</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0D434144532044525720</Bytes>
+			<ASCII> . C A D S   D R W</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>12</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

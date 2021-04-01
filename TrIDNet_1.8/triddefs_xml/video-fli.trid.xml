@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Autodesk Animator</FileType>
+        <Ext>FLI</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.autodesk.com</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home></Home>
+    </Info>
+    <General>
+        <FileNum>76</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>11</Day>
+        </Date>
+        <Time>
+            <Hour>02</Hour>
+            <Min>03</Min>
+            <Sec>41</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.40b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>0011AF</Bytes>
+            <Pos>3</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>4001C80008000300050000000000</Bytes>
+            <ASCII> @</ASCII>
+            <Pos>8</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>464C3130</Bytes>
+            <ASCII> F L 1 0</ASCII>
+            <Pos>26</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>464C313001000100000000000000000000000000000000000000000000000000000000000000000000000000000080000000</Bytes>
+            <ASCII> F L 1 0</ASCII>
+            <Pos>34</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>000000000000000000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+            <Pos>86</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000FAF1020000000000000000000A0300000B0001000000000000</Bytes>
+            <Pos>130</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00000F00</Bytes>
+            <Pos>924</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

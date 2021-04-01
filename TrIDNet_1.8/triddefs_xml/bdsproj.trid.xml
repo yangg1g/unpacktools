@@ -1,0 +1,165 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Borland Developer Studio Project</FileType>
+		<Ext>BDSPROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Borland</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>44</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D38223F3E0D0A3C426F726C616E6450726F6A6563743E0D0A</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 " ? . . . . B o r l a n d P r o j e c t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DUPLICATECONSTRUCTORDESTRUCTOR</String>
+		<String>DEBUG SYMBOLS SEARCH PATH</String>
+		<String>COMBININGSIGNEDUNSIGNED</String>
+		<String>COMPARINGSIGNEDUNSIGNED</String>
+		<String>LOADUNSPECIFIEDSYMBOLS</String>
+		<String>GENERATEDOCUMENTATION</String>
+		<String>CONSTRUCTINGABSTRACT</String>
+		<String>STRINGCONSTTRUNCATED</String>
+		<String>UNSUPPORTEDCONSTRUCT</String>
+		<String>VERSIONINFOKEYS NAME</String>
+		<String>PACKAGEDCPOUTPUTDIR</String>
+		<String>PACKAGEDLLOUTPUTDIR</String>
+		<String>PRIVATEPROPACCESSOR</String>
+		<String>DELPHI.PERSONALITY</String>
+		<String>SUSPICIOUSTYPECAST</String>
+		<String>SYMBOLEXPERIMENTAL</String>
+		<String>DUPLICATESIGNORED</String>
+		<String>IMAGEBASEMULTIPLE</String>
+		<String>DEFAULTNAMESPACE</String>
+		<String>DIRECTORIES NAME</String>
+		<String>FILEVERSION NAME</String>
+		<String>FORLOOPVARVARPAR</String>
+		<String>IMPLICITVARIANTS</String>
+		<String>INVALIDDIRECTIVE</String>
+		<String>MESSAGEDIRECTIVE</String>
+		<String>ORIGINALFILENAME</String>
+		<String>PACKAGETHREADVAR</String>
+		<String>SYMBOLDEPRECATED</String>
+		<String>TYPEDCONSTVARPAR</String>
+		<String>UNITEXPERIMENTAL</String>
+		<String>UNITNAMEMISMATCH</String>
+		<String>VERSIONINFO NAME</String>
+		<String>ASGTOTYPEDCONST</String>
+		<String>BADGLOBALSYMBOL</String>
+		<String>COMPARISONFALSE</String>
+		<String>DEBUGSOURCEDIRS</String>
+		<String>FILEDESCRIPTION</String>
+		<String>FILEOPENUNITSRC</String>
+		<String>FORLOOPVARUNDEF</String>
+		<String>HOSTAPPLICATION</String>
+		<String>LEGALTRADEMARKS</String>
+		<String>LOCALETOUNICODE</String>
+		<String>NAMESPACEPREFIX</String>
+		<String>OPTIONTRUNCATED</String>
+		<String>PARAMETERS NAME</String>
+		<String>PERSONALITYINFO</String>
+		<String>UNICODETOLOCALE</String>
+		<String>WIDECHARREDUCED</String>
+		<String>BORLANDPROJECT</String>
+		<String>CASELABELRANGE</String>
+		<String>COMPARISONTRUE</String>
+		<String>EXEDESCRIPTION</String>
+		<String>HPPEMITIGNORED</String>
+		<String>IMPLICITIMPORT</String>
+		<String>INCLUDEVERINFO</String>
+		<String>LEGALCOPYRIGHT</String>
+		<String>LOADALLSYMBOLS</String>
+		<String>NOCFGFILEFOUND</String>
+		<String>PRODUCTVERSION</String>
+		<String>SYMBOLPLATFORM</String>
+		<String>UNITDEPRECATED</String>
+		<String>COMPILER NAME</String>
+		<String>HIDDENVIRTUAL</String>
+		<String>HRESULTCOMPAT</String>
+		<String>LANGUAGE NAME</String>
+		<String>PACKAGENOLINK</String>
+		<String>REMOTESYMBOLS</String>
+		<String>SYMBOLLIBRARY</String>
+		<String>UNITOUTPUTDIR</String>
+		<String>ZERONILCOMPAT</String>
+		<String>AUTOINCBUILD</String>
+		<String>CONDITIONALS</String>
+		<String>GENERATEHPPS</String>
+		<String>HIDINGMEMBER</String>
+		<String>INTERNALNAME</String>
+		<String>LOCALPINVOKE</String>
+		<String>MAXSTACKSIZE</String>
+		<String>MINSTACKSIZE</String>
+		<String>SHOWWARNINGS</String>
+		<String>UNITPLATFORM</String>
+		<String>USEBEFOREDEF</String>
+		<String>BOUNDSERROR</String>
+		<String>COMPANYNAME</String>
+		<String>FORVARIABLE</String>
+		<String>GENERATEDRC</String>
+		<String>LINKER NAME</String>
+		<String>OPTION NAME</String>
+		<String>PRODUCTNAME</String>
+		<String>PROJECTLANG</String>
+		<String>PROJECTTYPE</String>
+		<String>SOURCE NAME</String>
+		<String>UNITALIASES</String>
+		<String>UNITINITSEQ</String>
+		<String>UNITLIBRARY</String>
+		<String>USELAUNCHER</String>
+		<String>USEPACKAGES</String>
+		<String>XML VERSION</String>
+		<String>ACTIVELANG</String>
+		<String>CONSOLEAPP</String>
+		<String>MAINSOURCE</String>
+		<String>OUTPUTOBJS</String>
+		<String>PRERELEASE</String>
+		<String>SEARCHPATH</String>
+		<String>UNSAFECAST</String>
+		<String>UNSAFECODE</String>
+		<String>UNSAFETYPE</String>
+		<String>DEBUGINFO</String>
+		<String>RUNPARAMS</String>
+		<String>SHOWHINTS</String>
+		<String>CODEPAGE</String>
+		<String>COMMENTS</String>
+		<String>DBIPROCS</String>
+		<String>DBITYPES</String>
+		<String>DEBUGCWD</String>
+		<String>ENCODING</String>
+		<String>MAJORVER</String>
+		<String>MINORVER</String>
+		<String>NORETVAL</String>
+		<String>WINPROCS</String>
+		<String>WINTYPES</String>
+		<String>DBIERRS</String>
+		<String>GARBAGE</String>
+		<String>MAPFILE</String>
+		<String>ROOTDIR</String>
+		<String>SPECIAL</String>
+		<String>WINDOWS</String>
+		<String>UTF-8</String>
+		<String>GUID</String>
+	</GlobalStrings>
+</TrID>

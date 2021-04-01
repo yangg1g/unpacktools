@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TrendMicro System Cleaner database</FileType>
+		<Ext>PTN</Ext>
+		<ExtraInfo>
+			<Rem>Newer style tsc.ptn. Part of TrendMicro House Call DCE (Damage Cleaneup Engine)</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Kieran O'Donnell</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>31</Min>
+			<Sec>0</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>56657220</Bytes>
+			<ASCII> V e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000001AE2BD1A0100</Bytes>
+			<Pos>10</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>01FD0000FF9FFAF7FFFEFF7EFF</Bytes>
+			<ASCII> . . . . . . . . . . . ~</ASCII>
+			<Pos>27</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

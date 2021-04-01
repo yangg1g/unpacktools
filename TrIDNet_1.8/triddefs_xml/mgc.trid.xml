@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>magic compiled data</FileType>
+		<Ext>MGC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/File_(command)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>13</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1C041EF1</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

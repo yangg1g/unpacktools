@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Infinity Engine Creature (generic)</FileType>
+		<Ext>CRE</Ext>
+		<ExtraInfo>
+			<Rem>Infinity Engine CRE files describe a "creature".</Rem>
+			<RefURL>http://iesdp.gibberlings3.net/file_formats/ie_formats/cre_v1.htm</RefURL>
+		</ExtraInfo>
+		<User>Sam.</User>
+		<E-Mail>sampsca@yahoo.com</E-Mail>
+		<Home>http://www.shsforums.net/user/10485-sam/</Home>
+	</Info>
+	<General>
+		<FileNum>6167</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>2</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>50</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4352452056</Bytes>
+			<ASCII> C R E   V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

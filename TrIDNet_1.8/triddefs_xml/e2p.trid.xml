@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PonyProg device file</FileType>
+		<Ext>E2P</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.lancos.com/prog.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>38</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>453250214C616E63</Bytes>
+			<ASCII> E 2 P ! L a n c</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

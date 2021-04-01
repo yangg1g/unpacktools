@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>KChess saved match</FileType>
+		<Ext>KCH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.arkangles.com/kchess/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>09</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>32</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B4B43686573732047616D655D0D0A576869746554696D653A20</Bytes>
+			<ASCII> [ K C h e s s   G a m e ] . . W h i t e T i m e :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BLACKTIME</String>
+		<String>WHITETIME</String>
+		<String>ROTATED</String>
+		<String>ENDGAME</String>
+	</GlobalStrings>
+</TrID>

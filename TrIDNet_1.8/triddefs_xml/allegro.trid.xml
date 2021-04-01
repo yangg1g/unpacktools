@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Allegro data (generic)</FileType>
+		<Ext>DAT</Ext>
+		<ExtraInfo>
+			<Rem>Allegro is a free hi-quality game-oriented programming library</Rem>
+			<RefURL>http://www.talula.demon.co.uk/allegro/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>39</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>736C68</Bytes>
+			<ASCII> s l h</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

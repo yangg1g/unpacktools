@@ -1,0 +1,123 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WinDev Report</FileType>
+		<Ext>WDE</Ext>
+		<ExtraInfo>
+			<Rem>WinDev is a RAD tool by PC Soft.</Rem>
+			<RefURL>http://www.windev.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>121</FileNum>
+		<Refine>43 by Marco Pontello</Refine>
+		<Date>
+			<Year>2005</Year>
+			<Month>08</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>20</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504353001400000003000000</Bytes>
+			<ASCII> P C S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>13</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>15</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>04</Bytes>
+			<Pos>19</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000006C000000</Bytes>
+			<ASCII> . . . . . . . . . . . l</ASCII>
+			<Pos>21</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>37</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0039000000000000000000000000000000</Bytes>
+			<ASCII> . 9</ASCII>
+			<Pos>39</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>59</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>61</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>63</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>67</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0030</Bytes>
+			<ASCII> . 0</ASCII>
+			<Pos>69</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2D</Bytes>
+			<ASCII> -</ASCII>
+			<Pos>72</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000B00000000</Bytes>
+			<Pos>80</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000011</Bytes>
+			<Pos>87</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000002</Bytes>
+			<Pos>93</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>98</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000</Bytes>
+			<Pos>103</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>113</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000013</Bytes>
+			<Pos>118</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>127</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000050000000006000000</Bytes>
+			<Pos>133</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

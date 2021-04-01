@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GPS Tuner map calibration data</FileType>
+		<Ext>GMI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.gpstuner.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>01</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>14</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D61702043616C6962726174696F6E20646174612066696C652076</Bytes>
+			<ASCII> M a p   C a l i b r a t i o n   d a t a   f i l e   v</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Photodex ProShow Workspace</FileType>
+		<Ext>PPR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.photodex.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>04</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50686F746F6465782852292050726F53686F7728544D2920576F726B73706163652046696C652056657273696F6E3D</Bytes>
+			<ASCII> P h o t o d e x ( R )   P r o S h o w ( T M )   W o r k s p a c e   F i l e   V e r s i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PHOTODEX(R) PROSHOW(TM) WORKSPACE FILE VERSION</String>
+		<String>SHOWS</String>
+		<String>MENU</String>
+	</GlobalStrings>
+</TrID>

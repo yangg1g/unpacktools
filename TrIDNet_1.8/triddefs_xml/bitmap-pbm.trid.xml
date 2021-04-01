@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Unix Portable BitMap</FileType>
+		<Ext>PBM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>01</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>53</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5034</Bytes>
+			<ASCII> P 4</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

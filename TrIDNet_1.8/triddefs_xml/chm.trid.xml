@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows HELP File</FileType>
+		<Ext>CHM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Davide "Airex" Airaghi</User>
+		<E-Mail>airex"AT"tiscali"DOT".it</E-Mail>
+		<Home>http://tinyurl.com/6vyg2wu</Home>
+	</Info>
+	<General>
+		<FileNum>226</FileNum>
+		<Refine>16 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>01</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>12</Min>
+			<Sec>54</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>49545346</Bytes>
+			<ASCII> I T S F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

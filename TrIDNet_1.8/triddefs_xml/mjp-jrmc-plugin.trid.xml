@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>J.River Media Center plugin</FileType>
+		<Ext>MJP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.jrmediacenter.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>04</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>13</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B5061636B6167655D</Bytes>
+			<ASCII> [ P a c k a g e ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PACKAGE</String>
+		<String>ACTION</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

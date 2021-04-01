@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Document Imaging format</FileType>
+		<Ext>MDI</Ext>
+		<ExtraInfo>
+			<Rem>Microsoft Document Imaging Format (MDI) is a high resolution, tag-based graphics format, based on the Tagged Image File Format (TIFF) used for digital graphics. MDI files are usually created with the 'Microsoft Office Document Image Writer' virtual printer that get installed along with Office 2003.</Rem>
+			<RefURL>http://office.microsoft.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>01</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>55</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4550</Bytes>
+			<ASCII> E P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>3</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>DICT</String>
+	</GlobalStrings>
+</TrID>

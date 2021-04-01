@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Outlook Exchange Offline Storage</FileType>
+		<Ext>OST</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Jonathan Marsh</User>
+		<E-Mail>jmarsh@opendoorsolutions.com</E-Mail>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>01</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>01</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2142444E</Bytes>
+			<ASCII> ! B D N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>534F</Bytes>
+			<ASCII> S O</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>
+

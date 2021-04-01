@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Merkaartor Document</FileType>
+		<Ext>MDC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Merkaartor</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>5</Month>
+			<Day>6</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>55</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E30223F3E0D0A3C4D65726B616172746F72446F63756D656E742076657273696F6E3D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 " ? . . . . M e r k a a r t o r D o c u m e n t   v e r s i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MERKAARTORDOCUMENT VERSION</String>
+		<String>COMMANDHISTORY INDEX</String>
+		<String>IMAGEMAPLAYER XML</String>
+		<String>BOTTOMLEFT LON</String>
+		<String>MERKAARTOR V</String>
+		<String>TOPRIGHT LON</String>
+		<String>MAPDOCUMENT</String>
+		<String>XML VERSION</String>
+		<String>SELECTED</String>
+		<String>VIEWPORT</String>
+		<String>CREATOR</String>
+		<String>ENABLED</String>
+		<String>MAPVIEW</String>
+		<String>VISIBLE</String>
+		<String>BGTYPE</String>
+		<String>ALPHA</String>
+		<String>FALSE</String>
+		<String>NAME</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ACIS Solid Model</FileType>
+		<Ext>SAT</Ext>
+		<ExtraInfo>
+			<Rem>SAT is the Standard ACIS Text format for exchanging information with the ACIS geometry definitions.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>32</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>05</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>48</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>30</Bytes>
+			<ASCII> 0</ASCII>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>3</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PLANE-SURFACE</String>
+		<String>FORWARD</String>
+		<String>COEDGE</String>
+		<String>-CURVE</String>
+		<String>VERTEX</String>
+		<String>POINT</String>
+		<String>SHELL</String>
+		<String>LUMP</String>
+		<String>BODY</String>
+		<String>LOOP</String>
+	</GlobalStrings>
+</TrID>

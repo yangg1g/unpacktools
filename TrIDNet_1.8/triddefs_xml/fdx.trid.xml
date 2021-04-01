@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Final Draft Script</FileType>
+		<Ext>FDX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.finaldraft.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>10</Min>
+			<Sec>9</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FINALDRAFT DOCUMENTTYPE</String>
+		<String>PARAGRAPH TYPE</String>
+		<String>TEMPLATE</String>
+		<String>CONTENT</String>
+		<String>VERSION</String>
+		<String>SCRIPT</String>
+		<String>TEXT</String>
+	</GlobalStrings>
+</TrID>

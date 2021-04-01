@@ -1,0 +1,36 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Game Boy Advance ROM</FileType>
+		<Ext>GBA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.psproms.com/emulation/gba_roms_emulator.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>07</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>10</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EA</Bytes>
+			<Pos>3</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>$$$$$</String>
+	</GlobalStrings>
+</TrID>

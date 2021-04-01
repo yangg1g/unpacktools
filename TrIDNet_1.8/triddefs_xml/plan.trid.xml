@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Home Designer plan</FileType>
+		<Ext>PLAN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.homedesignersoftware.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>45</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>01CA5004</Bytes>
+			<ASCII> . . P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>486F6D652044657369676E657220</Bytes>
+			<ASCII> H o m e   D e s i g n e r</ASCII>
+			<Pos>238</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

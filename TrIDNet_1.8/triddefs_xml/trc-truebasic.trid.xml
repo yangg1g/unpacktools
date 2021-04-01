@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>True BASIC compiled code</FileType>
+		<Ext>TRC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.truebasic.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>47</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D4430000</Bytes>
+			<ASCII> . C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>006200</Bytes>
+			<ASCII> . b</ASCII>
+			<Pos>6</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>START</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PowerDesigner file (generic)</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>43</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2F424547494E5F5441424C4520414D43484541440D0A4E414D4520</Bytes>
+			<ASCII> / B E G I N _ T A B L E   A M C H E A D . . N A M E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5645525320</Bytes>
+			<ASCII> V E R S</ASCII>
+			<Pos>32</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>506F77657244657369676E65722F</Bytes>
+			<ASCII> P o w e r D e s i g n e r /</ASCII>
+			<Pos>72</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

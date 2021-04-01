@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Visual Studio project template (Unicode)</FileType>
+		<Ext>VSTEMPLATE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Microsoft_Visual_Studio</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>3</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>VSTEMPLATE VERSION</String>
+		<String>REPLACEPARAMETERS</String>
+		<String>TEMPLATECONTENT</String>
+		<String>TEMPLATEDATA</String>
+		<String>DEFAULTNAME</String>
+		<String>DESCRIPTION</String>
+		<String>PROJECTITEM</String>
+		<String>DEVELOPER</String>
+		<String>SORTORDER</String>
+		<String>XMLNS</String>
+		<String>2005</String>
+		<String>FILE</String>
+		<String>HTTP</String>
+		<String>ICON</String>
+		<String>TRUE</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

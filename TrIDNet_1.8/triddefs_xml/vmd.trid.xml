@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VocalTec Media Descriptor</FileType>
+		<Ext>VMD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.vocaltec.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>25</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B564D445D</Bytes>
+			<ASCII> [ V M D ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BASE</String>
+		<String>HTTP</String>
+		<String>INFO</String>
+		<String>.VMF</String>
+		<String>MOOD</String>
+	</GlobalStrings>
+</TrID>

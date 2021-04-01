@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Ericsson eMelody Ringtone</FileType>
+		<Ext>EMY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ericsson.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>06</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>46</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>424547494E3A454D454C4F44590D0A</Bytes>
+			<ASCII> B E G I N : E M E L O D Y</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>EMELODY</String>
+		<String>VERSION</String>
+		<String>BEGIN</String>
+	</GlobalStrings>
+</TrID>

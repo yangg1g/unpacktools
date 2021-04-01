@@ -1,0 +1,80 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Pro/Desktop Design</FileType>
+		<Ext>DES</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.prodesktop.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>91</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>08</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>32</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E007400720079</Bytes>
+			<ASCII> R . o . o . t .   . E . n . t . r . y</ASCII>
+			<Pos>1024</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E007400720079</Bytes>
+			<ASCII> R . o . o . t .   . E . n . t . r . y</ASCII>
+			<Pos>1536</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>D'O'C'U'M'E'N'T'S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N'''''''''''8</String>
+		<String>B'L'Q'M'H'M'0'1'J'T'U'D'B'J'0'N'A'A'Y'O'J'J'O'H'B'G'''''''''''8</String>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N'''''''''''''''''''''''''''(</String>
+		<String>O'L'E'I'T'E'M'S'S'T'R'E'A'M</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>CPROPERTYCOLLECTION</String>
+		<String>CEXPRESSIONSYSTEM</String>
+		<String>_PRIVATE_SKETCH_</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>CCUSTOMPROPERTY</String>
+		<String>ZENDUSERPRODUCT</String>
+		<String>ZBASICSTRAIGHT</String>
+		<String>ZDESIGNHISTORY</String>
+		<String>ZFRAGMENTPOOL</String>
+		<String>CCONFIGSHEET</String>
+		<String>CCONSTRAINT</String>
+		<String>ZBASICPLANE</String>
+		<String>CWORKPLANE</String>
+		<String>ZEDGETABLE</String>
+		<String>CVARIABLE</String>
+		<String>INITIAL</String>
+		<String>FRONTAL</String>
+		<String>LATERAL</String>
+		<String>CDESIGN</String>
+		<String>DENSITY</String>
+		<String>ZREFSET</String>
+		<String>CSKETCH</String>
+		<String>METRIC</String>
+		<String>CPOINT</String>
+		<String>ZPOINT</String>
+		<String>POINTS</String>
+		<String>CLINE</String>
+		<String>.DES</String>
+		<String>BASE</String>
+	</GlobalStrings>
+</TrID>

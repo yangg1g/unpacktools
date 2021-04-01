@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LU library</FileType>
+		<Ext>LBR</Ext>
+		<ExtraInfo>
+			<Rem>This is a CP/M format used by LU Library Utility program and the LRUN command-file load-and-go utility.</Rem>
+			<RefURL>http://www.retroarchive.org/cpm/cdrom/UTILS/00README.TXT</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>16</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0020202020202020202020200000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

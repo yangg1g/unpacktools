@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DVR-Studio stream</FileType>
+		<Ext>DVR</Ext>
+		<ExtraInfo>
+			<Rem>DVR-Studio is a software for editing and demultiplexing recordings of several harddisk satellite receivers on the PC.</Rem>
+			<RefURL>http://www.haenlein-software.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>10</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>12</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>445652</Bytes>
+			<ASCII> D V R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Multi Edit configuration</FileType>
+		<Ext>ME/MEW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.multieditsoftware.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>10</Min>
+			<Sec>02</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>404D554C54492D4544495420</Bytes>
+			<ASCII> @ M U L T I - E D I T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DEFAULT_INSERT_MODE</String>
+		<String>DEF_REPL_SWITCHES</String>
+		<String>DEF_FSR_SWITCHES</String>
+		<String>DEF_FS_SWITCHES</String>
+		<String>FC_CONFIG_STR</String>
+		<String>FILE_HISTORY1</String>
+		<String>DEF_SWITCHES</String>
+		<String>LOAD_COUNT</String>
+		<String>EXTENSIONS</String>
+		<String>MULTI-EDIT</String>
+		<String>FRSWITCHES</String>
+		<String>FSWITCHES</String>
+		<String>VERSION</String>
+		<String>_STYLE</String>
+		<String>CALC_</String>
+		<String>DELAY</String>
+		<String>BLOCK</String>
+		<String>G_INT</String>
+		<String>MISC</String>
+	</GlobalStrings>
+</TrID>

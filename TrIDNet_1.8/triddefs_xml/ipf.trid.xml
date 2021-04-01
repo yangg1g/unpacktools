@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Interchangeable Preservation Format floppy disk image</FileType>
+		<Ext>IPF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.softpres.org/glossary:ipf</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>45</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>04</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>43415053</Bytes>
+			<ASCII> C A P S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>494E464F</Bytes>
+			<ASCII> I N F O</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>494D4745</Bytes>
+			<ASCII> I M G E</ASCII>
+			<Pos>108</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

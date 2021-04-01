@@ -1,0 +1,76 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Chem3D Format</FileType>
+		<Ext>C3D</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.camsoft.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>21</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>33</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5761</Bytes>
+			<ASCII> W a</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>53796D626F6C</Bytes>
+			<ASCII> S y m b o l</ASCII>
+			<Pos>171</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>53796D626F6C</Bytes>
+			<ASCII> S y m b o l</ASCII>
+			<Pos>200</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>436F76616C656E7420526164697573</Bytes>
+			<ASCII> C o v a l e n t   R a d i u s</ASCII>
+			<Pos>224</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NUMBER OF DELOCALIZED BONDS</String>
+		<String>NUMBER OF DOUBLE BONDS</String>
+		<String>NUMBER OF TRIPLE BONDS</String>
+		<String>VAN DER WAALS RADIUS</String>
+		<String>OPTIMAL MEASUREMENT</String>
+		<String>ACTUAL MEASUREMENT</String>
+		<String>RECTIFICATION TYPE</String>
+		<String>MAXIMUM RING SIZE</String>
+		<String>COVALENT RADIUS</String>
+		<String>BOUND-TO ORDER</String>
+		<String>BOUND-TO TYPE</String>
+		<String>MEASUREMENTS</String>
+		<String>TEXT NUMBER</String>
+		<String>ATOM TYPES</String>
+		<String>MAX RING</String>
+		<String>ELEMENTS</String>
+		<String>GEOMETRY</String>
+		<String>COV RAD</String>
+		<String>PATTERN</String>
+		<String>QUALITY</String>
+		<String>SYMBOL</String>
+		<String>CHARGE</String>
+		<String>COLOR</String>
+		<String>ATOMS</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OffsetFinderTemplate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <FormatName>Dreamcast - DTPK</FormatName>
+    <Author>manakoAT</Author>
+  </Header>
+  <SearchParameters>
+    <SearchString>DTPK</SearchString>
+    <TreatSearchStringAsHex>false</TreatSearchStringAsHex>
+    <SearchStringOffset>0x00</SearchStringOffset>
+    <OutputFileExtension>.dtpk</OutputFileExtension>
+    <CutParameters>
+      <CutStyle>offset</CutStyle>
+      <CutSizeAtOffset>0x8</CutSizeAtOffset>
+      <CutSizeOffsetSize>4</CutSizeOffsetSize>
+    </CutParameters>
+    <AddExtraBytes>false</AddExtraBytes>
+    <AddExtraByteSize />
+  </SearchParameters>
+  <NotesOrWarnings />
+</OffsetFinderTemplate>

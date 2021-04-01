@@ -1,0 +1,30 @@
+<TrID ver="1.16">
+    <Info>
+        <FileType>SuperView Graphics bitmap</FileType>
+        <Ext>SVG</Ext>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>5</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>14</Day>
+        </Date>
+        <Time>
+            <Hour>14</Hour>
+            <Min>20</Min>
+            <Sec>09</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00.1</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>5356472047726170686963732046696C6500</Bytes>
+            <ASCII> S V G   G r a p h i c s   F i l e</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

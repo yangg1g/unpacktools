@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GLBasic Project (XML)</FileType>
+		<Ext>GBAP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.glbasic.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>4</Min>
+			<Sec>3</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GLBASIC APP_NAME</String>
+		<String>PLATFORM ACTIVE</String>
+		<String>COMPANY_NAME</String>
+		<String>CONSOLE_PRG</String>
+		<String>MAXDIMDEBUG</String>
+		<String>MULTISAMPLE</String>
+		<String>XML VERSION</String>
+		<String>FULLSCREEN</String>
+		<String>DEBUGFULL</String>
+		<String>EDITFILES</String>
+		<String>FILE PATH</String>
+		<String>FRAMERATE</String>
+		<String>PLATFORMS</String>
+		<String>EDITLINE</String>
+		<String>ENCODING</String>
+		<String>SRCFILES</String>
+		<String>STRICT</String>
+		<String>.GBAS</String>
+		<String>RESX</String>
+		<String>RESY</String>
+	</GlobalStrings>
+</TrID>

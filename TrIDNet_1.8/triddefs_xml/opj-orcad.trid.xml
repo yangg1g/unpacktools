@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OrCAD Project</FileType>
+		<Ext>OPJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/ORCAD</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>59</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>284578707265737350726F6A6563742022</Bytes>
+			<ASCII> ( E x p r e s s P r o j e c t   "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>(COMPILEFILEADDEDORDELETED</String>
+		<String>(BUILDFILEADDEDORDELETED</String>
+		<String>DESIGN RESOURCES</String>
+		<String>CORCAPTUREPMDOC</String>
+		<String>(EXPRESSPROJECT</String>
+		<String>(HIERARCHYVIEW)</String>
+		<String>(GLOBALSTATE</String>
+		<String>(PROJECTTYPE</String>
+		<String>(PLACEMENT</String>
+		<String>(NOMODIFY)</String>
+		<String>(FILEVIEW</String>
+		<String>SCHEMATIC</String>
+		<String>(TAB 0))</String>
+		<String>OUTPUTS</String>
+		<String>LIBRARY</String>
+		<String>(FOLDER</String>
+		<String>(FRAME</String>
+		<String>(TYPE</String>
+		<String>(PATH</String>
+		<String>(DOC</String>
+	</GlobalStrings>
+</TrID>

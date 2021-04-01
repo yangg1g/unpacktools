@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Infinity Engine sound (v1.0)</FileType>
+		<Ext>WAV</Ext>
+		<ExtraInfo>
+			<Rem>Infinity Engine WAV files are ACM (Infinity Engine Music) files with an additional header attached to simplify buffer estimation during file decompression.</Rem>
+			<RefURL>http://iesdp.gibberlings3.net/file_formats/ie_formats/wavc_v1.htm</RefURL>
+		</ExtraInfo>
+		<User>Sam.</User>
+		<E-Mail>sampsca@yahoo.com</E-Mail>
+		<Home>http://www.shsforums.net/user/10485-sam/</Home>
+	</Info>
+	<General>
+		<FileNum>20735</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>2</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>12</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5741564356312E30</Bytes>
+			<ASCII> W A V C V 1 . 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

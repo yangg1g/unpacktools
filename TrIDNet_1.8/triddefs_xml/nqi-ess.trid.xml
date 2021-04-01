@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ESET Smart Security Quarantined file Information</FileType>
+		<Ext>NQI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://es.wikipedia.org/wiki/ESET_Smart_Security</RefURL>
+		</ExtraInfo>
+		<User>Ryan Jones</User>
+		<E-Mail>ryan.jones@ccc-cymru.com</E-Mail>
+		<Home>http://ccc-cymru.com</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>03</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>17</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4551494601000000</Bytes>
+			<ASCII> E Q I F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>EQIF</String>
+	</GlobalStrings>
+</TrID>

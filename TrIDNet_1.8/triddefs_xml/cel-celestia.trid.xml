@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Celestia script</FileType>
+		<Ext>CEL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Celestia</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>7</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>18</Min>
+			<Sec>3</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7B</Bytes>
+			<ASCII> {</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RENDERFLAGS</String>
+		<String>DISTANCE</String>
+		<String>DURATION</String>
+		<String>LATITUDE</String>
+		<String>FOLLOW</String>
+		<String>OBJECT</String>
+		<String>SELECT</String>
+		<String>CLEAR</String>
+		<String>ORBIT</String>
+		<String>PRINT</String>
+		<String>GOTO</String>
+		<String>RATE</String>
+		<String>TEXT</String>
+		<String>TIME</String>
+		<String>WAIT</String>
+	</GlobalStrings>
+</TrID>

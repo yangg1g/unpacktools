@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FileLocator Pro search criteria file</FileType>
+		<Ext>SRF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mythicsoft.com/filelocatorpro</RefURL>
+		</ExtraInfo>
+		<User>Meigel</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>03</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>29</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>010300000200000002000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>INTERPRETERCONFIG</String>
+		<String>WWW.MYTHICSOFT.COM/FILELOCATOR</String>
+	</GlobalStrings>
+</TrID>

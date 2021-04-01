@@ -1,0 +1,34 @@
+<TrID ver="1.16">
+    <Info>
+        <FileType>SPSS Type Library</FileType>
+        <Ext>TLB</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.spss.com/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>4</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>22</Day>
+        </Date>
+        <Time>
+            <Hour>23</Hour>
+            <Min>27</Min>
+            <Sec>26</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00.1</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4D53465402000100000000000904000009040000510000000700</Bytes>
+            <ASCII> M S F T . . . . . . . . . . . . . . . . Q</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

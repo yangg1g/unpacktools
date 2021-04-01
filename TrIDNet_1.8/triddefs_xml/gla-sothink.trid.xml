@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sothink SWF Easy Project</FileType>
+		<Ext>GLA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sothink.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>3</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>1</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE1</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>B'K'G'N'D' 'S'C'E'N'E'S</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>V'E'R'S'I'O'N</String>
+		<String>I'N'D'E'X</String>
+		<String>M'A'G'I'C</String>
+		<String>M'A'I'N</String>
+		<String>P'R'O'P</String>
+		<String>SYMBOL</String>
+		<String>D'O'C</String>
+		<String>L'I'B</String>
+		<String>SCENE</String>
+	</GlobalStrings>
+</TrID>

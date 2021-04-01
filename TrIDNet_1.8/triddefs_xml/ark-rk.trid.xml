@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WinRK File Archive</FileType>
+		<Ext>RK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.msoftware.co.nz</RefURL>
+		</ExtraInfo>
+		<User>Meigel</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>21</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>03</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>41</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>AA0400000000ADBBDA04000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>17</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

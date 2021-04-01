@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Safari Web History</FileType>
+		<Ext>WEBHISTORY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Safari_%28web_browser%29</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>4</Hour>
+			<Min>5</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>62706C6973743030</Bytes>
+			<ASCII> b p l i s t 0 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>01020304</Bytes>
+			<Pos>9</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BPLIST00</String>
+		<String>TNAME</String>
+		<String>HTTP</String>
+		<String>SURL</String>
+	</GlobalStrings>
+</TrID>

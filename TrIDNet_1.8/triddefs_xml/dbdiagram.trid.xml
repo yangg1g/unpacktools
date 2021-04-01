@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DataBase Diagram</FileType>
+		<Ext>DBD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>7</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>30</Min>
+			<Sec>9</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C584D4C4469616772616D3E</Bytes>
+			<ASCII> . X M L D i a g r a m</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TDBADIAGRAMCONTROLLER LOCKED</String>
+		<String>TDIAGRAMMETATABLEPROPERTIES</String>
+		<String>TDBADIAGRAMOBJECT</String>
+		<String>PROPERTIESCLASS</String>
+		<String>GEOMETRY LEFT</String>
+		<String>SURFACE ZOOM</String>
+		<String>OBJECTNAME</String>
+		<String>XMLDIAGRAM</String>
+		<String>ELEMENTS</String>
+		<String>SCROLLX</String>
+		<String>SCROLLY</String>
+		<String>HEIGHT</String>
+		<String>GLYPH</String>
+		<String>WIDTH</String>
+	</GlobalStrings>
+</TrID>

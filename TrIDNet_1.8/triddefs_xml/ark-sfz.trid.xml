@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>SFzip SoundFont compressod archive</FileType>
+        <Ext>SFZ</Ext>
+        <ExtraInfo>
+            <Rem>SFzip is a Windows program that performs lossless compression/decompression and manages archives of SoundFont files</Rem>
+            <RefURL>http://futalgo.planetaclix.pt/sfzip/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>5</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>12</Month>
+            <Day>12</Day>
+        </Date>
+        <Time>
+            <Hour>16</Hour>
+            <Min>10</Min>
+            <Sec>36</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>0053465A41</Bytes>
+            <ASCII> . S F Z A</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>.SF2RIFF</String>
+        <String>ICMT</String>
+        <String>ICOP</String>
+        <String>IENG</String>
+        <String>INAM</String>
+        <String>INFOIFIL</String>
+        <String>ISFT</String>
+        <String>ISNG</String>
+        <String>SDTASMPL</String>
+        <String>SFBKLIST</String>
+        <String>SFEDT</String>
+        <String>SFZA</String>
+    </GlobalStrings>
+</TrID>

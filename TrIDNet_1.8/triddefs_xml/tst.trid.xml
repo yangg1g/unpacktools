@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ExamView Test</FileType>
+		<Ext>TST</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.fscreations.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>26</FileNum>
+		<Refine>7 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>24</Min>
+			<Sec>02</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1A4653435453</Bytes>
+			<ASCII> . F S C T S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>235723</Bytes>
+			<ASCII> # W #</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

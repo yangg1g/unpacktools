@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>QualComm PureVoice</FileType>
+		<Ext>QCP</Ext>
+		<ExtraInfo>
+			<Rem>PureVoice is a voice codec developed by QualComm</Rem>
+			<RefURL>http://www.cdmatech.com/solutions/products/purevoice.jsp</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2006</Year>
+			<Month>02</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>55</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52494646</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>514C434D666D74</Bytes>
+			<ASCII> Q L C M f m t</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

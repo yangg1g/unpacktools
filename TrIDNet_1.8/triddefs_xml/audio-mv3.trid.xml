@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>AUPEC encoded audio</FileType>
+        <Ext>MV3</Ext>
+        <ExtraInfo>
+            <Rem>Auckland University Perceptual Entropy Coder By Mark Vinton</Rem>
+            <RefURL>http://www.rjamorim.com/rrw/aupec.html</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>17</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>12</Month>
+            <Day>06</Day>
+        </Date>
+        <Time>
+            <Hour>16</Hour>
+            <Min>50</Min>
+            <Sec>51</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>56415267</Bytes>
+            <ASCII> V A R g</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>01</Bytes>
+            <Pos>5</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>44AC02</Bytes>
+            <ASCII> D</ASCII>
+            <Pos>7</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>NONEMV</String>
+    </GlobalStrings>
+</TrID>

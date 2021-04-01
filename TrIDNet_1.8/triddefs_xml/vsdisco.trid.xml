@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DISCO Dynamic Discovery file</FileType>
+		<Ext>VSDISCO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Web_Services_Discovery</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>08</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCHEMAS-DYNAMICDISCOVERY</String>
+		<String>DYNAMICDISCOVERY XMLNS</String>
+		<String>DISCO.2000-03-17</String>
+		<String>EXCLUDE PATH</String>
+		<String>XML VERSION</String>
+		<String>_VTI_SCRIPT</String>
+		<String>_VTI_CNF</String>
+		<String>_VTI_PVT</String>
+		<String>_VTI_LOG</String>
+		<String>_VTI_TXT</String>
+	</GlobalStrings>
+</TrID>

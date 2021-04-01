@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XmaConverterSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <FormatName>[XBOX360] Fallout: New Vegas</FormatName>
+    <Author />
+  </Header>
+  <UseXmaParse>true</UseXmaParse>
+  <XmaParseParameters>
+    <XmaType>2</XmaType>
+    <RebuildXma>false</RebuildXma>
+    <IgnoreXmaParseErrors>true</IgnoreXmaParseErrors>
+    <UseStaticStartOffset>false</UseStaticStartOffset>
+    <UseDynamicStartOffset>false</UseDynamicStartOffset>
+    <SetStartOffsetAfterRiffHeader>true</SetStartOffsetAfterRiffHeader>
+    <StartOffsetStatic />
+    <UseStaticBlockSize>true</UseStaticBlockSize>
+    <UseDynamicBlockSize>false</UseDynamicBlockSize>
+    <BlockSizeStatic>0x8000</BlockSizeStatic>
+    <UseStaticDataSize>false</UseStaticDataSize>
+    <UseDynamicDataSize>false</UseDynamicDataSize>
+    <GetDataSizeFromRiffHeader>true</GetDataSizeFromRiffHeader>
+    <DataSizeStatic />
+  </XmaParseParameters>
+  <AddRiffHeader>true</AddRiffHeader>
+  <RiffParameters>
+    <UseStaticFrequency>false</UseStaticFrequency>
+    <GetFrequencyFromRiffHeader>true</GetFrequencyFromRiffHeader>
+    <UseStaticChannels>false</UseStaticChannels>
+    <GetChannelsFromRiffHeader>true</GetChannelsFromRiffHeader>
+  </RiffParameters>
+  <CreatePosFile>false</CreatePosFile>
+  <PosFileParameters>
+    <UseStaticStartOffset>false</UseStaticStartOffset>
+    <UseDynamicStartOffset>true</UseDynamicStartOffset>
+    <StartOffsetStatic />
+    <StartOffsetOffset />
+    <StartOffsetOffsetSize>4</StartOffsetOffsetSize>
+    <StartOffsetOffsetEndianess>little</StartOffsetOffsetEndianess>
+    <StartOffsetCalculation />
+    <UseStaticEndOffset>false</UseStaticEndOffset>
+    <UseDynamicEndOffset>true</UseDynamicEndOffset>
+    <EndOffsetStatic />
+    <EndOffsetOffset />
+    <EndOffsetOffsetSize>4</EndOffsetOffsetSize>
+    <EndOffsetOffsetEndianess>little</EndOffsetOffsetEndianess>
+    <EndOffsetCalculation />
+  </PosFileParameters>
+  <WavConversionParameters>
+    <UseXmaEncode>false</UseXmaEncode>
+    <UseToWav>true</UseToWav>
+  </WavConversionParameters>
+  <NotesOrWarnings />
+</XmaConverterSettings>

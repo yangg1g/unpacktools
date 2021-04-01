@@ -1,0 +1,141 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AGInstaller setup</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.agentix.org/aginstaller.php</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>03</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>29</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A</Bytes>
+			<ASCII> M Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000400</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00FFFF0000</Bytes>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>17</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000004000</Bytes>
+			<ASCII> . . . . @</ASCII>
+			<Pos>20</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>27</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000</Bytes>
+			<Pos>31</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000000000000000</Bytes>
+			<Pos>40</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>62</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>CD21B8014CCD21</Bytes>
+			<ASCII> . ! . . L . !</ASCII>
+			<Pos>71</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000</Bytes>
+			<Pos>121</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>%INSTALLPATH%</String>
+		<String>.DAT</String>
+		<String>.EXE</String>
+		<String>.RSRC</String>
+		<String>1.0.0.0</String>
+		<String>'UPX</String>
+		<String>' 'A'L'E'X'E'Y' 'P'.' 'G'U'S'E'V</String>
+		<String>4'''V'S'_'V'E'R'S'I'O'N'_'I'N'F'O</String>
+		<String>A'G'E'N'T'I'X' 'S'O'F'T'W'A'R'E'''''(</String>
+		<String>AGENTIX_SOFTWARE.AGINSTALLER</String>
+		<String>ASM.V1</String>
+		<String>ASSEMBLY XMLNS</String>
+		<String>ASSEMBLYIDENTITY</String>
+		<String>C'O'M'M'E'N'T'S'''B</String>
+		<String>C'O'M'P'A'N'Y'N'A'M'E'''''A'G'E'N'T'I'X' 'S'O'F'T'W'A'R'E'''''T</String>
+		<String>DEPENDENCY</String>
+		<String>DEPENDENTASSEMBLY</String>
+		<String>DESCRIPTION</String>
+		<String>DOCUM</String>
+		<String>ENCODING</String>
+		<String>ENTTOQUICKLAUN</String>
+		<String>ESKTOCOMM*</String>
+		<String>F'I'L'E'D'E'S'C'R'I'P'T'I'O'N'''''I'N'S'T'A'L'L'E'R</String>
+		<String>F'I'L'E'V'E'R'S'I'O'N'''''1</String>
+		<String>I'N'T'E'R'N'A'L'N'A'M'E'''A'G'I'N'S'T'A'L'L'E'R</String>
+		<String>KERNEL32.DLL'ADVAPI32.DLL'COMCTL32.DLL'GDI32.DLL'OLE32.DLL'SHELL32.DLL'USER32.DLL'VERSION.DLL'''LOADLIBRARYA''GETPROCADDRESS''EXITPROCESS'''FREESID'''POLYGON'''COINITIALIZE''SHELLEXECUTEA'''GETDC'''VERQUERYVALUEA</String>
+		<String>L'E'G'A'L'C'O'P'Y'R'I'G'H'T'''C'O'P'Y'R'I'G'H'T</String>
+		<String>L'E'G'A'L'T'R'A'D'E'M'A'R'K'S'''''(</String>
+		<String>LANGUAGE</String>
+		<String>LEAUT32.DL</String>
+		<String>LICENSE.TXT</String>
+		<String>MANIFESTVERSION</String>
+		<String>MENU</String>
+		<String>MICROSOFT.WINDOWS.COMMON-CONTROLS</String>
+		<String>O'R'I'G'I'N'A'L'F'I'L'E'N'A'M'E</String>
+		<String>P'R'I'V'A'T'E'B'U'I'L'D'''8</String>
+		<String>P'R'O'D'U'C'T'N'A'M'E'''''A'G'I'N'S'T'A'L'L'E'R'''.</String>
+		<String>P'R'O'D'U'C'T'V'E'R'S'I'O'N'''1'.'0'7</String>
+		<String>PROCESSORARCHITECTURE</String>
+		<String>PUBLICKEYTOKEN</String>
+		<String>README.TXT</String>
+		<String>RMR READING THE DUL</String>
+		<String>S'P'E'C'I'A'L'B'U'I'L'D'''D</String>
+		<String>S'T'R'I'N'G'F'I'L'E'I'N'F'O</String>
+		<String>SCHEMAS-MICROSOFT-COM</String>
+		<String>SETUP TOOL FOR DEVELOPERS.</String>
+		<String>STANDALONE</String>
+		<String>S_ROOTKH</String>
+		<String>T'R'A'N'S'L'A'T'I'O'N</String>
+		<String>TEMPLATE</String>
+		<String>THIS PROGRAM CANNOT BE RUN IN DOS MODE.</String>
+		<String>U'N'I'N'S'T'A'L'L'E'R'''6</String>
+		<String>UPX0</String>
+		<String>UPX1</String>
+		<String>UTF-8</String>
+		<String>V'A'R'F'I'L'E'I'N'F'O'''''$</String>
+		<String>VALUEV</String>
+		<String>XML VERSION</String>
+	</GlobalStrings>
+</TrID>

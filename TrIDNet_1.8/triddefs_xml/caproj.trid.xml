@@ -1,0 +1,77 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Construct 2 Project</FileType>
+		<Ext>CAPROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.scirra.com/construct2</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>9</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>16</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D3822203F3E0D0A3C633270726F6A6563743E0D0A202020203C6E616D653E</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 "   ? . . . . c 2 p r o j e c t . . .         . n a m e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONFIGURATION EXPORTER-DESCNAME</String>
+		<String>CONFIGURATION-SETTINGS</String>
+		<String>LAYOUT-FOLDER EXPANDED</String>
+		<String>OBJECT-FOLDER EXPANDED</String>
+		<String>SOUNDS-FOLDER EXPANDED</String>
+		<String>EVENT-FOLDER EXPANDED</String>
+		<String>FULLSCREEN IN BROWSER</String>
+		<String>MUSIC-FOLDER EXPANDED</String>
+		<String>SAVED-WITH-VERSION</String>
+		<String>CLEAR BACKGROUND</String>
+		<String>GLOBAL-INSTANCES</String>
+		<String>OBJECT-TYPE NAME</String>
+		<String>PREVIEW BROWSER</String>
+		<String>CONFIGURATIONS</String>
+		<String>PIXEL-ROUNDING</String>
+		<String>USED-BEHAVIORS</String>
+		<String>ENABLE WEBGL</String>
+		<String>PREVIEW MODE</String>
+		<String>USED-PLUGINS</String>
+		<String>DESCRIPTION</String>
+		<String>EVENT-SHEET</String>
+		<String>EXPORTER-ID</String>
+		<String>WINDOW-SIZE</String>
+		<String>XML VERSION</String>
+		<String>C2PROJECT</String>
+		<String>PLUGIN ID</String>
+		<String>PROP NAME</String>
+		<String>UNIQUE-ID</String>
+		<String>ENCODING</String>
+		<String>FAMILIES</String>
+		<String>SAMPLING</String>
+		<String>AUTHOR</String>
+		<String>HEIGHT</String>
+		<String>HTML5</String>
+		<String>UTF-8</String>
+		<String>WIDTH</String>
+		<String>.XML</String>
+		<String>HTTP</String>
+		<String>TEXT</String>
+	</GlobalStrings>
+</TrID>

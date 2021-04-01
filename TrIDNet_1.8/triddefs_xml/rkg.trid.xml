@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mario Kart Wii ghost data</FileType>
+		<Ext>RKG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://wiki.tockdom.com/wiki/RKG_(File_Format)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2014</Year>
+			<Month>2</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>3</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>524B4744</Bytes>
+			<ASCII> R K G D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>YAZ1</String>
+	</GlobalStrings>
+</TrID>

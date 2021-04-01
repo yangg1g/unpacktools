@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Frogans Short-cut</FileType>
+		<Ext>LTF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.frogans.com/en/discover/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>05</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>39</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C4C454150544F46524F47414E5320414444524553533D2266726F67616E732A</Bytes>
+			<ASCII> . L E A P T O F R O G A N S   A D D R E S S = " f r o g a n s *</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

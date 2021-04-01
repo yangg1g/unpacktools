@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Wise Installer log</FileType>
+		<Ext>LOG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.wisesolutions.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>07</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2A2A2A2020496E7374616C6C6174696F6E205374617274656420</Bytes>
+			<ASCII> * * *	  I n s t a l l a t i o n   S t a r t e d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>INSTALLATION STARTED</String>
+		<String>UNINSTALLSTRING</String>
+		<String>CURRENTVERSION</String>
+		<String>DISPLAYNAME</String>
+		<String>INSTALL.LOG</String>
+		<String>REGDB ROOT</String>
+		<String>SHELL LINK</String>
+		<String>REGDB NAME</String>
+		<String>REGDB KEY</String>
+		<String>FILE COPY</String>
+		<String>REGDB VAL</String>
+		<String>MICROSOFT</String>
+		<String>SOFTWARE</String>
+		<String>MADE DIR</String>
+		<String>WINDOWS</String>
+		<String>UNWISE</String>
+		<String>SOURCE</String>
+		<String>TITLE</String>
+	</GlobalStrings>
+</TrID>

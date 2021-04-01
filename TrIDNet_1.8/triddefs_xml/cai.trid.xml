@@ -1,0 +1,262 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SeeYou flight data</FileType>
+		<Ext>CAI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.naviter.si/products/seeyou.php?Itemid=213</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>1</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>28</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.73b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>43</Bytes>
+			<ASCII> C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2C</Bytes>
+			<ASCII> ,</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BOBLEEFLIGHT</String>
+		<String>BRADSHAWFARM</String>
+		<String>CONNELLSWAHO</String>
+		<String>CRYSTALRIVER</String>
+		<String>FISHHATCHERY</String>
+		<String>FLYINGGATORS</String>
+		<String>FRIERSONGROV</String>
+		<String>HANG GLIDERS</String>
+		<String>LYKESPALMDAL</String>
+		<String>PEACHORCHARD</String>
+		<String>PETEROKNIGHT</String>
+		<String>PILOTCOUNTRY</String>
+		<String>RIDGELANDING</String>
+		<String>CREWSHOMEST</String>
+		<String>FLYINGPALOM</String>
+		<String>LYKESBRIGHT</String>
+		<String>MONTGOMERYR</String>
+		<String>ZEPHYRHILLS</String>
+		<String>TURF</String>
+		<String>TURF</String>
+		<String>TURF</String>
+		<String>TURF</String>
+		<String>TURF</String>
+		<String>TURF</String>
+		<String>TURF</String>
+		<String>TURF</String>
+		<String>BROOKSVILL</String>
+		<String>CROSSWINDF</String>
+		<String>FLYINGEXOT</String>
+		<String>FREEFLIGHT</String>
+		<String>GRIFFINBLU</String>
+		<String>VANDENBERG</String>
+		<String>BURNTWOOD</String>
+		<String>CARLSTROM</String>
+		<String>CHINSEGUT</String>
+		<String>DUNNELLON</String>
+		<String>DUSTYAIRP</String>
+		<String>ELLSWORTH</String>
+		<String>EXECUTIVE</String>
+		<String>INVERNESS</String>
+		<String>KISSIMMEE</String>
+		<String>MCDONALDS</String>
+		<String>ORLANDOCO</String>
+		<String>PARABORNE</String>
+		<String>SOUTHERLY</String>
+		<String>SOUTHFORK</String>
+		<String>TANGERINE</String>
+		<String>WAUCHULLA</String>
+		<String>WILLISTON</String>
+		<String>PAVED</String>
+		<String>PAVED</String>
+		<String>PAVED</String>
+		<String>PAVED</String>
+		<String>PAVED</String>
+		<String>PAVED</String>
+		<String>PAVED</String>
+		<String>PAVED</String>
+		<String>PAVED</String>
+		<String>PAVED</String>
+		<String>PAVED</String>
+		<String>PAVED</String>
+		<String>PAVED</String>
+		<String>ASTATULA</String>
+		<String>FLANDERS</String>
+		<String>HENNESSY</String>
+		<String>JHHENDRI</String>
+		<String>LAKELAND</String>
+		<String>LEESBURG</String>
+		<String>MCGINLEY</String>
+		<String>PAVED</String>
+		<String>PERSIMMO</String>
+		<String>SEMINOLE</String>
+		<String>SUZYESTA</String>
+		<String>TILDENGR</String>
+		<String>TWOJSFLY</String>
+		<String>UMATILLA</String>
+        	<String>TURF</String>
+		<String>ALTURAS</String>
+		<String>ARCADIA</String>
+		<String>BLANKET</String>
+		<String>CHALETS</String>
+		<String>FLYINGD</String>
+		<String>FRAZIER</String>
+		<String>GARDNER</String>
+		<String>KENNEDY</String>
+		<String>LEEWARD</String>
+		<String>MERRITT</String>
+		<String>PANIOLA</String>
+		<String>PAVED 5</String>
+		<String>PAVED A</String>
+		<String>PAVED N</String>
+		<String>PAVED S</String>
+		<String>SAVIONR</String>
+		<String>SEBRING</String>
+		<String>SW TURF</String>
+		<String>TURF  -</String>
+		<String>TURF  C</String>
+		<String>TURF  Q</String>
+		<String>TURF  R</String>
+		<String>TURF  V</String>
+		<String>TURF  W</String>
+		<String>WIMAUMA</String>
+		<String>24 TWR</String>
+		<String>25 TWR</String>
+		<String>27 TWR</String>
+		<String>31 TWR</String>
+		<String>36 22T</String>
+		<String>36 35T</String>
+		<String>ACHERS</String>
+		<String>ARLISS</String>
+		<String>ASHLEY</String>
+		<String>AVENUE</String>
+		<String>BARTOW</String>
+		<String>BUFFUM</String>
+		<String>CHANCE</String>
+		<String>CHERYL</String>
+		<String>DALLAS</String>
+		<String>DELAND</String>
+		<String>DREAMS</String>
+		<String>FENDER</String>
+		<String>FINISH</String>
+		<String>GENTRY</String>
+		<String>HIDDEN</String>
+		<String>JORDAN</String>
+		<String>MARKET</String>
+		<String>MIDWAY</String>
+		<String>MONROE</String>
+		<String>MYAKKA</String>
+		<String>NORTON</String>
+		<String>OSBORN</String>
+		<String>PAYSON</String>
+		<String>PLACID</String>
+		<String>S TURF</String>
+		<String>SUNSET</String>
+		<String>TRAILS</String>
+		<String>TWELVE</String>
+		<String>VINCES</String>
+		<String>WINTER</String>
+		<String>ACRES</String>
+		<String>CONDO</String>
+		<String>CREEK</String>
+		<String>DRAKE</String>
+		<String>FARMS</String>
+		<String>FIELD</String>
+		<String>FROST</String>
+		<String>GRASS</String>
+		<String>GREEN</String>
+		<String>HAVEN</String>
+		<String>HOBBY</String>
+		<String>KINGS</String>
+		<String>KUY'2</String>
+		<String>KV2'P</String>
+		<String>LAKES</String>
+		<String>LEWIS</String>
+		<String>MIDFL</String>
+		<String>N4X'P</String>
+		<String>NORTH</String>
+		<String>OCALA</String>
+		<String>PATCH</String>
+		<String>PLANT</String>
+		<String>PROOF</String>
+		<String>RANCH</String>
+		<String>ROOTS</String>
+		<String>ROYAL</String>
+		<String>SHADY</String>
+		<String>SHELL</String>
+		<String>START</String>
+		<String>STONE</String>
+		<String>STOUT</String>
+		<String>SWAMP</String>
+		<String>TAMPA</String>
+		<String>TIGER</String>
+		<String>TRASK</String>
+		<String>WALES</String>
+		<String>WEEKS</String>
+		<String>WHITE</String>
+		<String>WINES</String>
+		<String>WINGS</String>
+		<String>WOODS</String>
+		<String>WORLD</String>
+		<String>2C'F</String>
+		<String>3N'2</String>
+		<String>85TH</String>
+		<String>AVON</String>
+		<String>BACK</String>
+		<String>BUZS</String>
+		<String>CITY</String>
+		<String>DEEP</String>
+		<String>ETSH</String>
+		<String>FLYN</String>
+		<String>FY'P</String>
+		<String>GORE</String>
+		<String>GR'D</String>
+		<String>GREY</String>
+		<String>GYRO</String>
+		<String>HEAD</String>
+		<String>HOUR</String>
+		<String>IDLE</String>
+		<String>JZ'2</String>
+		<String>LANE</String>
+		<String>LAST</String>
+		<String>LOVE</String>
+		<String>MUSE</String>
+		<String>NGGL</String>
+		<String>NSPR</String>
+		<String>O2'P</String>
+		<String>OAKS</String>
+		<String>PARK</String>
+		<String>PINE</String>
+		<String>PORT</String>
+		<String>POST</String>
+		<String>ROCK</String>
+		<String>SAND</String>
+		<String>T6'P</String>
+		<String>TCHM</String>
+		<String>TOWN</String>
+		<String>TTBR</String>
+		<String>WEST</String>
+		<String>WILD</String>
+		<String>XI'F</String>
+	</GlobalStrings>
+</TrID>

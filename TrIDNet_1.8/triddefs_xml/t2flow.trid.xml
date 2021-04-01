@@ -1,0 +1,81 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Taverna Workbench workflow definition</FileType>
+		<Ext>T2FLOW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Taverna_workbench</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>26</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C776F726B666C6F7720786D6C6E733D22687474703A2F2F74617665726E612E73662E6E65742F323030382F786D6C2F7432666C6F77222076657273696F6E3D223122</Bytes>
+			<ASCII> . w o r k f l o w   x m l n s = " h t t p : / / t a v e r n a . s f . n e t / 2 0 0 8 / x m l / t 2 f l o w "   v e r s i o n = " 1 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NET.SF.TAVERNA.T2.WORKFLOWMODEL.PROCESSOR.DISPATCH.LAYERS.PARALLELIZECONFIG XMLNS</String>
+		<String>NET.SF.TAVERNA.T2.WORKFLOWMODEL.PROCESSOR.DISPATCH.LAYERS.RETRYCONFIG XMLNS</String>
+		<String>NET.SF.TAVERNA.T2.WORKFLOWMODEL.PROCESSOR.DISPATCH.LAYERS.ERRORBOUNCE</String>
+		<String>NET.SF.TAVERNA.T2.WORKFLOWMODEL.PROCESSOR.DISPATCH.LAYERS.FAILOVER</String>
+		<String>NET.SF.TAVERNA.T2.WORKFLOWMODEL.PROCESSOR.DISPATCH.LAYERS.INVOKE</String>
+		<String>NET.SF.TAVERNA.T2.ACTIVITIES.</String>
+		<String>ITERATIONSTRATEGYSTACK</String>
+		<String>CONFIGBEAN ENCODING</String>
+		<String>WORKFLOWMODEL-IMPL</String>
+		<String>TAVERNA.SF.NET</String>
+		<String>WORKFLOW XMLNS</String>
+		<String>BACKOFFFACTOR</String>
+		<String>DISPATCHLAYER</String>
+		<String>DISPATCHSTACK</String>
+		<String>GRANULARDEPTH</String>
+		<String>INITIALDELAY</String>
+		<String>ANNOTATIONS</String>
+		<String>DATAFLOW ID</String>
+		<String>OUTPUTPORTS</String>
+		<String>SOURCE TYPE</String>
+		<String>CONDITIONS</String>
+		<String>INPUTPORTS</String>
+		<String>MAXRETRIES</String>
+		<String>NULL XMLNS</String>
+		<String>PROCESSORS</String>
+		<String>DATALINKS</String>
+		<String>OUTPUTMAP</String>
+		<String>PORT NAME</String>
+		<String>SINK TYPE</String>
+		<String>ACTIVITY</String>
+		<String>ARTIFACT</String>
+		<String>INPUTMAP</String>
+		<String>MAP FROM</String>
+		<String>MAXDELAY</String>
+		<String>MAXJOBS</String>
+		<String>VERSION</String>
+		<String>XSTREAM</String>
+		<String>T2FLOW</String>
+		<String>CLASS</String>
+		<String>GROUP</String>
+		<String>RAVEN</String>
+		<String>VALUE</String>
+		<String>HTTP</String>
+		<String>ROLE</String>
+	</GlobalStrings>
+</TrID>

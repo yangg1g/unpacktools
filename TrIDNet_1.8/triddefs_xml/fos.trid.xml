@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Fallout 3 save game</FileType>
+		<Ext>FOS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://fallout.bethsoft.com/</RefURL>
+		</ExtraInfo>
+		<User>fenixproductions</User>
+		<E-Mail>fenixproductions at o2 dot pl</E-Mail>
+		<Home>http://fenixproductions.qsh.eu</Home>
+	</Info>
+	<General>
+		<FileNum>572</FileNum>
+		<Refine>117 by Connor Lanigan</Refine>
+		<Date>
+			<Year>2013</Year>
+			<Month>8</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>34</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>464F335341564547414D45</Bytes>
+			<ASCII> F O 3 S A V E G A M E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

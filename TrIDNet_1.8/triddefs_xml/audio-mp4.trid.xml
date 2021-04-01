@@ -1,0 +1,65 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AAC Audio in MP4 container</FileType>
+		<Ext>M4A/MP4</Ext>
+		<ExtraInfo>
+			<Rem>N.B. M4A is the Apple (iTunes) naming convention for MP4 audio</Rem>
+			<RefURL>http://www.audiocoding.com/wiki/index.php?page=MP4</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>59</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>66747970</Bytes>
+			<ASCII> f t y p</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SMHD'''''''''''$DINF</String>
+		<String>HDLR''''''''MDIR</String>
+		<String>HDLR''''''''SOUN</String>
+		<String>STBL'''GSTSD</String>
+		<String>MOOV'''LMVHD</String>
+		<String>MDIA''' MDHD</String>
+		<String>MP42ISOM</String>
+		<String>WMP4A</String>
+		<String>FTYPM</String>
+		<String>APPL</String>
+		<String>ILST</String>
+		<String>MDAT</String>
+		<String>STSC</String>
+		<String>MINF</String>
+		<String>DREF</String>
+		<String>FREE</String>
+		<String>DATA</String>
+		<String>STCO</String>
+		<String>STSZ</String>
+		<String>STTS</String>
+		<String>TKHD</String>
+		<String>TRAK</String>
+		<String>UDTA</String>
+		<String>META</String>
+	</GlobalStrings>
+</TrID>

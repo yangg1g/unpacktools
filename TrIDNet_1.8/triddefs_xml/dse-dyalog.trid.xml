@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Dyalog APL Session</FileType>
+		<Ext>DSE</Ext>
+		<ExtraInfo>
+			<Rem>also found session_log.dlf</Rem>
+			<RefURL>http://www.dyalog.com/</RefURL>
+		</ExtraInfo>
+		<User>Joerg Jenderek</User>
+		<E-Mail>joerg.jen.der.ek@gmx.net</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>10</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>31</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>AA07</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

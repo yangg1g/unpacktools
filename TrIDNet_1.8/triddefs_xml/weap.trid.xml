@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Weapon definition script</FileType>
+		<Ext>WEAP</Ext>
+		<ExtraInfo>
+			<Rem>Used in Wolfenstein: Enemy Territory and related games.</Rem>
+			<RefURL>http://it.wikipedia.org/wiki/Wolfenstein:_Enemy_Territory</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>08</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>35</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>776561706F6E446566</Bytes>
+			<ASCII> w e a p o n D e f</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

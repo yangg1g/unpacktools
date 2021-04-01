@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>The Player 4.x Music</FileType>
+		<Ext>P4X</Ext>
+		<ExtraInfo>
+			<Rem>A module packer created by Jarno Paananen (Guru/Sahara Surfers), this particular version of The Player (4.1a) was never released publically, yet it was leaked to game development companies and became one of the most widespread module packers in existance.</Rem>
+			<RefURL>http://exotica.fix.no/tunes/unexotica/formats/The_Player_4x.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>63</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>11</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5034</Bytes>
+			<ASCII> P 4</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

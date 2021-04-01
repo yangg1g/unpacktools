@@ -1,0 +1,83 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Ulead DVD MovieFactory project</FileType>
+		<Ext>DWZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ulead.com/dmf/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Refine>1 by Marco Pontello - 1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>02</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>55</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E007400720079</Bytes>
+			<ASCII> R . o . o . t .   . E . n . t . r . y</ASCII>
+			<Pos>1024</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>500072006F006A006500630074004800650061006400650072</Bytes>
+			<ASCII> P . r . o . j . e . c . t . H . e . a . d . e . r</ASCII>
+			<Pos>1152</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>G'E'N'E'R'I'C'M'E'D'I'A'C'L'I'P'P'R'O'P'E'R'T'Y</String>
+		<String>G'E'N'E'R'I'C'M'E'D'I'A'F'I'L'E'P'R'O'P'E'R'T'Y</String>
+		<String>P'R'O'J'E'C'T'M'E'D'I'A'C'L'I'P'L'I'S'T'D'A'T'A</String>
+		<String>S'T'M'C'H'A'P'T'E'R'E'X'T'E'N'T'I'O'N'I'N'F'O</String>
+		<String>S'T'M'T'I'T'L'E'E'X'T'E'N'T'I'O'N'I'N'F'O</String>
+		<String>M'E'D'I'A'C'L'I'P'L'I'S'T'P'R'O'P'E'R'T'Y</String>
+		<String>G'E'N'E'R'I'C'M'E'D'I'A'P'R'O'P'E'R'T'Y</String>
+		<String>P'R'O'J'E'C'T'T'I'T'L'E'L'I'S'T'D'A'T'A</String>
+		<String>S'T'M'D'I'S'C'P'R'O'P'E'R'T'Y'D'A'T'A</String>
+		<String>C'H'A'P'T'E'R'L'I'S'T'P'R'O'P'E'R'T'Y</String>
+		<String>S'T'M'T'I'T'L'E'L'I'S'T'E'X'T'I'N'F'O</String>
+		<String>S'T'G'T'I'T'L'E'L'I'S'T'E'X'T'I'N'F'O</String>
+		<String>T'H'U'M'B'N'A'I'L'D'I'B'B'U'F'F'E'R</String>
+		<String>O'M'E'D'I'A'C'L'I'P'P'R'O'P'E'R'T'Y</String>
+		<String>O'M'E'D'I'A'F'I'L'E'P'R'O'P'E'R'T'Y</String>
+		<String>S'T'G'C'H'A'P'T'E'R'E'X'T'I'N'F'O'0</String>
+		<String>M'E'D'I'A'P'O'O'L'P'R'O'P'E'R'T'Y</String>
+		<String>T'I'T'L'E'L'I'S'T'P'R'O'P'E'R'T'Y</String>
+		<String>S'T'G'T'I'T'L'E'E'X'T'I'N'F'O'0</String>
+		<String>S'T'M'F'I'R'S'T'P'L'A'Y'D'A'T'A</String>
+		<String>S'T'G'F'I'R'S'T'P'L'A'Y'D'A'T'A</String>
+		<String>T'I'T'L'E'P'R'O'P'E'R'T'Y</String>
+		<String>P'R'O'J'E'C'T'H'E'A'D'E'R</String>
+		<String>M'E'D'I'A'F'I'L'E'0'0'0</String>
+		<String>M'E'D'I'A'C'L'I'P'0'0'0</String>
+		<String>ULEAD DVD MOVIEFACTORY</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>C'H'A'P'T'E'R'0'0</String>
+		<String>T'I'T'L'E'0'0'0</String>
+		<String>T'E'M'P'L'A'T'E</String>
+		<String>M'E'N'U'T</String>
+		<String>JUANPACK</String>
+		<String>E'0'0'1</String>
+		<String>M'G'R</String>
+		<String>D'V'D</String>
+		<String>DVDEZ</String>
+	</GlobalStrings>
+</TrID>

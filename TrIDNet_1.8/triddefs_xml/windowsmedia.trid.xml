@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Media (generic)</FileType>
+		<Ext>WMV/WMA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>117</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2013</Year>
+			<Month>10</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>17</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3026B2758E66CF11A6D900AA0062CE6C</Bytes>
+			<ASCII> 0 . . u . f . . . . . . . b . l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000</Bytes>
+			<Pos>19</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000102</Bytes>
+			<Pos>25</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>11</Bytes>
+			<Pos>37</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>40</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000</Bytes>
+			<Pos>48</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

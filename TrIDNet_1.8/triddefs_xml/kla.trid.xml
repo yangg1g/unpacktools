@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>KLARFF map-data</FileType>
+		<Ext>KLA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>31</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>46696C6556657273696F6E20</Bytes>
+			<ASCII> F i l e V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SAMPLEORIENTATIONMARKTYPE</String>
+		<String>ORIENTATIONMARKLOCATION</String>
+		<String>SAMPLECENTERLOCATION</String>
+		<String>INSPECTIONSTATIONID</String>
+		<String>RESULTTIMESTAMP</String>
+		<String>FILETIMESTAMP</String>
+		<String>FILEVERSION</String>
+		<String>SAMPLETYPE</String>
+		<String>SAMPLESIZE</String>
+		<String>ENDOFFILE</String>
+		<String>DIEORIGIN</String>
+		<String>DIEPITCH</String>
+		<String>WAFERID</String>
+		<String>STEPID</String>
+		<String>LOTID</String>
+		<String>SLOT</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,65 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>iClone format (generic)</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://city.reallusion.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>3</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>7</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5F524C5A657573030000000100000070B700000A000000435468756D626E61696C5EB700000200000001000000</Bytes>
+			<ASCII> _ R L Z e u s . . . . . . . . p . . . . . . . C T h u m b n a i l ^</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>B'O'O'L'E'A'N'S'E'L'E'C'T'O'R</String>
+		<String>F'I'L'E'A'P'P'V'E'R'S'I'O'N</String>
+		<String>O'P'E'R'A'T'E'C'H'A'N'N'E'L</String>
+		<String>P'E'R'F'O'R'M'C'H'A'N'N'E'L</String>
+		<String>M'O'T'I'O'N'C'H'A'N'N'E'L</String>
+		<String>I'D'L'E'C'H'A'N'N'E'L</String>
+		<String>M'O'V'E'C'H'A'N'N'E'L</String>
+		<String>U'S'E'R'C'H'A'N'N'E'L</String>
+		<String>CDATASELECTORCONTROL</String>
+		<String>CRTSSELECTORCONTROL</String>
+		<String>CSTANDARDMATERIAL</String>
+		<String>CDATACLIPCONTROL</String>
+		<String>CKEYFRAMECONTROL</String>
+		<String>CRTSLAYERCONTROL</String>
+		<String>CBOOLEANCONTROL</String>
+		<String>CRTSCLIPCONTROL</String>
+		<String>CMULTIMATERIAL</String>
+		<String>CVERSIONDATAD</String>
+		<String>I'C'L'O'N'E</String>
+		<String>CTHUMBNAIL</String>
+		<String>A'U'T'O'B</String>
+		<String>L'A'Y'E'R</String>
+		<String>CONTROL</String>
+		<String>CTRIMESH</String>
+		<String>M'E'S'H</String>
+		<String>_RLZEUS</String>
+		<String>CNODE</String>
+		<String>_ROOT</String>
+	</GlobalStrings>
+</TrID>

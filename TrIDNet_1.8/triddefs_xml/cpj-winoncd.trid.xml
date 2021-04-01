@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WinOnCD Project</FileType>
+		<Ext>CPJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/WinOnCD</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>12</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>24</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B57696E4F6E43442050726F6A6563745D0D0A</Bytes>
+			<ASCII> [ W i n O n C D   P r o j e c t ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>LAYOUT_TRACKNAMES</String>
+		<String>WINONCD OPTIONS</String>
+		<String>WINONCD PROJECT</String>
+		<String>FINALIZE MODE</String>
+		<String>IMAGE FOLDER</String>
+		<String>DESCRIPTION</String>
+		<String>DISCTYPE</String>
+		<String>DISCTIME</String>
+		<String>COPIES</String>
+		<String>UPCEAN</String>
+		<String>PLUGIN</String>
+		<String>TRACK1</String>
+		<String>JOB1</String>
+	</GlobalStrings>
+</TrID>

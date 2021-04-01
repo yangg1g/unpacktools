@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Interactive Physics data</FileType>
+		<Ext>IP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.design-simulation.com/IP</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>49</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>467A7A58</Bytes>
+			<ASCII> F z z X</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>49503235</Bytes>
+			<ASCII> I P 2 5</ASCII>
+			<Pos>6</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

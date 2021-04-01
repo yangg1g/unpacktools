@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XML Schema</FileType>
+		<Ext>XSD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Refine>2 by Marco Pontello - 1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>26</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ELEMENT NAME</String>
+		<String>COMPLEXTYPE</String>
+		<String>WWW.W3.ORG</String>
+		<String>MINOCCURS</String>
+		<String>MAXOCCURS</String>
+		<String>XMLSCHEMA</String>
+		<String>SEQUENCE</String>
+		<String>XMLNS</String>
+		<String>STRI</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

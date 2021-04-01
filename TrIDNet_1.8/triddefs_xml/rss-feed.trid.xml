@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RSS web feed</FileType>
+		<Ext>XML/RSS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/RSS_%28file_format%29</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>02</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E3022</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>XML VERSION</String>
+		<String>DESCRIPTION</String>
+		<String>CHANNEL</String>
+		<String>RIGHT</String>
+		<String>TITLE</String>
+		<String>ABOUT</String>
+		<String>COMM</String>
+		<String>HTTP</String>
+		<String>LINK</String>
+		<String>CALL</String>
+		<String>INTO</String>
+		<String>ATOR</String>
+		<String>DATE</String>
+		<String>WWW.</String>
+		<String>.ORG</String>
+		<String>ITEM</String>
+	</GlobalStrings>
+</TrID>

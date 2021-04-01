@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Infinity Engine resource directory (v1)</FileType>
+		<Ext>KEY</Ext>
+		<ExtraInfo>
+			<Rem>Infinity Engine KEY files acts as a central reference point to locate files required by the game</Rem>
+			<RefURL>http://iesdp.gibberlings3.net/file_formats/ie_formats/key_v1.htm</RefURL>
+		</ExtraInfo>
+		<User>Sam.</User>
+		<E-Mail>sampsca@yahoo.com</E-Mail>
+		<Home>http://www.shsforums.net/user/10485-sam/</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>2</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>4</Min>
+			<Sec>8</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4B45592056312020</Bytes>
+			<ASCII> K E Y   V 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

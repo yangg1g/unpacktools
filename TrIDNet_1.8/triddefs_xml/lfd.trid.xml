@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LucasFilm Data - LucasArts game resource</FileType>
+		<Ext>LFD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>en.wikipedia.org/wiki/LucasArts</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>13</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>524D41507265736F75726365</Bytes>
+			<ASCII> R M A P r e s o u r c e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

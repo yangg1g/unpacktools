@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Office Profile-Settings (v10.0)</FileType>
+		<Ext>OPS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/office/ork/xp/four/outf02.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>40</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0144000000FFFF4F005000530020004800650061006400650072002000560065007200730069006F006E002000310030002E00300020</Bytes>
+			<ASCII> . D . . . . . O . P . S .   . H . e . a . d . e . r .   . V . e . r . s . i . o . n .   . 1 . 0 . . . 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

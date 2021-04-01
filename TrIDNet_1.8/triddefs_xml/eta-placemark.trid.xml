@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Keyhole - Google Earth Placemark</FileType>
+		<Ext>ETA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.google.com/earth/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>06</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>08</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23205468697320697320616E204B6579686F6C65204554412066696C652E2054686520636F6E74656E747320617265206175746F6D61746963616C6C79</Bytes>
+			<ASCII> #   T h i s   i s   a n   K e y h o l e   E T A   f i l e .   T h e   c o n t e n t s	a r e	a u t o m a t i c a l l y</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>AUTOPILOT</String>
+	</GlobalStrings>
+</TrID>

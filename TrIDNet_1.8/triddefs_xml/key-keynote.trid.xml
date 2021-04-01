@@ -1,0 +1,75 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Keynote presentation</FileType>
+		<Ext>KEY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Keynote_(presentation_software)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>4</Hour>
+			<Min>21</Min>
+			<Sec>54</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CDEFGHIJSTUVWXYZCDEFGHIJSTUVWXYZ</String>
+		<String>BUILDVERSIONHISTORY.PLISTPK</String>
+		<String>DOCTYPE PLIST PUBLIC</String>
+		<String>PROPERTYLIST-1.0.DTD</String>
+		<String>TEXT''''COPYRIGHT</String>
+		<String>THUMBNAIL.JPGPK</String>
+		<String>DTD PLIST 1.0</String>
+		<String>PLIST VERSION</String>
+		<String>WWW.APPLE.COM</String>
+		<String>INDEX.APXLPK</String>
+		<String>ICC_PROFILE</String>
+		<String>MNTRRGB XYZ</String>
+		<String>XML VERSION</String>
+		<String>EXIF''MM'*</String>
+		<String>()*456789</String>
+		<String>QUICKLOOK</String>
+		<String>()*56789</String>
+		<String>ACSPAPPL</String>
+		<String>ENCODING</String>
+		<String>STRING</String>
+		<String>ARRAY</String>
+		<String>UTF-8</String>
+		<String>$3BR</String>
+		<String>BTRC</String>
+		<String>BXYZ</String>
+		<String>CPRT</String>
+		<String>CURV</String>
+		<String>DEDE</String>
+		<String>DESC</String>
+		<String>DTDS</String>
+		<String>GTRC</String>
+		<String>GXYZ</String>
+		<String>HTTP</String>
+		<String>JAJP</String>
+		<String>JFIF</String>
+		<String>RTRC</String>
+		<String>RXYZ</String>
+		<String>WTPT</String>
+	</GlobalStrings>
+</TrID>

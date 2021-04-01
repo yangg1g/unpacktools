@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EasyLanguage Document</FileType>
+		<Ext>ELD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.omegaresearch.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>6 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>25</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>004D57524B417265612E77726B00</Bytes>
+			<ASCII> . M W R K A r e a . w r k</ASCII>
+			<Pos>1</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Navitel 2.0 Map</FileType>
+		<Ext>NTM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.gpsmoldova.com/navitel/indexen.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>35</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>44</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>474E544D07000000</Bytes>
+			<ASCII> G N T M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

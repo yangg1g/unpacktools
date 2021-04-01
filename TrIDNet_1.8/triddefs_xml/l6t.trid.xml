@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Line 6 Tone</FileType>
+		<Ext>L6T</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.line6.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>22</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>464F524D0000</Bytes>
+			<ASCII> F O R M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4C36504150494E46</Bytes>
+			<ASCII> L 6 P A P I N F</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>L6PAPINF</String>
+		<String>MODLMINF</String>
+		<String>PATCLIST</String>
+		<String>IAPP</String>
+		<String>FORM</String>
+		<String>IAMP</String>
+		<String>PARM</String>
+		<String>IAPV</String>
+		<String>IDAT</String>
+	</GlobalStrings>
+</TrID>

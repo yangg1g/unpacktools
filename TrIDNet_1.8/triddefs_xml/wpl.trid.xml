@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Media Player playlist</FileType>
+		<Ext>WPL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/windows/windowsmedia/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>10</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>15</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F77706C2076657273696F6E3D22312E30223F3E0D0A3C736D696C3E0D0A202020203C686561643E0D0A20202020202020203C6D657461206E616D653D2247656E657261746F722220636F6E74656E743D224D6963726F736F66742057696E646F7773204D6564696120506C61796572202D2D20</Bytes>
+			<ASCII> . ? w p l   v e r s i o n = " 1 . 0 " ? . . . . s m i l . . .         . h e a d . . .                 . m e t a   n a m e = " G e n e r a t o r "   c o n t e n t = " M i c r o s o f t   W i n d o w s   M e d i a   P l a y e r   - -</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MICROSOFT WINDOWS MEDIA PLAYER --</String>
+		<String>WPL VERSION</String>
+		<String>GENERATOR</String>
+		<String>META NAME</String>
+		<String>CONTENT</String>
+		<String>TITLE</String>
+		<String>HEAD</String>
+		<String>SMIL</String>
+	</GlobalStrings>
+</TrID>

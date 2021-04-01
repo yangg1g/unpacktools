@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HTML Help Collection</FileType>
+		<Ext>COL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>31</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C584D4C3E0D0A3C48544D4C48656C70436F6C6C656374696F6E3E0D0A3C</Bytes>
+			<ASCII> . X M L . . . . H T M L H e l p C o l l e c t i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SAMPLELOCATION VALUE</String>
+		<String>COLLECTIONNUM VALUE</String>
+		<String>HTMLHELPCOLLECTION</String>
+		<String>FOLDERORDER VALUE</String>
+		<String>TITLESTRING VALUE</String>
+		<String>REFCOUNT VALUE</String>
+		<String>VERSION VALUE</String>
+		<String>FOLDERS</String>
+	</GlobalStrings>
+</TrID>

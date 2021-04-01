@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Nokia PC Suite Content Copier file</FileType>
+		<Ext>NCC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>07</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>56</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE32003000300009005000490054005F0043004F004E00540041004300540009003200300032000900</Bytes>
+			<ASCII> . . 2 . 0 . 0 . . . P . I . T . _ . C . O . N . T . A . C . T . . . 2 . 0 . 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

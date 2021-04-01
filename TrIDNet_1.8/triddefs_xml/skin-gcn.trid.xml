@@ -1,0 +1,164 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Global Communications Network skin</FileType>
+        <Ext>EXE</Ext>
+        <ExtraInfo>
+            <Rem>GCN is a Jabber based chat program</Rem>
+            <RefURL>http://www.gcn.cx/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>8</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>12</Month>
+            <Day>07</Day>
+        </Date>
+        <Time>
+            <Hour>00</Hour>
+            <Min>49</Min>
+            <Sec>00</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+            <ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A2400000000000000</Bytes>
+            <ASCII> . . . . . . . . . . . ! . . L . ! T h i s   p r o g r a m   c a n n o t   b e   r u n   i n   D O S   m o d e . . . . $</ASCII>
+            <Pos>61</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>-INFO'''SHGETPATHFROMIDLIST'SHGETMALLOC'SHBROWSEFORFOLDER'''SHELL32.DLL</String>
+        <String>.BMPPK</String>
+        <String>.DATA</String>
+        <String>.RDATA</String>
+        <String>.RSRC</String>
+        <String>.TEXT</String>
+        <String>BAD DISK OR FILE TRANSFER ERROR'.ZIP''''.EXE''''PKBACK</String>
+        <String>BBHU</String>
+        <String>BEGINPAINT</String>
+        <String>BRANDED.INIPK</String>
+        <String>CHARNEXTA</String>
+        <String>COMMAND'''MS S</String>
+        <String>CREATEDCA</String>
+        <String>CREATEDIRECTORYA</String>
+        <String>CREATEFONTINDIRECTA</String>
+        <String>DEFWINDOWPROCA''USER32.DLL</String>
+        <String>DELETEDC</String>
+        <String>DELETEOBJECT</String>
+        <String>DESTROYWINDOW</String>
+        <String>DIALOGBOXINDIRECTPARAMA</String>
+        <String>DISPATCHMESSAGEA</String>
+        <String>DISPLAY</String>
+        <String>DOSDATETIMETOFILETIME</String>
+        <String>ENABLEWINDOW</String>
+        <String>ENDDIALOG</String>
+        <String>ENDPAINT</String>
+        <String>EXITPROCESS</String>
+        <String>EXTTEXTOUTA</String>
+        <String>FINDCLOSE</String>
+        <String>FINDEXECUTABLEA'SHELL32.DLL</String>
+        <String>FINDFIRSTFILEA</String>
+        <String>FOYU</String>
+        <String>FREELIBRARY</String>
+        <String>GETBKCOLOR</String>
+        <String>GETCLIENTRECT</String>
+        <String>GETCOMMANDLINEA</String>
+        <String>GETCURRENTDIRECTORYA</String>
+        <String>GETDEVICECAPS</String>
+        <String>GETDLGITEMTEXTA</String>
+        <String>GETDRIVETYPEA</String>
+        <String>GETENVIRONMENTVARIABLEA</String>
+        <String>GETKEYSTATE</String>
+        <String>GETLASTACTIVEPOPUP</String>
+        <String>GETMODULEFILENAMEA</String>
+        <String>GETMODULEHANDLEA</String>
+        <String>GETPARENT</String>
+        <String>GETPROCADDRESS</String>
+        <String>GETSYSCOLOR</String>
+        <String>GETSYSTEMMETRICS</String>
+        <String>GETTEXTEXTENTPOINT32A</String>
+        <String>GETVERSION</String>
+        <String>GETVOLUMEINFORMATIONA</String>
+        <String>GETWINDOWRECT</String>
+        <String>GETWINDOWSDIRECTORYA</String>
+        <String>GETWINDOWWORD</String>
+        <String>GLOBALALLOC</String>
+        <String>GLOBALFREE</String>
+        <String>GLOBALHANDLE</String>
+        <String>GLOBALLOCK</String>
+        <String>GLOBALUNLOCK</String>
+        <String>INC.                   WWW.WINZIP.COM'''-WIN32 -LE -D* -OVERWRITE'PK</String>
+        <String>INSTALL</String>
+        <String>INVALIDATERECT</String>
+        <String>KERNEL32.DLL</String>
+        <String>KILLTIMER</String>
+        <String>LOADCURSORA</String>
+        <String>LOADLIBRARYA</String>
+        <String>LOCALALLOC</String>
+        <String>LOCALFILETIMETOFILETIME</String>
+        <String>LOCALFREE</String>
+        <String>LSTRCATA</String>
+        <String>LSTRCMPIA</String>
+        <String>LSTRCPYA</String>
+        <String>LSTRLENA</String>
+        <String>M F9</String>
+        <String>MESSAGEBOXA</String>
+        <String>METER'''X</String>
+        <String>NOT ENOUGH MEMORY</String>
+        <String>OEMTOCHARBUFFA</String>
+        <String>PE''L</String>
+        <String>PE32E.SFX</String>
+        <String>PEEKMESSAGEA</String>
+        <String>POSTMESSAGEA</String>
+        <String>PROGRAM FILES</String>
+        <String>REGISTERCLASSA</String>
+        <String>REGQUERYVALUEA''ADVAPI32.DLL</String>
+        <String>RESOURCES</String>
+        <String>RTLUNWIND</String>
+        <String>SELECTOBJECT</String>
+        <String>SENDDLGITEMMESSAGEA</String>
+        <String>SENDMESSAGEA</String>
+        <String>SETACTIVEWINDOW</String>
+        <String>SETBKCOLOR''GDI32.DLL</String>
+        <String>SETCURRENTDIRECTORYA</String>
+        <String>SETCURSOR</String>
+        <String>SETDLGITEMTEXTA</String>
+        <String>SETERRORMODE</String>
+        <String>SETFILETIME</String>
+        <String>SETFOREGROUNDWINDOW</String>
+        <String>SETRECT</String>
+        <String>SETTEXTALIGN</String>
+        <String>SETTEXTCOLOR</String>
+        <String>SETTIMER</String>
+        <String>SETWINDOWPOS</String>
+        <String>SETWINDOWTEXTA</String>
+        <String>SETWINDOWWORD</String>
+        <String>SHELLEXECUTEA</String>
+        <String>SHOWWINDOW</String>
+        <String>TEMP</String>
+        <String>THIS PROGRAM CANNOT BE RUN IN DOS MODE.</String>
+        <String>TRANSLATEMESSAGE</String>
+        <String>UPDATEWINDOW</String>
+        <String>WINEXEC</String>
+        <String>WINZIP COMPUTING</String>
+        <String>WINZIP SELF-EXTRACTOR HEADER CORRUPT.  POSSIBLE CAUSE</String>
+        <String>_LCLOSE</String>
+        <String>_LCREAT</String>
+        <String>_LLSEEK</String>
+        <String>_LOPEN</String>
+        <String>_LREAD</String>
+        <String>_LWRITE</String>
+        <String>_WINZIP_</String>
+    </GlobalStrings>
+</TrID>

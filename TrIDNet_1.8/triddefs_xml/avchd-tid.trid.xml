@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AVCHD Thumbnail Index</FileType>
+		<Ext>TID</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/AVCHD</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>36</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5449445830313030</Bytes>
+			<ASCII> T I D X 0 1 0 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

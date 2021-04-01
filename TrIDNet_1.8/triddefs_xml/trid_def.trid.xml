@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TrID definition! :-)</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem>Here's where you can find many more definitions!</Rem>
+			<RefURL>http://mark0.net/soft-trid-deflist.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>1554</FileNum>
+		<Refine>1 by Marco Pontello - 1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>54</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C54724944207665723D22</Bytes>
+			<ASCII> . T r I D   v e r = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FILETYPE</String>
+		<String>TRID VER</String>
+		<String>PATTERN</String>
+		<String>GENERAL</String>
+		<String>E-MAIL</String>
+		<String>BLOCK</String>
+		<String>BYTES</String>
+		<String>MONTH</String>
+		<String>HOUR</String>
+		<String>INFO</String>
+		<String>DATE</String>
+		<String>TIME</String>
+		<String>USER</String>
+		<String>YEAR</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HTML Component (Unicode)</FileType>
+		<Ext>HTC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>52</Min>
+			<Sec>08</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3C00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>A'T'T'A'C'H' 'E'V'E'N'T</String>
+		<String>C'O'M'P'O'N'E'N'T</String>
+		<String>F'U'N'C'T'I'O'N</String>
+		<String>P'U'B'L'I'C</String>
+		<String>S'C'R'I'P'T</String>
+		<String>N'A'M'E</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SMath Studio worksheet</FileType>
+		<Ext>SM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://smath.info/wiki/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>57</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>25</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D3822207374616E64616C6F6E653D22796573223F3E0D0A3C3F6170706C69636174696F6E2070726F6769643D22534D6174682053747564696F222076657273696F6E3D22302E</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 "   s t a n d a l o n e = " y e s " ? . . . . ? a p p l i c a t i o n   p r o g i d = " S M a t h   S t u d i o "   v e r s i o n = " 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>APPLICATION PROGID</String>
+		<String>SMATH STUDIO</String>
+		<String>XML VERSION</String>
+		<String>STANDALONE</String>
+		<String>REGION ID</String>
+		<String>ENCODING</String>
+		<String>SETTINGS</String>
+		<String>REGIONS</String>
+		<String>HEIGHT</String>
+		<String>COLOR</String>
+		<String>UTF-8</String>
+		<String>WIDTH</String>
+		<String>FONT</String>
+		<String>LEFT</String>
+		<String>NAME</String>
+		<String>SIZE</String>
+	</GlobalStrings>
+</TrID>

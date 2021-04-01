@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Palm WineMaster list</FileType>
+		<Ext>PDB</Ext>
+		<ExtraInfo>
+			<Rem>WineMaster is a wine management software by Poohbah Industries.</Rem>
+			<RefURL>http://www.poohbah.com/public_html/pbwine/pbwine.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>22</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00000000506357625062576E</Bytes>
+			<ASCII> . . . . P c W b P b W n</ASCII>
+			<Pos>56</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PCWBPBWN</String>
+		<String>FLAVORS</String>
+	</GlobalStrings>
+</TrID>

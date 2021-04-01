@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sega Genesis / Megadrive Rom Image</FileType>
+		<Ext>SMD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Piwi</User>
+		<E-Mail>xs01@nospamgrazie@libero.it</E-Mail>
+		<Home>http://reload.bbk.com</Home>
+	</Info>
+	<General>
+		<FileNum>21</FileNum>
+		<Refine>8 by Marco Pontello - 8 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>06</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>42</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>03000000000000AABB06</Bytes>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4541</Bytes>
+			<ASCII> E A</ASCII>
+			<Pos>640</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>EAGNSS</String>
+		<String>$'$'$'$</String>
+		<String>****</String>
+	</GlobalStrings>
+</TrID>

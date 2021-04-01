@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Visual Studio wizard</FileType>
+		<Ext>VSZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Microsoft_Visual_Studio</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>7</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>30</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>565357495A41524420372E30</Bytes>
+			<ASCII> V S W I Z A R D   7 . 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VSWIZARD.VSWIZARDENGINE</String>
+		<String>VSWIZARD 7.0</String>
+		<String>WIZARD_NAME</String>
+		<String>PARAM</String>
+		<String>_PATH</String>
+	</GlobalStrings>
+</TrID>

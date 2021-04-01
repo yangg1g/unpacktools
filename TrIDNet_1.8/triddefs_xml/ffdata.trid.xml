@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ABBYY eForm Filler data</FileType>
+		<Ext>FFDATA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.abbyy.com/company/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>15</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C20</Bytes>
+			<ASCII> . ? x m l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PAGE PAGEDEFNAME</String>
+		<String>CREATEDBYLOGIN</String>
+		<String>FORM FORMDEFID</String>
+		<String>FFDATA VERSION</String>
+		<String>FIELDS COUNT</String>
+		<String>CREATEDBYAPP</String>
+		<String>PAGES COUNT</String>
+		<String>PAGENUMBER</String>
+		<String>FORMFILLER</String>
+		<String>FIELD NAME</String>
+		<String>CREATEDON</String>
+		<String>ENCODING</String>
+		<String>ABBYY</String>
+		<String>UTF-8</String>
+	</GlobalStrings>
+</TrID>

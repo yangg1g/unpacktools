@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Ulead Private Data</FileType>
+		<Ext>UPD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ulead.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>03</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>55</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>556C65616420507269766174652044617461</Bytes>
+			<ASCII> U l e a d   P r i v a t e   D a t a</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A5C</Bytes>
+			<ASCII> : \</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

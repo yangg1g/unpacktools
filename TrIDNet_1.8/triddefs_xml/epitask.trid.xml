@@ -1,0 +1,80 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Telestream Episode Task</FileType>
+		<Ext>EPITASK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.telestream.net/episode</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>8</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>12</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0A</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DEST-FILE-EXTENSION</String>
+		<String>META-DATA META-FILE</String>
+		<String>DEFERRED-STRING</String>
+		<String>META-GROUP TYPE</String>
+		<String>PROPERTIES NAME</String>
+		<String>CONFIGURATION</String>
+		<String>SPECIAL NAME</String>
+		<String>TASK VERSION</String>
+		<String>TCKEEPSOURCE</String>
+		<String>VIDEO-OUT ID</String>
+		<String>JOB VERSION</String>
+		<String>OPTION NAME</String>
+		<String>SETTING-XML</String>
+		<String>STRING NAME</String>
+		<String>XML VERSION</String>
+		<String>SOURCE-URL</String>
+		<String>BOOL NAME</String>
+		<String>DESCRIPTI</String>
+		<String>META NAME</String>
+		<String>OGENCODER</String>
+		<String>PLUGIN-ID</String>
+		<String>_IMPORTER</String>
+		<String>ENCODING</String>
+		<String>EXPORTER</String>
+		<String>_ENCODER</String>
+		<String>DSTPATH</String>
+		<String>REGULAR</String>
+		<String>SRCFILE</String>
+		<String>TCFRAME</String>
+		<String>_FILTER</String>
+		<String>FORMAT</String>
+		<String>TCHOUR</String>
+		<String>VIDEO_</String>
+		<String>CDATA</String>
+		<String>IN ID</String>
+		<String>MEDIA</String>
+		<String>MOVIE</String>
+		<String>TCMIN</String>
+		<String>TCSEC</String>
+		<String>TYPED</String>
+		<String>UTF-8</String>
+		<String>VALUE</String>
+		<String>COMP</String>
+	</GlobalStrings>
+</TrID>

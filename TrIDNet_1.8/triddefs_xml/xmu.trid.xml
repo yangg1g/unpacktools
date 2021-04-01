@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SmartUML UML diagram</FileType>
+		<Ext>XMU</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://smartuml.sourceforge.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>53</Min>
+			<Sec>9</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C78756D6C3E0D0A20203C536D617274556D6C2E4F626A6563744D6F64656C2E50726F6A6563745F536D617274556D6C2E4F626A6563744D6F64656C20706174683D22</Bytes>
+			<ASCII> . x u m l . . .     . S m a r t U m l . O b j e c t M o d e l . P r o j e c t _ S m a r t U m l . O b j e c t M o d e l   p a t h = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SMARTUML.OBJECTMODEL.CLASSDIAGRAM.CLASSDIAGRAMMODEL_SMARTUML.OBJECTMODEL NAME</String>
+		<String>SMARTUML.OBJECTMODEL.ACTIVITYDIAGRAM.ACTIVITYMODEL_SMARTUML.OBJECTMODEL NAME</String>
+		<String>SMARTUML.OBJECTMODEL.USECASEDIAGRAM.USECASEMODEL_SMARTUML.OBJECTMODEL NAME</String>
+		<String>SMARTUML.OBJECTMODEL.PROJECT_SMARTUML.OBJECTMODEL PATH</String>
+		<String>NEW ACTIVITY DIAGRAM</String>
+		<String>NEW USE CASE DIAGRAM</String>
+		<String>NEW CLASS DIAGRAM</String>
+		<String>SELECTED</String>
+		<String>ENABLED</String>
+		<String>GENERAL</String>
+		<String>VISIBLE</String>
+		<String>FALSE</String>
+		<String>TITLE</String>
+		<String>.XMU</String>
+		<String>TRUE</String>
+		<String>XUML</String>
+	</GlobalStrings>
+</TrID>

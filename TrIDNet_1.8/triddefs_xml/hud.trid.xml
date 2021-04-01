@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HUD Maker</FileType>
+		<Ext>HUD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.hudmaker.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>34</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>HUDMAKER_HUD1</String>
+		<String>XML VERSION</String>
+		<String>STANDALONE</String>
+		<String>SECTION</String>
+		<String>LABEL</String>
+		<String>VALUE</String>
+		<String>LINE</String>
+		<String>MEMO</String>
+	</GlobalStrings>
+</TrID>

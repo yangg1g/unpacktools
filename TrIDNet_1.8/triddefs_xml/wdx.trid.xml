@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Total Commander Content plugin</FileType>
+		<Ext>WDX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ghisler.com/plugins.htm#content</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>12</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>02</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A</Bytes>
+			<ASCII> M Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONTENTGETSUPPORTEDFIELD</String>
+		<String>CONTENTGETVALUE</String>
+		<String>GETPROCADDRESS</String>
+		<String>LOADLIBRARYA</String>
+		<String>KERNEL32.DLL</String>
+		<String>THIS PROGRAM</String>
+		<String>USER32.DLL</String>
+		<String>ERROR</String>
+		<String>CLOSE</String>
+		<String>PE''L</String>
+		<String>OPEN</String>
+		<String>INFO</String>
+	</GlobalStrings>
+</TrID>

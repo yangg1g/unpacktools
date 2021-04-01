@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Adobe Photoshop Custom Shape</FileType>
+        <Ext>CSH</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.adobe.com/products/photoshop/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>13</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>10</Month>
+            <Day>14</Day>
+        </Date>
+        <Time>
+            <Hour>01</Hour>
+            <Min>25</Min>
+            <Sec>51</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>6375736800000002000000</Bytes>
+            <ASCII> c u s h</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

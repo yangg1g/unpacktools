@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Lotus Notes database</FileType>
+		<Ext>NSF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Lotus_Notes</RefURL>
+		</ExtraInfo>
+		<User>Massimo Nadalin</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<Refine>8 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>15</Min>
+			<Sec>54</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1A</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>25</Bytes>
+			<ASCII> %</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOMAIN</String>
+		<String>FORM</String>
+		<String>NAME</String>
+		<String>NOTE</String>
+	</GlobalStrings>
+</TrID>

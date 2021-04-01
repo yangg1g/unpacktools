@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>ATI The Compressonator plugin</FileType>
+        <Ext>DLL</Ext>
+        <ExtraInfo>
+            <Rem>The Compressonator is an ATI a tool for compressing textures and creating mip-map levels</Rem>
+            <RefURL>http://www.ati.com/developer/tools.html</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>    </Info>
+    <General>
+        <FileNum>22</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>4</Month>
+            <Day>29</Day>
+        </Date>
+        <Time>
+            <Hour>1</Hour>
+            <Min>36</Min>
+            <Sec>22</Sec>
+        </Time>
+        <Creator>TrIDScan v2.00a</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4D5A</Bytes>
+            <ASCII> M Z</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>PE''L</String>
+        <String>TextureAPI</String>
+        <String>TC_PluginGetVersion</String>
+        <String>TC_PluginGetAboutInfo</String>
+        <String>TC_PluginLoad</String>
+        <String>TC_PluginUnload</String>
+        <String>GetACP</String>
+        <String>GetFile</String>
+        <String>TC_PluginInitialise</String>
+    </GlobalStrings>
+</TrID>

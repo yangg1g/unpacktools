@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sanyo Katana DLX call/voice memo</FileType>
+		<Ext>UVO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Sanyo_Katana_DLX</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2014</Year>
+			<Month>2</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>5</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>434D454D</Bytes>
+			<ASCII> C M E M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>666D7420</Bytes>
+			<ASCII> f m t</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>76726174</Bytes>
+			<ASCII> v r a t</ASCII>
+			<Pos>170</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>64617461</Bytes>
+			<ASCII> d a t a</ASCII>
+			<Pos>186</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

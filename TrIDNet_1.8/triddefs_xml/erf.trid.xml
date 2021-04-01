@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BioWare Entity Resource File</FileType>
+		<Ext>ERF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/BioWare</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>08</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>04</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4552462056312E30</Bytes>
+			<ASCII> E R F   V 1 . 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4578706F7274496E666F</Bytes>
+			<ASCII> E x p o r t I n f o</ASCII>
+			<Pos>160</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MOD_MINGAMEVER''EXPANSION_PACK''COMMENTS''''''''TOP'''''''''''''RESREF''''''''''RESTYPE'''''''''DEPENDENCIES''''MISSING</String>
+		<String>PALETTEID'''''''COMMENT</String>
+		<String>TEMPLATERESREF</String>
+		<String>INTERRUPTABLE</String>
+		<String>CONVERSATION</String>
+		<String>DESCRIPTION</String>
+		<String>APPEARANCE</String>
+		<String>EXPORTINFO</String>
+		<String>PORTRAITID</String>
+		<String>FACTION</String>
+		<String>BODYBAG</String>
+		<String>LOCKED</String>
+		<String>GFF V</String>
+		<String>ERF V</String>
+		<String>FORT</String>
+		<String>WILL</String>
+		<String>PLOT</String>
+	</GlobalStrings>
+</TrID>

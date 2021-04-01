@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Netscape Mail Message</FileType>
+		<Ext>SNM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Netscape</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>07</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>42</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>001E84900000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6E756C6C</Bytes>
+			<ASCII> n u l l</ASCII>
+			<Pos>295</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NULL</String>
+	</GlobalStrings>
+</TrID>

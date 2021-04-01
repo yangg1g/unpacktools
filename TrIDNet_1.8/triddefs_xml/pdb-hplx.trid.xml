@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HP 100/200lx Palmtop phonebook</FileType>
+		<Ext>PDB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>02</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>686344</Bytes>
+			<ASCII> h c D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4E61266D65</Bytes>
+			<ASCII> N a . m e</ASCII>
+			<Pos>42</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NAME AND BUSINESS PHONE</String>
+		<String>ALL PHONE BOOK ITEMS</String>
+		<String>NAME AND ADDRESS</String>
+		<String>ALL FIELDS</String>
+		<String>ALTERNATE</String>
+		<String>CATEGORY</String>
+		<String>PERSONAL</String>
+		<String>TITLE</String>
+		<String>HOME</String>
+		<String>CITY</String>
+		<String>NOTE</String>
+	</GlobalStrings>
+</TrID>

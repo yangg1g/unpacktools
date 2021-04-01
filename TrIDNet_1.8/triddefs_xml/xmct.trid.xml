@@ -1,0 +1,198 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mathcad XML Worksheet Template</FileType>
+		<Ext>XMCT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Mathcad</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>3</Month>
+			<Day>5</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>59</Min>
+			<Sec>8</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D3822</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CALCULATIONBEHAVIOR AUTOMATIC-RECALCULATION</String>
+		<String>00000000-0000-0000-0000-000000000000</String>
+		<String>CAN-DELETE-ORIGINAL-HANDBOOK-REGIONS</String>
+		<String>COMPATIBILITY MULTIPLE-ASSIGNMENT</String>
+		<String>SYMBOLICS DERIVATION-STEPS-STYLE</String>
+		<String>HANDBOOK HANDBOOK-REGION-TAG-UB</String>
+		<String>MATRIX-STRICT-SINGULARITY-CHECK</String>
+		<String>BUILTINVARIABLES ARRAY-ORIGIN</String>
+		<String>MATHRENDERING EQUATION-COLOR</String>
+		<String>COLORMODEL BACKGROUND-COLOR</String>
+		<String>FOOTER USE-FULL-PAGE-WIDTH</String>
+		<String>HEADER USE-FULL-PAGE-WIDTH</String>
+		<String>PAGEMODEL SHOW-PAGE-FRAME</String>
+		<String>THERMODYNAMIC-TEMPERATURE</String>
+		<String>FRACTIONAL-UNIT-EXPONENT</String>
+		<String>HEADER-FOOTER-START-PAGE</String>
+		<String>OPERATORS MULTIPLICATION</String>
+		<String>CAN-DELETE-USER-REGIONS</String>
+		<String>DEFAULT-HIGHLIGHT-COLOR</String>
+		<String>PRINT-SINGLE-PAGE-WIDTH</String>
+		<String>CURRENTUNITSYSTEM NAME</String>
+		<String>INLINEATTR FONT-FAMILY</String>
+		<String>MATHCAD PROFESSIONAL 1</String>
+		<String>BLOCKATTR MARGIN-LEFT</String>
+		<String>CONVERGENCE-TOLERANCE</String>
+		<String>EXCLUDE-LARGE-RESULTS</String>
+		<String>EXPONENTIAL-THRESHOLD</String>
+		<String>FILEFORMAT IMAGE-TYPE</String>
+		<String>VALIDATION-MD5-DIGEST</String>
+		<String>CONSTRAINT-TOLERANCE</String>
+		<String>EXPAND-NESTED-ARRAYS</String>
+		<String>FILE-PERMISSION-MASK</String>
+		<String>MATRIX DISPLAY-STYLE</String>
+		<String>OPTIMIZE-EXPRESSIONS</String>
+		<String>SAVE-NUMERIC-RESULTS</String>
+		<String>SCHEMAS.MATHSOFT.COM</String>
+		<String>AMOUNT-OF-SUBSTANCE</String>
+		<String>DIMENSIONNAMES MASS</String>
+		<String>SHOW-TRAILING-ZEROS</String>
+		<String>SYMBOLIC-EVALUATION</String>
+		<String>GRID GRANULARITY-X</String>
+		<String>LUMINOUS-INTENSITY</String>
+		<String>STRINGS-USE-ORIGIN</String>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>COMPLEX-THRESHOLD</String>
+		<String>EVALUATE-IN-PLACE</String>
+		<String>GENERAL PRECISION</String>
+		<String>GLOBAL-DEFINITION</String>
+		<String>LITERAL-SUBSCRIPT</String>
+		<String>SHOW-FOOTER-FRAME</String>
+		<String>SHOW-HEADER-FRAME</String>
+		<String>UNIT FORMAT-UNITS</String>
+		<String>WORKSHEET VERSION</String>
+		<String>LOCAL-ASSIGNMENT</String>
+		<String>LOCAL-DEFINITION</String>
+		<String>RULER IS-VISIBLE</String>
+		<String>SAVE-TEXT-IMAGES</String>
+		<String>VIEW-ANNOTATIONS</String>
+		<String>IMAGINARY-VALUE</String>
+		<String>LIST-STYLE-TYPE</String>
+		<String>PARENTVERSIONID</String>
+		<String>TIMES NEW ROMAN</String>
+		<String>VERTICAL-INSERT</String>
+		<String>MATHSTYLE NAME</String>
+		<String>SIMPLIFY-UNITS</String>
+		<String>TEXTSTYLE NAME</String>
+		<String>VERTICAL-ALIGN</String>
+		<String>ZERO-OVER-ZERO</String>
+		<String>ZERO-THRESHOLD</String>
+		<String>EXACT-BOOLEAN</String>
+		<String>GRANULARITY-Y</String>
+		<String>IMAGE-QUALITY</String>
+		<String>LANGUAGE MATH</String>
+		<String>MISCELLANEOUS</String>
+		<String>PRN-COL-WIDTH</String>
+		<String>PRN-PRECISION</String>
+		<String>SHOW-COMMENTS</String>
+		<String>TEXTRENDERING</String>
+		<String>FONT-CHARSET</String>
+		<String>IDENTITYINFO</String>
+		<String>LINE-THROUGH</String>
+		<String>MARGIN-RIGHT</String>
+		<String>MARGINS LEFT</String>
+		<String>PRESENTATION</String>
+		<String>PROVENANCE10</String>
+		<String>TRIPLE-EQUAL</String>
+		<String>VIEW-REGIONS</String>
+		<String>COLON-EQUAL</String>
+		<String>COURIER NEW</String>
+		<String>DESCRIPTION</String>
+		<String>FONT-WEIGHT</String>
+		<String>ORIENTATION</String>
+		<String>PAGE-HEIGHT</String>
+		<String>RANDOM-SEED</String>
+		<String>RIGHT-ARROW</String>
+		<String>TEXT-INDENT</String>
+		<String>XML VERSION</String>
+		<String>4294967295</String>
+		<String>BASE-STYLE</String>
+		<String>BOLD-EQUAL</String>
+		<String>CUSTOMIZED</String>
+		<String>DERIVATIVE</String>
+		<String>DOCUMENTID</String>
+		<String>FONT-STYLE</String>
+		<String>LEFT-ARROW</String>
+		<String>LUMINOSITY</String>
+		<String>MATHSTYLES</String>
+		<String>PAPER-CODE</String>
+		<String>RULER-UNIT</String>
+		<String>SCREEN-DPI</String>
+		<String>TEXT-ALIGN</String>
+		<String>TEXTSTYLES</String>
+		<String>WWW.W3.ORG</String>
+		<String>CAN-PRINT</String>
+		<String>CONSTANTS</String>
+		<String>FONT-SIZE</String>
+		<String>GENERATOR</String>
+		<String>REVISEDBY</String>
+		<String>UNDERLINE</String>
+		<String>BASELINE</String>
+		<String>BRANCHID</String>
+		<String>CAN-COPY</String>
+		<String>CAN-SAVE</String>
+		<String>ENCODING</String>
+		<String>EQUALITY</String>
+		<String>KEYWORDS</String>
+		<String>METADATA</String>
+		<String>PORTRAIT</String>
+		<String>REVISION</String>
+		<String>SETTINGS</String>
+		<String>USERDATA</String>
+		<String>COMPANY</String>
+		<String>INHERIT</String>
+		<String>UNITS10</String>
+		<String>AUTHOR</String>
+		<String>BOTTOM</String>
+		<String>EDITOR</String>
+		<String>FFFF80</String>
+		<String>LENGTH</String>
+		<String>NORMAL</String>
+		<String>USER 1</String>
+		<String>USER 2</String>
+		<String>USER 3</String>
+		<String>USER 4</String>
+		<String>USER 5</String>
+		<String>USER 6</String>
+		<String>USER 7</String>
+		<String>0.001</String>
+		<String>ARIAL</String>
+		<String>ENTER</String>
+		<String>FALSE</String>
+		<String>RADIX</String>
+		<String>TITLE</String>
+		<String>UTF-8</String>
+		<String>XMLNS</String>
+		<String>2001</String>
+		<String>HNOL</String>
+		<String>HTTP</String>
+		<String>PARA</String>
+		<String>TABS</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

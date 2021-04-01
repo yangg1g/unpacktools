@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Ping Plotter Sample file</FileType>
+		<Ext>PP2</Ext>
+		<ExtraInfo>
+			<Rem>Ping Plotter is a trace route program with graphing and long term monitoring support.</Rem>
+			<RefURL>http://www.pingplotter.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2006</Year>
+			<Month>07</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>22</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FF50696E6720506C6F747465722053616D706C652046696C6500</Bytes>
+			<ASCII> . P i n g   P l o t t e r   S a m p l e   F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SpellForce 2 save game</FileType>
+		<Ext>SAV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://spellforce.jowood.com/sf2/</RefURL>
+		</ExtraInfo>
+		<User>fenixproductions</User>
+		<E-Mail>fenixproductions at o2 dot pl</E-Mail>
+		<Home>http://fenixproductions.qsh.eu</Home>
+	</Info>
+	<General>
+		<FileNum>110</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>01</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>08</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>12DD72DD030000000A00000001000000000000002B2300000100</Bytes>
+			<ASCII> . . r . . . . . . . . . . . . . . . . . + #</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000100</Bytes>
+			<Pos>28</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000789C</Bytes>
+			<ASCII> . . x</ASCII>
+			<Pos>34</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

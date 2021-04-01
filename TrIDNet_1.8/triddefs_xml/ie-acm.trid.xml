@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Infinity Engine Music</FileType>
+		<Ext>ACM</Ext>
+		<ExtraInfo>
+			<Rem>Infinity Engine ACM files are used for ambients, area music and game shell music.</Rem>
+			<RefURL>http://iesdp.gibberlings3.net/file_formats/ie_formats/acm.htm</RefURL>
+		</ExtraInfo>
+		<User>Sam.</User>
+		<E-Mail>sampsca@yahoo.com</E-Mail>
+		<Home>http://www.shsforums.net/user/10485-sam/</Home>
+	</Info>
+	<General>
+		<FileNum>1324</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>01</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>53</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>97280301</Bytes>
+			<ASCII> . (</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>002256</Bytes>
+			<ASCII> . " V</ASCII>
+			<Pos>9</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>01</Bytes>
+			<Pos>13</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

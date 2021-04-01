@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BeOS installation package</FileType>
+		<Ext>PKG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.bebits.org</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>162</FileNum>
+		<Refine>158 by Erik Siers</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>10</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>35</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>416C421AFF0A0D005068496E00000446566572000101000000</Bytes>
+			<ASCII> A l B . . . . . P h I n . . . F V e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>41466C6100020100000000000000024653697A00020100000000</Bytes>
+			<ASCII> A F l a . . . . . . . . . . . F S i z</ASCII>
+			<Pos>26</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>434F666600020100000000</Bytes>
+			<ASCII> C O f f</ASCII>
+			<Pos>56</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>414F666600020100000000</Bytes>
+			<ASCII> A O f f</ASCII>
+			<Pos>71</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

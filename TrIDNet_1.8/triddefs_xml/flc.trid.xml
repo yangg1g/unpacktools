@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FIGfont control file</FileType>
+		<Ext>FLC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.jave.de/figlet/fonts.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>05</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>20</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>666C633261</Bytes>
+			<ASCII> f l c 2 a</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

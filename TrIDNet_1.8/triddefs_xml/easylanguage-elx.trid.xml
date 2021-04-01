@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EasyLanguage Storage / Archive</FileType>
+		<Ext>ELS/ELA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.omegaresearch.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>24</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D41535445522E4D535400</Bytes>
+			<ASCII> M A S T E R . M S T</ASCII>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4F52434D5000</Bytes>
+			<ASCII> O R C M P</ASCII>
+			<Pos>15</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

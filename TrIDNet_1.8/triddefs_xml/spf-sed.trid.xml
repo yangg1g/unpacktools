@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Jose SciEditor Project</FileType>
+		<Ext>SPF</Ext>
+		<ExtraInfo>
+			<Rem>SED is a public domain editor for PowerBASIC. It's a community project driven by Jose Roca.</Rem>
+			<RefURL>http://csdsoft.com/josescied.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>11</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>32</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B4241532046696C65735D0D0A5072696D61727920536F757263652046696C653D</Bytes>
+			<ASCII> [ B A S 	F i l e s ] . . P r i m a r y 	S o u r c e 	F i l e =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BAS FILES</String>
+		<String>INC FILES</String>
+		<String>PRIMARY SOURCE FILE</String>
+		<String>RC FILES</String>
+	</GlobalStrings>
+</TrID>

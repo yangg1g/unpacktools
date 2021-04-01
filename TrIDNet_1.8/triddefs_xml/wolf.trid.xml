@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WOLF eBook</FileType>
+		<Ext>WOL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://wiki.mobileread.com/wiki/WOLF</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>1</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>54</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>576F6C6645626F6F6B312E</Bytes>
+			<ASCII> W o l f E b o o k 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7469746C653E</Bytes>
+			<ASCII> t i t l e</ASCII>
+			<Pos>129</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

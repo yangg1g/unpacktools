@@ -1,0 +1,139 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Visual Studio LightSwitch Project</FileType>
+		<Ext>LSPROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/LightSwitch#Visual_Studio_LightSwitch</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>8</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D38223F3E0D0A3C50726F6A656374204D534275696C6456657273696F6E3D22342E302220546F6F6C7356657273696F6E3D22342E30222044656661756C74546172676574733D224275696C642220786D6C6E733D22687474703A2F2F736368656D61732E6D6963726F736F66742E636F6D2F646576656C6F7065722F6D736275696C642F32303033223E0D0A20203C50726F706572747947726F75703E0D0A202020203C436F6E66696775726174696F6E20436F6E646974696F6E3D2220272428436F6E66696775726174696F6E2927203D3D20272720223E44656275673C2F436F6E66696775726174696F6E3E0D0A202020203C506C6174666F726D20436F6E646974696F6E3D2220272428506C6174666F726D2927203D3D20272720223E416E794350553C2F506C6174666F726D3E0D0A202020203C536368656D6156657273696F6E3E322E303C2F536368656D6156657273696F6E3E0D0A202020203C50726F6A656374477569643E</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 " ? . . . . P r o j e c t   M S B u i l d V e r s i o n = " 4 . 0 "   T o o l s V e r s i o n = " 4 . 0 "   D e f a u l t T a r g e t s = " B u i l d "   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / d e v e l o p e r / m s b u i l d / 2 0 0 3 " . . .     . P r o p e r t y G r o u p . . .         . C o n f i g u r a t i o n   C o n d i t i o n = "   ' $ ( C o n f i g u r a t i o n ) '   = =   ' '   " . D e b u g . / C o n f i g u r a t i o n . . .         . P l a t f o r m   C o n d i t i o n = "   ' $ ( P l a t f o r m ) '   = =   ' '   " . A n y C P U . / P l a t f o r m . . .         . S c h e m a V e r s i o n . 2 . 0 . / S c h e m a V e r s i o n . . .         . P r o j e c t G u i d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MICROSOFT.LIGHTSWITCH.EXTENSIONS.DESIGN.CLIENT</String>
+		<String>MICROSOFT.LIGHTSWITCH.MANIFESTSERVICE.DLL</String>
+		<String>MICROSOFT.LIGHTSWITCH.EXTENSIONS.CLIENT</String>
+		<String>MICROSOFT.LIGHTSWITCH.EXTENSIONS.SERVER</String>
+		<String>{01074E5A-9000-460E-AB81-3A9263818D40}</String>
+		<String>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</String>
+		<String>SYSTEM.COMPONENTMODEL.COMPOSITION.DLL</String>
+		<String>MICROSOFT.LIGHTSWITCH.SERVER.HOST</String>
+		<String>COPYBUILDOUTPUTTOOUTPUTDIRECTORY</String>
+		<String>MICROSOFT.LIGHTSWITCH.DESIGN.SVC</String>
+		<String>$(BUILDINGINSIDEVISUALSTUDIO)</String>
+		<String>MICROSOFT.LIGHTSWITCH.TARGETS</String>
+		<String>LIGHTSWITCHEXTENSION INCLUDE</String>
+		<String>APPLICATIONDEFINITION.LSML</String>
+		<String>BASEINTERMEDIATEOUTPUTPATH</String>
+		<String>$(MSBUILDEXTENSIONSPATH)</String>
+		<String>LIGHTSWITCHMODEL INCLUDE</String>
+		<String>MICROSOFT.CSHARP.TARGETS</String>
+		<String>PROJECTREFERENCE INCLUDE</String>
+		<String>SYSTEM.CONFIGURATION.DLL</String>
+		<String>CONFIGURATION CONDITION</String>
+		<String>PROPERTYGROUP CONDITION</String>
+		<String>CLIENTACCESSPOLICY.XML</String>
+		<String>CLIENTGENERATED.CSPROJ</String>
+		<String>LIGHTSWITCHPROJECTTYPE</String>
+		<String>PROJECT MSBUILDVERSION</String>
+		<String>SERVERGENERATED.CSPROJ</String>
+		<String>TARGETFRAMEWORKVERSION</String>
+		<String>$(LIGHTSWITCHVERSION)</String>
+		<String>PRESENTATIONFRAMEWORK</String>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>USEDESIGNTIMEFEATURES</String>
+		<String>ITEMGROUP CONDITION</String>
+		<String>$(LIGHTSWITCHPATH)</String>
+		<String>AUTHENTICATIONTYPE</String>
+		<String>PLATFORM CONDITION</String>
+		<String>SUBPROJECT INCLUDE</String>
+		<String>_BUILDFILE INCLUDE</String>
+		<String>$(MSBUILDBINPATH)</String>
+		<String>GENERATEMANIFESTS</String>
+		<String>$(CONFIGURATION)</String>
+		<String>PRESENTATIONCORE</String>
+		<String>APPLICATIONNAME</String>
+		<String>ASSEMBLYVERSION</String>
+		<String>DEFINECONSTANTS</String>
+		<String>PROJECTCRITICAL</String>
+		<String>SPECIFICVERSION</String>
+		<String>DEFAULTTARGETS</String>
+		<String>FOLDER INCLUDE</String>
+		<String>IMPORT PROJECT</String>
+		<String>SILVERLIGHT.JS</String>
+		<String>CLIENT.CSPROJ</String>
+		<String>COMMON.CSPROJ</String>
+		<String>ROOTNAMESPACE</String>
+		<String>SCHEMAVERSION</String>
+		<String>SERVER.CSPROJ</String>
+		<String>SIGNMANIFESTS</String>
+		<String>ASSEMBLYNAME</String>
+		<String>BASETYPEGUID</String>
+		<String>DEBUGSYMBOLS</String>
+		<String>INSTANCEGUID</String>
+		<String>NONE INCLUDE</String>
+		<String>TOOLSVERSION</String>
+		<String>VSLSHOST.EXE</String>
+		<String>WARNINGLEVEL</String>
+		<String>$(PLATFORM)</String>
+		<String>DEFAULT.HTM</String>
+		<String>ERRORREPORT</String>
+		<String>PROJECTGUID</String>
+		<String>PUBLISHTYPE</String>
+		<String>WINDOWSBASE</String>
+		<String>XML VERSION</String>
+		<String>APP.CONFIG</String>
+		<String>ENTRYPOINT</String>
+		<String>OUTPUTTYPE</String>
+		<String>WEB.CONFIG</String>
+		<String>DEBUGTYPE</String>
+		<String>DEVELOPER</String>
+		<String>SUBFOLDER</String>
+		<String>ENCODING</String>
+		<String>HINTPATH</String>
+		<String>NOCONFIG</String>
+		<String>NOSTDLIB</String>
+		<String>OPTIMIZE</String>
+		<String>DESKTOP</String>
+		<String>PDBONLY</String>
+		<String>RELEASE</String>
+		<String>VISIBLE</String>
+		<String>ANYCPU</String>
+		<String>PROMPT</String>
+		<String>WINEXE</String>
+		<String>FALSE</String>
+		<String>TRACE</String>
+		<String>UTF-8</String>
+		<String>XMLNS</String>
+		<String>1.0.</String>
+		<String>DATA</String>
+		<String>FULL</String>
+		<String>HTTP</String>
+		<String>TRUE</String>
+		<String>V1.0</String>
+		<String>V4.0</String>
+	</GlobalStrings>
+</TrID>

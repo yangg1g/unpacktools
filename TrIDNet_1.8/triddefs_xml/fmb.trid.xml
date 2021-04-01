@@ -1,0 +1,69 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Oracle Binary Form</FileType>
+		<Ext>FMB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.oracle.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>07</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>524F532E3630303530</Bytes>
+			<ASCII> R O S . 6 0 0 5 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NLS_LENGTH_SEMANTICS</String>
+		<String>CLASS ATTRIBUTES</String>
+		<String>ROS LF DESCRIP</String>
+		<String>TK2 UISTRINGS</String>
+		<String>TK2 RESERVED</String>
+		<String>STRUCT TYPES</String>
+		<String>INTERPRETED</String>
+		<String>TOOL_MODULE</String>
+		<String>NAME_LENGTH</String>
+		<String>COLOR_NAME</String>
+		<String>ROSTK2RESV</String>
+		<String>ROSSTRINGS</String>
+		<String>ROSATTRIBS</String>
+		<String>ROSSTRUCTS</String>
+		<String>ROS NAME-</String>
+		<String>VG_COLOR</String>
+		<String>NAME_SET</String>
+		<String>DEFAULT</String>
+		<String>SELECT</String>
+		<String>ITEMID</String>
+		<String>CELLID</String>
+		<String>ORACLE</String>
+		<String>CUSTOM</String>
+		<String>DEBUG</String>
+		<String>FRAME</String>
+		<String>_FORM</String>
+		<String>TABLE</String>
+		<String>TEXT</String>
+		<String>LINE</String>
+		<String>USER</String>
+		<String>SQL*</String>
+		<String>COMM</String>
+		<String>BYTE</String>
+	</GlobalStrings>
+</TrID>

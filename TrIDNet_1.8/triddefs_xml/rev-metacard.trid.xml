@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Revolution MetaCard stack</FileType>
+		<Ext>REV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.runrev.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>14</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5245564F32373030</Bytes>
+			<ASCII> R E V O 2 7 0 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

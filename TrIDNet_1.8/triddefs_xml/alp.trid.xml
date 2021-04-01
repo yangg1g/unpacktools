@@ -1,0 +1,65 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AnyLogic Project</FileType>
+		<Ext>ALP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/AnyLogic</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>31</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>11</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>20</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ANYLOGICWORKSPACE WORKSPACEVERSION</String>
+		<String>SIMULATIONEXPERIMENT</String>
+		<String>ACTIVEOBJECTCLASSES</String>
+		<String>ANYLOGICVERSION</String>
+		<String>EXPERIMENTS</String>
+		<String>XML VERSION</String>
+		<String>PARAMETERS</String>
+		<String>PROPERTIES</String>
+		<String>ANIMATION</String>
+		<String>ENCODING</String>
+		<String>CONTROL</String>
+		<String>PACKAGE</String>
+		<String>ALTIME</String>
+		<String>OPTION</String>
+		<String>GENER</String>
+		<String>OLBAR</String>
+		<String>STATE</String>
+		<String>VALUE</String>
+		<String>ABLE</String>
+		<String>DATA</String>
+		<String>FLAG</String>
+		<String>NAME</String>
+		<String>NDED</String>
+		<String>ROOT</String>
+		<String>SBAR</String>
+		<String>STOP</String>
+		<String>TYPE</String>
+		<String>VIEW</String>
+	</GlobalStrings>
+</TrID>

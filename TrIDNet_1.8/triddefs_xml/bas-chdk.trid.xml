@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CHDK UBASIC script</FileType>
+		<Ext>BAS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://chdk.wikia.com/wiki/CHDK</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>14</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>407469746C6520</Bytes>
+			<ASCII> @ t i t l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SHOOT</String>
+		<String>TITLE</String>
+		<String>PRINT</String>
+	</GlobalStrings>
+</TrID>

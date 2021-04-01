@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ABBYY Finereader language data</FileType>
+		<Ext>AMT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.abbyy.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>05</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>58</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5446424D</Bytes>
+			<ASCII> T F B M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4C616E677561676520646174612066696C652E20446F206E6F742065646974210D0A</Bytes>
+			<ASCII> L a n g u a g e   d a t a   f i l e .   D o   n o t   e d i t !</ASCII>
+			<Pos>98</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BUILD VERSION</String>
+		<String>FINEREADER</String>
+		<String>HDTL</String>
+	</GlobalStrings>
+</TrID>

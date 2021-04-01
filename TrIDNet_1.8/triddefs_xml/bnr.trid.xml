@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BannerMania banner</FileType>
+		<Ext>BNR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.goodolddays.net/apps/id,34/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>9</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>22</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D1BA0100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.FNT</String>
+	</GlobalStrings>
+</TrID>

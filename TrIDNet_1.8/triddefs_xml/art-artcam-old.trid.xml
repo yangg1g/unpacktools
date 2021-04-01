@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ArtCam model (old version)</FileType>
+		<Ext>ART</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.artcam.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>36</Min>
+			<Sec>5</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0D0A202041727443414D20</Bytes>
+			<ASCII> . .     A r t C A M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>12</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>IN REAL UNITS THE IMAGE IS</String>
+		<String>PIXELS HIGH WITH</String>
+		<String>PIXELS WIDE BY</String>
+		<String>FILE CONTAINS</String>
+		<String>IMAGE PIXEL</String>
+		<String>DATA FILE</String>
+		<String>COLORTBL</String>
+		<String>COMMENTS</String>
+		<String>FONTTBL{</String>
+		<String>COLOURS</String>
+		<String>DEGREES</String>
+		<String>ROTATED</String>
+		<String>ARTCAM</String>
+		<String>DEFTAB</String>
+		<String>DEFF0</String>
+		<String>PAR }</String>
+		<String>PLAIN</String>
+		<String>ANSI</String>
+		<String>RTF1</String>
+		<String>VIEW</String>
+	</GlobalStrings>
+</TrID>

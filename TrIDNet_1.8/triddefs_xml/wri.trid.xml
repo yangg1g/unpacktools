@@ -1,0 +1,54 @@
+<TrID ver="1.18">
+	<Info>
+		<FileType>Windows Write Document</FileType>
+		<Ext>WRI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>126</FileNum>
+		<Refine>109 by Marco Pontello</Refine>
+		<Date>
+			<Year>2003</Year>
+			<Month>08</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>55</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.23</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>BE000000AB0000000000000000</Bytes>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>17</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<Pos>30</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>98</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>116</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>124</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

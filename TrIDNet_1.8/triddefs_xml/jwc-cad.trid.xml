@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Jw_cad data</FileType>
+		<Ext>JWC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://ja.wikipedia.org/wiki/Jw_cad</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>07</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>01</Min>
+			<Sec>08</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6A775F636164286329646174612E</Bytes>
+			<ASCII> j w _ c a d ( c ) d a t a</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

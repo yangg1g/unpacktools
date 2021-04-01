@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Art Icons Pro - IconCollection</FileType>
+		<Ext>ICC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.aha-soft.com</RefURL>
+		</ExtraInfo>
+		<User>mishka</User>
+		<E-Mail>vekt0r@mail.ru</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>03</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>10</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>494343300100000049434F4E</Bytes>
+			<ASCII> I C C 0 . . . . I C O N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

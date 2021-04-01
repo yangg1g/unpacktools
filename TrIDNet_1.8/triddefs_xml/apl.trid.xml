@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Monkey's Audio Image Link file</FileType>
+		<Ext>APL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.monkeysaudio.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>02</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>48</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B4D6F6E6B6579277320417564696F20496D616765204C696E6B2046696C655D</Bytes>
+			<ASCII> [ M o n k e y ' s   A u d i o	I m a g e   L i n k   F i l e ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FINISH BLOCK</String>
+		<String>START BLOCK</String>
+		<String>IMAGE FILE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,117 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Bar-One Lite label</FileType>
+		<Ext>LAB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.zebra.com/id/zebra/na/en/index/products/software/discontinued.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>54</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E007400720079</Bytes>
+			<ASCII> R . o . o . t .   . E . n . t . r . y</ASCII>
+			<Pos>512</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43006F006E00740065006E00740073</Bytes>
+			<ASCII> C . o . n . t . e . n . t . s</ASCII>
+			<Pos>640</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>470065006E006500720061006C</Bytes>
+			<ASCII> G . e . n . e . r . a . l</ASCII>
+			<Pos>768</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5000720069006E007400650072</Bytes>
+			<ASCII> P . r . i . n . t . e . r</ASCII>
+			<Pos>896</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E007400720079</Bytes>
+			<ASCII> R . o . o . t .   . E . n . t . r . y</ASCII>
+			<Pos>1536</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43006F006E00740065006E00740073</Bytes>
+			<ASCII> C . o . n . t . e . n . t . s</ASCII>
+			<Pos>1664</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>470065006E006500720061006C</Bytes>
+			<ASCII> G . e . n . e . r . a . l</ASCII>
+			<Pos>1792</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5000720069006E007400650072</Bytes>
+			<ASCII> P . r . i . n . t . e . r</ASCII>
+			<Pos>1920</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>D'O'C'U'M'E'N'T'S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>R'F'T'A'G'D'A'T'A</String>
+		<String>V'A'R'I'A'B'L'E'S</String>
+		<String>FC DROPDOWNLIST</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>D'A'T'A'B'A'S'E</String>
+		<String>CURRENT CELL.</String>
+		<String>O'B'J'E'C'T'S</String>
+		<String>CGXPROPERTIES</String>
+		<String>INVERT THICK.</String>
+		<String>P'R'I'N'T'E'R</String>
+		<String>COLUMN HEADER</String>
+		<String>THICK BORDER.</String>
+		<String>G'E'N'E'R'A'L</String>
+		<String>INVERT THIN.</String>
+		<String>MFC COMBOBOX</String>
+		<String>THIN BORDER.</String>
+		<String>CGXSTYLESMAP</String>
+		<String>MASKED EDIT</String>
+		<String>CDRAWSTRING</String>
+		<String>ROW HEADER</String>
+		<String>NO BORDER.</String>
+		<String>CDRAWTEXT</String>
+		<String>CATEGORY</String>
+		<String>STANDARD</String>
+		<String>KEYWORDS</String>
+		<String>COMMENTS</String>
+		<String>MANAGER</String>
+		<String>SUBJECT</String>
+		<String>COMPANY</String>
+		<String>CGXFONT</String>
+		<String>CGXDATA</String>
+		<String>BAR-ONE</String>
+		<String>CSFONT</String>
+		<String>AUTHOR</String>
+		<String>TITLE</String>
+		<String>CCRLF</String>
+		<String>TEXT1</String>
+		<String>GRIDD</String>
+		<String>LITE</String>
+		<String>NOVI</String>
+	</GlobalStrings>
+</TrID>

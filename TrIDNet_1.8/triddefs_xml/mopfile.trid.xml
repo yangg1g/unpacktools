@@ -1,0 +1,83 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MOP report</FileType>
+		<Ext>MOP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>6</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>37</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D4F5046494C4520320D0A44455349474E5F54595045205043425F44455349474E0D0A4445534352495054494F4E2022220D0A23203D3D3D3D3D3D3D3D3D3D3D3D0D0A504C4F542022</Bytes>
+			<ASCII> M O P F I L E   2 . . D E S I G N _ T Y P E   P C B _ D E S I G N . . D E S C R I P T I O N   " " . . #   = = = = = = = = = = = = . . P L O T   "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>LAYER SIDE SIDE_BOTTOM LAYERTYPE ELECTRICAL NAME</String>
+		<String>LAYER SIDE SIDE_BOTTOM LAYERTYPE NONELEC NAME</String>
+		<String>LAYER SIDE SIDE_TOP LAYERTYPE ELECTRICAL NAME</String>
+		<String>LAYER SIDE SIDE_TOP LAYERTYPE NONELEC NAME</String>
+		<String>DRILL IDENT DRAWING - THROUGH HOLE</String>
+		<String>PLOT_BOUNDS_TYPE FIT_DESIGN</String>
+		<String>DRILL DATA - THROUGH HOLE</String>
+		<String>FILL_UNPLATED_DRILL_HOLES</String>
+		<String>LAYER LAYERTYPE SPAN NAME</String>
+		<String>DESIGN_TYPE PCB_DESIGN</String>
+		<String>PDF_ALL_COLOURS_BLACK</String>
+		<String>PLOT_TYPE DRILLIDENT</String>
+		<String>LAYER BOARDUNPLATED</String>
+		<String>DRILLUNPLATEDBOARD</String>
+		<String>DRILLUNPLATEDHOLES</String>
+		<String>COMPONENT_DETAILS</String>
+		<String>PLOT_TYPE ARTWORK</String>
+		<String>DRILLPLATEDBOARD</String>
+		<String>DRILLPLATEDHOLES</String>
+		<String>FILL_DRILL_HOLES</String>
+		<String>DRILLROUNDHOLES</String>
+		<String>LINK_NET_NAMES</String>
+		<String>OUTPUT_TO FILE</String>
+		<String>SYMBOL_DETAILS</String>
+		<String>COMBINE_PLOTS</String>
+		<String>DOCUMENTATION</String>
+		<String>LAYERTYPENAME</String>
+		<String>BOARDPLATED</String>
+		<String>DESCRIPTION</String>
+		<String>PLOTENABLED</String>
+		<String>SILK SCREEN</String>
+		<String>DEVICETYPE</String>
+		<String>DRILLSLOTS</String>
+		<String>BOOKMARKS</String>
+		<String>ASSEMBLY</String>
+		<String>PIN_NAME</String>
+		<String>TOP SILK</String>
+		<String>VIEW_PDF</String>
+		<String>ENDPLOT</String>
+		<String>MOPFILE</String>
+		<String>MIRROR</String>
+		<String>OFFSET</String>
+		<String>ROTATE</String>
+		<String>PASTE</String>
+		<String>SCALE</String>
+		<String>PINS</String>
+	</GlobalStrings>
+</TrID>

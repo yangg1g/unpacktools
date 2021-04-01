@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DarkCryptTC XDC encrypted container</FileType>
+		<Ext>XDC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://darksoftware.narod.ru/tcpluginsen.html</RefURL>
+		</ExtraInfo>
+		<User>Alexander Myasnikov</User>
+		<E-Mail>darksoftware@ya.ru</E-Mail>
+		<Home>http://darksoftware.narod.ru/</Home>
+	</Info>
+	<General>
+		<FileNum>1</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>28</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5844434E455854</Bytes>
+			<ASCII> X D C N E X T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

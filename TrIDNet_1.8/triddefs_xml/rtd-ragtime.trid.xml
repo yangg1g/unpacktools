@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RagTime document</FileType>
+		<Ext>RTD</Ext>
+		<ExtraInfo>
+			<Rem>RagTime is a professional business publishing software.</Rem>
+			<RefURL>http://www.ragtime-online.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>56</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>43232B44A4434DA5486472</Bytes>
+			<ASCII> C # + D . C M . H d r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>LABEL_AT_START_TYPE'BESOFTWARE</String>
+		<String>DOCUVERSION'BESOFTWARE</String>
+		<String>SINGLEREF'BESOFTWARE</String>
+		<String>CLASSDATA'BESOFTWARE</String>
+		<String>ITEMDATA'BESOFTWARE</String>
+		<String>CODEKIND'BESOFTWARE</String>
+		<String>ROOTITEM'BESOFTWARE</String>
+		<String>USECOUNT'BESOFTWARE</String>
+		<String>CODENAME'BESOFTWARE</String>
+		<String>LABEL_AT_START'BE</String>
+		<String>PACK'BESOFTWARE</String>
+		<String>L'A'Y'O'U'T</String>
+		<String>WINDOWSTATE</String>
+		<String>7BITASCII</String>
+		<String>RAGTIME</String>
+		<String>CLUSTER</String>
+		<String>UNICODE</String>
+		<String>T'E'X'T</String>
+	</GlobalStrings>
+</TrID>

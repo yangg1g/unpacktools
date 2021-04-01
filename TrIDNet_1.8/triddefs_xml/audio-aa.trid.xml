@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Audible Audio</FileType>
+		<Ext>AA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Audible</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Refine>5 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>10</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>50</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>579075360000000C0000</Bytes>
+			<ASCII> W . u 6</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ENCRYPTEDBLOCKS</String>
+		<String>HEADERSEED</String>
+		<String>PRODUCT_ID</String>
+		<String>COPYRIGHT</String>
+		<String>NARRATOR</String>
+		<String>TITLE_ID</String>
+		<String>PUBDATE</String>
+		<String>CPUTYPE</String>
+		<String>AUTHOR</String>
+		<String>CODEC</String>
+	</GlobalStrings>
+</TrID>

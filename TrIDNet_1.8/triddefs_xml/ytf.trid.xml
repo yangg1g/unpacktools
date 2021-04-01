@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Picasa font cache</FileType>
+		<Ext>YTF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Picasa</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>31</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>9</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>7</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>64000000</Bytes>
+			<ASCII> d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000803F</Bytes>
+			<ASCII> . . . . . . ?</ASCII>
+			<Pos>17</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000001000000010000</Bytes>
+			<Pos>27</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

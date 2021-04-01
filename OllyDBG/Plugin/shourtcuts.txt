@@ -1,0 +1,67 @@
+DUMP window shortcuts
+-------------------------------------------------------------------------------------------
+1: Press "CTRL" and double click will sync the ASM window with the selected address
+2. Press "CTRL + ENTER" will copy the first selected DWORD value into clipboard
+3. Press "ENTER" will follow the selected DWORD value in the DUMP window
+4. Press "ESC" is equvilent to numpad "-", step backward
+5. Press "~" is equvilent to numpad "+", step fowrard
+6. Press "INSERT" will fill the selected data with ZERO(0x0)
+7. Press "DELETE" will fill the selected data with NOP(0x90)
+8. Press "SHIFT + C" will copy the selected data as binary into clipboard(space between each byte)
+9. Press "SHIFT + X" will copy the selected data as binary into clipboard(no space between each byte)
+10. Press "SHIFT + V" will paste from clipboard as binary starting from selected address
+11. Press "CTRL + X" will copy the address of selection to clipboard
+12. Press "T" will follow the DWORD value of the selected address in the ASM window, and move focus to the next DWORD
+13. Press "ALT + 1 ~ 5" will switch between different DUMP window tabs
+14: When mouse moves inside the DUMP window, OllyDbg's status bar will display information of the selected memory block( Start£ºEnd£ºSize£ºValue£©
+15: Press "SHIFT + ENTER" will sync
+16. Press "SHIFT + ENTER" will follow the selected DWORD value in the ASM window
+
+
+
+ASM window shortcuts
+-------------------------------------------------------------------------------------------
+1£ºPress "CTRL" and double click or "CTRL + ENTER" will sync the DUMP window with the selected address
+2£ºPress "ENTER" will have two different actions:
+   (1)£ºThe selected command contains only a memory address, the DUMP window will follow this address
+   (2)£ºThe selected command contains an immediate value and a memory address, the DUMP window will follow the immediate value
+3£ºPress "ALT + ENTER" will have two different actions:
+   (1)£ºThe selected command is (jmp, call,retn), the DUMP window will follow its destination
+   (2)£ºThe selected command contains an immediate value and a memory address, the DUMP window will follow the memory address
+4£ºPress "Shift + ENTER" will have three different actions:
+   (1)£ºThe selected command is (jmp, call,retn), the ASM window will follow its destination
+   (2)£ºThe selected command contains either an immediate value or a memory address, the ASM window will follow the value or the address
+   (3)£ºThe selected command contains both an immediate value and a memory address, the ASM window will follow the immediate value
+5. Press "ESC" is equvilent to numpad "-", step backward
+6. Press "~" is equvilent to numpad "+", step fowrard
+7. Press "INSERT" will fill the selected data with ZERO(0x0)
+8. Press "DELETE" will fill the selected data with NOP(0x90)
+9. Press "SHIFT + C" will copy the selected data as binary into clipboard(space between each byte)
+10. Press "SHIFT + X" will copy the selected data as binary into clipboard(no space between each byte)
+11. Press "SHIFT + V" will paste from clipboard as binary starting from selected address
+12. Press "CTRL + X" will copy the address of selection to clipboard
+13£ºPress 1 ~ 9 will fill the selected address with the number of NOPs
+
+
+
+STACK window shortcuts
+-------------------------------------------------------------------------------------------
+1£ºPress "ESC" will sync the STACK window with ESP
+2£ºPress "~" will sync the STACK window with ESP
+3£ºPress "CTRL + ENTER" will sync the ASM window with the selected address
+4£ºPress "ALT + ENTER" will sync the DUMP window with the selected address
+5£ºPress "SHIFT + ENTER" will follow the DWORD value of the selected address in the DUMP window
+6£ºPress "ENTER" will follow the DWORD value of the selected address in the ASM window
+7£ºPress "ALT + 1" will bind the STACK window with ESP
+8£ºPress "ALT + 2" will bind the STACK window with EBP
+9£ºPress "ALT + 3" will unbind the STACK window
+
+
+
+CPU REG window shortcuts
+-------------------------------------------------------------------------------------------
+1£ºPress "ESC" and "`" will switch among View FPU,View MMX,View 3D Now!,View Debug.
+2£ºPress "SHIFT + 1 ~ 8" will sync the ASM window with (EAX,ECX,EDX,EBX,ESP,EBP,ESI,EDI)
+3£ºPress "CTRL + 1 ~ 8" will sync the DUMP window with (EAX,ECX,EDX,EBX,ESP,EBP,ESI,EDI)
+
+

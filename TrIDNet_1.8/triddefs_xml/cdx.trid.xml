@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ChemDraw model</FileType>
+		<Ext>CDX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cambridgesoft.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<Refine>15 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>51</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>56</Bytes>
+			<ASCII> V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000</Bytes>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>18</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>22</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

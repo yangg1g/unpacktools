@@ -1,0 +1,249 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Comic Life Document</FileType>
+		<Ext>COMICDOC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://plasq.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>76</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>12</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>664C6D4330303031</Bytes>
+			<ASCII> f L m C 0 0 0 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003030303634342000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 0 0 6 4 4</ASCII>
+			<Pos>31</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CAPTION.GRADIENTFILLCOLOR</String>
+		<String>BUBBLE.GRADIENTFILLCOLOR</String>
+		<String>CAPTION.FRAMESTYLERADIUS</String>
+		<String>CAPTION.SHADOWBLURRADIUS</String>
+		<String>PAGE.NUMBERJUSTIFICATION</String>
+		<String>SLIGHTLY ROUNDED DEFAULT</String>
+		<String>BUBBLE.SHADOWBLURRADIUS</String>
+		<String>CAPTION.BACKGROUNDCOLOR</String>
+		<String>BUBBLE.BACKGROUNDCOLOR</String>
+		<String>CAPTION.DRAWBACKGROUND</String>
+		<String>CELL.GRADIENTFILLCOLOR</String>
+		<String>IMAGE.SHADOWBLURRADIUS</String>
+		<String>PAGE.GRADIENTFILLCOLOR</String>
+		<String>CAPTION.GRADIENTANGLE</String>
+		<String>CAPTION.SHADOWXOFFSET</String>
+		<String>CAPTION.SHADOWYOFFSET</String>
+		<String>CELL.FRAMESTYLERADIUS</String>
+		<String>CELL.SHADOWBLURRADIUS</String>
+		<String>IMAGE.BACKGROUNDCOLOR</String>
+		<String>SFX.GRADIENTFILLCOLOR</String>
+		<String>BUBBLE.GRADIENTANGLE</String>
+		<String>BUBBLE.SHADOWXOFFSET</String>
+		<String>BUBBLE.SHADOWYOFFSET</String>
+		<String>CAPTION.DRAWGRADIENT</String>
+		<String>CELL.BACKGROUNDCOLOR</String>
+		<String>IMAGE.DRAWBACKGROUND</String>
+		<String>PAGE.BACKGROUNDCOLOR</String>
+		<String>SFX.SHADOWBLURRADIUS</String>
+		<String>BUBBLE.DRAWGRADIENT</String>
+		<String>BUBBLE.STRAIGHTTAIL</String>
+		<String>CAPTION.SHADOWCOLOR</String>
+		<String>CELL.DRAWBACKGROUND</String>
+		<String>IMAGE.COLORIZECOLOR</String>
+		<String>IMAGE.SHADOWXOFFSET</String>
+		<String>IMAGE.SHADOWYOFFSET</String>
+		<String>PAGE.BACKDROPHEIGHT</String>
+		<String>PAGE.NUMBERLOCATION</String>
+		<String>SFX.BACKGROUNDCOLOR</String>
+		<String>SHOWALIGNMENTGUIDES</String>
+		<String>BUBBLE.SHADOWCOLOR</String>
+		<String>CAPTION.DRAWSHADOW</String>
+		<String>CAPTION.FRAMECOLOR</String>
+		<String>CAPTION.FRAMEWIDTH</String>
+		<String>CELL.GRADIENTANGLE</String>
+		<String>CELL.SHADOWXOFFSET</String>
+		<String>CELL.SHADOWYOFFSET</String>
+		<String>PAGE.BACKDROPANGLE</String>
+		<String>PAGE.BACKDROPSTYLE</String>
+		<String>PAGE.BACKDROPWIDTH</String>
+		<String>PAGE.GRADIENTANGLE</String>
+		<String>SFX.DRAWBACKGROUND</String>
+		<String>STAND FIRM SOLDIER</String>
+		<String>BUBBLE.DRAWSHADOW</String>
+		<String>BUBBLE.FRAMECOLOR</String>
+		<String>BUBBLE.FRAMESTYLE</String>
+		<String>BUBBLE.FRAMEWIDTH</String>
+		<String>CAPTION.DRAWFRAME</String>
+		<String>CAPTION.FONTCOLOR</String>
+		<String>CELL.DRAWGRADIENT</String>
+		<String>IMAGE.SHADOWCOLOR</String>
+		<String>LATER THAT DAY...</String>
+		<String>PAGE.DRAWBACKDROP</String>
+		<String>PAGE.DRAWGRADIENT</String>
+		<String>SFX.GRADIENTANGLE</String>
+		<String>SFX.SHADOWXOFFSET</String>
+		<String>SFX.SHADOWYOFFSET</String>
+		<String>BUBBLE.DRAWFRAME</String>
+		<String>BUBBLE.FONTCOLOR</String>
+		<String>CELL.SHADOWCOLOR</String>
+		<String>IMAGE.DRAWSHADOW</String>
+		<String>IMAGE.FRAMECOLOR</String>
+		<String>IMAGE.FRAMESTYLE</String>
+		<String>IMAGE.FRAMEWIDTH</String>
+		<String>SFX.DRAWGRADIENT</String>
+		<String>THE DEADLY GREEN</String>
+		<String>BLUE PEN SKETCH</String>
+		<String>BRAND NEW STUFF</String>
+		<String>CAPTAIN CAPTION</String>
+		<String>CELL.DRAWSHADOW</String>
+		<String>CELL.FRAMECOLOR</String>
+		<String>CELL.FRAMEWIDTH</String>
+		<String>EVIL RED GLOW 2</String>
+		<String>HOME SWEET HOME</String>
+		<String>IMAGE.DRAWFRAME</String>
+		<String>PAGE.DRAWNUMBER</String>
+		<String>SFX.MULTISTROKE</String>
+		<String>SFX.SHADOWCOLOR</String>
+		<String>SHE HAS NO IDEA</String>
+		<String>000000 '000000</String>
+		<String>BOLDER DEFAULT</String>
+		<String>CELL.DRAWFRAME</String>
+		<String>FAINT OF HEART</String>
+		<String>GRAPHITE FIGHT</String>
+		<String>LOVING WHISPER</String>
+		<String>NEED A BANDAGE</String>
+		<String>PAGE.FONTCOLOR</String>
+		<String>SFX.DRAWMERGED</String>
+		<String>SFX.DRAWSHADOW</String>
+		<String>SFX.FRAMECOLOR</String>
+		<String>SFX.FRAMEWIDTH</String>
+		<String>AS SEEN ON TV</String>
+		<String>DAYGLOW GREEN</String>
+		<String>FOLLOW TRENDS</String>
+		<String>LUCIDA GRANDE</String>
+		<String>OHES EX BEZEL</String>
+		<String>SFX.DRAWFRAME</String>
+		<String>SNAPTOLERANCE</String>
+		<String>SUBTLE SUPPLE</String>
+		<String>21ST CENTURY</String>
+		<String>BOTTOMMARGIN</String>
+		<String>CHROME BADDY</String>
+		<String>ELEMENT TYPE</String>
+		<String>ENNOBLED PET</String>
+		<String>GRIDINTERVAL</String>
+		<String>IMAGE.FILTER</String>
+		<String>IMAGE.INVERT</String>
+		<String>INVISI-PANEL</String>
+		<String>MORE COWBELL</String>
+		<String>OVAL DEFAULT</String>
+		<String>PORTRAITMODE</String>
+		<String>SETTING NAME</String>
+		<String>SFX.ALTCOLOR</String>
+		<String>GRAPE JUICE</String>
+		<String>HUSKY STASH</String>
+		<String>LEAFY GREEN</String>
+		<String>OH SO BLACK</String>
+		<String>PRO CAPTION</String>
+		<String>PRO POINTER</String>
+		<String>RIGHTMARGIN</String>
+		<String>STYLES NAME</String>
+		<String>ATTRIBUTES</String>
+		<String>BLUE STEEL</String>
+		<String>BUBBLE GUM</String>
+		<String>COMICLIFEY</String>
+		<String>LEFTMARGIN</String>
+		<String>MUDDY PAWS</String>
+		<String>PAGE_1.TIF</String>
+		<String>S YEARBOOK</String>
+		<String>SNAPTOGRID</String>
+		<String>STYLE NAME</String>
+		<String>STYLESHEET</String>
+		<String>THUMBNAILS</String>
+		<String>YELLOW GLO</String>
+		<String>-0.060606</String>
+		<String>BLUE BLOB</String>
+		<String>BLUE GLOW</String>
+		<String>BURNT SKY</String>
+		<String>END THING</String>
+		<String>FONT NAME</String>
+		<String>GET FUNKY</String>
+		<String>GREEN FUZ</String>
+		<String>GREEN GLO</String>
+		<String>HOLLYWOOD</String>
+		<String>I THINK..</String>
+		<String>JUST PINK</String>
+		<String>TOPMARGIN</String>
+		<String>CHECK IT</String>
+		<String>ELEMENTS</String>
+		<String>NO FRAME</String>
+		<String>PAGENAME</String>
+		<String>PAGESIZE</String>
+		<String>RED MARS</String>
+		<String>SFX.FONT</String>
+		<String>SHOWGRID</String>
+		<String>SKRIBBLE</String>
+		<String>STARSHIP</String>
+		<String>BALLOON</String>
+		<String>COLOR R</String>
+		<String>GREYDOM</String>
+		<String>OUT NOW</String>
+		<String>YES WAY</String>
+		<String>BOOPEE</String>
+		<String>BORG 9</String>
+		<String>CRUNCH</String>
+		<String>FAMILY</String>
+		<String>GET MO</String>
+		<String>GROOVY</String>
+		<String>IMAGES</String>
+		<String>NAAAAA</String>
+		<String>NO WAY</String>
+		<String>ON CAN</String>
+		<String>PURPLE</String>
+		<String>STINKY</String>
+		<String>WEIGHT</String>
+		<String>ASTRO</String>
+		<String>CROSS</String>
+		<String>DOLLS</String>
+		<String>ENCIL</String>
+		<String>ENDER</String>
+		<String>GLASS</String>
+		<String>GLOPP</String>
+		<String>LUBLY</String>
+		<String>METAL</String>
+		<String>NIGHT</String>
+		<String>PAINT</String>
+		<String>APOS</String>
+		<String>CRIM</String>
+		<String>DIGI</String>
+		<String>NEWS</String>
+		<String>NONE</String>
+		<String>PLAT</String>
+		<String>SION</String>
+		<String>TEXT</String>
+		<String>TIVE</String>
+		<String>W00F</String>
+		<String>W00T</String>
+	</GlobalStrings>
+</TrID>

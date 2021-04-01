@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GDAL Virtual Format</FileType>
+		<Ext>VRT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.gdal.org/gdal_vrttut.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>29</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>26</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C56525444617461736574207261737465725853697A653D22</Bytes>
+			<ASCII> . V R T D a t a s e t   r a s t e r X S i z e = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VRTRASTERBAND DATATYPE</String>
+		<String>SOURCEFILENAME</String>
+		<String>RASTERYSIZE</String>
+	</GlobalStrings>
+</TrID>

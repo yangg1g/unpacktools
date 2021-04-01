@@ -1,0 +1,75 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Phone encrypted Application</FileType>
+		<Ext>XAP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>2</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>37</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50524507010000002000000020000000FA0200001A030000</Bytes>
+			<ASCII> P R E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>003C00570052004D00480045004100440045005200200078006D006C006E0073003D00220068007400740070003A002F002F0073006300680065006D00610073002E006D006900630072006F0073006F00660074002E0063006F006D002F00440052004D002F0032003000300037002F00300033002F0050006C00610079005200650061006400790048006500610064006500720022002000760065007200730069006F006E003D00220034002E0030002E0030002E00300022003E003C0044004100540041003E003C00500052004F00540045004300540049004E0046004F003E003C004B00450059004C0045004E003E00310036003C002F004B00450059004C0045004E003E003C0041004C004700490044003E004100450053004300540052003C002F0041004C004700490044003E003C002F00500052004F00540045004300540049004E0046004F003E003C004B00490044003E00</Bytes>
+			<ASCII> . . . W . R . M . H . E . A . D . E . R .   . x . m . l . n . s . = . " . h . t . t . p . : . / . / . s . c . h . e . m . a . s . . . m . i . c . r . o . s . o . f . t . . . c . o . m . / . D . R . M . / . 2 . 0 . 0 . 7 . / . 0 . 3 . / . P . l . a . y . R . e . a . d . y . H . e . a . d . e . r . " .   . v . e . r . s . i . o . n . = . " . 4 . . . 0 . . . 0 . . . 0 . " . . . . . D . A . T . A . . . . . P . R . O . T . E . C . T . I . N . F . O . . . . . K . E . Y . L . E . N . . . 1 . 6 . . . / . K . E . Y . L . E . N . . . . . A . L . G . I . D . . . A . E . S . C . T . R . . . / . A . L . G . I . D . . . . . / . P . R . O . T . E . C . T . I . N . F . O . . . . . K . I . D</ASCII>
+			<Pos>31</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>003D003D003C002F004B00490044003E003C004C0041005F00550052004C003E0068007400740070003A002F002F006D006900630072006F0073006F00660074002E0063006F006D002F003C002F004C0041005F00550052004C003E003C0043005500530054004F004D004100540054005200490042005500540045005300200078006D006C006E0073003D00220022003E003C0053003E00</Bytes>
+			<ASCII> . = . = . . . / . K . I . D . . . . . L . A . _ . U . R . L . . . h . t . t . p . : . / . / . m . i . c . r . o . s . o . f . t . . . c . o . m . / . . . / . L . A . _ . U . R . L . . . . . C . U . S . T . O . M . A . T . T . R . I . B . U . T . E . S .   . x . m . l . n . s . = . " . " . . . . . S</ASCII>
+			<Pos>419</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>003D003D003C002F0053003E003C004B00470056003E0030003C002F004B00470056003E003C002F0043005500530054004F004D0041005400540052004900420055005400450053003E003C0043004800450043004B00530055004D003E00</Bytes>
+			<ASCII> . = . = . . . / . S . . . . . K . G . V . . . 0 . . . / . K . G . V . . . . . / . C . U . S . T . O . M . A . T . T . R . I . B . U . T . E . S . . . . . C . H . E . C . K . S . U . M</ASCII>
+			<Pos>615</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>003D003C002F0043004800450043004B00530055004D003E003C002F0044004100540041003E003C002F00570052004D004800450041004400450052003E00</Bytes>
+			<ASCII> . = . . . / . C . H . E . C . K . S . U . M . . . . . / . D . A . T . A . . . . . / . W . R . M . H . E . A . D . E . R</ASCII>
+			<Pos>731</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>C'U'S'T'O'M'A'T'T'R'I'B'U'T'E'S' 'X'M'L'N'S</String>
+		<String>S'C'H'E'M'A'S'.'M'I'C'R'O'S'O'F'T'.'C'O'M</String>
+		<String>P'L'A'Y'R'E'A'D'Y'H'E'A'D'E'R</String>
+		<String>W'R'M'H'E'A'D'E'R' 'X'M'L'N'S</String>
+		<String>P'R'O'T'E'C'T'I'N'F'O</String>
+		<String>C'H'E'C'K'S'U'M</String>
+		<String>4'.'0'.'0'.'0</String>
+		<String>V'E'R'S'I'O'N</String>
+		<String>A'E'S'C'T'R</String>
+		<String>K'E'Y'L'E'N</String>
+		<String>L'A'_'U'R'L</String>
+		<String>A'L'G'I'D</String>
+		<String>2'0'0'7</String>
+		<String>D'A'T'A</String>
+		<String>H'T'T'P</String>
+		<String>D'R'M</String>
+		<String>K'G'V</String>
+		<String>K'I'D</String>
+	</GlobalStrings>
+</TrID>

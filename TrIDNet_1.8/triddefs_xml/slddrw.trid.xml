@@ -1,0 +1,122 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SolidWorks Drawing</FileType>
+		<Ext>SLDDRW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/SolidWorks</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>24</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>4</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>56</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>I'S'O'L'I'D'W'O'R'K'S'I'N'F'O'R'M'A'T'I'O'N'''''''''''''''''''''.</String>
+		<String>D'O'C'U'M'E'N'T'S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N'''''''''''8</String>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N'''''''''''''''''''''''''''(</String>
+		<String>D'I'S'P'L'A'Y'L'I'S'T'S'_'_'Z</String>
+		<String>C'O'S'M'E'T'I'C'T'H'R'E'A'D</String>
+		<String>D'L'U'P'D'A'T'E'S'T'A'M'P</String>
+		<String>MOFLOATNUMBERUSERUNITS_C</String>
+		<String>D'E'T'A'I'L'B'O'R'D'E'R</String>
+		<String>_'D'L'_'V'E'R'S'I'O'N'_</String>
+		<String>_'M'O'_'V'E'R'S'I'O'N'_</String>
+		<String>MOABSOLUTEREFPLNDATA_C</String>
+		<String>C'E'N'T'E'R'L'I'N'E'S</String>
+		<String>C'O'N'T'I'N'U'O'U'S</String>
+		<String>C'R'O'S'S'H'A'T'C'H</String>
+		<String>D'E'F'I'N'I'T'I'O'N</String>
+		<String>D'I'M'E'N'S'I'O'N'S</String>
+		<String>MOLENGTHUSERUNITS_C</String>
+		<String>MONUMBERUSERUNITS_C</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>T'A'N'V'I'S'I'B'L'E</String>
+		<String>MOANGLEUSERUNITS_C</String>
+		<String>MOPROFILEFEATURE_C</String>
+		<String>MOVERSIONHISTORY_C</String>
+		<String>B'I'O'G'R'A'P'H'Y</String>
+		<String>MODETAILCABINET_C</String>
+		<String>MOUNITCOMPONENT_C</String>
+		<String>T'A'N'H'I'D'D'E'N</String>
+		<String>V'I'E'W'A'R'R'O'W</String>
+		<String>MOCOMPREFPLANE_C</String>
+		<String>MODENSITYUNITS_C</String>
+		<String>MODETAILFOLDER_C</String>
+		<String>SW-CURRENT SHEET</String>
+		<String>UIUSERMODELENV_C</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>O'L'E'I'T'E'M'S</String>
+		<String>S'Y'S'T'E'M'3'2</String>
+		<String>SW-TOTAL SHEETS</String>
+		<String>T'H'I'R'D'P'T'Y</String>
+		<String>UILINEFONTMGR_C</String>
+		<String>MOUNITSTABLE_C</String>
+		<String>SW-SHEET SCALE</String>
+		<String>.'S'L'D'D'R'W</String>
+		<String>C'R'E'A'T'E'D</String>
+		<String>H'I'S'T'O'R'Y</String>
+		<String>MOBIOGRAPHY_C</String>
+		<String>MOEXTOBJECT_C</String>
+		<String>MOLAYERMASK_C</String>
+		<String>P'H'A'N'T'O'M</String>
+		<String>P'R'E'V'I'E'W</String>
+		<String>S'E'C'T'I'O'N</String>
+		<String>SW-SHEET FORM</String>
+		<String>SW-SHEET NAME</String>
+		<String>CSTRINGARRAY</String>
+		<String>MODATECODEHI</String>
+		<String>MOLAYERMGR_C</String>
+		<String>MONODENAME_C</String>
+		<String>MOREFPLANE_C</String>
+		<String>SW-FILE NAME</String>
+		<String>UILFCONFIG_C</String>
+		<String>H'E'A'D'E'R</String>
+		<String>MODRAWING_C</String>
+		<String>S'K'E'T'C'H</String>
+		<String>U'N'U'S'E'D</String>
+		<String>MOHEADER_C</String>
+		<String>MORELMGR_C</String>
+		<String>*'.'D'R'T</String>
+		<String>MODISPLAY</String>
+		<String>MODRSHEET</String>
+		<String>MOSTAMP_C</String>
+		<String>MOLOGS_C</String>
+		<String>MOVIEW_C</String>
+		<String>SGSKETCH</String>
+		<String>SUOBLIST</String>
+		<String>TEMPLATE</String>
+		<String>UOSKETCH</String>
+		<String>AT SIZE</String>
+		<String>D'E'R'2</String>
+		<String>EDATA_C</String>
+		<String>PARAMET</String>
+		<String>T'E'M'P</String>
+		<String>T'H'I'C</String>
+		<String>FORMAT</String>
+		<String>HANDLE</String>
+		<String>LIST_C</String>
+		<String>INTER</String>
+	</GlobalStrings>
+</TrID>

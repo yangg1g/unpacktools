@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Adobe Update Manager data</FileType>
+		<Ext>AUM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.adobe.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>01</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>51</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DESCRIPTION DEFAULT</String>
+		<String>DISPLAYNAME DEFAULT</String>
+		<String>VERIFICATION TYPE</String>
+		<String>EXECUTABLENAME</String>
+		<String>COMPARISONTYPE</String>
+		<String>DESTINATION</String>
+		<String>.ADOBE.COM</String>
+		<String>COMPONENT</String>
+		<String>AUVERSION</String>
+		<String>FILEINFO</String>
+		<String>%APPDIR%</String>
+		<String>MANIFEST</String>
+		<String>KEYFILE</String>
+		<String>INSTALL</String>
+		<String>NSTALLE</String>
+		<String>UPDATES</String>
+		<String>TARGET</String>
+		<String>HTTP</String>
+		<String>ARGS</String>
+		<String>SIZE</String>
+		<String>EXPR</String>
+		<String>DATA</String>
+	</GlobalStrings>
+</TrID>

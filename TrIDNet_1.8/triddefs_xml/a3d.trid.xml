@@ -1,0 +1,44 @@
+<TrID ver="1.16">
+    <Info>
+        <FileType>Eovia Amapi 3D model</FileType>
+        <Ext>A3D</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.eovia.com/home.jsp</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>5</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>20</Day>
+        </Date>
+        <Time>
+            <Hour>19</Hour>
+            <Min>20</Min>
+            <Sec>29</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00.1</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>414D41500000</Bytes>
+            <ASCII> A M A P</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>424C4F4B534841500000</Bytes>
+            <ASCII> B L O K S H A P</ASCII>
+            <Pos>8</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>626C6F6B</Bytes>
+            <ASCII> b l o k</ASCII>
+            <Pos>20</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

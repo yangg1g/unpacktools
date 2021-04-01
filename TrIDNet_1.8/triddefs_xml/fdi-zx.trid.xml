@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FDI Floppy Disk Image</FileType>
+		<Ext>FDI</Ext>
+		<ExtraInfo>
+			<Rem>Used by various Sinclair Spectrum emulators.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>17</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>464449</Bytes>
+			<ASCII> F D I</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

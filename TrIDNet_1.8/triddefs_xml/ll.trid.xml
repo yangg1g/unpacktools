@@ -1,0 +1,72 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Combit List and Label printer setup file</FileType>
+		<Ext>LL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.combit.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>58</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4A006F0062</Bytes>
+			<ASCII> J . o . b</ASCII>
+			<Pos>1152</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PRINTER SETUP FILE OF COMBIT LIST</String>
+		<String>P'R'I'N'T'E'R'C'O'N'F'I'G</String>
+		<String>*SCREATORAPPLICATION</String>
+		<String>SPRINTERENVIRONMENT</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>NPIXELSPHYSICALY</String>
+		<String>NPIXELSPHYSICALX</String>
+		<String>NPIXELSPERINCHY</String>
+		<String>NPIXELSPERINCHX</String>
+		<String>NPIXELSOFFSETY</String>
+		<String>SPRINTERDRIVER</String>
+		<String>NPIXELSOFFSETX</String>
+		<String>SPRINTERDEVICE</String>
+		<String>NORIENTATION</String>
+		<String>SDESCRIPTION</String>
+		<String>SPRINTERPORT</String>
+		<String>SPROJECTNAME</String>
+		<String>NPAGEOFFSET</String>
+		<String>I'N'D'E'X</String>
+		<String>BPHYSPAGE</String>
+		<String>NPRINTERS</String>
+		<String>NVERSION</String>
+		<String>NPIXELSY</String>
+		<String>NPIXELSX</String>
+		<String>P'A'G'E</String>
+		<String>NCOPIES</String>
+		<String>NPAGES</String>
+		<String>LABEL</String>
+		<String>NJOBS</String>
+		<String>NUNIT</String>
+		<String>J'O'B</String>
+	</GlobalStrings>
+</TrID>

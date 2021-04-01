@@ -1,0 +1,67 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SlickEdit project</FileType>
+		<Ext>VPJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.slickedit.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>10</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>24</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C21444F43545950452050726F6A6563742053595354454D2022687474703A2F2F7777772E736C69636B656469742E636F6D2F6474642F7673652F</Bytes>
+			<ASCII> . ! D O C T Y P E   P r o j e c t   S Y S T E M   " h t t p : / / w w w . s l i c k e d i t . c o m / d t d / v s e /</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCTYPE PROJECT SYSTEM</String>
+		<String>SAVEWORKSPACEFILES</String>
+		<String>CAPTUREOUTPUTWITH</String>
+		<String>WWW.SLICKEDIT.COM</String>
+		<String>RESOURCE FILES</String>
+		<String>PROCESSBUFFER</String>
+		<String>HEADER FILES</String>
+		<String>EXEC CMDLINE</String>
+		<String>MENUCAPTION</String>
+		<String>OTHER FILES</String>
+		<String>SAVECURRENT</String>
+		<String>SAVEOPTION</String>
+		<String>VENDORNAME</String>
+		<String>RUNFROMDIR</String>
+		<String>WORKINGDIR</String>
+		<String>OUTPUTFILE</String>
+		<String>SAVENONE</String>
+		<String>RELEASE</String>
+		<String>FILTERS</String>
+		<String>VPJ.DTD</String>
+		<String>COMPILE</String>
+		<String>REBUILD</String>
+		<String>EXECUTE</String>
+		<String>VERSION</String>
+		<String>BITMAPS</String>
+		<String>TARGET</String>
+		<String>FOLDER</String>
+		<String>CONFIG</String>
+		<String>DEBUG</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

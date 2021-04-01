@@ -1,0 +1,188 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Roblox location</FileType>
+		<Ext>RBXL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Roblox</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>3</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>52</Min>
+			<Sec>1</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C726F626C6F7820786D6C6E733A786D696D653D22687474703A2F2F7777772E77332E6F72672F323030352F30352F786D6C6D696D652220786D6C6E733A7873693D22687474703A2F2F7777772E77332E6F72672F323030312F584D4C536368656D612D696E7374616E636522207873693A6E6F4E616D657370616365536368656D614C6F636174696F6E3D22687474703A2F2F7777772E726F626C6F782E636F6D2F726F626C6F782E787364222076657273696F6E3D2234223E0A093C45787465726E616C3E6E756C6C3C2F45787465726E616C3E0A093C45787465726E616C3E6E696C3C2F45787465726E616C3E0A093C4974656D20636C6173733D22576F726B737061636522207265666572656E743D2252425830223E0A09093C50726F706572746965733E0A0909093C526566206E616D653D22</Bytes>
+			<ASCII> . r o b l o x   x m l n s : x m i m e = " h t t p : / / w w w . w 3 . o r g / 2 0 0 5 / 0 5 / x m l m i m e "   x m l n s : x s i = " h t t p : / / w w w . w 3 . o r g / 2 0 0 1 / X M L S c h e m a - i n s t a n c e "   x s i : n o N a m e s p a c e S c h e m a L o c a t i o n = " h t t p : / / w w w . r o b l o x . c o m / r o b l o x . x s d "   v e r s i o n = " 4 " . . . . E x t e r n a l . n u l l . / E x t e r n a l . . . . E x t e r n a l . n i l . / E x t e r n a l . . . . I t e m   c l a s s = " W o r k s p a c e "   r e f e r e n t = " R B X 0 " . . . . . P r o p e r t i e s . . . . . . R e f   n a m e = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NONAMESPACESCHEMALOCATION</String>
+		<String>SCRIPTINFORMATIONPROVIDER</String>
+		<String>CHANGEHISTORYSERVICE</String>
+		<String>COORDINATEFRAME NAME</String>
+		<String>SCRIPT.PARENT.PARENT</String>
+		<String>BOTTOMSURFACEINPUT</String>
+		<String>SHOWDEVELOPMENTGUI</String>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>CONNECT(FUNCTION(</String>
+		<String>FRONTSURFACEINPUT</String>
+		<String>RIGHTSURFACEINPUT</String>
+		<String>BACKSURFACEINPUT</String>
+		<String>LEFTSURFACEINPUT</String>
+		<String>SCRIPT.PARENT.TO</String>
+		<String>BEVEL ROUNDNESS</String>
+		<String>CONTENTPROVIDER</String>
+		<String>FINDFIRSTCHILD(</String>
+		<String>GAME.WORKSPACE.</String>
+		<String>THEN RETURN END</String>
+		<String>TOPSURFACEINPUT</String>
+		<String>DISTANCEFACTOR</String>
+		<String>MODELINPRIMARY</String>
+		<String>PHYSICSSERVICE</String>
+		<String>WWW.ROBLOX.COM</String>
+		<String>AMBIENTREVERB</String>
+		<String>CAMERASUBJECT</String>
+		<String>CONTENTFILTER</String>
+		<String>BADGESERVICE</String>
+		<String>CONTENT NAME</String>
+		<String>CYLINDERMESH</String>
+		<String>DESIREDANGLE</String>
+		<String>DOPPLERSCALE</String>
+		<String>LINKEDSOURCE</String>
+		<String>ROBLOX XMLNS</String>
+		<String>ROLLOFFSCALE</String>
+		<String>SOUNDSERVICE</String>
+		<String>TRANSPARENCY</String>
+		<String>BOTTOMPARAM</String>
+		<String>GETCHILDREN</String>
+		<String>LOCAL PRINT</String>
+		<String>MAXVELOCITY</String>
+		<String>PRIMARYPART</String>
+		<String>REFLECTANCE</String>
+		<String>ROTVELOCITY</String>
+		<String>RUN SERVICE</String>
+		<String>SPECIALMESH</String>
+		<String>STARTERPACK</String>
+		<String>STRING NAME</String>
+		<String>VERTEXCOLOR</String>
+		<String>ARCHIVABLE</String>
+		<String>BRICKCOLOR</String>
+		<String>CAMERATYPE</String>
+		<String>CANCOLLIDE</String>
+		<String>ELASTICITY</String>
+		<String>FLOAT NAME</String>
+		<String>FORMFACTOR</String>
+		<String>FRONTPARAM</String>
+		<String>ITEM CLASS</String>
+		<String>MAXPLAYERS</String>
+		<String>PROPERTIES</String>
+		<String>RIGHTPARAM</String>
+		<String>ROBLOX.XSD</String>
+		<String>RUNSERVICE</String>
+		<String>SOUNDSCAPE</String>
+		<String>STARTERGUI</String>
+		<String>TOKEN NAME</String>
+		<String>WWW.W3.ORG</String>
+		<String>BACKPARAM</String>
+		<String>BLOCKMESH</String>
+		<String>BOOL NAME</String>
+		<String>DRAGGINGV</String>
+		<String>LEFTPARAM</String>
+		<String>SELECTION</String>
+		<String>TEXTUREID</String>
+		<String>ANCHORED</String>
+		<String>DISABLED</String>
+		<String>EXTERNAL</String>
+		<String>FRICTION</String>
+		<String>GEOMETRY</String>
+		<String>HUMANOID</String>
+		<String>LIGHTING</String>
+		<String>MATERIAL</String>
+		<String>MAXITEMS</String>
+		<String>MESHTYPE</String>
+		<String>POSITION</String>
+		<String>RBXASSET</String>
+		<String>REF NAME</String>
+		<String>REFERENT</String>
+		<String>TOPPARAM</String>
+		<String>CURRENT</String>
+		<String>REMOVED</String>
+		<String>TOUCHED</String>
+		<String>VECTOR3</String>
+		<String>VERSION</String>
+		<String>XMLMIME</String>
+		<String>.CHILD</String>
+		<String>.START</String>
+		<String>.VALUE</String>
+		<String>CFRAME</String>
+		<String>DEBRIS</String>
+		<String>HANDLE</String>
+		<String>LOCKED</String>
+		<String>MESHID</String>
+		<String>OBJECT</String>
+		<String>OFFSET</String>
+		<String>RBX100</String>
+		<String>.NAME</String>
+		<String>.SIZE</String>
+		<String>BEING</String>
+		<String>BULGE</String>
+		<String>CLONE</String>
+		<String>FALSE</String>
+		<String>FOCUS</String>
+		<String>IMATE</String>
+		<String>ITUDE</String>
+		<String>MOTOR</String>
+		<String>NNING</String>
+		<String>NOTIF</String>
+		<String>PART0</String>
+		<String>PITCH</String>
+		<String>SHAPE</String>
+		<String>SPAWN</String>
+		<String>SPEED</String>
+		<String>STILL</String>
+		<String>THERE</String>
+		<String>TIMER</String>
+		<String>XMIME</String>
+		<String>.CLI</String>
+		<String>APOS</String>
+		<String>AUTO</String>
+		<String>BODY</String>
+		<String>ELSE</String>
+		<String>GIVE</String>
+		<String>HEAD</String>
+		<String>HTTP</String>
+		<String>KILL</String>
+		<String>LIST</String>
+		<String>LODX</String>
+		<String>LODY</String>
+		<String>LOOP</String>
+		<String>MAKE</String>
+		<String>NULL</String>
+		<String>ONLY</String>
+		<String>OWER</String>
+		<String>STAT</String>
+		<String>STOP</String>
+		<String>TEAM</String>
+		<String>USES</String>
+		<String>WAIT</String>
+		<String>WELD</String>
+		<String>WILL</String>
+	</GlobalStrings>
+</TrID>

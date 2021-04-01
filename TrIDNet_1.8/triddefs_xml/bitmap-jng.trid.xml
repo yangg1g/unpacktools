@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>JPEG Network Graphics bitmap</FileType>
+        <Ext>JNG</Ext>
+        <ExtraInfo>
+            <Rem>JNG is the lossy sub-format for MNG objects</Rem>
+            <RefURL>http://www.libpng.org/pub/mng/spec/jng.html</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>12</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>17</Day>
+        </Date>
+        <Time>
+            <Hour>14</Hour>
+            <Min>32</Min>
+            <Sec>14</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>8B4A4E470D0A1A0A000000104A484452</Bytes>
+            <ASCII> . J N G . . . . . . . . J H D R</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

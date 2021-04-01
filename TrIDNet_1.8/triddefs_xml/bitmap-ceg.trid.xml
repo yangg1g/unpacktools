@@ -1,0 +1,38 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Continuous Edge Graphic bitmap</FileType>
+        <Ext>CEG</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>7</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>26</Day>
+        </Date>
+        <Time>
+            <Hour>20</Hour>
+            <Min>16</Min>
+            <Sec>18</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.02.6b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>456473756E20434547</Bytes>
+            <ASCII> E d s u n   C E G</ASCII>
+            <Pos>2</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>01</Bytes>
+            <Pos>101</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

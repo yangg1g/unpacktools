@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HelpScribble Project</FileType>
+		<Ext>HSC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.helpscribble.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>02</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>10</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>48656C705363726962626C652070726F6A6563742066696C652E0D0A</Bytes>
+			<ASCII> H e l p S c r i b b l e   p r o j e c t   f i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

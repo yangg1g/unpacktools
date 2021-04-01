@@ -1,0 +1,68 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Treo Phone skin</FileType>
+		<Ext>PDB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>03</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>56</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000000000000000000000000010000</Bytes>
+			<Pos>21</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5470536B546B5068</Bytes>
+			<ASCII> T p S k T k P h</ASCII>
+			<Pos>60</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54626D70</Bytes>
+			<ASCII> T b m p</ASCII>
+			<Pos>78</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54626D70</Bytes>
+			<ASCII> T b m p</ASCII>
+			<Pos>88</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54626D70</Bytes>
+			<ASCII> T b m p</ASCII>
+			<Pos>98</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54626D70</Bytes>
+			<ASCII> T b m p</ASCII>
+			<Pos>108</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54626D70</Bytes>
+			<ASCII> T b m p</ASCII>
+			<Pos>118</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TPSKTKPH</String>
+		<String>TBMP</String>
+		<String>SKIN</String>
+	</GlobalStrings>
+</TrID>

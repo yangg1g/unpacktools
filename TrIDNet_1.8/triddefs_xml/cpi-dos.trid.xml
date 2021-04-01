@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>International Code Page file</FileType>
+		<Ext>CPI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Refine>4 Matteo Passerini</Refine>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>10</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FF464F4E54</Bytes>
+			<ASCII> . F O N T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

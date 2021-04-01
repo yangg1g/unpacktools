@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XProfan Compiled Unit</FileType>
+		<Ext>PCU</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://xprofan.mxii.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>03</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>01</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>205247482D5850524F46414E20554E4954</Bytes>
+			<ASCII>   R G H - X P R O F A N   U N I T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>1A</Bytes>
+			<Pos>18</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Standard CPCEMU style disk image</FileType>
+        <Ext>DSK</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://andercheran.aiind.upv.es/~amstrad/docs/dsk.html</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>21</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>15</Day>
+        </Date>
+        <Time>
+            <Hour>19</Hour>
+            <Min>10</Min>
+            <Sec>37</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4D56202D20435043454D5520</Bytes>
+            <ASCII> M V   -   C P C E M U</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

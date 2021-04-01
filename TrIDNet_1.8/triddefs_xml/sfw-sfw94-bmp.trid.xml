@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Seattle FilmWorks / PhotoWorks photo (Uncompressed SFW94)</FileType>
+		<Ext>SFW</Ext>
+		<ExtraInfo>
+			<Rem>PhotoWorks created Uncompressed SFW, a BMP which is encompassed by SFW file structures.</Rem>
+			<RefURL>http://jonesrh.info/sfw/</RefURL>
+		</ExtraInfo>
+		<User>Richard H. Jones</User>
+		<E-Mail>sfwwhichfmt@PLEASEUNSPAMjonesrh.info</E-Mail>
+		<Home>http://jonesrh.info/sfw/</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>02</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>20</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>Richard H. Jones</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5346573934</Bytes>
+			<ASCII> S F W 9 4</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>DA0700003A240000003A000000003A</Bytes>
+			<ASCII> . . . . : $ . . . : . . . . :</ASCII>
+			<Pos>205</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000</Bytes>
+			<ASCII> . .</ASCII>
+			<Pos>252</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A000000003A440000003ADA070000</Bytes>
+			<ASCII> : . . . . : D . . . : . . . .</ASCII>
+			<Pos>256</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

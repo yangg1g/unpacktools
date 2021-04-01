@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Grid 2 Bundle</FileType>
+		<Ext>BDL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sensorysoftware.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>1</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>530065006E0073006F00720079004100720063006800690076006500200032</Bytes>
+			<ASCII> S . e . n . s . o . r . y . A . r . c . h . i . v . e .   . 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A5C</Bytes>
+			<ASCII> : \</ASCII>
+			<Pos>48</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>THUMBNAIL.JPG</String>
+		<String>GRID BUNDLE</String>
+		<String>THE GRID 2</String>
+		<String>GRID.XML</String>
+		<String>GRIDS</String>
+		<String>LOCAL</String>
+		<String>TEMP</String>
+	</GlobalStrings>
+</TrID>

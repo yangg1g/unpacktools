@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Derive for Windows (v5)</FileType>
+		<Ext>DFW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.chartwellyorke.com/dfwind.html</RefURL>
+		</ExtraInfo>
+		<User>Filippo Menolascina</User>
+		<E-Mail>filippo.[remove_this]menolascina@email.it</E-Mail>
+		<Home>http://filippomenolascina.tk/</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>06</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>49</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>44455249564520666F722057696E646F77732076657273696F6E20352E</Bytes>
+			<ASCII> D E R I V E   f o r   W i n d o w s   v e r s i o n   5</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>204466572066696C65207361766564206F6E20</Bytes>
+			<ASCII>   D f W   f i l e   s a v e d   o n</ASCII>
+			<Pos>31</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

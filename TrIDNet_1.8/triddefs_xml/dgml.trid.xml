@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Directed Graph XML document</FileType>
+		<Ext>DGML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>15</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>DIRECTEDGRAPH</String>
+		<String>LINK SOURCE</String>
+		<String>XML VERSION</String>
+		<String>BACKGROUND</String>
+		<String>ENCODING</String>
+		<String>PROPERTY</String>
+		<String>NODE ID</String>
+		<String>TARGET</String>
+		<String>LABEL</String>
+		<String>LINKS</String>
+		<String>NODES</String>
+		<String>UTF-8</String>
+		<String>XMLNS</String>
+		<String>DGML</String>
+		<String>HTTP</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

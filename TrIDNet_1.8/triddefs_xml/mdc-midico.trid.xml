@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MidiCo Karaoke</FileType>
+		<Ext>MDC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.midicokaraoke.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>6</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>48</Min>
+			<Sec>2</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D444300010002000000</Bytes>
+			<ASCII> M D C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.JPG</String>
+		<String>APPL</String>
+		<String>DESC</String>
+		<String>JFIF</String>
+		<String>TEXT</String>
+	</GlobalStrings>
+</TrID>

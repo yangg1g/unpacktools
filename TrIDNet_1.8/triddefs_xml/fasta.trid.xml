@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FASTA DNA sequence</FileType>
+		<Ext>FASTA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Fasta</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>21</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3E</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>REPEATMASKING</String>
+		<String>REVCOMP</String>
+		<String>STRAND</String>
+		<String>RANGE</String>
+		<String>NONE</String>
+	</GlobalStrings>
+</TrID>

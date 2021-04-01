@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>StockChartX data</FileType>
+		<Ext>STX</Ext>
+		<ExtraInfo>
+			<Rem>StockChartX is a financial software by Modulus Financial Engineering.</Rem>
+			<RefURL>http://www.modulusfe.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>10</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>41</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53746F636B436861727458</Bytes>
+			<ASCII> S t o c k C h a r t X</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

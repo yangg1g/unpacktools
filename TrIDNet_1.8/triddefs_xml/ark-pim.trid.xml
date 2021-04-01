@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PIM compressed archive</FileType>
+		<Ext>PIM</Ext>
+		<ExtraInfo>
+			<Rem>PIM is a new high performance file archiver by Ilia Muraviev.</Rem>
+			<RefURL>http://www.encode.ru/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>11</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50494D32</Bytes>
+			<ASCII> P I M 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

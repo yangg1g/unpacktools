@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MapInfo MapBasic tabular DataBase</FileType>
+		<Ext>DAT</Ext>
+		<ExtraInfo>
+			<Rem>1 of 5 dataset linked files, the others are *.DAT, *.ID *.IND and *.MAP</Rem>
+			<RefURL>http://www.mapinfo.com/</RefURL>
+		</ExtraInfo>
+		<User>Rizla99</User>
+		<E-Mail>rizla99-nospam@hotmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>299</FileNum>
+		<Refine>4 by Kieran O'Donnell - 3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>41</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>03</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000000000000000</Bytes>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>004300000000</Bytes>
+			<ASCII> . C</ASCII>
+			<Pos>42</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000000000</Bytes>
+			<Pos>49</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

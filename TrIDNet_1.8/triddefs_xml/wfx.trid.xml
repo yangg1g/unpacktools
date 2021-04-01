@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Total Commander File system extension (plugin)</FileType>
+		<Ext>WFX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ghisler.com/plugins.htm#filesys</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>02</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>51</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A</Bytes>
+			<ASCII> M Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.RSRC</String>
+		<String>FSFINDCLOSE</String>
+		<String>FSFINDFIRST</String>
+		<String>FSFINDNEXT</String>
+		<String>FSGETDEFROOTNAME</String>
+		<String>FSINIT</String>
+		<String>LOAD</String>
+		<String>PE''L</String>
+		<String>TEFILE</String>
+		<String>THIS PROGRAM</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Cosmic Blobs model</FileType>
+		<Ext>BLOB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cosmicblobs.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>30</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>424C4F425320</Bytes>
+			<ASCII> B L O B S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2076</Bytes>
+			<ASCII>   v</ASCII>
+			<Pos>14</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>17</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A1A</Bytes>
+			<Pos>19</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

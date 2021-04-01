@@ -1,0 +1,44 @@
+<TrID ver="1.18">
+	<Info>
+		<FileType>Psion Library</FileType>
+		<Ext>DYL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<Refine>6 by Marco Pontello</Refine>
+		<Date>
+			<Year>2003</Year>
+			<Month>10</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>51</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.23</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4C494246696C65547970652A2A2A2A000F204000</Bytes>
+			<ASCII> L I B F i l e T y p e * * * * . .   @</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000000000000000000000000000000000000000000000000000000041DD00CB0000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A</ASCII>
+			<Pos>26</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000CDD3CDD7</Bytes>
+			<Pos>74</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MS Age of Empires II: The Conquerors Expansion v1.0 Saved Game</FileType>
+		<Ext>GAX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User></User>
+		<E-Mail>TrID.20.CIS@spamgourmet.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>05</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>45</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>ECBD</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

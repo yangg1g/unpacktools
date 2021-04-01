@@ -1,0 +1,67 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Works wizard</FileType>
+		<Ext>WPJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Microsoft_Works</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>2</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>33</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3C003F0078006D006C002000760065007200730069006F006E003D00220031002E0030002200200065006E0063006F00640069006E0067003D002200</Bytes>
+			<ASCII> . . . . ? . x . m . l .   . v . e . r . s . i . o . n . = . " . 1 . . . 0 . " .   . e . n . c . o . d . i . n . g . = . "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'C'H'E'M'A'S'.'M'I'C'R'O'S'O'F'T'.'C'O'M</String>
+		<String>D'E'S'C'R'I'P'T'I'O'N' 'X'M'L</String>
+		<String>M'Y'L'I'S'T'S' 'X'M'L'N'S</String>
+		<String>C'H'A'N'G'E'N'U'M'B'E'R</String>
+		<String>L'I'S'T'R'E'F' 'R'E'F</String>
+		<String>P'R'O'J'E'C'T'L'I'S'T</String>
+		<String>X'M'L' 'V'E'R'S'I'O'N</String>
+		<String>I'N'P'R'O'G'R'E'S'S</String>
+		<String>I'T'E'M' 'X'M'L'N'S</String>
+		<String>L'I'S'T' 'X'M'L'N'S</String>
+		<String>A'S'S'O'C' 'X'M'L</String>
+		<String>T'I'T'L'E' 'X'M'L</String>
+		<String>E'N'C'O'D'I'N'G</String>
+		<String>C'O'N'T'E'N'T</String>
+		<String>W'I'Z'A'R'D'S</String>
+		<String>%'S'1'0'3'3</String>
+		<String>I'D'N'A'M'E</String>
+		<String>S'T'A'T'U'S</String>
+		<String>S'Y'S'T'E'M</String>
+		<String>U'T'F'-'1'6</String>
+		<String>E'N'-'U'S</String>
+		<String>O'R'D'E'R</String>
+		<String>T'R'A'C'K</String>
+		<String>W'O'R'K'S</String>
+		<String>.'E'X'E</String>
+		<String>2'0'0'1</String>
+		<String>H'T'T'P</String>
+		<String>L'A'N'G</String>
+		<String>C'M'D</String>
+		<String>W'K'S</String>
+	</GlobalStrings>
+</TrID>

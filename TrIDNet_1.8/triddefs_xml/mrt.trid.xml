@@ -1,0 +1,107 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Stimulsoft Report</FileType>
+		<Ext>MRT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.stimulsoft.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>9</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>38</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D3822207374616E64616C6F6E653D22796573223F3E</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 "   s t a n d a l o n e = " y e s " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>STIREPORT DESIGNER GENERATED CODE - DO NOT MODIFY</String>
+		<String>STIMULSOFT.REPORT.PRINT.STIPRINTERSETTINGS</String>
+		<String>STIMULSOFT.REPORT.COMPONENTS.STIWATERMARK</String>
+		<String>GLOBALIZATIONSTRINGS ISLIST</String>
+		<String>REFERENCEDASSEMBLIES ISLIST</String>
+		<String>STIMULSOFT.REPORT.STIREPORT</String>
+		<String>STIMULSOFT.REPORT.DIALOGS</String>
+		<String>SYSTEM.WINDOWS.FORMS.DLL</String>
+		<String>STIMULSOFT.BASE.DRAWING</String>
+		<String>STIMULSOFT.CONTROLS.DLL</String>
+		<String>STIMULSOFT.REPORT.DLL</String>
+		<String>STISERIALIZER VERSION</String>
+		<String>.INITIALIZECOMPONENT</String>
+		<String>PRINTERSETTINGS REF</String>
+		<String>STIMULSOFT.BASE.DLL</String>
+		<String>DATASOURCES ISLIST</String>
+		<String>SYSTEM.DRAWING.DLL</String>
+		<String>COMPONENTS ISLIST</String>
+		<String>CONDITIONS ISLIST</String>
+		<String>NAMESPACE REPORTS</String>
+		<String>DATABASES ISLIST</String>
+		<String>RELATIONS ISLIST</String>
+		<String>VARIABLES ISLIST</String>
+		<String>CLIENTRECTANGLE</String>
+		<String>SYSTEM.DATA.DLL</String>
+		<String>DICTIONARY REF</String>
+		<String>SCRIPTLANGUAGE</String>
+		<String>SYSTEM.XML.DLL</String>
+		<String>REPORTCHANGED</String>
+		<String>REPORTCREATED</String>
+		<String>REPORTVERSION</String>
+		<String>STYLES ISLIST</String>
+		<String>WATERMARK REF</String>
+		<String>PAGES ISLIST</String>
+		<String>PARENT ISREF</String>
+		<String>PUBLIC CLASS</String>
+		<String>REPORT ISREF</String>
+		<String>APPLICATION</String>
+		<String>REPORTALIAS</String>
+		<String>TRANSPARENT</String>
+		<String>XML VERSION</String>
+		<String>PAGE ISREF</String>
+		<String>PAGEHEIGHT</String>
+		<String>REPORTGUID</String>
+		<String>REPORTNAME</String>
+		<String>REPORTUNIT</String>
+		<String>STANDALONE</String>
+		<String>SYSTEM.DLL</String>
+		<String>PAGEWIDTH</String>
+		<String>TEXTBRUSH</String>
+		<String>ENCODING</String>
+		<String>MARGINS</String>
+		<String>BORDER</String>
+		<String>REGION</String>
+		<String>1 REF</String>
+		<String>BLACK</String>
+		<String>COUNT</String>
+		<String>FALSE</String>
+		<String>ISKEY</String>
+		<String>SOLID</String>
+		<String>UTF-8</String>
+		<String>VALUE</String>
+		<String>FONT</String>
+		<String>NDRE</String>
+		<String>NONE</String>
+		<String>SING</String>
+		<String>TIME</String>
+		<String>TRUE</String>
+		<String>TYPE</String>
+		<String>USIN</String>
+	</GlobalStrings>
+</TrID>

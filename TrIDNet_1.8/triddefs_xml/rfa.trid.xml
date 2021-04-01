@@ -1,0 +1,64 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Revit Family Architecture project</FileType>
+		<Ext>RFA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Autodesk_Revit_Architecture</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>6</Month>
+			<Day>9</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>48</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>D'O'C'U'M'E'N'T'I'N'C'R'E'M'E'N'T'T'A'B'L'E'''''''''''''''''''''.</String>
+		<String>R'E'V'I'T'P'R'E'V'I'E'W'4'.'0</String>
+		<String>L'A'S'T' 'S'A'V'E' 'P'A'T'H</String>
+		<String>P'A'R'T'I'T'I'O'N'T'A'B'L'E</String>
+		<String>B'A'S'I'C'F'I'L'E'I'N'F'O</String>
+		<String>N'O'T' 'E'N'A'B'L'E'D</String>
+		<String>R'E'V'I'T' 'B'U'I'L'D</String>
+		<String>W'O'R'K'S'H'A'R'I'N'G</String>
+		<String>P'A'R'T'I'T'I'O'N'S</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>E'L'E'M'T'A'B'L'E</String>
+		<String>M_COMPRESSEDIMAGE</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>U'S'E'R'N'A'M'E</String>
+		<String>C'E'N'T'R'A'L</String>
+		<String>F'O'R'M'A'T'S</String>
+		<String>H'I'S'T'O'R'Y</String>
+		<String>ARASTERIMAGE</String>
+		<String>FILEPREVIEW</String>
+		<String>G'L'O'B'A'L</String>
+		<String>L'A'T'E'S'T</String>
+		<String>M_PAIMAGE</String>
+		<String>M_HEIGHT</String>
+		<String>.'R'F'A</String>
+		<String>M_WIDTH</String>
+		<String>IDATX</String>
+		<String>IEND</String>
+		<String>IHDR</String>
+	</GlobalStrings>
+</TrID>

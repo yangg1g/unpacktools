@@ -1,0 +1,81 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Squeeze project</FileType>
+		<Ext>SQZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sorensonmedia.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>04</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>36</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C21444F43545950452073717565657A655F70726F6A656374</Bytes>
+			<ASCII> . ! D O C T Y P E   s q u e e z e _ p r o j e c t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MAINTAINSOURCEASPECTRATIOENABLE VALUE</String>
+		<String>USEPLAYBACKCONFIGURATION VALUE</String>
+		<String>USECUSTOMPLAYEROPTIONS VALUE</String>
+		<String>USEFILESIZECONSTRAINT VALUE</String>
+		<String>DOCTYPE SQUEEZE_PROJECT</String>
+		<String>COMPRESSIONSPEED VALUE</String>
+		<String>USECUSTOMFILTER VALUE</String>
+		<String>VIDEOCOMPRESSOR CODEC</String>
+		<String>AUDIOCOMPRESSOR CODEC</String>
+		<String>USECUSTOMAUDIO VALUE</String>
+		<String>USECUSTOMVIDEO VALUE</String>
+		<String>PROJECT STARTONLOAD</String>
+		<String>KEYFRAMERATE VALUE</String>
+		<String>OUTPUT DEFAULTNAME</String>
+		<String>USEPREFILTER VALUE</String>
+		<String>PLAYEROPTIONS NAME</String>
+		<String>ESENSITIVITY VALUE</String>
+		<String>USINGCUSTOMFILTER</String>
+		<String>OUTPUTSIZE HEIGHT</String>
+		<String>ENCODEVIDEO VALUE</String>
+		<String>BITRATEMODE VALUE</String>
+		<String>CHANNELMODE VALUE</String>
+		<String>ENCODEAUDIO VALUE</String>
+		<String>SAMPLESIZE VALUE</String>
+		<String>SAMPLERATE VALUE</String>
+		<String>AUTOKEYFRAMESEN</String>
+		<String>SUBOUTPUTFORMAT</String>
+		<String>SOURCE FILENAME</String>
+		<String>FILENAME VALUE</String>
+		<String>EENABLE VALUE</String>
+		<String>STATUS VALUE</String>
+		<String>FILTER NAME</String>
+		<String>COMPRESSED</String>
+		<String>DROPFRAMES</String>
+		<String>JOB NAME</String>
+		<String>QUALITY</String>
+		<String>VERSION</String>
+		<String>MEDIA</String>
+		<String>FALSE</String>
+		<String>ISMBR</String>
+		<String>WIDTH</String>
+		<String>.XSS</String>
+		<String>TRUE</String>
+		<String>DISP</String>
+	</GlobalStrings>
+</TrID>

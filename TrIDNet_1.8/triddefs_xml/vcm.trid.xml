@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Interwise Participant Recorded WebCast</FileType>
+		<Ext>VCM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.interwise.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>35</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>526172211A</Bytes>
+			<ASCII> R a r !</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4C6573736F6E5C</Bytes>
+			<ASCII> L e s s o n \</ASCII>
+			<Pos>52</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RAR_INFO.INI</String>
+		<String>LIBRARY</String>
+		<String>LESSON</String>
+		<String>.JPG</String>
+		<String>.VCR</String>
+		<String>.VCS</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ZiLOG Developer Studio Workspace file</FileType>
+		<Ext>ZWS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.zilog.com/software/zds2.asp</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>02</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5A694C4F4720446576656C6F7065722053747564696F20576F726B73706163652046696C650D0A23205741524E494E473A20444F204E4F542045444954204F522044454C455445205448495320574F524B53504143452046494C45210D0A0D0A5B50524A2056455253494F4E5D0D0A23626567696E0D0A56455253494F4E203D203336350D0A23656E640D0A0D0A5B5A44532056455253494F4E5D0D0A23626567696E0D0A56455253494F4E203D</Bytes>
+			<ASCII> Z i L O G   D e v e l o p e r   S t u d i o   W o r k s p a c e   F i l e . . #   W A R N I N G :   D O   N O T   E D I T   O R   D E L E T E   T H I S   W O R K S P A C E   F I L E ! . . . . [ P R J   V E R S I O N ] . . # b e g i n . . V E R S I O N   =   3 6 5 . . # e n d . . . . [ Z D S   V E R S I O N ] . . # b e g i n . . V E R S I O N   =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

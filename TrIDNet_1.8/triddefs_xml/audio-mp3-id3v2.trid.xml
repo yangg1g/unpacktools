@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>MP3 audio (ID3 v2.x tag)</FileType>
+        <Ext>MP3</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.id3.org/intro.html</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>20</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>12</Month>
+            <Day>05</Day>
+        </Date>
+        <Time>
+            <Hour>02</Hour>
+            <Min>02</Min>
+            <Sec>37</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>494433</Bytes>
+            <ASCII> I D 3</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

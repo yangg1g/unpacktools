@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Visual Basic class definition</FileType>
+		<Ext>CLS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Visual_Basic</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>24</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>11</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>54</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>56455253494F4E20312E3020434C415353</Bytes>
+			<ASCII> V E R S I O N   1 . 0   C L A S S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ATTRIBUTE VB_GLOBALNAMESPACE</String>
+		<String>ATTRIBUTE VB_PREDECLAREDID</String>
+		<String>ATTRIBUTE VB_CREATABLE</String>
+		<String>ATTRIBUTE VB_EXPOSED</String>
+		<String>ATTRIBUTE VB_NAME</String>
+		<String>VERSION 1.0 CLASS</String>
+		<String>MULTIUSE</String>
+		<String>PUBLIC</String>
+		<String>BEGIN</String>
+	</GlobalStrings>
+</TrID>

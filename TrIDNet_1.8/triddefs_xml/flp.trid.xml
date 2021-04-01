@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FruityLoops Track</FileType>
+		<Ext>FLP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Mario "JarreFan"</User>
+		<E-Mail>worbit75@hotmail.com</E-Mail>
+		<Home>http://utenti.lycos.it/jarrefan/index.php</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<Refine>6 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>11</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>26</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>464C6864</Bytes>
+			<ASCII> F L h d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

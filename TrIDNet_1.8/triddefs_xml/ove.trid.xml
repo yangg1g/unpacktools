@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Cakewalk Overture Score</FileType>
+		<Ext>OVE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cakewalk.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>44</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4F565343</Bytes>
+			<ASCII> O V S C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PAGE'''*</String>
+		<String>TRKL</String>
+		<String>BARL</String>
+		<String>MEAS</String>
+		<String>LINL</String>
+		<String>COND</String>
+		<String>LINE</String>
+		<String>OVSC</String>
+		<String>STAF</String>
+		<String>PAGL</String>
+	</GlobalStrings>
+</TrID>

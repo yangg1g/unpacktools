@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MySQL Dictionary File (ISAM)</FileType>
+		<Ext>FRM</Ext>
+		<ExtraInfo>
+			<Rem>Used with the MySQL database when using the ISAM table handler.</Rem>
+			<RefURL>http://www.mysql.com/</RefURL>
+		</ExtraInfo>
+		<User>Vincent van der Tuin</User>
+		<E-Mail>ibytedonotspam@removethis(youknowwhat)nl</E-Mail>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>11</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>57</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FE010707</Bytes>
+			<ASCII> . . . .</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PRIMARY</String>
+		<String>KEYID</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,68 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Lenex XML data</FileType>
+		<Ext>LEF</Ext>
+		<ExtraInfo>
+			<Rem>Lenex is an international data exchange format for swimming.</Rem>
+			<RefURL>http://www.swimrankings.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>23</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D2249534F2D383835392D31223F3E0D0A3C4C454E45583E0D0A203C56455253494F4E3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " I S O - 8 8 5 9 - 1 " ? . . . . L E N E X . . .   . V E R S I O N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COMPETITIONS</String>
+		<String>CONSTRUCTOR</String>
+		<String>XML VERSION</String>
+		<String>POINTTABLE</String>
+		<String>ISO-8859-1</String>
+		<String>ENCODING</String>
+		<String>INTERNET</String>
+		<String>EVENT ID</String>
+		<String>PERIODS</String>
+		<String>CONTACT</String>
+		<String>EVENTS</String>
+		<String>NATION</String>
+		<String>DISCNT</String>
+		<String>CAT ID</String>
+		<String>STREET</String>
+		<String>EMAIL</String>
+		<String>LENEX</String>
+		<String>PLACE</String>
+		<String>PHONE</String>
+		<String>DATE</String>
+		<String>BERN</String>
+		<String>CATS</String>
+		<String>IZER</String>
+		<String>NAME</String>
+		<String>HTTP</String>
+		<String>STAT</String>
+		<String>MEET</String>
+		<String>TIME</String>
+		<String>TYPE</String>
+		<String>WWW.</String>
+		<String>PEID</String>
+	</GlobalStrings>
+</TrID>

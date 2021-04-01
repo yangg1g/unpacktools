@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SafeGuard encrypted</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sophos.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>6</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>32</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5361666547756172642046696C65456E6372797074696F6E0D0A436F7079726967687420A920313939382D3230</Bytes>
+			<ASCII> S a f e G u a r d   F i l e E n c r y p t i o n . . C o p y r i g h t   .   1 9 9 8 - 2 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20536F70686F732047726F757020616E64205574696D61636F2053616665776172652041470D0A0D0A454E435259505445442046494C452E0D0A1A</Bytes>
+			<ASCII>   S o p h o s   G r o u p   a n d   U t i m a c o   S a f e w a r e   A G . . . . E N C R Y P T E D   F I L E</ASCII>
+			<Pos>47</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>USeq genome data</FileType>
+		<Ext>USEQ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://useq.sourceforge.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>11</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SEQUENCE-DIAGRAM VERSION</String>
+		<String>POSITION HEIGHT</String>
+		<String>OBJECT ID</String>
+		<String>AUTOSIZE</String>
+		<String>LANGUAGE</String>
+		<String>PROJECT</String>
+		<String>BINARY</String>
+		<String>.JAVA</String>
+		<String>CLASS</String>
+		<String>FALSE</String>
+		<String>ICONS</String>
+		<String>LABEL</String>
+		<String>WIDTH</String>
+		<String>FILE</String>
+		<String>NAME</String>
+		<String>TRUE</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

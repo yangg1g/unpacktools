@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HandStory eBook</FileType>
+		<Ext>HSB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.handstory.com/product/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>07</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>53</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00000103</Bytes>
+			<Pos>30</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

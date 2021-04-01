@@ -1,0 +1,67 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Banana accounting data</FileType>
+		<Ext>AC2</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.banana.ch/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>42</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>14</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000064000000</Bytes>
+			<ASCII> . . d</ASCII>
+			<Pos>6</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>01000000000000</Bytes>
+			<Pos>13</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>21</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<Pos>26</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000000000000000000000004E0400</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . N</ASCII>
+			<Pos>78</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000</Bytes>
+			<Pos>105</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FF</Bytes>
+			<Pos>121</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FF</Bytes>
+			<Pos>123</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>NoteWorthy song (alternate format)</FileType>
+		<Ext>NWC</Ext>
+		<ExtraInfo>
+			<Rem>NoteWorthy Composer is a software music composition and notation processor for Windows.</Rem>
+			<RefURL>http://www.noteworthysoftware.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>06</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B4E6F7465576F7274687920417274576172655D</Bytes>
+			<ASCII> [ N o t e W o r t h y   A r t W a r e ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5B4E6F7465576F7274687920436F6D706F7365725D</Bytes>
+			<ASCII> [ N o t e W o r t h y   C o m p o s e r ]</ASCII>
+			<Pos>23</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

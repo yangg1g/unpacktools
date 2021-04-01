@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>STL Stream Format</FileType>
+		<Ext>SSF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>1</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53544C2053747265616D20466F726D61742076</Bytes>
+			<ASCII> S T L   S t r e a m   F o r m a t   v</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>20</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

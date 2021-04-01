@@ -1,0 +1,100 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LEGO Mindstorms EV3 Program</FileType>
+		<Ext>EV3P</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Lego_Mindstorms_EV3</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2014</Year>
+			<Month>1</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>46</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D38223F3E</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>INTERRUPTSTOLISTENFOR_16B03592_CD76_4D58_8DC3_E3C3091E327A</String>
+		<String>DESIGNERSURFACEPROPERTIES.SHOWCONTROLADORNERS</String>
+		<String>NATIONALINSTRUMENTS.LABVIEW.FRONTPANELRUNTIME</String>
+		<String>CONFIGURABLEMETHODTERMINAL CONFIGUREDVALUE</String>
+		<String>DESIGNERSURFACEPROPERTIES.CANSNAPTOOBJECTS</String>
+		<String>NATIONALINSTRUMENTS.SOURCEMODEL.DESIGNER</String>
+		<String>DESIGNERSURFACEPROPERTIES.SHOWSNAPLINES</String>
+		<String>DESIGNERSURFACEPROPERTIES.SNAPTOOBJECTS</String>
+		<String>OVERRIDINGMODELDEFINITIONTYPE</String>
+		<String>VIRTUALINSTRUMENT ISTOPLEVEL</String>
+		<String>CONFIGURABLEMETHODCALL ID</String>
+		<String>FRONTPANELCANVAS XMLNS</String>
+		<String>X3SEQUENCEWIREDATATYPE</String>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>VIRTUALINSTRUMENT.XSD</String>
+		<String>SOURCEFILE VERSION</String>
+		<String>BLOCKDIAGRAM NAME</String>
+		<String>SEQUENCEOUT) N(N</String>
+		<String>SOURCEMODEL.XSD</String>
+		<String>__ROOTDIAGRAM__</String>
+		<String>NAMESPACE NAME</String>
+		<String>STARTBLOCKTEST</String>
+		<String>CLR-NAMESPACE</String>
+		<String>CONFIGURABLEW</String>
+		<String>STARTBLOCK ID</String>
+		<String>PRESENTATION</String>
+		<String>X3VIDOCUMENT</String>
+		<String>ISREENTRANT</String>
+		<String>SEQUENCEIN)</String>
+		<String>TERMINAL ID</String>
+		<String>XML VERSION</String>
+		<String>WWW.NI.COM</String>
+		<String>DATATYPES</String>
+		<String>DIRECTION</String>
+		<String>FPRUNTIME</String>
+		<String>1.0.2.10</String>
+		<String>ASSEMBLY</String>
+		<String>ENCODING</String>
+		<String>1.0.2.0</String>
+		<String>BOOLEAN</String>
+		<String>HOTSPOT</String>
+		<String>PROJECT</String>
+		<String>WIRE ID</String>
+		<String>BOUNDS</String>
+		<String>HEIGHT</String>
+		<String>JOINTS</String>
+		<String>OUTPUT</String>
+		<String>RESULT</String>
+		<String>SINGLE</String>
+		<String>TARGET</String>
+		<String>FALSE</String>
+		<String>INDEX</String>
+		<String>INPUT</String>
+		<String>INT32</String>
+		<String>UTF-8</String>
+		<String>WIDTH</String>
+		<String>WINFX</String>
+		<String>.LIB</String>
+		<String>.VIX</String>
+		<String>HTTP</String>
+		<String>PORT</String>
+		<String>TRUE</String>
+		<String>XAML</String>
+	</GlobalStrings>
+</TrID>

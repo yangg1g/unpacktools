@@ -1,0 +1,136 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>KeyShot 3D scene</FileType>
+		<Ext>BIP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://keyshot.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>46</Min>
+			<Sec>5</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2F2F2D2D2D6C7578696F6E3A64616C3A</Bytes>
+			<ASCII> / / - - - l u x i o n : d a l :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2D2D2D0A2F2F204B657953686F74205363656E652046696C65202D204B657953686F74205B</Bytes>
+			<ASCII> - - - . / /   K e y S h o t   S c e n e   F i l e   -   K e y S h o t   [</ASCII>
+			<Pos>17</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>206269745D2076</Bytes>
+			<ASCII>   b i t ]   v</ASCII>
+			<Pos>56</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RENDER_SHARPER_TEXTURE_FILTERING</String>
+		<String>DETAILED_INDIRECT_ILLUMINATION</String>
+		<String>GROUND_INDIRECT_ILLUMINATION</String>
+		<String>KEYSHOT SCENE FILE - KEYSHOT</String>
+		<String>RENDER_ANTI_ALIASING_LEVEL</String>
+		<String>FAST_AMBIENT_OCCLUSION</String>
+		<String>RENDER_SHADOW_QUALITY</String>
+		<String>USE_REALTIME_RENDERER</String>
+		<String>REALTIME_TRACE_LEVEL</String>
+		<String>RENDER_SHARP_SHADOWS</String>
+		<String>VIGNETTING_INTENSITY</String>
+		<String>CAMERA_ABOVE_GROUND</String>
+		<String>GROUND_SHADOW_COLOR</String>
+		<String>RENDER_OUTPUT_ALPHA</String>
+		<String>ENVIRONMENT_HEIGHT</String>
+		<String>RENDER_DOF_QUALITY</String>
+		<String>RENDER_FILTER_SIZE</String>
+		<String>RENDER_OUTPUT_TYPE</String>
+		<String>DIRECT_MULTIPLIER</String>
+		<String>DIRECT_VISIBILITY</String>
+		<String>GROUND_REFLECTION</String>
+		<String>KEEP_ASPECT_RATIO</String>
+		<String>RENDER_GI_QUALITY</String>
+		<String>ADJUST_BACKPLATE</String>
+		<String>IMPORT_TRANSFORM</String>
+		<String>SHADOWS_ACCURATE</String>
+		<String>BACKGROUND_MODE</String>
+		<String>BLOOM_INTENSITY</String>
+		<String>CURRENT_TEXTURE</String>
+		<String>FLIP_HORIZONTAL</String>
+		<String>GROUND_POSITION</String>
+		<String>MAX_RENDER_TIME</String>
+		<String>RENDER_CAUSTICS</String>
+		<String>GLOSSY_SAMPLES</String>
+		<String>GROUND_SHADOWS</String>
+		<String>REFLECTION MAP</String>
+		<String>RENDER_SAMPLES</String>
+		<String>USER_TRANSFORM</String>
+		<String>GROUND_NORMAL</String>
+		<String>RENDER_HEIGHT</String>
+		<String>BLOOM_RADIUS</String>
+		<String>FAST_UPDATES</String>
+		<String>FEATURE SIZE</String>
+		<String>RENDER_WIDTH</String>
+		<String>SHARP_GLOSSY</String>
+		<String>FADED_COLOR</String>
+		<String>GROUND_SIZE</String>
+		<String>LAST_ACTIVE</String>
+		<String>LUXRTOPT.SO</String>
+		<String>TRACE LEVEL</String>
+		<String>BLOCK SIZE</String>
+		<String>BOTH_FACES</String>
+		<String>GROUND_RES</String>
+		<String>ILLUM_MODE</String>
+		<String>LUX_ENVMAP</String>
+		<String>---LUXION</String>
+		<String>DIRECTION</String>
+		<String>LUX_PATHS</String>
+		<String>OPTIONS {</String>
+		<String>ROUGHNESS</String>
+		<String>TRIANGLES</String>
+		<String>TURNTABLE</String>
+		<String>BILINEAR</String>
+		<String>GEOMETRY</String>
+		<String>MATERIAL</String>
+		<String>VERTICES</String>
+		<String>CREATED</String>
+		<String>EFFECTS</String>
+		<String>IMAGE {</String>
+		<String>NORMALS</String>
+		<String>SURFACE</String>
+		<String>VERSION</String>
+		<String>_BEGIN_</String>
+		<String>_FRAMES</String>
+		<String>_NUMBER</String>
+		<String>FORMAT</String>
+		<String>HIDDEN</String>
+		<String>OBJECT</String>
+		<String>STUDIO</String>
+		<String>TABLE_</String>
+		<String>UV_TEX</String>
+		<String>CLAMP</String>
+		<String>GAMMA</String>
+		<String>GROUP</String>
+		<String>USERS</String>
+		<String>_END_</String>
+		<String>.HDR</String>
+		<String>GAIN</String>
+		<String>LOAD</String>
+	</GlobalStrings>
+</TrID>

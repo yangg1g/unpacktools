@@ -1,0 +1,30 @@
+<TrID ver="1.16">
+    <Info>
+        <FileType>Creature House Expression Skeletal Stroke</FileType>
+        <Ext>SKS</Ext>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>22</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>14</Day>
+        </Date>
+        <Time>
+            <Hour>20</Hour>
+            <Min>41</Min>
+            <Sec>24</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00.1</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>25534B333A</Bytes>
+            <ASCII> % S K 3 :</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

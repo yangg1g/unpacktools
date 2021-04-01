@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>3D System STereoLithography (ASCII)</FileType>
+		<Ext>STL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/STL_(file_format)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>10</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>54</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>736F6C696420</Bytes>
+			<ASCII> s o l i d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FACET NORMAL</String>
+		<String>OUTER LOOP</String>
+		<String>ENDFACET</String>
+		<String>ENDLOOP</String>
+		<String>VERTEX</String>
+		<String>SOLID</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SAMI document</FileType>
+		<Ext>SMI</Ext>
+		<ExtraInfo>
+			<Rem>SAMI stand for Synchronized Accessible Media Interchang.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/SAMI</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>11</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>40</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C53414D493E0D0A</Bytes>
+			<ASCII> . S A M I</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FONT-WEIGHT</String>
+		<String>SYNC START</String>
+		<String>STYLE TYPE</String>
+		<String>SAMITYPE</String>
+		<String>CLASS</String>
+		<String>COLOR</String>
+		<String>TITLE</String>
+		<String>NAME</String>
+		<String>LANG</String>
+		<String>BODY</String>
+		<String>HEAD</String>
+		<String>TEXT</String>
+		<String>LEFT</String>
+	</GlobalStrings>
+</TrID>

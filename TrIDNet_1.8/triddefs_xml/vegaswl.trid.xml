@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Vegas Window Layout</FileType>
+		<Ext>VEGASWINDOWLAYOUT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Sony_Vegas</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>5</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>31</Min>
+			<Sec>8</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0D0A3C507265666572656E6365733E0D0A</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ? . . . . P r e f e r e n c e s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WINDOWLAYOUTVERSION</String>
+		<String>PREFERENCES</String>
+		<String>XML VERSION</String>
+		<String>AS_BINARY</String>
+		<String>ENCODING</String>
+		<String>AS_LONG</String>
+		<String>PREF ID</String>
+		<String>AS_INT</String>
+		<String>HEIGHT</String>
+		<String>UTF-8</String>
+		<String>WIDTH</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

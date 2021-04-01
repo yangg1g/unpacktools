@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>DCA Archiver compressed archive</FileType>
+        <Ext>DCA</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.mtu-net.ru/dca/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>3</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>12</Month>
+            <Day>26</Day>
+        </Date>
+        <Time>
+            <Hour>14</Hour>
+            <Min>28</Min>
+            <Sec>54</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>444341</Bytes>
+            <ASCII> D C A</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>2F</Bytes>
+            <ASCII> /</ASCII>
+            <Pos>22</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

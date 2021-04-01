@@ -1,0 +1,86 @@
+<TrID ver="2.00">
+	<Info>
+        <FileType>UPX - NRV compressed Win32 Executable</FileType>
+        <Ext>EXE</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://upx.sourceforge.net/</RefURL>
+        </ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>03</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>22</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A</Bytes>
+			<ASCII> M Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000400</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00FFFF0000</Bytes>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000004000</Bytes>
+			<ASCII> . . . . . . . @</ASCII>
+			<Pos>17</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<Pos>27</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>62</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>CD21B8014CCD21</Bytes>
+			<ASCII> . ! . . L . !</ASCII>
+			<Pos>71</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000</Bytes>
+			<Pos>121</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>$LICENSE</String>
+		<String>COPYRIGHT (C) 1996-1999 LASZLO MOLNAR</String>
+		<String>GETPROCADDRESS</String>
+		<String>KERNEL32.DLL</String>
+		<String>LOADLIBRARYA</String>
+		<String>MARKUS OBERHUMER $</String>
+		<String>NRV 0.61 COPYRIGHT (C) 1996-1999 MARKUS F.X.J. OBERHUMER $</String>
+		<String>NRV FOR UPX IS DISTRIBUTED UNDER SPECIAL LICENSE $</String>
+		<String>PE''L</String>
+		<String>PROGRAM</String>
+		<String>THIS</String>
+		<String>UPX 0.</String>
+		<String>UPX0</String>
+		<String>UPX1</String>
+		<String>UPX2</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Borland C++ Project definition</FileType>
+        <Ext>IDE</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.borland.com</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>2</FileNum>
+        <Date>
+            <Year>2004</Year>
+            <Month>02</Month>
+            <Day>01</Day>
+        </Date>
+        <Time>
+            <Hour>15</Hour>
+            <Min>13</Min>
+            <Sec>42</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>426F726C616E6420432B2B2050726F6A6563742046696C650A001A</Bytes>
+            <ASCII> B o r l a n d   C + +   P r o j e c t   F i l e</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

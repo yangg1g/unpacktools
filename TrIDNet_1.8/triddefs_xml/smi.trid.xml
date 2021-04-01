@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Lotus Smart Icon</FileType>
+		<Ext>SMI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.lotus.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2003</Year>
+			<Month>11</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>23</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.50</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4943</Bytes>
+			<ASCII> I C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0E00</Bytes>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>20</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>24</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>27</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000</Bytes>
+			<Pos>30</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

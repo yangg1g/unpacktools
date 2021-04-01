@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ISO-10303 STEP model data</FileType>
+		<Ext>STP/STEP</Ext>
+		<ExtraInfo>
+			<Rem>Standard for the Exchange of Product model data</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/ISO_10303</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>28</FileNum>
+		<Refine>11 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>9</Month>
+			<Day>5</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>41</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>49534F2D31303330332D32313B</Bytes>
+			<ASCII> I S O - 1 0 3 0 3 - 2 1 ;</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ENDSEC</String>
+		<String>HEADER</String>
+		<String>DATA</String>
+	</GlobalStrings>
+</TrID>

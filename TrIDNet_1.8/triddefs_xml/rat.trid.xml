@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PICS Rating System</FileType>
+		<Ext>RAT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.w3.org/WAI/TIDE/cover/d31.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>10</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>58</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>28</Bytes>
+			<ASCII> (</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>(RATING-SERVICE</String>
+		<String>(RATING-SYSTEM</String>
+		<String>(PICS-VERSION</String>
+		<String>(TRANSMIT-AS</String>
+		<String>(DESCRIPTION</String>
+		<String>(CATEGORY</String>
+		<String>(VALUE</String>
+		<String>(LABEL</String>
+		<String>(NAME</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

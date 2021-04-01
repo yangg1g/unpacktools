@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Gambas application (v2)</FileType>
+		<Ext>GAMBAS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Gambas</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>5</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>13</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2321202F7573722F62696E2F656E7620676272320A</Bytes>
+			<ASCII> # !   / u s r / b i n / e n v   g b r 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>53</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>232047616D6261732050726F6A6563742046696C6520322E300A</Bytes>
+			<ASCII> #   G a m b a s   P r o j e c t   F i l e   2 . 0</ASCII>
+			<Pos>56</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.PROJECT</String>
+		<String>.GAMBAS</String>
+		<String>VERSION</String>
+		<String>CENTER</String>
+		<String>$LOAD</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+ <TransformScript>
+  <OtherComments>
+   <Content>Maths Symbols
+The script sets the selected characters to a fixed width and centres the glyph between the bearings. Change the width to the advance width of the figures in your font. Symbols &lt; = &gt; + × ÷ ¤ $ £ €, etc., are often all the same width.</Content>
+  </OtherComments>
+  <MetricsWidth>
+   <WidthType>0</WidthType>
+   <Width>1200</Width>
+   <Adjust>0</Adjust>
+  </MetricsWidth>
+  <MetricsCenterGlyph>
+  </MetricsCenterGlyph>
+  <MetricsLeftSideBearing>
+  </MetricsLeftSideBearing>
+ </TransformScript>
+</DATA>

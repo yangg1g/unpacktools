@@ -1,0 +1,174 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Win32 Executable Free Pascal 2.4.x</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem>Free Pascal is a professional Object Pascal compiler.</Rem>
+			<RefURL>http://www.freepascal.org/</RefURL>
+		</ExtraInfo>
+		<User>Jetcheng Chu</User>
+		<E-Mail>'jcchu'#$40'acm'#$2E'org'</E-Mail>
+		<Home>http://people.rerouted.org/jcchu</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>0</Hour>
+			<Min>11</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000800000000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A2400000000000000504500004C01</Bytes>
+			<ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ! . . L . ! T h i s   p r o g r a m   c a n n o t   b e   r u n   i n   D O S   m o d e . . . . $ . . . . . . . P E . . L</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>135</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>143</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000E000</Bytes>
+			<Pos>146</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0B0102</Bytes>
+			<Pos>152</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000400000100000000200000400000001000000040000000000000000</Bytes>
+			<ASCII> . . . @</ASCII>
+			<Pos>179</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002E74657874000000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . t e x t</ASCII>
+			<Pos>271</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>602E64617461000000</Bytes>
+			<ASCII> ` . d a t a</ASCII>
+			<Pos>415</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000004000</Bytes>
+			<ASCII> . . . . . . . . . . . . . @</ASCII>
+			<Pos>439</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>C02E62737300000000</Bytes>
+			<ASCII> . . b s s</ASCII>
+			<Pos>455</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>C02E69646174610000</Bytes>
+			<ASCII> . . i d a t a</ASCII>
+			<Pos>495</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000040</Bytes>
+			<ASCII> . . . . . . . . . . . . . @</ASCII>
+			<Pos>519</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000FF25</Bytes>
+			<ASCII> . . . . . . . . . . . . %</ASCII>
+			<Pos>1029</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000FF25</Bytes>
+			<ASCII> . . . . . . . . . . . . %</ASCII>
+			<Pos>1045</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>3THIS BINARY HAS NO WIDESTRINGS SUPPORT COMPILED IN.''''PRECOMPILE THE APPLICATION WITH A WIDESTRINGS-MANAGER IN THE PROGRAM USES CLAUSE.'''6THIS BINARY HAS NO UNICODESTRINGS SUPPORT COMPILED IN.'SRECOMPILE THE APPLICATION WITH A UNICODESTRINGS-MANAGER IN THE PROGRAM USES CLAUSE.</String>
+		<String>THIS PROGRAM CANNOT BE RUN IN DOS MODE.</String>
+		<String>SETUNHANDLEDEXCEPTIONFILTER</String>
+		<String>INITIALIZECRITICALSECTION</String>
+		<String>ENUMRESOURCELANGUAGESA</String>
+		<String>DELETECRITICALSECTION</String>
+		<String>ENTERCRITICALSECTION</String>
+		<String>LEAVECRITICALSECTION</String>
+		<String>GETCURRENTPROCESSID</String>
+		<String>MULTIBYTETOWIDECHAR</String>
+		<String>SYSREALLOCSTRINGLEN</String>
+		<String>WAITFORSINGLEOBJECT</String>
+		<String>WIDECHARTOMULTIBYTE</String>
+		<String>ENUMRESOURCENAMESA</String>
+		<String>ENUMRESOURCETYPESA</String>
+		<String>GETCURRENTTHREADID</String>
+		<String>GETMODULEFILENAMEA</String>
+		<String>CLOSEHANDLE'''''C</String>
+		<String>GETTHREADPRIORITY</String>
+		<String>READPROCESSMEMORY</String>
+		<String>SETTHREADPRIORITY</String>
+		<String>SYSALLOCSTRINGLEN</String>
+		<String>0123456789ABCDEF</String>
+		<String>FOR I386 - WIN32</String>
+		<String>GETMODULEHANDLEA</String>
+		<String>FINDRESOURCEEXA</String>
+		<String>GETCOMMANDLINEA</String>
+		<String>GETSTARTUPINFOA</String>
+		<String>TERMINATETHREAD</String>
+		<String>CHARLOWERBUFFW</String>
+		<String>CHARUPPERBUFFW</String>
+		<String>GETPROCESSHEAP</String>
+		<String>SETFILEPOINTER</String>
+		<String>SIZEOFRESOURCE</String>
+		<String>$'''''''PE''L</String>
+		<String>FINDRESOURCEA</String>
+		<String>RUNTIME ERROR</String>
+		<String>SUSPENDTHREAD</String>
+		<String>SYSFREESTRING</String>
+		<String>CREATEEVENTA</String>
+		<String>CREATETHREAD</String>
+		<String>FREERESOURCE</String>
+		<String>GETLASTERROR</String>
+		<String>GETSTDHANDLE</String>
+		<String>KERNEL32.DLL</String>
+		<String>LOADRESOURCE</String>
+		<String>LOCKRESOURCE</String>
+		<String>OLEAUT32.DLL</String>
+		<String>RESUMETHREAD</String>
+		<String>SETLASTERROR</String>
+		<String>CREATEFILEA</String>
+		<String>EXITPROCESS</String>
+		<String>GETFILETYPE</String>
+		<String>MESSAGEBOXA</String>
+		<String>TLSGETVALUE</String>
+		<String>TLSSETVALUE</String>
+		<String>EXITTHREAD</String>
+		<String>LOCALALLOC</String>
+		<String>RESETEVENT</String>
+		<String>USER32.DLL</String>
+		<String>HEAPALLOC</String>
+		<String>LOCALFREE</String>
+		<String>WRITEFILE</String>
+		<String>FPC 2.4.</String>
+		<String>HEAPFREE</String>
+		<String>READFILE</String>
+		<String>TLSALLOC</String>
+		<String>.IDATA</String>
+		<String>.DATA</String>
+		<String>.TEXT</String>
+		<String>SLEEP</String>
+		<String>.BSS</String>
+		<String>AT $</String>
+		<String>HT5H</String>
+		<String>NOIU</String>
+	</GlobalStrings>
+</TrID>

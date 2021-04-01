@@ -1,0 +1,364 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Magic Draw UML model</FileType>
+		<Ext>MDXML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/MagicDraw</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>59</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D27312E302720656E636F64696E673D275554462D38273F3E0A</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = ' 1 . 0 '   e n c o d i n g = ' U T F - 8 ' ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MT_LAST_SELECTED_TYPE_MAP_PROFILE_DIRECTION_DESCRIPTION</String>
+		<String>SHOW_OPERATIONS_PARAMETERS_DIRECTION_KIND_DESCRIPTION</String>
+		<String>SHOW_ENUMERATION_LITERAL_CONSTRAINTS_DESCRIPTION</String>
+		<String>SHOW_ENUMERATION_LITERAL_PROPERTIES_DESCRIPTION</String>
+		<String>SHOW_ENUMERATION_LITERAL_STEREOTYPE_DESCRIPTION</String>
+		<String>MT_LAST_SELECTED_TYPE_MAP_PROFILE_DESCRIPTION</String>
+		<String>MT_LAST_SELECTED_TRANSFORMATION_DESCRIPTION</String>
+		<String>SHOW_ASSOCIATION_DIRECTION_ICON_DESCRIPTION</String>
+		<String>DIAGRAM_INFO_SELECTED_KEYWORDS_DESCRIPTION</String>
+		<String>SORT_ENUMERATION_LITERALS_MODE_DESCRIPTION</String>
+		<String>SHOW_MORE_SIGN_FOR_ATTRIBUTES_DESCRIPTION</String>
+		<String>SHOW_MORE_SIGN_FOR_OPERATIONS_DESCRIPTION</String>
+		<String>SUPPRESS_ENUMERATION_LITERALS_DESCRIPTION</String>
+		<String>ADDITIONAL_CONTAINMENT_TREES_DESCRIPTION</String>
+		<String>SHOW_ATTRIBUTES_CONSTRAINTS_DESCRIPTION</String>
+		<String>SHOW_OPERATIONS_CONSTRAINTS_DESCRIPTION</String>
+		<String>USE_FIXED_CONNECTION_POINTS_DESCRIPTION</String>
+		<String>MT_TRANSFORMATION_IN_PLACE_DESCRIPTION</String>
+		<String>SHOW_ATTRIBUTES_PROPERTIES_DESCRIPTION</String>
+		<String>SHOW_ATTRIBUTES_STEREOTYPE_DESCRIPTION</String>
+		<String>SHOW_ATTRIBUTES_VISIBILITY_DESCRIPTION</String>
+		<String>SHOW_OPERATIONS_PROPERTIES_DESCRIPTION</String>
+		<String>SHOW_OPERATIONS_STEREOTYPE_DESCRIPTION</String>
+		<String>SHOW_OPERATIONS_VISIBILITY_DESCRIPTION</String>
+		<String>SORT_CLASS_ATTRIBUTES_MODE_DESCRIPTION</String>
+		<String>SORT_CLASS_OPERATIONS_MODE_DESCRIPTION</String>
+		<String>SUPPRESS_DEPLOYED_ELEMENTS_DESCRIPTION</String>
+		<String>SUPPRESS_OBJECT_ATTRIBUTES_DESCRIPTION</String>
+		<String>ENUMERATION_LITERAL_COLOR_DESCRIPTION</String>
+		<String>MAGICDRAW_UML_STANDARD_PROFILE_V_0001</String>
+		<String>SHOW_OPERATIONS_SIGNATURE_DESCRIPTION</String>
+		<String>SHOW_ROLE_PROPERTY_STRING_DESCRIPTION</String>
+		<String>SUPPRESS_CLASS_ATTRIBUTES_DESCRIPTION</String>
+		<String>SUPPRESS_CLASS_OPERATIONS_DESCRIPTION</String>
+		<String>BROWSER_DIVIDER_LOCATION_DESCRIPTION</String>
+		<String>DIAGRAM_BACKGROUND_COLOR_DESCRIPTION</String>
+		<String>DIAGRAM_INFO_CUSTOM_HTML_DESCRIPTION</String>
+		<String>DIAGRAM_INFO_CUSTOM_MODE_DESCRIPTION</String>
+		<String>ENUMERATION_LITERAL_FONT_DESCRIPTION</String>
+		<String>ENABLE_UML_2_0_NOTATION_DESCRIPTION</String>
+		<String>PACKAGE_HEADER_POSITION_DESCRIPTION</String>
+		<String>SHOW_ENTIRE_ACTIVATION_DESCRIPTION</String>
+		<String>SHOW_ROLE_MULTIPLICITY_DESCRIPTION</String>
+		<String>SHOW_ROLE_NAVIGABILITY_DESCRIPTION</String>
+		<String>SUPPRESS_STATE_ACTIONS_DESCRIPTION</String>
+		<String>USE_ADVANCED_NUMBERING_DESCRIPTION</String>
+		<String>SHOW_PARAMETERS_NAMES_DESCRIPTION</String>
+		<String>SUPPRESS_REALIZATIONS_DESCRIPTION</String>
+		<String>SYNCH_BAR_ORIENTATION_DESCRIPTION</String>
+		<String>CONSTRAINT_TEXT_MODE_DESCRIPTION</String>
+		<String>LAST_INTERFACE_STYLE_DESCRIPTION</String>
+		<String>SHOW_CONNECTOR_END_A_DESCRIPTION</String>
+		<String>SHOW_CONNECTOR_END_B_DESCRIPTION</String>
+		<String>SHOW_EXTENSION_POINT_DESCRIPTION</String>
+		<String>SHOW_MESSAGE_NUMBERS_DESCRIPTION</String>
+		<String>SHOW_ROLE_VISIBILITY_DESCRIPTION</String>
+		<String>IS_DOCS_TAB_VISIBLE_DESCRIPTION</String>
+		<String>SHOW_HEADER_IN_BOLD_DESCRIPTION</String>
+		<String>SUPPRESS_EXTENSIONS_DESCRIPTION</String>
+		<String>SUPPRESS_INTERFACES_DESCRIPTION</String>
+		<String>USE_GRID_FOR_SHAPES_DESCRIPTION</String>
+		<String>BROWSER_ITEM_TYPES_DESCRIPTION</String>
+		<String>IS_BROWSER_VISIBLE_DESCRIPTION</String>
+		<String>MESSAGEOCCURRENCESPECIFICATION</String>
+		<String>SHOW_ELEMENTS_LIST_DESCRIPTION</String>
+		<String>SHOW_TAGGED_VALUES_DESCRIPTION</String>
+		<String>SUPPRESS_ARTIFACTS_DESCRIPTION</String>
+		<String>SUPPRESS_STRUCTURE_DESCRIPTION</String>
+		<String>USE_GRID_FOR_PATHS_DESCRIPTION</String>
+		<String>LIFELINE(IN SEQUENCE DIAGRAM)</String>
+		<String>SHOW_BASE_CLASSES_DESCRIPTION</String>
+		<String>SHOW_DIAGRAM_INFO_DESCRIPTION</String>
+		<String>SHOW_OBJECT_CLASS_DESCRIPTION</String>
+		<String>SHOW_PREDECESSORS_DESCRIPTION</String>
+		<String>MESSAGE(IN SEQUENCE DIAGRAM)</String>
+		<String>PROJECT_INVISIBLE_PROPERTIES</String>
+		<String>SHOW_ACTIVATIONS_DESCRIPTION</String>
+		<String>SHOW_CONSTRAINTS_DESCRIPTION</String>
+		<String>SHOW_IS_REQUIRED_DESCRIPTION</String>
+		<String>STEREOTYPE_COLOR_DESCRIPTION</String>
+		<String>ATTRIBUTE_COLOR_DESCRIPTION</String>
+		<String>COMPOSITE STRUCTURE DIAGRAM</String>
+		<String>EXT_POINT_COLOR_DESCRIPTION</String>
+		<String>LINK_LINE_STYLE_DESCRIPTION</String>
+		<String>OPERATION_COLOR_DESCRIPTION</String>
+		<String>SHOW_INIT_VALUE_DESCRIPTION</String>
+		<String>STEREOTYPE_FONT_DESCRIPTION</String>
+		<String>ATTRIBUTE_FONT_DESCRIPTION</String>
+		<String>BROWSER_BOUNDS_DESCRIPTION</String>
+		<String>BROWSER_LAYOUT_DESCRIPTION</String>
+		<String>EXTENDABLEBYSTEREOTYPE XMI</String>
+		<String>EXT_POINT_FONT_DESCRIPTION</String>
+		<String>OPERATION_FONT_DESCRIPTION</String>
+		<String>PROJECT_GENERAL_PROPERTIES</String>
+		<String>SHOW_FULL_TYPE_DESCRIPTION</String>
+		<String>SHOW_ROLE_NAME_DESCRIPTION</String>
+		<String>TOOL_TIP_STYLE_DESCRIPTION</String>
+		<String>USE_FILL_COLOR_DESCRIPTION</String>
+		<String>INFO_PROPERTY_DESCRIPTION</String>
+		<String>TEXT_POSITION_DESCRIPTION</String>
+		<String>CONNECTIONPOINTREFERENCE</String>
+		<String>MODULES_DIRS_DESCRIPTION</String>
+		<String>PROPERTYMANAGERBYDIAGRAM</String>
+		<String>UML_STANDARD_PROFILE.XML</String>
+		<String>EXTENDABLEBYDIAGRAM XMI</String>
+		<String>IMPLEMENTATION DIAGRAM</String>
+		<String>MDELEMENT ELEMENTCLASS</String>
+		<String>MT_DESTINATION_PACKAGE</String>
+		<String>SHOW_STATE_DESCRIPTION</String>
+		<String>STRUCTUREDACTIVITYNODE</String>
+		<String>TEXT_COLOR_DESCRIPTION</String>
+		<String>WRAP_WORDS_DESCRIPTION</String>
+		<String>ACTIVITYPARAMETERNODE</String>
+		<String>CLASSPATHLISTPROPERTY</String>
+		<String>GRID_SIZE_DESCRIPTION</String>
+		<String>HTML_TEXT_DESCRIPTION</String>
+		<String>INSTANCESPECIFICATION</String>
+		<String>MAGICDRAW_</String>
+		<String>PARENTPROPERTYMANAGER</String>
+		<String>PEN_COLOR_DESCRIPTION</String>
+		<String>PROPERTYDESCRIPTIONID</String>
+		<String>SHOW_GRID_DESCRIPTION</String>
+		<String>SHOW_NAME_DESCRIPTION</String>
+		<String>SHOW_TYPE_DESCRIPTION</String>
+		<String>AUTOSIZE_DESCRIPTION</String>
+		<String>DISPLAYABLETYPES XMI</String>
+		<String>FAVORITEELEMENTS XMI</String>
+		<String>INTERFACEREALIZATION</String>
+		<String>UML STANDARD PROFILE</String>
+		<String>CALLOPERATIONACTION</String>
+		<String>FORKJOINPSEUDOSTATE</String>
+		<String>PARENTAPPLICANT XMI</String>
+		<String>ROUNDED_DESCRIPTION</String>
+		<String>SELECTABLETYPES XMI</String>
+		<String>CALLBEHAVIORACTION</String>
+		<String>OWNEDATTRIBUTE XMI</String>
+		<String>PROFILEAPPLICATION</String>
+		<String>USEUNSPECIFIED XMI</String>
+		<String>ACCEPTEVENTACTION</String>
+		<String>CENTRALBUFFERNODE</String>
+		<String>COMMUNICATIONPATH</String>
+		<String>EXTENDABLEMANAGER</String>
+		<String>MODIFICATION DATE</String>
+		<String>N-ARY ASSOCIATION</String>
+		<String>PROPERTYMANAGERID</String>
+		<String>SELECTIONMODE XMI</String>
+		<String>ASSOCIATIONCLASS</String>
+		<String>COLLABORATIONUSE</String>
+		<String>COMBINEDFRAGMENT</String>
+		<String>EXCEPTIONHANDLER</String>
+		<String>EXTENSION_POINTS</String>
+		<String>RECTANGULARSHAPE</String>
+		<String>SENDSIGNALACTION</String>
+		<String>USE CASE DIAGRAM</String>
+		<String>BOOLEANPROPERTY</String>
+		<String>CONTAINMENT XMI</String>
+		<String>ELEMENTPROPERTY</String>
+		<String>EXPORTERVERSION</String>
+		<String>EXPRESSION_MODE</String>
+		<String>MAGICDRAW UML 1</String>
+		<String>MDOWNEDDIAGRAMS</String>
+		<String>MODULEEXTENSION</String>
+		<String>TEMPLATEBINDING</String>
+		<String>TYPEELEMENT XMI</String>
+		<String>ALLOWFILES XMI</String>
+		<String>CHOICEPROPERTY</String>
+		<String>GENERALIZATION</String>
+		<String>INTERACTIONUSE</String>
+		<String>LINK ATTRIBUTE</String>
+		<String>LITERALINTEGER</String>
+		<String>NUMBERPROPERTY</String>
+		<String>SCHEMA.OMG.ORG</String>
+		<String>STRINGPROPERTY</String>
+		<String>ALIZATION XMI</String>
+		<String>BY_STEREOTYPE</String>
+		<String>BY_VISIBILITY</String>
+		<String>COLORPROPERTY</String>
+		<String>CREATION DATE</String>
+		<String>DATASTORENODE</String>
+		<String>DIAGRAM SHAPE</String>
+		<String>DOCUMENTATION</String>
+		<String>ELEMENTIMPORT</String>
+		<String>EXTENSIONROLE</String>
+		<String>FLOWCONNECTOR</String>
+		<String>FLOWFINALNODE</String>
+		<String>HIGHRANGE XMI</String>
+		<String>LIST_PROPERTY</String>
+		<String>MANIFESTATION</String>
+		<String>MEMBEREND XMI</String>
+		<String>PACKAGEIMPORT</String>
+		<String>PRIMITIVETYPE</String>
+		<String>PROPERTYGROUP</String>
+		<String>REMOVABLE XMI</String>
+		<String>ASSOCIATIONS</String>
+		<String>CONTENTSHAPE</String>
+		<String>DECISIONNODE</String>
+		<String>DIAGRAM NAME</String>
+		<String>FILEPROPERTY</String>
+		<String>FONTPROPERTY</String>
+		<String>INSTALL.ROOT</String>
+		<String>LESTEREOTYPE</String>
+		<String>LOWRANGE XMI</String>
+		<String>NODEINSTANCE</String>
+		<String>OWNEDEND XMI</String>
+		<String>PACKAGEMERGE</String>
+		<String>STEREOTYPEID</String>
+		<String>STYLEMANAGER</String>
+		<String>SUBSTITUTION</String>
+		<String>ABSTRACTION</String>
+		<String>CONTROLFLOW</String>
+		<String>DEFAULT XMI</String>
+		<String>DIAGRAMINFO</String>
+		<String>DIAGRAMTYPE</String>
+		<String>ECONSTRAINT</String>
+		<String>FINAL STATE</String>
+		<String>INITIALNODE</String>
+		<String>NOTE ANCHOR</String>
+		<String>RECTILINEAR</String>
+		<String>ROLEBINDING</String>
+		<String>SIMPLESTYLE</String>
+		<String>STEREOTYPES</String>
+		<String>XML VERSION</String>
+		<String>CHOICE XMI</String>
+		<String>DEPENDENCY</String>
+		<String>DEPLOYMENT</String>
+		<String>HORIZONTAL</String>
+		<String>OBJECTFLOW</String>
+		<String>PROPERTYID</String>
+		<String>TRANSITION</String>
+		<String>COMPONENT</String>
+		<String>DEFAULT_P</String>
+		<String>DIAGRAMS_</String>
+		<String>EDELEMENT</String>
+		<String>E_PACKAGE</String>
+		<String>INDEX XMI</String>
+		<String>MERGENODE</String>
+		<String>METAMODEL</String>
+		<String>MODEL XMI</String>
+		<String>NAME_MODE</String>
+		<String>OUTPUTPIN</String>
+		<String>SEPARATOR</String>
+		<String>STYLE XMI</String>
+		<String>VALUE XMI</String>
+		<String>W_PROFILE</String>
+		<String>CTION_DI</String>
+		<String>DATATYPE</String>
+		<String>ENCODING</String>
+		<String>EXTENDER</String>
+		<String>FONTNAME</String>
+		<String>FORKNODE</String>
+		<String>INPUTPIN</String>
+		<String>JOINNODE</String>
+		<String>PROFILES</String>
+		<String>SHOW_PRO</String>
+		<String>SIZE XMI</String>
+		<String>SWIMLANE</String>
+		<String>VERTICAL</String>
+		<String>ATIONSE</String>
+		<String>ATIONTE</String>
+		<String>BY_NAME</String>
+		<String>COMMENT</String>
+		<String>CONTEXT</String>
+		<String>IGNORED</String>
+		<String>INCLUDE</String>
+		<String>NO_SORT</String>
+		<String>OBLIQUE</String>
+		<String>OPTIONS</String>
+		<String>PRESENT</String>
+		<String>PRIVATE</String>
+		<String>TEXTBOX</String>
+		<String>USECASE</String>
+		<String>XMI XMI</String>
+		<String>ACTIVE</String>
+		<String>ATIONE</String>
+		<String>ATIONF</String>
+		<String>AUTHOR</String>
+		<String>BEZIER</String>
+		<String>CENTER</String>
+		<String>CREATE</String>
+		<String>DASHED</String>
+		<String>DOTTED</String>
+		<String>ER XMI</String>
+		<String>IMIZED</String>
+		<String>IN_TAB</String>
+		<String>KERNEL</String>
+		<String>PUBLIC</String>
+		<String>SYMBOL</String>
+		<String>_CONTE</String>
+		<String>ACTOR</String>
+		<String>ENT_D</String>
+		<String>FALSE</String>
+		<String>IDREF</String>
+		<String>IONEN</String>
+		<String>OWNER</String>
+		<String>RIGHT</String>
+		<String>SOLID</String>
+		<String>TEDNA</String>
+		<String>TTYPE</String>
+		<String>TURAL</String>
+		<String>USAGE</String>
+		<String>UTF-8</String>
+		<String>XMLNS</String>
+		<String>Y XMI</String>
+		<String>4885</String>
+		<String>ATED</String>
+		<String>BODY</String>
+		<String>CHAN</String>
+		<String>COND</String>
+		<String>DERI</String>
+		<String>EGAT</String>
+		<String>ENTT</String>
+		<String>ESID</String>
+		<String>HTTP</String>
+		<String>LEFT</String>
+		<String>METR</String>
+		<String>NING</String>
+		<String>NTPA</String>
+		<String>OWER</String>
+		<String>PART</String>
+		<String>RECE</String>
+		<String>RTME</String>
+		<String>TIME</String>
+		<String>TRUE</String>
+		<String>T_DI</String>
+		<String>UML2</String>
+		<String>VIEW</String>
+		<String>WITH</String>
+	</GlobalStrings>
+</TrID>

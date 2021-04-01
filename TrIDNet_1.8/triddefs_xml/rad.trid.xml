@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Reality ADlib tracker module/song</FileType>
+        <Ext>RAD</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://sorry.vse.cz/~roman/dimension/rdos/rdosplay/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>7</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>24</Day>
+        </Date>
+        <Time>
+            <Hour>14</Hour>
+            <Min>09</Min>
+            <Sec>53</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>524144206279205245414C695459212110</Bytes>
+            <ASCII> R A D   b y   R E A L i T Y ! !</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

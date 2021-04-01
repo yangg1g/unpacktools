@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Garmin MapSource Web Link</FileType>
+		<Ext>WLX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.garmin.com/garmin/cms/cache/offonce/us/maps/tripplanningsoftware/mapsource</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>7</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>39</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WEBLINKEXTENSIONSV1.XSD</String>
+		<String>LOCALIZEDLITERAL_T</String>
+		<String>SUPPORTEDLANGUAGES</String>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>CONTENT LANGUAGE</String>
+		<String>SCHEMALOCATION</String>
+		<String>WWW.GARMIN.COM</String>
+		<String>WEBLINK XMLNS</String>
+		<String>WLXNAMESPACE</String>
+		<String>DISPLAYNAME</String>
+		<String>XML VERSION</String>
+		<String>WWW.W3.ORG</String>
+		<String>XMLSCHEMAS</String>
+		<String>TOKEN XSI</String>
+		<String>ENCODING</String>
+		<String>VALUE_T</String>
+		<String>FORMAT</String>
+		<String>STRING</String>
+		<String>UTF-8</String>
+		<String>HTTP</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

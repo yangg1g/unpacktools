@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>THEOS compressed archive</FileType>
+		<Ext>CMP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.theos-software.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>22</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0054434846</Bytes>
+			<ASCII> . T C H F</ASCII>
+			<Pos>1</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TCHF</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>YanCEyWare Reader eBook</FileType>
+		<Ext>YBK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.yanceydesktop.com/eBooks/ebooks.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>11</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>56</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5C42494E44494E472E48544D4C</Bytes>
+			<ASCII> \ B I N D I N G . H T M L</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5C424F4F4B4D455441444154412E48544D4C2E475A</Bytes>
+			<ASCII> \ B O O K M E T A D A T A . H T M L . G Z</ASCII>
+			<Pos>60</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BOOKMETADATA.HTML.GZ</String>
+		<String>BINDING.HTML</String>
+		<String>A HREF</String>
+		<String>IMAGES</String>
+		<String>EXIF</String>
+		<String>JFIF</String>
+	</GlobalStrings>
+</TrID>

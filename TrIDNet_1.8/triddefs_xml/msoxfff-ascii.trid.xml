@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Office XML Flat File Format (ASCII)</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Microsoft_Office_XML_formats</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>34</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>5</Month>
+			<Day>9</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>41</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E3022</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MSO-APPLICATION PROGID</String>
+		<String>XML VERSION</String>
+		<String>MICROSOFT</String>
+		<String>DOCUMENT</String>
+		<String>DEFAULT</String>
+		<String>SCHEMAS</String>
+		<String>OFFICE</String>
+		<String>XMLNS</String>
+		<String>FONT</String>
+		<String>HTTP</String>
+		<String>NAME</String>
+		<String>TEXT</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

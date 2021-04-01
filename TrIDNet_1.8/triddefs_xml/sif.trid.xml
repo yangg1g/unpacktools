@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Synfig project</FileType>
+		<Ext>SIF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.synfig.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>12</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>46</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E30223F3E0A3C63616E7661732076657273696F6E3D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 " ? . . . c a n v a s   v e r s i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CANVAS VERSION</String>
+		<String>INTEGER VALUE</String>
+		<String>BLEND_METHOD</String>
+		<String>XML VERSION</String>
+		<String>BEGIN-TIME</String>
+		<String>PARAM NAME</String>
+		<String>LAYER TYPE</String>
+		<String>BOOL VALUE</String>
+		<String>REAL VALUE</String>
+		<String>ANTIALIAS</String>
+		<String>VIEW-BOX</String>
+		<String>END-TIME</String>
+		<String>E VALUE</String>
+		<String>ACTIVE</String>
+		<String>AMOUNT</String>
+		<String>OFFSET</String>
+		<String>HEIGHT</String>
+		<String>VECTOR</String>
+		<String>FALSE</String>
+		<String>COLOR</String>
+		<String>WIDTH</String>
+		<String>TRUE</String>
+		<String>XRES</String>
+		<String>YRES</String>
+	</GlobalStrings>
+</TrID>

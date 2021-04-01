@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SubViewer 1.0 subtitles</FileType>
+		<Ext>SUB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/SubViewer</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>23</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B5449544C455D0D0A</Bytes>
+			<ASCII> [ T I T L E ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>******** START SCRIPT ********</String>
+		<String>******** END SCRIPT ********</String>
+		<String>CD TRACK</String>
+		<String>FILEPATH</String>
+		<String>AUTHOR</String>
+		<String>SOURCE</String>
+		<String>BEGIN</String>
+		<String>DELAY</String>
+		<String>TITLE</String>
+	</GlobalStrings>
+</TrID>

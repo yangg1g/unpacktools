@@ -1,0 +1,92 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Aston 2 Theme</FileType>
+		<Ext>A2THEME</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.astonshell.com/aston2/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>5</Month>
+			<Day>6</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>57</Min>
+			<Sec>2</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>START BUTTON.XMLPK</String>
+		<String>RECYCLE BIN.XMLPK</String>
+		<String>A2DESKTOP.XMLPK</String>
+		<String>USER NAME.XMLPK</String>
+		<String>CALENDAR.XMLPK</String>
+		<String>A2PANEL.XMLPK</String>
+		<String>WEATHER.XMLPK</String>
+		<String>A2MENU.XMLPK</String>
+		<String>RESMON.XMLPK</String>
+		<String>SEARCH.XMLPK</String>
+		<String>CLOCK.XMLPK</String>
+		<String>DISKS.PNGPK</String>
+		<String>FRAME.PNGPK</String>
+		<String>INDEX.XMLPK</String>
+		<String>UNAME.PNGPK</String>
+		<String>BACK.PNGPK</String>
+		<String>MORE.PNGPK</String>
+		<String>RAIN_SMALL</String>
+		<String>SKIN.PNGPK</String>
+		<String>SNOW_SMALL</String>
+		<String>BAR.PNGPK</String>
+		<String>LIGHTNING</String>
+		<String>RAIN_SNOW</String>
+		<String>01.PNGPK</String>
+		<String>CH.PNGPK</String>
+		<String>ER.PNGPK</String>
+		<String>N1.PNGPK</String>
+		<String>ON.PNGPK</String>
+		<String>SNOW_FOG</String>
+		<String>ZE.PNGPK</String>
+		<String>GRIPPER</String>
+		<String>THUNDER</String>
+		<String>W_ICONS</String>
+		<String>.JPGPK</String>
+		<String>FRIGID</String>
+		<String>SCROLL</String>
+		<String>CLOUD</String>
+		<String>DISK_</String>
+		<String>IDATX</String>
+		<String>RIGHT</String>
+		<String>SMOKE</String>
+		<String>WINDY</String>
+		<String>DOWN</String>
+		<String>DUST</String>
+		<String>HAIL</String>
+		<String>HAND</String>
+		<String>HAZE</String>
+		<String>IEND</String>
+		<String>IHDR</String>
+		<String>LEFT</String>
+		<String>MOON</String>
+		<String>PROG</String>
+		<String>RESI</String>
+		<String>SKBA</String>
+		<String>TASK</String>
+	</GlobalStrings>
+</TrID>

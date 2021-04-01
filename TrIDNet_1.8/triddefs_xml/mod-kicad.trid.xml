@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>KiCad Module library</FileType>
+		<Ext>MOD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/KiCad</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>9</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5043424E45572D4C69624D6F64756C652D56</Bytes>
+			<ASCII> P C B N E W - L i b M o d u l e - V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PCBNEW-LIBMODULE-V</String>
+		<String>$ENDLIBRARY</String>
+		<String>$ENDMODULE</String>
+		<String>$ENDINDEX</String>
+		<String>$ENDPAD</String>
+		<String>$MODULE</String>
+		<String>$INDEX</String>
+		<String>$PAD</String>
+	</GlobalStrings>
+</TrID>

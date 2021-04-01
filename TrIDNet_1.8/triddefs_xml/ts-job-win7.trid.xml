@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows 7 Task Scheduler job</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>26</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>9</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>11</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3C00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'C'H'E'M'A'S'.'M'I'C'R'O'S'O'F'T'.'C'O'M</String>
+		<String>R'E'G'I'S'T'R'A'T'I'O'N'I'N'F'O</String>
+		<String>A'C'T'I'O'N'S' 'C'O'N'T'E'X'T</String>
+		<String>P'R'I'N'C'I'P'A'L' 'I'D</String>
+		<String>A'L'L'O'W'S'T'A'R'T</String>
+		<String>P'R'I'N'C'I'P'A'L'S</String>
+		<String>S'E'T'T'I'N'G'S</String>
+		<String>E'N'A'B'L'E'D</String>
+		<String>W'I'N'D'O'W'S</String>
+		<String>I'N'S'T'A</String>
+		<String>X'M'L'N'S</String>
+		<String>2'0'0'4</String>
+		<String>H'T'T'P</String>
+		<String>T'A'S'K</String>
+		<String>T'R'U'E</String>
+		<String>A'N'D</String>
+		<String>E'R'I</String>
+		<String>I'F'I</String>
+		<String>M'A'N</String>
+		<String>M'I'T</String>
+	</GlobalStrings>
+</TrID>

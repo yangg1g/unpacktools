@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>eMule *.part.met data/info</FileType>
+		<Ext>MET</Ext>
+		<ExtraInfo>
+			<Rem>eMule is one of the biggest and most reliable peer-to-peer file sharing clients.</Rem>
+			<RefURL>www.emule-project.net</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>12</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>06</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>E0</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>41</Bytes>
+			<ASCII> A</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.PART</String>
+	</GlobalStrings>
+</TrID>

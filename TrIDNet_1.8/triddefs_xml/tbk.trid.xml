@@ -1,0 +1,154 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Asymetrix ToolBook application</FileType>
+		<Ext>TBK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.toolbook.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<Refine>9 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>48</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000800000000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A2400000000000000504500004C</Bytes>
+			<ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ! . . L . ! T h i s   p r o g r a m   c a n n o t   b e   r u n   i n   D O S   m o d e . . . . $ . . . . . . . P E . . L</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7264617461</Bytes>
+			<ASCII> r d a t a</ASCII>
+			<Pos>377</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>72737263</Bytes>
+			<ASCII> r s r c</ASCII>
+			<Pos>417</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>72656C6F63</Bytes>
+			<ASCII> r e l o c</ASCII>
+			<Pos>457</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>L'E'G'A'L'T'R'A'D'E'M'A'R'K'S'''''T'O'O'L'B'O'O'K' 'I'S' 'A' 'L'E'G'A'L' 'T'R'A'D'E'M'A'R'K' 'O'F</String>
+		<String>L'E'G'A'L'C'O'P'Y'R'I'G'H'T'''P'O'R'T'I'O'N'S' 'C'O'P'Y'R'I'G'H'T</String>
+		<String>A'S'Y'M'E'T'R'I'X'''''P'O'R'T'I'O'N'S' 'C'O'P'Y'R'I'G'H'T</String>
+		<String>F'I'L'E'D'E'S'C'R'I'P'T'I'O'N'''''T'O'O'L'B'O'O'K</String>
+		<String>P'R'O'D'U'C'T'N'A'M'E'''''T'O'O'L'B'O'O'K</String>
+		<String>THIS PROGRAM CANNOT BE RUN IN DOS MODE.</String>
+		<String>O'R'I'G'I'N'A'L'F'I'L'E'N'A'M'E'''T'B</String>
+		<String>4'''V'S'_'V'E'R'S'I'O'N'_'I'N'F'O</String>
+		<String>I'N'T'E'R'N'A'L'N'A'M'E'''T'B</String>
+		<String>P'R'O'D'U'C'T'V'E'R'S'I'O'N</String>
+		<String>V'A'R'F'I'L'E'I'N'F'O'''''$</String>
+		<String>S'T'R'I'N'G'F'I'L'E'I'N'F'O</String>
+		<String>Z'Z'Z'T'B'K'B'O'O'K'L'O'C</String>
+		<String>C'O'M'P'A'N'Y'N'A'M'E</String>
+		<String>F'I'L'E'V'E'R'S'I'O'N</String>
+		<String>T'R'A'N'S'L'A'T'I'O'N</String>
+		<String>TOOLBOOK APPLICATION</String>
+		<String>SYSSUSPENDMESSAGES</String>
+		<String>CTRL+S'SAVE'SAVE</String>
+		<String>INFO_LASTSAVEDBY</String>
+		<String>ROUNDEDRECTANGLE</String>
+		<String>IRREGULARPOLYGON</String>
+		<String>P'A'D'D'I'N'G</String>
+		<String>NOTIFYBEFORE</String>
+		<String>CTRL+V'PASTE</String>
+		<String>MINSTB32.DLL</String>
+		<String>*ICONRESTAB*</String>
+		<String>*CLASSENTRY*</String>
+		<String>*ICONRESSEG*</String>
+		<String>RECORDFIELD</String>
+		<String>CTRL+SHIFT+</String>
+		<String>CTRL+C'COPY</String>
+		<String>CTRL+Z'UNDO</String>
+		<String>HDMEDIAPATH</String>
+		<String>BUTTONCLICK</String>
+		<String>CTRL+O'OPEN</String>
+		<String>ALT+F4'EXIT</String>
+		<String>PAINTOBJECT</String>
+		<String>*WINDOWSEG*</String>
+		<String>BACKGROUND</String>
+		<String>*OBJTABLE*</String>
+		<String>*RHOTWORD*</String>
+		<String>CTRL+X'CUT</String>
+		<String>*CLASSTBL*</String>
+		<String>ANGLEDLINE</String>
+		<String>SIZE'SIZED</String>
+		<String>SIZETOPAGE</String>
+		<String>*ICONRES*</String>
+		<String>FILE'FILE</String>
+		<String>STATUSBAR</String>
+		<String>CHARACTER</String>
+		<String>ASYM_TPID</String>
+		<String>PARAGRAPH</String>
+		<String>*IDTABLE*</String>
+		<String>*TBXBASE*</String>
+		<String>HELP'HELP</String>
+		<String>EDIT'EDIT</String>
+		<String>*NAMETAB*</String>
+		<String>ENTERPAGE</String>
+		<String>PREVIOUS</String>
+		<String>CONTENTS</String>
+		<String>HOTWORDS</String>
+		<String>COMBOBOX</String>
+		<String>BOOKPATH</String>
+		<String>*PTABLE*</String>
+		<String>DEFAULT</String>
+		<String>CAPTION</String>
+		<String>HISTORY</String>
+		<String>INT SET</String>
+		<String>WIDGETS</String>
+		<String>ELLIPSE</String>
+		<String>GRAPHIC</String>
+		<String>PICTURE</String>
+		<String>NTPAGE</String>
+		<String>.RELOC</String>
+		<String>CENTER</String>
+		<String>SELECT</String>
+		<String>SYSTEM</String>
+		<String>VIEWER</String>
+		<String>_ASYM_</String>
+		<String>.RDATA</String>
+		<String>CHECKS</String>
+		<String>NORMAL</String>
+		<String>.RSRC</String>
+		<String>RESET</String>
+		<String>CLEAR</String>
+		<String>CURVE</String>
+		<String>SETUP</String>
+		<String>STAGE</String>
+		<String>FALSE</String>
+		<String>LEAVE</String>
+		<String>GROUP</String>
+		<String>PRINT</String>
+		<String>SHOW</String>
+		<String>TYPE</String>
+		<String>NULL</String>
+		<String>TEXT</String>
+		<String>PORT</String>
+		<String>SEND</String>
+		<String>TRUE</String>
+		<String>FIND</String>
+	</GlobalStrings>
+</TrID>

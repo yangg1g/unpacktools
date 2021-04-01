@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ObjectStore backup or archive image</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/ObjectStore</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>08</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>45</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4F624A65437453744F724564417441624173456241634B7550694D614765</Bytes>
+			<ASCII> O b J e C t S t O r E d A t A b A s E b A c K u P i M a G e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

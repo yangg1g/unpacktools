@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Web Services Description Language</FileType>
+		<Ext>WSDL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.w3.org/TR/wsdl</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>53</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCHEMAS.XMLSOAP.ORG</String>
+		<String>TARGETNAMESPACE</String>
+		<String>OPERATION NAME</String>
+		<String>PORTTYPE NAME</String>
+		<String>MESSAGE NAME</String>
+		<String>DEFINITIONS</String>
+		<String>WWW.W3.ORG</String>
+		<String>XMLSCHEMA</String>
+		<String>ENCODING</String>
+		<String>RESPONSE</String>
+		<String>OUTPUT</String>
+		<String>INPUT</String>
+		<String>XMLNS</String>
+		<String>WSDL</String>
+		<String>HTTP</String>
+		<String>PART</String>
+	</GlobalStrings>
+</TrID>

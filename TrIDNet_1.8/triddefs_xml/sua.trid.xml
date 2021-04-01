@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Tim Newport-Peace's Special Use Airspace Format</FileType>
+		<Ext>SUA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.spsys.demon.co.uk/#Airspace</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>1</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>46</Min>
+			<Sec>6</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.73b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23</Bytes>
+			<ASCII> #</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>E RADIUS</String>
+		<String>CENTRE</String>
+		<String>CLUDE</String>
+		<String>POINT</String>
+		<String>TITLE</String>
+		<String>BASE</String>
+		<String>TOPS</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

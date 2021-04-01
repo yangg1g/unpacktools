@@ -1,0 +1,64 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Visual Studio .NET Visual C Project</FileType>
+		<Ext>VCPROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Microsoft_Visual_Studio</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>03</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PREPROCESSORDEFINITIONS</String>
+		<String>INTERMEDIATEDIRECTORY</String>
+		<String>VISUALSTUDIOPROJECT</String>
+		<String>CONFIGURATIONTYPE</String>
+		<String>OUTPUTDIRECTORY</String>
+		<String>CONFIGURATIONS</String>
+		<String>RELATIVEPATH</String>
+		<String>PROJECTGUID</String>
+		<String>PROJECTTYPE</String>
+		<String>XML VERSION</String>
+		<String>VISUAL C++</String>
+		<String>REFERENCES</String>
+		<String>PLATFORMS</String>
+		<String>RESOURCE</String>
+		<String>ENCODING</String>
+		<String>MANAGED</String>
+		<String>COMPILE</String>
+		<String>REBUILD</String>
+		<String>GLOBALS</String>
+		<String>RELEASE</String>
+		<String>_DEBUG</String>
+		<String>NDEBUG</String>
+		<String>HEADER</String>
+		<String>WIN32</String>
+		<String>FILES</String>
+		<String>TOOL</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

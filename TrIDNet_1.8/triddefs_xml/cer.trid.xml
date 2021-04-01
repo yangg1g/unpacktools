@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MSI/Accelrys Cerius II</FileType>
+		<Ext>CER/MSI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.accelrys.com/cerius2/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Refine>2 Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>27</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2320</Bytes>
+			<ASCII> #</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MSI CERIUS2 DATAMODEL FILE VERSION</String>
+		<String>(A C LABEL</String>
+		<String>(A O ATOM</String>
+		<String>(1 MODEL</String>
+		<String>(A C ACL</String>
+		<String>(A I ID</String>
+		<String>(1 ATOM</String>
+		<String>BOND</String>
+		<String>(A D</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SBX SpinnerBaker eXtractor compressed archive</FileType>
+		<Ext>SB</Ext>
+		<ExtraInfo>
+			<Rem>This program is no longer listed at SpinnerBacker website</Rem>
+			<RefURL>http://web.archive.org/web/20001218041900/www.spinnerbaker.com/sbx.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>06</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>47</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53423100</Bytes>
+			<ASCII> S B 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

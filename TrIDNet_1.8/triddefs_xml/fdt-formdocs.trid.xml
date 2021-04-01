@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FormDocs template</FileType>
+		<Ext>FDT</Ext>
+		<ExtraInfo>
+			<Rem>Formdocs is an electronic form design and form filler application.</Rem>
+			<RefURL>http://www.formdocs.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>39</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>46</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00000001</Bytes>
+			<Pos>2</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>100104016674040201050403</Bytes>
+			<ASCII> . . . . f t</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PRIVATE SUB BTN_</String>
+		<String>_CLICK ()</String>
+		<String>FORMDOCS</String>
+		<String>END SUB</String>
+		<String>PROGRAM</String>
+		<String>FIELD.</String>
+		<String>MSGBOX</String>
+		<String>THISF</String>
+		<String>PTION</String>
+		<String>TEXT</String>
+		<String>EXIT</String>
+		<String>YOUR</String>
+		<String>DESI</String>
+	</GlobalStrings>
+</TrID>

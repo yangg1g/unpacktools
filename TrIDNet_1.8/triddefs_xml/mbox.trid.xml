@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Standard Unix Mailbox</FileType>
+		<Ext>MBOX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>36</FileNum>
+		<Refine>32 by Cubex</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>7</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>14</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>46726F6D20</Bytes>
+			<ASCII> F r o m</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONTENT-TRANSFER-ENCODING</String>
+		<String>CONTENT-TYPE</String>
+		<String>CHARSET</String>
+		<String>MESSAGE</String>
+		<String>SUBJECT</String>
+		<String>DATE</String>
+		<String>FROM</String>
+		<String>MAIL</String>
+		<String>TEXT</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>m4 preprocessor / macro source</FileType>
+		<Ext>M4</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/M4_%28computer_language%29</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>11</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>53</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>646E6C</Bytes>
+			<ASCII> d n l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

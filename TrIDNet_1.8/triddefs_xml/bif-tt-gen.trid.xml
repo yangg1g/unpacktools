@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TomTom info (generic)</FileType>
+		<Ext>BIF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.tomtom.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>03</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>22</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B546F6D546F6D</Bytes>
+			<ASCII> [ T o m T o m</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>APPLICATIONVERSION</String>
+		<String>DEVICEVERSIONHW</String>
+		<String>DEVICEUNIQUEID</String>
+		<String>DEVICENAME</String>
+		<String>NUMBER</String>
+		<String>TOMTOM</String>
+	</GlobalStrings>
+</TrID>

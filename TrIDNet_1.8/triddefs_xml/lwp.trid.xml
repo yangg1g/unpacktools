@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Lotus Word Pro document</FileType>
+		<Ext>LWP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://lotus.com/products/product2.nsf/wdocs/wordpro</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>16</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>576F726450726F</Bytes>
+			<ASCII> W o r d P r o</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

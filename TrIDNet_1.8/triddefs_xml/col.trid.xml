@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Grand Theft Auto 3 collision data</FileType>
+        <Ext>COL</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.rockstargames.com/grandtheftauto3/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>5</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>10</Month>
+            <Day>21</Day>
+        </Date>
+        <Time>
+            <Hour>21</Hour>
+            <Min>18</Min>
+            <Sec>09</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>434F4C4C</Bytes>
+            <ASCII> C O L L</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>COLLT</String>
+    </GlobalStrings>
+</TrID>

@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Xbox 360 User Interface</FileType>
+		<Ext>XUI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>5</Month>
+			<Day>5</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>9</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C58756943616E7661732076657273696F6E3D22</Bytes>
+			<ASCII> . X u i C a n v a s   v e r s i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>XUICANVAS VERSION</String>
+		<String>PROPERTIES</String>
+		<String>IMAGEPATH</String>
+		<String>POSITION</String>
+		<String>XUISCENE</String>
+		<String>IBUTTON</String>
+		<String>NAVDOWN</String>
+		<String>ECOLOR</String>
+		<String>HEIGHT</String>
+		<String>UILIST</String>
+		<String>VISUAL</String>
+		<String>FOCUS</String>
+		<String>NAVUP</String>
+		<String>PRESS</String>
+		<String>TRANS</String>
+		<String>WIDTH</String>
+		<String>ASSO</String>
+		<String>BACK</String>
+		<String>OUND</String>
+		<String>PACI</String>
+		<String>TEXT</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

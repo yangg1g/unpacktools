@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CodeWarrior Project</FileType>
+		<Ext>MCP</Ext>
+		<ExtraInfo>
+			<Rem>CodeWarrior is an integrated, multiplatform development environment that is developed and marketed by Freescale Semiconductor.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Codewarrior</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>47</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6F6F</Bytes>
+			<ASCII> o o</ASCII>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>436F646557617272696F722050726F6A656374</Bytes>
+			<ASCII> C o d e W a r r i o r   P r o j e c t</ASCII>
+			<Pos>40</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CODEWARRIOR PROJECT</String>
+		<String>DEBUGGER RUNTIME</String>
+		<String>CUSTOM KEYWORDS</String>
+		<String>TARGET SETTINGS</String>
+		<String>DEBUGGER TARGET</String>
+		<String>FILE MAPPINGS</String>
+		<String>ACCESS PATHS</String>
+		<String>BUILD EXTRAS</String>
+		<String>SOURCE TREES</String>
+		<String>COMPILER</String>
+		<String>IMPORT</String>
+		<String>LINKER</String>
+		<String>START</String>
+		<String>PANEL</String>
+		<String>MAIN</String>
+		<String>NONE</String>
+		<String>LIST</String>
+	</GlobalStrings>
+</TrID>

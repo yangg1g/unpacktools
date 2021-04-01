@@ -1,0 +1,78 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Grand Theft Auto III model IDs and properties</FileType>
+		<Ext>IDE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Grand_Theft_Auto_(video_game)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>23</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>230D0A23204D6F64656C494473200D0A</Bytes>
+			<ASCII> # . . #   M o d e l I D s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PED COMPONENTS</String>
+		<String>CUTSCENE HEADS</String>
+		<String>AIRTRAIN_VLO</String>
+		<String>CAR_BONNET</String>
+		<String>CAR_BUMPER</String>
+		<String>CAR_PANEL</String>
+		<String>BODYPART_</String>
+		<String>CAR_WHEEL</String>
+		<String>LEAVE ID</String>
+		<String>CAR_BOOT</String>
+		<String>MODELIDS</String>
+		<String>CAR_DOOR</String>
+		<String>VEHICLES</String>
+		<String>MISSILE</String>
+		<String>SHOTGUN</String>
+		<String>CUTOBJ0</String>
+		<String>SPECIAL</String>
+		<String>GENERIC</String>
+		<String>FINGERS</String>
+		<String>MOLOTOV</String>
+		<String>WEAPONS</String>
+		<String>GRENADE</String>
+		<String>PLAYER</String>
+		<String>WHEELS</String>
+		<String>DRIVER</String>
+		<String>SNIPER</String>
+		<String>ROCKET</String>
+		<String>FLAME</String>
+		<String>HANDL</String>
+		<String>HIER</String>
+		<String>CELL</String>
+		<String>MMER</String>
+		<String>MISC</String>
+		<String>ANDS</String>
+		<String>ECUR</String>
+		<String>FIRE</String>
+		<String>TYPE</String>
+		<String>NULL</String>
+		<String>BOMB</String>
+		<String>PEDS</String>
+		<String>OBJS</String>
+	</GlobalStrings>
+</TrID>

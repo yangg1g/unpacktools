@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MTV Movie</FileType>
+		<Ext>AMV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/AMV_video_format</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>6 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>53</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52494646</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>414D56204C495354</Bytes>
+			<ASCII> A M V   L I S T</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6864726C616D766838</Bytes>
+			<ASCII> h d r l a m v h 8</ASCII>
+			<Pos>20</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

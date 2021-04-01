@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CATIA Part Description</FileType>
+		<Ext>CATPART</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.catia.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>24</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>04</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>41</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>56355F434656320000</Bytes>
+			<ASCII> V 5 _ C F V 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>C'A'T'D'O'C'U'M'E'N'T'P'R'O'P'E'R'T'Y</String>
+		<String>C'A'T'S'T'O'R'A'G'E'P'R'O'P'E'R'T'Y</String>
+		<String>C'A'T'P'R'O'P'E'R'T'Y'S'E'T'S</String>
+		<String>P'R'O'J'E'C'T'H'E'A'D'E'R</String>
+		<String>CATSUMMARYINFORMATION</String>
+		<String>C'A'T'P'R'E'V'I'E'W</String>
+		<String>DASSAULT-SYSTEMES</String>
+		<String>CATPREVIEW</String>
+		<String>C'A'T'I'A</String>
+		<String>.CATPART</String>
+		<String>POSITION</String>
+	</GlobalStrings>
+</TrID>

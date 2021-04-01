@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Final Cut project</FileType>
+		<Ext>FCP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.finalcut.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>08</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>41</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>A24B6579470A0D0A</Bytes>
+			<ASCII> . K e y G</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>73756274797065</Bytes>
+			<ASCII> s u b t y p e</ASCII>
+			<Pos>52</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52554E54494D45</Bytes>
+			<ASCII> R U N T I M E</ASCII>
+			<Pos>94</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>76696577657273</Bytes>
+			<ASCII> v i e w e r s</ASCII>
+			<Pos>117</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

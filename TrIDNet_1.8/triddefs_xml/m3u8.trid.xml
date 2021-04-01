@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>M3U Winamp Playlist (UTF-8)</FileType>
+		<Ext>M3U8</Ext>
+		<ExtraInfo>
+			<Rem>A variation of the M3U format with Unicode support.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>6</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>52</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF234558544D3355</Bytes>
+			<ASCII> . . . # E X T M 3 U</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>EXTINF</String>
+		<String>EXTM3U</String>
+	</GlobalStrings>
+</TrID>

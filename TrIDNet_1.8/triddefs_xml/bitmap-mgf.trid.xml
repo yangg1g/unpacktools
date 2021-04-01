@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MalieGF bitmap</FileType>
+		<Ext>MGF</Ext>
+		<ExtraInfo>
+			<Rem>A PNG file with a little change in the header.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>12</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D616C69654746</Bytes>
+			<ASCII> M a l i e G F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

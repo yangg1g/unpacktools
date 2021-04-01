@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Circuit Diagram Component (compiled)</FileType>
+		<Ext>CDCOM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.circuit-diagram.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>22</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>B84344434F4D0D0A01D41D8CD98F00B204E9800998ECF8427E00000000</Bytes>
+			<ASCII> . C D C O M . . . . . . . . . . . . . . . . . B ~</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.CIRCUIT-DIAGRAM.ORG</String>
+		<String>IHDR'''-'''-</String>
+		<String>TEXTSOFTWARE</String>
+		<String>CDCOM</String>
+		<String>HTTP</String>
+		<String>IDAT</String>
+		<String>IEND</String>
+		<String>PHYS</String>
+		<String>WWW.</String>
+	</GlobalStrings>
+</TrID>

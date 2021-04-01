@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VCOM Web Easy album</FileType>
+		<Ext>ALB</Ext>
+		<ExtraInfo>
+			<Rem>Was IXLA Web.</Rem>
+			<RefURL>http://www.v-com.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>10</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>31</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3B</Bytes>
+			<ASCII> ;</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PUSH_OBJECT IXLAPHOTOALBUM</String>
+		<String>POP_CURRENT_OBJECT</String>
+		<String>PUSH_OBJECT PG14</String>
+		<String>PAGE_WIDTH</String>
+		<String>PAGE_DEPTH</String>
+		<String>LINE WIDTH</String>
+		<String>LINE STYLE</String>
+		<String>MAXIMIZED</String>
+		<String>CUR_PAGE</String>
+		<String>PAGE BGC</String>
+		<String>WIN_SIZE</String>
+		<String>PAGE001</String>
+		<String>NORMAL</String>
+		<String>BLACK</String>
+		<String>BEGIN</String>
+		<String>SOLID</String>
+		<String>PAGES</String>
+		<String>WHITE</String>
+		<String>THUMB</String>
+		<String>FONT</String>
+	</GlobalStrings>
+</TrID>

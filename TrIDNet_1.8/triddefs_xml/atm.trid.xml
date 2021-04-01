@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+	<Info>
+		<FileType>ArtMoney Table File</FileType>
+		<Ext>AMT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.artmoney.ru</RefURL>
+		</ExtraInfo>
+		<User>.Cryorb</User>
+		<E-Mail>vy@nospam@tut.by</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>444</FileNum>
+		<Date>
+			<Year>2003</Year>
+			<Month>10</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>47</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.23</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>224172744D6F6E6579205461626C65222C22</Bytes>
+			<ASCII> " A r t M o n e y   T a b l e " , "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

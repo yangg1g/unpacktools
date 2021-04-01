@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XNA Framework Content Pipeline Binary</FileType>
+		<Ext>XNB</Ext>
+		<ExtraInfo>
+			<Rem>Generic XNA game data - fonts, images, sounds, other</Rem>
+			<RefURL>http://tinyurl.com/63d4uk2</RefURL>
+		</ExtraInfo>
+		<User>Stefan Leviti</User>
+		<E-Mail>stefan.leviti+at+gmail+dot+com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>615</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>8</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>0</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>584E4277</Bytes>
+			<ASCII> X N B w</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Aston Shell theme</FileType>
+		<Ext>ZIP</Ext>
+		<ExtraInfo>
+			<Rem>Aston is a Desktop manager and Shell replacement for Windows.</Rem>
+			<RefURL>http://www.astonshell.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Refine>2 by Marco Pontello - 2 by Marco Pontello - 2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>02</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>57</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.JPGPK</String>
+		<String>1.BMPPK</String>
+		<String>2.BMPPK</String>
+		<String>3.BMPPK</String>
+		<String>BARSKIN.BMPPK</String>
+		<String>CONFIG.TFAPK</String>
+		<String>ICONS</String>
+		<String>LEFTTOPSKIN.BMPPK</String>
+		<String>PLUGINS</String>
+		<String>RIGHTTOPSKIN.BMPPK</String>
+		<String>START1.</String>
+		<String>TASKACTI.BMPPK</String>
+		<String>TASKINAC.BMPPK</String>
+		<String>TASKMIN.BMPPK</String>
+		<String>TOOLLEFT.BMPPK</String>
+		<String>TOOLRIGHT.BMPPK</String>
+		<String>TRAYSKIN.BMPPK</String>
+	</GlobalStrings>
+</TrID>

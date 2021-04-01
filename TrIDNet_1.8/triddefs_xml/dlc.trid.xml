@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Steam Downloadable Content info</FileType>
+		<Ext>DLC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>27</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6E616D65203D2022</Bytes>
+			<ASCII> n a m e   =   "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>AFFECTS_CHECKSUM</String>
+		<String>GAMERSGATE_ID</String>
+		<String>CHECKSUM</String>
+		<String>STEAM_ID</String>
+		<String>ARCHIVE</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

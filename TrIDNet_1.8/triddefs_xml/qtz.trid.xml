@@ -1,0 +1,67 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Quartz Composer data</FileType>
+		<Ext>QTZ</Ext>
+		<ExtraInfo>
+			<Rem>Quartz Composer is a development tool provided with Mac OS X v10.4 for processing and rendering graphical data.</Rem>
+			<RefURL>http://developer.apple.com/documentation/GraphicsImaging/Conceptual/QuartzComposer/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>31</FileNum>
+		<Refine>12 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>9</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>28</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>62706C6973743030</Bytes>
+			<ASCII> b p l i s t 0 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>IVARINPUTPORTSTATES</String>
+		<String>NSMUTABLEDICTIONARY</String>
+		<String>MINPUTPORTSTATES</String>
+		<String>DESTINATIONNODE</String>
+		<String>DESTINATIONPORT</String>
+		<String>CONNECTION_2</String>
+		<String>NSDICTIONARY</String>
+		<String>CONNECTIONS</String>
+		<String>ZSOURCENODE</String>
+		<String>ZSOURCEPORT</String>
+		<String>SCROLLING</String>
+		<String>{_NSPOINT</String>
+		<String>BPLIST00</String>
+		<String>NSOBJECT</String>
+		<String>NSSTRING</String>
+		<String>POSITION</String>
+		<String>WQCPATCH</String>
+		<String>W_ENABLE</String>
+		<String>NSVALUE</String>
+		<String>STREAM</String>
+		<String>UCLASS</String>
+		<String>UNODES</String>
+		<String>USTATE</String>
+		<String>UVALUE</String>
+		<String>ZINPUT</String>
+		<String>COLOR</String>
+		<String>PORT_</String>
+		<String>TYPED</String>
+		<String>SKEY</String>
+	</GlobalStrings>
+</TrID>

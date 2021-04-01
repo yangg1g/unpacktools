@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Lingoes Dictionary</FileType>
+		<Ext>LDX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.lingoes.net/</RefURL>
+		</ExtraInfo>
+		<User>fengdaolong</User>
+		<E-Mail>fengdaolong@gmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>7</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>9</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3F4C4458</Bytes>
+			<ASCII> ? L D X</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>343332310200</Bytes>
+			<ASCII> 4 3 2 1</ASCII>
+			<Pos>20</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

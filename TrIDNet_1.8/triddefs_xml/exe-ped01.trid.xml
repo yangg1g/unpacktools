@@ -1,0 +1,79 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PE Diminisher v0.1 compressed Win32 Executable</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem>PE Diminisher is a simple PE packer.</Rem>
+			<RefURL>http://www.compression.ru/arctest/self/ped.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>11</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>57</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A</Bytes>
+			<ASCII> M Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000400</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00FFFF0000</Bytes>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000004000</Bytes>
+			<ASCII> . . . . . . . @</ASCII>
+			<Pos>17</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<Pos>27</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>62</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>CD21B8014CCD21</Bytes>
+			<ASCII> . ! . . L . !</ASCII>
+			<Pos>71</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000</Bytes>
+			<Pos>121</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>KERNEL32.DLL''''GETPROCADDRESS'''GETMODULEHANDLEA'''LOADLIBRARYA</String>
+		<String>KERNEL32.DLL'VIRTUALALLOC'VIRTUALFREE</String>
+		<String>.TERAPHY</String>
+		<String>SQRVWU</String>
+		<String>PE''L</String>
+		<String>DATA</String>
+		<String>TEXT</String>
+		<String>THIS</String>
+	</GlobalStrings>
+</TrID>

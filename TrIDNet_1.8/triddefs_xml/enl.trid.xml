@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EndNote Library file</FileType>
+		<Ext>ENL</Ext>
+		<ExtraInfo>
+			<Rem>EndNote is a bibliographic database and reference management program.</Rem>
+			<RefURL>http://www.isworld.org/endnote/index.asp</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>46</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>36</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>202040404020000040404040</Bytes>
+			<ASCII>     @ @ @   . . @ @ @ @</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A454E0D44420A00</Bytes>
+			<ASCII> . . E N . D B</ASCII>
+			<Pos>164</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>KEYWORDS</String>
+		<String>JOURNALS</String>
+		<String>AUTHORS</String>
+		<String>COMM</String>
+		<String>SPEC</String>
+		<String>FROM</String>
+	</GlobalStrings>
+</TrID>

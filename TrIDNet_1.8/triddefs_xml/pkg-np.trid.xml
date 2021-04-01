@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Newton PaperBack eBook</FileType>
+		<Ext>PKG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>45</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7061636B6167653178787878</Bytes>
+			<ASCII> p a c k a g e 1 x x x x</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>666F726D</Bytes>
+			<ASCII> f o r m</ASCII>
+			<Pos>64</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0046</Bytes>
+			<ASCII> . F</ASCII>
+			<Pos>78</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

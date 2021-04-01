@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+  <TransformScript>
+    <OtherComments>
+      <Content>Stacking Fractions
+This script creates nominators/denominators for 0-9, and a divisor to be used as members for composite glyphs.  These glyphs will probably need editing to remove intersecting co-ordinates. </Content>
+    </OtherComments>
+    <GlyphInsertCharacters>
+      <Characters>60600-60609</Characters>
+      <OverrideRange>TRUE</OverrideRange>
+    </GlyphInsertCharacters>
+    <GlyphCompleteComposites>
+    </GlyphCompleteComposites>
+    <GlyphDecompose>
+    </GlyphDecompose>
+    <EffectsBold>
+      <Horizontal>7</Horizontal>
+      <Vertical>5</Vertical>
+      <PreserveBearings>FALSE</PreserveBearings>
+    </EffectsBold>
+    <OutlineMove>
+      <Horizontal>0</Horizontal>
+      <Vertical>5</Vertical>
+    </OutlineMove>
+    <MetricsCenterGlyph>
+    </MetricsCenterGlyph>
+    <MetricsLeftSideBearing>
+    </MetricsLeftSideBearing>
+    <GlyphInsertCharacters>
+      <Characters></Characters>
+      <OverrideRange>FALSE</OverrideRange>
+    </GlyphInsertCharacters>
+    <OtherComments>
+      <Content>The next part of the script composes the remaining numerators/denominators for fractions from 1/16 to 63/64</Content>
+    </OtherComments>
+    <GlyphInsertCharacters>
+      <Characters>60611,60613,60615-60617,60619,60621,60623,60625,60627,60629,60631,60632,60633,60635,60637,60639,60641,60643,60645,60647,60649,60651,60653,60655,60657,60659,60661,60663,60664</Characters>
+      <OverrideRange>TRUE</OverrideRange>
+    </GlyphInsertCharacters>
+    <GlyphCompleteComposites>
+    </GlyphCompleteComposites>
+    <OtherComments>
+      <Content>The last part of the script composes the composite stacking fractions from the already created composite glyph members. </Content>
+    </OtherComments>
+    <GlyphInsertCharacters>
+      <Characters>58188-58190,60531-60542,60544-60599</Characters>
+      <OverrideRange>TRUE</OverrideRange>
+    </GlyphInsertCharacters>
+    <GlyphCompleteComposites>
+    </GlyphCompleteComposites>
+  </TransformScript>
+</DATA>

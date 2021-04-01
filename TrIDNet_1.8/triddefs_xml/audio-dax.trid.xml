@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>DAKX compressed audio</FileType>
+        <Ext>DAX</Ext>
+        <ExtraInfo>
+            <Rem>DAKX or dax stands for difference-adaptive compression. It is a patented method for the reversible compression of digital data streams.</Rem>
+            <RefURL>http://www.dakx.com/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>18</FileNum>
+        <Refine>16 by Marco Pontello</Refine>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>12</Month>
+            <Day>06</Day>
+        </Date>
+        <Time>
+            <Hour>17</Hour>
+            <Min>29</Min>
+            <Sec>31</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>464F524D00</Bytes>
+            <ASCII> F O R M</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>64617841434F4D4D</Bytes>
+            <ASCII> d a x A C O M M</ASCII>
+            <Pos>8</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

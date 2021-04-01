@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>LZA animation/video</FileType>
+        <Ext>LZA</Ext>
+        <ExtraInfo>
+            <Rem>The LZA format was invented by Brian Strack Jensen, aka. goto64 of Purple, and can be used freely</Rem>
+            <RefURL>http://home20.inet.tele.dk/hexmaster/bcs/benchmark.htm</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>3</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>29</Day>
+        </Date>
+        <Time>
+            <Hour>21</Hour>
+            <Min>03</Min>
+            <Sec>19</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4C5A414E494D</Bytes>
+            <ASCII> L Z A N I M</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

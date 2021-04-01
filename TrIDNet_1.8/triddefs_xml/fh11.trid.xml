@@ -1,0 +1,79 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Freehand 11 Project</FileType>
+		<Ext>DAT/FH11</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.macromedia.com/software/freehand</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>30</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>15</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1C0100000200041C0114000200141C0116000200091C011E000A4672656548616E643131</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . F r e e H a n d 1 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4A464946</Bytes>
+			<ASCII> J F I F</ASCII>
+			<Pos>98</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PERSPECTIVEGRID</String>
+		<String>ATTRIBUTEHOLDER</String>
+		<String>FILEDESCRIPTOR</String>
+		<String>SYMBOLLIBRARY</String>
+		<String>STYLEPROPLST</String>
+		<String>GRAPHICSTYLE</String>
+		<String>CONTENTFILL</String>
+		<String>FHDOCHEADER</String>
+		<String>JCOLLECTOR</String>
+		<String>FREEHAND11</String>
+		<String>SPOTCOLOR6</String>
+		<String>BASICLINE</String>
+		<String>BASICFILL</String>
+		<String>YELEMLIST</String>
+		<String>ARROWPATH</String>
+		<String>PROCEDURE</String>
+		<String>ELEMENT</String>
+		<String>FILEABLE</String>
+		<String>TABTABLE</String>
+		<String>DATETIME</String>
+		<String>MPOBJECT</String>
+		<String>DPROPLST</String>
+		<String>LINEPAT</String>
+		<String>MSTRING</String>
+		<String>AGDFONT</String>
+		<String>LCOLOR</String>
+		<String>USTRING</String>
+		<String>VMPOBJ</String>
+		<String>FIGURE</String>
+		<String>GUIDES</String>
+		<String>MDICT</String>
+		<String>VDICT</String>
+		<String>KPATH</String>
+		<String>LAYER</String>
+		<String>XFORM</String>
+		<String>MNAME</String>
+		<String>GROUP</String>
+		<String>JFIF</String>
+	</GlobalStrings>
+</TrID>

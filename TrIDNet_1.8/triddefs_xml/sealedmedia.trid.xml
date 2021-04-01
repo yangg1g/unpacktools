@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SealedMedia encrypted file</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sealedmedia.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>54</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>536F66745345414C20</Bytes>
+			<ASCII> S o f t S E A L</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>10</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>14</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>16</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0A41205365616C65644D6564696120556E7365616C65722D656E61626C65642062726F7773657220697320726571756972656420746F20646973706C6179207468697320636F6E74656E740A2873656520687474703A2F2F7777772E7365616C65646D656469612E636F6D2F29</Bytes>
+			<ASCII> . A   S e a l e d M e d i a   U n s e a l e r - e n a b l e d   b r o w s e r   i s   r e q u i r e d   t o   d i s p l a y   t h i s   c o n t e n t . ( s e e   h t t p : / / w w w . s e a l e d m e d i a . c o m / )</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

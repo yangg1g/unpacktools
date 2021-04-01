@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Quartus II Project</FileType>
+		<Ext>SOF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.altera.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>07</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>51</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>534F46</Bytes>
+			<ASCII> S O F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5175617274757320494920436F6D70696C65722056657273696F6E</Bytes>
+			<ASCII> Q u a r t u s	I I   C o m p i l e r	V e r s i o n</ASCII>
+			<Pos>18</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>47</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

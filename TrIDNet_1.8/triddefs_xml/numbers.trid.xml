@@ -1,0 +1,77 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Numbers spreadsheet</FileType>
+		<Ext>NUMBERS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Numbers_(software)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>05</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>57</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BUILDVERSIONHISTORY.PLISTPK</String>
+		<String>TEXT''''COPYRIGHT APPLE</String>
+		<String>DOCTYPE PLIST PUBLIC</String>
+		<String>PROPERTYLIST-1.0.DTD</String>
+		<String>THUMBNAIL.JPGPK</String>
+		<String>DTD PLIST 1.0</String>
+		<String>PLIST VERSION</String>
+		<String>WWW.APPLE.COM</String>
+		<String>INDEX.XMLPK</String>
+		<String>ICC_PROFILE</String>
+		<String>XML VERSION</String>
+		<String>EXIF''MM'*</String>
+		<String>QUICKLOOK</String>
+		<String>ACSPAPPL</String>
+		<String>ENCODING</String>
+		<String>STRING</String>
+		<String>ARRAY</String>
+		<String>-APPL</String>
+		<String>UTF-8</String>
+		<String>CPRT</String>
+		<String>DSCM</String>
+		<String>JFIF</String>
+		<String>BTRC</String>
+		<String>NDIN</String>
+		<String>GXYZ</String>
+		<String>CURV</String>
+		<String>DESC</String>
+		<String>RTRC</String>
+		<String>INC.</String>
+		<String>SF32</String>
+		<String>DTDS</String>
+		<String>MMOD</String>
+		<String>ENUS</String>
+		<String>GTRC</String>
+		<String>VCGT</String>
+		<String>WTPT</String>
+		<String>HTTP</String>
+		<String>RXYZ</String>
+		<String>CHAD</String>
+	</GlobalStrings>
+</TrID>

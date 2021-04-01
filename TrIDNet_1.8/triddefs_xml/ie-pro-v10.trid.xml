@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Infinity Engine Projectile (v1.0)</FileType>
+		<Ext>PRO</Ext>
+		<ExtraInfo>
+			<Rem>Infinity Engine PRO files describe projectiles, and the files are referenced spells and projectile weapons.</Rem>
+			<RefURL>http://iesdp.gibberlings3.net/file_formats/ie_formats/pro_v1.htm</RefURL>
+		</ExtraInfo>
+		<User>Sam.</User>
+		<E-Mail>sampsca@yahoo.com</E-Mail>
+		<Home>http://www.shsforums.net/user/10485-sam/</Home>
+	</Info>
+	<General>
+		<FileNum>165</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>2</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>4</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50524F2056312E30</Bytes>
+			<ASCII> P R O   V 1 . 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

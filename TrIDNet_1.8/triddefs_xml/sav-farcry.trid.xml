@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>FarCry (demo) saved game</FileType>
+        <Ext>SAV</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.farcry-thegame.com</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>3</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2004</Year>
+            <Month>01</Month>
+            <Day>23</Day>
+        </Date>
+        <Time>
+            <Hour>00</Hour>
+            <Min>32</Min>
+            <Sec>42</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>1F8B080000000000000BEC</Bytes>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>53</Bytes>
+            <ASCII> S</ASCII>
+            <Pos>14</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

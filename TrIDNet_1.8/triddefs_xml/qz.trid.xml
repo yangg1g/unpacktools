@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Create A Quiz file</FileType>
+		<Ext>QZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pc-shareware.com/quiz.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>28</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4372656174652041205175697A20</Bytes>
+			<ASCII> C r e a t e   A   Q u i z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>15</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

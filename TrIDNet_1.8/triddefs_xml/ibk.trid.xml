@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Imaging for Windows Image Bookmark</FileType>
+		<Ext>IBK</Ext>
+		<ExtraInfo>
+			<Rem>(Kodak) Imaging for Windows was included with some version of Microsoft Windows.</Rem>
+			<RefURL>http://support.microsoft.com/default.aspx?scid=kb;en-us;308979</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>10</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>05</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE1</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>G'L'O'B'A'L' 'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>P'A'G'E' 'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>I'M'A'G'E' 'B'O'O'K'M'A'R'K</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>T'H'U'M'B'N'A'I'L</String>
+		<String>COMMENTS</String>
+		<String>KEYWORDS</String>
+		<String>SUBJECT</String>
+		<String>AUTHOR</String>
+		<String>TITLE</String>
+	</GlobalStrings>
+</TrID>

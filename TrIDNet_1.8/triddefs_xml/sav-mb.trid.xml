@@ -1,0 +1,63 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mount and Blade save game</FileType>
+		<Ext>SAV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.taleworlds.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>11</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>58</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>57524452</Bytes>
+			<ASCII> W R D R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>_COLLECTIVE_ALLY</String>
+		<String>_ALLY_CASUALTIES</String>
+		<String>LAST SPAWN POINT</String>
+		<String>_FOREST_BANDITS</String>
+		<String>_SPAWN_POINT</String>
+		<String>PEASANTS OF</String>
+		<String>GUILDMASTER</String>
+		<String>TEMP PARTY</String>
+		<String>CHALLENGE</String>
+		<String>P_BRIDGE_</String>
+		<String>VASSAL OF</String>
+		<String>COMMONERS</String>
+		<String>MERCHANTS</String>
+		<String>P_CASTLE_</String>
+		<String>MOUNTAIN</String>
+		<String>P_TOWN_</String>
+		<String>CULTURE</String>
+		<String>UNDEADS</String>
+		<String>NEUTRAL</String>
+		<String>AVERAGE</String>
+		<String>VILLAGE</String>
+		<String>OUTLAWS</String>
+		<String>PRINCE</String>
+		<String>PACKS</String>
+		<String>UNITS</String>
+		<String>BANDS</String>
+	</GlobalStrings>
+</TrID>

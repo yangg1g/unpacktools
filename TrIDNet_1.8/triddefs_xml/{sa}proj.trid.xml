@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>{smartassembly} project</FileType>
+		<Ext>{SA}PROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.smartassembly.com/</RefURL>
+		</ExtraInfo>
+		<User>Ryan Jones</User>
+		<E-Mail>sciguyryan@gmail.com</E-Mail>
+		<Home>http://ccc-cymru.com/</Home>
+	</Info>
+	<General>
+		<FileNum>29</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>05</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>32</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C536D617274417373656D626C7950726F6A6563742050726F6A65637449443D227B</Bytes>
+			<ASCII> . S m a r t A s s e m b l y P r o j e c t   P r o j e c t I D = " {</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DESTINATION DESTINATIONFILENAME</String>
+		<String>SMARTASSEMBLYPROJECT PROJECTID</String>
+		<String>MAINASSEMBLYFILENAME</String>
+		<String>EXCEPTIONREPORTING</String>
+		<String>OTHEROPTIMIZATIONS</String>
+		<String>CONFIGURATION NAME</String>
+		<String>STRONGNAMESIGNING</String>
+		<String>OTHERPROTECTIONS</String>
+		<String>STRINGSENCODING</String>
+		<String>APPLICATIONNAME</String>
+		<String>NAMEMANGLING</String>
+		<String>OBFUSCATION</String>
+		<String>ASSEMBLIES</String>
+		<String>DEBUGGING</String>
+		<String>OPTIONS</String>
+	</GlobalStrings>
+</TrID>

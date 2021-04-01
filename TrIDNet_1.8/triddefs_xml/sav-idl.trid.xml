@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IDL binary format save file</FileType>
+		<Ext>SAV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/IDL_%28programming_language%29</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>24</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>13</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>535200</Bytes>
+			<ASCII> S R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000A0000</Bytes>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

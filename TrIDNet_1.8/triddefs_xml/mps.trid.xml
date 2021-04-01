@@ -1,0 +1,79 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Segment Map</FileType>
+		<Ext>MPS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2014</Year>
+			<Month>2</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>41</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B</Bytes>
+			<ASCII> [</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DELETEDSEGMENTS</String>
+		<String>SEGMENTMAPSTORE</String>
+		<String>SNAP DISTANCE</String>
+		<String>COORDBUF.DOM</String>
+		<String>OWNEDBYTABLE</String>
+		<String>SEGMENTVALUE</String>
+		<String>TUNNEL WIDTH</String>
+		<String>COLUMNSTORE</String>
+		<String>COORDBOUNDS</String>
+		<String>COORDINATES</String>
+		<String>COORDSYSTEM</String>
+		<String>DESCRIPTION</String>
+		<String>SEGMENT MAP</String>
+		<String>TABLEBINARY</String>
+		<String>DOMAININFO</String>
+		<String>TABLESTORE</String>
+		<String>MAXCOORDS</String>
+		<String>MINCOORDS</String>
+		<String>PROXIMITY</String>
+		<String>STORETYPE</String>
+		<String>BOOL.DOM</String>
+		<String>NONE.DOM</String>
+		<String>READONLY</String>
+		<String>BASEMAP</String>
+		<String>RECORDS</String>
+		<String>VERSION</String>
+		<String>FORMAT</String>
+		<String>OFFSET</String>
+		<String>STATUS</String>
+		<String>STDDEV</String>
+		<String>STORED</String>
+		<String>CLASS</String>
+		<String>ILWIS</String>
+		<String>RANGE</String>
+		<String>.CSY</String>
+		<String>.MPS</String>
+		<String>BYTE</String>
+		<String>COL0</String>
+		<String>DATA</String>
+		<String>LONG</String>
+		<String>MEAN</String>
+		<String>TIME</String>
+	</GlobalStrings>
+</TrID>

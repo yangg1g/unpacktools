@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GraphEdit Filter Graph Markup Language</FileType>
+		<Ext>XGR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://tinyurl.com/yxsy9p</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>00</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C47524150482076657273696F6E3D22312E30223E0D0A093C46494C5445522049443D22</Bytes>
+			<ASCII> . G R A P H   v e r s i o n = " 1 . 0 " . . . . . F I L T E R	I D = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONNECT DIRECT</String>
+		<String>GRAPH VERSION</String>
+		<String>PARAM NAME</String>
+		<String>FILTER ID</String>
+		<String>DESTPIN</String>
+		<String>SRCPIN</String>
+		<String>VALUE</String>
+		<String>CLSID</String>
+		<String>DATA</String>
+	</GlobalStrings>
+</TrID>

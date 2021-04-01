@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Zune PlayList</FileType>
+		<Ext>ZPL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Zune</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>8</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>19</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F7A706C2076657273696F6E3D22322E30223F3E</Bytes>
+			<ASCII> . ? z p l   v e r s i o n = " 2 . 0 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>AVERAGERATING</String>
+		<String>TOTALDURATION</String>
+		<String>ZPL VERSION</String>
+		<String>CREATORID</String>
+		<String>GENERATOR</String>
+		<String>ITEMCOUNT</String>
+		<String>META NAME</String>
+		<String>CONTENT</String>
+		<String>TITLE</String>
+		<String>BODY</String>
+		<String>GUID</String>
+		<String>HEAD</String>
+		<String>SMIL</String>
+		<String>ZUNE</String>
+	</GlobalStrings>
+</TrID>

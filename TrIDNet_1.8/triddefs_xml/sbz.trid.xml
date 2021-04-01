@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ShowBiZ project</FileType>
+		<Ext>SBZ</Ext>
+		<ExtraInfo>
+			<Rem>ShowBiz is a tool for making home video, DVD, etc.</Rem>
+			<RefURL>http://www.arcsoft.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>27</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>10040000F1C3B68A21030320</Bytes>
+			<ASCII> . . . . . . . . !</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AutoCAD Compiled Shape (Unifont)</FileType>
+		<Ext>SHX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.autodesk.com/</RefURL>
+		</ExtraInfo>
+		<User>ptweasel</User>
+		<E-Mail>ptweasel@hotmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>49</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4175746F4341442D383620756E69666F6E7420312E300D0A1A</Bytes>
+			<ASCII> A u t o C A D - 8 6 	u n i f o n t 	1 . 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

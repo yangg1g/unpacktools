@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MicroStation Resource data</FileType>
+		<Ext>DAT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>48</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D6963726F53746174696F6E205265736F757263652046696C65202D2056657273696F6E20</Bytes>
+			<ASCII> M i c r o S t a t i o n   R e s o u r c e   F i l e   -   V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>38</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

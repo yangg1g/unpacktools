@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Shot Online Resource</FileType>
+		<Ext>SOR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Shot_Online</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>02</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>57</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53686F744F6E6C696E65205265736F757263652066696C652056657220</Bytes>
+			<ASCII> S h o t O n l i n e   R e s o u r c e   f i l e   V e r</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SHOTONLINE RESOURCE FILE VER</String>
+	</GlobalStrings>
+</TrID>

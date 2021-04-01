@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MMS Composer File</FileType>
+		<Ext>MCF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.arcsoft.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>04</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>20</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00144D412D4D4D53436F6D706F73657220284D434629</Bytes>
+			<ASCII> . . M A - M M S C o m p o s e r   ( M C F )</ASCII>
+			<Pos>3</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MA-MMSCOMPOSER (MCF)</String>
+		<String>TEMP.SMIL</String>
+		<String>.AMR</String>
+		<String>.TXT</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>X-ray diffraction data file format</FileType>
+		<Ext>UDF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>40</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53616D706C654964656E742C</Bytes>
+			<ASCII> S a m p l e I d e n t ,</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MONOCHROMATORUSED</String>
+		<String>GENERATORVOLTAGE</String>
+		<String>DATAANGLERANGE</String>
+		<String>DIVERGENCESLIT</String>
+		<String>RECEIVINGSLIT</String>
+		<String>FILEDATETIME</String>
+		<String>SCANSTEPSIZE</String>
+		<String>SCANSTEPTIME</String>
+		<String>SAMPLEIDENT</String>
+		<String>DIFFRNUMBER</String>
+		<String>TUBECURRENT</String>
+		<String>LABDAALPHA</String>
+		<String>RATIOALPHA</String>
+		<String>DIFFRTYPE</String>
+		<String>SCANTYPE</String>
+		<String>RAWSCAN</String>
+		<String>TITLE</String>
+		<String>ANODE</String>
+	</GlobalStrings>
+</TrID>

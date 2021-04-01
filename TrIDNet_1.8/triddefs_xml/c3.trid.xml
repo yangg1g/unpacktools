@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>3D model</FileType>
+		<Ext>C3</Ext>
+		<ExtraInfo>
+			<Rem>3D mesh format used in some games.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>01</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>04</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D415846494C4520433320</Bytes>
+			<ASCII> M A X F I L E   C 3</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

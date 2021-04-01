@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+ <TransformScript>
+  <OtherComments>
+   <Content>Condensed Thin
+This script changes a Medium font to Thin stroke weight and condenses it.
+After running it you may need to increase the weight of serifs, correct intersecting contours, and change the Panose classification.</Content>
+  </OtherComments>
+  <OutlineScale>
+   <AroundType>2</AroundType>
+   <AroundCorner>2</AroundCorner>
+   <AroundXPos>0</AroundXPos>
+   <AroundYPos>0</AroundYPos>
+   <Horizontal>90.00</Horizontal>
+   <Vertical>104.93</Vertical>
+   <PreserveBearings>FALSE</PreserveBearings>
+  </OutlineScale>
+  <EffectsThin>
+   <Horizontal>40</Horizontal>
+   <Vertical>37</Vertical>
+   <PreserveBearings>TRUE</PreserveBearings>
+  </EffectsThin>
+  <OutlineMove>
+   <Horizontal>0</Horizontal>
+   <Vertical>-37</Vertical>
+  </OutlineMove>
+  <MetricsLeftSideBearing>
+  </MetricsLeftSideBearing>
+ </TransformScript>
+</DATA>

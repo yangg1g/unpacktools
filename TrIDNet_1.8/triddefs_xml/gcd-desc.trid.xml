@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>General Content Descriptor file</FileType>
+		<Ext>GCD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://sprintdeveloper.com/article16.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>58</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>436F6E74656E742D547970653A20</Bytes>
+			<ASCII> C o n t e n t - T y p e :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONTENT-VERSION</String>
+		<String>CONTENT-VENDOR</String>
+		<String>CONTENT-NAME</String>
+		<String>CONTENT-SIZE</String>
+		<String>CONTENT-TYPE</String>
+		<String>CONTENT-URL</String>
+	</GlobalStrings>
+</TrID>

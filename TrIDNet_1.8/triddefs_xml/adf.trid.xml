@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Antenna Data File</FileType>
+		<Ext>ADF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>75</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>39</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5245564E554D3A2C</Bytes>
+			<ASCII> R E V N U M : ,</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ANTMAN</String>
+		<String>ATVSWR</String>
+		<String>AZWIDT</String>
+		<String>DESCR1</String>
+		<String>DESCR2</String>
+		<String>DTDATA</String>
+		<String>ELTILT</String>
+		<String>ELWIDT</String>
+		<String>ENDFIL</String>
+		<String>FRTOBA</String>
+		<String>GUNITS</String>
+		<String>HGHFRQ</String>
+		<String>LOWFRQ</String>
+		<String>MDGAIN</String>
+		<String>MODNUM</String>
+		<String>NOFREQ</String>
+		<String>NUMCUT</String>
+		<String>NUPOIN</String>
+		<String>PATCUT</String>
+		<String>PATFRE</String>
+		<String>POLARI</String>
+		<String>REVNUM</String>
+		<String>PATTYP</String>
+	</GlobalStrings>
+</TrID>

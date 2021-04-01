@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Adobe Shared Asset Catalog</FileType>
+		<Ext>SAC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.adobe.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>10</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>28</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>696E6465782E</Bytes>
+			<ASCII> i n d e x</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COM.ADOBE.SCHEMA.DUBLIN-CORE</String>
+		<String>COM.ADOBE.SCHEMA.ACTIVESHARE</String>
+		<String>ADOBE-ASSET-CATALOG VERSION</String>
+		<String>VND.ADOBE.ASSET-CATALOG</String>
+		<String>PROPERTIES SCHEMA</String>
+		<String>DDF CONTENT-TYPE</String>
+		<String>PROPERTY NAME</String>
+		<String>APPLICATION</String>
+		<String>INDEX.XMLPK</String>
+		<String>PHOTODELUXE</String>
+		<String>VISIBILITY</String>
+		<String>CREATOR</String>
+		<String>INTEGER</String>
+		<String>STRING</String>
+		<String>TITLE</String>
+	</GlobalStrings>
+</TrID>

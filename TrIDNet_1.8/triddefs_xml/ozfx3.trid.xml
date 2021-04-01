@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OziExplorer Map</FileType>
+		<Ext>OZFX3</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.oziexplorer.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>50</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>8077</Bytes>
+			<ASCII> . w</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

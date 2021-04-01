@@ -1,0 +1,63 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LyX document</FileType>
+		<Ext>LYX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>11</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>25</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>234C795820</Bytes>
+			<ASCII> # L y X</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CREATED THIS FILE. FOR MORE INFO SEE HTTP</String>
+		<String>PAPERORIENTATION PORTRAIT</String>
+		<String>QUOTES_LANGUAGE ENGLISH</String>
+		<String>PARAGRAPH_SEPARATION</String>
+		<String>GRAPHICS DEFAULT</String>
+		<String>LAYOUT STANDARD</String>
+		<String>PAPERPAGESTYLE</String>
+		<String>SPACING SINGLE</String>
+		<String>PAPERFONTSIZE</String>
+		<String>INPUTENCODING</String>
+		<String>USE_GEOMETRY</String>
+		<String>PAPERCOLUMNS</String>
+		<String>USE_AMSMATH</String>
+		<String>SECNUMDEPTH</String>
+		<String>BEGIN_INSET</String>
+		<String>WWW.LYX.ORG</String>
+		<String>PAPERSIDES</String>
+		<String>LYXFORMAT</String>
+		<String>PAPERSIZE</String>
+		<String>END_INSET</String>
+		<String>TEXTCLASS</String>
+		<String>TOCDEPTH</String>
+		<String>DEFSKIP</String>
+		<String>STATUS</String>
+		<String>MENT</String>
+		<String>AUTO</String>
+	</GlobalStrings>
+</TrID>

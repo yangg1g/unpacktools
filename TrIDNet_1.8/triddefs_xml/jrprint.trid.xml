@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>JasperReports Print</FileType>
+		<Ext>JRPRINT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://jasperforge.org/index.php?q=project/jasperreports</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>2</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>50</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>ACED0005737200276E65742E73662E6A61737065727265706F7274732E656E67696E652E4A61737065725072696E74</Bytes>
+			<ASCII> . . . . s r . ' n e t . s f . j a s p e r r e p o r t s . e n g i n e . J a s p e r P r i n t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NET.SF.JASPERREPORTS.ENGINE.JASPERPRINT$DEFAULTSTYLEPROVIDER</String>
+		<String>XR'7NET.SF.JASPERREPORTS.ENGINE.FILL.JRTEMPLATEPRINTELEMENT</String>
+		<String>SR'4NET.SF.JASPERREPORTS.ENGINE.FILL.JRTEMPLATEPRINTTEXT</String>
+		<String>XR'2NET.SF.JASPERREPORTS.ENGINE.FILL.JRTEMPLATEELEMENT</String>
+		<String>SR'0NET.SF.JASPERREPORTS.ENGINE.BASE.JRBASEPRINTPAGE</String>
+		<String>NET.SF.JASPERREPORTS.ENGINE.FILL.JRTEMPLATETEXT</String>
+		<String>REPORTFONTQ'~</String>
+		<String>JRREPORTFONT</String>
+		<String>ORIENTATIONI</String>
+		<String>ELEMENTSQ'~</String>
+		<String>FONTSIZEQ'~</String>
+		<String>JRSTYLE</String>
+		<String>LANG</String>
+	</GlobalStrings>
+</TrID>

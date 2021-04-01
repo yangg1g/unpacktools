@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Garmin vechicle images file</FileType>
+		<Ext>SRF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.garmin.com/vehicles/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>52</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4741524D494E204249544D4150203031</Bytes>
+			<ASCII> G A R M I N   B I T M A P   0 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

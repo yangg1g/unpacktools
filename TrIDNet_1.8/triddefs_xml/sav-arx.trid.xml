@@ -1,0 +1,39 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Arx Fatalis Saved Game</FileType>
+        <Ext>SAV</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.arxfatalis-online.com/</RefURL>
+        </ExtraInfo>
+        <User>.Cryorb</User>
+        <E-Mail>vy@nospam@tut.by</E-Mail>
+        <Home></Home>
+    </Info>
+    <General>
+        <FileNum>4</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>09</Month>
+            <Day>28</Day>
+        </Date>
+        <Time>
+            <Hour>10</Hour>
+            <Min>43</Min>
+            <Sec>44</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>00FF06518DFDF4</Bytes>
+            <ASCII> . . . Q</ASCII>
+            <Pos>3</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00FFC09917FF06FD7F074B5B03378ADD5EFAFD7C</Bytes>
+            <ASCII> . . . . . . . . . . K [ . 7 . . ^ . . |</ASCII>
+            <Pos>17</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PlayStation 2 system configuration</FileType>
+		<Ext>CNF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>15</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>424F4F5432203D206364726F6D303A5C</Bytes>
+			<ASCII> B O O T 2   =   c d r o m 0 : \</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VMODE</String>
+	</GlobalStrings>
+</TrID>

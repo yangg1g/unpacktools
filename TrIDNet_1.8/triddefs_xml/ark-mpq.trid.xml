@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MPQ Archive - Blizzard game data</FileType>
+		<Ext>MPQ</Ext>
+		<ExtraInfo>
+			<Rem>MPQ is an archive file format used by games of Blizzard Entertainment.</Rem>
+			<RefURL>http://www.blizzard.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>04</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>50</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D50511A</Bytes>
+			<ASCII> M P Q</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

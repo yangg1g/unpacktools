@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Facet file</FileType>
+		<Ext>FACET</Ext>
+		<ExtraInfo>
+			<Rem>Plain ASCII file format with lists of point coordinates and connectivity between them.</Rem>
+			<RefURL>http://www.paraview.org/Wiki/ParaView:FAQ#What_file_formats_does_ParaView_support.3F</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>28</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>46414345542046494C452046524F4D20</Bytes>
+			<ASCII> F A C E T   F I L E   F R O M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

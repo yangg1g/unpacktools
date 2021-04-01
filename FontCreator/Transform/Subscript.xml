@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+  <TransformScript>
+    <OtherComments>
+      <Content>Subscripts
+This script composes subscripts from superscripts. If they don&apos;t yet exist, run the Superscript Transform script first. The vertical offset of subscripts below superscripts is defined in the file CompositeData.xml. You will probably need to adjust the vertical position of each glyph after running this script. For italic fonts, you may also need to adjust the horizontal position to align between figure zeros using the Comparison Toolbar.</Content>
+    </OtherComments>
+    <GlyphInsertCharacters>
+      <Characters>8320-8334</Characters>
+      <OverrideRange>TRUE</OverrideRange>
+    </GlyphInsertCharacters>
+    <GlyphCompleteComposites>
+    </GlyphCompleteComposites>
+  </TransformScript>
+</DATA>

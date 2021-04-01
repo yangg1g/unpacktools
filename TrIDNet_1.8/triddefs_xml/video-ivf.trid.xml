@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Intel Indeo Video File</FileType>
+		<Ext>IVF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>12</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>24</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50EF8119B3BDD011A3E500A0C9244437</Bytes>
+			<ASCII> P . . . . . . . . . . . . $ D 7</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>76696473</Bytes>
+			<ASCII> v i d s</ASCII>
+			<Pos>176</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

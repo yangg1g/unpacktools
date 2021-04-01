@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Normal Map</FileType>
+        <Ext>NMF</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://amber.rc.arizona.edu/lw/normalmaps.html</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>4</FileNum>
+        <Date>
+            <Year>2004</Year>
+            <Month>02</Month>
+            <Day>16</Day>
+        </Date>
+        <Time>
+            <Hour>20</Hour>
+            <Min>38</Min>
+            <Sec>27</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4E4D4620</Bytes>
+            <ASCII> N M F</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0054524953</Bytes>
+            <ASCII> . T R I S</ASCII>
+            <Pos>7</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

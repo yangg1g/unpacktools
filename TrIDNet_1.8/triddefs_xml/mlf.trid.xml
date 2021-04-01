@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Package Download Profile</FileType>
+		<Ext>MLF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>01</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>59</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B5061636B61676520446F776E6C6F61642050726F66696C655D</Bytes>
+			<ASCII> [ P a c k a g e   D o w n l o a d   P r o f i l e ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PACKAGE DOWNLOAD PROFILE</String>
+		<String>PACKAGE INFO MAIN BODY</String>
+		<String>NEW PACKAGE INFO</String>
+		<String>PACKAGE INFO</String>
+		<String>PACKAGE NUMBER</String>
+		<String>FLEX FILE INFO</String>
+		<String>START ADDRESS</String>
+		<String>PROFILE VER</String>
+		<String>IMAGE FILE</String>
+		<String>VERSION</String>
+		<String>INDEX</String>
+		<String>MODEL</String>
+		<String>.MAX</String>
+		<String>.MBR</String>
+		<String>.EDF</String>
+	</GlobalStrings>
+</TrID>

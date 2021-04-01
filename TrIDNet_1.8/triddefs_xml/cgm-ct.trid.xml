@@ -1,0 +1,67 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Computer Graphics Metafile (Clear Text)</FileType>
+		<Ext>CGM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>15</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>42</Bytes>
+			<ASCII> B</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D</Bytes>
+			<ASCII> M</ASCII>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COLRINDEXPREC</String>
+		<String>EDGEWIDTHMODE</String>
+		<String>LINEWIDTHMODE</String>
+		<String>CHARSETLIST</String>
+		<String>INTEGERPREC</String>
+		<String>BEGPICBODY</String>
+		<String>CHARCODING</String>
+		<String>MFELEMLIST</String>
+		<String>MFVERSION</String>
+		<String>SCALEMODE</String>
+		<String>COLRMODE</String>
+		<String>COLRPREC</String>
+		<String>FONTLIST</String>
+		<String>REALPREC</String>
+		<String>VDCTYPE</String>
+		<String>ENDPIC</String>
+		<String>MFDESC</String>
+		<String>VDCEXT</String>
+		<String>BEGMF</String>
+		<String>ENDMF</String>
+		<String>MPLE</String>
+	</GlobalStrings>
+</TrID>

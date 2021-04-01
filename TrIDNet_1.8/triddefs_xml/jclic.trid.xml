@@ -1,0 +1,93 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>JClic project</FileType>
+		<Ext>JCLIC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://clic.xtec.cat/en/jclic/index.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>7</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0D0A3C4A436C696350726F6A656374206E616D653D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ? . . . . J C l i c P r o j e c t   n a m e = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PANELS.INFORMATIONSCREEN</String>
+		<String>REA TIC - DEPARTAMENT D</String>
+		<String>REVISION DESCRIPTION</String>
+		<String>CONTAINER BGCOLOR</String>
+		<String>JCLICPROJECT NAME</String>
+		<String>COLOR BACKGROUND</String>
+		<String>DESCRIPTORS AREA</String>
+		<String>SETTINGS MARGIN</String>
+		<String>ACTIVITY CLASS</String>
+		<String>WINDOW BGCOLOR</String>
+		<String>COUNTERS TIME</String>
+		<String>ORGANIZATION</String>
+		<String>SHAPER CLASS</String>
+		<String>AUTHOR NAME</String>
+		<String>JUMP ACTION</String>
+		<String>RECTANGULAR</String>
+		<String>XML VERSION</String>
+		<String>ACTIVITIES</String>
+		<String>CELLHEIGHT</String>
+		<String>CELLS ROWS</String>
+		<String>EQUIP CLIC</String>
+		<String>MEDIA NAME</String>
+		<String>CELLWIDTH</String>
+		<String>0XFFFFFF</String>
+		<String>ENCODING</String>
+		<String>LANGUAGE</String>
+		<String>MEDIABAG</String>
+		<String>MESSAGES</String>
+		<String>SEQUENCE</String>
+		<String>T FAMILY</String>
+		<String>ACTIONS</String>
+		<String>EDUCACI</String>
+		<String>FORWARD</String>
+		<String>INITIAL</String>
+		<String>ITEM ID</String>
+		<String>BORDER</String>
+		<String>CELL T</String>
+		<String>REPORT</String>
+		<String>0.1.3</String>
+		<String>FALSE</String>
+		<String>LEVEL</String>
+		<String>SCORE</String>
+		<String>STYLE</String>
+		<String>TITLE</String>
+		<String>UTF-8</String>
+		<String>XTEC.</String>
+		<String>CODE</String>
+		<String>COLS</String>
+		<String>DATE</String>
+		<String>FILE</String>
+		<String>HTTP</String>
+		<String>MAIL</String>
+		<String>PRIM</String>
+		<String>SIZE</String>
+		<String>TRUE</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

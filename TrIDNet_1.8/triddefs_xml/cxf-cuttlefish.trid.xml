@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Cuttlefish eXtended Format</FileType>
+		<Ext>CXF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://cuttlefish.sourceforge.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>10</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>5</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>636F6E66696775726174696F6E3A20756E64697265637465640A</Bytes>
+			<ASCII> c o n f i g u r a t i o n :   u n d i r e c t e d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONFIGURATION</String>
+		<String>UNDIRECTED</String>
+		<String>COLOR</String>
+		<String>LABEL</String>
+		<String>EDGE</String>
+		<String>NODE</String>
+		<String>SIZE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>QlikView document</FileType>
+		<Ext>QVW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.qliktech.com</RefURL>
+		</ExtraInfo>
+		<User>roentgen</User>
+		<E-Mail>arthur.titeica@[nospam]gmail.com</E-Mail>
+		<Home>Home</Home>
+	</Info>
+	<General>
+		<FileNum>50</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>08</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>49</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>70170100C106000002000000</Bytes>
+			<ASCII> p</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>14</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>17</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000789CED</Bytes>
+			<ASCII> . . x</ASCII>
+			<Pos>21</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

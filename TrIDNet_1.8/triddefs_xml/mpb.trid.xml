@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MyPhoneExplorer Backup</FileType>
+		<Ext>MPB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.fjsoft.at/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>05</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>51</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FF4D7950686F6E654578706C6F7265725F436F6E74656E7449443A</Bytes>
+			<ASCII> . M y P h o n e E x p l o r e r _ C o n t e n t I D :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ENDOFDATA</String>
+	</GlobalStrings>
+</TrID>

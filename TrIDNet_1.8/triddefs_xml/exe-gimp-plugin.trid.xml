@@ -1,0 +1,69 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GIMP Plugin (Win)</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>21</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>2</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>3</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A24</Bytes>
+			<ASCII> . . . . . . . . . . . ! . . L . ! T h i s   p r o g r a m   c a n n o t   b e   r u n   i n   D O S   m o d e . . . . $</ASCII>
+			<Pos>61</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>THIS PROGRAM CANNOT BE RUN IN DOS MODE.</String>
+		<String>GIMP_INSTALL_PROCEDURE</String>
+		<String>GIMP_DRAWABLE_GET</String>
+		<String>LIBGIMP-2.0-0.DLL</String>
+		<String>LIBGLIB-2.0-0.DLL</String>
+		<String>GIMP_PROGRESS_</String>
+		<String>KERNEL32.DLL</String>
+		<String>GIMP_MAIN</String>
+		<String>PROCESS</String>
+		<String>_UPDATE</String>
+		<String>HANDLE</String>
+		<String>MALLOC</String>
+		<String>S_INIT</String>
+		<String>.DATA</String>
+		<String>.TEXT</String>
+		<String>ETMOD</String>
+		<String>IMAGE</String>
+		<String>START</String>
+		<String>_SET_</String>
+		<String>ET_R</String>
+		<String>FREE</String>
+		<String>GETM</String>
+		<String>N_IN</String>
+		<String>SIZE</String>
+		<String>TION</String>
+		<String>TIVE</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

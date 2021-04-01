@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Speculator '97 snapshot</FileType>
+		<Ext>ZX82</Ext>
+		<ExtraInfo>
+			<Rem>A Sinclair ZX Spectrum emulator image format.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>57</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5A583832</Bytes>
+			<ASCII> Z X 8 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ZX82</String>
+	</GlobalStrings>
+</TrID>

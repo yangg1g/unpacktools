@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>American's McGee's Alice Saved Game File</FileType>
+        <Ext>SAV/SPV</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.alice.ea.com/main.html</RefURL>
+        </ExtraInfo>
+        <User>.Cryorb</User>
+        <E-Mail>vy@nospam@tut.by</E-Mail>
+        <Home></Home>
+    </Info>
+    <General>
+        <FileNum>26</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>10</Month>
+            <Day>26</Day>
+        </Date>
+        <Time>
+            <Hour>01</Hour>
+            <Min>08</Min>
+            <Sec>02</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>414C49430100000017000000416C69636520417263686976652056657273696F6E2031</Bytes>
+            <ASCII> A L I C . . . . . . . . A l i c e   A r c h i v e   V e r s i o n   1</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

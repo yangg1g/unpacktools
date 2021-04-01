@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Infinity Engine spell (v1)</FileType>
+        <Ext>SPL</Ext>
+        <ExtraInfo>
+            <Rem>Def hand-built using info from the related URL</Rem>
+            <RefURL>http://www.teambg.com/iesdp/FilesFormats/SPLformat.htm</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>2</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>09</Month>
+            <Day>26</Day>
+        </Date>
+        <Time>
+            <Hour>22</Hour>
+            <Min>17</Min>
+            <Sec>03</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>53504C2056312020</Bytes>
+            <ASCII> S P L   V 1</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Android adb backup (unencrypted)</FileType>
+		<Ext>AB</Ext>
+		<ExtraInfo>
+			<Rem>adb backup instructions at xda-developers.com</Rem>
+			<RefURL>http://forum.xda-developers.com/showthread.php?t=1420351</RefURL>
+		</ExtraInfo>
+		<User>Markus Birth</User>
+		<E-Mail>mbirth.at.gmail.com</E-Mail>
+		<Home>http://markus.birth-online.de/</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>04</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>28</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>414E44524F4944204241434B55500A310A310A6E6F6E650A78DAEC</Bytes>
+			<ASCII> A N D R O I D   B A C K U P . 1 . 1 . n o n e . x</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ANDROID BACKUP</String>
+		<String>NONE</String>
+	</GlobalStrings>
+</TrID>

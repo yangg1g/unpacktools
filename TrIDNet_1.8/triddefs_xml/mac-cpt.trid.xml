@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mac Compactor (Pro) Archive</FileType>
+		<Ext>CPT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>45</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5041435443504354</Bytes>
+			<ASCII> P A C T C P C T</ASCII>
+			<Pos>65</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PACTCPCT</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Contact</FileType>
+		<Ext>CONTACT</Ext>
+		<ExtraInfo>
+			<Rem>Introduced with Windows Vista.</Rem>
+			<RefURL>http://msdn2.microsoft.com/en-us/library/ms735778(VS.85).aspx</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>58</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0D0A3C633A636F6E74616374</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ? . . . . c : c o n t a c t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>CONTACTIDCOLLECTION</String>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>LABELCOLLECTION</String>
+		<String>PHOTOCOLLECTION</String>
+		<String>CREATIONDATE</String>
+		<String>XML VERSION</String>
+		<String>CONTACTID C</String>
+		<String>WWW.W3.ORG</String>
+		<String>ELEMENTID</String>
+		<String>USERTILE</String>
+		<String>EXTENDED</String>
+		<String>ENCODING</String>
+		<String>PHOTO C</String>
+		<String>UTF-8</String>
+		<String>VALUE</String>
+		<String>XMLNS</String>
+		<String>2001</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

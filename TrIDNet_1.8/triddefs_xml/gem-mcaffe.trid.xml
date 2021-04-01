@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>McAfee AV Pattern update (newer engine)</FileType>
+		<Ext>GEM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/McAffee</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>02</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>13</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>47656E4D6963726F44415420284329204D63416665651A</Bytes>
+			<ASCII> G e n M i c r o D A T   ( C )   M c A f e e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

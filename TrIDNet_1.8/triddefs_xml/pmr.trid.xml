@@ -1,0 +1,64 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PhotoModeler project</FileType>
+		<Ext>PMR</Ext>
+		<ExtraInfo>
+			<Rem>PhotoModeler is a 3d software product that calculates measurements and constructs 3d models from photographs.</Rem>
+			<RefURL>http://www.photomodeler.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>10</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>24</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>426350726F6A6563740D0A6F</Bytes>
+			<ASCII> B c P r o j e c t . . o</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>40426356537472696E670D0A6F00000000426343616D6572614C61796F75740D0A6F666666666666F63F4243010000006F00000000426343616D6572610D0A6F00000000000000404243010000006F</Bytes>
+			<ASCII> @ B c V S t r i n g . . o . . . . B c C a m e r a L a y o u t . . o f f f f f f . ? B C . . . . o . . . . B c C a m e r a . . o . . . . . . . @ B C . . . . o</ASCII>
+			<Pos>19</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BCCHANGABLECOLLECTION</String>
+		<String>BCFEATURECOLLECTION</String>
+		<String>BCPHOTOCOLLECTION</String>
+		<String>BCRANDOMVARIABLE</String>
+		<String>BCPOINT3DRANDOM</String>
+		<String>BCPOINT3DDOUBLE</String>
+		<String>BCCAMERASTATION</String>
+		<String>BCPOINT2DDOUBLE</String>
+		<String>BCPOINT2DRANDOM</String>
+		<String>BCCAMERALAYOUT</String>
+		<String>BCVECTORRANDOM</String>
+		<String>BCVORDCOLLECT</String>
+		<String>BCOBJECTNAME</String>
+		<String>BCPHOTOGRAPH</String>
+		<String>BCVOBJARRAY</String>
+		<String>BCMATERIAL</String>
+		<String>0000000000</String>
+		<String>0BCCOLOUR</String>
+		<String>BCPROJECT</String>
+		<String>BCVSTRING</String>
+		<String>DEFAULT</String>
+		<String>BCUNITS</String>
+	</GlobalStrings>
+</TrID>

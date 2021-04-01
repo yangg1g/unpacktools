@@ -1,0 +1,46 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Drakan: Order Of The Flame Saved Game</FileType>
+        <Ext>RSG</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.surreal.com/games/index.php?gameID=3</RefURL>
+        </ExtraInfo>
+        <User>.Cryorb</User>
+        <E-Mail>vy@nospam@tut.by</E-Mail>
+        <Home></Home>
+    </Info>
+    <General>
+        <FileNum>82</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>09</Month>
+            <Day>17</Day>
+        </Date>
+        <Time>
+            <Hour>23</Hour>
+            <Min>33</Min>
+            <Sec>46</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>535253430001</Bytes>
+            <ASCII> S R S C</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00</Bytes>
+            <Pos>9</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>05000000</Bytes>
+            <Pos>12</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00</Bytes>
+            <Pos>17</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

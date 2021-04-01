@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>NOD32 Quarantined file Information</FileType>
+		<Ext>NQI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Nod32</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>08</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>04</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4E51454E</Bytes>
+			<ASCII> N Q E N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>010000000100000000000054000000</Bytes>
+			<ASCII> . . . . . . . . . . . T</ASCII>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

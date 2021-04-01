@@ -1,0 +1,40 @@
+<TrID ver="1.16">
+    <Info>
+        <FileType>Six-2-Four (624) packed DOS Command</FileType>
+        <Ext>COM</Ext>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>13</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>22</Day>
+        </Date>
+        <Time>
+            <Hour>10</Hour>
+            <Min>00</Min>
+            <Sec>22</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00.1</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>5B4553505DB5788BF98BE9BE120157F3A4C3BF00015733C09981FF</Bytes>
+            <ASCII> [ E S P ] . x . . . . . . . W . . . . . . W 3</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>733DE836007208B108E84200AAEBEAB2</Bytes>
+            <ASCII> s = . 6 . r . . . . B</ASCII>
+            <Pos>29</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>E827007308414A75F7E8230091E30E51E81C00598BF72BF041F3A4EBCBB104E81900EBF08A5E6345B701D1EB74F6C3B9</Bytes>
+            <ASCII> . ' . s . A J u . . # . . . . Q . . . Y . . + . A . . . . . . . . . . . . ^ c E . . . . t</ASCII>
+            <Pos>46</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

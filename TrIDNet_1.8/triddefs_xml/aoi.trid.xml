@@ -1,0 +1,71 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Art Of Illusion 3D scene</FileType>
+		<Ext>AOI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.artofillusion.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>2</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>37</Min>
+			<Sec>6</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>40</Bytes>
+			<ASCII> @</ASCII>
+			<Pos>27</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000</Bytes>
+			<Pos>29</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>003F</Bytes>
+			<ASCII> . ?</ASCII>
+			<Pos>36</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>45</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000001E000000</Bytes>
+			<Pos>49</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ARTOFILLUSION.PROCEDURAL.</String>
+		<String>ARTOFILLUSION.ANIMATION.</String>
+		<String>.PROCEDURALTEXTURE</String>
+		<String>.UNIFORMTEXTURE</String>
+		<String>.SCENECAMERA</String>
+		<String>.UNIFORMMA</String>
+		<String>CAMERA 1</String>
+		<String>EMODULE</String>
+		<String>MAPPING</String>
+		<String>WEIGHT</String>
+		<String>EMESH</String>
+		<String>LIGHT</String>
+		<String>LINE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EAD - Encoded Archival Description</FileType>
+		<Ext>SGM/SGML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Encoded_Archival_Description</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>04</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>36</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C21444F435459504520</Bytes>
+			<ASCII> . ! D O C T Y P E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PUBLICATIONSTMT</String>
+		<String>ENCODINGANALOG</String>
+		<String>TITLEPROPER</String>
+		<String>REPOSITORY</String>
+		<String>COLLECTION</String>
+		<String>EADHEADER</String>
+		<String>PUBLISHER</String>
+		<String>TITLESTMT</String>
+		<String>ARCHDESC</String>
+		<String>CREATION</String>
+		<String>FILEDESC</String>
+		<String>LANGUAGE</String>
+		<String>DOCTYPE</String>
+		<String>RELATED</String>
+		<String>AUTHOR</String>
+		<String>LEVEL</String>
+		<String>LABEL</String>
+		<String>VIEW</String>
+	</GlobalStrings>
+</TrID>

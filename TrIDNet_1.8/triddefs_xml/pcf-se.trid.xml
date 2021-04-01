@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Solid Edge Packaged Collaboration File</FileType>
+		<Ext>PCF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Solid_Edge</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>06</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>47</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>D'O'C'U'M'E'N'T'S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N'''''''''''8</String>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N'''''''''''''''''''''''''''(</String>
+		<String>M'A'R'K'U'P'C'O'L'L'E'C'T'I'O'N</String>
+		<String>B'U'I'L'D'V'E'R'S'I'O'N'S</String>
+		<String>P'E'R'S'I'S'T'T'A'B'L'E</String>
+		<String>D'A'T'A'V'I'E'W'O'B'J</String>
+		<String>S'N'A'P'S'H'O'T'O'B'J</String>
+		<String>D'O'C'V'E'R'S'I'O'N</String>
+		<String>C'O'M'P'S'T'G'1'0'1</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>J'S'I'T'E'S'L'I'S'T</String>
+		<String>SAVING APPLICATION</String>
+		<String>REVISION MANAGER</String>
+		<String>J'S'I'T'E'</String>
+		<String>F'I'L'E'D'A'T'A</String>
+		<String>SEMARKUPUSERS</String>
+		<String>USERNAME</String>
+		<String>STATUS</String>
+		<String>OLEM</String>
+	</GlobalStrings>
+</TrID>

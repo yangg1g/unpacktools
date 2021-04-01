@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sac lossless compressed audio</FileType>
+		<Ext>SAC</Ext>
+		<ExtraInfo>
+			<Rem>Sac: (State-of-the-Art) Lossless Audio Compression by Sebastian</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>8</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>35</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53414331</Bytes>
+			<ASCII> S A C 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52494646</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>34</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>57415645666D74</Bytes>
+			<ASCII> W A V E f m t</ASCII>
+			<Pos>42</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>64617461</Bytes>
+			<ASCII> d a t a</ASCII>
+			<Pos>70</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

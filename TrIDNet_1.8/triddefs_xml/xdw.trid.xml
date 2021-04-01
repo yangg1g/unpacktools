@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DocuWorks File</FileType>
+		<Ext>XDW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.fujixerox.co.jp/eng/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>49</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>60</Bytes>
+			<ASCII> `</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>8201</Bytes>
+			<Pos>2</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>800300C013</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

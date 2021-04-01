@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SmartDraw template</FileType>
+		<Ext>SDT</Ext>
+		<ExtraInfo>
+			<Rem>SmartDraw is a software for creating diagram and charts.</Rem>
+			<RefURL>http://www.smartdraw.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2049</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>7</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>20</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>534D4152544452570180</Bytes>
+			<ASCII> S M A R T D R W</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0064005802</Bytes>
+			<ASCII> . d . X</ASCII>
+			<Pos>21</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

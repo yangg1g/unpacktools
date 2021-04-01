@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Homeword for DeskMate</FileType>
+		<Ext>HMW</Ext>
+		<ExtraInfo>
+			<Rem>Homeword is a wordprocessor</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>12</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>02</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3154686973206973206120686F6D65776F72642066696C652077697468206465736B6D61746520636861722F6174747269627574652070616972730A</Bytes>
+			<ASCII> 1 T h i s 	i s 	a 	h o m e w o r d 	f i l e 	w i t h 	d e s k m a t e 	c h a r / a t t r i b u t e 	p a i r s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

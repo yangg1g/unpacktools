@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Binary TerraGear - FlightGear scenary data</FileType>
+		<Ext>BTG</Ext>
+		<ExtraInfo>
+			<Rem>The FlightGear flight simulator project is an open-source, multi-platform, cooperative flight simulator development project.</Rem>
+			<RefURL>http://www.flightgear.org</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>45</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>06004753</Bytes>
+			<ASCII> . . G S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>C040</Bytes>
+			<ASCII> . @</ASCII>
+			<Pos>6</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000001001C000000</Bytes>
+			<Pos>9</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

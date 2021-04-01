@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>TrackMania track</FileType>
+        <Ext>GBX</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.trackmaniagame.com</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>17</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2004</Year>
+            <Month>01</Month>
+            <Day>04</Day>
+        </Date>
+        <Time>
+            <Hour>22</Hour>
+            <Min>40</Min>
+            <Sec>18</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>47425806004255435200300024</Bytes>
+            <ASCII> G B X . . B U C R . 0 . $</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00000002000000023000241500000003300024</Bytes>
+            <ASCII> . . . . . . . . 0 . $ . . . . . 0 . $</ASCII>
+            <Pos>14</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000000300000000</Bytes>
+            <Pos>34</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0003000000000000</Bytes>
+            <Pos>58</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>BUCR'0'$</String>
+        <String>FINIS</String>
+        <String>NADEO</String>
+        <String>START</String>
+        <String>VEHICLESL</String>
+    </GlobalStrings>
+</TrID>

@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SimCity 4 Saved game</FileType>
+		<Ext>SC4</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://simcity.ea.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>59</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>44425046</Bytes>
+			<ASCII> D B P F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>504E47</Bytes>
+			<ASCII> P N G</ASCII>
+			<Pos>97</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>49484452</Bytes>
+			<ASCII> I H D R</ASCII>
+			<Pos>108</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>444154</Bytes>
+			<ASCII> D A T</ASCII>
+			<Pos>134</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TEMP.PNG</String>
+		<String>GENERAT</String>
+		<String>IDATX</String>
+		<String>TRANS</String>
+	</GlobalStrings>
+</TrID>

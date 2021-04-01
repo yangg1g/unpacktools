@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SmartList To Go database</FileType>
+		<Ext>PDB</Ext>
+		<ExtraInfo>
+			<Rem>Previously knowed as ThinkDB.</Rem>
+			<RefURL>http://www.dataviz.com/products/smartlisttogo/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>06</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5444325F</Bytes>
+			<ASCII> T D 2 _</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000006461746154484E4B000000000000000000</Bytes>
+			<ASCII> . . . . . . . . d a t a T H N K</ASCII>
+			<Pos>52</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DATATHNK</String>
+	</GlobalStrings>
+</TrID>

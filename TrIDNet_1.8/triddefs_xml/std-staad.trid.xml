@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>STAAD.Pro project data</FileType>
+		<Ext>STD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/STAAD</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>9</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>52</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53</Bytes>
+			<ASCII> S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>JOINT COORDINATES</String>
+		<String>MEMBER INCIDENCE</String>
+		<String>MEMBER PROPERTY</String>
+		<String>STAAD SPACE</String>
+		<String>INCIDENCES</String>
+		<String>ANALYSIS</String>
+		<String>CONSTANT</String>
+		<String>PERFORM</String>
+		<String>SUPPORT</String>
+		<String>FINISH</String>
+		<String>ATION</String>
+		<String>INPUT</String>
+		<String>TABLE</String>
+		<String>INFO</String>
+		<String>LOAD</String>
+		<String>UNIT</String>
+	</GlobalStrings>
+</TrID>

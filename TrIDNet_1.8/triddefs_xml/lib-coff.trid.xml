@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Common Object File Format (COFF) Library</FileType>
+		<Ext>OBJ/A</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://msdn.microsoft.com/library/en-us/dv_vcce4/html/evgrfLIBReference.asp</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>133</FileNum>
+		<Refine>9 by Marco Pontello</Refine>
+		<Date>
+			<Year>2005</Year>
+			<Month>08</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>56</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>213C617263683E0A2F202020202020202020202020202020</Bytes>
+			<ASCII> ! . a r c h . . /</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

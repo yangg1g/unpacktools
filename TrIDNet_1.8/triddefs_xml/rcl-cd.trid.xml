@@ -1,0 +1,70 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Easy CD Creator Layout</FileType>
+		<Ext>RCL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.roxio.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>38</Min>
+			<Sec>02</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE2300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023000D000A00230023002300230020005700410052004E0049004E00470053003A00200050006C006500610073006500200064006F0020006E006F0074002000450044004900540020006F0072002000440045004C00450054004500200074006800690073002000660069006C006500200021</Bytes>
+			<ASCII> . . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . . . . . # . # . # . # .   . W . A . R . N . I . N . G . S . : .   . P . l . e . a . s . e .   . d . o .   . n . o . t .   . E . D . I . T .   . o . r .   . D . E . L . E . T . E .   . t . h . i . s .   . f . i . l . e .   . !</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>D'O'I'N'G' 'S'O' 'M'I'G'H'T' 'C'O'R'R'U'P'T' 'Y'O'U'R' 'D'A'T'A' 'R'E'S'T'O'R'A'T'I'O'N</String>
+		<String>P'L'E'A'S'E' 'D'O' 'N'O'T' 'E'D'I'T' 'O'R' 'D'E'L'E'T'E' 'T'H'I'S' 'F'I'L'E</String>
+		<String>D'O'C'U'M'E'N'T'S' 'A'N'D' 'S'E'T'T'I'N'G'S</String>
+		<String>A'P'P'L'I'C'A'T'I'O'N'S'E'T'T'I'N'G'S</String>
+		<String>F'I'L'E'S'Y'S'T'E'M'V'E'R'S'I'O'N</String>
+		<String>V'O'L'U'M'E'L'A'B'E'L'T'A'B'L'E</String>
+		<String>P'R'O'J'E'C'T'S'E'T'T'I'N'G'S</String>
+		<String>B'O'O'T'I'M'A'G'E'P'A'T'H</String>
+		<String>I'S'O'P'A'R'A'M'E'T'E'R'S</String>
+		<String>H'D'S'E'C'T'O'R'C'O'U'N'T</String>
+		<String>B'I'B'L'I'O'G'R'A'P'H'I'C</String>
+		<String>P'O'S'T'V'A'L'I'D'A'T'E</String>
+		<String>R'E'C'O'R'D'M'E'T'H'O'D</String>
+		<String>L'O'A'D'S'E'G'M'E'N'T</String>
+		<String>P'R'E'V'A'L'I'D'A'T'E</String>
+		<String>P'R'O'J'E'C'T'T'Y'P'E</String>
+		<String>D'I'S'C'L'A'Y'O'U'T</String>
+		<String>I'S'B'O'O'T'A'B'L'E</String>
+		<String>R'E'C'O'R'D'M'O'D'E</String>
+		<String>E'M'U'L'A'T'I'O'N</String>
+		<String>P'A'T'H'T'A'B'L'E</String>
+		<String>P'U'B'L'I'S'H'E'R</String>
+		<String>C'O'P'Y'R'I'G'H'T</String>
+		<String>B'O'O'T'I'N'F'O</String>
+		<String>W'A'R'N'I'N'G'S</String>
+		<String>E'M'B'E'D'D'E'D</String>
+		<String>P'R'E'P'A'R'E'R</String>
+		<String>A'B'S'T'R'A'C'T</String>
+		<String>R'O'X'I'O'I'N'F</String>
+		<String>C'R'E'A'T'O'R</String>
+		<String>B'R'I'D'G'E</String>
+		<String>R'C'L'V'E'R</String>
+		<String>T'R'E'E</String>
+		<String>T'R'U'E</String>
+	</GlobalStrings>
+</TrID>

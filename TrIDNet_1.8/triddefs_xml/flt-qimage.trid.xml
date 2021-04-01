@@ -1,0 +1,107 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Qimage Filter</FileType>
+		<Ext>FLT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ddisoftware.com/qimage/</RefURL>
+		</ExtraInfo>
+		<User>Rizla99</User>
+		<E-Mail>rizla99-nospam@hotmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>04</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>76323030332E31300D0A300D0A</Bytes>
+			<ASCII> v 2 0 0 3 . 1 0 . . 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3030</Bytes>
+			<ASCII> 0 0</ASCII>
+			<Pos>45</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3030</Bytes>
+			<ASCII> 0 0</ASCII>
+			<Pos>51</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>30</Bytes>
+			<ASCII> 0</ASCII>
+			<Pos>55</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3030</Bytes>
+			<ASCII> 0 0</ASCII>
+			<Pos>61</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3030303030</Bytes>
+			<ASCII> 0 0 0 0 0</ASCII>
+			<Pos>70</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>30303030</Bytes>
+			<ASCII> 0 0 0 0</ASCII>
+			<Pos>77</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3030</Bytes>
+			<ASCII> 0 0</ASCII>
+			<Pos>86</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3030303030</Bytes>
+			<ASCII> 0 0 0 0 0</ASCII>
+			<Pos>95</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>30303030</Bytes>
+			<ASCII> 0 0 0 0</ASCII>
+			<Pos>102</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3030</Bytes>
+			<ASCII> 0 0</ASCII>
+			<Pos>111</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3030303030</Bytes>
+			<ASCII> 0 0 0 0 0</ASCII>
+			<Pos>120</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>30303030</Bytes>
+			<ASCII> 0 0 0 0</ASCII>
+			<Pos>127</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>0.00000000000000E+0000</String>
+		<String>1.00000000000000E+0002</String>
+		<String>12632256</String>
+		<String>FALSE</String>
+		<String>MEDIUM</String>
+		<String>MS SANS SERIF</String>
+		<String>NONE</String>
+		<String>TRUE</String>
+		<String>V2003.10</String>
+	</GlobalStrings>
+</TrID>
+

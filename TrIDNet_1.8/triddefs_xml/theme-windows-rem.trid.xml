@@ -1,0 +1,73 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Desktop Theme (with remarks)</FileType>
+		<Ext>THEME</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>09</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3B</Bytes>
+			<ASCII> ;</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>{20D04FE0-3AEA-1069-A2D8-08002B30309D}</String>
+		<String>{208D2C60-3AEA-1069-A2D7-08002B30309D}</String>
+		<String>{645FF040-5081-101B-9F08-00AA002F954E}</String>
+		<String>MASTERTHEMESELECTOR</String>
+		<String>SCREENSAVEACTIVE</String>
+		<String>CONTROL PANEL</String>
+		<String>TILEWALLPAPER</String>
+		<String>DEFAULTVALUE</String>
+		<String>DEFAULTICON</String>
+		<String>APPSTARTING</String>
+		<String>CROSSHAIR</String>
+		<String>EXPLORER</String>
+		<String>SIZENESW</String>
+		<String>SIZENWSE</String>
+		<String>PATTERN</String>
+		<String>DESKTOP</String>
+		<String>UPARROW</String>
+		<String>DABJDKT</String>
+		<String>RECYCLE</String>
+		<String>WINDOWS</String>
+		<String>SIZEALL</String>
+		<String>CURSORS</String>
+		<String>SIZEWE</String>
+		<String>COLORS</String>
+		<String>SIZENS</String>
+		<String>NWPEN</String>
+		<String>CLSID</String>
+		<String>EMPTY</String>
+		<String>IBEAM</String>
+		<String>BOOT</String>
+		<String>IGHT</String>
+		<String>MTSM</String>
+		<String>ENTS</String>
+		<String>HELP</String>
+		<String>FULL</String>
+		<String>WAIT</String>
+	</GlobalStrings>
+</TrID>

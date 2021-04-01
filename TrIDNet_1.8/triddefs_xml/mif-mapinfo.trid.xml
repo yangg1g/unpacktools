@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MapInfo Interchange Format</FileType>
+		<Ext>MIF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mapinfo.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Refine>5 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>1</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>57</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>56</Bytes>
+			<ASCII> V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COORDSYS</String>
+		<String>COLUMNS</String>
+		<String>VERSION</String>
+		<String>CHAR</String>
+		<String>DATA</String>
+	</GlobalStrings>
+</TrID>

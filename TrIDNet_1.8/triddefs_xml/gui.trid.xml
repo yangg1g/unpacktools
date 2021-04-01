@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GUI Design Studio design</FileType>
+		<Ext>GUI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.carettasoftware.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>151</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>6</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>30</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C53637265656E0A09434944203D2022</Bytes>
+			<ASCII> . S c r e e n . . C I D   =   "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>USEDEFREPRESENTATIVE</String>
+		<String>REPRESENTATIVEREFID</String>
+		<String>SELECTIONGROUPS</String>
+		<String>CONNECTIONS</String>
+		<String>DESCRIPTION</String>
+		<String>HASCANVAS</String>
+		<String>ELEMENTS</String>
+		<String>NEXTCID</String>
+		<String>APPVER</String>
+		<String>HEIGHT</String>
+		<String>SCREEN</String>
+		<String>APPID</String>
+		<String>DOCID</String>
+		<String>FLAGS</String>
+		<String>NOTES</String>
+		<String>WIDTH</String>
+		<String>NAME</String>
+		<String>TEXT</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

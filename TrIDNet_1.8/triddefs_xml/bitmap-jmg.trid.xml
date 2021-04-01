@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>16 bit adaptive RLE compressed bitmap</FileType>
+		<Ext>JMG</Ext>
+		<ExtraInfo>
+			<Rem>Format used by JRA::Library</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>52</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4A4D472076</Bytes>
+			<ASCII> J M G	v</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,67 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FX Composer Project</FileType>
+		<Ext>FXCPROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Shading_language</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>7</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>0</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C70726F6A6563743E</Bytes>
+			<ASCII> . p r o j e c t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FXCOMPOSER.SCENE.SERVICES.FXRENDERPORTSERVICE</String>
+		<String>FXCOMPOSER.SCENE.SERVICES.FXSCENESERVICE</String>
+		<String>DISABLECOMMONPROFILETRANSPARENCY VALUE</String>
+		<String>BINDLIGHTTOUNBOUNDMATERIALS VALUE</String>
+		<String>CURRENT_CONFIGURATION VALUE</String>
+		<String>ACTIVEASSETCOLLECTION URI</String>
+		<String>BACKGROUND_COLOR COLOR</String>
+		<String>COLLADA COMMON PROFILE</String>
+		<String>COMPILEROPTIONS VALUE</String>
+		<String>CUSTOMCONFIGURATIONS</String>
+		<String>ENVIRONMENTMAP VALUE</String>
+		<String>CONFIGURATION NAME</String>
+		<String>SETTINGS CATEGORY</String>
+		<String>RENDERPORT NAME</String>
+		<String>INCLUDES VALUE</String>
+		<String>TEXTURES VALUE</String>
+		<String>ASSETFILE URI</String>
+		<String>HLSL COMPILER</String>
+		<String>SCRIPTS VALUE</String>
+		<String>SHADERS VALUE</String>
+		<String>MODELS VALUE</String>
+		<String>CGCOMPILER</String>
+		<String>DIRECT3D</String>
+		<String>PROJECT</String>
+		<String>RELEASE</String>
+		<String>OPENGL</String>
+		<String>DEBUG</String>
+		<String>FALSE</String>
+		<String>PATHS</String>
+		<String>.DAE</String>
+	</GlobalStrings>
+</TrID>

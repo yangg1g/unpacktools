@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AIX Small indexed archive (AIX prior to v4.3)</FileType>
+		<Ext>AR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.unet.univie.ac.at/aix/cmds/aixcmds1/ar.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>02</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>43</Min>
+			<Sec>02</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C61696166663E0D</Bytes>
+			<ASCII> . a i a f f</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

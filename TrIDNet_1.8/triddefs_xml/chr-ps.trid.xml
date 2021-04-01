@@ -1,0 +1,63 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SRI PeakSimple chromatogram</FileType>
+		<Ext>CHR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>8</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>4</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C545950453E3D4348524F4D</Bytes>
+			<ASCII> . T Y P E . = C H R O M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TYPE YOUR COMMENTS HERE</String>
+		<String>SYRINGE INJECTION</String>
+		<String>COLLECTION DATE</String>
+		<String>SRI INSTRUMENTS</String>
+		<String>VALUED CUSTOMER</String>
+		<String>HOLDING TIME</String>
+		<String>DESCRIPTION</String>
+		<String>SAMP WEIGHT</String>
+		<String>TEMPERATURE</String>
+		<String>COMPONENTS</String>
+		<String>CONDITIONS</String>
+		<String>STD WEIGHT</String>
+		<String>CLIENT ID</String>
+		<String>LAB NAME</String>
+		<String>OPERATOR</String>
+		<String>QC BATCH</String>
+		<String>CARRIER</String>
+		<String>COLUMN</String>
+		<String>EVENTS</String>
+		<String>LAB ID</String>
+		<String>METHOD</String>
+		<String>SAMPLE</String>
+		<String>CHROM</String>
+		<String>RATE</String>
+		<String>RUN1</String>
+		<String>SIZE</String>
+	</GlobalStrings>
+</TrID>

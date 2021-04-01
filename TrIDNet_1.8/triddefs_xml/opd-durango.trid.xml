@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Durango Interferometry data</FileType>
+		<Ext>OPD</Ext>
+		<ExtraInfo>
+			<Rem>Durango is the Universal Interferometry Software for data acquisition, analysis, evaluation, exchange, import-export and simulation.</Rem>
+			<RefURL>http://www.diffraction.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>01</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>20</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1C000000DD6631DC3A08D411ADA100A0CCE456560000000000000000C43B72</Bytes>
+			<ASCII> . . . . . f 1 . : . . . . . . . . . V V . . . . . . . . . ; r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43447572616E676F46696C65496E666F0C170000</Bytes>
+			<ASCII> C D u r a n g o F i l e I n f o</ASCII>
+			<Pos>61</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CDURANGOSAVEASDATA</String>
+		<String>CDURANGOFILEINFO</String>
+		<String>SAMPLE_DATA</String>
+		<String>DURANGO CD</String>
+		<String>KLO-JPB</String>
+		<String>STUDIO</String>
+		<String>.OPD</String>
+	</GlobalStrings>
+</TrID>

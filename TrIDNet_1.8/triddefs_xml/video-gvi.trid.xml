@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Google Video</FileType>
+		<Ext>GVI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://video.google.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>01</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>56</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52494646</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>415649204C495354</Bytes>
+			<ASCII> A V I   L I S T</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>676F6F6747444154</Bytes>
+			<ASCII> g o o g G D A T</ASCII>
+			<Pos>20</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

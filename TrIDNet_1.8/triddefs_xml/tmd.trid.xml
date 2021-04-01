@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TextMaker document</FileType>
+		<Ext>TMD</Ext>
+		<ExtraInfo>
+			<Rem>TextMaker is a multiplatform wordprocessor, part of the SoftMaker Office suite.</Rem>
+			<RefURL>http://www.softmaker.de/tm_en.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>54</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5600FF0C000E00</Bytes>
+			<ASCII> M V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>002D594131</Bytes>
+			<ASCII> . - Y A 1</ASCII>
+			<Pos>11</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

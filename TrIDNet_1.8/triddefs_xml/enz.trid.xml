@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EndNote Connection</FileType>
+		<Ext>ENZ</Ext>
+		<ExtraInfo>
+			<Rem>EndNote is a software tool for publishing and managing bibliographies.</Rem>
+			<RefURL>http://www.endnote.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>02</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>54</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>454E444E454E5A33000000</Bytes>
+			<ASCII> E N D N E N Z 3</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000026000500</Bytes>
+			<Pos>16</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000FFFFFFFF00</Bytes>
+			<Pos>24</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ENDNENZ3</String>
+		<String>AUTHOR</String>
+		<String>TITLE</String>
+	</GlobalStrings>
+</TrID>

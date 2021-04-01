@@ -1,0 +1,29 @@
+<TrID ver="1.15">
+	<Info>
+		<FileType>EICAR antivirus test file</FileType>
+		<Ext>COM</Ext>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2003</Year>
+			<Month>6</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>3</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan v0.54b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>58354F2150254041505B345C505A58353428505E2937434329377D2445494341522D5354414E444152442D414E544956495255532D544553542D46494C452124482B482A0D0A</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

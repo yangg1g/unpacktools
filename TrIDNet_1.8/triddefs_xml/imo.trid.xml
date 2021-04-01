@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>iMON Setting file</FileType>
+		<Ext>IMO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.soundgraph.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>50</FileNum>
+		<Refine>18 by Marco Pontello - 18 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>28</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3A5C</Bytes>
+			<ASCII> : \</ASCII>
+			<Pos>1</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PAUSE</String>
+		<String>PLAY</String>
+		<String>.EXE</String>
+	</GlobalStrings>
+</TrID>

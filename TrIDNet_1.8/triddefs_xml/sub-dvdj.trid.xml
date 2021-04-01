@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DVD Junior subtitles</FileType>
+		<Ext>TXT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>34</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5375627469746C65</Bytes>
+			<ASCII> S u b t i t l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>46696C65204D61726B3A</Bytes>
+			<ASCII> F i l e   M a r k :</ASCII>
+			<Pos>9</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

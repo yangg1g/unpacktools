@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EasyPlot save file</FileType>
+		<Ext>EP/EPW/EZP/TXT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.amion.com/ep/eplot.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>19</Min>
+			<Sec>02</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2A2A2A2A2A2A2A2A2045617379506C6F7420736176652066696C65202A2A2A2A2A2A2A2A0D</Bytes>
+			<ASCII> * * * * * * * *   E a s y P l o t   s a v e   f i l e   * * * * * * * *</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>******** EASYPLOT SAVE FILE ********</String>
+		<String>******** GRAPH ATTRIBUTES   ********</String>
+		<String>******** OPEN NEW GRAPH     ********</String>
+		<String>******** X-AXIS ********</String>
+		<String>******** Y-AXIS ********</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AdLib Tracker 2 Module</FileType>
+		<Ext>A2M</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.adlibtracker.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>171</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>9</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>19</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5F41326D6F64756C655F</Bytes>
+			<ASCII> _ A 2 m o d u l e _</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Dance With Intensity song</FileType>
+		<Ext>DWI</Ext>
+		<ExtraInfo>
+			<Rem>DWI is a PC simulator of Konami's Dance Dance Revolution.</Rem>
+			<RefURL>http://dwi.ddruk.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>23</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23</Bytes>
+			<ASCII> #</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54</Bytes>
+			<ASCII> T</ASCII>
+			<Pos>3</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ANOTHER</String>
+		<String>ARTIST</String>
+		<String>SINGLE</String>
+		<String>BASIC</String>
+		<String>TITLE</String>
+	</GlobalStrings>
+</TrID>

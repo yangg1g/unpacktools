@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Luxology 3D scene</FileType>
+		<Ext>LXO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.luxology.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>10</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>464F524D</Bytes>
+			<ASCII> F O R M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4C584F425652534E</Bytes>
+			<ASCII> L X O B V R S N</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

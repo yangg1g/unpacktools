@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MapleStory game data</FileType>
+		<Ext>WZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/MapleStory</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>01</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>55</Min>
+			<Sec>02</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B4731</Bytes>
+			<ASCII> P K G 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5061636B6167652066696C652076</Bytes>
+			<ASCII> P a c k a g e   f i l e   v</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>31</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20436F7079726967687420</Bytes>
+			<ASCII>   C o p y r i g h t</ASCII>
+			<Pos>33</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2057697A65742C205A4D53</Bytes>
+			<ASCII>   W i z e t ,   Z M S</ASCII>
+			<Pos>48</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

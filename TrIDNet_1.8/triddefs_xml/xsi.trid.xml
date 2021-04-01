@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SoftImage XSI 3D model</FileType>
+		<Ext>XSI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.softimage.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>3</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>13</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7873692030</Bytes>
+			<ASCII> x s i   0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>74787420</Bytes>
+			<ASCII> t x t</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SI_MODEL</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Infinity Engine compressed archive (v1.0)</FileType>
+		<Ext>BIF</Ext>
+		<ExtraInfo>
+			<Rem>Infinity Engine BIF files are archives containing game resources which are indexed by the KEY file.  The V1.0 format is a zlib compressed BIF.</Rem>
+			<RefURL>http://iesdp.gibberlings3.net/file_formats/ie_formats/bif_v1.htm#bifc_v1.0</RefURL>
+		</ExtraInfo>
+		<User>Sam.</User>
+		<E-Mail>sampsca@yahoo.com</E-Mail>
+		<Home>http://www.shsforums.net/user/10485-sam/</Home>
+	</Info>
+	<General>
+		<FileNum>193</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>01</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>33</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4249464356312E30</Bytes>
+			<ASCII> B I F C V 1 . 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>SMJPEG Video</FileType>
+        <Ext>MJPG</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.lokigames.com/development/smjpeg.php3</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>2</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>10</Month>
+            <Day>12</Day>
+        </Date>
+        <Time>
+            <Hour>21</Hour>
+            <Min>19</Min>
+            <Sec>35</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>5E405C6E534D4A504547</Bytes>
+            <ASCII> ^ @ \ n S M J P E G</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Electronic Arts Music format</FileType>
+		<Ext>MUS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>27</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>3</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>29</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7D0000</Bytes>
+			<ASCII> }</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>727378</Bytes>
+			<ASCII> r s x</ASCII>
+			<Pos>109</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,76 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>2D Fighter Maker 2nd player data</FileType>
+		<Ext>PLAYER</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Fighter_Maker</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>36</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>32444B475432</Bytes>
+			<ASCII> 2 D K G T 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>STAND UP(FROM CROUCH)</String>
+		<String>BUTTON GUARD CROUCH</String>
+		<String>BUTTON GUARD STAND</String>
+		<String>BUTTON GUARD AIR</String>
+		<String>RD  WK CROUCHING</String>
+		<String>CHAR. SELECT PIC</String>
+		<String>RD  SG CROUCHING</String>
+		<String>TURN(CROUCHING)</String>
+		<String>STAGE FACE PIC</String>
+		<String>CROUCH RETREAT</String>
+		<String>TURN(STANDING)</String>
+		<String>CROUCH ADVANCE</String>
+		<String>FRONT JUMP</String>
+		<String>HIT SPARK</String>
+		<String>BACK JUMP</String>
+		<String>WK STAND</String>
+		<String>BACKWRD</String>
+		<String>JUMP UP</String>
+		<String>FALLING</String>
+		<String>ATTACKS</String>
+		<String>WAVEFMT</String>
+		<String>FORWARD</String>
+		<String>VICTORY</String>
+		<String>SPECIAL</String>
+		<String>GET UP</String>
+		<String>U'S'R</String>
+		<String>SUPER</String>
+		<String>START</String>
+		<String>MOVE</String>
+		<String>KICK</String>
+		<String>LAND</String>
+		<String>DRAW</String>
+		<String>DOWN</String>
+		<String>DATA</String>
+		<String>FIRE</String>
+		<String>RIFF</String>
+		<String>FACT</String>
+		<String>.WAV</String>
+		<String>LOSS</String>
+	</GlobalStrings>
+</TrID>

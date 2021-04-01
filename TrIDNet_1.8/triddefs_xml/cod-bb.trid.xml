@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Blackberry Binary Executable</FileType>
+		<Ext>COD</Ext>
+		<ExtraInfo>
+			<Rem>They can also contain just data.</Rem>
+			<RefURL>http://www.blackberrybrickbreaker.com/index.php/COD_Files</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>08</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>27</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>DEC0FFFF</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

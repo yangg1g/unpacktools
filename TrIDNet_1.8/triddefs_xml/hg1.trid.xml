@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Hellgate London save game</FileType>
+		<Ext>HG1</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Hellgate:_London</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>08</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>40</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52474D48</Bytes>
+			<ASCII> R G M H</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>480065006C006C0067006100740065003A0020004C006F006E0064006F006E</Bytes>
+			<ASCII> H . e . l . l . g . a . t . e . : .   . L . o . n . d . o . n</ASCII>
+			<Pos>40</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

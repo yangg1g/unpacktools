@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>File Crypt encrypted</FileType>
+		<Ext>RZX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.redzion.com/pr_Kriptirnik_en.asp</RefURL>
+		</ExtraInfo>
+		<User>Red Zion</User>
+		<E-Mail>info@redzion.com</E-Mail>
+		<Home>http://www.redzion.com/</Home>
+	</Info>
+	<General>
+		<FileNum>104</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>15</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>B4B26F93E2A690076FC9CC2C1AEBB924</Bytes>
+			<ASCII> . . o . . . . . o . . , . . . $</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

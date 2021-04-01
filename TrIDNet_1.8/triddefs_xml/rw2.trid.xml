@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Panasonic RAW image</FileType>
+		<Ext>RW2</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Raw_image_format</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>10</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>16</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>494955001800000088E774D8F8251D4D947A6E77822B5D6A</Bytes>
+			<ASCII> I I U . . . . . . . t . . % . M . z n w . + ] j</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PANASONIC'DMC-</String>
+		<String>PRINTIM'0250</String>
+		<String>EXIF''II*</String>
+		<String>AEBM</String>
+		<String>FCCV</String>
+		<String>PRST</String>
+		<String>VER.</String>
+		<String>WBCZ</String>
+	</GlobalStrings>
+</TrID>

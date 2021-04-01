@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Nero Audio-CD Compilation (Unicode)</FileType>
+		<Ext>NRA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.nero.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>11</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>57</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFEFF0D4E00650072006F004300440041005600</Bytes>
+			<ASCII> . . . . N . e . r . o . C . D . A . V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E00</Bytes>
+			<Pos>22</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

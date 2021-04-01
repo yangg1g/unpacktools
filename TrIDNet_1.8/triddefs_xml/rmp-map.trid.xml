@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Magellan Raster Map</FileType>
+		<Ext>RMP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Magellan_Navigation</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>54</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0900000009000000726D70000000000000696E69</Bytes>
+			<ASCII> . . . . . . . . r m p . . . . . . i n i</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00746C6D00000000</Bytes>
+			<ASCII> . t l m</ASCII>
+			<Pos>40</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ICON FILE VERSION</String>
+		<String>MAGELLAN</String>
+		<String>T_LAYERS</String>
+		<String>JFIF</String>
+	</GlobalStrings>
+</TrID>

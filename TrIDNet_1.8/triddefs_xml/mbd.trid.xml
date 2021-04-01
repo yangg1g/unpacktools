@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Multimedia Builder Data</FileType>
+		<Ext>MBD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mmbuilder.ru/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>10 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>26</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0B4D4D4275696C646572</Bytes>
+			<ASCII> . M M B u i l d e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MASTER LAYER 000</String>
+		<String>MASTER PAGE 000</String>
+		<String>MMBUILDER</String>
+		<String>MYAPP</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GVA/GVA2000 Author lecture</FileType>
+		<Ext>GDB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://eng.gva.co.kr/products/author.asp</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>35</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>47444200</Bytes>
+			<ASCII> G D B</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>1.HTM</String>
+		<String>BODY BGCOLOR</String>
+		<String>CODE</String>
+		<String>HEAD</String>
+		<String>HTML</String>
+		<String>INDEX.</String>
+		<String>PAGE</String>
+		<String>TEXT</String>
+		<String>TITLE</String>
+	</GlobalStrings>
+</TrID>

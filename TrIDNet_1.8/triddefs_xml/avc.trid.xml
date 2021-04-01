@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Kaspersky Anti-virus data base</FileType>
+		<Ext>AVC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.kaspersky.com</RefURL>
+		</ExtraInfo>
+		<User>kif aka AC</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>142</FileNum>
+		<Refine>1517 by xoxmodav</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>6</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>46</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>41565020416E7469766972616C2044617461626173652E202863294B6173706572736B79204C616220313939372D3230</Bytes>
+			<ASCII> A V P   A n t i v i r a l   D a t a b a s e .   ( c ) K a s p e r s k y   L a b   1 9 9 7 - 2 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>50</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4B6173706572736B79204C61622E20</Bytes>
+			<ASCII> K a s p e r s k y   L a b</ASCII>
+			<Pos>64</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>454B2E3803000000</Bytes>
+			<ASCII> E K . 8</ASCII>
+			<Pos>128</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PingPlotter script</FileType>
+		<Ext>PPX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pingplotter.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>07</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>34</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50696E67506C6F74746572205363726970742056</Bytes>
+			<ASCII> P i n g P l o t t e r	S c r i p t   V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>21</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

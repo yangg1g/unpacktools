@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GlueMon song/module</FileType>
+		<Ext>GLUE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>02</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>04</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>474C5545B8B3AABA</Bytes>
+			<ASCII> G L U E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FF</Bytes>
+			<Pos>191</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FF</Bytes>
+			<Pos>199</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FF</Bytes>
+			<Pos>215</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FF</Bytes>
+			<Pos>219</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

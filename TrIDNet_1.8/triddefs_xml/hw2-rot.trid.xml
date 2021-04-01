@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Home World 2 - ROT graphics</FileType>
+		<Ext>ROT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.relic.com/product/homeworld2/description.php</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>49</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>464F524D0000001448454144</Bytes>
+			<ASCII> F O R M . . . . H E A D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000004000007000000464F524D</Bytes>
+			<ASCII> . . . . . . . . . . . F O R M</ASCII>
+			<Pos>17</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D495053464F524D</Bytes>
+			<ASCII> M I P S F O R M</ASCII>
+			<Pos>36</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D4C564C</Bytes>
+			<ASCII> M L V L</ASCII>
+			<Pos>48</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MIPSFORM</String>
+		<String>FORM</String>
+		<String>MLVL</String>
+		<String>HEAD</String>
+	</GlobalStrings>
+</TrID>

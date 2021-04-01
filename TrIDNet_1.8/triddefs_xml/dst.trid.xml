@@ -1,0 +1,110 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Tajima stitch image</FileType>
+		<Ext>DST</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2006</Year>
+			<Month>03</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>17</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4C413A</Bytes>
+			<ASCII> L A :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D53543A2020</Bytes>
+			<ASCII> . S T :</ASCII>
+			<Pos>19</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D434F3A20</Bytes>
+			<ASCII> . C O :</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D2B583A2020</Bytes>
+			<ASCII> . + X :</ASCII>
+			<Pos>37</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D2D583A2020</Bytes>
+			<ASCII> . - X :</ASCII>
+			<Pos>46</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D2B593A2020</Bytes>
+			<ASCII> . + Y :</ASCII>
+			<Pos>55</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D2D593A2020</Bytes>
+			<ASCII> . - Y :</ASCII>
+			<Pos>64</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D41583A</Bytes>
+			<ASCII> . A X :</ASCII>
+			<Pos>73</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>202020</Bytes>
+			<Pos>78</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>300D41593A</Bytes>
+			<ASCII> 0 . A Y :</ASCII>
+			<Pos>82</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>202020</Bytes>
+			<Pos>88</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>300D4D583A</Bytes>
+			<ASCII> 0 . M X :</ASCII>
+			<Pos>92</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>202020</Bytes>
+			<Pos>98</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>300D4D593A</Bytes>
+			<ASCII> 0 . M Y :</ASCII>
+			<Pos>102</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>202020</Bytes>
+			<Pos>108</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>300D50443A</Bytes>
+			<ASCII> 0 . P D :</ASCII>
+			<Pos>112</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D1A</Bytes>
+			<Pos>123</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

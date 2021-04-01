@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Adobe Bridge cache</FileType>
+		<Ext>BCT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Adobe_Bridge</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>10</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>07</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6C6E6274020000000000000366666D74</Bytes>
+			<ASCII> l n b t . . . . . . . . f f m t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DESCRIPTION RDF</String>
+		<String>XMPMETA XMLNS</String>
+		<String>XPACKET BEGIN</String>
+		<String>NS.ADOBE.COM</String>
+		<String>XPACKET END</String>
+		<String>WWW.W3.ORG</String>
+		<String>RDF XMLNS</String>
+		<String>ABOUT</String>
+		<String>XMPTK</String>
+		<String>WIDTH</String>
+		<String>IMAGE</String>
+		<String>THMB</String>
+		<String>JFIF</String>
+		<String>LNBT</String>
+		<String>FFMT</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AntiVir Job</FileType>
+		<Ext>AVJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.avira.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>9</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>30</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE2300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023000D000A0023002000240041004E005400490056004900520024005300430048004500440055004C004500520024004C004F0047000D000A002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023000D000A002300200054006800690073002000660069006C006500200068006100730020006200650065006E002000630072006500610074006500640020006100750074006F006D00610074006900630061006C006C0079002E000D000A002300200044004F0020004E004F00540020004D004F004400490046005900210021000D000A002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023002300230023000D000A000D000A005B0043004F004E004600490047005D000D000A004E0061006D0065003D00</Bytes>
+			<ASCII> . . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . . . . . # .   . $ . A . N . T . I . V . I . R . $ . S . C . H . E . D . U . L . E . R . $ . L . O . G . . . . . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . . . . . # .   . T . h . i . s .   . f . i . l . e .   . h . a . s .   . b . e . e . n .   . c . r . e . a . t . e . d .   . a . u . t . o . m . a . t . i . c . a . l . l . y . . . . . . . # .   . D . O .   . N . O . T .   . M . O . D . I . F . Y . ! . ! . . . . . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . # . . . . . . . . . [ . C . O . N . F . I . G . ] . . . . . N . a . m . e . =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>T'H'I'S' 'F'I'L'E' 'H'A'S' 'B'E'E'N' 'C'R'E'A'T'E'D' 'A'U'T'O'M'A'T'I'C'A'L'L'Y'.</String>
+		<String>$'A'N'T'I'V'I'R'$'S'C'H'E'D'U'L'E'R'$'L'O'G</String>
+		<String>S'T'A'R'T'M'I'S'S'E'D'J'O'B'S</String>
+		<String>I'N'E'T'C'O'N'N'E'C'T'I'O'N</String>
+		<String>D'O' 'N'O'T' 'M'O'D'I'F'Y</String>
+		<String>L'A'S'T'S'T'A'R'T'T'I'M'E</String>
+		<String>N'E'X'T'S'T'A'R'T'T'I'M'E</String>
+		<String>N'O'M'E'S'S'A'G'E'B'O'X</String>
+		<String>D'E'S'C'R'I'P'T'I'O'N</String>
+		<String>D'A'Y'S'O'F'W'E'E'K</String>
+		<String>J'O'B'E'N'A'B'L'E'D</String>
+		<String>L'A'S'T'E'R'R'O'R</String>
+		<String>S'T'A'T'I'S'T'I'C</String>
+		<String>I'N'T'E'R'V'A'L</String>
+		<String>G'U'I'M'O'D'E</String>
+		<String>J'O'B'T'Y'P'E</String>
+		<String>V'I'S'I'B'L'E</String>
+		<String>C'O'N'F'I'G</String>
+		<String>D'A'T'A</String>
+		<String>N'A'M'E</String>
+	</GlobalStrings>
+</TrID>

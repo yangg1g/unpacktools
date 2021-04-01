@@ -1,0 +1,44 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>LuraDocument Format bitmap</FileType>
+        <Ext>LDF</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>21</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>27</Day>
+        </Date>
+        <Time>
+            <Hour>11</Hour>
+            <Min>41</Min>
+            <Sec>47</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.02.6b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>49492A00080000000E000001040001000000</Bytes>
+            <ASCII> I I *</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000059302000400000074686D</Bytes>
+            <ASCII> . . . . . . . . . . t h m</ASCII>
+            <Pos>278</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>4D560008000000FF4454</Bytes>
+            <ASCII> M V . . . . . . D T</ASCII>
+            <Pos>469</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PAQ8JC compressed archive</FileType>
+		<Ext>PAQ8JC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/PAQ</RefURL>
+		</ExtraInfo>
+		<User>selepo</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>01</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>49</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>706171386A6320</Bytes>
+			<ASCII> p a q 8 j c   -</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Context Free design grammar</FileType>
+		<Ext>CFDG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ozonehouse.com/ContextFree/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>46</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>55</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7374617274736861706520</Bytes>
+			<ASCII> s t a r t s h a p e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RULE</String>
+	</GlobalStrings>
+</TrID>

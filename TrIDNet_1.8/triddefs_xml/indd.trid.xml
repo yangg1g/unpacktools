@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>InDesign Document</FileType>
+		<Ext>INDD</Ext>
+		<ExtraInfo>
+			<Rem>InDesign is a professional layout and design software.</Rem>
+			<RefURL>http://www.adobe.com/products/indesign/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>50</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>16</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0606EDF5D81D46E5BD31EFE7FE74B71D444F43554D454E54</Bytes>
+			<ASCII> . . . . . . F . . 1 . . . t . . D O C U M E N T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

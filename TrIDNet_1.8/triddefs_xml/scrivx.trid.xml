@@ -1,0 +1,89 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Scrivener XML Document</FileType>
+		<Ext>SCRIVX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Scrivener_(software)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>0</Hour>
+			<Min>16</Min>
+			<Sec>0</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0A3C5363726976656E657250726F6A65637420</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ? . . . S c r i v e n e r P r o j e c t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PRINTSETTINGS PAPER</String>
+		<String>NOTESTEXTSELECTION</String>
+		<String>INCLUDEINCOMPILE</String>
+		<String>SCRIVENERPROJECT</String>
+		<String>COLLECTION TYPE</String>
+		<String>DEFAULTSTATUSID</String>
+		<String>DEFAULTLABELID</String>
+		<String>RESEARCHFOLDER</String>
+		<String>SEARCH RESULTS</String>
+		<String>STATUSSETTINGS</String>
+		<String>BINDERITEM ID</String>
+		<String>FILEEXTENSION</String>
+		<String>LABELSETTINGS</String>
+		<String>MEDIASETTINGS</String>
+		<String>REVISED DRAFT</String>
+		<String>BOTTOMMARGIN</String>
+		<String>RECENTSEARCH</String>
+		<String>TEXTSETTINGS</String>
+		<String>COLLECTIONS</String>
+		<String>DRAFTFOLDER</String>
+		<String>FINAL DRAFT</String>
+		<String>FIRST DRAFT</String>
+		<String>ORIENTATION</String>
+		<String>RIGHTMARGIN</String>
+		<String>STATUSITEMS</String>
+		<String>TARGET TYPE</String>
+		<String>TRASHFOLDER</String>
+		<String>XML VERSION</String>
+		<String>LEFTMARGIN</String>
+		<String>NO STATUS</String>
+		<String>PAPERTYPE</String>
+		<String>STATUS ID</String>
+		<String>TOPMARGIN</String>
+		<String>CHILDREN</String>
+		<String>COLLATES</String>
+		<String>ENCODING</String>
+		<String>LABEL ID</String>
+		<String>METADATA</String>
+		<String>MODIFIED</String>
+		<String>NO LABEL</String>
+		<String>PORTRAIT</String>
+		<String>CONCEPT</String>
+		<String>CREATED</String>
+		<String>CURRENT</String>
+		<String>TITLE</String>
+		<String>TO DO</String>
+		<String>UTF-8</String>
+		<String>WORDS</String>
+		<String>DONE</String>
+		<String>PAGE</String>
+		<String>TIVE</String>
+		<String>UNTI</String>
+	</GlobalStrings>
+</TrID>

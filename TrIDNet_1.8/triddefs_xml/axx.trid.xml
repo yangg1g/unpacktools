@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AxCrypt encrypted</FileType>
+		<Ext>AXX</Ext>
+		<ExtraInfo>
+			<Rem>AxCrypt is free and easy to use open source strong file encryption for Windows 95/98/ME/NT/2K/XP, integrated with Windows Explorer.</Rem>
+			<RefURL>http://axcrypt.sourceforge.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>31</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>C0B9072E4F93F146A015792CA1D9E8211500000002</Bytes>
+			<ASCII> . . . . O . . F . . y , . . . !</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

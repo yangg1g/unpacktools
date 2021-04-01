@@ -1,0 +1,35 @@
+<TrID ver="1.16">
+	<Info>
+		<FileType>Jrchive compressed archive</FileType>
+		<Ext>JRC</Ext>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2003</Year>
+			<Month>07</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>41</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.00.1</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4A526368697665</Bytes>
+			<ASCII> J R c h i v e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>004A5263686976652E636174</Bytes>
+			<ASCII> . J R c h i v e . c a t</ASCII>
+			<Pos>21</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

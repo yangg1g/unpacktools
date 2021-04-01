@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>gBurner Project</FileType>
+		<Ext>GBP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.gburner.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>1</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>49</Min>
+			<Sec>8</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50524A000000000000000000000000006C000000</Bytes>
+			<ASCII> P R J . . . . . . . . . . . . . l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

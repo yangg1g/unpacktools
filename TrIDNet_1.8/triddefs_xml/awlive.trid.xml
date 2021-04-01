@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Active WebCam live capture</FileType>
+		<Ext>AWLIVE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pysoft.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>24</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0B5059534F46542E434F4D20</Bytes>
+			<ASCII> . P Y S O F T . C O M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4A464946</Bytes>
+			<ASCII> J F I F</ASCII>
+			<Pos>76</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

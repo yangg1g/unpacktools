@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OffsetFinderTemplate>
+  <Header>
+    <FormatName>Xbox 360 - tri-Ace - Infinite Undiscovery/Star Ocean: The Last Hope WAVE/STRM Files</FormatName>
+    <Author>bxaimc</Author>
+  </Header>
+  <SearchParameters>
+    <SearchString>5741564500</SearchString>
+    <TreatSearchStringAsHex>true</TreatSearchStringAsHex>
+    <SearchStringOffset>0</SearchStringOffset>
+    <OutputFileExtension>.xma</OutputFileExtension>
+    <CutParameters>
+      <CutStyle>offset</CutStyle>
+      <CutSizeAtOffset>0x20</CutSizeAtOffset>
+      <CutSizeOffsetSize>4</CutSizeOffsetSize>
+      <CutSizeOffsetEndianess>big</CutSizeOffsetEndianess>      
+    </CutParameters>
+    <AddExtraBytes>true</AddExtraBytes>
+    <AddExtraByteSize>4096</AddExtraByteSize>    
+  </SearchParameters>
+</OffsetFinderTemplate>

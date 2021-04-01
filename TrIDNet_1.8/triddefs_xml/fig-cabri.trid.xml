@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Cabri figure</FileType>
+		<Ext>FIG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cabri.com/v2/pages/en/index.php</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>12</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>46</Bytes>
+			<ASCII> F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>204361627269</Bytes>
+			<ASCII>   C a b r i</ASCII>
+			<Pos>6</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WINDOW CENTER X</String>
+		<String>FIGURE CABRI</String>
+		<String>CONST</String>
+		<String>VERS.</String>
+		<String>AXES</String>
+	</GlobalStrings>
+</TrID>

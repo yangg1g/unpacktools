@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>StarOffice Drawing</FileType>
+		<Ext>SXD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/OpenDocument</RefURL>
+		</ExtraInfo>
+		<User>Ryan Jones</User>
+		<E-Mail>sciguyryan@gmail.com</E-Mail>
+		<Home>http://ccc-cymru.com/</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Refine>6 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>11</Min>
+			<Sec>8</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MIMETYPEAPPLICATION</String>
+		<String>VND.SUN.XML.DRAWPK</String>
+		<String>MANIFEST.XMLPK</String>
+		<String>SETTINGS.XMLPK</String>
+		<String>CONTENT.XMLPK</String>
+		<String>STYLES.XMLPK</String>
+		<String>META.XMLPK</String>
+		<String>MIMETYPEPK</String>
+		<String>META-INF</String>
+		<String>ERATOR</String>
+		<String>STAT</String>
+	</GlobalStrings>
+</TrID>

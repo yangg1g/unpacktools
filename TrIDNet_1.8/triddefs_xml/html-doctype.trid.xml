@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HyperText Markup Language with DOCTYPE</FileType>
+		<Ext>HTM/HTML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>134</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>02</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>11</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C21</Bytes>
+			<ASCII> . !</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>9</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCTYPE</String>
+		<String>PUBLIC</String>
+		<String>BODY</String>
+		<String>HTML</String>
+	</GlobalStrings>
+</TrID>

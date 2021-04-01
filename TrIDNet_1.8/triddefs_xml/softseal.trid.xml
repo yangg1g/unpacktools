@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sealed document - content (generic)</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem>Sealed content require a SealedMedia Unsealer-enabled application to be viewed.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Stellent</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>04</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>536F66745345414C20</Bytes>
+			<ASCII> S o f t S E A L</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

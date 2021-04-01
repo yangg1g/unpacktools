@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FileMaker Pro database</FileType>
+		<Ext>FP5</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>21</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>02</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>30</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0001000000020001000500020002C0</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20436F7079726967687420313938342D</Bytes>
+			<ASCII>   C o p y r i g h t   1 9 8 4 -</ASCII>
+			<Pos>474</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2046696C654D616B65722C20496E632E20000000000000000001001D000E004842414D323031364155473935C102480750726F20352E30</Bytes>
+			<ASCII>   F i l e M a k e r ,   I n c .   . . . . . . . . . . . . . . H B A M 2 0 1 6 A U G 9 5 . . H . P r o   5 . 0</ASCII>
+			<Pos>494</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

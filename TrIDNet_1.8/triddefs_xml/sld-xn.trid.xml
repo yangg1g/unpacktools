@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XnView Slideshow Data</FileType>
+		<Ext>SLD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.xnview.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>02</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>53</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2320536C6964652053686F772053657175656E63650D0A</Bytes>
+			<ASCII> #   S l i d e   S h o w   S e q u e n c e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

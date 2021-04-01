@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Win 3.x Installed TrueType Font</FileType>
+		<Ext>FOT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>14</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A</Bytes>
+			<ASCII> M Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54686973206973206120547275655479706520666F6E742C206E6F7420612070726F6772616D2E</Bytes>
+			<ASCII> T h i s   i s   a   T r u e T y p e   f o n t ,   n o t   a   p r o g r a m</ASCII>
+			<Pos>78</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4E45</Bytes>
+			<ASCII> N E</ASCII>
+			<Pos>128</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>464F4E54444952</Bytes>
+			<ASCII> F O N T D I R</ASCII>
+			<Pos>237</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>57696E646F7773212057696E646F7773212057696E646F777321</Bytes>
+			<ASCII> W i n d o w s !   W i n d o w s !   W i n d o w s !</ASCII>
+			<Pos>1162</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

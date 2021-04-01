@@ -1,0 +1,244 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PCB Document</FileType>
+		<Ext>PCBDOC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>31</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>05</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E007400720079</Bytes>
+			<ASCII> R . o . o . t .   . E . n . t . r . y</ASCII>
+			<Pos>1024</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>460069006C0065004800650061006400650072</Bytes>
+			<ASCII> F . i . l . e . H . e . a . d . e . r</ASCII>
+			<Pos>1152</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>D'E'S'I'G'N' 'R'U'L'E' 'C'H'E'C'K'E'R' 'O'P'T'I'O'N'S</String>
+		<String>A'D'V'A'N'C'E'D' 'P'L'A'C'E'R' 'O'P'T'I'O'N'S</String>
+		<String>DESIGNRULECHECKEROPTIONS</String>
+		<String>TESTPOINTUNDERCOMPONENT</String>
+		<String>EXTERNALNETLISTFILENAME</String>
+		<String>LAYERPAIR0DRILLDRAWING</String>
+		<String>ELECTRICALGRIDENABLED</String>
+		<String>ADVANCEDPLACEROPTIONS</String>
+		<String>INTERNALPLANEWARNINGS</String>
+		<String>PLACEUSEADVANCEDPLACE</String>
+		<String>C'O'O'R'D'I'N'A'T'E'S</String>
+		<String>C'O'N'N'E'C'T'I'O'N'S</String>
+		<String>ONLINERULESETTOCHECK</String>
+		<String>CHECKEXTERNALNETLIST</String>
+		<String>RELIEFCONDUCTORWIDTH</String>
+		<String>LAYERPAIR0DRILLGUIDE</String>
+		<String>SHOWBOTTOMDIELECTRIC</String>
+		<String>V'I'O'L'A'T'I'O'N'S</String>
+		<String>PROTEL_ADVANCED_PCB</String>
+		<String>C'O'M'P'O'N'E'N'T'S</String>
+		<String>SOLDERMASKEXPANSION</String>
+		<String>ELECTRICALGRIDRANGE</String>
+		<String>PCB 5.0 BINARY FILE</String>
+		<String>D'I'M'E'N'S'I'O'N'S</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>F'I'L'E'H'E'A'D'E'R</String>
+		<String>COLLISIONCHECKMODE</String>
+		<String>POLYGONRELIEFANGLE</String>
+		<String>LAYER1DIELMATERIAL</String>
+		<String>PASTEMASKEXPANSION</String>
+		<String>COMPONENTGRIDSIZEY</String>
+		<String>COMPONENTCLEARANCE</String>
+		<String>COMPONENTGRIDSIZEX</String>
+		<String>DOMAKEDRCERRORLIST</String>
+		<String>BIGVISIBLEGRIDSIZE</String>
+		<String>ELECTRICAL LAYERS</String>
+		<String>LAYER1MECHENABLED</String>
+		<String>SHOWTOPDIELECTRIC</String>
+		<String>LAYER1SHEETLINKED</String>
+		<String>MAXVIOLATIONCOUNT</String>
+		<String>E'M'B'E'D'D'E'D'S</String>
+		<String>PLACEUSELAYERSWAP</String>
+		<String>PLACEUSEROTATION</String>
+		<String>PLACEUSEGROUPING</String>
+		<String>LAYER1DIELHEIGHT</String>
+		<String>SCOPE2EXPRESSION</String>
+		<String>COMPONENT LAYERS</String>
+		<String>PREFEREDHOLESIZE</String>
+		<String>SCOPE1EXPRESSION</String>
+		<String>PLACEBYPASSNET1</String>
+		<String>ROUTINGPRIORITY</String>
+		<String>RELIEFEXPANSION</String>
+		<String>DOSUBNETDETAILS</String>
+		<String>LAYER1DIELCONST</String>
+		<String>PLACELARGECLEAR</String>
+		<String>P'O'L'Y'G'O'N'S</String>
+		<String>ROUTINGTOPOLOGY</String>
+		<String>LAYERSTACKSTYLE</String>
+		<String>PLACESMALLCLEAR</String>
+		<String>BOTTOMMATERIAL</String>
+		<String>ROUTINGCORNERS</String>
+		<String>POLYGONCONNECT</String>
+		<String>LAYER1DIELTYPE</String>
+		<String>ALL COMPONENTS</String>
+		<String>LAYERPAIR0HIGH</String>
+		<String>REPORTFILENAME</String>
+		<String>LAYER1COPTHICK</String>
+		<String>ABSOLUTEVALUES</String>
+		<String>TESTPOINTUSAGE</String>
+		<String>PLANE1PULLBACK</String>
+		<String>PLANECLEARANCE</String>
+		<String>POLYGONOUTLINE</String>
+		<String>F'R'O'M'T'O'S</String>
+		<String>PRIMITIVELOCK</String>
+		<String>PLANE1NETNAME</String>
+		<String>SNAPGRIDSIZEY</String>
+		<String>SOLDER RESIST</String>
+		<String>ALLOWMULTIPLE</String>
+		<String>RELIEFENTRIES</String>
+		<String>SIGNAL LAYERS</String>
+		<String>SNAPGRIDSIZEX</String>
+		<String>DIFFERENTNETS</String>
+		<String>TESTPOINTGRID</String>
+		<String>PREFEREDWIDTH</String>
+		<String>ROUTINGLAYERS</String>
+		<String>TRACKGRIDSIZE</String>
+		<String>C'L'A'S'S'E'S</String>
+		<String>MINPRIMLENGTH</String>
+		<String>PLACEMARKERX1</String>
+		<String>DOMAKEDRCFILE</String>
+		<String>LAYERPAIR0LOW</String>
+		<String>PREFEREDSIZE</String>
+		<String>MINHOLEWIDTH</String>
+		<String>ALL FROM-TOS</String>
+		<String>BOTTOM LAYER</String>
+		<String>MAXHOLEWIDTH</String>
+		<String>SHORTCIRCUIT</String>
+		<String>BOTTOMHEIGHT</String>
+		<String>PLANECONNECT</String>
+		<String>RELIEFAIRGAP</String>
+		<String>PLACEMARKERY</String>
+		<String>CONNECTSTYLE</String>
+		<String>TOGGLELAYERS</String>
+		<String>THROUGH HOLE</String>
+		<String>VIAGRIDSIZE</String>
+		<String>SHEETHEIGHT</String>
+		<String>POLYGONTYPE</String>
+		<String>ROUTINGVIAS</String>
+		<String>DISPLAYUNIT</String>
+		<String>MAXHOLESIZE</String>
+		<String>MINHOLESIZE</String>
+		<String>CORNERSTYLE</String>
+		<String>BOTTOMLAYER</String>
+		<String>BOTTOMCONST</String>
+		<String>UNROUTEDNET</String>
+		<String>T'R'A'C'K'S</String>
+		<String>TOPMATERIAL</String>
+		<String>USEOCTAGONS</String>
+		<String>MECHANICAL</String>
+		<String>MAXSETBACK</String>
+		<String>SHEETWIDTH</String>
+		<String>DESIGNATOR</String>
+		<String>MULTILAYER</String>
+		<String>MINSETBACK</String>
+		<String>REMOVEDEAD</String>
+		<String>MINPERCENT</String>
+		<String>HATCHSTYLE</String>
+		<String>LAYERPAIRS</String>
+		<String>MAXPERCENT</String>
+		<String>TRACKWIDTH</String>
+		<String>LAYER1NAME</String>
+		<String>LAYER1NEXT</String>
+		<String>ALL LAYERS</String>
+		<String>BOTTOMTYPE</String>
+		<String>SUPERCLASS</String>
+		<String>USERROUTED</String>
+		<String>LAYER1PREV</String>
+		<String>BACKGROUND</String>
+		<String>T'E'X'T'S</String>
+		<String>SHOWSHEET</String>
+		<String>MID LAYER</String>
+		<String>TOPHEIGHT</String>
+		<String>SAMELAYER</String>
+		<String>SELECTION</String>
+		<String>LAYERKIND</String>
+		<String>TOP LAYER</String>
+		<String>B'O'A'R'D</String>
+		<String>MIDLAYER1</String>
+		<String>LOCKSHEET</String>
+		<String>R'U'L'E'S</String>
+		<String>F'I'L'L'S</String>
+		<String>SELECTED</String>
+		<String>MINWIDTH</String>
+		<String>NETSCOPE</String>
+		<String>VERTICAL</String>
+		<String>90 ANGLE</String>
+		<String>ALL NETS</String>
+		<String>MAXLIMIT</String>
+		<String>UNIQUEID</String>
+		<String>VIASTYLE</String>
+		<String>ALL PADS</String>
+		<String>TOPCONST</String>
+		<String>TOPLAYER</String>
+		<String>MAXWIDTH</String>
+		<String>RULEKIND</String>
+		<String>MINLIMIT</String>
+		<String>(NO NET)</String>
+		<String>POUROVER</String>
+		<String>UNKNOWN</String>
+		<String>D'A'T'A</String>
+		<String>P'A'D'S</String>
+		<String>COMMENT</String>
+		<String>TOPTYPE</String>
+		<String>ENFORCE</String>
+		<String>A'R'C'S</String>
+		<String>VERSION</String>
+		<String>DEFAULT</String>
+		<String>DOTGRID</String>
+		<String>MAXSIZE</String>
+		<String>ALLOWED</String>
+		<String>OVERLAY</String>
+		<String>ORIGINX</String>
+		<String>N'E'T'S</String>
+		<String>MINSIZE</String>
+		<String>ORIGINY</String>
+		<String>LOCKED</String>
+		<String>RECORD</String>
+		<String>SHEETX</String>
+		<String>SHEETY</String>
+		<String>ORDER</String>
+		<String>BOARD</String>
+		<String>VALID</String>
+		<String>SIDE</String>
+		<String>NONE</String>
+		<String>TIME</String>
+		<String>KEEP</String>
+		<String>DATE</String>
+		<String>AUTO</String>
+	</GlobalStrings>
+</TrID>

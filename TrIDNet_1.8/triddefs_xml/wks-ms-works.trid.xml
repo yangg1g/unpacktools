@@ -1,0 +1,94 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Works spreadsheet</FileType>
+		<Ext>WKS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>10</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FF000200040405540200</Bytes>
+			<ASCII> . . . . . . . T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2654020000000600080000000000</Bytes>
+			<ASCII> . T</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>27</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>02000100FF0300010000625416000000000000000000000003000500</Bytes>
+			<ASCII> . . . . . . . . . . b T</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000040001000005000100FF01540C000000</Bytes>
+			<ASCII> . . . . . . . . . . . . . T</ASCII>
+			<Pos>64</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000565426000000</Bytes>
+			<ASCII> . . V T</ASCII>
+			<Pos>90</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00040001000005000100FF01540C000000</Bytes>
+			<ASCII> . . . . . . . . . . . . T</ASCII>
+			<Pos>113</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0056542600</Bytes>
+			<ASCII> . V T</ASCII>
+			<Pos>133</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00040001000005000100FF01540C0000002000</Bytes>
+			<ASCII> . . . . . . . . . . . . T</ASCII>
+			<Pos>155</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0056542600</Bytes>
+			<ASCII> . V T</ASCII>
+			<Pos>175</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00040001000005000100FF01540C000000</Bytes>
+			<ASCII> . . . . . . . . . . . . T</ASCII>
+			<Pos>197</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0056542600</Bytes>
+			<ASCII> . V T</ASCII>
+			<Pos>217</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00040001000005000100FF01540C000000</Bytes>
+			<ASCII> . . . . . . . . . . . . T</ASCII>
+			<Pos>239</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

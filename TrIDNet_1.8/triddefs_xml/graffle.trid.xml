@@ -1,0 +1,91 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OmniGraffle Drawing</FileType>
+		<Ext>GRAFFLE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/OmniGraffle</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>27</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>2</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>35</Min>
+			<Sec>2</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0A3C21444F435459504520706C69737420</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ? . . . ! D O C T Y P E   p l i s t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GRAPHDOCUMENTVERSION</String>
+		<String>COLUMNSPACING</String>
+		<String>DOCTYPE PLIST</String>
+		<String>PLIST VERSION</String>
+		<String>SHAPEDGRAPHIC</String>
+		<String>VISIBLEREGION</String>
+		<String>GRAPHICSLIST</String>
+		<String>IMAGECOUNTER</String>
+		<String>PROPERTYLIST</String>
+		<String>COLUMNALIGN</String>
+		<String>XML VERSION</String>
+		<String>LAYOUTINFO</String>
+		<String>PAGEBREAKS</String>
+		<String>ROWSPACING</String>
+		<String>WINDOWINFO</String>
+		<String>RECTANGLE</String>
+		<String>ANSICPG1</String>
+		<String>COCOARTF</String>
+		<String>COLORTBL</String>
+		<String>ENCODING</String>
+		<String>FCHARSET</String>
+		<String>GREEN255</String>
+		<String>GRIDINFO</String>
+		<String>ROWALIGN</String>
+		<String>FONTTBL</String>
+		<String>INTEGER</String>
+		<String>MAGNETS</String>
+		<String>BOUNDS</String>
+		<String>CANVAS</String>
+		<String>HPAGES</String>
+		<String>LAYERS</String>
+		<String>STRING</String>
+		<String>STROKE</String>
+		<String>VPAGES</String>
+		<String>ARRAY</String>
+		<String>CLASS</String>
+		<String>FRAME</String>
+		<String>PRINT</String>
+		<String>STYLE</String>
+		<String>UTF-8</String>
+		<String>WIDTH</String>
+		<String>.DTD</String>
+		<String>DICT</String>
+		<String>DRAW</String>
+		<String>DTDS</String>
+		<String>HADO</String>
+		<String>LOCK</String>
+		<String>NAME</String>
+		<String>PARD</String>
+		<String>REAL</String>
+		<String>RTF1</String>
+		<String>TEXT</String>
+		<String>VIEW</String>
+		<String>ZOOM</String>
+	</GlobalStrings>
+</TrID>

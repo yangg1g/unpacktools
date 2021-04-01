@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Kodak FlashPix bitmap</FileType>
+		<Ext>FPX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://wwwde.kodak.com/US/en/developers/productsTechnologies/prodTechFlashPix.shtml</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>84</FileNum>
+		<Refine>30 by Marco Pontello - 5 by Paresh Modi</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>39</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100000000000000000000000000000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		</FrontBlock>
+	<GlobalStrings>
+		<String>D'A'T'A' 'O'B'J'E'C'T' 'S'T'O'R'E' '0'0'0'0'0'1'''''''''''''''''2</String>
+		<String>S'U'B'I'M'A'G'E' '0'0'0'0' 'H'E'A'D'E'R'''''''''''''''''''''''''*</String>
+		<String>D'A'T'A' 'O'B'J'E'C'T' '0'0'0'0'0'1'''''''''''''''''''''''''''(</String>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N'''''''''''''''''''''''''''(</String>
+		<String>{56616000-C154-11CE-8553-00AA00A1F95B}</String>
+		<String>{56616700-C154-11CE-8553-00AA00A1F95B}</String>
+		<String>S'U'B'I'M'A'G'E' '0'0'0'0' 'D'A'T'A</String>
+		<String>R'E'S'O'L'U'T'I'O'N' '0'0'0'0</String>
+		<String>I'M'A'G'E' 'C'O'N'T'E'N'T'S</String>
+		<String>G'L'O'B'A'L' 'I'N'F'O</String>
+		<String>(''')'''*'''+</String>
+		<String>C'O'M'P'O'B'J</String>
+		<String>$'''%</String>
+		<String>-'''.</String>
+		<String>F'I'L</String>
+		<String>AAVT</String>
+		<String>DAVT</String>
+		<String>GAVT</String>
+		<String>OAVT</String>
+	</GlobalStrings>
+</TrID>

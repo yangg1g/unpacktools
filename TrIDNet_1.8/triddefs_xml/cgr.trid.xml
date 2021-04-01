@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Quest3D data</FileType>
+		<Ext>CGR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>49</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>41435446</Bytes>
+			<ASCII> A C T F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5A494F53</Bytes>
+			<ASCII> Z I O S</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5A494E53</Bytes>
+			<ASCII> Z I N S</ASCII>
+			<Pos>36</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5A494342</Bytes>
+			<ASCII> Z I C B</ASCII>
+			<Pos>48</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ACTF</String>
+		<String>ZICB</String>
+		<String>ZINS</String>
+		<String>ZIOS</String>
+	</GlobalStrings>
+</TrID>

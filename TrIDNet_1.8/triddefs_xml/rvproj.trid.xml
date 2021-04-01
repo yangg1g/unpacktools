@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RPG Maker VX Project</FileType>
+		<Ext>RVPROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.rpgmakerweb.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2014</Year>
+			<Month>2</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>5</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>525047565820312E</Bytes>
+			<ASCII> R P G V X   1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

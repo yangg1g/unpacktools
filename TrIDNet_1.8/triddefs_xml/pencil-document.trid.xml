@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Pencil project</FileType>
+		<Ext>PCL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://pencil-animation.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>6 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>10</Month>
+			<Day>9</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>32</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C21444F43545950452050656E63696C446F63756D656E743E</Bytes>
+			<ASCII> . ! D O C T Y P E   P e n c i l D o c u m e n t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCTYPE PENCILDOCUMENT</String>
+		<String>CURRENTFRAME VALUE</String>
+		<String>CURRENTLAYER VALUE</String>
+		<String>LAYER VISIBILITY</String>
+		<String>CURRENTVIEW DX</String>
+		<String>IMAGE TOPLEFTX</String>
+		<String>TOPLEFTY</String>
+		<String>EDITOR</String>
+		<String>OBJECT</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Deep Freezer compressed archive</FileType>
+        <Ext>YZ1</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://member.nifty.ne.jp/yamazaki/DeepFreezerEng/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>3</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>17</Day>
+        </Date>
+        <Time>
+            <Hour>18</Hour>
+            <Min>19</Min>
+            <Sec>32</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>797A</Bytes>
+            <ASCII> y z</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Infinity Engine spell casting fx (v1.0)</FileType>
+        <Ext>VVC</Ext>
+        <ExtraInfo>
+            <Rem>Def hand-built using info from the related URL</Rem>
+            <RefURL>http://www.teambg.com/iesdp/FilesFormats/VVCformat.htm</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>2</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>09</Month>
+            <Day>26</Day>
+        </Date>
+        <Time>
+            <Hour>22</Hour>
+            <Min>30</Min>
+            <Sec>13</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>5656432056312E30</Bytes>
+            <ASCII> V V C   V 1 . 0</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

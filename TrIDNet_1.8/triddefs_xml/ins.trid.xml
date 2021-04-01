@@ -1,0 +1,64 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>InstallShield Script</FileType>
+		<Ext>INS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/InstallShield</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>07</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>25</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>B8C90C00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BATCH_INSTALL</String>
+		<String>HINST_INSTALL</String>
+		<String>ERRORFILENAME</String>
+		<String>INFOFILENAME</String>
+		<String>LAST_RESULT</String>
+		<String>SUPPORTDIR</String>
+		<String>TARGETDISK</String>
+		<String>WINSYSDISK</String>
+		<String>TARGETDIR</String>
+		<String>LOGHANDLE</String>
+		<String>ISVERSION</String>
+		<String>WINSYSDIR</String>
+		<String>CMDVALUE</String>
+		<String>CMDLINE</String>
+		<String>PROGRAM</String>
+		<String>WINDISK</String>
+		<String>SRCDISK</String>
+		<String>WINDIR</String>
+		<String>SRCDIR</String>
+		<String>SHARED</String>
+		<String>UNINST</String>
+		<String>FOLDER</String>
+		<String>SYSTEM</String>
+		<String>FILES</String>
+		<String>USER</String>
+		<String>COMM</String>
+		<String>MODE</String>
+	</GlobalStrings>
+</TrID>

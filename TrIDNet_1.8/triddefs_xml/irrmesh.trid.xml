@@ -1,0 +1,70 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Irrlicht static Mesh</FileType>
+		<Ext>IRRMESH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Irrlicht_Engine</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>8</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E30223F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>IRRLICHT.SOURCEFORGE.NET</String>
+		<String>TEXTURE_CLAMP_REPEAT</String>
+		<String>INDICES INDEXCOUNT</String>
+		<String>NORMALIZENORMALS</String>
+		<String>BACKFACECULLING</String>
+		<String>BILINEARFILTER</String>
+		<String>GOURAUDSHADING</String>
+		<String>TRILINEARFILTE</String>
+		<String>VERTICES TYPE</String>
+		<String>TEXTURE NAME</String>
+		<String>ZWRITEENABLE</String>
+		<String>TEXTUREWRAP</String>
+		<String>VERTEXCOUNT</String>
+		<String>XML VERSION</String>
+		<String>COLOR NAME</String>
+		<String>MESH XMLNS</String>
+		<String>BOOL NAME</String>
+		<String>ENUM NAME</String>
+		<String>FLOAT NAM</String>
+		<String>SHININESS</String>
+		<String>EMISSIVE</String>
+		<String>INT NAME</String>
+		<String>LIGHTING</String>
+		<String>MATERIAL</String>
+		<String>SPECULAR</String>
+		<String>AMBIENT</String>
+		<String>DIFFUSE</String>
+		<String>IRRMESH</String>
+		<String>ZBUFFER</String>
+		<String>FALSE</String>
+		<String>VALUE</String>
+		<String>HTTP</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ABIF - Applied Biosystems Inc. Format</FileType>
+		<Ext>AB1/FSA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>03</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>30</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>41424946</Bytes>
+			<ASCII> A B I F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>74646972</Bytes>
+			<ASCII> t d i r</ASCII>
+			<Pos>6</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DATA</String>
+		<String>EVNT</String>
+		<String>LANE</String>
+		<String>MCHN</String>
+		<String>RUND</String>
+		<String>RUNT</String>
+		<String>SVER</String>
+		<String>MODL</String>
+	</GlobalStrings>
+</TrID>

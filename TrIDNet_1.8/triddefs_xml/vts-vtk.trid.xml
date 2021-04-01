@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ParaView VTK Structured grid</FileType>
+		<Ext>VTS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/VTK</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>49</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E30223F3E0A3C56544B46696C6520747970653D225374727563747572656447726964222076657273696F6E3D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 " ? . . . V T K F i l e   t y p e = " S t r u c t u r e d G r i d "   v e r s i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>STRUCTUREDGRID WHOLEEXTENT</String>
+		<String>VTKZLIBDATACOMPRESSOR</String>
+		<String>APPENDEDDATA ENCODING</String>
+		<String>NUMBEROFCOMPONENTS</String>
+		<String>POINTDATA SCALARS</String>
+		<String>STAGNATIONENERGY</String>
+		<String>DATAARRAY TYPE</String>
+		<String>PIECE EXTENT</String>
+		<String>VTKFILE TYPE</String>
+		<String>XML VERSION</String>
+		<String>BYTE_ORDER</String>
+		<String>MOMENTUM</String>
+		<String>CELLDATA</String>
+		<String>VECTORS</String>
+		<String>DENSITY</String>
+		<String>BASE64</String>
+		<String>POINTS</String>
+		<String>ENDIAN</String>
+		<String>OFFSET</String>
+		<String>FORMAT</String>
+		<String>FLOAT</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

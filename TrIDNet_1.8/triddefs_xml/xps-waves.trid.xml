@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Waves Preset</FileType>
+		<Ext>XPS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.waves.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>45</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C507265736574584D4C547265652076657273696F6E3D2232223E</Bytes>
+			<ASCII> . P r e s e t X M L T r e e   v e r s i o n = " 2 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PRESETXMLTREE VERSION</String>
+		<String>PRESETDATA SETUP</String>
+		<String>PARAMETERS TYPE</String>
+		<String>PLUGINVERSION</String>
+		<String>PRESETHEADER</String>
+		<String>GENERICTYPE</String>
+		<String>PRESET NAME</String>
+		<String>PLUGINNAME</String>
+		<String>REALWORLD</String>
+		<String>READONLY</String>
+		<String>* * * *</String>
+		<String>CURRENT</String>
+		<String>000000</String>
+		<String>FALSE</String>
+		<String>9999</String>
+	</GlobalStrings>
+</TrID>

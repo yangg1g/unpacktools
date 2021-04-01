@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Lotus Organizer Report</FileType>
+		<Ext>REP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.lotus.com/products/organizer5.nsf</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>36</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2003</Year>
+			<Month>11</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>25</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.50</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0928901B</Bytes>
+			<ASCII> . (</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0001005265706F72746572002020202020202020202020202020202020202020202020</Bytes>
+			<ASCII> . . . R e p o r t e r</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>Reporter</String>
+	</GlobalStrings>
+</TrID>

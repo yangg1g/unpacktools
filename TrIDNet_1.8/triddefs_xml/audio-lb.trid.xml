@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Low Bitrate Packer compressed audio</FileType>
+        <Ext>LB</Ext>
+        <ExtraInfo>
+            <Rem>By Dmitrij V. Shmunk</Rem>
+            <RefURL>http://www.rjamorim.com/rrw/lbpack.html</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>5</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>12</Month>
+            <Day>11</Day>
+        </Date>
+        <Time>
+            <Hour>14</Hour>
+            <Min>28</Min>
+            <Sec>39</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>52494646</Bytes>
+            <ASCII> R I F F</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>004C426974666D74200C000000</Bytes>
+            <ASCII> . L B i t f m t</ASCII>
+            <Pos>7</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>000066696C65</Bytes>
+            <ASCII> . . f i l e</ASCII>
+            <Pos>30</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>LBST</String>
+    </GlobalStrings>
+</TrID>

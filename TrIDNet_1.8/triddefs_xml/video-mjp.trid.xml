@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VTech MJP video</FileType>
+		<Ext>MJP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://wiki.multimedia.cx/index.php?title=MJP</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>46</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D494156</Bytes>
+			<ASCII> M I A V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>05</Bytes>
+			<Pos>22</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

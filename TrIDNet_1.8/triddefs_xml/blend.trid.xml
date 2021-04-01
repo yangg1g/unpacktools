@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Blender 3D data</FileType>
+		<Ext>BLEND</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.blender.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<Refine>11 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>58</Min>
+			<Sec>4</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>424C454E444552</Bytes>
+			<ASCII> B L E N D E R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52454E44</Bytes>
+			<ASCII> R E N D</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CriticalSeeker Picture Packet</FileType>
+		<Ext>DSL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.qkiz.com/critical-seeker/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>23</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>437269746963616C5365656B65722050696374757265205061636B65742046696C65</Bytes>
+			<ASCII> C r i t i c a l S e e k e r   P i c t u r e   P a c k e t   F i l e</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CRITICALSEEKER PICTURE PACKET FILE</String>
+	</GlobalStrings>
+</TrID>

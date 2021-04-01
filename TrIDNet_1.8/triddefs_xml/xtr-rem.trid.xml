@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XTrkCAD demo (with rem)</FileType>
+		<Ext>XTR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.xtrkcad.org</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>29</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>18</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23205854726B4361642056657273696F6E3A20</Bytes>
+			<ASCII> #   X T r k C a d   V e r s i o n :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>XTRKCAD VERSION</String>
+		<String>DEMOINIT</String>
+		<String>MESSAGE</String>
+		<String>REDRAW</String>
+		<String>CLEAR</String>
+		<String>RESET</String>
+		<String>STEP</String>
+		<String>DATE</String>
+		<String>ORIG</String>
+	</GlobalStrings>
+</TrID>

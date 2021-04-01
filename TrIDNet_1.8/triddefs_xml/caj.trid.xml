@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CAJ database</FileType>
+		<Ext>CAJ</Ext>
+		<ExtraInfo>
+			<Rem>Format used by China Academic Journals Full-text Database.</Rem>
+			<RefURL>http://china.eastview.com/kns50/single_index.aspx</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>11</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>00</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>C800000000000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>9</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>14</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

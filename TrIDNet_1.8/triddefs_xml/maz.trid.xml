@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Hover! maze data</FileType>
+		<Ext>MAZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Hover!</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>13</Min>
+			<Sec>4</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>2</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>4</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FFFF01000D00434D65726C696E537461746963</Bytes>
+			<ASCII> . . . . . . C M e r l i n S t a t i c</ASCII>
+			<Pos>10</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CMERLINLOCATION</String>
+		<String>CMERLINSTATIC</String>
+		<String>CMERLINBSP</String>
+		<String>HUMAN_00</String>
+		<String>CBASE</String>
+		<String>FBASE</String>
+	</GlobalStrings>
+</TrID>

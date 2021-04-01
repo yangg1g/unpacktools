@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Print Shop graphic</FileType>
+		<Ext>PDS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.broderbund.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>40</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>54</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>79A60000494949493800</Bytes>
+			<ASCII> y . . . I I I I 8</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>35445350434F4452</Bytes>
+			<ASCII> 5 D S P C O D R</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>424D</Bytes>
+			<ASCII> B M</ASCII>
+			<Pos>208</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>*CODC</String>
+		<String>*TDWV</String>
+		<String>DKBC</String>
+		<String>LNAP</String>
+		<String>NBMT</String>
+		<String>PMOC</String>
+		<String>SIGN</String>
+		<String>SREV</String>
+		<String>WEIV</String>
+		<String>XERP</String>
+		<String>PTCD</String>
+	</GlobalStrings>
+</TrID>

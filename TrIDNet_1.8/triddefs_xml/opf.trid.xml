@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+	<Info>
+		<FileType>Obsidium Project File</FileType>
+		<Ext>OPF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.obsidium.de/</RefURL>
+		</ExtraInfo>
+		<User>.Cryorb</User>
+		<E-Mail>vy@nospam@tut.by</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2003</Year>
+			<Month>11</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>48</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.23</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4F50460064000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000</Bytes>
+			<ASCII> O P F . d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

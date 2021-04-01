@@ -1,0 +1,80 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Xilinx ISE Project</FileType>
+		<Ext>XISE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Xilinx_ISE</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>8</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>47</Min>
+			<Sec>7</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>--                                                                   --</String>
+		<String>-- IMPLEMENT IN ISE PROJECT NAVIGATOR.                               --</String>
+		<String>-- ISE SOURCE PROJECT FILE CREATED BY PROJECT NAVIGATOR.             --</String>
+		<String>-- THIS FILE CONTAINS PROJECT SOURCE INFORMATION INCLUDING A LIST OF --</String>
+		<String>PROJECT AND PROCESS PROPERTIES.  THIS FILE</String>
+		<String>-- ALONG WITH THE PROJECT SOURCE FILES</String>
+		<String>IMPLEMENTATION TOP INSTANCE PATH</String>
+		<String>IS SUFFICIENT TO OPEN AND    --</String>
+		<String>INC.  ALL RIGHTS RESERVED. --</String>
+		<String>-- COPYRIGHT (C) 1995-20</String>
+		<String>-- PROJECT SOURCE FILES</String>
+		<String>TOP-LEVEL SOURCE TYPE</String>
+		<String>BEHAVIORALSIMULATION</String>
+		<String>ASSOCIATION XIL_PN</String>
+		<String>PREFERRED LANGUAGE</String>
+		<String>PROPERTY XIL_PN</String>
+		<String>PROP_DESIGNNAME</String>
+		<String>SCHEMA_VERSION</String>
+		<String>SYNTHESIS TOOL</String>
+		<String>VERSION XIL_PN</String>
+		<String>WWW.XILINX.COM</String>
+		<String>DEVICE FAMILY</String>
+		<String>PROJECT XMLNS</String>
+		<String>FILE XIL_PN</String>
+		<String>ISE_VERSION</String>
+		<String>SPEED GRADE</String>
+		<String>XML VERSION</String>
+		<String>STANDALONE</String>
+		<String>LIBRARIES</String>
+		<String>SIMULATOR</String>
+		<String>XMLSCHEMA</String>
+		<String>XST (VHDL</String>
+		<String>BINDINGS</String>
+		<String>ENCODING</String>
+		<String>VERILOG)</String>
+		<String>PACKAGE</String>
+		<String>FILE_V</String>
+		<String>HEADER</String>
+		<String>MODULE</String>
+		<String>FALSE</String>
+		<String>MATIC</String>
+		<String>VALUE</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

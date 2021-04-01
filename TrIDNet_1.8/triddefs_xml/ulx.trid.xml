@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Glulx Game</FileType>
+		<Ext>ULX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Glulx</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2014</Year>
+			<Month>2</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>19</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>476C756C</Bytes>
+			<ASCII> G l u l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CLIMB</String>
+		<String>DESC</String>
+		<String>DOWN</String>
+		<String>EXIT</String>
+		<String>GLUL</String>
+		<String>LOCK</String>
+		<String>LOSE</String>
+		<String>OVER</String>
+		<String>TURN</String>
+	</GlobalStrings>
+</TrID>

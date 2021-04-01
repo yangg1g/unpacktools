@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Phoenix Visual Designer project</FileType>
+		<Ext>PBP</Ext>
+		<ExtraInfo>
+			<Rem>Phoenix is a complete self-contained Rapid Application Development (RAD) environment featuring an advanced form designer, code generator and editor for the PowerBASIC Windows compiler.</Rem>
+			<RefURL>http://www.phnxthunder.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>40</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>272050686F656E69782067656E6572617465642070726F6A6563742066696C652E0D0A2720546869732066696C65206D617920626520656469746564206D616E75616C6C792E0D0A</Bytes>
+			<ASCII> '   P h o e n i x   g e n e r a t e d   p r o j e c t   f i l e . . . '   T h i s   f i l e   m a y   b e   e d i t e d   m a n u a l l y</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

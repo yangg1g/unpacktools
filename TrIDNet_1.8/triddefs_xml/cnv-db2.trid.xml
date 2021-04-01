@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DB2 Conversion File</FileType>
+		<Ext>CNV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Roberto 'rbnet' Bolli</User>
+		<E-Mail>infoNOSPAM@NOSPAMrbnet.it</E-Mail>
+		<Home>http://www.rbnet.it/</Home>
+	</Info>
+	<General>
+		<FileNum>52</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2009</Year>
+			<Month>02</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>53</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53514C4F434F4E5648440000</Bytes>
+			<ASCII> S Q L O C O N V H D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E3000</Bytes>
+			<ASCII> . 0</ASCII>
+			<Pos>13</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

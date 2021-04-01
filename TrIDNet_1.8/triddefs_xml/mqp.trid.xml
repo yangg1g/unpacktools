@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Metasequoia Palette</FileType>
+		<Ext>MQP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www21.ocn.ne.jp/~mizno/main_e.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>04</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>47</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D657461736571756F69612050616C657474650D0A466F726D617420546578742056657220</Bytes>
+			<ASCII> M e t a s e q u o i a   P a l e t t e . . F o r m a t   T e x t   V e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>38</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

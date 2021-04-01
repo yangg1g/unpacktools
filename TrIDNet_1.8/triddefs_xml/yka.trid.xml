@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Yenka model</FileType>
+		<Ext>YKA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.yenka.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>21</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>10</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>6</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00090000006D6F64656C2E786D6C</Bytes>
+			<ASCII> . . . . . m o d e l . x m l</ASCII>
+			<Pos>25</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TRANSLATION.TSPK</String>
+		<String>MODEL.XMLPK</String>
+		<String>MANIFESTPK</String>
+	</GlobalStrings>
+</TrID>

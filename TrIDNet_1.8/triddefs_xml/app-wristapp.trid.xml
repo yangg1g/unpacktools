@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Timex Datalink Wristapp file</FileType>
+		<Ext>APP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://datalinkwristapps.free.fr/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>55</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B57726973744170705D0D0A4E616D653D</Bytes>
+			<ASCII> [ W r i s t A p p ] . . N a m e =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PASSWORD SUPPORT</String>
+		<String>VERSION REQUIRED</String>
+		<String>APP INTERFACE</String>
+		<String>DESCRIPTION</String>
+		<String>WRISTAPP</String>
+		<String>LINE</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

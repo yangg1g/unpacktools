@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Behold Organize data</FileType>
+		<Ext>BHO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.beholdgenealogy.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>9</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>15</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3B00200054006800690073002000690073002000610020004200650068006F006C0064002000660069006C006500200028002E00620068006F0029002C00200066006F007200200073006100760069006E00670020004200650068006F006C00640020004F007200670061006E0069007A006500200069006E0066006F0072006D006100740069006F006E002E000D000A003B0020005400680061006E006B007300200066006F00720020007500730069006E00670020004200650068006F006C0064002E000D000A003B000D000A003B0020004200650068006F006C006400200064006F006500730020006E006F007400200064006F00200065007800740065006E007300690076006500200063006800650063006B00730020006F006E002000740068006500200066006F0072006D006100740020006F006600200074006800690073002000660069006C0065002E000D000A003B00200049006600200079006F00750020006D0061006B006500200061006E00790020006D0061006E00750061006C0020006300680061006E006700650073002C00200070006C00650061007300650020006200650020006300610072006500660075006C002C0020006F007200200079006F00750020006D0061007900200069006E00740072006F00640075006300650020006500720072006F007200</Bytes>
+			<ASCII> ; .   . T . h . i . s .   . i . s .   . a .   . B . e . h . o . l . d .   . f . i . l . e .   . ( . . . b . h . o . ) . , .   . f . o . r .   . s . a . v . i . n . g .   . B . e . h . o . l . d .   . O . r . g . a . n . i . z . e .   . i . n . f . o . r . m . a . t . i . o . n . . . . . . . ; .   . T . h . a . n . k . s .   . f . o . r .   . u . s . i . n . g .   . B . e . h . o . l . d . . . . . . . ; . . . . . ; .   . B . e . h . o . l . d .   . d . o . e . s .   . n . o . t .   . d . o .   . e . x . t . e . n . s . i . v . e .   . c . h . e . c . k . s .   . o . n .   . t . h . e .   . f . o . r . m . a . t .   . o . f .   . t . h . i . s .   . f . i . l . e . . . . . . . ; .   . I . f .   . y . o . u .   . m . a . k . e .   . a . n . y .   . m . a . n . u . a . l .   . c . h . a . n . g . e . s . , .   . p . l . e . a . s . e .   . b . e .   . c . a . r . e . f . u . l . , .   . o . r .   . y . o . u .   . m . a . y .   . i . n . t . r . o . d . u . c . e .   . e . r . r . o . r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

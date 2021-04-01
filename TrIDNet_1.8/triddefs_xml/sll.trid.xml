@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PowerBASIC Static Link Library</FileType>
+		<Ext>PBLIB/SLL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.powerbasic.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>58</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>46</Min>
+			<Sec>1</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5A4501000000</Bytes>
+			<ASCII> Z E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

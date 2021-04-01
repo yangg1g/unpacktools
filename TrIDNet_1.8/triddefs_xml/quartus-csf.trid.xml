@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Quartus Compiler Setting File</FileType>
+		<Ext>CSF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Altera_Quartus</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>19</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>434F4D50494C45525F53455454494E4753</Bytes>
+			<ASCII> C O M P I L E R _ S E T T I N G S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COMPILER_SETTINGS</String>
+		<String>_ENTITY_NAME</String>
+		<String>ADDRESS</String>
+		<String>FLEX10K</String>
+		<String>DEVICE</String>
+		<String>FAMILY</String>
+		<String>ATION</String>
+		<String>CHIP(</String>
+		<String>INPUT</String>
+		<String>LOGIC</String>
+		<String>RESET</String>
+		<String>DATA</String>
+		<String>PPER</String>
+		<String>RAM1</String>
+		<String>_CON</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Autocad DOS real mode ADI driver</FileType>
+		<Ext>EXP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>05</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>51</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>503301008001</Bytes>
+			<ASCII> P 3</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>800100008000000000020000000000000000000000000000000000020000</Bytes>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004458</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D X</ASCII>
+			<Pos>126</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>INCOMPATIBLE PROGRAM INTERFACE</String>
+		<String>COPYRIGHT</String>
+		<String>LANGUAGE</String>
+		<String>RUN-TIME</String>
+		<String>SUPPORT</String>
+		<String>SYSTEM</String>
+		<String>ERROR</String>
+		<String>SPACE</String>
+		<String>NO87U</String>
+		<String>SVWU</String>
+		<String>LINE</String>
+		<String>ABLE</String>
+		<String>UVWS</String>
+	</GlobalStrings>
+</TrID>

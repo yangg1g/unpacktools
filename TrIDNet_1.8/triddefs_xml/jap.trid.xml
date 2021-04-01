@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>jalbum Project</FileType>
+		<Ext>JAP</Ext>
+		<ExtraInfo>
+			<Rem>jalbum project (.JAP) files are used to store the values of Jalbum.</Rem>
+			<RefURL>http://jalbum.net/</RefURL>
+		</ExtraInfo>
+		<User>Scrapie</User>
+		<E-Mail>scrapie@pochta.ru</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>40</FileNum>
+		<Refine>13 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>05</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>36</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>234A</Bytes>
+			<ASCII> # J</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6C62756D2050726F6A656374</Bytes>
+			<ASCII> l b u m   P r o j e c t</ASCII>
+			<Pos>3</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CLASS SE.DATADOSEN.JALBUM.ALBUMBEAN</String>
+		<String>FALSE</String>
+		<String>SKIN.</String>
+		<String>.HTM</String>
+		<String>COLS</String>
+		<String>ROWS</String>
+		<String>TRUE</String>
+		<String>.CSS</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mozilla ARchive</FileType>
+		<Ext>MAR</Ext>
+		<ExtraInfo>
+			<Rem>MAR is the format used by Mozilla's update system to deliver update packages. It is basically a series of files with an index tacked on to the end.</Rem>
+			<RefURL>http://wiki.mozilla.org/Software_Update:MAR</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>25</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D41523100</Bytes>
+			<ASCII> M A R 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>425A6839314159265359</Bytes>
+			<ASCII> B Z h 9 1 A Y . S Y</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>eXtensible Graph Markup and Modeling Language</FileType>
+		<Ext>XGMML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/XGMML</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>1</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>34</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WWW.CS.RPI.EDU</String>
+		<String>ATT NAME</String>
+		<String>GRAPHIC</String>
+		<String>VERSION</String>
+		<String>STRING</String>
+		<String>LABEL</String>
+		<String>VALUE</String>
+		<String>XGMML</String>
+		<String>XMLNS</String>
+		<String>GROU</String>
+		<String>HTTP</String>
+		<String>NODE</String>
+		<String>SYNT</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Micrografx Designer Drawing (v3.1)</FileType>
+		<Ext>DRW/DSF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Micrografx_Designer</RefURL>
+		</ExtraInfo>
+		<User>cadraktiv</User>
+		<E-Mail></E-Mail>
+		<Home>http://www.cadraktiv.ch</Home>
+	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<Refine></Refine>
+		<Date>
+			<Year>2013</Year>
+			<Month>2</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>55</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>01FF020403</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

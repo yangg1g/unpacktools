@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SIMPSON binary format</FileType>
+		<Ext>SPE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>6</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>53</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53494D500A4E503D</Bytes>
+			<ASCII> S I M P . N P =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BINARY</String>
+		<String>FORMAT</String>
+		<String>DATA</String>
+		<String>SIMP</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

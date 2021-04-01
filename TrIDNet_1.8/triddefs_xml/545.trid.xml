@@ -1,0 +1,83 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AIMutation skin</FileType>
+		<Ext>545</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.aimutation.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marco@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>06</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>07</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B030414</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BACKGROUND.BMPPK</String>
+		<String>BACKGROUND.BMPS</String>
+		<String>BOTTOM LEFT.BMPPK</String>
+		<String>BOTTOM RIGHT.BMPPK</String>
+		<String>BOTTOM.BMPPK</String>
+		<String>BUTTON AIM TODAY.BMPPK</String>
+		<String>BUTTON AWAY.BMPPK</String>
+		<String>BUTTON BUDDY INFO.BMPPK</String>
+		<String>BUTTON CHAT INVITE.BMPPK</String>
+		<String>BUTTON CONTENT PANEL.BMPPK</String>
+		<String>BUTTON EDIT LIST.BMPPK</String>
+		<String>BUTTON PREFERENCES.BMPPK</String>
+		<String>BUTTON READ MAIL.BMPPK</String>
+		<String>BUTTON SEND MAIL.BMPPK</String>
+		<String>BUTTON TICKER DETAILS.BMPPK</String>
+		<String>CHAT BUTTON GET INFO.BMPPK</String>
+		<String>CHAT BUTTON IGNORE.BMPPK</String>
+		<String>CHAT BUTTON SEND IM.BMPPK</String>
+		<String>CHAT BUTTON SEND.BMPPK</String>
+		<String>CHAT BUTTON TALK.BMPPK</String>
+		<String>E.BMPS</String>
+		<String>GENERIC BUTTON.BMPPK</String>
+		<String>IM BUTTON ADD BUDDY.BMPPK</String>
+		<String>IM BUTTON BLOCK.BMPPK</String>
+		<String>IM BUTTON DIRECT CONNECT.BMPPK</String>
+		<String>IM BUTTON GET INFO.BMPPK</String>
+		<String>IM BUTTON SEND.BMPPK</String>
+		<String>IM BUTTON TALK.BMPPK</String>
+		<String>IM BUTTON WARN.BMPPK</String>
+		<String>IM COMBO BUTTON.BMPPK</String>
+		<String>IM MOBILE DEVICE.BMPPK</String>
+		<String>IM SECURE.BMPPK</String>
+		<String>IM TOOLBAR.BMPPK</String>
+		<String>MAIN MENU.BMPPK</String>
+		<String>MENU BUTTON.BMPPK</String>
+		<String>MENU CHECK.BMPPK</String>
+		<String>MENU ITEM.BMPPK</String>
+		<String>POPUPNOTIFICATION.BMPPK</String>
+		<String>SEPARATOR.BMPPK</String>
+		<String>SKIN.INIPK</String>
+		<String>SYS BUTTONS.BMPPK</String>
+		<String>TAB BUTTONS.BMPPK</String>
+		<String>TAB.BMPPK</String>
+		<String>TOP LEFT.BMPPK</String>
+		<String>TOP RIGHT.BMPPK</String>
+		<String>TOP.BMPPK</String>
+	</GlobalStrings>
+</TrID>

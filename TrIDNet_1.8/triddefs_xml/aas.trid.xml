@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Archos signed / encrypted data</FileType>
+		<Ext>AAS/AOS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Archos</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>41</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>414F5332534947</Bytes>
+			<ASCII> A O S 2 S I G</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43495048</Bytes>
+			<ASCII> C I P H</ASCII>
+			<Pos>140</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

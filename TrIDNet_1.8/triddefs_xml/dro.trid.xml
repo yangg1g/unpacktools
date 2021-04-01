@@ -1,0 +1,47 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>D-Robots robot</FileType>
+        <Ext>DRO</Ext>
+        <ExtraInfo>
+            <Rem>D-Robots is a "code-war" game (like the older C-Robots). Bot's are programmed in a Delphi/Pascal like language.</Rem>
+            <RefURL>http://www.plasmacode.com</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>21</FileNum>
+        <Refine>11 by Marco Pontello</Refine>
+        <Date>
+            <Year>2003</Year>
+            <Month>10</Month>
+            <Day>28</Day>
+        </Date>
+        <Time>
+            <Hour>22</Hour>
+            <Min>01</Min>
+            <Sec>21</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4452030414000B000800</Bytes>
+            <ASCII> D R</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00</Bytes>
+            <Pos>21</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00</Bytes>
+            <Pos>25</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>000000</Bytes>
+            <Pos>27</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

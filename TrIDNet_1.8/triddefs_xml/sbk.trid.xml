@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Emu Sound Font v1.0</FileType>
+        <Ext>SBK</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>15</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>27</Day>
+        </Date>
+        <Time>
+            <Hour>22</Hour>
+            <Min>20</Min>
+            <Sec>09</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>52494646</Bytes>
+            <ASCII> R I F F</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>007366626B4C495354</Bytes>
+            <ASCII> . s f b k L I S T</ASCII>
+            <Pos>7</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>000000494E464F6966696C040000000100000069736E6708000000454D553830303000</Bytes>
+            <ASCII> . . . I N F O i f i l . . . . . . . . i s n g . . . . E M U 8 0 0 0</ASCII>
+            <Pos>17</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>IBAG</String>
+        <String>ICOP</String>
+        <String>IGEN</String>
+        <String>IMOD</String>
+        <String>INAM</String>
+        <String>INST</String>
+        <String>PBAG</String>
+        <String>PDTAPHDR</String>
+        <String>PGEN</String>
+        <String>PMOD</String>
+        <String>SHDR</String>
+        <String>SMPL</String>
+        <String>SNAM</String>
+    </GlobalStrings>
+</TrID>

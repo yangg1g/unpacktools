@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ACCAreader document</FileType>
+		<Ext>AR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.acca.it</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>10</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>16</Min>
+			<Sec>54</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>12000000414343415F5245414445525F464F524D4154</Bytes>
+			<ASCII> . . . . A C C A _ R E A D E R _ F O R M A T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ACCA_READER_FORMAT</String>
+		<String>.ZIPPK</String>
+		<String>.ARPK</String>
+	</GlobalStrings>
+</TrID>

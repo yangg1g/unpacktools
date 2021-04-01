@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Viking Designer 1 embroidery file</FileType>
+		<Ext>SHV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>FILExt</User>
+		<E-Mail>Use the Website form</E-Mail>
+		<Home>http://filext.com/</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>45</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5468697320697320616E2053485620666F726D617420656D62726F69646572792066696C653A20706C65617365207669657720746865207468756D626E61696C20696D61676520666F72206D6F72652064657461696C08</Bytes>
+			<ASCII> T h i s   i s   a n   S H V   f o r m a t   e m b r o i d e r y   f i l e :   p l e a s e   v i e w   t h e   t h u m b n a i l   i m a g e   f o r   m o r e   d e t a i l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PLEASE VIEW THE THUMBNAIL IMAGE FOR MORE DETAIL</String>
+		<String>THIS IS AN SHV FORMAT EMBROIDERY FILE</String>
+	</GlobalStrings>
+</TrID>

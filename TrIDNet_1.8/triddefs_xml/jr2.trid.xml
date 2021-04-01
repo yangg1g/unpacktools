@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Fishing Simulator 2 addon</FileType>
+		<Ext>JR2</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.fishsim.net</RefURL>
+		</ExtraInfo>
+		<User>Mamo</User>
+		<E-Mail>k3rb3ros@libero.it</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>07</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>37</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4A523200</Bytes>
+			<ASCII> J R 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

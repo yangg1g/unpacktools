@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Lightscape Preparatation</FileType>
+		<Ext>LP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Autodesk_Media_and_Entertainment</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>23</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0D0A4C6967687473636170652050726570202856</Bytes>
+			<ASCII> . . L i g h t s c a p e   P r e p   ( V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>290D0A0D0A4D6F64656C2046696C653A20</Bytes>
+			<ASCII> ) . . . . M o d e l   F i l e :</ASCII>
+			<Pos>21</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

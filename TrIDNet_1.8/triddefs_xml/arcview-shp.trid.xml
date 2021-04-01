@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ArcView Shape</FileType>
+		<Ext>SHP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>82</FileNum>
+		<Refine>15 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>44</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0000270A0000000000000000000000000000000000000000</Bytes>
+			<ASCII> . . '</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>E8030000</Bytes>
+			<Pos>28</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>33</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

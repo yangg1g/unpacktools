@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Garmin PCX5 track file</FileType>
+		<Ext>TRK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.eagleglobesoftware.com/formatsrd/Garmin-PCX5.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>32</FileNum>
+		<Refine>16 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>52</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>482020534F465457415245204E414D4520262056455253494F4E</Bytes>
+			<ASCII> H     S O F T W A R E   N A M E   .   V E R S I O N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>H  COORDINATE SYSTEM</String>
+		<String>H  SOFTWARE NAME</String>
+		<String>U  LAT LON D</String>
+		<String>H  LATITUDE</String>
+		<String>000000E+00</String>
+		<String>LONGITUDE</String>
+		<String>I  PCX5</String>
+		<String>VERSION</String>
+		<String>DATUM</String>
+		<String>TIME</String>
+		<String>DATE</String>
+	</GlobalStrings>
+</TrID>

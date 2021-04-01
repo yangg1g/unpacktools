@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+  <TransformScript>
+    <OtherComments>
+      <Content>Symbol
+This script makes the width of miscellaneous symbols, geometric shapes, arrows, etc., all the same width and centres the glyphs between side bearings. Select multiple glyphs and adjust the width to a suitable value. Copy the selected glyphs before running the script if you want a convenient way to undo the transformation.</Content>
+    </OtherComments>
+    <MetricsWidth>
+      <WidthType>0</WidthType>
+      <Width>1836</Width>
+      <Adjust>2</Adjust>
+    </MetricsWidth>
+    <MetricsCenterGlyph>
+    </MetricsCenterGlyph>
+    <MetricsLeftSideBearing>
+    </MetricsLeftSideBearing>
+  </TransformScript>
+</DATA>

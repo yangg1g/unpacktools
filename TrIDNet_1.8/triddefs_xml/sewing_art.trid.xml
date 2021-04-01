@@ -1,0 +1,98 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Bernina Artista</FileType>
+		<Ext>ART</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>FILExt</User>
+		<E-Mail>Use the Website form</E-Mail>
+		<Home>http://filext.com/</Home>
+	</Info>
+	<General>
+		<FileNum>30</FileNum>
+		<Refine>12 by Marco Pontello - 12 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>11</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>01</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4100550058005F0049004E0046004F</Bytes>
+			<ASCII> A . U . X . _ . I . N . F . O</ASCII>
+			<Pos>640</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43006F006E00740065006E00740073</Bytes>
+			<ASCII> C . o . n . t . e . n . t . s</ASCII>
+			<Pos>768</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E007400720079</Bytes>
+			<ASCII> R . o . o . t .   . E . n . t . r . y</ASCII>
+			<Pos>1536</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4100550058005F0049004E0046004F</Bytes>
+			<ASCII> A . U . X . _ . I . N . F . O</ASCII>
+			<Pos>1664</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43006F006E00740065006E00740073</Bytes>
+			<ASCII> C . o . n . t . e . n . t . s</ASCII>
+			<Pos>1792</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>W'I'L'C'O'M'D'E'S'I'G'N'I'N'F'O'R'M'A'T'I'O'N'D'D'D</String>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>NUMBER OF FUNTIONS IN THE FILE</String>
+		<String>SHORTEST STITCH IN DESIGN</String>
+		<String>LONGEST STITCH IN DESIGN</String>
+		<String>NUMBER OF COLOUR CHANGES</String>
+		<String>NUMBER OF JUMPS PER TRIM</String>
+		<String>EMBROIDERY MACHINE NAME</String>
+		<String>ACTUAL CREATOR VERSION</String>
+		<String>D'E'S'I'G'N'_'I'C'O'N</String>
+		<String>UNIT CONVERSION INFO</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>NUMBER OF STITCHES</String>
+		<String>NUMBER OF OBJECTS</String>
+		<String>NUMBER OF COLOURS</String>
+		<String>INTENDED VERSION</String>
+		<String>NUMBER OF STOPS</String>
+		<String>NUMBER OF TRIMS</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>FABRICTHICKNESS</String>
+		<String>A'U'X'_'I'N'F'O</String>
+		<String>DESIGN HEIGHT</String>
+		<String>SEQUENCE LIST</String>
+		<String>THREAD LENGTH</String>
+		<String>BOBBIN LENGTH</String>
+		<String>ADJUSTBOBBIN</String>
+		<String>DESIGN RIGHT</String>
+		<String>DESIGN WIDTH</String>
+		<String>DESIGN DOWN</String>
+		<String>DESIGN LEFT</String>
+		<String>INFOSTORE</String>
+		<String>DESIGN UP</String>
+		<String>FILETYPE</String>
+		<String>BERNINA</String>
+		<String>END Y</String>
+		<String>END X</String>
+	</GlobalStrings>
+</TrID>

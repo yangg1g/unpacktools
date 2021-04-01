@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>UNIMod created by APlayer</FileType>
+		<Ext>UNI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://mikmod.raphnet.net</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>07</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>27</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4150554E</Bytes>
+			<ASCII> A P U N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

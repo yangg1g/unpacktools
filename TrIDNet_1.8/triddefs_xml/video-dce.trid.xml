@@ -1,0 +1,84 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DriveCam video</FileType>
+		<Ext>DCE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.drivecam.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>38</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53545254</Bytes>
+			<ASCII> S T R T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52434647</Bytes>
+			<ASCII> R C F G</ASCII>
+			<Pos>32</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54524753</Bytes>
+			<ASCII> T R G S</ASCII>
+			<Pos>72</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5154414241</Bytes>
+			<ASCII> Q T A B A</ASCII>
+			<Pos>90</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>48544142</Bytes>
+			<ASCII> H T A B</ASCII>
+			<Pos>273</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>41505030</Bytes>
+			<ASCII> A P P 0</ASCII>
+			<Pos>684</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>534F4630</Bytes>
+			<ASCII> S O F 0</ASCII>
+			<Pos>706</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4A534F53</Bytes>
+			<ASCII> J S O S</ASCII>
+			<Pos>729</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>46524D45</Bytes>
+			<ASCII> F R M E</ASCII>
+			<Pos>748</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>53504144</Bytes>
+			<ASCII> S P A D</ASCII>
+			<Pos>760</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43414D31</Bytes>
+			<ASCII> C A M 1</ASCII>
+			<Pos>1008</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

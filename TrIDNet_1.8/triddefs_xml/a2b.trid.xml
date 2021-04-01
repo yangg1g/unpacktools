@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DigitalPhono A2B Player Playlist</FileType>
+		<Ext>A2B</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.digitalphono.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>07</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>34</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D494D452D56657273696F6E3A20312E300D0A436F6E74656E742D547970653A206D756C7469706172742F6D697865643B20636861727365743D75732D61736369693B206E616D653D22</Bytes>
+			<ASCII> M I M E - V e r s i o n :   1 . 0 . . C o n t e n t - T y p e :   m u l t i p a r t / m i x e d ;   c h a r s e t = u s - a s c i i ;   n a m e = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>--A2B UNIQUE BOUNDARY--</String>
+		<String>.A2B</String>
+		<String>A2BPLAYLIST</String>
+		<String>APPLICATION</String>
+		<String>CHARSET</String>
+		<String>CONTENT-DESCRIPTION</String>
+		<String>CONTENT-TYPE</String>
+		<String>LOCAL-FILE</String>
+		<String>MIME-VERSION</String>
+		<String>MIXED</String>
+		<String>MULTIPART</String>
+		<String>NAME</String>
+		<String>US-ASCII</String>
+		<String>X-ATT-A2BMUSIC ACCESS-TYPE</String>
+	</GlobalStrings>
+</TrID>

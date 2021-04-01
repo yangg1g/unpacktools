@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>lpaq compressed data (generic)</FileType>
+		<Ext>LPAQ</Ext>
+		<ExtraInfo>
+			<Rem>A series of compressors derived from an original by Matt Mahoney.</Rem>
+			<RefURL>http://cs.fit.edu/~mmahoney/compression/#lpaq</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>04</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>53</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7051</Bytes>
+			<ASCII> p Q</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GObject Introspection information</FileType>
+		<Ext>GIR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>https://wiki.gnome.org/GObjectIntrospection/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>9</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>4</Hour>
+			<Min>17</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E30223F3E0A3C</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RETURN-VALUE TRANSFER-OWNERSHIP</String>
+		<String>REPOSITORY VERSION</String>
+		<String>NAMESPACE NAME</String>
+		<String>INTROSPECTION</String>
+		<String>WWW.GTK.ORG</String>
+		<String>XML VERSION</String>
+		<String>IDENTIFIER</String>
+		<String>TION NAME</String>
+		<String>TYPE NAME</String>
+		<String>FUNCTION</String>
+		<String>LIBRARY</String>
+		<String>OBJECT</String>
+		<String>SHARED</String>
+		<String>CONTE</String>
+		<String>XMLNS</String>
+		<String>CORE</String>
+		<String>HTTP</String>
+		<String>NONE</String>
+		<String>VOID</String>
+	</GlobalStrings>
+</TrID>

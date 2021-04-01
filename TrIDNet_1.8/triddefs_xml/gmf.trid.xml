@@ -1,0 +1,93 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Glopus Map File</FileType>
+		<Ext>GMF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.glopus.de/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>35</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>020000FF</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000C000000300030003000300030003000300030002E0070006E006700</Bytes>
+			<ASCII> . . . . . . . 0 . 0 . 0 . 0 . 0 . 0 . 0 . 0 . . . p . n . g</ASCII>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>01000000010000000100000400000000000000000000000000000000000000</Bytes>
+			<Pos>37</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>400001000000010000000000000080</Bytes>
+			<ASCII> @</ASCII>
+			<Pos>75</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>40</Bytes>
+			<ASCII> @</ASCII>
+			<Pos>91</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0001000000000000000000000080</Bytes>
+			<Pos>100</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>40</Bytes>
+			<ASCII> @</ASCII>
+			<Pos>115</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4000000000000100000000000000000000</Bytes>
+			<ASCII> @</ASCII>
+			<Pos>123</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0C000000300030003000300030003000300031002E0070006E006700</Bytes>
+			<ASCII> . . . . 0 . 0 . 0 . 0 . 0 . 0 . 0 . 1 . . . p . n . g</ASCII>
+			<Pos>148</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000010000000100000400000000000000000000000000000000</Bytes>
+			<Pos>179</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4000010000000100000000000000</Bytes>
+			<ASCII> @</ASCII>
+			<Pos>215</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>40</Bytes>
+			<ASCII> @</ASCII>
+			<Pos>231</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>0'0'0'0'0'0'0'0'.'P'N'G</String>
+		<String>0'0'0'0'0'0'0'1'.'P'N'G</String>
+		<String>IDATX</String>
+		<String>IEND</String>
+		<String>IHDR</String>
+	</GlobalStrings>
+</TrID>

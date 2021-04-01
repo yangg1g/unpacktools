@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Bonk compressed audio</FileType>
+		<Ext>BONK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.logarithmic.net/pfh/bonk</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>44</Min>
+			<Sec>4</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00424F4E4B</Bytes>
+			<ASCII> . B O N K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

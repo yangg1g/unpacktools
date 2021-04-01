@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WinGenea Data File</FileType>
+		<Ext>WDF</Ext>
+		<ExtraInfo>
+			<Rem>WinGenea is a Windows program that displays and prints family trees.</Rem>
+			<RefURL>http://freespace.virgin.net/dave.risley/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>09</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>57696E47656E6561</Bytes>
+			<ASCII> W i n G e n e a</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

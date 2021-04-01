@@ -1,0 +1,39 @@
+<TrID ver="1.18">
+	<Info>
+		<FileType>COREL Photo Paint User Defined Filter</FileType>
+		<Ext>USR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.corel.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2003</Year>
+			<Month>10</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>22</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.23</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>434F52454C2050686F746F5061696E74</Bytes>
+			<ASCII> C O R E L	P h o t o P a i n t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>205573657220446566696E65642046696C746572</Bytes>
+			<ASCII>   U s e r	D e f i n e d	F i l t e r</ASCII>
+			<Pos>17</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

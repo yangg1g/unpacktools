@@ -1,0 +1,29 @@
+<TrID ver="1.15">
+    <Info>
+        <FileType>Debian Linux Package</FileType>
+        <Ext>DEB</Ext>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>29</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>05</Day>
+        </Date>
+        <Time>
+            <Hour>13</Hour>
+            <Min>17</Min>
+            <Sec>55</Sec>
+        </Time>
+        <Creator>TrIDScan32 v0.54.4b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>213C617263683E0A64656269616E2D62696E617279202020</Bytes>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

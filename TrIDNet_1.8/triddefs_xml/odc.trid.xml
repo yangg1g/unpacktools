@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Oberon/F Document</FileType>
+		<Ext>ODC</Ext>
+		<ExtraInfo>
+			<Rem>ODC is a compound document which can contain rich text, references, folding and embedded active content. It can also store a metadata for user interface elements. This format is a successor of Oberon Text format.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/BlackBox_Component_Builder</RefURL>
+		</ExtraInfo>
+		<User>Romiras</User>
+		<E-Mail>romiras [&#39;/at/&#39;] users dot sourceforge.net</E-Mail>
+		<Home>http://devlab.netne.net</Home>
+	</Info>
+	<General>
+		<FileNum>32</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>10</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>43444F6F0000000082F1446F63756D656E74732E537464446F63756D656E74</Bytes>
+			<ASCII> C D O o . . . . . . D o c u m e n t s . S t d D o c u m e n t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONTROLLERS.CONTROLLER</String>
+		<String>DOCUMENTS.STDDOCUMENT</String>
+		<String>CONTAINERS.CONTROLLER</String>
+		<String>DOCUMENTS.CONTROLLER</String>
+		<String>DOCUMENTS.DOCUMENT</String>
+		<String>CONTAINERS.MODEL</String>
+		<String>CONTAINERS.VIEW</String>
+		<String>DOCUMENTS.MODEL</String>
+		<String>MODELS.MODEL</String>
+		<String>STORES.STORE</String>
+		<String>VIEWS.VIEW</String>
+		<String>CDOO</String>
+	</GlobalStrings>
+</TrID>

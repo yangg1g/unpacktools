@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MaxTrax Music</FileType>
+		<Ext>MXTX</Ext>
+		<ExtraInfo>
+			<Rem>Music format created in 1992 by Sylvan Technical Arts. Used in A-Train, Darkseed, Dune II, etc.</Rem>
+			<RefURL>http://exotica.fix.no/tunes/unexotica/formats/MaxTrax.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>59</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>05</Min>
+			<Sec>08</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D58545800</Bytes>
+			<ASCII> M X T X</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

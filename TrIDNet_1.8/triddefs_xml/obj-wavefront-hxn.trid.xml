@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Wavefront Object (created by Hexagon)</FileType>
+		<Ext>OBJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Wavefront_.obj_file</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>3</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>12</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>235761766566726F6E74204F424A2066696C6520637265617465642062792048657861676F6E</Bytes>
+			<ASCII> # W a v e f r o n t   O B J   f i l e   c r e a t e d   b y   H e x a g o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WAVEFRONT OBJ FILE CREATED BY HEXAGON</String>
+		<String>MTLLIB</String>
+		<String>USEMTL</String>
+		<String>.MTL</String>
+	</GlobalStrings>
+</TrID>

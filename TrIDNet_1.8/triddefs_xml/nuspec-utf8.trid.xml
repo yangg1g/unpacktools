@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>NuGet Specification (UTF-8)</FileType>
+		<Ext>NUSPEC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/NuGet</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>11</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>4</Hour>
+			<Min>14</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DESCRIPTION</String>
+		<String>XML VERSION</String>
+		<String>PROJECTURL</String>
+		<String>FILE SRC</String>
+		<String>METADATA</String>
+		<String>AUTHORS</String>
+		<String>PACKAGE</String>
+		<String>TARGET</String>
+		<String>FILES</String>
+		<String>.COM</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

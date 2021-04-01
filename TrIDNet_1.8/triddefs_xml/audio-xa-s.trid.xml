@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Maxis XA Audio (sound/speech)</FileType>
+		<Ext>XA</Ext>
+		<ExtraInfo>
+			<Rem>Used in some Maxis games, for example SimCity 3000</Rem>
+			<RefURL>http://www.maxis.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>44</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>58414900</Bytes>
+			<ASCII> X A I</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+ <TransformScript>
+  <OtherComments>
+   <Content>Letter-like Symbols
+This script insert several characters in the Letter-like symbols character set. 
+Then it inserts the double-struck capitals, and converts them to outline glyphs.
+You will need to edit the glyphs. This script is just an aid to their design.</Content>
+  </OtherComments>
+  <GlyphInsertCharacters>
+   <Characters>8448, 8449, 8451-8454, 8457, 8462, 8468, 8470, 8471, 8478, 8480, 8481, 8482, 8486, 8487, 8490, 8491, 8498, 8505, 8506, 8507</Characters>
+   <OverrideRange>TRUE</OverrideRange>
+  </GlyphInsertCharacters>
+  <GlyphCompleteComposites>
+  </GlyphCompleteComposites>
+  <GlyphDecompose>
+  </GlyphDecompose>
+  <GlyphInsertCharacters>
+   <Characters>8450, 8461, 8469, 8473, 8474, 8477, 8484</Characters>
+   <OverrideRange>TRUE</OverrideRange>
+  </GlyphInsertCharacters>
+  <GlyphCompleteComposites>
+  </GlyphCompleteComposites>
+  <GlyphDecompose>
+  </GlyphDecompose>
+  <OutlineScale>
+   <AroundType>0</AroundType>
+   <AroundCorner>0</AroundCorner>
+   <AroundXPos>0</AroundXPos>
+   <AroundYPos>0</AroundYPos>
+   <Horizontal>97.00</Horizontal>
+   <Vertical>98.00</Vertical>
+   <PreserveBearings>TRUE</PreserveBearings>
+  </OutlineScale>
+  <EffectsHollow>
+   <Horizontal>30</Horizontal>
+   <Vertical>30</Vertical>
+   <PreserveBearings>TRUE</PreserveBearings>
+  </EffectsHollow>
+  <OutlineMove>
+   <Horizontal>0</Horizontal>
+   <Vertical>15</Vertical>
+  </OutlineMove>
+  <MetricsLeftSideBearing>
+  </MetricsLeftSideBearing>
+ </TransformScript>
+</DATA>

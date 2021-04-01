@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PSU Designer 2 project</FileType>
+		<Ext>PSU</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.duncanamps.com/psud2/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>7</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>53</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>060850535544322D</Bytes>
+			<ASCII> . . P S U D 2 -</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54426C6F636B536F75726365</Bytes>
+			<ASCII> T B l o c k S o u r c e</ASCII>
+			<Pos>14</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

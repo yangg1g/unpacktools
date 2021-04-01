@@ -1,0 +1,36 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Virtual Reality Modeling Language</FileType>
+		<Ext>WRL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://tecfa.unige.ch/guides/vrml/vrml97/spec/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>69</FileNum>
+		<Refine>67 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>07</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>28</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2356524D4C2056</Bytes>
+			<ASCII> # V R M L   V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

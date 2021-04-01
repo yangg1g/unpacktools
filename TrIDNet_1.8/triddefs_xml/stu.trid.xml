@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Pinnacle Studio Video Project</FileType>
+		<Ext>STU</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pinnaclesys.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>01</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>44</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>616C69</Bytes>
+			<ASCII> a l i</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>436C6970</Bytes>
+			<ASCII> C l i p</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.STU</String>
+	</GlobalStrings>
+</TrID>

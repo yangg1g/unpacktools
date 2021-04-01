@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>StatCrew Roster</FileType>
+		<Ext>VRO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.statcrew.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>01</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>54</Min>
+			<Sec>02</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20203030</Bytes>
+			<ASCII>     0 0</ASCII>
+			<Pos>20</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A</Bytes>
+			<Pos>26</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>29</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

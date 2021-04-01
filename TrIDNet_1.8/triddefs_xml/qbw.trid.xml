@@ -1,0 +1,89 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Intuit QuickBooks for Windows</FileType>
+		<Ext>QBW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.quickbooks.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>44</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00005600000001000000</Bytes>
+			<ASCII> . . V</ASCII>
+			<Pos>2</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000410000004C00000049000000</Bytes>
+			<ASCII> . . A . . . L . . . I</ASCII>
+			<Pos>14</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000044000000</Bytes>
+			<ASCII> . . . D</ASCII>
+			<Pos>29</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000041000000</Bytes>
+			<ASCII> . . A</ASCII>
+			<Pos>38</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000054000000</Bytes>
+			<ASCII> . . T</ASCII>
+			<Pos>46</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000031000000FFFFFFFF</Bytes>
+			<ASCII> . . 1</ASCII>
+			<Pos>54</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00004D415549</Bytes>
+			<ASCII> . . M A U I</ASCII>
+			<Pos>94</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FINANCE CHARGE</String>
+		<String>DESCRIPTION</String>
+		<String>A'''L'''I</String>
+		<String>D'''''''D</String>
+		<String>SERVICES</String>
+		<String>PAYROLL</String>
+		<String>INVOICE</String>
+		<String>PAYMENT</String>
+		<String>AMOUNT</String>
+		<String>REPORT</String>
+		<String>INTUIT</String>
+		<String>ARIAL</String>
+		<String>CLASS</String>
+		<String>MAUI</String>
+		<String>BANK</String>
+		<String>ACTI</String>
+		<String>ITEM</String>
+		<String>DATE</String>
+		<String>NAME</String>
+		<String>TYPE</String>
+		<String>WITH</String>
+	</GlobalStrings>
+</TrID>

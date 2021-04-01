@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CrystalMaker Data format (generic)</FileType>
+		<Ext>CMD5/CMDF/CMMF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.crystalmaker.co.uk/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>1860</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>12</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>434D</Bytes>
+			<ASCII> C M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52454E44</Bytes>
+			<ASCII> R E N D</ASCII>
+			<Pos>32</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>44435545</Bytes>
+			<ASCII> D C U E</ASCII>
+			<Pos>100</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>50525350</Bytes>
+			<ASCII> P R S P</ASCII>
+			<Pos>117</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D4F444C</Bytes>
+			<ASCII> M O D L</ASCII>
+			<Pos>126</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

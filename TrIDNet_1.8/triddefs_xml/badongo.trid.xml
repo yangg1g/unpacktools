@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BaDonGo file info</FileType>
+		<Ext>BADONGO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.badongo.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>04</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23235354415254204241444F4E474F2046494C450A544F54414C5F50415254533D</Bytes>
+			<ASCII> # # S T A R T	B A D O N G O	F I L E . T O T A L _ P A R T S =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

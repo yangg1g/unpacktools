@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TestGen data</FileType>
+		<Ext>TST</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>03</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>544700</Bytes>
+			<ASCII> T G</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>%NULL</String>
+		<String>$NULL</String>
+		<String>FFFF</String>
+	</GlobalStrings>
+</TrID>

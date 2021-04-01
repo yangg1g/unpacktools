@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ColdFusion Template</FileType>
+		<Ext>CFM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/ColdFusion</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>11</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>40</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>416C6C6169726520436F6C6420467573696F6E2054656D706C6174650A4865616465722053697A653A204E65772056657273696F6E</Bytes>
+			<ASCII> A l l a i r e   C o l d   F u s i o n   T e m p l a t e . H e a d e r   S i z e :   N e w   V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

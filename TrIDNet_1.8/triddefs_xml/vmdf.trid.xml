@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Optical Simulation Rendering VMD format</FileType>
+		<Ext>VMD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://paulbourke.net/dataformats/vmd/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>48</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>564D4F44454C2056455253494F4E20</Bytes>
+			<ASCII> V M O D E L   V E R S I O N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MATERIAL</String>
+		<String>SETTINGS</String>
+		<String>AUTHOR</String>
+		<String>CAMERA</String>
+		<String>FOVANG</String>
+		<String>OBJECT</String>
+		<String>TARGET</String>
+		<String>DATE</String>
+		<String>VIEW</String>
+	</GlobalStrings>
+</TrID>

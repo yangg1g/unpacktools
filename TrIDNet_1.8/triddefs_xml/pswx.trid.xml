@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Portable Password Depot XML data</FileType>
+		<Ext>PSWX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.password-depot.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>39</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D38223F3E0D0A3C50415353574F524446494C4520786D6C6E733D22687474703A2F2F7777772E70617373776F72642D6465706F742E64652F736368656D61732F70617373776F726466696C652F362E302F70617373776F726466696C652E787364223E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 " ? . . . . P A S S W O R D F I L E   x m l n s = " h t t p : / / w w w . p a s s w o r d - d e p o t . d e / s c h e m a s / p a s s w o r d f i l e / 6 . 0 / p a s s w o r d f i l e . x s d "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WWW.PASSWORD-DEPOT.DE</String>
+		<String>PASSWORDFILE XMLNS</String>
+		<String>PASSWORDFILE.XSD</String>
+		<String>BACKUPINTERVAL</String>
+		<String>LASTBACKUP FMT</String>
+		<String>PASSWORD DEPOT</String>
+		<String>DATETIME FMT</String>
+		<String>APPLICATION</String>
+		<String>FINGERPRINT</String>
+		<String>XML VERSION</String>
+		<String>ENCRYPTED</String>
+		<String>PASSWORDS</String>
+		<String>COMMENTS</String>
+		<String>ENCODING</String>
+		<String>SCHEMAS</String>
+		<String>HEADER</String>
+		<String>UTF-8</String>
+		<String>HINT</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

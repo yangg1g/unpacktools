@@ -1,0 +1,40 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>La Lossless Audio compressed (generic)</FileType>
+        <Ext>LA</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.lossless-audio.com/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>66</FileNum>
+        <Refine>13 by Marco Pontello</Refine>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>29</Day>
+        </Date>
+        <Time>
+            <Hour>17</Hour>
+            <Min>59</Min>
+            <Sec>49</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.02.6b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4C41</Bytes>
+            <ASCII> L A</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>57415645</Bytes>
+            <ASCII> W A V E</ASCII>
+            <Pos>8</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

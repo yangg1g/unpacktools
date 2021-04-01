@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GSP Family Tree</FileType>
+		<Ext>GFT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>44</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0F00000144</Bytes>
+			<ASCII> . . . . D</ASCII>
+			<Pos>1</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GSP FAMILY TREE</String>
+		<String>CPBORDEROBJECT</String>
+		<String>BIRT</String>
+		<String>ADDR</String>
+		<String>DEAT</String>
+		<String>FAMC</String>
+		<String>DATE</String>
+		<String>BURI</String>
+		<String>CHIL</String>
+		<String>FAMS</String>
+		<String>HUSB</String>
+		<String>INDI</String>
+		<String>NAME</String>
+		<String>NONE</String>
+		<String>HEAD</String>
+		<String>OCCU</String>
+		<String>PAGE</String>
+		<String>PLAC</String>
+		<String>SOUR</String>
+		<String>SUBM</String>
+		<String>FILE</String>
+		<String>NOTE</String>
+		<String>TRLR</String>
+		<String>WIFE</String>
+	</GlobalStrings>
+</TrID>

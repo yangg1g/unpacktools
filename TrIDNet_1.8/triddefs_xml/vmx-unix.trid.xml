@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VMware configuration (Unix like ver.)</FileType>
+		<Ext>VMX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.vmware.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>05</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>37</Min>
+			<Sec>02</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23212F7573722F62696E2F766D</Bytes>
+			<ASCII> # ! / u s r / b i n / v m</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ETHERNET0.ADDRESSTYPE</String>
+		<String>ETHERNET0.PRESENT</String>
+		<String>VIRTUALHW.VERSION</String>
+		<String>CONFIG.VERSION</String>
+		<String>UUID.LOCATION</String>
+		<String>.DEVICETYPE</String>
+		<String>DISPLAYNAME</String>
+		<String>.FILENAME</String>
+		<String>UUID.BIOS</String>
+		<String>FLOPPY0.</String>
+		<String>GUESTOS</String>
+		<String>VMWARE</String>
+		<String>REDO</String>
+		<String>MSIZE</String>
+		<String>.VMDK</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

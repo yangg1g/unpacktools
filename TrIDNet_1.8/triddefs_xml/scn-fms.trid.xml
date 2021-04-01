@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FMS Scenery</FileType>
+		<Ext>SCN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Flying_Model_Simulator</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>52</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>53</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>534B5920</Bytes>
+			<ASCII> S K Y</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>AIRCRAFT_POSITION</String>
+		<String>PILOT_POSITION</String>
+		<String>3D_LANDSCAPE</String>
+		<String>QUADRANT</String>
+		<String>TEXTURE</String>
+		<String>QUADS</String>
+		<String>SCENE</String>
+	</GlobalStrings>
+</TrID>

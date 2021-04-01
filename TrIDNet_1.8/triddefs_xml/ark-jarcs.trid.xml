@@ -1,0 +1,30 @@
+<TrID ver="1.16">
+    <Info>
+        <FileType>JARCS compressed archive</FileType>
+        <Ext>JAR</Ext>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>4</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>22</Day>
+        </Date>
+        <Time>
+            <Hour>01</Hour>
+            <Min>23</Min>
+            <Sec>06</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00.1</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4A4152435300</Bytes>
+            <ASCII> J A R C S</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

@@ -1,0 +1,70 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FastReport 3 report</FileType>
+		<Ext>FR3</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.fast-report.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>3</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D38223F3E0D0A3C546672785265706F727420</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 " ? . . . . T f r x R e p o r t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>REPORTOPTIONS.DESCRIPTION.TEXT</String>
+		<String>REPORTOPTIONS.CREATEDATE</String>
+		<String>REPORTOPTIONS.LASTCHANGE</String>
+		<String>PREVIEWOPTIONS.BUTTONS</String>
+		<String>COLUMNPOSITIONS.TEXT</String>
+		<String>PRINTOPTIONS.PRINTER</String>
+		<String>PREVIEWOPTIONS.ZOOM</String>
+		<String>TFRXREPORTPAGE NAME</String>
+		<String>DOTMATRIXREPORT</String>
+		<String>SCRIPTTEXT.TEXT</String>
+		<String>SCRIPTLANGUAGE</String>
+		<String>BOTTOMMARGIN</String>
+		<String>FAST REPORTS</String>
+		<String>HGUIDES.TEXT</String>
+		<String>VGUIDES.TEXT</String>
+		<String>COLUMNWIDTH</String>
+		<String>PAPERHEIGHT</String>
+		<String>RIGHTMARGIN</String>
+		<String>XML VERSION</String>
+		<String>LEFTMARGIN</String>
+		<String>PAPERWIDTH</String>
+		<String>PAPERSIZE</String>
+		<String>TOPMARGIN</String>
+		<String>VIEW NAME</String>
+		<String>ENCODING</String>
+		<String>PROPDATA</String>
+		<String>SOFTWARE</String>
+		<String>INIFILE</String>
+		<String>BEGIN</String>
+		<String>FALSE</String>
+		<String>UTF-8</String>
+		<String>CHAR</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mozilla blocklist</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://kb.mozillazine.org/Blocklist.xml</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>01</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>17</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ADDONS-BLOCKLIST</String>
+		<String>BLOCKLIST XMLNS</String>
+		<String>WWW.MOZILLA.ORG</String>
+		<String>VERSION</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

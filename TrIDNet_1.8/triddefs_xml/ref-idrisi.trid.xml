@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IDRISI raster image Reference</FileType>
+		<Ext>REF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.idrisi.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>22</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7265662E2073797374656D203A</Bytes>
+			<ASCII> r e f .   s y s t e m   :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ORIGIN LONG</String>
+		<String>REF. SYSTEM</String>
+		<String>MAJOR S-AX</String>
+		<String>MINOR S-AX</String>
+		<String>ORIGIN LAT</String>
+		<String>PARAMETERS</String>
+		<String>PROJECTION</String>
+		<String>ELLIPSOID</String>
+		<String>SCALE FAC</String>
+		<String>ORIGIN X</String>
+		<String>ORIGIN Y</String>
+		<String>DATUM</String>
+		<String>DELTA</String>
+		<String>UNITS</String>
+	</GlobalStrings>
+</TrID>

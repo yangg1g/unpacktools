@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AMOS Picture Bank</FileType>
+		<Ext>ABK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/AMOS_(programming_language)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>22</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>416D426B</Bytes>
+			<ASCII> A m B k</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5061632E5069632E</Bytes>
+			<ASCII> P a c . P i c</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

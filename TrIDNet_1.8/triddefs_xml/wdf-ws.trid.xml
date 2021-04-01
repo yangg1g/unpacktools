@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Workshare DeltaView Deltafile</FileType>
+		<Ext>WDF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.workshare.com/products/wsdeltaview/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>10</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>07</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>RENDERING_SET_NAME</String>
+		<String>M_SZFILEEXTENSION</String>
+		<String>M_DWFILESIZEHIGH</String>
+		<String>M_SZFILELOCATION</String>
+		<String>M_FTLASTMODIFIED</String>
+		<String>M_DWFILESIZELOW</String>
+		<String>M_SZDESCRIPTION</String>
+		<String>M_SZAUTHORNAME</String>
+		<String>BOOKMARKEDFILE</String>
+		<String>CONVERTEDFILE</String>
+		<String>M_SZFILETYPE</String>
+		<String>FILE VERSION</String>
+		<String>M_SZOPERATOR</String>
+		<String>COMPOSITEDOC</String>
+		<String>ORIGINALDOC</String>
+		<String>SUMMARYINFO</String>
+		<String>MODIFIEDDOC</String>
+		<String>M_SZDOCID</String>
+		<String>M_SZCLASS</String>
+		<String>RSIONINFO</String>
+		<String>OPTIONS</String>
+		<String>ENTITY</String>
+		<String>TEMP</String>
+	</GlobalStrings>
+</TrID>

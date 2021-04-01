@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BlueJ Class Context</FileType>
+		<Ext>CTXT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Bluej</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>10</Month>
+			<Day>9</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>57</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23426C75654A20636C61737320636F6E74657874</Bytes>
+			<ASCII> # B l u e J   c l a s s   c o n t e x t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BLUEJ CLASS CONTEXT</String>
+		<String>COMMENT0.PARAMS</String>
+		<String>COMMENT0.TARGET</String>
+		<String>NUMCOMMENTS</String>
+	</GlobalStrings>
+</TrID>

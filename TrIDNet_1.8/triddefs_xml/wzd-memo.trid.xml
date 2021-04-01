@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sharp Wizard memo</FileType>
+		<Ext>WZD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://dmoz.org/Computers/Systems/Handhelds/Sharp/Wizard/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>10</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>59</Min>
+			<Sec>08</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C534841525020575A4420444154413E</Bytes>
+			<ASCII> . S H A R P   W Z D   D A T A</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SHARP DOWNLOAD DATA V1.0</String>
+		<String>SHARP WZD DATA</String>
+		<String>CATEGORY KIND</String>
+		<String>QUICK MEMO</String>
+		<String>CREATE DAT</String>
+		<String>ATTRIBUTE</String>
+		<String>FILE NAME</String>
+		<String>DATA TYPE</String>
+		<String>BITMAP</String>
+		<String>TITLE</String>
+		<String>IMG3</String>
+		<String>QMEM</String>
+		<String>CGR1</String>
+		<String>CLAS</String>
+		<String>MEM1</String>
+		<String>TEXT</String>
+		<String>DATE</String>
+		<String>TTL1</String>
+	</GlobalStrings>
+</TrID>

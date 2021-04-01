@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Injector Trim data</FileType>
+		<Ext>TRM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>39</Min>
+			<Sec>3</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E30223F3E0D0A</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ADDITIONALINFORMATION</String>
+		<String>ETRIMLOCKVERSION</String>
+		<String>INJECTORSERIALNO</String>
+		<String>INJECTORPARTNUM</String>
+		<String>FILEIDENTIFIER</String>
+		<String>DATACHECKSUM</String>
+		<String>FILEVERSION</String>
+		<String>ONBOARDDATA</String>
+		<String>USERVERSION</String>
+		<String>XML VERSION</String>
+		<String>DATAINDEX</String>
+		<String>DATATYPE</String>
+		<String>FILEINFO</String>
+		<String>FILETYPE</String>
+		<String>XMLFILE</String>
+		<String>HEADER</String>
+		<String>ECODE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Office Binder Document</FileType>
+		<Ext>OBD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Microsoft_Office</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>05</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>53</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>D'O'C'U'M'E'N'T'S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>W'O'R'D'D'O'C'U'M'E'N'T</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>MICROSOFT OFFICE</String>
+		<String>MICROSOFT WORD</String>
+		<String>WORD.DOCUMENT.</String>
+		<String>V'I'E'W'0'0'0</String>
+		<String>C'O'M'P'O'B'J</String>
+		<String>B'I'N'D'E'R</String>
+		<String>S'Y'M'B'O'L</String>
+		<String>1'T'A'B'L'E</String>
+		<String>H'D'R'F'T'R</String>
+		<String>MSWORDDOC</String>
+		<String>A'G'E</String>
+		<String>ATION</String>
+		<String>INDER</String>
+		<String>_PID_</String>
+		<String>O'L'E</String>
+		<String>GUID</String>
+		<String>BJBJ</String>
+		<String>TATI</String>
+	</GlobalStrings>
+</TrID>

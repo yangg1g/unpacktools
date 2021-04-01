@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Quattro Pro for Windows spreadsheet</FileType>
+		<Ext>QPW</Ext>
+		<ExtraInfo>
+			<Rem>An ex Borland product, now the spreadsheet component of the Corel WordPerfect Office suite.</Rem>
+			<RefURL>http://www.corel.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>21</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>10</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>35</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE1</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N'''''''''''''''''''''''''''(</String>
+		<String>N'A'T'I'V'E'C'O'N'T'E'N'T'_'M'A'I'N</String>
+		<String>QUATTRO PRO FOR WINDOWS</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>NORMAL</String>
+	</GlobalStrings>
+</TrID>

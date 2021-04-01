@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+  <TransformScript>
+    <OtherComments>
+      <Content>Discretionary Ligatures
+This script inserts all of the ligatures in the Alphabetic Presentation Forms character set and a selection of discretionary ligatures in Latin Extended D and the Private Use Area. The glyphs will need some editing. </Content>
+    </OtherComments>
+    <GlyphInsertCharacters>
+      <Characters>42802-42809,42812,42813,42830,42831,42848,42849,61124,61125,61129-61131,61133-61136,61143-61148,61150,61151,61152,61363-61374,61378-61390,61392,64256-64262</Characters>
+      <OverrideRange>TRUE</OverrideRange>
+    </GlyphInsertCharacters>
+    <GlyphCompleteComposites>
+    </GlyphCompleteComposites>
+  </TransformScript>
+</DATA>

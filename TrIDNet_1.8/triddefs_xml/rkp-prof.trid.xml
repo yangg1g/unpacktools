@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RemoteKeys profile</FileType>
+		<Ext>RKP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.oatsoft.org/Software/RemoteKeys</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>55</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52656D6F74654B6579732050726F666461742056</Bytes>
+			<ASCII> R e m o t e K e y s   P r o f d a t   V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

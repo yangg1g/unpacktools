@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OffsetFinderTemplate>
+  <Header>
+    <FormatName>Nintendo DS - SDAT</FormatName>
+    <Author />
+  </Header>
+  <SearchParameters>
+    <SearchString>53444154FFFE0001</SearchString>
+    <TreatSearchStringAsHex>true</TreatSearchStringAsHex>
+    <SearchStringOffset>0</SearchStringOffset>
+    <OutputFileExtension>.sdat</OutputFileExtension>
+    <CutParameters>
+      <CutStyle>offset</CutStyle>
+      <CutSizeAtOffset>8</CutSizeAtOffset>
+      <CutSizeOffsetSize>4</CutSizeOffsetSize>
+      <CutSizeOffsetEndianess>little</CutSizeOffsetEndianess>      
+    </CutParameters>
+    <AddExtraBytes>false</AddExtraBytes>    
+  </SearchParameters>
+</OffsetFinderTemplate>

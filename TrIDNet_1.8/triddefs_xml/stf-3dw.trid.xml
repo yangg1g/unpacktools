@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>3D World Studio material</FileType>
+		<Ext>STF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.leadwerks.com/werkspace/page/Products/3dworldstudio</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>30</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>010007190000010909</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

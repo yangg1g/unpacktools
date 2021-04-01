@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Citation Style Language</FileType>
+		<Ext>CSL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://xbiblio.sourceforge.net/csl/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>08</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TEXT VARIABLE</String>
+		<String>BIBLIOGRAPHY</String>
+		<String>XML VERSION</String>
+		<String>STYLE XMLNS</String>
+		<String>MACRO NAME</String>
+		<String>TEXT MACRO</String>
+		<String>TEXT VALUE</String>
+		<String>CITATION</String>
+		<String>PURL.ORG</String>
+		<String>ENCODING</String>
+		<String>IN-TEXT</String>
+		<String>XBIBLIO</String>
+		<String>SUFFIX</String>
+		<String>PREFIX</String>
+		<String>LAYOUT</String>
+		<String>TITLE</String>
+		<String>GROUP</String>
+		<String>CLASS</String>
+		<String>LANG</String>
+		<String>INFO</String>
+		<String>TYPE</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

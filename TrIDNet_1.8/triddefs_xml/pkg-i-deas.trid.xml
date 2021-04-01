@@ -1,0 +1,76 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>I-DEAS Package</FileType>
+		<Ext>PKG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/I-DEAS</RefURL>
+		</ExtraInfo>
+		<User>Eric Syversen</User>
+		<E-Mail>lv2spam@gmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Refine>6 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>04</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>43</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>232020</Bytes>
+			<ASCII> #</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>Z_DM EMD MODIFIED MASK VALUE STRING</String>
+		<String>Z_DM WF BOUNDING VOLUME INVALID</String>
+		<String>Z_DM BOUNDING VOLUME INVALID</String>
+		<String>Z_DM BOUNDING VOL MIN DIST</String>
+		<String>Z_DM BOUNDING VOL MAX DIST</String>
+		<String>Z_DM BOUNDING BOX MIN Z</String>
+		<String>Z_DM BOUNDING BOX MIN X</String>
+		<String>Z_DM BOUNDING BOX MAX Z</String>
+		<String>Z_DM BOUNDING BOX MAX Y</String>
+		<String>Z_DM BOUNDING BOX MAX X</String>
+		<String>Z_DM BOUNDING BOX MIN Y</String>
+		<String>PACKAGE METADATA FILE</String>
+		<String>Z_DM SCHEMA CODE</String>
+		<String>VERSION_PASSPORT</String>
+		<String>VERSION_NUMBER</String>
+		<String>Z_DM FILE SIZE</String>
+		<String>ITEM_PASSPORT</String>
+		<String>SCHEMA_CODE</String>
+		<String>PART_NUMBER</String>
+		<String>ATTRIBUTES</String>
+		<String>REFERENCE</String>
+		<String>FILENAME</String>
+		<String>LIB PART</String>
+		<String>PLATFORM</String>
+		<String>LIBRARY</String>
+		<String>INITIAL</String>
+		<String>PROJECT</String>
+		<String>RELEASE</String>
+		<String>I-DEAS</String>
+		<String>INTENT</String>
+		<String>STATE</String>
+		<String>TYPE</String>
+		<String>.PRT</String>
+		<String>.PKG</String>
+	</GlobalStrings>
+</TrID>

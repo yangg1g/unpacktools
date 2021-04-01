@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>X PixMap bitmap</FileType>
+		<Ext>XPM</Ext>
+		<ExtraInfo>
+			<Rem>X PixMap (XPM) is an ASCII image format.</Rem>
+			<RefURL>http://koala.ilog.fr/lehors/xpm.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>35</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2F2A2058504D202A2F</Bytes>
+			<ASCII> / *   X P M   * /</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>STATIC</String>
+		<String>CHAR</String>
+	</GlobalStrings>
+</TrID>

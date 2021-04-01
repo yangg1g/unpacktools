@@ -1,0 +1,84 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Squeeze Presets</FileType>
+		<Ext>SPFX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sorensonmedia.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>7</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>58</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MAINTAINSOURCEASPECTRATIOENABLE VALUE</String>
+		<String>FRAMESIZESAMEASSOURCEENABLE VALUE</String>
+		<String>INOUTPOINTSLOCALLYASSIGNED VALUE</String>
+		<String>USEPLAYBACKCONFIGURATION VALUE</String>
+		<String>AUTOKEYFRAMESENSITIVITY VALUE</String>
+		<String>LETTERBOXORPILLARENABLE VALUE</String>
+		<String>USEFILESIZECONSTRAINT VALUE</String>
+		<String>USINGCUSTOMFILENAME VALUE</String>
+		<String>AUTOKEYFRAMEENABLE VALUE</String>
+		<String>DOCTYPE SQUEEZE_AUDIENCE</String>
+		<String>KEYFRAMERATEENABLE VALUE</String>
+		<String>INOUTPOINTSENABLE VALUE</String>
+		<String>EXTENDEDPLUGINSETTINGS</String>
+		<String>AUDIOCOMPRESSOR CODEC</String>
+		<String>VIDEOCOMPRESSOR CODEC</String>
+		<String>KEYFRAMERATE VALUE</String>
+		<String>OUTPUT DEFAULTNAME</String>
+		<String>OUTPUTAUDEXT VALUE</String>
+		<String>OUTPUTPREFIX VALUE</String>
+		<String>OUTPUTSUFFIX VALUE</String>
+		<String>USEPREFILTER VALUE</String>
+		<String>BITRATEMODE VALUE</String>
+		<String>CHANNELMODE VALUE</String>
+		<String>ENCODEAUDIO VALUE</String>
+		<String>ENCODEVIDEO VALUE</String>
+		<String>OUTPUTSIZE HEIGHT</String>
+		<String>USINGCUSTOMFILTER</String>
+		<String>SAMPLERATE VALUE</String>
+		<String>SAMPLESIZE VALUE</String>
+		<String>OUTPUTEXT VALUE</String>
+		<String>SUBOUTPUTFORMAT</String>
+		<String>USEPREFIX VALUE</String>
+		<String>USESUFFIX VALUE</String>
+		<String>DATARATE VALUE</String>
+		<String>NOTIFICATIONS</String>
+		<String>QUALITY VALUE</String>
+		<String>YENABLE VALUE</String>
+		<String>STATUS VALUE</String>
+		<String>FAVWORKFLOW</String>
+		<String>VERSION</String>
+		<String>ISLITE</String>
+		<String>FALSE</String>
+		<String>ISMBR</String>
+		<String>READY</String>
+		<String>WIDTH</String>
+		<String>NONE</String>
+		<String>SQUA</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

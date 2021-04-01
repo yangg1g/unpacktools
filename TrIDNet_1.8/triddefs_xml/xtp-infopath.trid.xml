@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>InfoPath Template Part</FileType>
+		<Ext>XTP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/office/infopath</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>28</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D53434600000000</Bytes>
+			<ASCII> M S C F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000002C0000000000000003010100</Bytes>
+			<ASCII> . . . . . . ,</ASCII>
+			<Pos>10</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>A0006D616E69666573742E78736600</Bytes>
+			<ASCII> . . m a n i f e s t . x s f</ASCII>
+			<Pos>58</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SAMPLEDATA.XML</String>
+		<String>MANIFEST.XSF</String>
+		<String>MYSCHEMA.XSD</String>
+		<String>SOLUTION.ICT</String>
+		<String>TEMPLATE.XML</String>
+		<String>VIEW1.XSL</String>
+		<String>MSCF</String>
+	</GlobalStrings>
+</TrID>

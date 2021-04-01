@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GPS track</FileType>
+		<Ext>TWL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>01</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>40</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFF0100090043576179506F696E74</Bytes>
+			<ASCII> . . . . . . C W a y P o i n t</ASCII>
+			<Pos>2</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CWAYPOINT</String>
+	</GlobalStrings>
+</TrID>

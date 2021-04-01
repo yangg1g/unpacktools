@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>B1 compressed archive</FileType>
+		<Ext>B1</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.b1.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>2</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>15</Min>
+			<Sec>0</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>62313A</Bytes>
+			<ASCII> b 1 :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>763A</Bytes>
+			<ASCII> v :</ASCII>
+			<Pos>6</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

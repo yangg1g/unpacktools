@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WinFax Cover Page</FileType>
+		<Ext>CVP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.symantec.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>00</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E007400720079</Bytes>
+			<ASCII> R . o . o . t .   . E . n . t . r . y</ASCII>
+			<Pos>1024</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>44006F0063004800650061006400650072</Bytes>
+			<ASCII> D . o . c . H . e . a . d . e . r</ASCII>
+			<Pos>1152</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>P'A'G'E'H'E'A'D'E'R</String>
+		<String>FROM PHONE NUMBER</String>
+		<String>D'O'C'H'E'A'D'E'R</String>
+		<String>K'E'Y'W'O'R'D'S</String>
+		<String>C'O'M'M'E'N'T</String>
+		<String>A'U'T'H'O'R</String>
+		<String>FAX NUMBER</String>
+		<String>FROM NAME</String>
+		<String>G'E'M</String>
+		<String>NOTE</String>
+		<String>DATE</String>
+	</GlobalStrings>
+</TrID>

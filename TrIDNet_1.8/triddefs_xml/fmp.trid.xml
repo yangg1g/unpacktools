@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>The Fractal Mapper map</FileType>
+		<Ext>FMP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.nbos.com/products/mapper/mapper.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>04</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>03</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B426567696E5D0D0A446566696E6974696F6E3A20546865204672616374616C204D6170706572204D61702046696C650D0A466F726D61743A20</Bytes>
+			<ASCII> [ B e g i n ] . . D e f i n i t i o n :   T h e   F r a c t a l   M a p p e r   M a p   F i l e . . F o r m a t :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>THE FRACTAL MAPPER MAP FILE</String>
+		<String>DEFINEDSCRIPT</String>
+		<String>LINETHICKNESS</String>
+		<String>SPANUNITNAME</String>
+		<String>DEFAULTCOLOR</String>
+		<String>GRIDLOCATION</String>
+		<String>SPANHEIGHT</String>
+		<String>GRIDHEIGHT</String>
+		<String>BRUSHCOLOR</String>
+		<String>DEFINITION</String>
+		<String>RANDOMSEED</String>
+		<String>TMAP3POLY</String>
+		<String>GRIDCOLOR</String>
+		<String>SPANWIDTH</String>
+		<String>GRIDWIDTH</String>
+		<String>MAPTITLE</String>
+		<String>GRIDTYPE</String>
+		<String>MAPNAME</String>
+		<String>OBJECT</String>
+		<String>SYMBOL</String>
+		<String>FORMAT</String>
+		<String>BEGIN</String>
+		<String>PREC</String>
+	</GlobalStrings>
+</TrID>

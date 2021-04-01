@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+	<Info>
+		<FileType>CHP! - CH compressor for Picture! compressed bitmap</FileType>
+		<Ext>CHP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.din.or.jp/~ch3/randd_e.html#CHP!</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2003</Year>
+			<Month>08</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>20</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.23</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>434850210000</Bytes>
+			<ASCII> C H P !</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,74 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Microsoft DirectMusic Style</FileType>
+        <Ext>STY</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://msdn.microsoft.com/library/en-us/directx9_c/directx/htm/styles.asp</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>6</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </Date>
+        <Time>
+            <Hour>00</Hour>
+            <Min>38</Min>
+            <Sec>07</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.50</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>52494646</Bytes>
+            <ASCII> R I F F</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00444D5354737479680C000000</Bytes>
+            <ASCII> . D M S T s t y h</ASCII>
+            <Pos>7</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>000000000000</Bytes>
+            <Pos>23</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>406775696410000000</Bytes>
+            <ASCII> @ g u i d</ASCII>
+            <Pos>31</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>4C495354</Bytes>
+            <ASCII> L I S T</ASCII>
+            <Pos>56</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>000000554E464F554E414D</Bytes>
+            <ASCII> . . . U N F O U N A M</ASCII>
+            <Pos>61</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>DMBDguid</String>
+        <String>DMSTstyh</String>
+        <String>LISTx</String>
+        <String>RIFF</String>
+        <String>UNFOUNAM</String>
+        <String>lbilLIST</String>
+        <String>lbinbins</String>
+        <String>note</String>
+        <String>partprth</String>
+        <String>prefprfc</String>
+        <String>pttnptnh</String>
+        <String>rhtm</String>
+        <String>vers</String>
+    </GlobalStrings>
+</TrID>

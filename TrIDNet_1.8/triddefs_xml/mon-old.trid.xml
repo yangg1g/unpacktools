@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>M.O.N Old Music</FileType>
+		<Ext>MON</Ext>
+		<ExtraInfo>
+			<Rem>Music format created by Charles Deenen, used by the Maniacs of Noise.</Rem>
+			<RefURL>http://exotica.fix.no/tunes/unexotica/formats/MON_Old.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>39</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0239000100</Bytes>
+			<ASCII> . 9</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>66024E757800183900</Bytes>
+			<ASCII> f . N u x . . 9</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>X'R'P'P'P'P</String>
+	</GlobalStrings>
+</TrID>

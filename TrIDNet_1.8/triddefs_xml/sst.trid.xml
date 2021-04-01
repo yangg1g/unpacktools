@@ -1,0 +1,62 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Stream SubText Player subtitles</FileType>
+		<Ext>SST</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>2</Min>
+			<Sec>8</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53535420322E</Bytes>
+			<ASCII> S S T   2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A3B0D0A3B546869732069732061207375627469746C65732066696C652E0D0A3B476574207468652053747265616D205375627465787420506C617965722061740D0A3B687474703A2F2F68656D2E706173736167656E2E73652F6A6D6F726F6E65732F50616765732F53747265616D537562546578742E68746D0D0A3B0D0A5B50524F504552544945535D0D0A5469746C653D</Bytes>
+			<ASCII> . . ; . . ; T h i s   i s   a   s u b t i t l e s   f i l e . . . ; G e t   t h e   S t r e a m   S u b t e x t   P l a y e r   a t . . ; h t t p : / / h e m . p a s s a g e n . s e / j m o r o n e s / P a g e s / S t r e a m S u b T e x t . h t m . . ; . . [ P R O P E R T I E S ] . . T i t l e =</ASCII>
+			<Pos>10</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FONTSIZEPERCENT</String>
+		<String>AUTOSCALETEXT</String>
+		<String>VIDEOSTANDARD</String>
+		<String>DESCRIPTION</String>
+		<String>PIXELASPECT</String>
+		<String>PROPERTIES</String>
+		<String>TIMEOFFSET</String>
+		<String>BACKCOLOR</String>
+		<String>BOXHEIGHT</String>
+		<String>COPYRIGHT</String>
+		<String>FRAMERATE</String>
+		<String>LANGUAGE2</String>
+		<String>MOVIEFILE</String>
+		<String>AUTHOR</String>
+		<String>VOLUME</String>
+		<String>WIDTH</String>
+	</GlobalStrings>
+</TrID>

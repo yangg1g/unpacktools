@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Web Open Font Format</FileType>
+		<Ext>WOFF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.w3.org/TR/WOFF</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>5</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>12</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>774F4646</Bytes>
+			<ASCII> w O F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CMAP</String>
+		<String>HEAD</String>
+		<String>HHEA</String>
+		<String>HMTX</String>
+		<String>MAXP</String>
+		<String>NAME</String>
+		<String>POST</String>
+		<String>WOFF</String>
+	</GlobalStrings>
+</TrID>

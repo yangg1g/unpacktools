@@ -1,0 +1,78 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Nero Video-CD compilation</FileType>
+		<Ext>NRV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ahead.de</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>40</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>050000000100010000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5049435455524553</Bytes>
+			<ASCII> P I C T U R E S</ASCII>
+			<Pos>14</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NERO BOOT-LOADER V6.0LOVJ</String>
+		<String>CD-RTOS CD-BRIDGE</String>
+		<String>SCANDATA.DAT</String>
+		<String>CDI_TEXT.FNT</String>
+		<String>CDI_IMAG.RTF</String>
+		<String>CDI_VCD.CFG</String>
+		<String>AVSEQ01.DAT</String>
+		<String>CDI_VCD.APP</String>
+		<String>ENTRIES.VCD</String>
+		<String>PSDCURSHAPE</String>
+		<String>CENTRTRACK</String>
+		<String>TIMECODE_X</String>
+		<String>TIMECODE_Y</String>
+		<String>LOT_X.VCD</String>
+		<String>PSDCURCOL</String>
+		<String>PSD_X.VCD</String>
+		<String>___1VCD1</String>
+		<String>DUALCHAN</String>
+		<String>STANDARD</String>
+		<String>INFO.VCD</String>
+		<String>PICTURES</String>
+		<String>CONTROLS</String>
+		<String>AUTOPLAY</String>
+		<String>LOTID_Y</String>
+		<String>LOTID_X</String>
+		<String>SEGMENT</String>
+		<String>DUAL_ON</String>
+		<String>LOT.VCD</String>
+		<String>PSD.VCD</String>
+		<String>AUTO_ON</String>
+		<String>NEROISO</String>
+		<String>MPEGAV</String>
+		<String>ARROW</String>
+		<String>ALBUM</String>
+		<String>MACV</String>
+		<String>EDJO</String>
+		<String>FIVA</String>
+		<String>FSIZ</String>
+	</GlobalStrings>
+</TrID>

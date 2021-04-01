@@ -1,0 +1,64 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MiniCAD drawing</FileType>
+		<Ext>MCD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/MiniCAD</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>29</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>54</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000</Bytes>
+			<Pos>4</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>002000000041</Bytes>
+			<ASCII> .   . . . A</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>54</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>02</Bytes>
+			<Pos>56</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>71</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>40</Bytes>
+			<ASCII> @</ASCII>
+			<Pos>92</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>UU''''''UU''''''UU</String>
+		<String>DD''''''DD''''''DD</String>
+		<String>INTERACTIVERENDERER</String>
+	</GlobalStrings>
+</TrID>

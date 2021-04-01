@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Adobe Device Central Project</FileType>
+		<Ext>ADCP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Adobe_Device_Central</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>40</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0A0A3C70726F6A656374</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ? . . . . p r o j e c t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>5CFF2C68-96B3-11DC-8314-0800200C9A66</String>
+		<String>5CFF2C68-96B3-11DC-8314-0800200C9A67</String>
+		<String>5CFF2C68-96B3-11DC-8314-0800200C9A68</String>
+		<String>SEND TO BLUETOOTH DEVICE</String>
+		<String>CONFIGUREBEFOREEXECUTE</String>
+		<String>SEND TO FTP SERVER</String>
+		<String>DIALOG HEIGHT</String>
+		<String>COPY FILE TO</String>
+		<String>TITLE VALUE</String>
+		<String>XML VERSION</String>
+		<String>COPYFILETO</String>
+		<String>TASK GUID</String>
+		<String>ENCODING</String>
+		<String>GENERAL</String>
+		<String>PROJECT</String>
+		<String>SENDTO</String>
+		<String>TASKS</String>
+		<String>UTF-8</String>
+		<String>WIDTH</String>
+		<String>ADAT</String>
+	</GlobalStrings>
+</TrID>

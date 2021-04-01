@@ -1,0 +1,100 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Baseline Security Analyser report</FileType>
+		<Ext>MBSA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/technet/security/tools/mbsahome.mspx</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>59</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3C005300650063005300630061006E002000490044003D002200</Bytes>
+			<ASCII> . . . . S . e . c . S . c . a . n .   . I . D . = . "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>I'N'T'E'R'N'E'T' 'E'X'P'L'O'R'E'R' 'Z'O'N'E'S' 'H'A'V'E' 'S'E'C'U'R'E' 'S'E'T'T'I'N'G'S' 'F'O'R' 'A'L'L' 'U'S'E'R'S'.</String>
+		<String>T'H'E' 'G'U'E'S'T' 'A'C'C'O'U'N'T' 'I'S' 'D'I'S'A'B'L'E'D' 'O'N' 'T'H'I'S' 'C'O'M'P'U'T'E'R'.</String>
+		<String>L'O'C'A'L' 'A'C'C'O'U'N'T' 'P'A'S'S'W'O'R'D' 'T'E'S'T</String>
+		<String>W'I'N'D'O'W'S' 'S'E'C'U'R'I'T'Y' 'U'P'D'A'T'E'S</String>
+		<String>S'E'C'U'R'I'T'Y'U'P'D'A'T'E'S'S'C'A'N'D'O'N'E</String>
+		<String>P'A'S'S'W'O'R'D' 'E'X'P'I'R'A'T'I'O'N</String>
+		<String>S'E'C'U'R'I'T'Y' 'U'P'D'A'T'E' 'F'O'R</String>
+		<String>R'E'S'T'R'I'C'T' 'A'N'O'N'Y'M'O'U'S</String>
+		<String>A'U'T'O'M'A'T'I'C' 'U'P'D'A'T'E'S</String>
+		<String>H'O'T'F'I'X'D'A'T'A'V'E'R'S'I'O'N</String>
+		<String>W'W'W'.'M'I'C'R'O'S'O'F'T'.'C'O'M</String>
+		<String>W'I'N'D'O'W'S' 'F'I'R'E'W'A'L'L</String>
+		<String>M'B'S'A'T'O'O'L'V'E'R'S'I'O'N</String>
+		<String>W'I'N'D'O'W'S' 'V'E'R'S'I'O'N</String>
+		<String>M'A'C'R'O' 'S'E'C'U'R'I'T'Y</String>
+		<String>S'Q'L' 'S'E'R'V'E'R' 'A'N'D</String>
+		<String>W'E'A'K' 'P'A'S'S'W'O'R'D</String>
+		<String>D'R'I'V'E' 'L'E'T'T'E'R</String>
+		<String>M'S'D'E' 'S'T'A'T'U'S</String>
+		<String>D'I'S'P'L'A'Y'N'A'M'E</String>
+		<String>I'S'W'O'R'K'G'R'O'U'P</String>
+		<String>C'O'M'P'U'T'E'R' 'I'S</String>
+		<String>M'I'C'R'O'S'O'F'T' 'O</String>
+		<String>D'E'T'A'I'L' 'T'E'X'T</String>
+		<String>I'I'S' 'S'T'A'T'U'S</String>
+		<String>S'E'C'S'C'A'N' 'I'D</String>
+		<String>P'A'S'S'W'O'R'D'S'.</String>
+		<String>L'O'C'K'E'D' 'O'U'T</String>
+		<String>E' 'U'P'D'A'T'E'S</String>
+		<String>R'O'W' 'G'R'A'D'E</String>
+		<String>C'O'M'P'O'S'I'T'E</String>
+		<String>S'U'S'S'E'R'V'E'R</String>
+		<String>A'U'T'O'L'O'G'O'N</String>
+		<String>A'U'D'I'T'I'N'G</String>
+		<String>R'E'Q'U'I'R'E'D</String>
+		<String>D'O'W'N'L'O'A'D</String>
+		<String>C'H'E'C'K' 'I'D</String>
+		<String>S'E'R'V'I'C'E'S</String>
+		<String>F'I'X'.'H'T'M'L</String>
+		<String>B'U'L'L'E'T'I'N</String>
+		<String>I'E' 'Z'O'N'E'S</String>
+		<String>I'P' 'A'D'D'R</String>
+		<String>T'E'C'H'N'E'T</String>
+		<String>M'A'C'H'I'N'E</String>
+		<String>H'F'F'L'A'G'S</String>
+		<String>S'U'P'P'O'R'T</String>
+		<String>A'D'V'I'C'E</String>
+		<String>S'H'A'R'E'S</String>
+		<String>D'O'M'A'I'N</String>
+		<String>O'F'F'I'C'E</String>
+		<String>I'P'L'I'S'T</String>
+		<String>C'H'A'N'G'E</String>
+		<String>T'I'O'N'S</String>
+		<String>L'D'A'T'E</String>
+		<String>H'E'A'D</String>
+		<String>H'T'T'P</String>
+		<String>R'A'N'K</String>
+		<String>T'Y'P'E</String>
+		<String>H'E'L'P</String>
+		<String>S'P'X</String>
+		<String>U'R'L</String>
+		<String>P'L'E</String>
+		<String>C'A'T</String>
+		<String>C'O'L</String>
+	</GlobalStrings>
+</TrID>

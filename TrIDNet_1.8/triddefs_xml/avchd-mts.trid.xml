@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AVCHD video clips - MPEG Transport Stream</FileType>
+		<Ext>MTS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/AVCHD</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>41</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4740</Bytes>
+			<ASCII> G @</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>48444D56</Bytes>
+			<ASCII> H D M V</ASCII>
+			<Pos>215</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

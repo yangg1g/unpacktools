@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Red Hat Package Manager Source (src.rpm)</FileType>
+		<Ext>RPM</Ext>
+		<ExtraInfo>
+			<Rem>N.B. The double extension is 'src.rpm'</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/RPM_Package_Manager</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>9</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>27</Min>
+			<Sec>4</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EDABEEDB</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000100</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ROOT'ROOT</String>
+		<String>.SPEC</String>
+		<String>LINUX</String>
+	</GlobalStrings>
+</TrID>

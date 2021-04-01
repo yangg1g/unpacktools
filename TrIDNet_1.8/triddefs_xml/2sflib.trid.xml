@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Nintendo DS audio Library</FileType>
+		<Ext>2SFLIB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<Refine>11 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>42</Min>
+			<Sec>1</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5053462400000000</Bytes>
+			<ASCII> P S F $</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>78DAEC</Bytes>
+			<ASCII> x</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7814</Bytes>
+			<ASCII> x</ASCII>
+			<Pos>21</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>D6</Bytes>
+			<Pos>24</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,73 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TextMate Theme</FileType>
+		<Ext>TMTHEME</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://macromates.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>27</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0A3C21444F435459504520706C697374205055424C494320222D2F2F4170706C65</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ? . . . ! D O C T Y P E   p l i s t   P U B L I C   " - / / A p p l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCTYPE PLIST PUBLIC</String>
+		<String>PROPERTYLIST-1.0.DTD</String>
+		<String>DTD PLIST 1.0</String>
+		<String>LINEHIGHLIGHT</String>
+		<String>PLIST VERSION</String>
+		<String>WWW.APPLE.COM</String>
+		<String>XML VERSION</String>
+		<String>BACKGROUND</String>
+		<String>FOREGROUND</String>
+		<String>INVISIBLES</String>
+		<String>.FUNCTION</String>
+		<String>CONSTANT.</String>
+		<String>FONTSTYLE</String>
+		<String>SELECTION</String>
+		<String>ENCODING</String>
+		<String>SETTINGS</String>
+		<String>VARIABLE</String>
+		<String>.OTHER.</String>
+		<String>COMMENT</String>
+		<String>ENTITY.</String>
+		<String>INVALID</String>
+		<String>KEYWORD</String>
+		<String>STORAGE</String>
+		<String>SUPPORT</String>
+		<String>STRING</String>
+		<String>.TYPE</String>
+		<String>ARRAY</String>
+		<String>CARET</String>
+		<String>CLASS</String>
+		<String>SCOPE</String>
+		<String>UTF-8</String>
+		<String>DICT</String>
+		<String>DTDS</String>
+		<String>HTTP</String>
+		<String>NAME</String>
+		<String>UUID</String>
+	</GlobalStrings>
+</TrID>

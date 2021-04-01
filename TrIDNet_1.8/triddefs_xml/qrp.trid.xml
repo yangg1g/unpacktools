@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>QuickReport Report</FileType>
+		<Ext>QRP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.qbssoftware.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>45</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FF0A00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>QUICKREPORTAFTERPREVIEW</String>
+		<String>QUICKREPORTBEFOREPRINT</String>
+		<String>QUICKREPORTAFTERPRINT</String>
+		<String>QUICKREPORTNEEDDATA</String>
+		<String>FORMCLOSEQUERY</String>
+		<String>WINDOWSTATE</String>
+		<String>FIELDFORMAT</String>
+		<String>SNAPTOGRID</String>
+		<String>FONT.COLOR</String>
+		<String>TFORMPRINT</String>
+		<String>FONT.STYLE</String>
+		<String>FORMCREATE</String>
+		<String>TEXTHEIGHT</String>
+		<String>TQUICKREP</String>
+		<String>TAQRLABEL</String>
+		<String>FIELDNAME</String>
+		<String>TAQRIMAGE</String>
+		<String>BANDTYPE</String>
+		<String>TAQRBAND</String>
+		<String>FONTSIZE</String>
+		<String>TAQRMEMO</String>
+		<String>ONCREATE</String>
+		<String>QRIMAGE1</String>
+		<String>WORDWRAP</String>
+		<String>AUTOSIZE</String>
+	</GlobalStrings>
+</TrID>

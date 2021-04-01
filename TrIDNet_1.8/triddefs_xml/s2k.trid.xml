@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sasami Script subtitles</FileType>
+		<Ext>S2K</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>26</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3B456E762E4D6F7669652E57696474683D</Bytes>
+			<ASCII> ; E n v . M o v i e . W i d t h =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SET.FONT.OUTLINE2.COLOR</String>
+		<String>SET.FONT.OUTLINE.COLOR</String>
+		<String>SET.START.POSITION.X</String>
+		<String>SET.START.POSITION.Y</String>
+		<String>SET.FONT.STYLE.BOLD</String>
+		<String>SET.END.POSITION.X</String>
+		<String>SET.END.POSITION.Y</String>
+		<String>ENV.MOVIE.HEIGHT</String>
+		<String>ENV.MOVIE.WIDTH</String>
+		<String>SET.ALPHA.START</String>
+		<String>SET.ALPHA.STEP</String>
+		<String>SET.FONT.COLOR</String>
+		<String>SET.TIME.DELAY</String>
+		<String>SET.TIME.START</String>
+		<String>SET.ALPHA.END</String>
+		<String>SET.FONT.FACE</String>
+		<String>SET.FONT.SIZE</String>
+		<String>BUFFER.PUSH</String>
+		<String>BUFFER.POP</String>
+		<String>SET.SLOT</String>
+	</GlobalStrings>
+</TrID>

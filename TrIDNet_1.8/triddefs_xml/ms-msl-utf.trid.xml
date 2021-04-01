@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mapping Specification Language (UTF-8)</FileType>
+		<Ext>MSL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://msdn.microsoft.com/en-us/library/ff953006.aspx</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>3</Month>
+			<Day>5</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>18</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D3822</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ENTITYCONTAINERMAPPING STORAGEENTITYCONTAINER</String>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>TYPEMAPPING TYPENAME</String>
+		<String>SCALARPROPERTY NAME</String>
+		<String>CDMENTITYCONTAINER</String>
+		<String>LSTORECONTAINER</String>
+		<String>MAPPING SPACE</String>
+		<String>XML VERSION</String>
+		<String>COLUMNNAME</String>
+		<String>ENCODING</String>
+		<String>TMAPPING</String>
+		<String>MODEL</String>
+		<String>UTF-8</String>
+		<String>XMLNS</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

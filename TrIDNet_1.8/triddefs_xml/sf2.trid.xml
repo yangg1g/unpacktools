@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Standard SoundFont</FileType>
+        <Ext>SF2</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>12</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>10</Month>
+            <Day>22</Day>
+        </Date>
+        <Time>
+            <Hour>00</Hour>
+            <Min>28</Min>
+            <Sec>28</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>52494646</Bytes>
+            <ASCII> R I F F</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>007366626B4C495354</Bytes>
+            <ASCII> . s f b k L I S T</ASCII>
+            <Pos>7</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000494E464F6966696C040000000200</Bytes>
+            <ASCII> . . I N F O i f i l</ASCII>
+            <Pos>18</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>pbag</String>
+        <String>inst</String>
+        <String>isng</String>
+        <String>ISFT</String>
+        <String>pmod</String>
+        <String>imod</String>
+        <String>INAM</String>
+        <String>ibag</String>
+        <String>pgen</String>
+        <String>sdtasmpl</String>
+        <String>pdtaphdr</String>
+        <String>ICOP</String>
+        <String>igen</String>
+    </GlobalStrings>
+</TrID>

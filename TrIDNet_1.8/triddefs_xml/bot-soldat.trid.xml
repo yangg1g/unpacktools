@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Soldat Bot Information</FileType>
+		<Ext>BOT</Ext>
+		<ExtraInfo>
+			<Rem>Soldat is a unique side-view multiplayer action game.</Rem>
+			<RefURL>http://www.soldat.pl</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>100</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>03</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>57</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B424F545D0D0A4E616D653D</Bytes>
+			<ASCII> [ B O T ] . . N a m e =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GRENADE_FREQUENCY</String>
+		<String>SECONDARY_WEAPON</String>
+		<String>FAVOURITE_WEAPON</String>
+		<String>CHAT_FREQUENCY</String>
+		<String>CHAT_LOWHEALTH</String>
+		<String>CHAT_SEEENEMY</String>
+		<String>CHAT_WINNING</String>
+		<String>ONSTARTUSE</String>
+		<String>SKIN_COLOR</String>
+		<String>SHOOT_DEAD</String>
+		<String>HAIR_COLOR</String>
+		<String>CHAT_KILL</String>
+		<String>CHAT_DEAD</String>
+		<String>HEADGEAR</String>
+		<String>ACCURACY</String>
+		<String>CAMPING</String>
+		<String>FRIEND</String>
+		<String>COLOR1</String>
+		<String>COLOR2</String>
+		<String>CHAIN</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

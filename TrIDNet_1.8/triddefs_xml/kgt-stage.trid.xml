@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>2D Fighter Maker 2nd stage data</FileType>
+		<Ext>STAGE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Fighter_Maker</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>54</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>32444B475432</Bytes>
+			<ASCII> 2 D K G T 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PLAYER LAYERS</String>
+		<String>PLAYER SELECT</String>
+		<String>SCRIPT    1</String>
+		<String>WAVEFMT</String>
+		<String>FACT</String>
+		<String>OUND</String>
+		<String>BACK</String>
+		<String>DATA</String>
+		<String>RIFF</String>
+		<String>MTHD</String>
+		<String>MTRK</String>
+		<String>.MID</String>
+	</GlobalStrings>
+</TrID>

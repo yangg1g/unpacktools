@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>InfoPath Dynamic Form - Template</FileType>
+		<Ext>XSN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/office/infopath</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>25</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>06</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>28</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D53434600000000</Bytes>
+			<ASCII> M S C F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TEMPLATE.XML</String>
+		<String>MANIFEST.XSF</String>
+		<String>SAMPLE</String>
+		<String>.XSD</String>
+		<String>.XSL</String>
+		<String>VIEW</String>
+		<String>MSCF</String>
+	</GlobalStrings>
+</TrID>

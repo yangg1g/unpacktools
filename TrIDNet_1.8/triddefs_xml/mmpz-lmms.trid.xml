@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LMMS Project Zipped</FileType>
+		<Ext>MMPZ</Ext>
+		<ExtraInfo>
+			<Rem>Linux MultiMedia Studio is a free cross-platform music production software.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/LMMS</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<Date>
+			<Year>2014</Year>
+			<Month>1</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>28</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>789C</Bytes>
+			<ASCII> x</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

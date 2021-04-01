@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Zoot information processor database</FileType>
+		<Ext>ZOT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.zootsoftware.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>37</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5A4F54</Bytes>
+			<ASCII> Z O T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

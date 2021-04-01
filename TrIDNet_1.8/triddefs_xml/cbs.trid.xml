@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RKS Software Clandar Builder Style Sheet</FileType>
+		<Ext>CBS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.rkssoftware.com/calendarbuilder/overview.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>5 by Marco Pontello</Refine>
+		<Date>
+			<Year>2003</Year>
+			<Month>12</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>40</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>010204020202</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>02</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

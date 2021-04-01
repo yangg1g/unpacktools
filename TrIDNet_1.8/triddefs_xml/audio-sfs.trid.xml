@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>sfxr Sample</FileType>
+		<Ext>SFS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.drpetter.se/project_sfxr.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>6</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>55</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>66000000</Bytes>
+			<ASCII> f</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3F</Bytes>
+			<ASCII> ?</ASCII>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3F</Bytes>
+			<ASCII> ?</ASCII>
+			<Pos>72</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

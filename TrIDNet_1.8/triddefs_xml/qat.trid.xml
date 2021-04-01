@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Office Quick Access Toolbar info</FileType>
+		<Ext>QAT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>08</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C6D736F3A637573746F6D554920786D6C6E733A6D736F</Bytes>
+			<ASCII> . m s o : c u s t o m U I   x m l n s : m s o</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>FILESENDASATTACHMENT</String>
+		<String>FILEPRINTPREVIEW</String>
+		<String>SHAREDCONTROLS</String>
+		<String>CUSTOMUI XMLNS</String>
+		<String>FILEPRINTQUICK</String>
+		<String>FILENEWDEFAULT</String>
+		<String>INSERTBEFOREQ</String>
+		<String>CONTROL IDQ</String>
+		<String>FILESAVE</String>
+		<String>FILEOPEN</String>
+		<String>SPELLING</String>
+		<String>VISIBLE</String>
+		<String>RIBBON</String>
+		<String>OFFICE</String>
+		<String>FALSE</String>
+		<String>HTTP</String>
+		<String>REDO</String>
+		<String>TRUE</String>
+		<String>UNDO</String>
+	</GlobalStrings>
+</TrID>

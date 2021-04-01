@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Bitz and Pixels XML (ASCII)Report Template Info for collectorz.com products</FileType>
+		<Ext>CTI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.collectorz.com/</RefURL>
+		</ExtraInfo>
+		<User>Robert Williams</User>
+		<E-Mail>gwoalath(at)gmail.com</E-Mail>
+		<Home>http://drodds.blogspot.com</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>52</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C74656D706C6174655F696E666F3E</Bytes>
+			<ASCII> . t e m p l a t e _ i n f o</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SUPPORTS_THUMBNAILS</String>
+		<String>SUPPORTS_IMAGES</String>
+		<String>TEMPLATE_TYPE</String>
+		<String>TEMPLATE_INFO</String>
+		<String>DESCRIPTION</String>
+		<String>ITEM_TYPE</String>
+		<String>FILENAME</String>
+		<String>PRODUCT</String>
+		<String>MOVIE</String>
+	</GlobalStrings>
+</TrID>

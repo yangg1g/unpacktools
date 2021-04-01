@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>OpenEXR High Dynamic-Range bitmap</FileType>
+        <Ext>EXR</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.openexr.com/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>21</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>20</Day>
+        </Date>
+        <Time>
+            <Hour>00</Hour>
+            <Min>13</Min>
+            <Sec>59</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>762F3101</Bytes>
+            <ASCII> v / 1</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

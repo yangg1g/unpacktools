@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Tinyseq sequence format</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.bioperl.org/wiki/Tinyseq_sequence_format</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>1</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E30223F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCTYPE TSEQSET PUBLIC</String>
+		<String>WWW.NCBI.NLM.NIH.GOV</String>
+		<String>TSEQ_SEQTYPE VALUE</String>
+		<String>NCBI_TSEQ.DTD</String>
+		<String>TSEQ_SEQUENCE</String>
+		<String>TSEQ_DEFLINE</String>
+		<String>TSEQ_ORGNAME</String>
+		<String>TSEQ_LENGTH</String>
+		<String>XML VERSION</String>
+		<String>NUCLEOTIDE</String>
+		<String>TSEQ_TAXID</String>
+		<String>NCBI TSEQ</String>
+		<String>TSEQ_GI</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

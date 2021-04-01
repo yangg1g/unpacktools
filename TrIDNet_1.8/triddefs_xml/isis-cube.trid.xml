@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Isis Cube data</FileType>
+		<Ext>CUB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://isis.astrogeology.usgs.gov/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>33</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>43435344335A46303030303130303030303030314E4A504C33494630504453323030303030303031203D20534644555F4C4142454C0D0A0D0A2F2A2046696C6520537472756374757265202A2F0D0A0D0A5245434F52445F54595045203D2046495845445F4C454E4754480D0A5245434F52445F4259544553203D203531320D0A46494C455F5245434F524453203D20</Bytes>
+			<ASCII> C C S D 3 Z F 0 0 0 0 1 0 0 0 0 0 0 0 1 N J P L 3 I F 0 P D S 2 0 0 0 0 0 0 0 1   =   S F D U _ L A B E L . . . . / *   F i l e   S t r u c t u r e   * / . . . . R E C O R D _ T Y P E   =   F I X E D _ L E N G T H . . R E C O R D _ B Y T E S   =   5 1 2 . . F I L E _ R E C O R D S   =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ISIS_INSTRUMENT</String>
+		<String>ISIS CUBE FILE</String>
+	</GlobalStrings>
+</TrID>

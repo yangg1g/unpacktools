@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>A.M.Composer 1.2 Music</FileType>
+		<Ext>AMC</Ext>
+		<ExtraInfo>
+			<Rem> Music format created in 1989 by Marc Hawliteck of Vesalia-Soft.</Rem>
+			<RefURL>http://exotica.fix.no/tunes/unexotica/formats/AMComposer_12.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>58</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>414D432056312E32205245504C415921</Bytes>
+			<ASCII> A M C 	V 1 . 2 	R E P L A Y !</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

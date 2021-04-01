@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DOS EXE PKLite compressed (+PKHide)</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem>PKHide is an utility from Ken Silverman to hide the PKLite signature.</Rem>
+			<RefURL>http://advsys.net/ken/utils.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>02</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>37</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A</Bytes>
+			<ASCII> M Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0100</Bytes>
+			<Pos>6</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>9</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000200000001F0FF5700000001</Bytes>
+			<ASCII> . . . . . . . . W</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2923BE84E16CD6AE529049F1F1BBE9EBB3A6DB3C870C3E99245E0D1C06B747DEB3124DC843BB8BA61F035A7D0938251F5DD4CBFC657276656408000000</Bytes>
+			<ASCII> ) # . . . l . . R . I . . . . . . . . . . . . . $ ^ . . . . G . . . M . C . . . . . Z } . 8 % . ] . . . e r v e d</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ERVED</String>
+		<String>NOT ENOUGH MEMORY$</String>
+	</GlobalStrings>
+</TrID>

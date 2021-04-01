@@ -1,0 +1,80 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mac OS X crash log</FileType>
+		<Ext>CRASH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>38</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2014</Year>
+			<Month>1</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>5</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50726F636573733A202020202020202020</Bytes>
+			<ASCII> P r o c e s s :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>LIBSYSTEM.B.DYLIB</String>
+		<String>LIBAUTO.DYLIB</String>
+		<String>EXCEPTION CODES</String>
+		<String>LIBOBJC.A.DYLIB</String>
+		<String>ANONYMOUS UUID</String>
+		<String>CRASHED THREAD</String>
+		<String>EXCEPTION TYPE</String>
+		<String>PARENT PROCESS</String>
+		<String>REPORT VERSION</String>
+		<String>BINARY IMAGES</String>
+		<String>CRASHED WITH</String>
+		<String>LIBZ.1.DYLIB</String>
+		<String>THREAD STATE</String>
+		<String>COM.APPLE.M</String>
+		<String>.FRAMEWORK</String>
+		<String>0X00000000</String>
+		<String>FRAMEWORKS</String>
+		<String>IDENTIFIER</String>
+		<String>CODE TYPE</String>
+		<String>(NATIVE)</String>
+		<String>.DYLIB</String>
+		<String>NETWORK.</String>
+		<String>THREAD 0</String>
+		<String>VERSIONS</String>
+		<String>ICATION</String>
+		<String>LIBRARY</String>
+		<String>COMMON</String>
+		<String>LAUNCH</String>
+		<String>LIBIC</String>
+		<String>LIBMA</String>
+		<String>(SIG</String>
+		<String>ACCE</String>
+		<String>C++.</String>
+		<String>CORE</String>
+		<String>DATA</String>
+		<String>DATE</String>
+		<String>DYLD</String>
+		<String>EXC_</String>
+		<String>FFFF</String>
+		<String>LIBX</String>
+		<String>PATH</String>
+		<String>SERV</String>
+		<String>TIME</String>
+	</GlobalStrings>
+</TrID>

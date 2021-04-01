@@ -1,0 +1,138 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Poser character rigging</FileType>
+		<Ext>CR2</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Poser</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>24</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>3</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>30</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7B0A</Bytes>
+			<ASCII> {</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DISPLAYMODE USEPARENT</String>
+		<String>SETGEOMHANDLEROFFSET</String>
+		<String>VISIBLEINREFLECTIONS</String>
+		<String>GROUPNODE TRANSFORM</String>
+		<String>DISPLACEMENTBOUNDS</String>
+		<String>INCLUDEINDEPTHCUE</String>
+		<String>INTERPSTYLELOCKED</String>
+		<String>PROPAGATINGSCALEX</String>
+		<String>PROPAGATINGSCALEY</String>
+		<String>PROPAGATINGSCALEZ</String>
+		<String>TRACKINGSCALEMULT</String>
+		<String>GOALCENTEROFMASS</String>
+		<String>MATRIXACTOR NULL</String>
+		<String>SMOOTHSCALEY HIP</String>
+		<String>GEOMHANDLERGEOM</String>
+		<String>PARENT UNIVERSE</String>
+		<String>VISIBLEINRENDER</String>
+		<String>CUSTOMMATERIAL</String>
+		<String>ORIGFIGURETYPE</String>
+		<String>OTHERACTOR HIP</String>
+		<String>ALLOWSBENDING</String>
+		<String>DISPLAYORIGIN</String>
+		<String>FIGURERESFILE</String>
+		<String>JOINTX JOINTX</String>
+		<String>JOINTZ JOINTZ</String>
+		<String>SPHEREMATSRAW</String>
+		<String>STORAGEOFFSET</String>
+		<String>TWISTY TWISTY</String>
+		<String>BACKFACECULL</String>
+		<String>DYNAMICSLOCK</String>
+		<String>CALCWEIGHTS</String>
+		<String>CASTSSHADOW</String>
+		<String>CREASEANGLE</String>
+		<String>FORCELIMITS</String>
+		<String>NAME JOINTX</String>
+		<String>NAME XSCALE</String>
+		<String>NAME YSCALE</String>
+		<String>NAME ZSCALE</String>
+		<String>ORIENTATION</String>
+		<String>PARENT BODY</String>
+		<String>SHADINGRATE</String>
+		<String>SMOOTHPOLYS</String>
+		<String>SMOOTHZONES</String>
+		<String>STATICVALUE</String>
+		<String>ACTOR BODY</String>
+		<String>CONFORMING</String>
+		<String>GEOMETRIES</String>
+		<String>NAME SCALE</String>
+		<String>NAME TWIST</String>
+		<String>NAME XTRAN</String>
+		<String>NAME YTRAN</String>
+		<String>NAME ZTRAN</String>
+		<String>PARENT HIP</String>
+		<String>TRANSLATEX</String>
+		<String>TRANSLATEY</String>
+		<String>TRANSLATEZ</String>
+		<String>USEZBUFFER</String>
+		<String>XOFFSETB X</String>
+		<String>YOFFSETB Y</String>
+		<String>ZOFFSETB Z</String>
+		<String>ADDTOMENU</String>
+		<String>ALGORITHM</String>
+		<String>CANONTYPE</String>
+		<String>DISPLAYON</String>
+		<String>INITVALUE</String>
+		<String>JOINTMULT</String>
+		<String>ADDCHILD</String>
+		<String>CHANNELS</String>
+		<String>ENDPOINT</String>
+		<String>NAME HIP</String>
+		<String>PARMNODE</String>
+		<String>XOFFSETA</String>
+		<String>YOFFSETA</String>
+		<String>ZOFFSETA</String>
+		<String>DOBULGE</String>
+		<String>FLIPPED</String>
+		<String>ROTATEX</String>
+		<String>ROTATEY</String>
+		<String>ROTATEZ</String>
+		<String>RUNTIME</String>
+		<String>STARTPT</String>
+		<String>VERSION</String>
+		<String>_JOINTX</String>
+		<String>_JOINTY</String>
+		<String>_JOINTZ</String>
+		<String>_TWISTY</String>
+		<String>ANGLES</String>
+		<String>GROUPS</String>
+		<String>HIDDEN</String>
+		<String>NUMBER</String>
+		<String>_SMOOY</String>
+		<String>COLLA</String>
+		<String>ENDPT</String>
+		<String>HIGH</String>
+		<String>KEYS</String>
+		<String>ROOT</String>
+		<String>SIDE</String>
+		<String>WELD</String>
+		<String>XROT</String>
+		<String>YROT</String>
+		<String>ZROT</String>
+	</GlobalStrings>
+</TrID>

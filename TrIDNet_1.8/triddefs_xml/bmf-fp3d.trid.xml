@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FloorPlan 3D project</FileType>
+		<Ext>BMF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://imsidesign.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>07</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>45</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000466C6F6F72506C616E3344202863723A2022</Bytes>
+			<ASCII> . . . F l o o r P l a n 3 D   ( c r :   "</ASCII>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FLOORPLAN3D (CR</String>
+	</GlobalStrings>
+</TrID>

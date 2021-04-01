@@ -1,0 +1,75 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LMMS Preset</FileType>
+		<Ext>XPF</Ext>
+		<ExtraInfo>
+			<Rem>Linux MultiMedia Studio is a free cross-platform music production software.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/LMMS</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2014</Year>
+			<Month>1</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>32</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E30223F3E0A3C21444F4354595045206D756C74696D656469612D70726F6A6563743E0A3C6D756C74696D65646961</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 " ? . . . ! D O C T Y P E   m u l t i m e d i a - p r o j e c t . . . m u l t i m e d i a</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>LINUX MULTIMEDIA STUDIO (LMMS)</String>
+		<String>DOCTYPE MULTIMEDIA-PROJECT</String>
+		<String>INSTRUMENTTRACKSETTINGS</String>
+		<String>CREATORVERSION</String>
+		<String>OUTPUTCHANNEL</String>
+		<String>INPUTCHANNEL</String>
+		<String>USERWAVEFILE</String>
+		<String>XML VERSION</String>
+		<String>CHORDRANGE</String>
+		<String>CTLENVAMT</String>
+		<String>ARPRANGE</String>
+		<String>BASENOTE</String>
+		<String>SYNCMODE</String>
+		<String>ARPGATE</String>
+		<String>ARPMODE</String>
+		<String>ARPTIME</String>
+		<String>ARPDIR</String>
+		<String>ELDATA</String>
+		<String>ABLED</String>
+		<String>ELCUT</String>
+		<String>ELRES</String>
+		<String>ELVOL</String>
+		<String>FTYPE</String>
+		<String>LPDEL</String>
+		<String>FCUT</String>
+		<String>FRES</String>
+		<String>FWET</String>
+		<String>FXCH</String>
+		<String>HEAD</String>
+		<String>HOLD</String>
+		<String>LAMT</String>
+		<String>LATT</String>
+		<String>LSHP</String>
+		<String>LSPD</String>
+		<String>MIDI</String>
+		<String>NAME</String>
+		<String>VELO</String>
+		<String>X100</String>
+	</GlobalStrings>
+</TrID>

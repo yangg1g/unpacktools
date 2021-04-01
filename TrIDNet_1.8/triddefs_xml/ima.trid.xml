@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IncrediMail animation</FileType>
+		<Ext>IMA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.incredimail.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>02</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>09</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D53434600000000</Bytes>
+			<ASCII> M S C F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2000636F6E74656E742E696E6900</Bytes>
+			<ASCII>   . c o n t e n t . i n i</ASCII>
+			<Pos>58</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2000616E696D2E696D3300</Bytes>
+			<ASCII>   . a n i m . i m 3</ASCII>
+			<Pos>86</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ANIM.IM3</String>
+		<String>CONTENT.INI</String>
+	</GlobalStrings>
+</TrID>

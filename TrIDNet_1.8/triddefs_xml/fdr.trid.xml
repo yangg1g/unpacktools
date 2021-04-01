@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Final Draft document</FileType>
+		<Ext>FDR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.finaldraft.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2005</Year>
+			<Month>12</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>28</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FDFDFDFD00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>46696E616C2044726166742C20496E632E0000000B46696E616C204472616674</Bytes>
+			<ASCII> F i n a l   D r a f t ,   I n c . . . . . F i n a l   D r a f t</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

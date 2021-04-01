@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TomTom Go info</FileType>
+		<Ext>BIF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.tomtom.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>02</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>03</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B546F6D546F6D476F5D0D0A4465766963654E616D653D546F6D546F6D20</Bytes>
+			<ASCII> [ T o m T o m G o ] . . D e v i c e N a m e = T o m T o m</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>APPLICATIONVERSIONVERSIONNUMBER</String>
+		<String>BOOTLOADERVERSION</String>
+		<String>DEVICEVERSIONHW</String>
+		<String>DEVICEUNIQUEID</String>
+		<String>RAMDISKVERSION</String>
+		<String>LINUXVERSION</String>
+		<String>DEVICENAME</String>
+		<String>TOMTOM GO</String>
+		<String>TOMTOMGO</String>
+	</GlobalStrings>
+</TrID>

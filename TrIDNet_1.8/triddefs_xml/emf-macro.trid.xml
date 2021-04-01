@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Jasspa's MicroEmacs Macro File</FileType>
+		<Ext>EMF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.jasspa.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>10</Month>
+			<Day>9</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>5</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3B202D212D20656D66202D212D</Bytes>
+			<ASCII> ;   - ! -   e m f   - ! -</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SET-VARIABLE</String>
+		<String>- EMF -</String>
+		<String>FILES</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,71 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MX series Remote Control configuration (generic)</FileType>
+		<Ext>MXD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.universalremote.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>28</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2100</Bytes>
+			<ASCII> !</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D582D</Bytes>
+			<ASCII> M X -</ASCII>
+			<Pos>451</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20456469746F72202056657273696F6E20</Bytes>
+			<ASCII>   E d i t o r     V e r s i o n</ASCII>
+			<Pos>457</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>475</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>EDITOR  VERSION</String>
+		<String>HARD BUTTONS</String>
+		<String>POWER OFF</String>
+		<String>POWER ON</String>
+		<String>SELECT</String>
+		<String>PRE CH</String>
+		<String>RIGHT</String>
+		<String>ENTER</String>
+		<String>GUIDE</String>
+		<String>PAUSE</String>
+		<String>MENU</String>
+		<String>DOWN</String>
+		<String>PLAY</String>
+		<String>EXIT</String>
+		<String>MUTE</String>
+		<String>PAGE</String>
+		<String>INFO</String>
+		<String>LEFT</String>
+		<String>STOP</String>
+		<String>VOL+</String>
+		<String>VOL-</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OziExplorer Waypoint</FileType>
+		<Ext>WPT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.oziexplorer.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>50</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4F7A694578706C6F72657220576179706F696E742046696C652056657273696F6E20</Bytes>
+			<ASCII> O z i E x p l o r e r   W a y p o i n t   F i l e   V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>35</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

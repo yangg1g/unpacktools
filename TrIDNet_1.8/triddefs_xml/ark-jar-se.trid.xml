@@ -1,0 +1,65 @@
+<TrID ver="1.18">
+	<Info>
+		<FileType>JAR Compressed Archive (with Security Envelope)</FileType>
+		<Ext>J</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2003</Year>
+			<Month>08</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>00</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.02.6b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>40000000</Bytes>
+			<ASCII> @</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000001A4A61721B0000000000</Bytes>
+			<ASCII> . . . . J a r</ASCII>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000700</Bytes>
+			<Pos>28</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>35</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000000000000000000000000000199605301630</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 . 0</ASCII>
+			<Pos>40</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>01</Bytes>
+			<Pos>71</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>1010</Bytes>
+			<Pos>73</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000001</Bytes>
+			<Pos>77</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

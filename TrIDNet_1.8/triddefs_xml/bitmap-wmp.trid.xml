@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>JPEG XR (AKA HD Photo, Windows Media Photo)</FileType>
+		<Ext>HDP/WDP/WMP</Ext>
+		<ExtraInfo>
+			<Rem>A Microsoft file format for continuous-tone still images.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/HD_Photo</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>05</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>13</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4949BC</Bytes>
+			<ASCII> I I</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

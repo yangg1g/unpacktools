@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Nintendo Ultra 64 Sound Format</FileType>
+		<Ext>MINIUSF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Nintendo_Ultra_64_Sound_Format</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>386</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>37</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50534621</Bytes>
+			<ASCII> P S F !</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>53523634</Bytes>
+			<ASCII> S R 6 4</ASCII>
+			<Pos>20</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COPYRIGHT</String>
+		<String>.USFLIB</String>
+		<String>ARTIST</String>
+		<String>TITLE</String>
+		<String>USFBY</String>
+		<String>GAME</String>
+		<String>SR64</String>
+		<String>YEAR</String>
+		<String>_LIB</String>
+	</GlobalStrings>
+</TrID>

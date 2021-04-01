@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mastercam 9 geometry</FileType>
+		<Ext>MC9</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mastercam.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>58</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>780000000002000000000000000000000040</Bytes>
+			<ASCII> x . . . . . . . . . . . . . . . . @</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TOOLPATH</String>
+		<String>LL.MC9</String>
+		<String>CHAIN</String>
+		<String>TOOLS</String>
+		<String>POSTS</String>
+		<String>.PST</String>
+		<String>NONE</String>
+		<String>MCAM</String>
+		<String>.NCI</String>
+	</GlobalStrings>
+</TrID>

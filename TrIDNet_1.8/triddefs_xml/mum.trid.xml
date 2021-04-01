@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Update Package</FileType>
+		<Ext>MUM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>1006</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>11</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>9</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D</Bytes>
+			<ASCII> . ? x m l   v e r s i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MICROSOFT CORPORATION</String>
+		<String>PROCESSORARCHITECTURE</String>
+		<String>SCHEMAS-MICROSOFT-COM</String>
+		<String>ASSEMBLYIDENTITY</String>
+		<String>MANIFESTVERSION</String>
+		<String>PUBLICKEYTOKEN</String>
+		<String>RELEASETYPE</String>
+		<String>XML VERSION</String>
+		<String>IDENTIFIER</String>
+		<String>COPYRIGHT</String>
+		<String>PACKAGE I</String>
+		<String>ENCODING</String>
+		<String>LANGUAGE</String>
+		<String>ASM.V3</String>
+		<String>UPDATE</String>
+		<String>UTF-8</String>
+		<String>XMLNS</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

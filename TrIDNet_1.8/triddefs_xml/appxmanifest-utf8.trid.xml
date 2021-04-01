@@ -1,0 +1,68 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows 8 Appx Package Manifest (UTF-8)</FileType>
+		<Ext>APPXMANIFEST</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>43</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D38223F3E0D0A3C5061636B61676520786D6C6E733D22687474703A2F2F736368656D61732E6D6963726F736F66742E636F6D2F617070782F323031302F6D616E6966657374223E0D0A</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 " ? . . . . P a c k a g e   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / a p p x / 2 0 1 0 / m a n i f e s t "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>PUBLISHERDISPLAYNAME</String>
+		<String>OSMAXVERSIONTESTED</String>
+		<String>RESOURCE LANGUAGE</String>
+		<String>BACKGROUNDCOLOR</String>
+		<String>DEFAULTTILE SHO</String>
+		<String>FOREGROUNDTEXT</String>
+		<String>VISUALELEMENTS</String>
+		<String>PACKAGE XMLNS</String>
+		<String>PREREQUISITES</String>
+		<String>APPLICATIONS</String>
+		<String>OSMINVERSION</String>
+		<String>SPLASHSCREEN</String>
+		<String>DESCRIPTION</String>
+		<String>XML VERSION</String>
+		<String>PROPERTIES</String>
+		<String>RESOURCES</String>
+		<String>SMALLLOGO</String>
+		<String>ALLLOGOS</String>
+		<String>ENCODING</String>
+		<String>IDENTITY</String>
+		<String>MANIFEST</String>
+		<String>SHOWNAME</String>
+		<String>AMPLE</String>
+		<String>ELOGO</String>
+		<String>IMAGE</String>
+		<String>LIGHT</String>
+		<String>UTF-8</String>
+		<String>.PNG</String>
+		<String>APPX</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

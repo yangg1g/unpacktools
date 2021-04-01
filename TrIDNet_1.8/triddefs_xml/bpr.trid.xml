@@ -1,0 +1,107 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>C++ Builder XML Project</FileType>
+		<Ext>BPR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/C%2B%2B_Builder</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<Refine>8 by Marco Pontello - 8 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>06</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>46</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D27312E302720656E636F64696E673D277574662D3827</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = ' 1 . 0 '   e n c o d i n g = ' u t f - 8 '</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>-- C++BUILDER XML PROJECT --</String>
+		<String>USERDEFINES VALUE</String>
+		<String>INCLUDEPATH VALUE</String>
+		<String>VERSION INFO KEYS</String>
+		<String>MAINSOURCE VALUE</String>
+		<String>ORIGINALFILENAME</String>
+		<String>SYSDEFINES VALUE</String>
+		<String>DEBUGSOURCEDIRS</String>
+		<String>HOSTAPPLICATION</String>
+		<String>FILEDESCRIPTION</String>
+		<String>LEGALTRADEMARKS</String>
+		<String>LIBRARIES VALUE</String>
+		<String>PRODUCTVERSION</String>
+		<String>LEGALCOPYRIGHT</String>
+		<String>PACKAGES VALUE</String>
+		<String>LIBFILES VALUE</String>
+		<String>INCLUDEVERINFO</String>
+		<String>RESFILES VALUE</String>
+		<String>RESDEPEN VALUE</String>
+		<String>WARNINGS VALUE</String>
+		<String>OBJFILES VALUE</String>
+		<String>LIBPATH VALUE</String>
+		<String>PATHPAS VALUE</String>
+		<String>PATHASM VALUE</String>
+		<String>PATHCPP VALUE</String>
+		<String>VERSION VALUE</String>
+		<String>PROJECT VALUE</String>
+		<String>DEFFILE VALUE</String>
+		<String>AFLAGS VALUE</String>
+		<String>INTERNALNAME</String>
+		<String>SHOWINFOMSGS</String>
+		<String>LFLAGS VALUE</String>
+		<String>AUTOINCBUILD</String>
+		<String>LINKER VALUE</String>
+		<String>ALLOBJ VALUE</String>
+		<String>PATHRC VALUE</String>
+		<String>LINKDEBUGVCL</String>
+		<String>ALLLIB VALUE</String>
+		<String>PFLAGS VALUE</String>
+		<String>REMOTEDEBUG</String>
+		<String>$(OBJFILES)</String>
+		<String>$(RESFILES)</String>
+		<String>XML VERSION</String>
+		<String>PRODUCTNAME</String>
+		<String>FILEVERSION</String>
+		<String>COMPANYNAME</String>
+		<String>PARAMETERS</String>
+		<String>REMOTEPATH</String>
+		<String>IDEOPTIONS</String>
+		<String>REMOTEHOST</String>
+		<String>PRERELEASE</String>
+		<String>DEBUGGING</String>
+		<String>NO_STRICT</String>
+		<String>RUNPARAMS</String>
+		<String>MINORVER</String>
+		<String>ENCODING</String>
+		<String>MAJORVER</String>
+		<String>COMMENTS</String>
+		<String>CODEPAGE</String>
+		<String>COMPILER</String>
+		<String>SPECIAL</String>
+		<String>PRIVATE</String>
+		<String>MACROS</String>
+		<String>LOCALE</String>
+		<String>$(BCB)</String>
+		<String>CFLAG</String>
+		<String>BCB.</String>
+		<String>.OBJ</String>
+		<String>.LIB</String>
+	</GlobalStrings>
+</TrID>

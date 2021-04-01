@@ -1,0 +1,38 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>X64 and VICE emulators disk image</FileType>
+        <Ext>X64</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://viceteam.bei.t-online.de/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>2</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </Date>
+        <Time>
+            <Hour>15</Hour>
+            <Min>47</Min>
+            <Sec>45</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.2b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>43154164</Bytes>
+            <ASCII> C . A d</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00</Bytes>
+            <Pos>63</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

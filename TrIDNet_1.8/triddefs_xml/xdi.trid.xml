@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WinArchiver Extended Disc Image</FileType>
+		<Ext>XDI</Ext>
+		<ExtraInfo>
+			<Rem>A compressed disk image format.</Rem>
+			<RefURL>http://www.winarchiver.com/index.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>6</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>0</Hour>
+			<Min>51</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>58444900</Bytes>
+			<ASCII> X D I</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,94 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Dell System Information</FileType>
+		<Ext>SDR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>7</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>11</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>72656D</Bytes>
+			<ASCII> r e m</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PROC VER DRIVEPROJECT SDR GENERATOR</String>
+		<String>- UNDEFINED 1 - - 0 0 0 - - -</String>
+		<String>HW HDCONTROLLER 1 EMBEDDED</String>
+		<String>HW PROCESSOR_CARD NONE</String>
+		<String>REM MEMORY SIZE VMEM</String>
+		<String>HW MEM_MOD 0 SDRAM</String>
+		<String>MONITOR RESOLUTION</String>
+		<String>REM TITAN AUTOTOOL</String>
+		<String>REM TITAN DISKPREP</String>
+		<String>REM TITAN FISHECTQ</String>
+		<String>REM TITAN W95HWDET</String>
+		<String>HW MOUSE NONE - -</String>
+		<String>HW SOUND EMBEDDED</String>
+		<String>REM TITAN DOSECTQ</String>
+		<String>REM TITAN MONITOR</String>
+		<String>REM TITAN WINECTQ</String>
+		<String>REM TITAN FINISH</String>
+		<String>REM TITAN PREPUP</String>
+		<String>HW NATION USSYS</String>
+		<String>REM TITAN PATCH</String>
+		<String>REM TITAN DELL</String>
+		<String>REM TITAN EBTS</String>
+		<String>REM VIDEO MONO</String>
+		<String>HW PROCESSOR0</String>
+		<String>0000 1 1 - -</String>
+		<String>HW IAB NO NO</String>
+		<String>DUAL_MODE -</String>
+		<String>HW NETWORK0</String>
+		<String>HW PCI_INFO</String>
+		<String>IS CUST_REF</String>
+		<String>BP TITAN 0</String>
+		<String>EMBEDDED I</String>
+		<String>EMBEDDED S</String>
+		<String>HARD DRIVE</String>
+		<String>- - - - -</String>
+		<String>BP FIST 0</String>
+		<String>HW MEMORY</String>
+		<String>1ST BOOT</String>
+		<String>HW ASYNC</String>
+		<String>HW MODEL</String>
+		<String>HW MODEM</String>
+		<String>HW VIDEO</String>
+		<String>STANDARD</String>
+		<String>BP OSL-</String>
+		<String>HW LANG</String>
+		<String>HW SNUM</String>
+		<String>NO ITEM</String>
+		<String>DIRECT</String>
+		<String>HW LPT</String>
+		<String>NONE D</String>
+		<String>DSPRT</String>
+		<String>HW CD</String>
+		<String>SI SW</String>
+		<String>ABLE</String>
+		<String>DIAG</String>
+		<String>DRVR</String>
+		<String>HTML</String>
+	</GlobalStrings>
+</TrID>

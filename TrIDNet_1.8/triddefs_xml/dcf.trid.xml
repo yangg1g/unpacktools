@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DRM Content Format - Separate delivery file (generic)</FileType>
+		<Ext>DCF</Ext>
+		<ExtraInfo>
+			<Rem>Copy-Protected media files, used in some cellphones.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>27</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>01</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2F</Bytes>
+			<ASCII> /</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Component Configuration File (generic)</FileType>
+        <Ext>CCF</Ext>
+        <ExtraInfo>
+            <Rem>CCF are used to customize/configure programmable remotes</Rem>
+            <RefURL>http://www.remotecentral.com/files/index.html</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>7</FileNum>
+        <Refine>3 by Marco Pontello</Refine>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2004</Year>
+            <Month>01</Month>
+            <Day>25</Day>
+        </Date>
+        <Time>
+            <Hour>02</Hour>
+            <Min>11</Min>
+            <Sec>14</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>00</Bytes>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000000040A55A405F43434600</Bytes>
+            <ASCII> . . . . @ . Z @ _ C C F</ASCII>
+            <Pos>4</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>000000004343460000</Bytes>
+            <ASCII> . . . . C C F</ASCII>
+            <Pos>28</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>HOME</String>
+        <String>MACRO</String>
+        <String>_CCF</String>
+    </GlobalStrings>
+</TrID>

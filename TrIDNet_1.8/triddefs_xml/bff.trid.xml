@@ -1,0 +1,95 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AIX Backup File Format</FileType>
+		<Ext>BFF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://publibn.boulder.ibm.com/doc_link/en_US/a_doc_lib/files/aixfiles/backup.htm</RefURL>
+		</ExtraInfo>
+		<User></User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>159</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>03</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>21</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>09006BEA</Bytes>
+			<ASCII> . . k</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0100</Bytes>
+			<Pos>6</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FFFFFF7F6279206E616D650000000000000000006279206E616D65000000000000000000</Bytes>
+			<ASCII> . . . . b y   n a m e . . . . . . . . . b y   n a m e</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000064000000</Bytes>
+			<ASCII> . . . . . . . . . . d</ASCII>
+			<Pos>58</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0B6BEA</Bytes>
+			<ASCII> . k</ASCII>
+			<Pos>73</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>79</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>87</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>90</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>94</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>97</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>113</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000</Bytes>
+			<Pos>117</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>126</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000002E2F</Bytes>
+			<ASCII> . . . . . . . /</ASCII>
+			<Pos>130</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BY NAME'''''''''BY NAME</String>
+		<String>LPP_NAME</String>
+	</GlobalStrings>
+</TrID>

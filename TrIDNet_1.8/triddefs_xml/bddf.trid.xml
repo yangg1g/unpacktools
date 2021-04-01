@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Becton Dickinson Data Format</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.bd.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>11</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>37</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>42444244</Bytes>
+			<ASCII> B D B D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>426563746F6E204469636B696E736F6E204461746120466F726D6174</Bytes>
+			<ASCII> B e c t o n   D i c k i n s o n   D a t a   F o r m a t</ASCII>
+			<Pos>11</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,67 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Yamaha Piano Combo Style</FileType>
+		<Ext>PCS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.jososoft.dk/yamaha/software.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>42</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>49</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D546864</Bytes>
+			<ASCII> M T h d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D54726B0000</Bytes>
+			<ASCII> M T r k</ASCII>
+			<Pos>14</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ENDING CCTAB</String>
+		<String>FILL IN DD</String>
+		<String>FILL IN AA</String>
+		<String>FILL IN BA</String>
+		<String>FILL IN BB</String>
+		<String>FILL IN CC</String>
+		<String>ENDING B</String>
+		<String>ENDING A</String>
+		<String>INTRO B</String>
+		<String>INTRO A</String>
+		<String>INTRO C</String>
+		<String>MAIN B</String>
+		<String>MAIN A</String>
+		<String>MAIN D</String>
+		<String>MAIN C</String>
+		<String>COUNT</String>
+		<String>BASS</String>
+		<String>CSEG</String>
+		<String>CASM</String>
+		<String>4BAR</String>
+		<String>MTHD</String>
+		<String>MTRK</String>
+		<String>OTSC</String>
+		<String>SDEC</String>
+		<String>SFF1</String>
+		<String>SINT</String>
+	</GlobalStrings>
+</TrID>

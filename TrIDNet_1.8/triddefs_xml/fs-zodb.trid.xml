@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ZODB File Storage (2.1)</FileType>
+		<Ext>FS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Zope_Object_Database</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>35</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4653323103</Bytes>
+			<ASCII> F S 2 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PERSISTENTMAPPING</String>
+		<String>DATA</String>
+	</GlobalStrings>
+</TrID>

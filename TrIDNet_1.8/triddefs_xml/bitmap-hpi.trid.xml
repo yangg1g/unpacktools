@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Hemera Photo-Object Image</FileType>
+		<Ext>HPI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.hemera.com/</RefURL>
+		</ExtraInfo>
+		<User>Haakon Birkeland</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>2048</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>07</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>32</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>894850490D0A1A0A6400000020000000</Bytes>
+			<ASCII> . H P I . . . . d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FFD8FFE000104A46494600010001</Bytes>
+			<ASCII> . . . . . . J F I F</ASCII>
+			<Pos>32</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000FFFE001F4C45414420546563686E6F6C6F6769657320496E632E2056</Bytes>
+			<ASCII> . . . . . . L E A D 	T e c h n o l o g i e s 	I n c . 	V</ASCII>
+			<Pos>50</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Intuit QuickBooks Backup</FileType>
+		<Ext>QBB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://quickbooks.intuit.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>11</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>57</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>458600000600</Bytes>
+			<ASCII> E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000100</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>458601000A000100</Bytes>
+			<ASCII> E</ASCII>
+			<Pos>14</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

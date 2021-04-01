@@ -1,0 +1,64 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DSD Interchange File Format</FileType>
+		<Ext>DFF</Ext>
+		<ExtraInfo>
+			<Rem>http://en.wikipedia.org/wiki/Direct_Stream_Digital</Rem>
+			<RefURL>Format used for Super Audio CD (SACD).</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>5</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>34</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>46524D3800000000</Bytes>
+			<ASCII> F R M 8</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4453442046564552</Bytes>
+			<ASCII> D S D   F V E R</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>50524F50</Bytes>
+			<ASCII> P R O P</ASCII>
+			<Pos>32</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>534E442046532020</Bytes>
+			<ASCII> S N D   F S</ASCII>
+			<Pos>44</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43484E4C</Bytes>
+			<ASCII> C H N L</ASCII>
+			<Pos>64</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4C4654</Bytes>
+			<ASCII> L F T</ASCII>
+			<Pos>79</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52475443</Bytes>
+			<ASCII> R G T C</ASCII>
+			<Pos>83</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

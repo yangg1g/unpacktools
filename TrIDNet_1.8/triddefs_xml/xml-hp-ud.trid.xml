@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HP printer usage data</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>20</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D3822203F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 "   ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>USAGE_DATA_SUMMARY</String>
+		<String>TOTAL_DROP_VOLUMN</String>
+		<String>TOTAL_PAGE_COUNT</String>
+		<String>PRODUCT_FAMILY</String>
+		<String>SERIAL_NUMBER</String>
+		<String>XML VERSION</String>
+		<String>C_DOT_COUNT</String>
+		<String>M_DOT_COUNT</String>
+		<String>K_DOT_COUNT</String>
+		<String>Y_DOT_COUNT</String>
+		<String>ENCODING</String>
+		<String>PRINTER</String>
+		<String>SERIES</String>
+		<String>UTF-8</String>
+	</GlobalStrings>
+</TrID>

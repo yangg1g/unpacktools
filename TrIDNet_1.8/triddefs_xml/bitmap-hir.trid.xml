@@ -1,0 +1,29 @@
+<TrID ver="1.16">
+    <Info>
+        <FileType>C64 Hires bitmap</FileType>
+        <Ext>HIR</Ext>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>4</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>14</Day>
+        </Date>
+        <Time>
+            <Hour>00</Hour>
+            <Min>47</Min>
+            <Sec>21</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00.1</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>0020</Bytes>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

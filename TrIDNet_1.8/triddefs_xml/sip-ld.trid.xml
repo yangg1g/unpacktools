@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Polycom SoundPoint IP firmware</FileType>
+		<Ext>LD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Polycom</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>36</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>10</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>22</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFFFFFF</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>10</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COPYRIGHT (C)</String>
+		<String>APPLICATION</String>
+		<String>TARGETFLASH</String>
+		<String>PHONETYPE</String>
+		<String>CHECKSUM</String>
+		<String>APPTYPE</String>
+		<String>BUILDID</String>
+		<String>POLYCOM</String>
+		<String>0X0000</String>
+		<String>CONFIG</String>
+		<String>SIGMAX</String>
+		<String>GPIO</String>
+		<String>INC.</String>
+		<String>SIG_</String>
+	</GlobalStrings>
+</TrID>

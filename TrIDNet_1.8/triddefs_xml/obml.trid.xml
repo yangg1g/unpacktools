@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Opera Mini saved web page</FileType>
+		<Ext>OBML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Opera_Mini</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>9</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>34</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>6</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>530000FFFF00</Bytes>
+			<ASCII> S</ASCII>
+			<Pos>9</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SEARCH</String>
+		<String>IDATX</String>
+		<String>IMAGE</String>
+		<String>HTTP</String>
+		<String>IEND</String>
+		<String>IHDR</String>
+		<String>JFIF</String>
+		<String>JPGL</String>
+	</GlobalStrings>
+</TrID>

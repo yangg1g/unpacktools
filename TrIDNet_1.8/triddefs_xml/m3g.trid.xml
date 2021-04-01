@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mobile 3D Graphics</FileType>
+		<Ext>M3G</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://henson.newmail.ru/j2me/jsr184.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>12</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>AB4A5352313834BB0D0A1A</Bytes>
+			<ASCII> . J S R 1 8 4</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

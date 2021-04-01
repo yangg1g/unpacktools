@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>National Transfer Format Map</FileType>
+		<Ext>NTF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ordnancesurvey.co.uk/oswebsite/products/landline/techinfo.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>49</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>30314F52444E414E43452053555256455920202020202020202020202020202020202020202020202020</Bytes>
+			<ASCII> 0 1 O R D N A N C E   S U R V E Y</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>284E54462920202020202020</Bytes>
+			<ASCII> ( N T F )</ASCII>
+			<Pos>160</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GFA-BASIC 32 library</FileType>
+		<Ext>LG32</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://sites.google.com/site/gfabasic322/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>58</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>06</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>39</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>474C421A</Bytes>
+			<ASCII> G L B</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54797065</Bytes>
+			<ASCII> T y p e</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

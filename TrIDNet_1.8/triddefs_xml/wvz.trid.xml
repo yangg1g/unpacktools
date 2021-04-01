@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MUST music / song</FileType>
+		<Ext>WVZ</Ext>
+		<ExtraInfo>
+			<Rem>Must is a kind of music system / player for the MSX computer system.</Rem>
+			<RefURL>http://www.file-hunter.com/music/must</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>40</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>57565A1A</Bytes>
+			<ASCII> W V Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>JavaScript Bean file</FileType>
+		<Ext>JSB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://thor.info.uaic.ro/~busaco/teach/docs/component/9_jsbref.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>49</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C4A53423E0D0A</Bytes>
+			<ASCII> . J S B</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>JSB_CONSTRUCTOR</String>
+		<String>JSB_DESCRIPTOR</String>
+		<String>DISPLAYNAME</String>
+		<String>STRING</String>
+		<String>JSB_P</String>
+		<String>PARAM</String>
+		<String>VALUE</String>
+		<String>TYPE</String>
+		<String>THIS</String>
+	</GlobalStrings>
+</TrID>

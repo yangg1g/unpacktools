@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Epanet data file</FileType>
+		<Ext>NET</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.epanet.com/downloads.asp</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>08</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>53</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>06093C4550414E4554323E</Bytes>
+			<ASCII> . . . E P A N E T 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONTINUE</String>
+		<String>CONCEN</String>
+		<String>EPANET</String>
+		<String>FIRST</String>
+		<String>MIXED</String>
+		<String>NONE</String>
+		<String>OPEN</String>
+	</GlobalStrings>
+</TrID>

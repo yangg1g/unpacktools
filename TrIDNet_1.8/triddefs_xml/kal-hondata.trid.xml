@@ -1,0 +1,155 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Hondata K-Manager Calibration data</FileType>
+		<Ext>KAL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://ecu-performance.com.pl/why-use-hondata/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>29</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3B0D0A3B20486F6E64617461204B2D4D616E616765722043616C6962726174696F6E0D0A</Bytes>
+			<ASCII> ; . . ;   H o n d a t a   K - M a n a g e r   C a l i b r a t i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TARGETLAMBDAECTCOMPENSATIONHIGHCAM</String>
+		<String>TARGETLAMBDAECTCOMPENSATIONLOWCAM</String>
+		<String>HONDATA K-MANAGER CALIBRATION</String>
+		<String>GEAR IGNITION COMPENSATION</String>
+		<String>BOOST CONTROL DUTY CYCLE</String>
+		<String>BOOSTCONTROLUSEFIXEDDUTY</String>
+		<String>BOOSTCONTROLINPUTINVERT</String>
+		<String>LEANPROTECTION1ENABLED</String>
+		<String>GEAR FUEL COMPENSATION</String>
+		<String>BOOSTCONTROLACTIVATION</String>
+		<String>BOOSTCONTROLSOLENOIDNO</String>
+		<String>SPEEDOMETERCORRECTION</String>
+		<String>IAT COMPENSATION HIGH</String>
+		<String>BOOSTCONTROLTHRESHOLD</String>
+		<String>LEANPROTECTION1LAMBDA</String>
+		<String>BOOSTCONTROLFIXEDDUTY</String>
+		<String>NITROUS2OUTPUTINVERT</String>
+		<String>IAT COMPENSATION LOW</String>
+		<String>IDLE DUTY ADJUSTMENT</String>
+		<String>NITROUS1OUTPUTINVERT</String>
+		<String>LEANPROTECTION2LOAD</String>
+		<String>BOOSTCONTROLENABLED</String>
+		<String>BOOSTCONTROLPIDGAIN</String>
+		<String>BOOSTCONTROLMINDUTY</String>
+		<String>LEANPROTECTION2TIME</String>
+		<String>LEANPROTECTION1TIME</String>
+		<String>LEANPROTECTION1LOAD</String>
+		<String>SEQSHIFTINVERTINPUT</String>
+		<String>NITROUS1INPUTINVERT</String>
+		<String>DISABLEOVERRUNDELAY</String>
+		<String>BOOSTCONTROLMAXDUTY</String>
+		<String>OVERRUN CUTOFF HIGH</String>
+		<String>NITROUS2INPUTINVERT</String>
+		<String>BOOSTCONTROLUSEPID</String>
+		<String>OVERHEATINGMISFIRE</String>
+		<String>OVERRUN CUTOFF LOW</String>
+		<String>FLASHMILWITHKNOCK</String>
+		<String>DISABLECOLDRETARD</String>
+		<String>NITROUS1MINSPEED</String>
+		<String>CRANKINGFUELTRIM</String>
+		<String>SEQSHIFTDURATION</String>
+		<String>FUELTRIMCYLINDER</String>
+		<String>BOOST LEVEL HIGH</String>
+		<String>IDLETARGETLAMBDA</String>
+		<String>CLOSEDLOOPMAXMAP</String>
+		<String>NITROUS1MAXSPEED</String>
+		<String>OVERHEATINGLIMP</String>
+		<String>OVERHEATINGFUEL</String>
+		<String>COUNTERSHAFTVSS</String>
+		<String>OVERALLFUELTRIM</String>
+		<String>FIRMWAREVERSION</String>
+		<String>VTECOILPRESSURE</String>
+		<String>SOFTWAREVERSION</String>
+		<String>BOOST LEVEL LOW</String>
+		<String>BOOSTCONTROLRPM</String>
+		<String>NITROUS1MINLOAD</String>
+		<String>NITROUS1ENABLED</String>
+		<String>HARDWAREVERSION</String>
+		<String>OVERHEATINGTEMP</String>
+		<String>NITROUS1MAXLOAD</String>
+		<String>NITROUS1MINRPM</String>
+		<String>BOOSTLIMITCOLD</String>
+		<String>NITROUS1MAXTPS</String>
+		<String>NITROUS1MINTPS</String>
+		<String>SEQSHIFTMINTPS</String>
+		<String>TPSFUELSTOPPED</String>
+		<String>SEQSHIFTENABLE</String>
+		<String>BOOSTLIMITTEMP</String>
+		<String>NITROUS1MAXRPM</String>
+		<String>SEQSHIFTREPEAT</String>
+		<String>VSSFIXEDSPEED</String>
+		<String>TPSFUELMOVING</String>
+		<String>SEQSHIFTDELAY</String>
+		<String>BOOSTLIMITHOT</String>
+		<String>ALPHANPASCALE</String>
+		<String>LAUNCHLIMITER</String>
+		<String>COPYPROTECTED</String>
+		<String>SEQSHIFTINPUT</String>
+		<String>ALPHANENABLED</String>
+		<String>VTECLOWERLOAD</String>
+		<String>VTECUPPERLOAD</String>
+		<String>ALPHANMAXMAP</String>
+		<String>DISABLEP0134</String>
+		<String>INJECTORSIZE</String>
+		<String>VTECLOWERRPM</String>
+		<String>ALPHANMINMAP</String>
+		<String>SHORTTERMMAX</String>
+		<String>VTECMINSPEED</String>
+		<String>SHORTTERMMIN</String>
+		<String>VTECUPPERRPM</String>
+		<String>MAPSELECTNUM</String>
+		<String>TPSFUELDECAY</String>
+		<String>NUMCAMTABLES</String>
+		<String>GEAR RATIOS</String>
+		<String>KNOCKSENSOR</String>
+		<String>MULTIPLEXOR</String>
+		<String>MAPISCUSTOM</String>
+		<String>DESCRIPTION</String>
+		<String>APPLICATION</String>
+		<String>IMMOBILIZER</String>
+		<String>REVLIMITER</String>
+		<String>TPS RETARD</String>
+		<String>MAPOFFSET</String>
+		<String>IDLESPEED</String>
+		<String>TABLELIST</String>
+		<String>HIGHSPEED</String>
+		<String>MAPSCALAR</String>
+		<String>NUMTABLES</String>
+		<String>SETTINGS</String>
+		<String>CHECKSUM</String>
+		<String>MUXLOTUS</String>
+		<String>SERIALNO</String>
+		<String>CAM0ROW0</String>
+		<String>SAVEDATE</String>
+		<String>FANTEMP</String>
+		<String>ECUTYPE</String>
+		<String>ALTECT</String>
+		<String>COLS</String>
+		<String>ROWS</String>
+	</GlobalStrings>
+</TrID>

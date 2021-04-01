@@ -1,0 +1,64 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AutoPlay Media Studio Project</FileType>
+		<Ext>AUTOPLAY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.indigorose.com/products/autoplay-media-studio/</RefURL>
+		</ExtraInfo>
+		<User>Ryan Jones</User>
+		<E-Mail>sciguyryan@gmail.com</E-Mail>
+		<Home>http://ccc-cymru.com/</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>05</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>40</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E3022</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 " </ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CREATED WITH AUTOPLAY MEDIA STUDIO</String>
+		<String>USECUSTOMBACKGROUNDSETTINGS</String>
+		<String>ENABLEAUTOPLAYFEATURECDRW</String>
+		<String>RUNTIME ENGINE COPYRIGHT</String>
+		<String>PROJECTINFO TOOLTIPSTYLE</String>
+		<String>ENABLEAUTOPLAYFEATURESFX</String>
+		<String>ENABLEAUTOPLAYFEATUREBTF</String>
+		<String>ENABLEAUTOPLAYFEATUREISO</String>
+		<String>AUTOPLAY MEDIA STUDIO 8</String>
+		<String>CODESIGNCERTIFICATEFILE</String>
+		<String>MOUSECLICKSOUNDDEFAULT</String>
+		<String>CODESIGNDESCRIPTIONURL</String>
+		<String>SELFEXTRACTINGZIPFILE</String>
+		<String>MOUSEOVERSOUNDDEFAULT</String>
+		<String>NUMBER E_WINDOWHEIGHT</String>
+		<String>MISSING TECHNOLOGIES</String>
+		<String>NUMBER E_WINDOWWIDTH</String>
+		<String>CODESIGNTIMESTAMPURL</String>
+		<String>NUMBER E_PAGEHEIGHT</String>
+		<String>NUMBER E_PAGEWIDTH</String>
+		<String>TIMESTAMPFILESCDRW</String>
+		<String>CDVOLUMEIDENTIFIER</String>
+		<String>REPLACEVERSIONINFO</String>
+		<String>USERPRIVILEGELEVEL</String>
+		<String>OBSCUREDATAFOLDER</String>
+		<String>TRANSPARENTWINDOW</String>
+		<String>TIMESTAMPFILESISO</String>
+	</GlobalStrings>
+</TrID>

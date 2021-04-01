@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>X.509v3 security certificate</FileType>
+		<Ext>CRT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>07</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>38</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>43657274696669636174653A</Bytes>
+			<ASCII> C e r t i f i c a t e :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>X509V3 AUTHORITY KEY IDENTIFIER</String>
+		<String>X509V3 SUBJECT KEY IDENTIFIER</String>
+		<String>X509V3 BASIC CONSTRAINTS</String>
+		<String>SUBJECT PUBLIC KEY INFO</String>
+		<String>PUBLIC KEY ALGORITHM</String>
+		<String>SIGNATURE ALGORITHM</String>
+		<String>WITHRSAENCRYPTION</String>
+		<String>X509V3 EXTENSIONS</String>
+		<String>65537 (0X10001)</String>
+		<String>RSA PUBLIC KEY</String>
+		<String>SERIAL NUMBER</String>
+		<String>NOT BEFORE</String>
+		<String>NOT AFTER</String>
+		<String>MODULUS (</String>
+		<String>VALIDITY</String>
+		<String>EXPONENT</String>
+		<String>VERSION</String>
+		<String>ISSUER</String>
+		<String>KEYID</String>
+		<String>EMAIL</String>
+		<String>DATA</String>
+	</GlobalStrings>
+</TrID>

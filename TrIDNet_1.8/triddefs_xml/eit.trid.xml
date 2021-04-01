@@ -1,0 +1,100 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Encharta database update</FileType>
+		<Ext>EIT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Encarta</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>13</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>49544F4C49544C53010000002800000005000000E8000000C107900A7640D31187890000F810575460010000000000001800000000000000B80300000000000020</Bytes>
+			<ASCII> I T O L I T L S . . . . ( . . . . . . . . . . . . . . . v @ . . . . . . . . W T `</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000FFFFFFFFFFFFFFFF000000000000000000000000000000000000000000000000000200000200000000000000010000000000000000000000</Bytes>
+			<Pos>186</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000100000000200000000000000000043414F4C020000005000000000000000000000000020000000020000000010000000020000000000000000000000000049545346040000002000000001000000D8</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . C A O L . . . . P . . . . . . . . . . . .   . . . . . . . . . . . . . . . . . . . . . . . . . . I T S F</ASCII>
+			<Pos>249</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000000C307900A7640D31187890000F8105754C407900A7640D31187890000F81057544946434D010000000002000000000200FFFFFFFFFFFFFFFF0100000000000000414F4C4C</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . v @ . . . . . . . . W T . . . . v @ . . . . . . . . W T I F C M . . . . . . . . . . . . . . . . . . . . . . . . . . . . A O L L</ASCII>
+			<Pos>363</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>004946434D</Bytes>
+			<ASCII> . I F C M</ASCII>
+			<Pos>951</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>414F4C4C</Bytes>
+			<ASCII> A O L L</ASCII>
+			<Pos>984</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>012F0000000C2F5F6C6162656C772E786D6C01008470092F626167676167652F000000152F626167676167652F303030</Bytes>
+			<ASCII> . / . . . . / _ l a b e l w . x m l . . . p . / b a g g a g e / . . . . / b a g g a g e / 0 0 0</ASCII>
+			<Pos>1032</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>152F626167676167652F303030</Bytes>
+			<ASCII> . / b a g g a g e / 0 0 0</ASCII>
+			<Pos>1096</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>{0A9007C6-4076-11D3-8789-0000F8105754}</String>
+		<String>M'S'C'O'M'P'R'E'S'S'E'D</String>
+		<String>U'N'C'O'M'P'R'E'S'S'E'D</String>
+		<String>CONTROLDATA'T )</String>
+		<String>INSTANCEDATA</String>
+		<String>MSCOMPRESSED</String>
+		<String>HILITE.XML</String>
+		<String>LABELW.XML</String>
+		<String>RESETTABLE</String>
+		<String>DATASPACE</String>
+		<String>TRANSFORM</String>
+		<String>ITOLITLS</String>
+		<String>NAMELIST</String>
+		<String>SPANINFO</String>
+		<String>BAGGAGE</String>
+		<String>CATALOG</String>
+		<String>CONTENT</String>
+		<String>STORAGE</String>
+		<String>UPDATES</String>
+		<String>PRM000</String>
+		<String>WTIFCM</String>
+		<String>}.TXT</String>
+		<String>.JTN</String>
+		<String>.LST</String>
+		<String>AOLI</String>
+		<String>AOLL</String>
+		<String>CAOL</String>
+		<String>ITSF</String>
+		<String>LZXC</String>
+	</GlobalStrings>
+</TrID>

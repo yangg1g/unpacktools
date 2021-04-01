@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SCream Engine resource data</FileType>
+		<Ext>RES</Ext>
+		<ExtraInfo>
+			<Rem>Simple Creation Engine for Adventure Makers</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>25</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53437265616D207265736F757263652066696C65</Bytes>
+			<ASCII> S C r e a m   r e s o u r c e   f i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

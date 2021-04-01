@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XML sitemap</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Site_map</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>01</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>29</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>XML VERSION</String>
+		<String>CHANGEFREQ</String>
+		<String>ENCODING</String>
+		<String>SITEMAP</String>
+		<String>URLSET</String>
+		<String>UTF-8</String>
+		<String>XMLNS</String>
+		<String>HTTP</String>
+		<String>WWW.</String>
+	</GlobalStrings>
+</TrID>

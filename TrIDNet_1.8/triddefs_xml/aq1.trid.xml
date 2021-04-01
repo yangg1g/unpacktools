@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AptiQuiz quiz data</FileType>
+		<Ext>AQ1</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.rjsoftware.com/AptiQuiz/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>22</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0D417074695175697A2046696C65</Bytes>
+			<ASCII> . A p t i Q u i z   F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

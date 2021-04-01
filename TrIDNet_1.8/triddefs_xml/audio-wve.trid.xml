@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Psion Series 3a/3c/3mx audio</FileType>
+        <Ext>WVE</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://cvs.sourceforge.net/viewcvs.py/sox/sox/wve.c?rev=1.23</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>22</FileNum>
+        <Refine>14 by Marco Pontello</Refine>
+        <Date>
+            <Year>2003</Year>
+            <Month>12</Month>
+            <Day>21</Day>
+        </Date>
+        <Time>
+            <Hour>16</Hour>
+            <Min>38</Min>
+            <Sec>47</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>414C6177536F756E6446696C652A2A</Bytes>
+            <ASCII> A L a w S o u n d F i l e * *</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

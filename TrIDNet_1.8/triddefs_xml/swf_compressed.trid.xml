@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Macromedia Flash Player Compressed Movie</FileType>
+		<Ext>SWF</Ext>
+		<ExtraInfo>
+			<Rem>Compression has been added as an option since Macromedia Flash MX.</Rem>
+			<RefURL>http://www.macromedia.com</RefURL>
+		</ExtraInfo>
+		<User>Alex Paven</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>00</Min>
+			<Sec>02</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>435753</Bytes>
+			<ASCII> C W S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0078</Bytes>
+			<ASCII> . x</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

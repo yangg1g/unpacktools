@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SharePoint Portal Server Dashboard Web Part</FileType>
+		<Ext>DWP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Microsoft_SharePoint</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>07</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>54</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>WEBPART XMLNS</String>
+		<String>DESCRIPTION</String>
+		<String>SHAREPOINT</String>
+		<String>VERSION</String>
+		<String>CONTENT</String>
+		<String>PUBLI</String>
+		<String>TITLE</String>
+		<String>LLINK</String>
+		<String>IMAGE</String>
+		<String>HTTP</String>
+		<String>PAGE</String>
+		<String>DING</String>
+		<String>NAME</String>
+		<String>TYPE</String>
+		<String>AGES</String>
+	</GlobalStrings>
+</TrID>

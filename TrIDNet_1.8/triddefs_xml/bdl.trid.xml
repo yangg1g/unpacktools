@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Nintendo GameCube/Wii 3D Model (ASCII)</FileType>
+		<Ext>BDL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://wiki.tockdom.com/wiki/BMD_and_BDL_(File_Format)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2013</Year>
+			<Month>10</Month>
+			<Day>9</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>18</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4A33443262646C</Bytes>
+			<ASCII> J 3 D 2 b d l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

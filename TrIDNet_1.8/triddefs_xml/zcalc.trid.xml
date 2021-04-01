@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>zCalc data</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.zcalc.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>36</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>C045</Bytes>
+			<ASCII> . E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>64</Bytes>
+			<ASCII> d</ASCII>
+			<Pos>3</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ZCALCPERSISTENTDEPENDENCIES</String>
+		<String>FORM</String>
+		<String>DATE</String>
+		<String>TEXT</String>
+		<String>TYPE</String>
+		<String>MAIN</String>
+	</GlobalStrings>
+</TrID>

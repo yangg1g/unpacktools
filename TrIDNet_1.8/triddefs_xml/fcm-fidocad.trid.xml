@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FidoCAD Macro</FileType>
+		<Ext>FCM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.enetsystems.com/~lorenzo/fidocad.asp</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>03</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>36</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B4D4143524F43414420</Bytes>
+			<ASCII> [ M A C R O C A D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

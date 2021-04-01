@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Macintosh Quickdraw/PICT Drawing</FileType>
+		<Ext>PICT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.apple.com/quicktime</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>20</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00000000000000000000000000000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>001102FF0C00FFFE</Bytes>
+			<Pos>522</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DECOMPRESSOR'(</String>
+		<String>QUICKTIME</String>
+		<String>APPL</String>
+	</GlobalStrings>
+</TrID>

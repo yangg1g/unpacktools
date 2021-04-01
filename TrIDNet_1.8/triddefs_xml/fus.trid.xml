@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Fxpansion Uninstall Script</FileType>
+		<Ext>FUS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.fxpansion.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>08</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>00</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7B467870616E73696F6E496E7374616C6C53797374656D7D0D0A7B556E696E7374616C6C5363726970747D0D0A4150504C49434154494F4E5F4E414D452C</Bytes>
+			<ASCII> { F x p a n s i o n I n s t a l l S y s t e m } . . { U n i n s t a l l S c r i p t } . . A P P L I C A T I O N _ N A M E ,</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

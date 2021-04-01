@@ -1,0 +1,185 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mathcad Prime Document</FileType>
+		<Ext>MCDX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Mathcad</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>6</Month>
+			<Day>6</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>16</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D6174686361642F776F726B73686565742E786D6C20A2180028A0</Bytes>
+			<ASCII> m a t h c a d / w o r k s h e e t . x m l   . . . (</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3D22687474703A2F2F736368656D61732E</Bytes>
+			<ASCII> = " h t t p : / / s c h e m a s</ASCII>
+			<Pos>152</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VND.OPENXMLFORMATS-OFFICEDOCUMENT.MATHPROCESSINGML.MATHCAD.SETTINGS.PRESENTATION+XML</String>
+		<String>VND.OPENXMLFORMATS-OFFICEDOCUMENT.MATHPROCESSINGML.MATHCAD.SETTINGS.CALCULATION+XML</String>
+		<String>VND.OPENXMLFORMATS-OFFICEDOCUMENT.MATHPROCESSINGML.MATHCAD.INTEGRATION+XML</String>
+		<String>VND.OPENXMLFORMATS-OFFICEDOCUMENT.MATHPROCESSINGML.MATHCAD.RESULT+XML</String>
+		<String>VND.OPENXMLFORMATS-OFFICEDOCUMENT.MATHPROCESSINGML.MATHCAD.MAIN+XML</String>
+		<String>VND.OPENXMLFORMATS-PACKAGE.CORE-PROPERTIES+XML</String>
+		<String>VND.OPENXMLFORMATS-PACKAGE.RELATIONSHIPS+XML</String>
+		<String>CALCULATIONBEHAVIOR AUTOMATIC-RECALCULATION</String>
+		<String>MATHCAD.EXTENDED-PROPERTIES+XML</String>
+		<String>MATRIX-STRICT-SINGULARITY-CHECK</String>
+		<String>BUILTINVARIABLES ARRAY-ORIGIN</String>
+		<String>CALCULATION CACHE-WORKSHEET</String>
+		<String>SCHEMAS.OPENXMLFORMATS.ORG</String>
+		<String>CURRENTUNITSYSTEM NAME</String>
+		<String>CONVERGENCE-TOLERANCE</String>
+		<String>MATHCAD UNIMATH PRIME</String>
+		<String>SCHEMAPROPERTIES NAME</String>
+		<String>CONSTRAINT-TOLERANCE</String>
+		<String>COREPROPERTIES XMLNS</String>
+		<String>EXPAND-NESTED-ARRAYS</String>
+		<String>MARKUP-COMPATIBILITY</String>
+		<String>PAGEMODEL PAPER-CODE</String>
+		<String>PLOT-BACKGROUND-TYPE</String>
+		<String>RESULTDATA RESULT-ID</String>
+		<String>SCHEMAPROPERTIESLIST</String>
+		<String>SCHEMAS.MATHSOFT.COM</String>
+		<String>SERIALIZATIONVERSION</String>
+		<String>RELATIONSHIPS XMLNS</String>
+		<String>SHOW-TRAILING-ZEROS</String>
+		<String>UNIT SIMPLIFY-UNITS</String>
+		<String>CALCULATION-STATUS</String>
+		<String>PRESENTATION XMLNS</String>
+		<String>PRESENTATION.XMLPK</String>
+		<String>STRINGS-USE-ORIGIN</String>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>CALCULATION.XMLPK</String>
+		<String>DEFAULT EXTENSION</String>
+		<String>FOOTERLAYOUTSTYLE</String>
+		<String>HEADERLAYOUTSTYLE</String>
+		<String>INTEGRATION.XMLPK</String>
+		<String>OVERRIDE PARTNAME</String>
+		<String>RELATIONSHIP TYPE</String>
+		<String>RESULTSLIST XMLNS</String>
+		<String>AREALAYOUTSTYLE</String>
+		<String>IMAGINARY-VALUE</String>
+		<String>SCHEMAS.PTC.COM</String>
+		<String>WORKSHEET XMLNS</String>
+		<String>WORKSHEET.XMLPK</String>
+		<String>LASTMODIFIEDBY</String>
+		<String>MATH RESULTREF</String>
+		<String>MATHSTYLE NAME</String>
+		<String>PRESENTATION10</String>
+		<String>TEXTSTYLE NAME</String>
+		<String>CALCULATION10</String>
+		<String>CONTENT-TYPES</String>
+		<String>CONTENT_TYPES</String>
+		<String>CREATOR XMLNS</String>
+		<String>EXACT-BOOLEAN</String>
+		<String>INTEGRATION10</String>
+		<String>MATHRENDERING</String>
+		<String>PRN-COL-WIDTH</String>
+		<String>PRN-PRECISION</String>
+		<String>REGIONS XMLNS</String>
+		<String>TEXTRENDERING</String>
+		<String>AL PRECISION</String>
+		<String>FONT-STRETCH</String>
+		<String>FOOTER XMLNS</String>
+		<String>FOOTER.XMLPK</String>
+		<String>HEADER XMLNS</String>
+		<String>HEADER.XMLPK</String>
+		<String>PROVENANCE10</String>
+		<String>RESULT.XMLPK</String>
+		<String>SHOW-HF-GRID</String>
+		<String>SHOW-INDICES</String>
+		<String>SYNCHRONIZED</String>
+		<String>APPLICATION</String>
+		<String>CONTENTTYPE</String>
+		<String>FONT-FAMILY</String>
+		<String>FONT-WEIGHT</String>
+		<String>MARGIN-TYPE</String>
+		<String>MATRIX ROWS</String>
+		<String>MATRIX SIZE</String>
+		<String>ORIENTATION</String>
+		<String>RANDOM-SEED</String>
+		<String>SIMPLETYPES</String>
+		<String>TYPES XMLNS</String>
+		<String>WORKSHEET50</String>
+		<String>XML VERSION</String>
+		<String>APPVERSION</String>
+		<String>CORE.XMLPK</String>
+		<String>FONT-STYLE</String>
+		<String>FOREGROUND</String>
+		<String>MATHSTYLES</String>
+		<String>TEXTSTYLES</String>
+		<String>WWW.W3.ORG</String>
+		<String>APP.XMLPK</String>
+		<String>FONT-SIZE</String>
+		<String>GRID-SIZE</String>
+		<String>REGION-ID</String>
+		<String>SHOW-GRID</String>
+		<String>UNDEFINED</String>
+		<String>CONSTANT</String>
+		<String>DOCPROPS</String>
+		<String>ELEMENTS</String>
+		<String>ENCODING</String>
+		<String>FUNCTION</String>
+		<String>ID LABEL</String>
+		<String>METADATA</String>
+		<String>PRESERVE</String>
+		<String>PURL.ORG</String>
+		<String>RESULT10</String>
+		<String>REVISION</String>
+		<String>STANDARD</String>
+		<String>VARIANTS</String>
+		<String>.RELSPK</String>
+		<String>KEYWORD</String>
+		<String>UNITS10</String>
+		<String>ITALIC</String>
+		<String>MATH50</String>
+		<String>NORMAL</String>
+		<String>NUMBER</String>
+		<String>OFFSET</String>
+		<String>TAHOMA</String>
+		<String>TARGET</String>
+		<String>APPLY</String>
+		<String>COLOR</String>
+		<String>FALSE</String>
+		<String>GRAPH</String>
+		<String>RADIX</String>
+		<String>SPACE</String>
+		<String>UTF-8</String>
+		<String>_RELS</String>
+		<String>COLS</String>
+		<String>HOLD</String>
+		<String>HTTP</String>
+		<String>LEFT</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

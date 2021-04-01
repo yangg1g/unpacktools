@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Java Applet cache index</FileType>
+		<Ext>IDX</Ext>
+		<ExtraInfo>
+			<Rem>With applet caching enabled, performance is improved because once an applet is cached it no longer needs to be downloaded when referenced again. Trought the Java Plug-In control panel it's possibile to manage cache's settings or clear it.</Rem>
+			<RefURL>http://java.sun.com/j2se/1.4.2/docs/guide/plugin/developer_guide/control_panel.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>916</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>11</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>39</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>687474703A2F2F</Bytes>
+			<ASCII> h t t p : / /</ASCII>
+			<Pos>3</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

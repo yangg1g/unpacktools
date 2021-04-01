@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TargetExpress target</FileType>
+		<Ext>MTE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mcw-tech.com/targetexpress/</RefURL>
+		</ExtraInfo>
+		<User>Hunter</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>598</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>10</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>56</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D435720546563686E6F676F6C69657320496E632E20546172676574457870726573732066696C65</Bytes>
+			<ASCII> M C W   T e c h n o g o l i e s   I n c .   T a r g e t E x p r e s s   f i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SoundSlimmer compressed audio</FileType>
+		<Ext>MPZ</Ext>
+		<ExtraInfo>
+			<Rem>SoundSlimmer lossly recompress MP3 and MP3Pro audio.</Rem>
+			<RefURL>http://www.soundslimmer.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>05</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>15</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>05040501</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

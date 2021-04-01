@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SGI movie format</FileType>
+		<Ext>MV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://tinyurl.com/p2brl</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>05</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>02</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D4F5649</Bytes>
+			<ASCII> M O V I</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5F5F4E554D5F495F545241434B53</Bytes>
+			<ASCII> _ _ N U M _ I _ T R A C K S</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5F5F4E554D5F415F545241434B53</Bytes>
+			<ASCII> _ _ N U M _ A _ T R A C K S</ASCII>
+			<Pos>46</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4C4F4F505F4D4F4445</Bytes>
+			<ASCII> L O O P _ M O D E</ASCII>
+			<Pos>68</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>554D5F4C4F4F5053</Bytes>
+			<ASCII> U M _ L O O P S</ASCII>
+			<Pos>91</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5F5F4449525F434F554E54</Bytes>
+			<ASCII> _ _ D I R _ C O U N T</ASCII>
+			<Pos>146</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

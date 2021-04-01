@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GUI Design Studio WordSpace</FileType>
+		<Ext>GDWS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.carettasoftware.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>6</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>31</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C576F726B73706163650A09434944203D2022</Bytes>
+			<ASCII> . W o r k s p a c e . . C I D   =   "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RELATIVEPATHNAME</String>
+		<String>ICONCATEGORY</String>
+		<String>VIEWSETTINGS</String>
+		<String>WIDGETS.GUI</String>
+		<String>$CONTAINER</String>
+		<String>COMPONENTS</String>
+		<String>LASTACTIVE</String>
+		<String>OPENFILES</String>
+		<String>WORKSPACE</String>
+		<String>ROOTPATH</String>
+		<String>GALLERY</String>
+		<String>LIBRARY</String>
+		<String>NEXTCID</String>
+		<String>FILEID</String>
+	</GlobalStrings>
+</TrID>

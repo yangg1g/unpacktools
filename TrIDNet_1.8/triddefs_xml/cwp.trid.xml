@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Cakewalk SONAR project</FileType>
+		<Ext>CWP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Cakewalk_%28sequencer%29</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>49</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>43616B6577616C6B</Bytes>
+			<ASCII> C a k e w a l k</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>534F4E41521A</Bytes>
+			<ASCII> S O N A R</ASCII>
+			<Pos>33</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WINDOWINSTANCEDATA</String>
+		<String>FILESTATS</String>
+		<String>CAKEWALK</String>
+		<String>*'''*</String>
+		<String>SONAR</String>
+	</GlobalStrings>
+</TrID>

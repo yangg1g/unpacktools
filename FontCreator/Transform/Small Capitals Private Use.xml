@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+ <TransformScript>
+  <OtherComments>
+   <Content>Small Capitals Private Use
+This script inserts Small Capitals in the Private Use Area approximately 80% of the size of the Uppercase glyphs. This design is better suited for use in headings than in body text.</Content>
+  </OtherComments>
+  <GlyphInsertCharacters>
+   <Characters>58033, 58038, 58063, 58097-58122, 58161, 58191</Characters>
+   <OverrideRange>TRUE</OverrideRange>
+  </GlyphInsertCharacters>
+  <GlyphCompleteComposites>
+  </GlyphCompleteComposites>
+  <GlyphDecompose>
+  </GlyphDecompose>
+  <OutlineScale>
+   <AroundType>2</AroundType>
+   <AroundCorner>0</AroundCorner>
+   <AroundXPos>0</AroundXPos>
+   <AroundYPos>0</AroundYPos>
+   <Horizontal>75.00</Horizontal>
+   <Vertical>78.00</Vertical>
+   <PreserveBearings>FALSE</PreserveBearings>
+  </OutlineScale>
+  <EffectsBold>
+   <Horizontal>20</Horizontal>
+   <Vertical>12</Vertical>
+   <PreserveBearings>TRUE</PreserveBearings>
+  </EffectsBold>
+  <OutlineMove>
+   <Horizontal>0</Horizontal>
+   <Vertical>12</Vertical>
+  </OutlineMove>
+  <MetricsLeftSideBearing>
+  </MetricsLeftSideBearing>
+  <OtherComments>
+   <Content>Accented Small Capitals
+The rest of this script then adds composites of these new glyphs to create a wide range of accented small capitals and ligatures like Æ. You will need to align the accents and edit some glyphs.</Content>
+  </OtherComments>
+  <GlyphInsertCharacters>
+   <Characters>58224-58246, 58248-58255, 58257, 58259, 58261, 58263, 58265, 58267, 58269, 58271, 58273, 58275, 58277, 58279, 58281, 58283, 58285, 58287, 58289, 58291, 58293, 58295, 58297, 58299, 58301, 58303, 58307, 58309, 58311, 58314, 58316, 58318, 58320, 58322, 58324, 58326, 58328, 58331, 58333, 58335, 58337, 58339, 58341, 58343, 58345, 58347, 58349, 58351, 58353, 58355, 58357, 58359, 58361, 58363, 58365, 58367, 58369, 58371, 58373, 58375, 58378, 58380, 58382, 58501, 58507, 58509, 58511, 58537, 58539, 59693, 59717, 59735, 59737, 59745, 59747, 59749, 59751, 59771, 59773, 59779, 59789, 59809, 59811, 59813, 59923, 59929</Characters>
+   <OverrideRange>TRUE</OverrideRange>
+  </GlyphInsertCharacters>
+  <GlyphCompleteComposites>
+  </GlyphCompleteComposites>
+ </TransformScript>
+</DATA>

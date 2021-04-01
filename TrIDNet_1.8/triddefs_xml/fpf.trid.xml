@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IKEA Kitchen Planner Document</FileType>
+		<Ext>FPF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ikea.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>08</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>15</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00000000020000000B0000000C00000004000000FFFFFFFF000000000C000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>F'U'R'N'I'S'H</String>
+		<String>N'O'T'Y'P'E</String>
+		<String>A'T'T'E</String>
+		<String>I'N'G</String>
+		<String>G'R'O</String>
+		<String>L'A'S</String>
+		<String>L'A'N</String>
+		<String>O'R'D</String>
+		<String>P'R'O</String>
+	</GlobalStrings>
+</TrID>

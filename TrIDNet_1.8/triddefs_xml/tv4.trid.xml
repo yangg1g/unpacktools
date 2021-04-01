@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TValue project</FileType>
+		<Ext>TV4</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.timevalue.com/tvalue.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>16</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>C3545653</Bytes>
+			<ASCII> . T V S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VideoCD MPEG</FileType>
+		<Ext>DAT</Ext>
+		<ExtraInfo>
+			<Rem>MPEG stream in a RIFF container used in VideoCDs</Rem>
+			<RefURL>http://www.videohelp.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>56</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52494646</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43445841666D7420</Bytes>
+			<ASCII> C D X A f m t</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

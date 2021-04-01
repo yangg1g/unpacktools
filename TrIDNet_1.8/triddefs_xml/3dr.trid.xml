@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>3DMark2003 Results</FileType>
+		<Ext>3DR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.futuremark.com/</RefURL>
+		</ExtraInfo>
+		<User>Dr.Ryo(TM)</User>
+		<E-Mail>dr.ryo@superfigo.com</E-Mail>
+		<Home>http://www.superfigo.com</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>17</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>48616E646C652E747874</Bytes>
+			<ASCII> H a n d l e . t x t</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DEFAULT.ENCPK</String>
+		<String>RESULT.XMLPK</String>
+		<String>HANDLE.TXTPK</String>
+		<String>HANDLE.TXT3</String>
+		<String>SI.XMLPK</String>
+	</GlobalStrings>
+</TrID>

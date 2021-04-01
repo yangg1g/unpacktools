@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SQR script</FileType>
+		<Ext>SQR</Ext>
+		<ExtraInfo>
+			<Rem>SQR is a programming language designed for generating reports from database management systems.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/SQR</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>46</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>212A</Bytes>
+			<ASCII> ! *</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>***********************************************************************</String>
+		<String>BEGIN-PROCEDURE IN</String>
+		<String>END-PROCEDURE</String>
+		<String>BEGIN-SE</String>
+		<String>PROGRAM</String>
+		<String>PROCESS</String>
+		<String>REPORT</String>
+		<String>CREATE</String>
+		<String>END-IF</String>
+		<String>FORMAT</String>
+		<String>END-SE</String>
+		<String>DO GET</String>
+		<String>DO IN</String>
+		<String>LET $</String>
+		<String>DATE</String>
+		<String>COMM</String>
+		<String>INIT</String>
+		<String>PAGE</String>
+		<String>MOVE</String>
+		<String>FROM</String>
+		<String>TO $</String>
+		<String>WITH</String>
+		<String>PLAY</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,77 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft security certificate</FileType>
+		<Ext>XRM-MS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>06</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>06</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D38223F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CANONICALIZATIONMETHOD ALGORITHM</String>
+		<String>SIGNATUREMETHOD ALGORITHM</String>
+		<String>DIGESTMETHOD ALGORITHM</String>
+		<String>TRANSFORM ALGORITHM</String>
+		<String>WWW.MICROSOFT.COM</String>
+		<String>LICENSETRANSFORM</String>
+		<String>INFOTABLES XMLNS</String>
+		<String>LICENSECATEGORY</String>
+		<String>SIGNATURE XMLNS</String>
+		<String>OTHERINFO XMLNS</String>
+		<String>SIGNATUREVALUE</String>
+		<String>LICENSEVERSION</String>
+		<String>LICENSE XMLNS</String>
+		<String>INFOLIST TAG</String>
+		<String>INFOSTR NAME</String>
+		<String>RSAKEYVALUE</String>
+		<String>LICENSETYPE</String>
+		<String>XML VERSION</String>
+		<String>DIGESTVALUE</String>
+		<String>SIGNEDINFO</String>
+		<String>WWW.W3.ORG</String>
+		<String>TRANSFORMS</String>
+		<String>LICENSEID</String>
+		<String>REFERENCE</String>
+		<String>ENCODING</String>
+		<String>EXPONENT</String>
+		<String>RSA-SHA1</String>
+		<String>XMLDSIG</String>
+		<String>01-REL-</String>
+		<String>MODULUS</String>
+		<String>KEYINFO</String>
+		<String>MPEG21</String>
+		<String>GLOBAL</String>
+		<String>ISSUER</String>
+		<String>LWC14N</String>
+		<String>UTF-8</String>
+		<String>TITLE</String>
+		<String>XRML2</String>
+		<String>HTTP</String>
+		<String>DATA</String>
+		<String>MSFT</String>
+	</GlobalStrings>
+</TrID>

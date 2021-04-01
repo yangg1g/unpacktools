@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Small Business Publisher document</FileType>
+		<Ext>SBPF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.belltechsystems.com/business-publisher/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>15</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>18536D616C6C20427573696E657373205075626C6973686572</Bytes>
+			<ASCII> . S m a l l   B u s i n e s s	P u b l i s h e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>42656C6C746563682053797374656D73</Bytes>
+			<ASCII> B e l l t e c h   S y s t e m s</ASCII>
+			<Pos>26</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>73627066</Bytes>
+			<ASCII> s b p f</ASCII>
+			<Pos>43</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

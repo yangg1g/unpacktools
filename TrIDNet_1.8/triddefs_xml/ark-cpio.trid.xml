@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CPIO ASCII archive</FileType>
+		<Ext>CPIO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.gnu.org/software/cpio/cpio.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>03</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>22</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3037303730</Bytes>
+			<ASCII> 0 7 0 7 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

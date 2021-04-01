@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Virtual CD v4 and older</FileType>
+		<Ext>VC4</Ext>
+		<ExtraInfo>
+			<Rem>This is the actual container file, or 'image file', containing the CD structure and any tracks.</Rem>
+			<RefURL>http://www.virtualcd-online.de</RefURL>
+		</ExtraInfo>
+		<User>kif aka AC</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>05</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>23</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00564344436F6E7461696E65720000</Bytes>
+			<ASCII> . V C D C o n t a i n e r</ASCII>
+			<Pos>836</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

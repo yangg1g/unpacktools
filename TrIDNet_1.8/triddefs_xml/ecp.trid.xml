@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EasyC Project</FileType>
+		<Ext>ECP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.intelitek.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>7</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>51</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B47656E6572616C5D0D0A</Bytes>
+			<ASCII> [ G e n e r a l ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FLOWCHART</String>
+		<String>COMMENTS</String>
+		<String>GENERAL</String>
+		<String>BRACES</String>
+		<String>LEVEL</String>
+		<String>CODE</String>
+		<String>GRID</String>
+		<String>ZOOM</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Thomson Speedtouch serie WLAN router firmware</FileType>
+		<Ext>BIN/BLI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://wiki.openwrt.org/OpenWrtDocs/Hardware/Thomson/speedtouch</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>47</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>424C4932323351</Bytes>
+			<ASCII> B L I 2 2 3 Q</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>42414E542D</Bytes>
+			<ASCII> B A N T -</ASCII>
+			<Pos>310</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5370656564546F75636820</Bytes>
+			<ASCII> S p e e d T o u c h</ASCII>
+			<Pos>324</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D555445</Bytes>
+			<ASCII> M U T E</ASCII>
+			<Pos>352</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>IPKG2-HEADER</String>
+		<String>IPKG2_SIGN</String>
+		<String>SPEEDTOUCH</String>
+		<String>BLI223Q</String>
+		<String>BANT-</String>
+	</GlobalStrings>
+</TrID>

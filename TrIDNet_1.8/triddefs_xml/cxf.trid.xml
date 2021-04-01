@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Picasa collage</FileType>
+		<Ext>CXF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Picasa</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>05</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>48</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D3822203F3E0D0A3C636F6C6C6167652076657273696F6E3D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 "   ? . . . . c o l l a g e   v e r s i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COLLAGE VERSION</String>
+		<String>BACKGROUND TYPE</String>
+		<String>SPACING VALUE</String>
+		<String>XML VERSION</String>
+		<String>ORIENTATION</String>
+		<String>ALBUMTITLE</String>
+		<String>ALBUMDATE</String>
+		<String>CAPTIONS</String>
+		<String>ALBUMUID</String>
+		<String>ENCODING</String>
+		<String>SHADOWS</String>
+		<String>FORMAT</String>
+		<String>NODE X</String>
+		<String>THETA</String>
+		<String>UTF-8</String>
+		<String>COLOR</String>
+		<String>SCALE</String>
+		<String>THEME</String>
+	</GlobalStrings>
+</TrID>

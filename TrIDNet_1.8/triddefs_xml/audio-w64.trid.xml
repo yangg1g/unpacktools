@@ -1,0 +1,48 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Sonic Foundry Wave-64 audio</FileType>
+        <Ext>W64</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.sonicfoundry.com/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>13</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>09</Month>
+            <Day>01</Day>
+        </Date>
+        <Time>
+            <Hour>17</Hour>
+            <Min>23</Min>
+            <Sec>25</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>726966662E91CF11A5D628DB04C10000</Bytes>
+            <ASCII> r i f f . . . . . . (</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>000000000077617665F3ACD3118CD100C04F8EDB8A666D7420F3ACD3118CD100C04F8EDB8A28000000000000000100</Bytes>
+            <ASCII> . . . . . w a v e . . . . . . . . O . . . f m t   . . . . . . . . O . . . (</ASCII>
+            <Pos>19</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00</Bytes>
+            <Pos>67</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00100064617461F3ACD3118CD100C04F8EDB8A</Bytes>
+            <ASCII> . . . d a t a . . . . . . . . O</ASCII>
+            <Pos>77</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

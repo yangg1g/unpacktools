@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Exchange Extended Configuration File - Office Add-in</FileType>
+		<Ext>ECF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/exchange</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>20</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B47656E6572616C5D0D0A446973706C6179204E616D653D</Bytes>
+			<ASCII> [ G e n e r a l ] . . D i s p l a y   N a m e =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>65</Bytes>
+			<ASCII> e</ASCII>
+			<Pos>53</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>EXCHANGE CLIENT COMPATIBILITY</String>
+		<String>EXCHANGE INTERFACE MAP</String>
+		<String>EXCHANGE CONTEXT MAP</String>
+		<String>CLIENT VERSION</String>
+		<String>DISPLAY NAME</String>
+		<String>DESCRIPTION</String>
+		<String>ENTRY POINT</String>
+		<String>GENERAL</String>
+		<String>EVENTS</String>
+		<String>.DLL</String>
+		<String>PATH</String>
+	</GlobalStrings>
+</TrID>

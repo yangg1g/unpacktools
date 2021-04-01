@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+	    		<FileType>Chessmaster saved game (10th ed.)</FileType>
+	    		<Ext>CMG</Ext>
+	    		<ExtraInfo>
+		    		<Rem></Rem>
+		    		<RefURL>http://www.chessmaster.com/</RefURL>
+	    		</ExtraInfo>
+	    		<User>Marco Pontello</User>
+	    		<E-Mail>marcopon@gmail.com</E-Mail>
+	    		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>02</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>58</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>43686573736D617374657220313074682045646974696F6E20</Bytes>
+			<ASCII> C h e s s m a s t e r	1 0 t h   E d i t i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

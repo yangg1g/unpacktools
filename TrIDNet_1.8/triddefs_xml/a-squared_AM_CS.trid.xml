@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>a-squared Anti-Malware checksum for signatures files</FileType>
+		<Ext>TRC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.emsisoft.com/en/</RefURL>
+		</ExtraInfo>
+		<User>Scrapie</User>
+		<E-Mail>scrapie@pochta.ru</E-Mail>
+	</Info>
+	<General>
+		<FileNum>38</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>08</Hour>
+			<Min>59</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4154</Bytes>
+			<ASCII> A T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>51840101</Bytes>
+			<ASCII> Q</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

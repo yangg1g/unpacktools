@@ -1,0 +1,74 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SpamPal plugin</FileType>
+		<Ext>DLL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.spampal.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2003</Year>
+			<Month>11</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>47</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A2400000000000000</Bytes>
+			<ASCII> . . . . . . . . . . ! . . L . ! T h i s   p r o g r a m   c a n n o t	b e   r u n   i n   D O S   m o d e . . . . $</ASCII>
+			<Pos>62</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.DATA</String>
+		<String>.RELOC</String>
+		<String>.RSRC</String>
+		<String>.TEXT</String>
+		<String>C'O'N'F'I'G'U'R</String>
+		<String>CHECKSPAMPALVERSION</String>
+		<String>CLOSE</String>
+		<String>CONFIG</String>
+		<String>CREATEDIALOGPARAMA</String>
+		<String>CREATEINFODIALOG</String>
+		<String>EXITPROCESS</String>
+		<String>FILE</String>
+		<String>FILTERONMESSAGEBODY</String>
+		<String>GETENVIRONMENTSTRINGS</String>
+		<String>GETPLUGINNAME</String>
+		<String>GETPLUGINVERSION</String>
+		<String>HANDLE</String>
+		<String>INITIAL</String>
+		<String>KERNEL32.DLL</String>
+		<String>MALLOC</String>
+		<String>MESSAGEBOXA</String>
+		<String>OPEN</String>
+		<String>P'L'U'G'I'N</String>
+		<String>PE''L</String>
+		<String>PRINT</String>
+		<String>RAISE</String>
+		<String>READ</String>
+		<String>REQUIREBODYFILTERING</String>
+		<String>RTLUNWIND</String>
+		<String>SHOWWINDOW</String>
+		<String>THIS PROGRAM CANNOT BE RUN IN DOS MODE.</String>
+		<String>USER32.DLL</String>
+	</GlobalStrings>
+</TrID>

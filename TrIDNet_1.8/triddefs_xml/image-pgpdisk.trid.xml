@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PGP Disk image</FileType>
+		<Ext>PGD</Ext>
+		<ExtraInfo>
+			<Rem>Mount with pgp disk, included in PGP 8 Enterprise.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Pretty_Good_Privacy</RefURL>
+		</ExtraInfo>
+		<User>THE LoW</User>
+		<E-Mail>the(d ot)low(a t)gmx.net</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>13</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504750644D41494E</Bytes>
+			<ASCII> P G P d M A I N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,84 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft MapPoint map</FileType>
+		<Ext>PTM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/mappoint/default.mspx</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>03</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>49</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E007400720079</Bytes>
+			<ASCII> R . o . o . t . 	. E . n . t . r . y</ASCII>
+			<Pos>1024</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43006F006E00740065006E00740073</Bytes>
+			<ASCII> C . o . n . t . e . n . t . s</ASCII>
+			<Pos>1152</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>550073006500720044006100740061</Bytes>
+			<ASCII> U . s . e . r . D . a . t . a</ASCII>
+			<Pos>1280</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>41006E006E006F0074006100740069006F006E0073</Bytes>
+			<ASCII> A . n . n . o . t . a . t . i . o . n . s</ASCII>
+			<Pos>1408</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4A006F00750072006E00650079</Bytes>
+			<ASCII> J . o . u . r . n . e . y</ASCII>
+			<Pos>1664</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>48006900670068006C00690067006800740073</Bytes>
+			<ASCII> H . i . g . h . l . i . g . h . t . s</ASCII>
+			<Pos>1792</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>530075006D006D0061007200790049006E0066006F0072006D006100740069006F006E</Bytes>
+			<ASCII> S . u . m . m . a . r . y . I . n . f . o . r . m . a . t . i . o . n</ASCII>
+			<Pos>1922</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>M'I'C'R'O'S'O'F'T' 'M'A'P'P'O'I'N'T</String>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>A'N'N'O'T'A'T'I'O'N'S</String>
+		<String>H'I'G'H'L'I'G'H'T'S</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>T'E'M'P'L'A'T'E'S</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>L'A'N'G'U'A'G'E</String>
+		<String>U'S'E'R'D'A'T'A</String>
+		<String>J'O'U'R'N'E'Y</String>
+		<String>P'R'O'D'U'C'T</String>
+		<String>M'A'P'N'A'M'E</String>
+		<String>MASM</String>
+	</GlobalStrings>
+</TrID>

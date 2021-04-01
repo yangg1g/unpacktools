@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BMA Archiver compressed archive</FileType>
+		<Ext>BMA</Ext>
+		<ExtraInfo>
+			<Rem>An experimental archiver by Alexander Cherenkov.</Rem>
+			<RefURL>http://forrox.narod.ru/bma_en.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>20</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>21424D41</Bytes>
+			<ASCII> ! B M A</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

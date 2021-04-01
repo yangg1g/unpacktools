@@ -1,0 +1,232 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VisionLab Studio Project</FileType>
+		<Ext>VLAB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://fxhome.com/visionlab/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>25</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PROP_ANIMATE_SHAPE_OPAQUE_NO_TWEEN TYPE</String>
+		<String>PROP_ANIMATE_SHAPE_INVERT_NO_TWEEN TYPE</String>
+		<String>PROP_ANIMATE_SHAPE_TRANSPARENCY TYPE</String>
+		<String>PROP_COMPOSITE_BLEND_METHOD TYPE</String>
+		<String>FILTER_SPECIAL_RENDER_DATA TYPE</String>
+		<String>MY_REQUIRE_SQUARE_PIXELS TYPE</String>
+		<String>RENDERED_TGA_TIME_STAMPS TYPE</String>
+		<String>PROP_DRAW_POINTS_SMOOTH TYPE</String>
+		<String>PROP_DRAW_POINTS_REDUCE TYPE</String>
+		<String>MY_FRAME_MILLISECONDS TYPE</String>
+		<String>SELECTED_HANDLE_COLOR TYPE</String>
+		<String>MY_RENDER_RGB_RGBA_A TYPE</String>
+		<String>PROP_ANIMATE_FEATHER TYPE</String>
+		<String>MY_MASK_ANIMATE_TOOL TYPE</String>
+		<String>MY_TV_GUIDES_VISIBLE TYPE</String>
+		<String>APPLICATION_PLATFORM TYPE</String>
+		<String>PROP_ANIMATE_ORIGIN TYPE</String>
+		<String>DOCUMENT_PROPERTIES_NODE</String>
+		<String>MY_OBJECT_DATA_LIST TYPE</String>
+		<String>FRAME_RELATIVE_DATA TYPE</String>
+		<String>MY_DEFAULT_RERENDER TYPE</String>
+		<String>APPLICATION_VERSION TYPE</String>
+		<String>MY_MASK_DRAW_CLOSED TYPE</String>
+		<String>VIEW_MATTE_GARBAGE_MATTE</String>
+		<String>PRESET_SCROLL_START TYPE</String>
+		<String>MY_SINGLE_INSTANCE TYPE</String>
+		<String>DOCUMENT_COPYRIGHT TYPE</String>
+		<String>PROP_ANIMATE_SHAPE TYPE</String>
+		<String>MY_INSPECTOR_STATE TYPE</String>
+		<String>APPLICATION_LEVEL TYPE</String>
+		<String>PROP_TRANSPARENCY TYPE</String>
+		<String>MY_FORCE_COLLAPSE TYPE</String>
+		<String>MY_LINKED_OBJECTS TYPE</String>
+		<String>MY_INTERFACE_DATA TYPE</String>
+		<String>MY_TIMELINE_STATE TYPE</String>
+		<String>DOCUMENTS AND SETTINGS</String>
+		<String>MY_MASK_DRAW_TOOL TYPE</String>
+		<String>MY_CONTROL_OBJECT TYPE</String>
+		<String>MY_LOCKED_OBJECT TYPE</String>
+		<String>INSPECTOR_FILTER TYPE</String>
+		<String>APPLICATION_NAME TYPE</String>
+		<String>MY_PARENT_MEMBER TYPE</String>
+		<String>PROP_DRAW_ORIGIN TYPE</String>
+		<String>PROP_TWEEN_POWER TYPE</String>
+		<String>MY_SELECTED_LIST TYPE</String>
+		<String>MY_MAGNIFICATION TYPE</String>
+		<String>MY_XTRA_INSTANCE TYPE</String>
+		<String>INSPECTOR_OBJECT TYPE</String>
+		<String>MY_TYPE_SPECIFIC TYPE</String>
+		<String>MY_FRAME_CURRENT TYPE</String>
+		<String>MY_TRACK_VISIBLE TYPE</String>
+		<String>BACKGROUND_TYPE TYPE</String>
+		<String>MY_GRID_VISIBLE TYPE</String>
+		<String>RERENDER_FRAMES TYPE</String>
+		<String>FILL_DRAW_COLOR TYPE</String>
+		<String>PROP_BRIGHTNESS TYPE</String>
+		<String>MY_SECTION_LIST TYPE</String>
+		<String>PROP_DRAW_SHAPE TYPE</String>
+		<String>MY_CANVAS_COLOR TYPE</String>
+		<String>DEFINE_DOCUMENT_NODE</String>
+		<String>MY_ASPECT_RATIO TYPE</String>
+		<String>ADDITIONAL_DATA_NODE</String>
+		<String>INTERFACE_PROPS TYPE</String>
+		<String>MASK_COLOR_LIST TYPE</String>
+		<String>RENDERED_FRAMES TYPE</String>
+		<String>NEON_LIGHT_MASK TYPE</String>
+		<String>VIEW_MATTE_KEY_GRADE</String>
+		<String>PROJECT_OBJECT_NODE</String>
+		<String>BROWSER_EFFECT TYPE</String>
+		<String>MY_TRACK_START TYPE</String>
+		<String>MY_FIELD_ORDER TYPE</String>
+		<String>MY_FRAME_START TYPE</String>
+		<String>MY_FRAME_TOTAL TYPE</String>
+		<String>MY_ORIGIN_DATA TYPE</String>
+		<String>VIEW_GRADE_SELECTED</String>
+		<String>BROWSER_FILTER TYPE</String>
+		<String>RENDER_OBJECTS TYPE</String>
+		<String>EFFECT_PARENT TYPE</String>
+		<String>MY_FRAME_RATE TYPE</String>
+		<String>DOCUMENT_USER TYPE</String>
+		<String>MY_ZERO_POINT TYPE</String>
+		<String>MY_MASK_STATE TYPE</String>
+		<String>DOCUMENT_TYPE TYPE</String>
+		<String>MY_VALUE_LIST TYPE</String>
+		<String>BROWSER_MEDIA TYPE</String>
+		<String>MY_RESOLUTION TYPE</String>
+		<String>MY_MASK_POINT TYPE</String>
+		<String>FEATHER_COLOR TYPE</String>
+		<String>MY_TWEEN_TYPE TYPE</String>
+		<String>MY_COMPRESSOR TYPE</String>
+		<String>DOCUMENT_DATA TYPE</String>
+		<String>GARBAGE_MATTE TYPE</String>
+		<String>MY_TRACK_DATA TYPE</String>
+		<String>FLARE_SHAPES TYPE</String>
+		<String>MY_COMPOSITE TYPE</String>
+		<String>NCE_NO_TWEEN TYPE</String>
+		<String>MY_SAVE_DATA TYPE</String>
+		<String>MY_GRID_SIZE TYPE</String>
+		<String>MY_GRID_SNAP TYPE</String>
+		<String>MY_TYPE_TEXT TYPE</String>
+		<String>MY_UNIQUE_ID TYPE</String>
+		<String>MY_FRAME_END TYPE</String>
+		<String>WIDGET_PROPS TYPE</String>
+		<String>MY_FRAME_OUT TYPE</String>
+		<String>MY_TEMP_PATH TYPE</String>
+		<String>VIEW_TIMELINE_ALL</String>
+		<String>MY_MOVEMENT TYPE</String>
+		<String>VISIONLAB STUDIO</String>
+		<String>MY_KEY_LIST TYPE</String>
+		<String>MY_FRAME_IN TYPE</String>
+		<String>MY_WARPTYPE TYPE</String>
+		<String>MY_SAMPLING TYPE</String>
+		<String>MY_TIMECODE TYPE</String>
+		<String>PROJECT_DOCUMENT</String>
+		<String>OBJECT_LIST TYPE</String>
+		<String>THE_OBJECT TYPE</String>
+		<String>PROP_SCALE TYPE</String>
+		<String>MY_REVERSE TYPE</String>
+		<String>ATTRIBUTES TYPE</String>
+		<String>COMPATIBLE TYPE</String>
+		<String>LINE_COLOR TYPE</String>
+		<String>MY_OFFLINE TYPE</String>
+		<String>R_NO_TWEEN TYPE</String>
+		<String>MY_HEIGHT TYPE</String>
+		<String>MY_DELETE TYPE</String>
+		<String>MY_ACTIVE TYPE</String>
+		<String>TOOL_PROP TYPE</String>
+		<String>MY_RENAME TYPE</String>
+		<String>ANIMATION TYPE</String>
+		<String>PROP_BLUR TYPE</String>
+		<String>THE_FRAME TYPE</String>
+		<String>KEY_GRADE TYPE</String>
+		<String>MY_EFFECT TYPE</String>
+		<String>MY_SPEED TYPE</String>
+		<String>DOCUMENT_BODY</String>
+		<String>MY_WIDTH TYPE</String>
+		<String>MY_COLOR TYPE</String>
+		<String>WARP_BILINEAR</String>
+		<String>TIMELINE TYPE</String>
+		<String>EXPANDED TYPE</String>
+		<String>MY_PATH TYPE</String>
+		<String>MY_SCAN TYPE</String>
+		<String>MY DOCUMENTS</String>
+		<String>SECTION TYPE</String>
+		<String>HANDLE2 TYPE</String>
+		<String>TOOLBOX TYPE</String>
+		<String>MY_TYPE TYPE</String>
+		<String>FILTERS TYPE</String>
+		<String>POINTER TYPE</String>
+		<String>MY_NAME TYPE</String>
+		<String>HANDLE1 TYPE</String>
+		<String>FILTER_NODE</String>
+		<String>PROP_COLOR_</String>
+		<String>XML VERSION</String>
+		<String>VERTEX TYPE</String>
+		<String>ROTATE TYPE</String>
+		<String>MY_ROW TYPE</String>
+		<String>REDRAW TYPE</String>
+		<String>CANVAS TYPE</String>
+		<String>PROP_ORIGIN</String>
+		<String>ENGTH TYPE</String>
+		<String>TITLE TYPE</String>
+		<String>SPRITE 25</String>
+		<String>COLLAPSED</String>
+		<String>THUMBNAIL</String>
+		<String>SORT TYPE</String>
+		<String>VIEW TYPE</String>
+		<String>PROPLIST</String>
+		<String>KEY TYPE</String>
+		<String>ENCODING</String>
+		<String>STANDARD</String>
+		<String>FREEHAND</String>
+		<String>COMPLEX</String>
+		<String>INTEGER</String>
+		<String>ARE_SCT</String>
+		<String>PROP_SE</String>
+		<String>MINIDV</String>
+		<String>LE_SCT</String>
+		<String>STRING</String>
+		<String>PROP_R</String>
+		<String>ON_SCT</String>
+		<String>FXHOME</String>
+		<String>SYMBOL</String>
+		<String>PROP_G</String>
+		<String>SIMPLE</String>
+		<String>PENCIL</String>
+		<String>ITEM_</String>
+		<String>CDATA</String>
+		<String>CACHE</String>
+		<String>D_SCT</String>
+		<String>IMAGE</String>
+		<String>FLOAT</String>
+		<String>.VLAB</String>
+		<String>EVEN</String>
+		<String>REEN</String>
+	</GlobalStrings>
+</TrID>

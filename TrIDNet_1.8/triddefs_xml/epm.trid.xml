@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Electric Pipes Music</FileType>
+		<Ext>EPM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.bakedbean.co.nz/Electric_Pipes.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>57</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>DD07010001000A2404006400000064000000C8000000C8000000EA0A00006F08000000000000</Bytes>
+			<ASCII> . . . . . . . $ . . d . . . d . . . . . . . . . . . . . . . o</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FFFF00000000</Bytes>
+			<Pos>40</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>EPIPESSYMBOLS</String>
+		<String>SHILLELAGHS</String>
+		<String>CSTAFF</String>
+		<String>CNOTE</String>
+		<String>D'''D</String>
+		<String>CBAR</String>
+	</GlobalStrings>
+</TrID>

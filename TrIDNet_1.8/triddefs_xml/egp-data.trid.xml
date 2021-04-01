@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Easy Grade Pro data</FileType>
+		<Ext>EGP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.orbissoft.com/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>45</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>47424844</Bytes>
+			<ASCII> G B H D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>STANDARD SCALE</String>
+		<String>CLASSAVGGRADE</String>
+		<String>OVERALLGRADE</String>
+		<String>TEACHER NAME</String>
+		<String>PERFORMANCE</String>
+		<String>STUDENT AVG</String>
+		<String>SUSPENSION</String>
+		<String>FIRST NAME</String>
+		<String>CLASSAVG%</String>
+		<String>CLASSROOM</String>
+		<String>CLASSWORK</String>
+		<String>OSU SCALE</String>
+		<String>LAST NAME</String>
+		<String>OVERALL%</String>
+		<String>ABSENCE</String>
+		<String>SCHOOL</String>
+		<String>PARENT</String>
+		<String>CUSTOM</String>
+		<String>DATE</String>
+		<String>QUIZ</String>
+		<String>STDS</String>
+		<String>CLHD</String>
+		<String>NOTE</String>
+		<String>YEAR</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SmartSniff Saved Packets</FileType>
+		<Ext>SSP</Ext>
+		<ExtraInfo>
+			<Rem>A Sniffer that captures TCP/IP packets that pass through the network adapter.</Rem>
+			<RefURL>http://www.nirsoft.net/utils/smsniff.html</RefURL>
+		</ExtraInfo>
+		<User>Scrapie</User>
+		<E-Mail>scrapie@pochta.ru</E-Mail>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>05</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>10</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>534D534E463230300400C0A87BC81800</Bytes>
+			<ASCII> S M S N F 2 0 0 . . . . {</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

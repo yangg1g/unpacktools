@@ -1,0 +1,117 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PC-BSD Installer Package</FileType>
+		<Ext>PBI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pcbsd.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>30</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>54</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7F454C46</Bytes>
+			<ASCII> . E L F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FRAME_DUMMY'__CTOR_END__'__DTOR_END__'__FRAME_END__'__JCR_END__'__DO_GLOBAL_CTORS_AUX</String>
+		<String>.DATA'.EH_FRAME'.DYNAMIC'.CTORS'.DTORS'.JCR'.GOT'.BSS'.COMMENT</String>
+		<String>CRTSTUFF.C'__CTOR_LIST__'__DTOR_LIST__'__</String>
+		<String>_EDATA'__BSS_START'_END</String>
+		<String>CRTN.S'PBISTART.C'STRC</String>
+		<String>EXPORT LD_LIBRARY_PATH</String>
+		<String>__DO_GLOBAL_DTORS_AUX</String>
+		<String>_GLOBAL_OFFSET_TABLE_</String>
+		<String>_JV_REGISTERCLASSES</String>
+		<String>__PBI_ARCHIVE__</String>
+		<String>{ PRINT NR + 1</String>
+		<String>EXP $'$FREEBSD</String>
+		<String>__DSO_HANDLE</String>
+		<String>__JCR_LIST__</String>
+		<String>LD-ELF.SO.1</String>
+		<String>KDESU -D -C</String>
+		<String>.TMPPBIPWD</String>
+		<String>CRTBRAND.C</String>
+		<String>KDIALOG --</String>
+		<String>.PBIDIALOG</String>
+		<String>__PROGNAME</String>
+		<String>EXTRACTING</String>
+		<String>.TMPPBIAWK</String>
+		<String>.PBISTART</String>
+		<String>EXP $'GCC</String>
+		<String>.SHSTRTAB</String>
+		<String>PCBSDLANG</String>
+		<String>_INIT_TLS</String>
+		<String>CHMOD 755</String>
+		<String>LIBC.SO.</String>
+		<String>PROGRAMS</String>
+		<String>BUILT-IN</String>
+		<String>_DYNAMIC</String>
+		<String>COMPLETE</String>
+		<String>COMMAND</String>
+		<String>.STRTAB</String>
+		<String>.DYNSYM</String>
+		<String>LIBEXEC</String>
+		<String>.PBITMP</String>
+		<String>INSTALL</String>
+		<String>.SYMTAB</String>
+		<String>.DYNSTR</String>
+		<String>.RODATA</String>
+		<String>PBITEXT</String>
+		<String>R EXP $</String>
+		<String>ENVIRON</String>
+		<String>.INTERP</String>
+		<String>STRCAT</String>
+		<String>CRTI.S</String>
+		<String>STRCMP</String>
+		<String>ATEXIT</String>
+		<String>CRT1.C</String>
+		<String>TAR XV</String>
+		<String>PLEASE</String>
+		<String>COMMON</String>
+		<String>UNLINK</String>
+		<String>PC-BSD</String>
+		<String>SYSTEM</String>
+		<String>EXIT 0</String>
+		<String>STRCPY</String>
+		<String>WHOAMI</String>
+		<String>TAIL +</String>
+		<String>RM -RF</String>
+		<String>.LIBS</String>
+		<String>(GNU)</String>
+		<String>.FINI</String>
+		<String>.TEXT</String>
+		<String>.INIT</String>
+		<String>_FINI</String>
+		<String>LANGS</String>
+		<String>.HASH</String>
+		<String>-TEXT</String>
+		<String>CLOSE</String>
+		<String>INFO</String>
+		<String>ECHO</String>
+		<String>OPEN</String>
+		<String>NULL</String>
+		<String>READ</String>
+		<String>LINE</String>
+		<String>DERE</String>
+	</GlobalStrings>
+</TrID>

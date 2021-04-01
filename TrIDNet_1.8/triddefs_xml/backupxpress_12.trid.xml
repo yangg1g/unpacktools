@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BackupExpress Pro</FileType>
+		<Ext>BCK</Ext>
+		<ExtraInfo>
+			<Rem>backup file for versions 1.x through 2.x; can be read by version 3.x</Rem>
+			<RefURL>http://english.xpertdesign.de/info_bxp.php</RefURL>
+		</ExtraInfo>
+		<User>Christian Wolkersdorfer</User>
+		<E-Mail>chris(@t)nospam(@t)wolkersdorfer.info</E-Mail>
+		<Home>http://www.wolkersdorfer.info</Home>
+	</Info>
+	<General>
+		<FileNum>71</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>01</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>06</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>29</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000</Bytes>
+			<Pos>35</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>46</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>54</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>5.01</String>
+		<String>FILE</String>
+		<String>LIST</String>
+	</GlobalStrings>
+</TrID>

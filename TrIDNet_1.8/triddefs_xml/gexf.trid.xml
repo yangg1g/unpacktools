@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Graph Exchange XML Format</FileType>
+		<Ext>GEXF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://gexf.net/format/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>1</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>1</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ENCODING</String>
+		<String>NODE ID</String>
+		<String>VERSION</String>
+		<String>SOURCE</String>
+		<String>TARGET</String>
+		<String>EDGES</String>
+		<String>GRAPH</String>
+		<String>LABEL</String>
+		<String>NODES</String>
+		<String>XML V</String>
+		<String>XMLNS</String>
+		<String>CTED</String>
+		<String>GEXF</String>
+		<String>HTTP</String>
+		<String>RAFT</String>
+		<String>RECT</String>
+		<String>TYPE</String>
+		<String>WWW.</String>
+	</GlobalStrings>
+</TrID>

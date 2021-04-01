@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AC1D-DC1A Packer</FileType>
+		<Ext>AC1D</Ext>
+		<ExtraInfo>
+			<Rem> A module packer created by Carsten Sorensen (Slammer/Anarchy).</Rem>
+			<RefURL>http://exotica.fix.no/tunes/unexotica/formats/AC1D-DC1A_Packer.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>03</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>AC1D0000</Bytes>
+			<Pos>2</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

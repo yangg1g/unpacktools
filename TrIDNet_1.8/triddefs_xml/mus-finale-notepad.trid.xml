@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Finale NotePad</FileType>
+		<Ext>MUS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.finalemusic.com/notepad/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>36</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>454E49474D412042494E4152592046494C45000000000000000000000000000046696E616C65285229204E6F746550616420</Bytes>
+			<ASCII> E N I G M A   B I N A R Y   F I L E . . . . . . . . . . . . . . F i n a l e ( R )   N o t e P a d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>464E50</Bytes>
+			<ASCII> F N P</ASCII>
+			<Pos>150</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>CMU Window Manager bitmap</FileType>
+        <Ext>CMU</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>19</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>18</Day>
+        </Date>
+        <Time>
+            <Hour>00</Hour>
+            <Min>00</Min>
+            <Sec>54</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>F10040BB0000</Bytes>
+            <ASCII> . . @</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

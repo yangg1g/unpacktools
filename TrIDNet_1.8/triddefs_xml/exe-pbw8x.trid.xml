@@ -1,0 +1,143 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Win32 Executable PowerBASIC/Win 8.x</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.powerbasic.com/products/pbdll32/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>64</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>42</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A0A000200000004000F00FFFF0000C00000000000000040000000000000000000000000000000000000000000000000000000000000000000000080000000B409</Bytes>
+			<ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5468697320697320612057696E33322070726F6772616D2E0D0A24000000000000000000000000000000000000000000504500004C01</Bytes>
+			<ASCII> T h i s   i s   a   W i n 3 2   p r o g r a m . . . $ . . . . . . . . . . . . . . . . . . . . . P E . . L</ASCII>
+			<Pos>80</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00393000000000000000000000E0000F030B010234</Bytes>
+			<ASCII> . 9 0 . . . . . . . . . . . . . . . . . 4</ASCII>
+			<Pos>135</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000400000100000000200000100000000000000040000000000000000</Bytes>
+			<ASCII> . . . @</ASCII>
+			<Pos>179</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000004000000000000</Bytes>
+			<Pos>211</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002E74657874002020</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . t e x t</ASCII>
+			<Pos>294</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000010000000</Bytes>
+			<Pos>387</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000040000000000000000000000000000200000602E64617461002020</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . .   . . ` . d a t a</ASCII>
+			<Pos>395</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000000400000C02E6C696E6B002020</Bytes>
+			<ASCII> . . . . . . . . . . . . . @ . . . . l i n k</ASCII>
+			<Pos>439</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000000400000C02E72</Bytes>
+			<ASCII> . . . . . . . . . . . . . @ . . . . r</ASCII>
+			<Pos>479</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>63002020</Bytes>
+			<ASCII> c</ASCII>
+			<Pos>500</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000000400000</Bytes>
+			<ASCII> . . . . . . . . . . . . . @</ASCII>
+			<Pos>519</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>C3C377052BC27801C3B209B6A066895580C3A900FFFFFF7506C30AE47501C3B206EBE885C078F8C3508BD0983BC25875EEC3A90080FFFF75E6C3A90000FFFF75DEC385DB7401C3B209EBC0C3F64581807501C3807581808B4D84E3F6804D81405AFFE1E8</Bytes>
+			<ASCII> . . w . + . x . . . . . . f . U . . . . . . . u . . . . u . . . . . . . . x . . P . . . ; . X u . . . . . . . u . . . . . . . u . . . . t . . . . . . . . E . . u . . . u . . . M . . . . M . @ Z</ASCII>
+			<Pos>1024</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>$'''''''''''''''''''''PE''L</String>
+		<String>THIS IS A WIN32 PROGRAM.</String>
+		<String>POWERBASIC'CONIN$'TCP</String>
+		<String>SYSALLOCSTRINGBYTELEN</String>
+		<String>WIDECHARTOMULTIBYTE</String>
+		<String>MULTIBYTETOWIDECHAR</String>
+		<String>GETMODULEHANDLEA</String>
+		<String>COCREATEINSTANCE</String>
+		<String>SYSSTRINGBYTELEN</String>
+		<String>PROGIDFROMCLSID</String>
+		<String>CLSIDFROMPROGID</String>
+		<String>GETCOMMANDLINEA</String>
+		<String>SAFEARRAYCREATE</String>
+		<String>GETSTARTUPINFOA</String>
+		<String>GETACTIVEOBJECT</String>
+		<String>SETFILEPOINTER</String>
+		<String>COUNINITIALIZE</String>
+		<String>GETVERSIONEXA</String>
+		<String>MS SANS SERIF</String>
+		<String>SYSFREESTRING</String>
+		<String>SETLASTERROR</String>
+		<String>KERNEL32.DLL</String>
+		<String>VARIANTCLEAR</String>
+		<String>COINITIALIZE</String>
+		<String>OLEAUT32.DLL</String>
+		<String>GETLASTERROR</String>
+		<String>SETERRORMODE</String>
+		<String>CREATEFILEA</String>
+		<String>GLOBALALLOC</String>
+		<String>TLSSETVALUE</String>
+		<String>EXITPROCESS</String>
+		<String>CLOSEHANDLE</String>
+		<String>VARIANTCOPY</String>
+		<String>TLSGETVALUE</String>
+		<String>GLOBALFREE</String>
+		<String>OLE32.DLL</String>
+		<String>WRITEFILE</String>
+		<String>I0O0T0Z0</String>
+		<String>TLSALLOC</String>
+		<String>READFILE</String>
+		<String>TLSFREE</String>
+		<String>PSQVWF</String>
+		<String>.TEXT</String>
+		<String>.RLOC</String>
+		<String>SLEEP</String>
+		<String>.DATA</String>
+		<String>.LINK</String>
+	</GlobalStrings>
+</TrID>

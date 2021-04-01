@@ -1,0 +1,66 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WinZip Job File (XML type)</FileType>
+		<Ext>WJF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Winzip</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>50</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>22</Bytes>
+			<ASCII> "</ASCII>
+			<Pos>115</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WINZIPJOB VERSION</String>
+		<String>COMPRESSION TYPE</String>
+		<String>MAILITEM OPTIONS</String>
+		<String>ENCRYPTION MODE</String>
+		<String>WIZARD USEVARS</String>
+		<String>FOLDER APPEND</String>
+		<String>FOLDERS MODE</String>
+		<String>SUBJECT TYPE</String>
+		<String>ITEM EXCLUDE</String>
+		<String>XML VERSION</String>
+		<String>NAME APPEND</String>
+		<String>SPLIT UNIT</String>
+		<String>SPAN MODE</String>
+		<String>CD SPEED</String>
+		<String>FINALIZE</String>
+		<String>ENCODING</String>
+		<String>LOG TYPE</String>
+		<String>RECURSE</String>
+		<String>OUTPUT</String>
+		<String>METHOD</String>
+		<String>SENDTO</String>
+		<String>FLAGS</String>
+		<String>ITEMS</String>
+		<String>EMAIL</String>
+	</GlobalStrings>
+</TrID>

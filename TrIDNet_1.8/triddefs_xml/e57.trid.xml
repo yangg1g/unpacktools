@@ -1,0 +1,88 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LIDAR Point Cloud data</FileType>
+		<Ext>E57</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.libe57.org</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>12</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>34</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4153544D2D453537010000000000000000</Bytes>
+			<ASCII> A S T M - E 5 7</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ISATOMICCLOCKREFERENCED TYPE</String>
+		<String>ALLOWHETEROGENEOUSCHILDREN</String>
+		<String>COORDINATEMETADATA TYPE</String>
+		<String>E57LIBRARYVERSION TYPE</String>
+		<String>INTELISUM-LD3-STUDIO-V</String>
+		<String>CARTESIANBOUNDS TYPE</String>
+		<String>DATETIMEVALUE TYPE</String>
+		<String>INVALIDSTATE TYPE</String>
+		<String>VERSIONMAJOR TYPE</String>
+		<String>VERSIONMINOR TYPE</String>
+		<String>CREATIONDATETIME</String>
+		<String>M E57 3D IMAGING</String>
+		<String>TEMPERATURE TYPE</String>
+		<String>VECTORCHILD TYPE</String>
+		<String>FORMATNAME TYPE</String>
+		<String>NDATETIME TYPE</String>
+		<String>PROTOTYPE TYPE</String>
+		<String>2010-E57-V1.0</String>
+		<String>IMAGES2D TYPE</String>
+		<String>XMAXIMUM TYPE</String>
+		<String>XMINIMUM TYPE</String>
+		<String>YMAXIMUM TYPE</String>
+		<String>YMINIMUM TYPE</String>
+		<String>ZMAXIMUM TYPE</String>
+		<String>ZMINIMUM TYPE</String>
+		<String>-E57REFIMPL-</String>
+		<String>E57ROOT TYPE</String>
+		<String>CODECS TYPE</String>
+		<String>DATA3D TYPE</String>
+		<String>ESSEDVECTOR</String>
+		<String>POINTS TYPE</String>
+		<String>RECORDCOUNT</String>
+		<String>XML VERSION</String>
+		<String>FILEOFFSET</String>
+		<String>DATA FILE</String>
+		<String>GUID TYPE</String>
+		<String>STRUCTURE</String>
+		<String>ASTM-E57</String>
+		<String>ASTM.ORG</String>
+		<String>ENCODING</String>
+		<String>INTEGER</String>
+		<String>COMMIT</String>
+		<String>STRING</String>
+		<String>Y TYPE</String>
+		<String>CDATA</String>
+		<String>COMPR</String>
+		<String>FLOAT</String>
+		<String>UTF-8</String>
+		<String>XMLNS</String>
+		<String>HTTP</String>
+		<String>WWW.</String>
+	</GlobalStrings>
+</TrID>

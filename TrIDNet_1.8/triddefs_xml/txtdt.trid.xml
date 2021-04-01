@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DVD TEXT data file</FileType>
+		<Ext>TXTDT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>08</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>58</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4456445F544558545F444154410D0A</Bytes>
+			<ASCII> D V D _ T E X T _ D A T A</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NUM_LANG_UNITS</String>
+		<String>CHARACTER_SET</String>
+		<String>DVD_TEXT_DATA</String>
+		<String>TEXT_DATA_ID</String>
+		<String>LANGUAGE</String>
+		<String>VOLUME</String>
+		<String>ISO_</String>
+		<String>TITLE</String>
+		<String>SORTING</String>
+		<String>VERSION</String>
+		<String>UNIT</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

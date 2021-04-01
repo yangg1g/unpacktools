@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Furcadia DragonSpeak Script</FileType>
+		<Ext>DS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.furcadia.com/</RefURL>
+		</ExtraInfo>
+		<User>Ryan Jones</User>
+		<E-Mail>sciguyryan@gmail.com</E-Mail>
+		<Home>http://ccc-cymru.com</Home>
+	</Info>
+	<General>
+		<FileNum>24</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>04</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>10</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4453504B</Bytes>
+			<ASCII>DSPK</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FURCADIA</String>
+		<String>ENDTRIGGER</String>
+		<String>ENDTRIGGERS</String>
+	</GlobalStrings>
+</TrID>

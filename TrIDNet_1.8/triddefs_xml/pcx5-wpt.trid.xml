@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Garmin PCX5 waypoint file</FileType>
+		<Ext>WPT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.eagleglobesoftware.com/formatsrd/Garmin-PCX5.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>24</FileNum>
+		<Refine>12 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>52</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4820</Bytes>
+			<ASCII> H</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COORDINATE SYSTEM</String>
+		<String>SOFTWARE NAME</String>
+		<String>DESCRIPTION</String>
+		<String>00000E+00</String>
+		<String>VERSION</String>
+		<String>DATUM</String>
+		<String>PCX5</String>
+		<String>TIME</String>
+		<String>DATE</String>
+		<String>IDNT</String>
+	</GlobalStrings>
+</TrID>

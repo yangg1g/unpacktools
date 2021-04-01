@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Apple Finder Internet Location</FileType>
+		<Ext>WEBLOC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.apple.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>04</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>54</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000516</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.WEBLOC</String>
+		<String>HTTP</String>
+		<String>DRAG</String>
+		<String>TEXT</String>
+	</GlobalStrings>
+</TrID>

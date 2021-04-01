@@ -1,0 +1,196 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Hierarchical Data Format Release 5</FileType>
+		<Ext>HE5</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.gdal.org/frmt_hdf5.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>43</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>47</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>894844460D0A1A</Bytes>
+			<ASCII> . H D F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>48454150</Bytes>
+			<ASCII> H E A P</ASCII>
+			<Pos>96</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>484446454F530000484446454F5320494E464F524D4154494F4E</Bytes>
+			<ASCII> H D F E O S . . H D F E O S   I N F O R M A T I O N</ASCII>
+			<Pos>136</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54524545</Bytes>
+			<ASCII> T R E E</ASCII>
+			<Pos>384</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>48454150</Bytes>
+			<ASCII> H E A P</ASCII>
+			<Pos>976</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54524545</Bytes>
+			<ASCII> T R E E</ASCII>
+			<Pos>1032</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>534E4F44</Bytes>
+			<ASCII> S N O D</ASCII>
+			<Pos>1624</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>48454150</Bytes>
+			<ASCII> H E A P</ASCII>
+			<Pos>1952</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>46494C455F415454524942555445530054524545</Bytes>
+			<ASCII> F I L E _ A T T R I B U T E S . T R E E</ASCII>
+			<Pos>1992</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FURTHER UPDATE ANTICIPATED USING ENHANCED PGE</String>
+		<String>OPERATIONALQUALITYFLAGEXPLANATION</String>
+		<String>HORIZONTALSPATIALDOMAINCONTAINER</String>
+		<String>AUTOMATICQUALITYFLAGEXPLANATION</String>
+		<String>VERTICALSPATIALDOMAINCONTAINER</String>
+		<String>VERTICALSPATIALDOMAINVALUE</String>
+		<String>MEASUREDPARAMETERCONTAINER</String>
+		<String>HDFEOS''HDFEOS INFORMATION</String>
+		<String>COLLECTIONDESCRIPTIONCLASS</String>
+		<String>VERTICALSPATIALDOMAINTYPE</String>
+		<String>QAPERCENTOUTOFBOUNDSDATA</String>
+		<String>SOUTHBOUNDINGCOORDINATE</String>
+		<String>NORTHBOUNDINGCOORDINATE</String>
+		<String>EASTBOUNDINGCOORDINATE</String>
+		<String>WESTBOUNDINGCOORDINATE</String>
+		<String>UNIQUEFIELDDEFINITION</String>
+		<String>FILE_ATTRIBUTES'TREE</String>
+		<String>QAPERCENTMISSINGDATA</String>
+		<String>REPROCESSINGPLANNED</String>
+		<String>TAI93AT0ZOFGRANULE</String>
+		<String>VERTICALCOORDINATE</String>
+		<String>SCIENCEQUALITYFLAG</String>
+		<String>GEOLOCATION FIELDS</String>
+		<String>RANGEBEGINNINGTIME</String>
+		<String>PRODUCTIONDATETIME</String>
+		<String>RANGEBEGINNINGDATE</String>
+		<String>ATMOSPHERE PROFILE</String>
+		<String>BOUNDINGRECTANGLE</String>
+		<String>INDEXDIMENSIONMAP</String>
+		<String>INVENTORYMETADATA</String>
+		<String>STRUCTMETADATA.0</String>
+		<String>ATMOSPHERE LAYER</String>
+		<String>NOT INVESTIGATED</String>
+		<String>SOLARZENITHANGLE</String>
+		<String>PGEVERSIONCLASS</String>
+		<String>RANGEENDINGTIME</String>
+		<String>GRANULELOCALITY</String>
+		<String>RANGEENDINGDATE</String>
+		<String>COREMETADATA.0</String>
+		<String>POINTSTRUCTURE</String>
+		<String>ECSDATAGRANULE</String>
+		<String>SWATHSTRUCTURE</String>
+		<String>LOCALSOLARTIME</String>
+		<String>INSTRUMENTNAME</String>
+		<String>LOCALVERSIONID</String>
+		<String>LOCALGRANULEID</String>
+		<String>GRIDSTRUCTURE</String>
+		<String>PARAMETERNAME</String>
+		<String>RANGEDATETIME</String>
+		<String>LOCALITYVALUE</String>
+		<String>HDFEOSVERSION</String>
+		<String>DIMENSIONNAME</String>
+		<String>DATAFIELDNAME</String>
+		<String>INPUTGRANULE</String>
+		<String>MISSINGVALUE</String>
+		<String>E IDENTIFIER</String>
+		<String>PROFILEFIELD</String>
+		<String>GEOFIELDNAME</String>
+		<String>DAYNIGHTFLAG</String>
+		<String>GRANULEMONTH</String>
+		<String>MERGEDFIELDS</String>
+		<String>PROCESSLEVEL</String>
+		<String>INPUTPOINTER</String>
+		<String>GRANULEYEAR</String>
+		<String>DATA FIELDS</String>
+		<String>ZASTRUCTURE</String>
+		<String>AURA-SHARED</String>
+		<String>LS-SPECIFIC</String>
+		<String>TEMPERATURE</String>
+		<String>MASTERGROUP</String>
+		<String>HDFEOS_5.1.</String>
+		<String>DIMENSION_</String>
+		<String>_FILLVALUE</String>
+		<String>MAXDIMLIST</String>
+		<String>GRANULEDAY</String>
+		<String>ADDITIONAL</String>
+		<String>END_OBJECT</String>
+		<String>SPACECRAFT</String>
+		<String>DATAFIELD_</String>
+		<String>GEOFIELD_</String>
+		<String>SWATHNAME</String>
+		<String>GROUPTYPE</String>
+		<String>SHORTNAME</String>
+		<String>LONGITUDE</String>
+		<String>PRECISION</String>
+		<String>END_GROUP</String>
+		<String>PRESSURE</String>
+		<String>DATATYPE</String>
+		<String>FILE FOR</String>
+		<String>NORMALLY</String>
+		<String>LATITUDE</String>
+		<String>SECONDS</String>
+		<String>QASTATS</String>
+		<String>NUM_VAL</String>
+		<String>NLEVELS</String>
+		<String>HIRDLS-</String>
+		<String>NOUNITS</String>
+		<String>QAFLAGS</String>
+		<String>NTIMES</String>
+		<String>SWATH_</String>
+		<String>ACTUAL</String>
+		<String>TITLE</String>
+		<String>ORBIT</String>
+		<String>ONCE</String>
+		<String>BOTH</String>
+		<String>HEAP</String>
+		<String>NEXT</String>
+		<String>HNO3</String>
+		<String>BEEN</String>
+		<String>ABLE</String>
+		<String>NCES</String>
+		<String>LATE</String>
+		<String>MODE</String>
+		<String>SIZE</String>
+		<String>SNOD</String>
+		<String>.HE5</String>
+		<String>CHAR</String>
+		<String>ZONE</String>
+		<String>COMP</String>
+		<String>SSES</String>
+	</GlobalStrings>
+</TrID>

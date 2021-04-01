@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Infinity Engine configuration</FileType>
+		<Ext>INI</Ext>
+		<ExtraInfo>
+			<Rem>Infinity Engine INI files follow the standard INI format.</Rem>
+			<RefURL>http://iesdp.gibberlings3.net/file_formats/ie_formats/ini.htm</RefURL>
+		</ExtraInfo>
+		<User>Sam.</User>
+		<E-Mail>sampsca@yahoo.com</E-Mail>
+		<Home>http://www.shsforums.net/user/10485-sam/</Home>
+	</Info>
+	<General>
+		<FileNum>36</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>01</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>56</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B6C6F63616C735D0D0A0D0A</Bytes>
+			<ASCII> [ l o c a l s ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SPEC_VAR_OPERATION</String>
+		<String>IGNORE_CAN_SEE</String>
+		<String>SPEC_VAR_VALUE</String>
+		<String>SPAWN_POINT</String>
+		<String>CREATE_QTY</String>
+		<String>SPAWN_MAIN</String>
+		<String>SPEC_QTY</String>
+		<String>CRE_FILE</String>
+		<String>CRITTERS</String>
+		<String>INTERVAL</String>
+		<String>SCRIPT_</String>
+		<String>LOCALS</String>
+	</GlobalStrings>
+</TrID>

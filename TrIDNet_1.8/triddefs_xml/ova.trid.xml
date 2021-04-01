@@ -1,0 +1,98 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Open Virtualization Format package</FileType>
+		<Ext>OVA</Ext>
+		<ExtraInfo>
+			<Rem>A TAR file with the entire OVF directory inside.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Open_Virtualization_Format</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>57</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7573746172</Bytes>
+			<ASCII> u s t a r</ASCII>
+			<Pos>257</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E3022</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "</ASCII>
+			<Pos>512</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>0''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''USTAR</String>
+		<String>CIM_RESOURCEALLOCATIONSETTINGDATA</String>
+		<String>VIRTUAL HARDWARE REQUIREMENTS</String>
+		<String>CIM_VIRTUALSYSTEMSETTINGDATA</String>
+		<String>GUEST OPERATING SYSTEM</String>
+		<String>NUMBER OF VIRTUAL CPUS</String>
+		<String>OPERATINGSYSTEMSECTION</String>
+		<String>VIRTUALHARDWARESECTION</String>
+		<String>AUTOMATICALLOCATION</String>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>THE VIRTUAL DISKS</String>
+		<String>VIRTUALSYSTEMTYPE</String>
+		<String>SCHEMAS.DMTF.ORG</String>
+		<String>ALLOCATIONUNITS</String>
+		<String>RESOURCESUBTYPE</String>
+		<String>VIRTUALQUANTITY</String>
+		<String>MB OF MEMORY</String>
+		<String>RESOURCETYPE</String>
+		<String>DESCRIPTION</String>
+		<String>DISKSECTION</String>
+		<String>MEMORY SIZE</String>
+		<String>SECTION OVF</String>
+		<String>XML VERSION</String>
+		<String>CIM-SCHEMA</String>
+		<String>CONTROLLER</String>
+		<String>INSTANCEID</String>
+		<String>REFERENCES</String>
+		<String>WWW.W3.ORG</String>
+		<String>APPLIANCE</String>
+		<String>INSTALLED</String>
+		<String>MEGABYTES</String>
+		<String>ENVELOPE</String>
+		<String>ADAPTER</String>
+		<String>ADDRESS</String>
+		<String>TEM OVF</String>
+		<String>FORMAT</String>
+		<String>PARENT</String>
+		<String>LOGIC</String>
+		<String>WSCIM</String>
+		<String>XMLNS</String>
+		<String>.OVF</String>
+		<String>2001</String>
+		<String>ABLE</String>
+		<String>ALUE</String>
+		<String>BASE</String>
+		<String>CACH</String>
+		<String>ERTY</String>
+		<String>HOST</String>
+		<String>HTTP</String>
+		<String>INFO</String>
+		<String>ITEM</String>
+		<String>MINI</String>
+		<String>RASD</String>
+		<String>TRUE</String>
+		<String>VSSD</String>
+		<String>WBEM</String>
+	</GlobalStrings>
+</TrID>

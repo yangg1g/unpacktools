@@ -1,0 +1,85 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GoLive Website project</FileType>
+		<Ext>SITE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.adobe.com/products/golive/main.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>00</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>476F506A476F4D6B</Bytes>
+			<ASCII> G o P j G o M k</ASCII>
+			<Pos>65</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D42494E</Bytes>
+			<ASCII> m B I N</ASCII>
+			<Pos>102</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D616320000373697465</Bytes>
+			<ASCII> M a c	. . s i t e</ASCII>
+			<Pos>128</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>EXTERNAL PALETTE</String>
+		<String>PMPROJECTFOLDER</String>
+		<String>DESIGNS PALETTE</String>
+		<String>FONTSET PALETTE</String>
+		<String>ERRORS PALETTE</String>
+		<String>COLOR PALETTE</String>
+		<String>EXTRA PALETTE</String>
+		<String>FILES PALETTE</String>
+		<String>SMARTOBJECTS</String>
+		<String>SUBDOCLAYOUT</String>
+		<String>COLLECTIONS</String>
+		<String>INDEX.HTML</String>
+		<String>COMPONENTS</String>
+		<String>EXTERNALS</String>
+		<String>STATIONER</String>
+		<String>SITEENTRY</String>
+		<String>TEMPLATES</String>
+		<String>DIAGRAMS</String>
+		<String>SETTINGS</String>
+		<String>UNTITLED</String>
+		<String>RELATED</String>
+		<String>GOLIVE</String>
+		<String>MARKUP</String>
+		<String>COLORS</String>
+		<String>SCRIPT</String>
+		<String>ADOBE</String>
+		<String>DSVIN</String>
+		<String>TRASH</String>
+		<String>MLDOC</String>
+		<String>BASE</String>
+		<String>LINK</String>
+		<String>PAGE</String>
+		<String>TYPE</String>
+		<String>HTTP</String>
+		<String>DATA</String>
+	</GlobalStrings>
+</TrID>

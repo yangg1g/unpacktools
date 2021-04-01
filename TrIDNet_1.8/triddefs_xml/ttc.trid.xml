@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TrueType Font Collection</FileType>
+		<Ext>TTC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>07</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>33</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>74746366</Bytes>
+			<ASCII> t t c f</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FPGM</String>
+		<String>GLYF</String>
+		<String>HEAD</String>
+		<String>MAXP</String>
+		<String>NAME</String>
+		<String>POST</String>
+		<String>CMAP</String>
+		<String>TTCF</String>
+	</GlobalStrings>
+</TrID>

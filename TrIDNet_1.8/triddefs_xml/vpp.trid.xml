@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Visual Paradigm Project</FileType>
+		<Ext>VPP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.visual-paradigm.com/product/vpsuite/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>7</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>5</Min>
+			<Sec>2</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>56502D554D4C2050726F6A656374</Bytes>
+			<ASCII> V P - U M L   P r o j e c t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>64</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>OPTIONCODEGENERATIONPK</String>
+		<String>PROJECTPROPERTIESFILES</String>
+		<String>PERSISTENTMODELFILES</String>
+		<String>PRINTINGFRAMEWORKPK</String>
+		<String>DIAGRAMGENERATORPK</String>
+		<String>VPUMLTREEOPTIONSPK</String>
+		<String>VP-UML PROJECT200</String>
+		<String>OPTIONIMPORTERPK</String>
+		<String>OPTIONREPORTPK</String>
+		<String>PROJECT.XMLPK</String>
+	</GlobalStrings>
+</TrID>

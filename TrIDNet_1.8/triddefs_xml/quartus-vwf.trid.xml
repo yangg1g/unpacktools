@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Quartus Waveform simulation</FileType>
+		<Ext>VWF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Altera_Quartus</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>42</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2F2A</Bytes>
+			<ASCII> / *</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DO NOT EDIT THE INPUT AND OUTPUT PORTS IN THIS FILE IN A TEXT</String>
+		<String>FILE CORRUPTION IS VERY LIKELY TO OCCUR.</String>
+		<String>ALTERA CORPORATION</String>
+		<String>COPYRIGHT (C) 1991</String>
+		<String>GRID_DUTY_CYCLE</String>
+		<String>SIMULATION_TIME</String>
+		<String>BLOCK EDITOR</String>
+		<String>GRID_PERIOD</String>
+		<String>GRID_PHASE</String>
+		<String>TIME_UNIT</String>
+		<String>FUNCTION</String>
+		<String>TIME_BAR</String>
+		<String>VERSION</String>
+		<String>WARNING</String>
+		<String>HEADER</String>
+		<String>MASTER</String>
+		<String>MEGA</String>
+		<String>SIGN</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

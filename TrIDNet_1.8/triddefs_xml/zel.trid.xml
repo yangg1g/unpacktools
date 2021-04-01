@@ -1,0 +1,89 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Zelio Soft project</FileType>
+		<Ext>ZEL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.schneider-electric.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>3</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>3</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D27312E302720656E636F64696E673D2777696E646F77732D3132353227203F3E0D0A3C5A656C696F3E0D0A093C46696C6556657273696F6E3E373C2F46696C6556657273696F6E3E0D0A093C4D6F64756C655F4964656E746974793E0D0A09093C5265666572656E63653E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = ' 1 . 0 '   e n c o d i n g = ' w i n d o w s - 1 2 5 2 '   ? . . . . Z e l i o . . . . . F i l e V e r s i o n . 7 . / F i l e V e r s i o n . . . . . M o d u l e _ I d e n t i t y . . . . . . R e f e r e n c e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>077--------77--------77--------77--------</String>
+		<String>SCHNEIDER ELECTRIC INDUSTRIES SA</String>
+		<String>REMANENCESUPPORTED</String>
+		<String>MODULE_PROPERTIES</String>
+		<String>PROGRAM PAGECOUNT</String>
+		<String>BLOC_PROPERTIES</String>
+		<String>MODULE_IDENTITY</String>
+		<String>HELPSUPPORTED</String>
+		<String>HEADERCENTER</String>
+		<String>COMMENTIBIC</String>
+		<String>FILEVERSION</String>
+		<String>HEADERRIGHT</String>
+		<String>XML VERSION</String>
+		<String>FASTFILTER</String>
+		<String>FREEBOTTOM</String>
+		<String>FREECENTER</String>
+		<String>HEADERLEFT</String>
+		<String>IXZXFORCED</String>
+		<String>LINECOUNT</String>
+		<String>PRINTINFO</String>
+		<String>REFERENCE</String>
+		<String>SIGNATURE</String>
+		<String>TYPEINTER</String>
+		<String>AX_COUNT</String>
+		<String>CX_COUNT</String>
+		<String>ENCODING</String>
+		<String>IX_COUNT</String>
+		<String>PASSWORD</String>
+		<String>QX_COUNT</String>
+		<String>REMANENT</String>
+		<String>RX_COUNT</String>
+		<String>TX_COUNT</String>
+		<String>VISUBLOC</String>
+		<String>VX_COUNT</String>
+		<String>XX_COUNT</String>
+		<String>0101000</String>
+		<String>BUS_ASI</String>
+		<String>FREETOP</String>
+		<String>LANGAGE</String>
+		<String>LINE NO</String>
+		<String>PAGE NO</String>
+		<String>SERVICE</String>
+		<String>ZXACTIF</String>
+		<String>AUTEUR</String>
+		<String>HELPON</String>
+		<String>BLIND</String>
+		<String>LINKS</String>
+		<String>VALUE</String>
+		<String>ZELIO</String>
+		<String>.ZEL</String>
+		<String>TIME</String>
+	</GlobalStrings>
+</TrID>

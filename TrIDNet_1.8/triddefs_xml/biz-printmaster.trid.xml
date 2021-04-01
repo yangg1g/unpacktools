@@ -1,0 +1,64 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PrintMaster Gold document</FileType>
+		<Ext>BIZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>02</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>45</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE1</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43006F006E00740065006E00740073</Bytes>
+			<ASCII> C . o . n . t . e . n . t . s</ASCII>
+			<Pos>1664</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PRINTMASTER GOLD DOCUMENT</String>
+		<String>SENDER USER DEFINED DATE</String>
+		<String>SENDER USER DEFINED INFO</String>
+		<String>P'M'W' 'D'O'C'U'M'E'N'T</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>SENDER ANNIVERSARY</String>
+		<String>SENDER FIRST NAME</String>
+		<String>SENDER LAST NAME</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>SENDER ADDRESS1</String>
+		<String>SENDER ADDRESS2</String>
+		<String>SENDER BIRTHDAY</String>
+		<String>SENDER COMPANY</String>
+		<String>SENDER COUNTRY</String>
+		<String>SENDER EMAIL</String>
+		<String>SENDER TITLE</String>
+		<String>SENDER PHONE</String>
+		<String>RELATIONSHIP</String>
+		<String>SENDER STATE</String>
+		<String>SENDER CITY</String>
+		<String>SENDER FAX</String>
+		<String>SENDER ZIP</String>
+	</GlobalStrings>
+</TrID>

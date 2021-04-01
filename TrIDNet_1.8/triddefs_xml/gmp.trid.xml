@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GUEmap document</FileType>
+		<Ext>GMP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cjmweb.net/GUEmap/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>44</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>C755C56DE170</Bytes>
+			<ASCII> . U . m . p</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

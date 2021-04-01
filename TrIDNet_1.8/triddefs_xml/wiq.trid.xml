@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Visual Studio Work Item Query</FileType>
+		<Ext>WIQ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>6</Min>
+			<Sec>0</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C576F726B4974656D51756572792056657273696F6E3D2231223E0D0A20203C5769716C3E</Bytes>
+			<ASCII> . W o r k I t e m Q u e r y   V e r s i o n = " 1 " . . .     . W i q l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WORKITEMQUERY VERSION</String>
+		<String>SYSTEM.WORKITEMTYPE</String>
+		<String>FROM WORKITEMS</String>
+		<String>SYSTEM.TITLE</String>
+		<String>SYSTEM.ID</String>
+		<String>SELECT</String>
+		<String>WHERE</String>
+		<String>JECT</String>
+		<String>WIQL</String>
+	</GlobalStrings>
+</TrID>

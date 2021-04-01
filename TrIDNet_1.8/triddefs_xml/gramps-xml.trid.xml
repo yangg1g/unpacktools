@@ -1,0 +1,102 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GRAMPS XML</FileType>
+		<Ext>GRAMPS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/GRAMPS</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>12</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>15</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0A3C21444F4354595045206461746162617365205055424C494320222D2F2F47</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ? . . . ! D O C T Y P E   d a t a b a s e   P U B L I C   " - / / G</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCTYPE DATABASE PUBLIC</String>
+		<String>GRAMPS-PROJECT.ORG</String>
+		<String>LOCATION COUNTRY</String>
+		<String>SOURCEREF HLINK</String>
+		<String>DATABASE XMLNS</String>
+		<String>DTD GRAMPS XML</String>
+		<String>CHILDREF HLINK</String>
+		<String>EVENTREF HLINK</String>
+		<String>PARENTIN HLINK</String>
+		<String>REPOREF HLINK</String>
+		<String>GRAMPSXML.DTD</String>
+		<String>MOTHER HLINK</String>
+		<String>CREATED DATE</String>
+		<String>OBJREF HLINK</String>
+		<String>REPOSITORIES</String>
+		<String>FATHER HLINK</String>
+		<String>XML VERSION</String>
+		<String>DATEVAL VAL</String>
+		<String>DESCRIPTION</String>
+		<String>MANUSCRIPT</String>
+		<String>REPOSITORY</String>
+		<String>RESEARCHER</String>
+		<String>ION STATE</String>
+		<String>NAME TYPE</String>
+		<String>FILE SRC</String>
+		<String>PLACEOBJ</String>
+		<String>FAMILIES</String>
+		<String>SPUBINFO</String>
+		<String>REL TYPE</String>
+		<String>ENCODING</String>
+		<String>OBJECTS</String>
+		<String>RESNAME</String>
+		<String>SABBREV</String>
+		<String>ADDRESS</String>
+		<String>PRIMARY</String>
+		<String>SOURCES</String>
+		<String>SAUTHOR</String>
+		<String>HANDLE</String>
+		<String>PERSON</String>
+		<String>POSTAL</String>
+		<String>COUNTY</String>
+		<String>EVENTS</String>
+		<String>STITLE</String>
+		<String>CHANGE</String>
+		<String>CREATI</String>
+		<String>PEOPLE</String>
+		<String>PLACES</String>
+		<String>HEADER</String>
+		<String>FAMILY</String>
+		<String>GENDER</String>
+		<String>PTITLE</String>
+		<String>BIRTH</String>
+		<String>IMAGE</String>
+		<String>SPAGE</String>
+		<String>FIRST</String>
+		<String>UTF-8</String>
+		<String>DEATH</String>
+		<String>.JPG</String>
+		<String>MIME</String>
+		<String>CITY</String>
+		<String>HOME</String>
+		<String>NOTE</String>
+		<String>WWW.</String>
+		<String>HTTP</String>
+		<String>JPEG</String>
+	</GlobalStrings>
+</TrID>

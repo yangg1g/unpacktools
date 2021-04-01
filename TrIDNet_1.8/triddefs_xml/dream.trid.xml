@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Stardock's DeskScapes animated wallpaper</FileType>
+		<Ext>DREAM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://dream.wincustomize.com/</RefURL>
+		</ExtraInfo>
+		<User>Esteban Santana Santana</User>
+		<E-Mail>MentalPower -at- GMail</E-Mail>
+		<Home>http://gomentalpower.com</Home>
+	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<Refine>11 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>34</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0C00000053445C447265616D5C30360069030000</Bytes>
+			<ASCII> . . . . S D \ D r e a m \ 0 6 . i</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3B200D0A3B5468697320647265616D2066696C6520776173206372656174656420666F7220757365207370656369666963616C6C792062792053746172646F636B204465736B536361706573206F722070726F6772616D73206578706C696369746C7920617574686F72697A65642062792053746172646F636B20746F20757365204465736B53636170657320647265616D732E200D0A3B200D0A3B5468697320647265616D206D6179206E6F7420626520636F6E7665727465642C20696D706F727465642C206F72207265616420627920616E792070726F6772616D20776974686F757420746865206578706C69636974207772697474656E20636F6E73656E74206F662053746172646F636B20436F72706F726174696F6E2E200D0A3B200D0A3B54686520647265616D20697473656C66206973206F776E65642062792074686520636F7079726967687420686F6C646572202874686520647265616D277320617574686F722920616E6420757365206F6620686973206F7220686572277320696E74656C6C65637475616C2070726F7065727479206D6174657269616C7320697320657870726573736C7920666F7262696464656E20776974686F75742074686520636F6E73656E74206F662074686520647265616D20617574686F722E200D0A3B200D0A3B4465736B536361706573202E445245414D2066696C6520666F726D617420636F707972696768742028432920323030372053746172646F636B20436F72706F726174696F6E2E200D0A3B200D0A3B5768656E20696E20646F7562742C20636F6E74616374206C6567616C4073746172646F636B2E636F6D2E200D0A3B200D0A</Bytes>
+			<ASCII> ;   . . ; T h i s   d r e a m   f i l e   w a s   c r e a t e d   f o r   u s e   s p e c i f i c a l l y   b y   S t a r d o c k   D e s k S c a p e s   o r   p r o g r a m s   e x p l i c i t l y   a u t h o r i z e d   b y   S t a r d o c k   t o   u s e   D e s k S c a p e s   d r e a m s .   . . ;   . . ; T h i s   d r e a m   m a y   n o t   b e   c o n v e r t e d ,   i m p o r t e d ,   o r   r e a d   b y   a n y   p r o g r a m   w i t h o u t   t h e   e x p l i c i t   w r i t t e n   c o n s e n t   o f   S t a r d o c k   C o r p o r a t i o n .   . . ;   . . ; T h e   d r e a m   i t s e l f   i s   o w n e d   b y   t h e   c o p y r i g h t   h o l d e r   ( t h e   d r e a m ' s   a u t h o r )   a n d   u s e   o f   h i s   o r   h e r ' s   i n t e l l e c t u a l   p r o p e r t y   m a t e r i a l s   i s   e x p r e s s l y   f o r b i d d e n   w i t h o u t   t h e   c o n s e n t   o f   t h e   d r e a m   a u t h o r .   . . ;   . . ; D e s k S c a p e s   . D R E A M   f i l e   f o r m a t   c o p y r i g h t   ( C )   2 0 0 7   S t a r d o c k   C o r p o r a t i o n .   . . ;   . . ; W h e n   i n   d o u b t ,   c o n t a c t   l e g a l @ s t a r d o c k . c o m .   . . ;</ASCII>
+			<Pos>276</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FileMaker Pro 3 database</FileType>
+		<Ext>FP3</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/FileMaker</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>37</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0001000000020001000500020002C0</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000001001D000E004842414D323031364155473935C102480750726F20332E30C0C0</Bytes>
+			<ASCII> . . . . . . . . . . . . . H B A M 2 0 1 6 A U G 9 5 . . H . P r o   3 . 0</ASCII>
+			<Pos>512</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>HBAM2016AUG95</String>
+		<String>HBAM3016AUG95</String>
+		<String>PRO 3.0</String>
+		<String>TABS</String>
+	</GlobalStrings>
+</TrID>

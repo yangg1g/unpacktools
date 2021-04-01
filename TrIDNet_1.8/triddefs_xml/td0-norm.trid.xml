@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Teledisk Disk compressed image (normal mode)</FileType>
+		<Ext>TD0</Ext>
+		<ExtraInfo>
+			<Rem>TeleDisk is am old DOS utility able to convert any diskette into a compressed file and vice-versa.</Rem>
+			<RefURL>http://www.fpns.net/willy/wteledsk.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>30</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>544400</Bytes>
+			<ASCII> T D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

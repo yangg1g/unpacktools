@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Valve particle storage</FileType>
+		<Ext>PCF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>https://developer.valvesoftware.com/wiki/PCF_File_Format</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>40</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C212D2D20646D7820656E636F64696E672062696E61727920</Bytes>
+			<ASCII> . ! - -   d m x   e n c o d i n g   b i n a r y</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20666F726D617420</Bytes>
+			<ASCII>   f o r m a t</ASCII>
+			<Pos>26</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ELEMENT'PARTICLESYSTEMDEFINITIONS'NAME'DMEPARTICLESYSTEMDEFINITION</String>
+		<String>DMEPARTICLECHILD'DELAY</String>
+		<String>LIFESPAN</String>
+		<String>MOVEMENT</String>
+		<String>GRAVITY</String>
+		<String>FORMAT</String>
+		<String>OFFSET</String>
+		<String>RANDOM</String>
+		<String>VECTOR</String>
+		<String>FIELD</String>
+		<String>SCALE</String>
+		<String>SPEED</String>
+	</GlobalStrings>
+</TrID>

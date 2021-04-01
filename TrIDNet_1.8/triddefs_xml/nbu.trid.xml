@@ -1,0 +1,65 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Nokia phone BackUp</FileType>
+		<Ext>NBU</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/.nbu</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>37</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>CC5233FCE92C1848AFE336301A39400604000000</Bytes>
+			<ASCII> . R 3 . . , . H . . 6 0 . 9 @</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>D'O'W'N'L'O'A'D</String>
+		<String>.NOKIA.COM</String>
+		<String>N'O'K'I'A</String>
+		<String>ENCODING</String>
+		<String>INTERNET</String>
+		<String>A'P'P'L</String>
+		<String>CHARSET</String>
+		<String>S'K'I'N</String>
+		<String>V'I'D'E</String>
+		<String>VERSION</String>
+		<String>A'G'E</String>
+		<String>A'T'I</String>
+		<String>BEGIN</String>
+		<String>I'C'A</String>
+		<String>I'M'A</String>
+		<String>I'N'S</String>
+		<String>I'O'N</String>
+		<String>P'L'I</String>
+		<String>R'M'-</String>
+		<String>T'E'R</String>
+		<String>UTF-8</String>
+		<String>VCARD</String>
+		<String>CELL</String>
+		<String>HTTP</String>
+		<String>IVAT</String>
+		<String>MAIL</String>
+		<String>PORT</String>
+		<String>SHOR</String>
+	</GlobalStrings>
+</TrID>

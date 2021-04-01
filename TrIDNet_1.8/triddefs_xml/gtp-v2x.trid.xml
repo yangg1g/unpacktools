@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Guitar Pro Tablature (v2.x)</FileType>
+  		<Ext>GTP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>03</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>20</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1846494348494552204755495441522050524F2076322E</Bytes>
+			<ASCII> . F I C H I E R   G U I T A R   P R O   v 2 .</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

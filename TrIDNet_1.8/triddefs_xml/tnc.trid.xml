@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SuperJPG ThumbNail Cache file</FileType>
+		<Ext>TNC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.midnightblue.com/superjpg/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>06</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0700000000</Bytes>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4A464946</Bytes>
+			<ASCII> J F I F</ASCII>
+			<Pos>314</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>%.DIC</String>
+		<String>0A149</String>
+		<String>$3BR</String>
+		<String>.JPG</String>
+		<String>JFIF</String>
+	</GlobalStrings>
+</TrID>

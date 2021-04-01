@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Visual Studio Command Table configuration (XML)</FileType>
+		<Ext>VSCT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>11</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>17</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D38223F3E</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>COMMANDTABLE XMLNS</String>
+		<String>COMMANDS PACKAGE</String>
+		<String>VISUALSTUDIO</String>
+		<String>EXTERN HREF</String>
+		<String>XML VERSION</String>
+		<String>STDIDCMD.H</String>
+		<String>VSSHLIDS.H</String>
+		<String>WWW.W3.ORG</String>
+		<String>XMLSCHEMA</String>
+		<String>ENCODING</String>
+		<String>TOOLS</String>
+		<String>UTF-8</String>
+		<String>2001</String>
+		<String>GUID</String>
+		<String>HTTP</String>
+		<String>MENU</String>
+	</GlobalStrings>
+</TrID>

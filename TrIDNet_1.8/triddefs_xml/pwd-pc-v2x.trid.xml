@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Password Commander Pro database (v2.x)</FileType>
+		<Ext>PWD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.avanquest.com/USA/Password-Commander</RefURL>
+		</ExtraInfo>
+		<User>marinru</User>
+		<E-Mail>marinru@front.ru</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>6 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>9</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>14</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504330322E</Bytes>
+			<ASCII> P C 0 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

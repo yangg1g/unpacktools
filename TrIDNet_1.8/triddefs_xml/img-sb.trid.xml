@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ScreenBuilder image</FileType>
+		<Ext>IMG</Ext>
+		<ExtraInfo>
+			<Rem>ScreenBuilder is a free program for building Screens for PowerBasic by Marty Francom.</Rem>
+			<RefURL>http://panks.tripod.com/sbload.html</RefURL>
+		</ExtraInfo>
+		<User>Paul Panks</User>
+		<E-Mail></E-Mail>
+		<Home>http://panks.tripod.com/</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>07</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>02</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FB20</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

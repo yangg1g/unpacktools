@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LCDStudio configuration Playlist</FileType>
+		<Ext>XPL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.lcdstudio.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>11</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>04</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C506C61794C6973743E0D0A20203C5363686564756C65724974656D20786D6C6E733A7873693D22687474703A2F2F7777772E77332E6F72672F323030312F584D4C536368656D612D696E7374616E63652220786D6C6E733A7873643D22687474703A2F2F7777772E77332E6F72672F323030312F584D4C536368656D61223E0D0A202020203C4163746976655768656E3E</Bytes>
+			<ASCII> . P l a y L i s t . . .     . S c h e d u l e r I t e m   x m l n s : x s i = " h t t p : / / w w w . w 3 . o r g / 2 0 0 1 / X M L S c h e m a - i n s t a n c e "   x m l n s : x s d = " h t t p : / / w w w . w 3 . o r g / 2 0 0 1 / X M L S c h e m a " . . .         . A c t i v e W h e n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCHEDULERITEM XMLNS</String>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>ACTIVATIONITEM</String>
+		<String>ACTIVATIONTYPE</String>
+		<String>ACTIVEWHEN</String>
+		<String>WWW.W3.ORG</String>
+		<String>PLAYLIST</String>
+		<String>DURATION</String>
+		<String>RUNWHEN</String>
+		<String>DESIGN</String>
+		<String>.XDS</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

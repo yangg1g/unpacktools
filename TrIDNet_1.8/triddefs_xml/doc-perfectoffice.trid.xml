@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PerfectOffice document</FileType>
+		<Ext>DOC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.perfectoffice.nl/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>26</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>16</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>CF11E0A1B11AE100</Bytes>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>50006500720066006500630074004F00660066006900630065005F004D00410049004E</Bytes>
+			<ASCII> P . e . r . f . e . c . t . O . f . f . i . c . e . _ . M . A . I . N</ASCII>
+			<Pos>1152</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>50006500720066006500630074004F00660066006900630065005F004F0042004A0045004300540053</Bytes>
+			<ASCII> P . e . r . f . e . c . t . O . f . f . i . c . e . _ . O . B . J . E . C . T . S</ASCII>
+			<Pos>1280</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>P'E'R'F'E'C'T'O'F'F'I'C'E'_'O'B'J'E'C'T'S</String>
+		<String>P'E'R'F'E'C'T'O'F'F'I'C'E'_'M'A'I'N</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+	</GlobalStrings>
+</TrID>

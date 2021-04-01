@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Biew Xlat Table</FileType>
+		<Ext>XLT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://biew.sourceforge.net</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>05</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>58</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4269657720586C6174205461626C652E20436F6E76657274732066726F6D207275737369616E20</Bytes>
+			<ASCII> B i e w   X l a t   T a b l e .   C o n v e r t s   f r o m   r u s s i a n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

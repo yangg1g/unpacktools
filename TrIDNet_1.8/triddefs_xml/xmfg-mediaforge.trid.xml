@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MediaForge Runtime Player Distribution Project</FileType>
+		<Ext>XMFG</Ext>
+		<ExtraInfo>
+			<Rem>MediaForge is an authoring system for building Multimedia applications.</Rem>
+			<RefURL>http://www.mediaforge.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>06</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>42</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2A50534205000000</Bytes>
+			<ASCII> * P S B</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.'E'B'C'PK</String>
+		<String>.'M'F'S'PK</String>
+		<String>.'M'F'P'PK</String>
+		<String>.'J'P'G</String>
+		<String>.EBCPK</String>
+		<String>.MFPPK</String>
+		<String>.MFSPK</String>
+		<String>JFIF</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>ZyXEL Voice Format audio</FileType>
+        <Ext>ZVD/ZYX</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>12</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>27</Day>
+        </Date>
+        <Time>
+            <Hour>19</Hour>
+            <Min>10</Min>
+            <Sec>01</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.02.6b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>5A7958454C02</Bytes>
+            <ASCII> Z y X E L</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

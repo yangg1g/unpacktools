@@ -1,0 +1,62 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MusicXML</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.musicxml.org/xml.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>37</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>53</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCTYPE SCORE-PARTWISE PUBLIC</String>
+		<String>WWW.MUSICXML.ORG</String>
+		<String>IDENTIFICATION</String>
+		<String>MEASURE NUMBER</String>
+		<String>SCORE-PART ID</String>
+		<String>DTD MUSICXML</String>
+		<String>PARTWISE.DTD</String>
+		<String>.0 PARTWISE</String>
+		<String>XML VERSION</String>
+		<String>ATTRIBUTES</String>
+		<String>DIVISIONS</String>
+		<String>NOTATIONS</String>
+		<String>PART-LIST</String>
+		<String>PART-NAME</String>
+		<String>RECORDARE</String>
+		<String>DURATION</String>
+		<String>ENCODING</String>
+		<String>QUARTER</String>
+		<String>OCTAVE</String>
+		<String>BEGIN</String>
+		<String>PITCH</String>
+		<String>DTDS</String>
+		<String>HTTP</String>
+		<String>NOTE</String>
+		<String>STEP</String>
+	</GlobalStrings>
+</TrID>

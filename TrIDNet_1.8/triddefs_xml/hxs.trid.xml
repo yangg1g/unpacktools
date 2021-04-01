@@ -1,0 +1,69 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft compiled help format 2.0</FileType>
+		<Ext>HXS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.speakeasy.org/~russotto/chm/itolitlsformat.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>102</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>40</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A</Bytes>
+			<ASCII> M Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0040000000504500004C</Bytes>
+			<ASCII> . @ . . . P E . . L</ASCII>
+			<Pos>59</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>72737263000000</Bytes>
+			<ASCII> r s r c</ASCII>
+			<Pos>313</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>402E697473</Bytes>
+			<ASCII> @ . i t s</ASCII>
+			<Pos>351</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>560053005F00560045005200530049004F004E005F0049004E0046004F</Bytes>
+			<ASCII> V . S . _ . V . E . R . S . I . O . N . _ . I . N . F . O</ASCII>
+			<Pos>494</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>53007400720069006E006700460069006C00650049006E0066006F</Bytes>
+			<ASCII> S . t . r . i . n . g . F . i . l . e . I . n . f . o</ASCII>
+			<Pos>586</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>460069006C006500560065007200730069006F006E</Bytes>
+			<ASCII> F . i . l . e . V . e . r . s . i . o . n</ASCII>
+			<Pos>646</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>460069006C0065004400650073006300720069007000740069006F006E000000000043006F006D00700069006C00650064</Bytes>
+			<ASCII> F . i . l . e . D . e . s . c . r . i . p . t . i . o . n . . . . . C . o . m . p . i . l . e . d</ASCII>
+			<Pos>746</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

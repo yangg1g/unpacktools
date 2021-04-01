@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Design and Print Business Edition document</FileType>
+		<Ext>PVN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>08</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>43</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>42524F43</Bytes>
+			<ASCII> B R O C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0A44657369676E2026205072696E742C20427573696E6573732045646974696F6E204170706C69636174696F6E0A</Bytes>
+			<ASCII> . D e s i g n   .   P r i n t ,   B u s i n e s s   E d i t i o n   A p p l i c a t i o n</ASCII>
+			<Pos>50</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>97</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BUSINESS EDITION APPLICATION</String>
+		<String>DESIGN</String>
+		<String>PRINT</String>
+		<String>BROC</String>
+	</GlobalStrings>
+</TrID>

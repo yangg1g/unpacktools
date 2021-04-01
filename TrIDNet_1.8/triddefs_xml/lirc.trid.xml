@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LIRC infrared codes config file</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.lirc.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>54</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>07</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>10</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23</Bytes>
+			<ASCII> #</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BEGIN REMOTE</String>
+		<String>BEGIN CODES</String>
+		<String>END REMOTE</String>
+		<String>END CODES</String>
+		<String>DEVICES</String>
+		<String>BRAND</String>
+		<String>ZERO</String>
+		<String>AEPS</String>
+		<String>BITS</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PhoneTools Internal Graphic Format</FileType>
+		<Ext>DGR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.bvrp.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2009</Year>
+			<Month>11</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>58</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504746202D20286329204256525020536F6674776172652038392D</Bytes>
+			<ASCII> P G F   -   ( c )   B V R P   S o f t w a r e   8 9 -</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>a-Pac compressed audio</FileType>
+        <Ext>APC</Ext>
+        <ExtraInfo>
+            <Rem>Marian's a-Pac - The Audio Packer is an old lossless audio compressor</Rem>
+            <RefURL>http://www.rjamorim.com/rrw/apac.html</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>29</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>12</Month>
+            <Day>06</Day>
+        </Date>
+        <Time>
+            <Hour>17</Hour>
+            <Min>16</Min>
+            <Sec>01</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>41504143</Bytes>
+            <ASCII> A P A C</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0050524F464E4144202400000052494646</Bytes>
+            <ASCII> . P R O F N A D   $ . . . R I F F</ASCII>
+            <Pos>7</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0057415645666D7420100000000100</Bytes>
+            <ASCII> . W A V E f m t</ASCII>
+            <Pos>27</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>APAC</String>
+        <String>PFMT</String>
+        <String>TEST</String>
+    </GlobalStrings>
+</TrID>

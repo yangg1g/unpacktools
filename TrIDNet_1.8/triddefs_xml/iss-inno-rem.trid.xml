@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Inno Setup Script (with rem)</FileType>
+		<Ext>ISS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Inno_Setup</RefURL>
+		</ExtraInfo>
+		<User>Christian Blackburn</User>
+		<E-Mail></E-Mail>
+		<Home>http://www.christianblackburn.com/</Home>
+	</Info>
+	<General>
+		<FileNum>37</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>39</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3B</Bytes>
+			<ASCII> ;</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>APPVERNAME</String>
+		<String>APPNAME</String>
+		<String>ENAME</String>
+		<String>SETUP</String>
+		<String>INTE</String>
+		<String>TION</String>
+		<String>FILE</String>
+		<String>SION</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Paint.NET Image</FileType>
+		<Ext>PDN</Ext>
+		<ExtraInfo>
+			<Rem>Paint.NET is an image and photo manipulation tool designed for computers running Windows XP. Paint.NET is jointly developed at Washington State University with additional help from Microsoft, and is meant to be a free replacement for the MS Paint software that comes with all Windows operating systems.</Rem>
+			<RefURL>http://www.eecs.wsu.edu/paint.net/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>11</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>25</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1F8B0800</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00FF</Bytes>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

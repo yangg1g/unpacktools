@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DeepVision sonar format</FileType>
+		<Ext>DVS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://deepvision.se</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>12</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>01000000CDCC4C3E00000000</Bytes>
+			<ASCII> . . . . . . L</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000001018A00</Bytes>
+			<Pos>14</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>F03F</Bytes>
+			<ASCII> . ?</ASCII>
+			<Pos>26</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3F</Bytes>
+			<ASCII> ?</ASCII>
+			<Pos>35</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3F</Bytes>
+			<ASCII> ?</ASCII>
+			<Pos>39</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

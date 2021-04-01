@@ -1,0 +1,30 @@
+<TrID ver="1.16">
+    <Info>
+        <FileType>Unreal Package</FileType>
+        <Ext></Ext>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>208</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>22</Day>
+        </Date>
+        <Time>
+            <Hour>00</Hour>
+            <Min>26</Min>
+            <Sec>54</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00.1</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>C1832A9E</Bytes>
+            <ASCII> . . *</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

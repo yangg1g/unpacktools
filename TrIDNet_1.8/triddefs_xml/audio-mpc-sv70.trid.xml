@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Musepack encoded audio (SV7.0)</FileType>
+		<Ext>MPC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://mpc.corecodec.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>66</FileNum>
+		<Refine>33 by Marco Pontello</Refine>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>14</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D502B07</Bytes>
+			<ASCII> M P +</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TimeLiner 5.x data</FileType>
+		<Ext>TL5</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.tomsnyder.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>12</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>45</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>54696D656C696E657220352E</Bytes>
+			<ASCII> T i m e l i n e r   5 .</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>444F4355</Bytes>
+			<ASCII> D O C U</ASCII>
+			<Pos>32</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>56494557</Bytes>
+			<ASCII> V I E W</ASCII>
+			<Pos>240</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>44415441</Bytes>
+			<ASCII> D A T A</ASCII>
+			<Pos>258</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>50414745</Bytes>
+			<ASCII> P A G E</ASCII>
+			<Pos>384</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

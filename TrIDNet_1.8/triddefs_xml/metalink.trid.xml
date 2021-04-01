@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Metalink file</FileType>
+		<Ext>METALINK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Metalink</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>34</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>43</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C20</Bytes>
+			<ASCII> . ? x m l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WWW.METALINKER.ORG</String>
+		<String>METALINK VERSION</String>
+		<String>XML VERSION</String>
+		<String>FILE NAME</String>
+		<String>RESOURCES</String>
+		<String>ENCODING</String>
+		<String>URL TYPE</String>
+		<String>CATION</String>
+		<String>FILES</String>
+		<String>XMLNS</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

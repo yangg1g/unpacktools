@@ -1,0 +1,33 @@
+<TrID ver="1.15">
+    <Info>
+        <FileType>StuffIT SIT compressed archive</FileType>
+        <Ext>SIT</Ext>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>9</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>01</Day>
+        </Date>
+        <Time>
+            <Hour>02</Hour>
+            <Min>13</Min>
+            <Sec>29</Sec>
+        </Time>
+        <Creator>TrIDScan32 v0.54.4b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>5374756666497420286329313939372D</Bytes>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>20416C616464696E2053797374656D732C20496E632E2C20687474703A2F2F7777772E616C616464696E7379732E636F6D2F537475666649742F0D0A1A0005</Bytes>
+            <Pos>20</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

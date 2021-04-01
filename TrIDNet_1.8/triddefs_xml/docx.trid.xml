@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Word Microsoft Office Open XML Format document</FileType>
+		<Ext>DOCX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/office/preview/fileguide.mspx</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>7 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>8</Month>
+			<Day>5</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>50</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCUMENT.XML.RELSPK</String>
+		<String>DOCUMENT.XMLPK</String>
+		<String>CONTENT_TYPES</String>
+		<String>CORE.XMLPK</String>
+		<String>APP.XMLPK</String>
+		<String>DOCPROPS</String>
+		<String>_RELS</String>
+		<String>WORD</String>
+	</GlobalStrings>
+</TrID>

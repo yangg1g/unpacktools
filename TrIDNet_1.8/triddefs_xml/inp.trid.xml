@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>InPage document</FileType>
+		<Ext>INP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.inpage.com/inpage.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>34</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>49006E005000610067006500</Bytes>
+			<ASCII> I . n . P . a . g . e</ASCII>
+			<Pos>1664</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>44006F00630075006D0065006E00740049006E0066006F</Bytes>
+			<ASCII> D . o . c . u . m . e . n . t . I . n . f . o</ASCII>
+			<Pos>1792</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+	</GlobalStrings>
+</TrID>

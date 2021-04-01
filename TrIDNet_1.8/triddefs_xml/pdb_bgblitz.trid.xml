@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BGBlitz position database</FileType>
+		<Ext>PDB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.bgblitz.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>31</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>ACED0005737200126267626C69747A2E506F736974696F6E44420075A2338B8446D2020008490005616B744E6F4C0006617574686F727400124C6A6176612F6C616E672F537472696E673B4C0007636F6D6D656E74</Bytes>
+			<ASCII> . . . . s r . . b g b l i t z . P o s i t i o n D B . u . 3 . . F . . . . I . . a k t N o L . . a u t h o r t . . L j a v a / l a n g / S t r i n g ; L . . c o m m e n t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

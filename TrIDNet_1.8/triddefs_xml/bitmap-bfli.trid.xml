@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Big Flexible Line Interpretation (C64) bitmap</FileType>
+        <Ext>BFLI</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>20</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>11</Day>
+        </Date>
+        <Time>
+            <Hour>01</Hour>
+            <Min>39</Min>
+            <Sec>20</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.2b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>FF3B62</Bytes>
+            <ASCII> . ; b</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

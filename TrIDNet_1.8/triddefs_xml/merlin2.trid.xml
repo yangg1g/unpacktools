@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Merlin Project</FileType>
+		<Ext>MERLIN2</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.projectwizards.net/en/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>5</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>21</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53514C69746520666F726D61742033</Bytes>
+			<ASCII> S Q L i t e   f o r m a t   3</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NET_PROJECTWIZARDS_MERLIN_PROJECT_EXPECTEDSTARTDATE_</String>
+		<String>NET_PROJECTWIZARDS_MERLIN_PROJECT_EXPECTEDENDDATE_</String>
+		<String>NET_PROJECTWIZARDS_MERLIN_PROJECT_PLANNEDSTARTDATE</String>
+		<String>NET_PROJECTWIZARDS_MERLIN_PROJECT_PLANNEDENDDATE_</String>
+		<String>NET_PROJECTWIZARDS_MERLIN_PROJECT_ACTIVITYCOUNT_</String>
+		<String>NET_PROJECTWIZARDS_MERLIN_PROJECT_RESOURCECOUNT_</String>
+		<String>NET_PROJECTWIZARDS_MERLIN_PROJECT_ELEMENTCOUNT_</String>
+		<String>NET_PROJECTWIZARDS_MERLIN_PROJECT_RESOURCES_</String>
+		<String>NET_PROJECTWIZARDS_MERLIN_PROJECT_CURRENCY_</String>
+		<String>NET_PROJECTWIZARDS_MERLIN_PROJECT_BUDGET_</String>
+		<String>NET_PROJECTWIZARDS_MERLIN_THUMBNAIL_</String>
+		<String>NET_PROJECTWIZARDS_MERLIN_PREVIEW_</String>
+	</GlobalStrings>
+</TrID>

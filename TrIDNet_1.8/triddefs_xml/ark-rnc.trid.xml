@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RNC ProPack archive</FileType>
+		<Ext>RNC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://aminet.net/package/util/pack/RNC_ProPack</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>5</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>17</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>524E4341</Bytes>
+			<ASCII> R N C A</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

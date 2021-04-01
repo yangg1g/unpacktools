@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Capella sheet data file</FileType>
+		<Ext>CAP</Ext>
+		<ExtraInfo>
+			<Rem>Capella is a musical sheet editor</Rem>
+			<RefURL>http://www.capella.de/</RefURL>
+		</ExtraInfo>
+		<User>Joachim Grabinski</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>232</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>11</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>48</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>636170332D763A61</Bytes>
+			<ASCII> c a p 3 - v : a</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CAP3-V:A</String>
+	</GlobalStrings>
+</TrID>

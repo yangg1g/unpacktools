@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>P-CAD Printed Curcuit Board</FileType>
+		<Ext>PCB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.altium.com/pcad/resources/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>06</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4949020420</Bytes>
+			<ASCII> I I</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A0D0A3B</Bytes>
+			<ASCII> . . . . ;</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

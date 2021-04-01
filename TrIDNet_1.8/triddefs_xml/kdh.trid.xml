@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>KDH document</FileType>
+		<Ext>KDH</Ext>
+		<ExtraInfo>
+			<Rem>Files in this format come from the Chinese Academic Journals Online full-text database.</Rem>
+			<RefURL>http://www.cnki.net/cajview_page/cajviewer.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>09</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>49</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4B444820</Bytes>
+			<ASCII> K D H</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20436F7079726967687428432920323030302043414A4344</Bytes>
+			<ASCII>   C o p y r i g h t ( C )   2 0 0 0   C A J C D</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

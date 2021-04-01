@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GETIC 3D BSP</FileType>
+		<Ext>BSP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://getic.njoydeco.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>03</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>15</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4747425400</Bytes>
+			<ASCII> G G B T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

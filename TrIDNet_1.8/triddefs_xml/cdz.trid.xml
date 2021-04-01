@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>pSX compressed CD image</FileType>
+		<Ext>CDZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://psxemulator.gazaxian.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>13</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>43445A01</Bytes>
+			<ASCII> C D Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5A4C4942</Bytes>
+			<ASCII> Z L I B</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

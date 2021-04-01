@@ -1,0 +1,84 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Ray Dream Studio</FileType>
+		<Ext>RDS</Ext>
+		<ExtraInfo>
+			<Rem>Native format of MetaCreations/EOVIA Ray Dream Studio</Rem>
+			<RefURL>http://www.eovia.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>47</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>334443207B0D</Bytes>
+			<ASCII> 3 D C   {</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RAY DREAM STUDIO(TM)</String>
+		<String>DOCUMENT WINDOWS</String>
+		<String>RENDERING</String>
+		<String>STANDARD</String>
+		<String>INTERNET</String>
+		<String>UNIVERSE</String>
+		<String>ANIM {</String>
+		<String>DATA {</String>
+		<String>DOCK {</String>
+		<String>COBR {</String>
+		<String>AMBI {</String>
+		<String>CUSTOM</String>
+		<String>EXIN {</String>
+		<String>INPR {</String>
+		<String>CAML {</String>
+		<String>TRAN {</String>
+		<String>ELMS {</String>
+		<String>MINF {</String>
+		<String>PLANES</String>
+		<String>PLTF 1</String>
+		<String>PROJ {</String>
+		<String>CONI {</String>
+		<String>RAYT {</String>
+		<String>RBAT {</String>
+		<String>REFF {</String>
+		<String>CAMERA</String>
+		<String>RSET {</String>
+		<String>SCLR {</String>
+		<String>SHDF {</String>
+		<String>SHDR {</String>
+		<String>SPOT {</String>
+		<String>SPRM {</String>
+		<String>SSUB {</String>
+		<String>DWIN {</String>
+		<String>STATUS</String>
+		<String>SVAL {</String>
+		<String>TABL {</String>
+		<String>TMGR {</String>
+		<String>WLST {</String>
+		<String>LITE {</String>
+		<String>WIND {</String>
+		<String>WINF {</String>
+		<String>WKMG {</String>
+		<String>WORK {</String>
+		<String>WOPT {</String>
+		<String>LIGHT</String>
+		<String>TOOLS</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ZMC VisualTablet data</FileType>
+		<Ext>EKB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://zmc.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>53</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4E4F4E4F</Bytes>
+			<ASCII> N O N O</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>07</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>INKB</String>
+		<String>SPNK</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Cathy catalog</FileType>
+		<Ext>CAF</Ext>
+		<ExtraInfo>
+			<Rem>Cathy (version 2.83.3) is a freeware simple media cataloging tool (C) R. Vasicek</Rem>
+			<RefURL>http://www.mtg.sk/rva/</RefURL>
+		</ExtraInfo>
+		<User>aNDreas Bolota</User>
+		<E-Mail>saerdna@myself.com</E-Mail>
+		<Home>http://geocities.com/kirnbie/</Home>
+	</Info>
+	<General>
+		<FileNum>659</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>08</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>52</Min>
+			<Sec>08</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2706A4D0</Bytes>
+			<ASCII> '</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

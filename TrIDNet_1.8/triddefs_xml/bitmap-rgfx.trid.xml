@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IFF RGFX bitmap</FileType>
+		<Ext>RGFX/RGX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://aminet.net/package/dev/misc/IFF-RGFX</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>40</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>464F524D</Bytes>
+			<ASCII> F O R M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5247465852474844</Bytes>
+			<ASCII> R G F X R G H D</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

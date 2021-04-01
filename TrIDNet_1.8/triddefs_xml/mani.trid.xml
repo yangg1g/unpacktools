@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mine-imator Project</FileType>
+		<Ext>MANI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.stuffbydavid.com/mineimator</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>10</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>19</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0203</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>3</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.SCHEMATIC</String>
+		<String>MATOR</String>
+		<String>MINE</String>
+	</GlobalStrings>
+</TrID>

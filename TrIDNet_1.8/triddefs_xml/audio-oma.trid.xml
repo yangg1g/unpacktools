@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sony OpenMG Audio (SonicStage)</FileType>
+		<Ext>OMA</Ext>
+		<ExtraInfo>
+			<Rem>Can be played with SonicStage 2.1+.</Rem>
+			<RefURL>http://www.sonydigital-link.com/DNA/sonicstage/</RefURL>
+		</ExtraInfo>
+		<User>Ildar Ibatullin</User>
+		<E-Mail>ildar.ibatullin@n0spam@gmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>67</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>11</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>47</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>65613303000000</Bytes>
+			<ASCII> e a 3</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>76</Bytes>
+			<ASCII> v</ASCII>
+			<Pos>9</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>O'M'G'_'T'R'A'C'K</String>
+		<String>TIT2</String>
+		<String>TXXX</String>
+	</GlobalStrings>
+</TrID>

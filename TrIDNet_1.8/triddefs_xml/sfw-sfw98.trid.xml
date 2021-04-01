@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Seattle FilmWorks / PhotoWorks photo (SFW98)</FileType>
+		<Ext>SFW</Ext>
+		<ExtraInfo>
+			<Rem>PhotoWorks created SFW98 format JPEG-like image which is compressed with a non-standard arithmetic mechanism and has ultra-mangled JPEG markers.</Rem>
+			<RefURL>http://jonesrh.info/sfw/</RefURL>
+		</ExtraInfo>
+		<User>Richard H. Jones</User>
+		<E-Mail>sfwwhichfmt@jonesrh_CanYouPleaseDELETEMe.info</E-Mail>
+		<Home>http://jonesrh.info/sfw/</Home>
+	</Info>
+	<General>
+		<FileNum>1426</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>02</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>00</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>Richard H. Jones</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5346573938</Bytes>
+			<ASCII> S F W 9 8</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0400</Bytes>
+			<ASCII> . .</ASCII>
+			<Pos>252</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FF</Bytes>
+			<ASCII> .</ASCII>
+			<Pos>304</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FF</Bytes>
+			<ASCII> .</ASCII>
+			<Pos>306</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5346574600</Bytes>
+			<ASCII> S F W F .</ASCII>
+			<Pos>310</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Adobe Image Styler file</FileType>
+		<Ext>IST</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.adobe.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>07</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>F8D2BA1000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6FD200000006F06807D4000040376FD200000001F7D507D0000000126FD20000000277D10000004077D0000000406FD200000001F7D6FFF5000040090FDE007FD20000100000</Bytes>
+			<ASCII> o . . . . . . h . . . . @ 7 o . . . . . . . . . . . . . o . . . . . w . . . . @ w . . . . @ o . . . . . . . . . . . @</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>-'+WIN32</String>
+		<String>EH''''EI</String>
+		<String>RELEASE</String>
+		<String>X'''RO</String>
+		<String>TY''T</String>
+		<String>1998</String>
+	</GlobalStrings>
+</TrID>

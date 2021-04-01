@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WavPack compressed audio</FileType>
+		<Ext>WV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.wavpack.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>82</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>51</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7776706B</Bytes>
+			<ASCII> w v p k</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52494646</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>34</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>57415645666D74</Bytes>
+			<ASCII> W A V E f m t</ASCII>
+			<Pos>42</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>64617461</Bytes>
+			<ASCII> d a t a</ASCII>
+			<Pos>70</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WAVEFMT</String>
+		<String>DATA</String>
+		<String>WVPK</String>
+		<String>RIFF</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Portable Network Graphics (with Animation)</FileType>
+		<Ext>PNG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.vlad1.com/~vladimir/projects/apng/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>29</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>47</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>89504E470D0A1A0A0000000D49484452</Bytes>
+			<ASCII> . P N G . . . . . . . . I H D R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>614E496D</Bytes>
+			<ASCII> a N I m</ASCII>
+			<Pos>37</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

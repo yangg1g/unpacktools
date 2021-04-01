@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Macintosh TIFF bitmap (MacBinary)</FileType>
+		<Ext>TIF</Ext>
+		<ExtraInfo>
+			<Rem>MacBinary is a standard for encoding Macintosh files for file transfer</Rem>
+			<RefURL>http://www.macdisk.com/macsigen.php3</RefURL>
+		</ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>1</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>39</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54494646</Bytes>
+			<ASCII> T I F F</ASCII>
+			<Pos>65</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>74</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>82</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TIFF</String>
+	</GlobalStrings>
+</TrID>

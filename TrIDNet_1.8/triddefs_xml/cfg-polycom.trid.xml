@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Polycom SoundPoint IP configuration</FileType>
+		<Ext>CFG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Polycom</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>10</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>24</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D3822207374616E64616C6F6E653D22796573223F3E0A3C212D2D2047656E65726174656420</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 "   s t a n d a l o n e = " y e s " ? . . . ! - -   G e n e r a t e d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.CFG CONFIGURATION FILE --</String>
+		<String>NONAMESPACESCHEMALOCATION</String>
+		<String>POLYCOMCONFIG XMLNS</String>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>POLYCOMCONFIG.XSD</String>
+		<String>-- GENERATED</String>
+		<String>XML VERSION</String>
+		<String>STANDALONE</String>
+		<String>WWW.W3.ORG</String>
+		<String>ENCODING</String>
+		<String>UTF-8</String>
+		<String>2001</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

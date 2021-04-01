@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Palm Dictionary Reader</FileType>
+		<Ext>PDB</Ext>
+		<ExtraInfo>
+			<Rem>BDicty is a multilanguage dictionary program for PalmOS. It allows the addition of various language and terminology databases.</Rem>
+			<RefURL>http://www.beiks.com/palmzonebg/Bdicty.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>14</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>B08823ADB08823ADB08823AD00000001000000000000000042566F6B42444943</Bytes>
+			<ASCII> . . # . . . # . . . # . . . . . . . . . . . . . B V o k B D I C</ASCII>
+			<Pos>36</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BVOKBDIC</String>
+	</GlobalStrings>
+</TrID>

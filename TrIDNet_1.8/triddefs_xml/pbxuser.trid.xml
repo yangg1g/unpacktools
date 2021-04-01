@@ -1,0 +1,62 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Apple Xcode User data</FileType>
+		<Ext>PBXUSER</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Xcode</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>2</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>25</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2F2F2021242A555446382A24210A7B0A09</Bytes>
+			<ASCII> / /   ! $ * U T F 8 * $ ! . {</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>41</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PERUSERDICTIONARY</String>
+		<String>CONFIGURATION</String>
+		<String>PBXEXECUTABLE</String>
+		<String>ACTIVETARGET</String>
+		<String>PBXWORKSPACE</String>
+		<String>ACTIVEBUILD</String>
+		<String>ACTIVEEXEC</String>
+		<String>$*UTF8*$</String>
+		<String>ENABLED</String>
+		<String>BUILDS</String>
+		<String>DIRECT</String>
+		<String>PLUGIN</String>
+		<String>SOURCE</String>
+		<String>CECON</String>
+		<String>INDEX</String>
+		<String>MENTS</String>
+		<String>NTENT</String>
+		<String>TSIZE</String>
+		<String>CONT</String>
+		<String>ETAB</String>
+		<String>INGS</String>
+	</GlobalStrings>
+</TrID>

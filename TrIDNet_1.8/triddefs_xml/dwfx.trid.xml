@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Design Web Format XPS</FileType>
+		<Ext>DWFX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Design_Web_Format</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2014</Year>
+			<Month>1</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>30</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000B0000005F72656C732F2E72656C73</Bytes>
+			<ASCII> . . . . . . _ r e l s / . r e l s</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DWFDOCUMENTSEQUENCE.DWFSEQ.RELSPK</String>
+		<String>DWFDOCUMENTSEQUENCE.DWFSEQ.RELSE</String>
+		<String>DWFDOCUMENTSEQUENCE.DWFSEQPK</String>
+		<String>DWFDOCUMENTSEQUENCE.DWFSEQM</String>
+		<String>DESCRIPTOR.XML.RELSPK</String>
+		<String>.DWFPROPERTIES.XMLPK</String>
+		<String>COREPROPERTIES.XMLPK</String>
+		<String>MANIFEST.XML.RELSPK</String>
+		<String>COM.AUTODESK.DWF.E</String>
+		<String>DESCRIPTOR.XMLPK</String>
+		<String>MANIFEST.XMLPK</String>
+		<String>CONTENT_TYPES</String>
+		<String>SECTIONS</String>
+		<String>_RELS</String>
+		<String>ENT.</String>
+	</GlobalStrings>
+</TrID>

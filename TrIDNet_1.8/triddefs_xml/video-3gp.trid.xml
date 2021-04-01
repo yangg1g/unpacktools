@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>3GPP multimedia audio/video</FileType>
+		<Ext>3GP/3GPP</Ext>
+		<ExtraInfo>
+			<Rem>3GPP is a global standards for the creation, delivery and playback of multimedia over 3rd generation, wireless networks, cell phones, etc.</Rem>
+			<RefURL>http://www.file-extension-3gp.com/file-extension-3gp.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Refine>1 by Marco Pontello - 3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>56</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>66747970336770</Bytes>
+			<ASCII> f t y p 3 g p</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MOOV'''LMVHD</String>
+		<String>MDIA''' MDHD</String>
+		<String>$DINF</String>
+		<String>MDAT</String>
+		<String>MINF</String>
+		<String>DREF</String>
+		<String>TKHD</String>
+		<String>VIDE</String>
+		<String>VMHD</String>
+		<String>TRAK</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PowerBASIC/DOS Compiled Unit</FileType>
+		<Ext>PBU</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.powerbasic.com/products/pbdos/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>8 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>02</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>18</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6B7001005003205003200000</Bytes>
+			<ASCII> k p . . P .   P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>01</Bytes>
+			<Pos>14</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>04434F44450000000000000000000000</Bytes>
+			<ASCII> . C O D E</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>38</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000888888888888</Bytes>
+			<Pos>108</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CODE</String>
+	</GlobalStrings>
+</TrID>

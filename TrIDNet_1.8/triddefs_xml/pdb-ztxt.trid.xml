@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>zTXT eBook</FileType>
+		<Ext>PDB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://wiki.mobileread.com/wiki/ZTXT</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>37</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>01</Bytes>
+			<Pos>34</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7A54585447506C6D</Bytes>
+			<ASCII> z T X T G P l m</ASCII>
+			<Pos>60</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>404242</Bytes>
+			<ASCII> @ B B</ASCII>
+			<Pos>82</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

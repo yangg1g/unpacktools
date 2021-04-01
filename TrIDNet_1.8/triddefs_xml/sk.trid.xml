@@ -1,0 +1,39 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Sketch drawing</FileType>
+        <Ext>SK</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>8</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>29</Day>
+        </Date>
+        <Time>
+            <Hour>18</Hour>
+            <Min>52</Min>
+            <Sec>28</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.02.6b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>2323536B6574636820</Bytes>
+            <ASCII> # # S k e t c h</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0A646F63756D656E7428</Bytes>
+            <ASCII> . d o c u m e n t (</ASCII>
+            <Pos>12</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

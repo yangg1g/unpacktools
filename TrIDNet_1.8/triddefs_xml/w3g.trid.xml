@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WarCraft III Recorded Game File</FileType>
+		<Ext>W3G</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.blizzard.com/war3/</RefURL>
+		</ExtraInfo>
+		<User>.Cryorb</User>
+		<E-Mail>vy@nospam@tut.by</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>10</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>576172637261667420494949207265636F726465642067616D651A</Bytes>
+			<ASCII> W a r c r a f t   I I I   r e c o r d e d   g a m e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

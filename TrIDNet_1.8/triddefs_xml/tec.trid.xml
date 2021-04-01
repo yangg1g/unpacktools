@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TECkit compiled mapping</FileType>
+		<Ext>TEC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://scripts.sil.org/cms/scripts/page.php?cat_id=TECkit</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>36</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>7</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>21</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7A516D700000</Bytes>
+			<ASCII> z Q m p</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RAR Password Cracker project</FileType>
+		<Ext>RPC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.rarpasswordcracker.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>18</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52504332</Bytes>
+			<ASCII> R P C 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

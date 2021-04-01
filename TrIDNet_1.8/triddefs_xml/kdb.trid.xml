@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Doobs database</FileType>
+		<Ext>KDB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.kyuran.be/world/html/article-56-0.html</RefURL>
+		</ExtraInfo>
+		<User>Miguel Vanhove</User>
+		<E-Mail>trid@kyuran.be</E-Mail>
+		<Home>http://www.kyuran.be</Home>
+	</Info>
+	<General>
+		<FileNum>1</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>01</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>00</Min>
+			<Sec>00</Sec>
+		</Time>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D00B</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>
+

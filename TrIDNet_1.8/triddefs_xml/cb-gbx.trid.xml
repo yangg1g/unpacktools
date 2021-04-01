@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Cyberboard Gamebox</FileType>
+		<Ext>GBX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://pbem.brainiac.com/cb_tutorial.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>27</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>47424F58</Bytes>
+			<ASCII> G B O X</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

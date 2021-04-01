@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>G Compression Archiver</FileType>
+		<Ext>GCA</Ext>
+		<ExtraInfo>
+			<Rem>DGCA is a freeware compression utility created in 2001 by Shin-ichi Tsuruta.</Rem>
+			<RefURL>http://www.emit.jp/gca/gca.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2005</Year>
+			<Month>04</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>39</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>47434158</Bytes>
+			<ASCII> G C A X</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>474346</Bytes>
+			<ASCII> G C F</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

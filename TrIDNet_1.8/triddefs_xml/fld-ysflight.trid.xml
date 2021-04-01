@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>YS FLIGHT scenery field</FileType>
+		<Ext>FLD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://wwwe.ysflight.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>28</Min>
+			<Sec>5</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4649454C440D0A474E4420</Bytes>
+			<ASCII> F I E L D . . G N D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>00000001.TER</String>
+		<String>TERRMESH</String>
+		<String>ENDPICT</String>
+		<String>FIELD</String>
+		<String>ENDO</String>
+		<String>ID 0</String>
+	</GlobalStrings>
+</TrID>

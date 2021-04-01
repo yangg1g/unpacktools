@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Visual Studio Project User Options</FileType>
+		<Ext>USER</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Microsoft_Visual_Studio</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>19</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D2257696E646F77732D</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " W i n d o w s -</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VISUALSTUDIOUSERFILE</String>
+		<String>WORKINGDIRECTORY</String>
+		<String>CONFIGURATIONS</String>
+		<String>DEBUGSETTINGS</String>
+		<String>SHOWALLFILES</String>
+		<String>WINDOWS-1252</String>
+		<String>PROJECTTYPE</String>
+		<String>XML VERSION</String>
+		<String>VISUAL C++</String>
+		<String>ENCODING</String>
+		<String>FALSE</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

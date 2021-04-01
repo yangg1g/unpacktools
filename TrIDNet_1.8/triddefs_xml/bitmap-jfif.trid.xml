@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>JFIF JPEG Bitmap</FileType>
+		<Ext>JPG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>75</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2005</Year>
+			<Month>01</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>43</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFD8FFE0</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4A46</Bytes>
+			<ASCII> J F</ASCII>
+			<Pos>6</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>10</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

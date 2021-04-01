@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PowerBuilder Tutorial</FileType>
+		<Ext>PBT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/PowerBuilder</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>7</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>11</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5361766520466F726D61742076332E3028313939393031313229</Bytes>
+			<ASCII> S a v e   F o r m a t   v 3 . 0 ( 1 9 9 9 0 1 1 2 )</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SAVE FORMAT V3.0(19990112)</String>
+		<String>APPNAME</String>
+		<String>LIBLIST</String>
+		<String>APPLIB</String>
+		<String>.PBL</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

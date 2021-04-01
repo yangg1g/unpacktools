@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MonkeyJam Exposure Sheet</FileType>
+		<Ext>XPS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.giantscreamingrobotmonkeys.com/monkeyjam/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>48</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C7873686565742076657273696F6E3D22</Bytes>
+			<ASCII> . x s h e e t   v e r s i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>XSHEET VERSION</String>
+		<String>LAYERS COLS</String>
+		<String>NUMBERING</String>
+		<String>LAYER COL</String>
+		<String>SETTINGS</String>
+		<String>DURATION</String>
+		<String>VISIBLE</String>
+		<String>CAPTION</String>
+		<String>CEL COL</String>
+		<String>FORMAT</String>
+		<String>AUDIO</String>
+		<String>COLOR</String>
+		<String>STEP</String>
+		<String>PATH</String>
+	</GlobalStrings>
+</TrID>

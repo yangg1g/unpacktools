@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WhatsApp stored messages</FileType>
+		<Ext>CRYPT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/WhatsApp</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>55</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>49EF23AEFFF9750EC6CD5CA0A59F2D35</Bytes>
+			<ASCII> I . # . . . u . . . \ . . . - 5</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,78 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Serif PhotoPlus Picture</FileType>
+		<Ext>SPP</Ext>
+		<ExtraInfo>
+			<Rem>PhotoPlus is a tool for working with photographs and paint type images, for the Web, multi-media or the printed page.</Rem>
+			<RefURL>http://www.serif.com/</RefURL>
+		</ExtraInfo>
+		<User>fenixproductions</User>
+		<E-Mail>fenixproductions(at)o2(dot)pl</E-Mail>
+		<Home>http://fenixproductions.qsh.eu</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>14</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E007400720079</Bytes>
+			<ASCII> R . o . o . t .   . E . n . t . r . y</ASCII>
+			<Pos>1024</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>530075006D006D0061007200790049006E0066006F0072006D006100740069006F006E</Bytes>
+			<ASCII> S . u . m . m . a . r . y . I . n . f . o . r . m . a . t . i . o . n</ASCII>
+			<Pos>1154</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>530043004600460050007200650076006900650077</Bytes>
+			<ASCII> S . C . F . F . P . r . e . v . i . e . w</ASCII>
+			<Pos>1280</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43006F006E00740065006E00740073</Bytes>
+			<ASCII> C . o . n . t . e . n . t . s</ASCII>
+			<Pos>1408</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>534346464269746D617050726576696577</Bytes>
+			<ASCII> S C F F B i t m a p P r e v i e w</ASCII>
+			<Pos>1542</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>53434269746D6170</Bytes>
+			<ASCII> S C B i t m a p</ASCII>
+			<Pos>1605</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>49492A</Bytes>
+			<ASCII> I I *</ASCII>
+			<Pos>1621</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>S'C'F'F'P'R'E'V'I'E'W</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>SCFFBITMAPPREVIEW</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>SCBITMAP</String>
+	</GlobalStrings>
+</TrID>

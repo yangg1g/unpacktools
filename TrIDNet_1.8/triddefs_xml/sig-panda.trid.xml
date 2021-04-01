@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Panda Signature file system</FileType>
+		<Ext>SIG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pandasoftware.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>47</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5369676E61747572652066696C652073797374656D202863292050616E646120536F6674776172652E</Bytes>
+			<ASCII> S i g n a t u r e   f i l e   s y s t e m   ( c )   P a n d a	S o f t w a r e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

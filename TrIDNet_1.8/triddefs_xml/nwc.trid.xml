@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Noteworthy Composer data file</FileType>
+		<Ext>NWC</Ext>
+		<ExtraInfo>
+			<Rem>Noteworthy Composer is a musical sheet editor</Rem>
+			<RefURL>http://www.noteworthysoftware.com/</RefURL>
+		</ExtraInfo>
+		<User>Joachim Grabinski</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>11</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>32</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B4E575A5D00</Bytes>
+			<ASCII> [ N W Z ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

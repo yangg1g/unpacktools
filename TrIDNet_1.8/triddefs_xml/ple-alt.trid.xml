@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Messenger Plus! Encrypted chat log (alternate)</FileType>
+		<Ext>PLE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.msgplus.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>23</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D504C4532</Bytes>
+			<ASCII> M P L E 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>680074006D006C</Bytes>
+			<ASCII> h . t . m . l</ASCII>
+			<Pos>15</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52534131</Bytes>
+			<ASCII> R S A 1</ASCII>
+			<Pos>47</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

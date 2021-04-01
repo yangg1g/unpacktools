@@ -1,0 +1,200 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Windows Installer</FileType>
+		<Ext>MSI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/msi/setup/about_windows_installer.asp</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>226</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>18</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N'''''''''''''''''''''''''''(</String>
+		<String>ASSOCIATED WITH THE</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>THIS MAY CONTAIN A</String>
+		<String>NOT BE INSTALLED</String>
+		<String>THE VISIBLE TEXT</String>
+		<String>COMPONENT TABLE</String>
+		<String>NAME OF ACTION</String>
+		<String>PRODUCTVERSION</String>
+		<String>OBTAINED FROM</String>
+		<String>CUSTOMSOURCE</String>
+		<String>INSTALLATION</String>
+		<String>LL TERMINATE</String>
+		<String>A DIRECTORY</String>
+		<String>ATURE TABLE</String>
+		<String>COMPONENTID</String>
+		<String>CONDITIONAL</String>
+		<String>DESCRIPTION</String>
+		<String>FOR INSTALL</String>
+		<String>FOREIGN KEY</String>
+		<String>INFORMATION</String>
+		<String>IS DISABLED</String>
+		<String>PRIMARY KEY</String>
+		<String>UPGRADECODE</String>
+		<String>ATTRIBUTES</String>
+		<String>CONFIGURED</String>
+		<String>DETERMINES</String>
+		<String>DIRECTORY.</String>
+		<String>EXPRESSION</String>
+		<String>IDENTIFIER</String>
+		<String>INSTALLED.</String>
+		<String>INSTALLING</String>
+		<String>PARTICULAR</String>
+		<String>REPRESENTS</String>
+		<String>SHORT NAME</String>
+		<String>THIS FIELD</String>
+		<String>WILL TERMI</String>
+		<String>APPSEARCH</String>
+		<String>DFILENAME</String>
+		<String>EXECUTION</String>
+		<String>FORMATTED</String>
+		<String>INSTALLER</String>
+		<String>LOCALIZED</String>
+		<String>LONG NAME</String>
+		<String>REFERENCE</String>
+		<String>SELECTED.</String>
+		<String>SPECIFIED</String>
+		<String>STATEMENT</String>
+		<String>UPPERCASE</String>
+		<String>ACTUALLY</String>
+		<String>CONTAINS</String>
+		<String>CONTROLS</String>
+		<String>EVALUATE</String>
+		<String>FEATURES</String>
+		<String>INDICATE</String>
+		<String>LANGUAGE</String>
+		<String>LOCATION</String>
+		<String>OPTIONAL</String>
+		<String>ORDERING</String>
+		<String>POSITION</String>
+		<String>PROPERTY</String>
+		<String>REGISTER</String>
+		<String>REGISTRY</String>
+		<String>REQUIRED</String>
+		<String>SEQUENCE</String>
+		<String>SHORTCUT</String>
+		<String>SPECIFIC</String>
+		<String>TEMPLATE</String>
+		<String>VALIDATE</String>
+		<String>ACTIONS</String>
+		<String>CABINET</String>
+		<String>DECIMAL</String>
+		<String>DEFAULT</String>
+		<String>DEFINED</String>
+		<String>DISPLAY</String>
+		<String>HANDLER</String>
+		<String>INITIAL</String>
+		<String>INTEGER</String>
+		<String>INVALID</String>
+		<String>MAXIMUM</String>
+		<String>MINIMUM</String>
+		<String>PREVENT</String>
+		<String>PRINTED</String>
+		<String>REGPATH</String>
+		<String>RESPECT</String>
+		<String>SERVICE</String>
+		<String>SETTING</String>
+		<String>WHETHER</String>
+		<String>WINDOWS</String>
+		<String>BINARY</String>
+		<String>BROWSE</String>
+		<String>BUTTON</String>
+		<String>COLUMN</String>
+		<String>DISKID</String>
+		<String>EITHER</String>
+		<String>ENABLE</String>
+		<String>ENGINE</String>
+		<String>FOLDER</String>
+		<String>IMAGES</String>
+		<String>MAY BE</String>
+		<String>NUMBER</String>
+		<String>PARENT</String>
+		<String>PROMPT</String>
+		<String>RECORD</String>
+		<String>REMOVE</String>
+		<String>RETURN</String>
+		<String>STRING</String>
+		<String>UNIQUE</String>
+		<String>VALUES</String>
+		<String>BLANK</String>
+		<String>BYTES</String>
+		<String>COMMA</String>
+		<String>EFILE</String>
+		<String>ENTRY</String>
+		<String>FILES</String>
+		<String>FLAGS</String>
+		<String>FORCE</String>
+		<String>HFILE</String>
+		<String>ITEM.</String>
+		<String>LABEL</String>
+		<String>LEVEL</String>
+		<String>LOWER</String>
+		<String>MATCH</String>
+		<String>MEDIA</String>
+		<String>PATHS</String>
+		<String>RATED</String>
+		<String>TITLE</String>
+		<String>UNDER</String>
+		<String>WHICH</String>
+		<String>YPATH</String>
+		<String>BASE</String>
+		<String>CESS</String>
+		<String>COST</String>
+		<String>DATA</String>
+		<String>EACH</String>
+		<String>FULL</String>
+		<String>GUID</String>
+		<String>INTO</String>
+		<String>KEY.</String>
+		<String>LAST</String>
+		<String>LESS</String>
+		<String>LINK</String>
+		<String>LIST</String>
+		<String>LLOW</String>
+		<String>MORE</String>
+		<String>MUST</String>
+		<String>NULL</String>
+		<String>ODBC</String>
+		<String>PACK</String>
+		<String>PARA</String>
+		<String>ROOT</String>
+		<String>RTED</String>
+		<String>SAME</String>
+		<String>SIGN</String>
+		<String>SIZE</String>
+		<String>SOME</String>
+		<String>SUPP</String>
+		<String>THAN</String>
+		<String>THEN</String>
+		<String>TRUE</String>
+		<String>USED</String>
+		<String>USER</String>
+		<String>WHEN</String>
+	</GlobalStrings>
+</TrID>

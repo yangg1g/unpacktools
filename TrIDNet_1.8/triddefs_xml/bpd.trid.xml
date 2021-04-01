@@ -1,0 +1,67 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Business Plan data</FileType>
+		<Ext>BPD</Ext>
+		<ExtraInfo>
+			<Rem>Business Plan Pro is a business planning software by PaloAlto Software.</Rem>
+			<RefURL>http://www.paloalto.com/ps/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>39</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C706C616E6461746120</Bytes>
+			<ASCII> . p l a n d a t a</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>LOCKCOLUMNHEADERS</String>
+		<String>FONTCHARTYLABELS</String>
+		<String>FONTCHARTXLABELS</String>
+		<String>FONTFORMAT NAME</String>
+		<String>ENTRYCELLFORMAT</String>
+		<String>SHOWCOLHEADING</String>
+		<String>SHOWROWHEADING</String>
+		<String>OTHERSETTINGS</String>
+		<String>CHARTSETTINGS</String>
+		<String>PRINTSETTINGS</String>
+		<String>TOPICSETTINGS</String>
+		<String>TABLESETTINGS</String>
+		<String>PLANSETTINGS</String>
+		<String>COMPANYNAME</String>
+		<String>SIMPLEPLAN</String>
+		<String>SETTING ID</String>
+		<String>CREATEDATE</String>
+		<String>PLANTITLE</String>
+		<String>PLANINFO</String>
+		<String>PLANDATA</String>
+		<String>VERSION</String>
+		<String>PRODUCT</String>
+		<String>PLANID</String>
+		<String>FALSE</String>
+		<String>TEAM</String>
+		<String>PPEN</String>
+		<String>TYPE</String>
+		<String>TEXT</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

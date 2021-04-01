@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MikroTik RouterOS Upgrade Package</FileType>
+		<Ext>NPK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://wiki.mikrotik.com/wiki/Upgrading_RouterOS</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>19</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1EF1D0BA</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>UPDATE-CONSOLE</String>
+		<String>SYSTEM</String>
+	</GlobalStrings>
+</TrID>

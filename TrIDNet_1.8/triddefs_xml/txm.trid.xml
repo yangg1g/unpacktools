@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TrakAx Mixer Configuration data</FileType>
+		<Ext>TXM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.trakax.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>02</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>33</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6C0000</Bytes>
+			<ASCII> l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D006900780065007200200043006F006E00660069006700750072006100740069006F006E00200064006100740061002000660069006C006500200063007200650061007400650064002000770069007400680020005400720061006B00410078</Bytes>
+			<ASCII> M . i . x . e . r .   . C . o . n . f . i . g . u . r . a . t . i . o . n .   . d . a . t . a .   . f . i . l . e .   . c . r . e . a . t . e . d .   . w . i . t . h .   . T . r . a . k . A . x</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

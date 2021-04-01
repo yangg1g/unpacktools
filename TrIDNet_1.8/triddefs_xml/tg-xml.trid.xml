@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TestGen XML data</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>10</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>QUESTIONS NUMBER</String>
+		<String>QUESTION INDEX</String>
+		<String>TESTGENVERSION</String>
+		<String>PLUGINVERSION</String>
+		<String>VARIANTNUMBER</String>
+		<String>DATEMODIFIED</String>
+		<String>TESTGEN TYPE</String>
+		<String>STATICNUMBER</String>
+		<String>OBJECTIVEID</String>
+		<String>TOTALPOINTS</String>
+		<String>STOCKNUMBER</String>
+		<String>XML VERSION</String>
+		<String>DATECREATED</String>
+		<String>X-TST-FILE</String>
+		<String>USERNUMBER</String>
+		<String>ENCODING</String>
+		<String>EMBEDDED</String>
+		<String>BOOKID</String>
+		<String>TYPETF</String>
+		<String>TYPEMC</String>
+		<String>TYPESA</String>
+	</GlobalStrings>
+</TrID>

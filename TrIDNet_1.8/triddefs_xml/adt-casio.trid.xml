@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Casio Pocket Viewer Add-in Data file</FileType>
+		<Ext>ADT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://world.casio.com/pv/support/en/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>59</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>434153494F20414444494E204441544146494C451A</Bytes>
+			<ASCII> C A S I O   A D D I N   D A T A F I L E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OpenDocument Presentation Template</FileType>
+		<Ext>OTP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/OpenDocument</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>50</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D696D65747970656170706C69636174696F6E2F766E642E6F617369732E6F70656E646F63756D656E742E70726573656E746174696F6E2D74656D706C617465504B</Bytes>
+			<ASCII> m i m e t y p e a p p l i c a t i o n / v n d . o a s i s . o p e n d o c u m e n t . p r e s e n t a t i o n - t e m p l a t e P K</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VND.OASIS.OPENDOCUMENT.PRESENTATION-TEMPLATEPK</String>
+		<String>MIMETYPEAPPLICATION</String>
+		<String>CONFIGURATIONS</String>
+		<String>THUMBNAIL.PNG</String>
+		<String>MANIFEST.XML</String>
+		<String>SETTINGS.XML</String>
+		<String>CONTENT.XML</String>
+		<String>STYLES.XML</String>
+		<String>THUMBNAILS</String>
+		<String>META-INF</String>
+		<String>META.XML</String>
+		<String>PICTURES</String>
+	</GlobalStrings>
+</TrID>

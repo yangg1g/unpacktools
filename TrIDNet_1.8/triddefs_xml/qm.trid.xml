@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Qt Message</FileType>
+		<Ext>QM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Qt_%28toolkit%29</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>55</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>15</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3CB86418CAEF9C95CD211CBF60A1BDDD</Bytes>
+			<ASCII> . . d . . . . . . ! . . `</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

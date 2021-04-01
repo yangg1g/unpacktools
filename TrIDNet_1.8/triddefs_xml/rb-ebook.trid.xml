@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RocketBook eBook</FileType>
+		<Ext>RB</Ext>
+		<ExtraInfo>
+			<Rem>An early eBook format / reader.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>35</FileNum>
+		<Refine>16 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>48</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>B00CB00C02004E55564F00000000</Bytes>
+			<ASCII> . . . . . . N U V O</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>INFO FILE FOR</String>
+		<String>COMMENT</String>
+		<String>OUTPUT</String>
+		<String>AUTHOR</String>
+		<String>EBOOK</String>
+		<String>.INFO</String>
+		<String>PARSE</String>
+		<String>TITLE</String>
+		<String>NUVO</String>
+		<String>BODY</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

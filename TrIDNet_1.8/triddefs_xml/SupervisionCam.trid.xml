@@ -1,0 +1,153 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SupervisionCam Camera Settings</FileType>
+		<Ext>SVC</Ext>
+		<ExtraInfo>
+			<RefURL>http://www.supervisioncam.com/</RefURL>
+		</ExtraInfo>
+		<User>Scrapie</User>
+		<E-Mail>scrapie@pochta.ru</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>08</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>38</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B4765726E6572616C5D0D0A4175746F205374617274203D20</Bytes>
+			<ASCII> [ G e r n e r a l ] . . A u t o   S t a r t   =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>USE STATIC FILENAME FOR MOTION DETECTION</String>
+		<String>USE STATIC FILENAME FOR TIME SCHEDULED</String>
+		<String>WAIT TIME FOR CHANNEL SYNCHRONIZATION</String>
+		<String>NBR OF SAVED IMAGES TIME SCHEDULED</String>
+		<String>SAVE LAST ONLY TIME SCHEDULED</String>
+		<String>TIMER FOR SAVING WHILE MOTION</String>
+		<String>TEXT FONT.LFPITCHANDFAMILY</String>
+		<String>TEXT FONT.LFCLIPPRECISION</String>
+		<String>RECONNECT IF FRAMES LOST</String>
+		<String>TEXT FONT.LFOUTPRECISION</String>
+		<String>TEXT FONT.LFORIENTATION</String>
+		<String>TEXT FONT.LFESCAPEMENT</String>
+		<String>DISCONNECT IF STOPPED</String>
+		<String>TEXT FONT.LFUNDERLINE</String>
+		<String>TEXT FONT.LFSTRIKEOUT</String>
+		<String>INCLUDE NEXT SECONDS</String>
+		<String>TEXT FONT.LFFACENAME</String>
+		<String>TEXT FONT.LFQUALITY</String>
+		<String>TEXT FONT.LFCHARSET</String>
+		<String>ROTATE AND MIRRORED</String>
+		<String>TEXT FONT.LFITALIC</String>
+		<String>TEXT FONT.LFHEIGHT</String>
+		<String>TEXT FONT.LFWEIGHT</String>
+		<String>DOWNLOADPASSWORD1</String>
+		<String>DOMOTIONDETECTION</String>
+		<String>SET TO FOREGROUND</String>
+		<String>TEXT FONT.LFWIDTH</String>
+		<String>DESTINATION NAME</String>
+		<String>CAPTURE SETTINGS</String>
+		<String>DELETE OLD FILES</String>
+		<String>TRANSPAREN COLOR</String>
+		<String>SERVER DIRECTORY</String>
+		<String>BACKGROUND COLOR</String>
+		<String>TRANSPARENT LOGO</String>
+		<String>EXTERNAL TRIGGER</String>
+		<String>MINIMIZE WINDOW</String>
+		<String>EXTERNAL SWITCH</String>
+		<String>AUDIOSUBCHANNEL</String>
+		<String>FRAMESPERSECOND</String>
+		<String>VIDEOSUBCHANNEL</String>
+		<String>USESUBDIRECTORY</String>
+		<String>UPLOAD SETTINGS</String>
+		<String>TEXT ALIGNMENT</String>
+		<String>TITLE POSITION</String>
+		<String>SET FRAME RATE</String>
+		<String>MAILADDRESSES</String>
+		<String>DOWNLOADUSER1</String>
+		<String>HTML SETTINGS</String>
+		<String>DELFILEBYTIME</String>
+		<String>DELFILEBYSIZE</String>
+		<String>LOGO POSITION</String>
+		<String>TIME ACTIVITY</String>
+		<String>SEND MESSAGE</String>
+		<String>STATIC NAMES</String>
+		<String>CONTINUOUSLY</String>
+		<String>RESET FORMAT</String>
+		<String>SOUND FORMAT</String>
+		<String>MSGADDRESSES</String>
+		<String>RAS SETTINGS</String>
+		<String>SAVEPREEVENT</String>
+		<String>SOUND DEVICE</String>
+		<String>MAILPASSWORD</String>
+		<String>DELFILESIZE</String>
+		<String>DELFILEDAYS</String>
+		<String>ATTACHIMAGE</String>
+		<String>RUN PROGRAM</String>
+		<String>COMMANDLINE</String>
+		<String>CAPTURE AVI</String>
+		<String>SOURCE FILE</String>
+		<String>DEVICE NAME</String>
+		<String>TVINPUTTYPE</String>
+		<String>MAILMESSAGE</String>
+		<String>SERVER NAME</String>
+		<String>TUNINGSPACE</String>
+		<String>FIX TRIGGER</String>
+		<String>COUNTRYCODE</String>
+		<String>USE TIMEOUT</String>
+		<String>IMAGE TITLE</String>
+		<String>SOURCETYPE</String>
+		<String>AUTO START</String>
+		<String>MSGMESSAGE</String>
+		<String>PLAY SOUND</String>
+		<String>SAVE IMAGE</String>
+		<String>MAXTROUBLE</String>
+		<String>LOGO IMAGE</String>
+		<String>USE DIALIN</String>
+		<String>MAILSERVER</String>
+		<String>INACTIVITY</String>
+		<String>TEXT COLOR</String>
+		<String>USE TIMER</String>
+		<String>ADD TITLE</String>
+		<String>MB REMAIN</String>
+		<String>VIEW MODE</String>
+		<String>USER NAME</String>
+		<String>ADD SOUND</String>
+		<String>SEND MAIL</String>
+		<String>USE MASK</String>
+		<String>GERNERAL</String>
+		<String>ADD LOGO</String>
+		<String>MAILPORT</String>
+		<String>USERNAME</String>
+		<String>MAILUSER</String>
+		<String>TVINDEX</String>
+		<String>OVERLAY</String>
+		<String>INPUTID</String>
+		<String>SUBJECT</String>
+		<String>SENDER</String>
+		<String>HEIGTH</String>
+		<String>ENABLE</String>
+		<String>TIME 2</String>
+		<String>DOMAIN</String>
+		<String>OFFSET</String>
+		<String>DEPTH</String>
+		<String>FLAGS</String>
+		<String>ENTRY</String>
+		<String>DELAY</String>
+		<String>SMTP</String>
+	</GlobalStrings>
+</TrID>

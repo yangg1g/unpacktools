@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XML Shareable Playlist Format</FileType>
+		<Ext>XSPF</Ext>
+		<ExtraInfo>
+			<Rem>XSPF is an XML-based playlist format for digital media.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Xspf</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Refine>8 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>3</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>23</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TRACKLIST</String>
+		<String>LOCATION</String>
+		<String>PLAYLIST</String>
+		<String>VERSION</String>
+		<String>XMLNS</String>
+		<String>.ORG</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

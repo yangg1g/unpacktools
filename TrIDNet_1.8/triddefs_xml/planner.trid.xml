@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Planner project</FileType>
+		<Ext>PLANNER</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>https://live.gnome.org/Planner</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>48</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E30223F3E0A3C70726F6A656374206E616D653D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 " ? . . . p r o j e c t   n a m e = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>OVERRIDDEN-DAY-TYPE ID</String>
+		<String>OVERRIDDEN-DAY-TYPES</String>
+		<String>MRPROJECT-VERSION</String>
+		<String>DEFAULT-WEEK MON</String>
+		<String>RESOURCE-GROUPS</String>
+		<String>INTERVAL START</String>
+		<String>PROJECT-START</String>
+		<String>PROJECT NAME</String>
+		<String>ALLOCATIONS</String>
+		<String>CALENDAR ID</String>
+		<String>DESCRIPTION</String>
+		<String>XML VERSION</String>
+		<String>PROPERTIES</String>
+		<String>CALENDARS</String>
+		<String>RESOURCES</String>
+		<String>COMPANY</String>
+		<String>MANAGER</String>
+		<String>PHASES</String>
+		<String>TASKS</String>
+		<String>DAYS</String>
+	</GlobalStrings>
+</TrID>

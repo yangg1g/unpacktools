@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Easy Resume Creator Pro resume</FileType>
+		<Ext>RBC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.winresume.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>07</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>36</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C20</Bytes>
+			<ASCII> . ? x m l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>AGE PUBLISHAGE</String>
+		<String>DATEDELIMITERS</String>
+		<String>RESUMETEMPLATE</String>
+		<String>PUBLISHRECORD</String>
+		<String>ADDRESSLINE1</String>
+		<String>JOBCATEGORY</String>
+		<String>CONTACTINFO</String>
+		<String>PERSONNAME</String>
+		<String>SECTION ID</String>
+		<String>TABLECOLOR</String>
+		<String>HEADSTYLE</String>
+		<String>ENCODING</String>
+		<String>HEADSIZE</String>
+		<String>SECTIONS</String>
+		<String>TEXTSIZE</String>
+		<String>DETAILS</String>
+		<String>TOPIC</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,68 @@
+<TrID ver="1.18">
+	<Info>
+		<FileType>Kodak Color Control profile</FileType>
+		<Ext>CC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>45</FileNum>
+		<Refine>16 by Marco Pontello</Refine>
+		<Date>
+			<Year>2003</Year>
+			<Month>10</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>15</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.23</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4B434D5302000000</Bytes>
+			<ASCII> K C M S</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>23</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>26</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>28</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>30</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>32</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>34</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>61637370</Bytes>
+			<ASCII> a c s p</ASCII>
+			<Pos>36</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

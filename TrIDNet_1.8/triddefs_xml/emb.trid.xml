@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EMBL nucleotide format</FileType>
+		<Ext>EMB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://mercury.ebi.ac.uk/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>42</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4944202020</Bytes>
+			<ASCII> I D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>LAST UPDATED</String>
+		<String>DATABASES.</String>
+		<String>QUALIFIERS</String>
+		<String>SUBMITTED</String>
+		<String>ORGANISM</String>
+		<String>STANDARD</String>
+		<String>SEQUENCE</String>
+		<String>LOCATION</String>
+		<String>CREATED</String>
+		<String>PRODUCT</String>
+		<String>DB_XREF</String>
+		<String>VERSION</String>
+		<String>GENBANK</String>
+		<String>SOURCE</String>
+		<String>TAXON</String>
+		<String>TRANS</String>
+		<String>TYPE</String>
+		<String>REL.</String>
+		<String>PROT</String>
+	</GlobalStrings>
+</TrID>

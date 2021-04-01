@@ -1,0 +1,35 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Infinity Engine exported player character (v1.0)</FileType>
+        <Ext>CHR</Ext>
+        <ExtraInfo>
+            <Rem>Def hand-built using info from the related URL</Rem>
+            <RefURL>http://www.teambg.com/iesdp/FilesFormats/CHRformat.htm</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>5</FileNum>
+        <Refine></Refine>
+        <Date>
+            <Year>2003</Year>
+            <Month>09</Month>
+            <Day>26</Day>
+        </Date>
+        <Time>
+            <Hour>21</Hour>
+            <Min>56</Min>
+            <Sec>18</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4348522056312E30</Bytes>
+            <ASCII> C H R   V 1 . 0</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

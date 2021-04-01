@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SQX compressed archive</FileType>
+		<Ext>SQX</Ext>
+		<ExtraInfo>
+			<Rem>Used by SpeedProject's Squeez program.</Rem>
+			<RefURL>http://www.speedproject.de/enu/squeez/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2005</Year>
+			<Month>12</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>42</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52</Bytes>
+			<ASCII> R</ASCII>
+			<Pos>2</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2D7371782D</Bytes>
+			<ASCII> - s q x -</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="1.16">
+    <Info>
+        <FileType>SPSS Chart Look</FileType>
+        <Ext>CLO</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.spss.com/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>8</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>22</Day>
+        </Date>
+        <Time>
+            <Hour>23</Hour>
+            <Min>10</Min>
+            <Sec>49</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00.1</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>0100000063FB76687341FB52206E69FBF02069610163000020410000000000000000000000000000003F0000003F0000003F0000000001000000636369FC646364646364684368617274646364636463646363</Bytes>
+            <ASCII> . . . . c . v h s A . R   n i . .   i a . c . .   A . . . . . . . . . . . . . . . ? . . . ? . . . ? . . . . . . . . c c i . d c d d c d h C h a r t d c d c d c d c c</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>000000000C000000636C617373205370417869736369F064636464636467417869736463646364636463630869FC6463636364636364636364636366646363646364636D0640646363FC00EEEE00B041646363FD1010604164636368636D0640646363FC00888800B041646363FD1010604164636363636D87C0646364646363FC00FFFF00B041646363</Bytes>
+            <ASCII> . . . . . . . . c l a s s   S p A x i s c i . d c d d c d g A x i s d c d c d c d c c . i . d c c c d c c d c c d c c f d c c d c d c m . @ d c c . . . . . . A d c c . . . ` A d c c h c m . @ d c c . . . . . . A d c c . . . ` A d c c c c m . . d c d d c c . . . . . . A d c c</ASCII>
+            <Pos>84</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Lightweight Video Format video</FileType>
+		<Ext>LVF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>10</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4C564646</Bytes>
+			<ASCII> L V F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6C766620766964656F2073747265616D2E</Bytes>
+			<ASCII> l v f   v i d e o   s t r e a m</ASCII>
+			<Pos>80</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

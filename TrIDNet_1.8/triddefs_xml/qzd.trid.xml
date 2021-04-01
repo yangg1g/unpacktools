@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>QuizPro quiz data</FileType>
+		<Ext>QZD/QZE/QZS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.luziusschneider.com/QuizProHome.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>07</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>08</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2A2A205175657374696F6E6E6169726520666F72205175697A2056657273696F6E20</Bytes>
+			<ASCII> * *   Q u e s t i o n n a i r e   f o r   Q u i z   V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>35</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>202A2A0D0A</Bytes>
+			<ASCII>   * *</ASCII>
+			<Pos>37</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

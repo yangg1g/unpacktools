@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Quartus Block Design File</FileType>
+		<Ext>BDF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Altera_Quartus</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>8</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2F2A</Bytes>
+			<ASCII> / *</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DO NOT EDIT THE INPUT AND OUTPUT PORTS IN THIS FILE IN A TEXT</String>
+		<String>FILE CORRUPTION IS VERY LIKELY TO OCCUR.</String>
+		<String>COPYRIGHT (C) 1991</String>
+		<String>THE BLOCK EDITOR</String>
+		<String>(VERSION</String>
+		<String>(HEADER</String>
+		<String>GRAPHIC</String>
+		<String>WARNING</String>
+		<String>FORMAT</String>
+	</GlobalStrings>
+</TrID>

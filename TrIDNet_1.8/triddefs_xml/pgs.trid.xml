@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PageStream document</FileType>
+		<Ext>PGS</Ext>
+		<ExtraInfo>
+			<Rem>PageStream is a multi-platform (Amiga, Linux, Macintosh, Windows) DTP program.</Rem>
+			<RefURL>http://www.grasshopperllc.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>05</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>56</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>464F524D</Bytes>
+			<ASCII> F O R M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>444F432056455253</Bytes>
+			<ASCII> D O C   V E R S</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>444F4320</Bytes>
+			<ASCII> D O C</ASCII>
+			<Pos>28</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>464F524D</Bytes>
+			<ASCII> F O R M</ASCII>
+			<Pos>42</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

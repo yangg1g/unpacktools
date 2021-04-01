@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Polynomial Texture Map</FileType>
+        <Ext>PTM</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.hpl.hp.com/ptm/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>6</FileNum>
+        <Date>
+            <Year>2004</Year>
+            <Month>01</Month>
+            <Day>22</Day>
+        </Date>
+        <Time>
+            <Hour>21</Hour>
+            <Min>14</Min>
+            <Sec>58</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>50544D5F</Bytes>
+            <ASCII> P T M _</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>2E</Bytes>
+            <Pos>5</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0A50544D5F464F524D41545F</Bytes>
+            <ASCII> . P T M _ F O R M A T _</ASCII>
+            <Pos>7</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Magix Samplitude project</FileType>
+		<Ext>VIP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.samplitude.com/eng/sam/hybrid.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>10</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52494646</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0053454B4453564950</Bytes>
+			<ASCII> . S E K D S V I P</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RNGSLIST</String>
+		<String>TRCKTRCI</String>
+		<String>TRKSLIST</String>
+		<String>PROI</String>
+		<String>CNTR</String>
+		<String>COMP</String>
+		<String>CRSS</String>
+		<String>PHYS</String>
+		<String>.HDP</String>
+	</GlobalStrings>
+</TrID>

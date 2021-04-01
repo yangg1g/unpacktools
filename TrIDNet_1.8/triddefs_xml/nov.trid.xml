@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Battery 3 quick load sample data</FileType>
+		<Ext>NOV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.native-instruments.com/#/en/products/producer/battery-3/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>199</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>7</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>54</Min>
+			<Sec>3</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>9F1740001001000010000000</Bytes>
+			<ASCII> . . @</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>13</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000442C478000000057415600000000BF</Bytes>
+			<ASCII> . . . D , G . . . . W A V</ASCII>
+			<Pos>18</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,209 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Adobe Audition Session</FileType>
+		<Ext>SESX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Adobe_Audition</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>9</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>22</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D3822207374616E64616C6F6E653D</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 "   s t a n d a l o n e =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TRACKAUDIOPARAMETERS AUDIOCHANNELTYPE</String>
+		<String>MASTERTRACK AUTOMATIONLANEOPENSTATE</String>
+		<String>AUDIOTRACK AUTOMATIONLANEOPENSTATE</String>
+		<String>PARAMETERKEYFRAMES ENABLESPLINES</String>
+		<String>SELECTIONSTATE SELECTIONDURATION</String>
+		<String>VIEWSTATE HORIZONTALVIEWDURATION</String>
+		<String>PARAMETERKEYFRAME SAMPLEOFFSET</String>
+		<String>EDITPARAMETER PARAMETERINDEX</String>
+		<String>TIMEFORMATSTATE BEATSPERBAR</String>
+		<String>TRACKPARAMETERS TRACKHEIGHT</String>
+		<String>HIGH-PASS CUTOFF FREQUENCY</String>
+		<String>FADEOUT CROSSFADELINKTYPE</String>
+		<String>LINKTODEFAULTTIMESETTINGS</String>
+		<String>LOW-PASS CUTOFF FREQUENCY</String>
+		<String>FADEIN CROSSFADELINKTYPE</String>
+		<String>SESSION AUDIOCHANNELTYPE</String>
+		<String>SESSIONSTATE CTIPOSITION</String>
+		<String>W5M0MPCEHIHZRESZNTCZKC9D</String>
+		<String>DEFAULT SURROUND OUTPUT</String>
+		<String>HIGH SHELF FILTER ORDER</String>
+		<String>LOW SHELF FILTER ORDER</String>
+		<String>AUDITION.STEREOPANNER</String>
+		<String>COMPONENT COMPONENTID</String>
+		<String>DEFAULT STEREO OUTPUT</String>
+		<String>DEFAULT STEREO INPUT</String>
+		<String>HIGH SHELF FREQUENCY</String>
+		<String>ORIGINAL SAMPLE RATE</String>
+		<String>TRACKOUTPUT OUTPUTID</String>
+		<String>VERTICALSCROLLOFFSET</String>
+		<String>AUDIODEVICE INPUTID</String>
+		<String>CROSSFADEHEADCLIPID</String>
+		<String>CROSSFADETAILCLIPID</String>
+		<String>HORIZONTALVIEWSTART</String>
+		<String>LOW SHELF FREQUENCY</String>
+		<String>(XMPDOCOPSTEMPORAL</String>
+		<String>ORIGINALDOCUMENTID</String>
+		<String>TRACKCONTROLSWIDTH</String>
+		<String>TRACKINPUT INPUTID</String>
+		<String>FILE ABSOLUTEPATH</String>
+		<String>SENDSLOT PREFADER</String>
+		<String>TIMECODEDROPFRAME</String>
+		<String>TIMECODEFRAMERATE</String>
+		<String>TIMEFORMATDECIMAL</String>
+		<String>22-RDF-SYNTAX-NS</String>
+		<String>CENTER FREQUENCY</String>
+		<String>CUEPOINT MARKERS</String>
+		<String>HIGH-PASS FILTER</String>
+		<String>LINKEDASYMMETRIC</String>
+		<String>ULTRA-QUIET MODE</String>
+		<String>CUSTOMFRAMERATE</String>
+		<String>DERIVEDFROM RDF</String>
+		<String>DESCRIPTION RDF</String>
+		<String>HIGH SHELF GAIN</String>
+		<String>HIGH-PASS SLOPE</String>
+		<String>LOW-PASS FILTER</String>
+		<String>PARAMETER INDEX</String>
+		<String>ADOBE AUDITION</String>
+		<String>ADOBE XMP CORE</String>
+		<String>AUDITION.FADER</String>
+		<String>AUTOMATIONMODE</String>
+		<String>BEATSPERMINUTE</String>
+		<String>DEFAULT OUTPUT</String>
+		<String>HARDWAREOUTPUT</String>
+		<String>LOW SHELF GAIN</String>
+		<String>LOW-PASS SLOPE</String>
+		<String>PARAMETERVALUE</String>
+		<String>SELECTIONSTART</String>
+		<String>SOURCEOUTPOINT</String>
+		<String>AUDITION.MUTE</String>
+		<String>CHANNEL INDEX</String>
+		<String>OUTPUTPORT ID</String>
+		<String>RESOURCEEVENT</String>
+		<String>SENDCOMPONENT</String>
+		<String>SOFTWAREAGENT</String>
+		<String>SOURCEINPOINT</String>
+		<String>XMPMETA XMLNS</String>
+		<String>XPACKET BEGIN</String>
+		<String>COMPONENT ID</String>
+		<String>DOCTYPE SESX</String>
+		<String>DYNAMICMEDIA</String>
+		<String>INPUTPORT ID</String>
+		<String>LOCKEDINTIME</String>
+		<String>METADATADATE</String>
+		<String>NS.ADOBE.COM</String>
+		<String>RELATIVEPATH</String>
+		<String>SENDOUTPUTID</String>
+		<String>SUBDIVISIONS</String>
+		<String>TIMECODENTSC</String>
+		<String>APPLICATION</String>
+		<String>AUDITION.EQ</String>
+		<String>CREATORTOOL</String>
+		<String>MASTER GAIN</String>
+		<String>RECORDARMED</String>
+		<String>RESOURCEREF</String>
+		<String>SOURCEINDEX</String>
+		<String>STATIC GAIN</String>
+		<String>XML VERSION</String>
+		<String>XMPMETADATA</String>
+		<String>XPACKET END</String>
+		<String>CHANNELMAP</String>
+		<String>CREATEDATE</String>
+		<String>INSTANCEID</String>
+		<String>MICROPHONE</String>
+		<String>MODIFYDATE</String>
+		<String>MONITORING</String>
+		<String>NOTELENGTH</String>
+		<String>SAMPLERATE</String>
+		<String>SMPTESTART</String>
+		<String>STANDALONE</String>
+		<String>STARTPOINT</String>
+		<String>TRACKFADER</String>
+		<String>WWW.W3.ORG</String>
+		<String>AUDIOCLIP</String>
+		<String>BANDWIDTH</String>
+		<String>CONSTANTQ</String>
+		<String>PARSETYPE</String>
+		<String>RDF XMLNS</String>
+		<String>SLOTINDEX</String>
+		<String>TRACKMUTE</String>
+		<String>TRACKNAME</String>
+		<String>TRACKTYPE</String>
+		<String>BITDEPTH</String>
+		<String>CLIPGAIN</String>
+		<String>CLIPMUTE</String>
+		<String>ELEMENTS</String>
+		<String>ENCODING</String>
+		<String>ENDPOINT</String>
+		<String>POWER ON</String>
+		<String>PURL.ORG</String>
+		<String>SENDLIST</String>
+		<String>SOLOSAFE</String>
+		<String>TRACKPAN</String>
+		<String>CHANGED</String>
+		<String>CLIPPAN</String>
+		<String>EQ BAND</String>
+		<String>HISTORY</String>
+		<String>OFFLINE</String>
+		<String>POWERED</String>
+		<String>SENDPAN</String>
+		<String>TRACKEQ</String>
+		<String>TRACKID</String>
+		<String>XMP.DID</String>
+		<String>XMP.IID</String>
+		<String>ACTION</String>
+		<String>BYPASS</String>
+		<String>COSINE</String>
+		<String>FILEID</String>
+		<String>LINEAR</String>
+		<String>LOOPED</String>
+		<String>PART 1</String>
+		<String>TRACKS</String>
+		<String>VOLUME</String>
+		<String>ZORDER</String>
+		<String>.SESX</String>
+		<String>ABOUT</String>
+		<String>CDATA</String>
+		<String>FALSE</String>
+		<String>FILES</String>
+		<String>LEVEL</String>
+		<String>MUSIC</String>
+		<String>SAVED</String>
+		<String>SHAPE</String>
+		<String>STEVT</String>
+		<String>STREF</String>
+		<String>STYPE</String>
+		<String>UTF-8</String>
+		<String>XMPDM</String>
+		<String>XMPMM</String>
+		<String>XMPTK</String>
+		<String>AKER</String>
+		<String>HTTP</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

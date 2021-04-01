@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SoundTrakker128 tune</FileType>
+		<Ext>ST2</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>279</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>08</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>26</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>42494E</Bytes>
+			<ASCII> B I N</ASCII>
+			<Pos>9</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>53542D313238204D6F64756C65</Bytes>
+			<ASCII> S T - 1 2 8   M o d u l e</ASCII>
+			<Pos>1304</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ST-128 MODULE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Webshots Image</FileType>
+		<Ext>WB1</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.webshots.com</RefURL>
+		</ExtraInfo>
+		<User>Joao Paulo Barraca</User>
+		<E-Mail>jpbarraca@nospam@gmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>263</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>56</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5757424231313131</Bytes>
+			<ASCII> W W B B 1 1 1 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MO3 MOD audio format</FileType>
+		<Ext>MO3</Ext>
+		<ExtraInfo>
+			<Rem>MO3 is a file format, encapsulating the features of several "MOD" formats (IT, XM, S3M, MTM, MOD), but with one big difference - MP3 and OGG compressed samples.</Rem>
+			<RefURL>http://www.un4seen.com/mo3.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>36</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D4F33</Bytes>
+			<ASCII> M O 3</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

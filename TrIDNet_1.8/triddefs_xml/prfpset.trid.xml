@@ -1,0 +1,101 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Adobe Premiere Effect Preset</FileType>
+		<Ext>PRFPSET</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Adobe_Premiere_Pro</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>24</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>17</Min>
+			<Sec>2</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0A3C5072656D69657265446174612056657273696F6E3D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ? . . . P r e m i e r e D a t a   V e r s i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>HANDLEREFFECTS.EFFECTITEMTREE.PRESETSBIN</String>
+		<String>025F59AC-1F29-42C0-9897-ADA1059BD547</String>
+		<String>177F2841-DD5B-43BD-9D9A-79E231BD47DD</String>
+		<String>228CDA18-3625-4D2D-951E-348879E4ED93</String>
+		<String>5E0F46FA-384F-4C09-BC53-0B8E2B7005B5</String>
+		<String>5F513D71-0018-4405-A10B-BF5597F99960</String>
+		<String>D10DA199-BEEA-4DD1-B941-ED3A78766D50</String>
+		<String>E56C9BA0-91CB-4F21-9174-C1B52448C6C9</String>
+		<String>EE52A7D2-069E-47F7-AA30-E3E3286B65A3</String>
+		<String>VIDEOFILTERCOMPONENT OBJECTID</String>
+		<String>VIDEOCOMPONENTPARAM OBJECTID</String>
+		<String>FILTERPRESETITEM OBJECTID</String>
+		<String>DISCONTINUOUSINTERPOLATE</String>
+		<String>EFFECTBINITEM OBJECTID</String>
+		<String>FILTERPRESET OBJECTID</String>
+		<String>BINTREEITEM OBJECTID</String>
+		<String>PARAMETERCONTROLTYPE</String>
+		<String>PREMIEREDATA VERSION</String>
+		<String>TREEITEMBASE VERSION</String>
+		<String>COMPONENT OBJECTREF</String>
+		<String>ECP.FILTER.EXPANDED</String>
+		<String>ECP.SLIDER.EXPANDED</String>
+		<String>EFFECTITEM VERSION</String>
+		<String>PROPERTIES VERSION</String>
+		<String>COMPONENT VERSION</String>
+		<String>ROOTBIN OBJECTREF</String>
+		<String>EFFECTISSHORCUT</String>
+		<String>FILTERMATCHNAME</String>
+		<String>VIDEOFILTERTYPE</String>
+		<String>ANCHOROUTPOINT</String>
+		<String>DATA OBJECTREF</String>
+		<String>PARAMS VERSION</String>
+		<String>TREE OBJECTREF</String>
+		<String>ANCHORINPOINT</String>
+		<String>ISTIMEVARYING</String>
+		<String>ITEMS VERSION</String>
+		<String>STARTKEYFRAME</String>
+		<String>TREE OBJECTID</String>
+		<String>CURRENTVALUE</String>
+		<String>EFFECTFLAVOR</String>
+		<String>NODE VERSION</String>
+		<String>DESCRIPTION</String>
+		<String>DISPLAYNAME</String>
+		<String>PARAM INDEX</String>
+		<String>RANGELOCKED</String>
+		<String>UNITSSTRING</String>
+		<String>XML VERSION</String>
+		<String>ITEM INDEX</String>
+		<String>LOWERBOUND</String>
+		<String>SEQUENCEID</String>
+		<String>UPPERBOUND</String>
+		<String>INTRINSIC</String>
+		<String>KEYFRAMES</String>
+		<String>MEDIATYPE</String>
+		<String>ENCODING</String>
+		<String>ISLOCKED</String>
+		<String>CLASSID</String>
+		<String>BYPASS</String>
+		<String>SORTED</String>
+		<String>.ADBE</String>
+		<String>FALSE</String>
+		<String>SPEED</String>
+		<String>UTF-8</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

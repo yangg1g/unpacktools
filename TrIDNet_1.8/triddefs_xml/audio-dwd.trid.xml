@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DiamondWare Digitized audio</FileType>
+		<Ext>DWD</Ext>
+		<ExtraInfo>
+			<Rem>(not sure about the link!)</Rem>
+			<RefURL>http://www.dw.com/index.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<Refine>6 by Marco Pontello</Refine>
+		<Date>
+			<Year>2005</Year>
+			<Month>05</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>49</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4469616D6F6E6457617265204469676974697A65640A</Bytes>
+			<ASCII> D i a m o n d W a r e   D i g i t i z e d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

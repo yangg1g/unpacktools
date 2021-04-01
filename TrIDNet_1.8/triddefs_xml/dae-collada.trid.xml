@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>COLLADA digital asset document</FileType>
+		<Ext>DAE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.khronos.org/collada/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>6</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>1</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E3022</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WWW.COLLADA.ORG</String>
+		<String>AUTHORING_TOOL</String>
+		<String>COLLADASCHEMA</String>
+		<String>XML VERSION</String>
+		<String>INSTANCE</String>
+		<String>MODIFIED</String>
+		<String>ASSET</String>
+		<String>METER</String>
+		<String>SCENE</String>
+		<String>XMLNS</String>
+		<String>COMM</String>
+		<String>HTTP</String>
+		<String>NAME</String>
+		<String>NODE</String>
+		<String>UNIT</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EnCase Forensics Hash</FileType>
+		<Ext>HASH</Ext>
+		<ExtraInfo>
+			<Rem>These are Forensic Drive Image Hashes created with EnCase by Guidance Software Inc.  They are used to identify Known System files which have been found in the EnCase drive image. The known system files can be downloaded from NIST.GOV and are updated quarterly.</Rem>
+			<RefURL>http://www.guidancesoftware.com/</RefURL>
+		</ExtraInfo>
+		<User>Tom Strack</User>
+		<E-Mail>tom.strack@earlycase.com</E-Mail>
+		<Home>http://www.earlycase.com</Home>
+	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>06</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>484153480D0AFF00</Bytes>
+			<ASCII> H A S H</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

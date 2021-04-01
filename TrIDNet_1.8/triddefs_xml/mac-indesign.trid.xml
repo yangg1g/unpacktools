@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mac Adobe InDesign document</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.adobe.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>10</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>496E4464496E446E</Bytes>
+			<ASCII> I n D d I n D n</ASCII>
+			<Pos>65</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>444F43554D454E54</Bytes>
+			<ASCII> D O C U M E N T</ASCII>
+			<Pos>144</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCUMENT FRAMEWORK</String>
+		<String>TEXT ATTRIBUTES</String>
+		<String>ADOBE INDESIGN</String>
+		<String>APPFRAMEWORK</String>
+		<String>NS.ADOBE.COM</String>
+		<String>CREATEDATE</String>
+		<String>DOCUMENTID</String>
+		<String>RDF XMLNS</String>
+		<String>VERSIONID</String>
+		<String>ELEMENTS</String>
+		<String>LAYER</String>
+		<String>DOCID</String>
+		<String>PAPER</String>
+		<String>ROOT</String>
+	</GlobalStrings>
+</TrID>

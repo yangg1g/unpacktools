@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XFDL form</FileType>
+		<Ext>XFDL</Ext>
+		<ExtraInfo>
+			<Rem>XFDL stand for Extensible Forms Description Language.</Rem>
+			<RefURL>http://www.w3.org/TR/NOTE-XFDL</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>29</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C20</Bytes>
+			<ASCII> . ? x m l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FIELD SID</String>
+		<String>DATA SID</String>
+		<String>FILENAME</String>
+		<String>MIMEDATA</String>
+		<String>PAGE SID</String>
+		<String>VERSION</String>
+		<String>VALUE</String>
+		<String>XFDL</String>
+	</GlobalStrings>
+</TrID>

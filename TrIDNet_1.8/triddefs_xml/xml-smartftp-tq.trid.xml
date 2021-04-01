@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SmartFTP transfer queue</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.smartftp.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>53</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RECURRENCETIMEINTERVAL</String>
+		<String>OPERATIONSTATE</String>
+		<String>TIMEPRECISION</String>
+		<String>MONITORFILE</String>
+		<String>DESTINATION</String>
+		<String>FAVORITEID</String>
+		<String>TIMEZONE</String>
+		<String>SIZEUNIT</String>
+		<String>VERSION</String>
+		<String>SOURCE</String>
+		<String>CHILDS</String>
+		<String>ITEMS</String>
+		<String>PAUSE</String>
+		<String>PATH</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

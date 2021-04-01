@@ -1,0 +1,71 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>foobar 2000 Input component</FileType>
+        <Ext>DLL</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://foobar2000.org/components.html</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>9</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>12</Month>
+            <Day>07</Day>
+        </Date>
+        <Time>
+            <Hour>19</Hour>
+            <Min>59</Min>
+            <Sec>37</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+            <ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A2400000000000000</Bytes>
+            <ASCII> . . . . . . . . . . . ! . . L . ! T h i s   p r o g r a m   c a n n o t   b e   r u n   i n   D O S   m o d e . . . . $</ASCII>
+            <Pos>61</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>.DATA</String>
+        <String>.RDATA</String>
+        <String>.RELOC</String>
+        <String>.TEXT</String>
+        <String>FOOBAR2000_GET_INTERFACE</String>
+        <String>FREE</String>
+        <String>INTERLOCKEDDECREMENT</String>
+        <String>INTERLOCKEDINCREMENT</String>
+        <String>KERNEL32.DLL</String>
+        <String>MALLOC</String>
+        <String>MEMCMP</String>
+        <String>MEMCPY</String>
+        <String>MEMSET</String>
+        <String>NWVS</String>
+        <String>PE''L</String>
+        <String>READ</String>
+        <String>STRCMP</String>
+        <String>STRLEN</String>
+        <String>THIS PROGRAM CANNOT BE RUN IN DOS MODE.</String>
+        <String>TOWLOWER</String>
+        <String>YAPAXI</String>
+        <String>YAXPAX</String>
+        <String>YRMWP</String>
+        <String>_ADJUST_FDIV</String>
+        <String>_EXCEPT_HANDLER3</String>
+        <String>_FTOL</String>
+        <String>_INITTERM</String>
+        <String>_ONEXIT</String>
+        <String>__DLLONEXIT</String>
+    </GlobalStrings>
+</TrID>

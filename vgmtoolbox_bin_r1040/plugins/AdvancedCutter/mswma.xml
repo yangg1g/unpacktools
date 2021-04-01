@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OffsetFinderTemplate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <FormatName>Microsoft Windows Media Audio (WMA)</FormatName>
+    <Author />
+  </Header>
+  <SearchParameters>
+    <SearchString>3026B2758E66CF11A6D900AA0062CE6C</SearchString>
+    <TreatSearchStringAsHex>true</TreatSearchStringAsHex>
+    <StartingOffset />
+    <UseModOffsetForSearchString>false</UseModOffsetForSearchString>
+    <SearchStringOffset>0x00</SearchStringOffset>
+    <OutputFileExtension />
+    <MinimumSizeForCutting>0</MinimumSizeForCutting>
+    <CutParameters>
+      <CutStyle>offset</CutStyle>
+      <CutSizeAtOffset>0x46</CutSizeAtOffset>
+      <CutSizeOffsetSize>4</CutSizeOffsetSize>
+    </CutParameters>
+    <AddExtraBytes>false</AddExtraBytes>
+    <AddExtraByteSize />
+  </SearchParameters>
+  <NotesOrWarnings />
+</OffsetFinderTemplate>

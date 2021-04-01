@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Styled Layer Descriptor</FileType>
+		<Ext>SLD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.opengeospatial.org/standards/sld</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>6</Min>
+			<Sec>8</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6C</Bytes>
+			<ASCII> l</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>STYLEDLAYERDESCRIPTOR.XSD</String>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>FEATURETYPESTYLE</String>
+		<String>WWW.OPENGIS.NET</String>
+		<String>SCHEMALOCATION</String>
+		<String>SYMBOLIZER</String>
+		<String>WWW.W3.ORG</String>
+		<String>USERSTYLE</String>
+		<String>VERSION</String>
+		<String>XLINK</String>
+		<String>XMLNS</String>
+		<String>1999</String>
+		<String>2001</String>
+		<String>HTTP</String>
+		<String>NAME</String>
+		<String>RULE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+ <TransformScript>
+  <OtherComments>
+   <Content>Outline Light
+This script creates an outline font with a 10 funit stroke weight. It attempts to preserve the original height and width of the glyphs. The scale factor may need changing to retain the glyph size in your font.</Content>
+  </OtherComments>
+  <OutlineScale>
+   <AroundType>2</AroundType>
+   <AroundCorner>0</AroundCorner>
+   <AroundXPos>0</AroundXPos>
+   <AroundYPos>0</AroundYPos>
+   <Horizontal>99.00</Horizontal>
+   <Vertical>99.33</Vertical>
+   <PreserveBearings>TRUE</PreserveBearings>
+  </OutlineScale>
+  <EffectsHollow>
+   <Horizontal>10</Horizontal>
+   <Vertical>10</Vertical>
+   <PreserveBearings>TRUE</PreserveBearings>
+  </EffectsHollow>
+  <OutlineMove>
+   <Horizontal>0</Horizontal>
+   <Vertical>5</Vertical>
+  </OutlineMove>
+  <MetricsLeftSideBearing>
+  </MetricsLeftSideBearing>
+ </TransformScript>
+</DATA>

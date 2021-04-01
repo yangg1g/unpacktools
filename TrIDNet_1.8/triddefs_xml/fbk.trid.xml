@@ -1,0 +1,82 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FamilyTree Backup File</FileType>
+		<Ext>FBK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>06</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>09</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E007400720079</Bytes>
+			<ASCII> R . o . o . t .   . E . n . t . r . y</ASCII>
+			<Pos>1024</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>49004E0044002E00440042</Bytes>
+			<ASCII> I . N . D . . . D . B</ASCII>
+			<Pos>1152</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4100550058002E00440042</Bytes>
+			<ASCII> A . U . X . . . D . B</ASCII>
+			<Pos>1280</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>470045004E004500520041004C002E00440042</Bytes>
+			<ASCII> G . E . N . E . R . A . L . . . D . B</ASCII>
+			<Pos>1408</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4E0041004D0045002E004E00440058</Bytes>
+			<ASCII> N . A . M . E . . . N . D . X</ASCII>
+			<Pos>1536</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>420049005200540048002E004E00440058</Bytes>
+			<ASCII> B . I . R . T . H . . . N . D . X</ASCII>
+			<Pos>1664</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>F'I'L'E' 'F'O'R'M'A'T' '('C')' 'C'O'P'Y'R'I'G'H'T' '1'9'9'3' 'B'A'N'N'E'R' 'B'L'U'E' 'S'O'F'T'W'A'R'E' 'I'N'C'.' '-' 'A'L'L' 'R'I'G'H'T'S' 'R'E'S'E'R'V'E'D</String>
+		<String>Q'U'I'C'K'E'D'I'T'.'D'B</String>
+		<String>Q'E'D'I'T'1'7'.'D'B</String>
+		<String>G'E'N'E'R'A'L'.'D'B</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>C'O'M'M'O'N'.'I'G'P</String>
+		<String>S'O'U'R'C'E'.'N'D'X</String>
+		<String>I'N'D'G'R'O'U'P'S</String>
+		<String>B'I'R'T'H'.'N'D'X</String>
+		<String>N'A'M'E'.'N'D'X</String>
+		<String>P'A'R'E'N'T'S</String>
+		<String>A'U'X'.'D'B</String>
+		<String>N'A'T'I'O'N</String>
+		<String>I'N'D'.'D'B</String>
+		<String>D'E'A'T'H</String>
+		<String>C'H'U'N'K</String>
+		<String>.'F'I'N</String>
+	</GlobalStrings>
+</TrID>

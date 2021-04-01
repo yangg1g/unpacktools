@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Maple Common Binary file (generic)</FileType>
+		<Ext>M</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.maplesoft.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>01</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D</Bytes>
+			<ASCII> M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52</Bytes>
+			<ASCII> R</ASCII>
+			<Pos>2</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

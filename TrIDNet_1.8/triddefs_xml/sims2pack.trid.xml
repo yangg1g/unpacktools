@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>The Sims Compacted Resource file</FileType>
+		<Ext>SIMS2PACK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ea.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>01</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>13</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53696D7332205061636B6167657220</Bytes>
+			<ASCII> S i m s 2   P a c k a g e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

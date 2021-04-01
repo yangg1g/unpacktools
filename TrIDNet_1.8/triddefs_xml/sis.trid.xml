@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EPOC/SymbianOS Installer</FileType>
+		<Ext>SIS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pdaanaesthetic.com/install.asp</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>02</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>001019040010</Bytes>
+			<Pos>6</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HBasic source code</FileType>
+		<Ext>BAS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://hbasic.sourceforge.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>24</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>03</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>16</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>484241536400</Bytes>
+			<ASCII> H B A S d .</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TomTom traffic data</FileType>
+		<Ext>DAT</Ext>
+		<ExtraInfo>
+			<Rem>File TRAFFIC.DAT</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/TomTom</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>26</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4E415654524146464943</Bytes>
+			<ASCII> N A V T R A F F I C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

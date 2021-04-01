@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RandyTab guitar tablature</FileType>
+		<Ext>RTAB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.geocities.com/randyinc_nz/software/software.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>04</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>26</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>053252544646</Bytes>
+			<ASCII> . 2 R T F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CSEPARATORBAR</String>
+		<String>CGTRSTRING</String>
+		<String>CNOTE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>RKAU lossless compressed Audio</FileType>
+        <Ext>RKA</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://rksoft.virtualave.net/rkau.html</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>11</FileNum>
+        <Refine>1 by Marco Pontello</Refine>
+        <Date>
+            <Year>2003</Year>
+            <Month>12</Month>
+            <Day>21</Day>
+        </Date>
+        <Time>
+            <Hour>02</Hour>
+            <Min>15</Min>
+            <Sec>29</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>524B41</Bytes>
+            <ASCII> R K A</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

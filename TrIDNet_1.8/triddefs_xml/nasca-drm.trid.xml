@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>NASCA DRM encrypted</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>51</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.9b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C2323204E415343412044524D2046494C45202D20564552312E30302023233E</Bytes>
+			<ASCII> . # #   N A S C A   D R M   F I L E   -   V E R 1 . 0 0   # #</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

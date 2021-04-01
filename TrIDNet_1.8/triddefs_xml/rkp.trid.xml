@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RKP game package (v1.x)</FileType>
+		<Ext>RKP</Ext>
+		<ExtraInfo>
+			<Rem>RKP games are playable on Rockchip based system.</Rem>
+			<RefURL>http://www.rock-chips.com/en/en.asp</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>08</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>01</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>524B000056312E</Bytes>
+			<ASCII> R K . . V 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

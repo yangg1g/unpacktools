@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RCA digital voice recorder audio</FileType>
+		<Ext>VOC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cybercom.net/~dcoffin/rca/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>12</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>01</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5F564F435F46696C65</Bytes>
+			<ASCII> _ V O C _ F i l e</ASCII>
+			<Pos>6</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>_VOC_FILE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Rich Map Format</FileType>
+		<Ext>RMF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.slackiller.com/tutorials/tutorials/worldcraft1.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<Refine>9 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>26</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>524D4600</Bytes>
+			<ASCII> R M F</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>434D6170576F726C64</Bytes>
+			<ASCII> C M a p W o r l d</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>434D6170</Bytes>
+			<ASCII> C M a p</ASCII>
+			<Pos>34</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WORLDSPAWN</String>
+		<String>CMAPGROUP</String>
+		<String>CMAPWORLD</String>
+		<String>CMAPSOLID</String>
+		<String>DOCINFO</String>
+	</GlobalStrings>
+</TrID>

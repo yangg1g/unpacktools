@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WatchGuard cloaked file</FileType>
+		<Ext>CLK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.watchguard.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>07</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>41</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>546869732066696C6520686173206265656E20636C6F616B65642E2020546865206F726967696E616C206D657373616765206D617920626520726574726965766564206279</Bytes>
+			<ASCII> T h i s   f i l e   h a s   b e e n   c l o a k e d .     T h e   o r i g i n a l   m e s s a g e   m a y   b e   r e t r i e v e d   b y</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

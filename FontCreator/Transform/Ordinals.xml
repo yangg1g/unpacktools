@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+  <TransformScript>
+    <OtherComments>
+      <Content>Ordinals
+This script inserts ordinals (superscripted letters a-z) in the Private Use Area. The scale, bold, and move actions may need adjustment to suit the typeface. </Content>
+    </OtherComments>
+    <GlyphInsertCharacters>
+      <Characters>60065-60090, 60096-60122,60180,60200,60218,60232,60250</Characters>
+      <OverrideRange>TRUE</OverrideRange>
+    </GlyphInsertCharacters>
+    <GlyphCompleteComposites>
+    </GlyphCompleteComposites>
+    <GlyphDecompose>
+    </GlyphDecompose>
+    <OutlineScale>
+      <AroundType>2</AroundType>
+      <AroundCorner>0</AroundCorner>
+      <AroundXPos>0</AroundXPos>
+      <AroundYPos>0</AroundYPos>
+      <Horizontal>70.00</Horizontal>
+      <Vertical>68.00</Vertical>
+      <PreserveBearings>FALSE</PreserveBearings>
+    </OutlineScale>
+    <EffectsBold>
+      <Horizontal>25</Horizontal>
+      <Vertical>8</Vertical>
+      <PreserveBearings>TRUE</PreserveBearings>
+    </EffectsBold>
+    <OutlineMove>
+      <Horizontal>0</Horizontal>
+      <Vertical>508</Vertical>
+    </OutlineMove>
+    <MetricsLeftSideBearing>
+    </MetricsLeftSideBearing>
+  </TransformScript>
+</DATA>

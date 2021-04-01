@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Flasm disassembled Flash ActionScript bytecode</FileType>
+		<Ext>FLM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://flasm.sourceforge.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>06</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>38</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6D6F7669652027</Bytes>
+			<ASCII> m o v i e   '</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DEFINEMOVIECLIP</String>
+		<String>TOTAL FRAMES</String>
+		<String>FRAME RATE</String>
+		<String>CONSTANTS</String>
+		<String>SETMEMBER</String>
+		<String>FLASH</String>
+		<String>LABEL</String>
+		<String>.SWF</String>
+		<String>TEXT</String>
+	</GlobalStrings>
+</TrID>

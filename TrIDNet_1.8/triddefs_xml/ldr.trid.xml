@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LDraw Model</FileType>
+		<Ext>LDR</Ext>
+		<ExtraInfo>
+			<Rem>LDraw is an open standard for LEGO CAD programs that allow the user to create virtual LEGO models and scenes.</Rem>
+			<RefURL>http://www.ldraw.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>11</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>20</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3020</Bytes>
+			<ASCII> 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>0 AUTHOR</String>
+		<String>0 NAME</String>
+	</GlobalStrings>
+</TrID>

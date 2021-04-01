@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>fswebcam configuration</FileType>
+		<Ext>CONF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.firestorm.cx/fswebcam/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>05</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>46</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2320</Bytes>
+			<ASCII> #</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONFIGURATION FOR FSWEBCAM</String>
+		<String>BANNER-COLOUR</String>
+		<String>LINE-COLOUR</String>
+		<String>TOP-BANNER</String>
+		<String>RESOLUTION</String>
+		<String>DEVICE</String>
+		<String>VIDEO0</String>
+		<String>FRAMES</String>
+		<String>QUIET</String>
+		<String>TITLE</String>
+		<String>SCALE</String>
+		<String>.PNG</String>
+		<String>EXEC</String>
+		<String>SKIP</String>
+		<String>FONT</String>
+		<String>SAVE</String>
+		<String>JPEG</String>
+		<String>X288</String>
+	</GlobalStrings>
+</TrID>

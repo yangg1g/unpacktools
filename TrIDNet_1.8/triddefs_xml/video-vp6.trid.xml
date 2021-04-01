@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VP6 encoded video</FileType>
+		<Ext>VP6</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.on2.com</RefURL>
+		</ExtraInfo>
+		<User>Peter Cox</User>
+		<E-Mail>peter-nospam@xenophore.com</E-Mail>
+		<Home>http://www.xenophore.com</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>2 by Marco Pontello - 1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>35</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>56</Bytes>
+			<ASCII> V</ASCII>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>27</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MV0FD</String>
+		<String>MV0FL</String>
+		<String>MV0FT</String>
+		<String>MVHD</String>
+		<String>V0FH</String>
+		<String>MV0K</String>
+	</GlobalStrings>
+</TrID>

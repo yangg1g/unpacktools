@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Delphi project source</FileType>
+		<Ext>DPR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.borland.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>04</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>50</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>70726F6772616D20</Bytes>
+			<ASCII> p r o g r a m</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PROGRAM</String>
+		<String>BEGIN</String>
+		<String>END.</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Instrument Definition File</FileType>
+		<Ext>IDF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://members.aol.com/sydyn/sydyn/idfedit.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2003</Year>
+			<Month>11</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>44</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.50</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52494646</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000494446204C495354</Bytes>
+			<ASCII> . . I D F   L I S T</ASCII>
+			<Pos>6</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00004D4D415068647220</Bytes>
+			<ASCII> . . M M A P h d r</ASCII>
+			<Pos>18</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>IDF LIST</String>
+		<String>MIDI</String>
+		<String>MMAPhdr</String>
+		<String>Percussion</String>
+		<String>RIFF</String>
+		<String>caps</String>
+		<String>chan</String>
+		<String>inst</String>
+	</GlobalStrings>
+</TrID>

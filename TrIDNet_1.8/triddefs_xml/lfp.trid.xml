@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Lytro Light Field Picture web format</FileType>
+		<Ext>LFP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Lytro</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>25</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>3</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>50</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>894C46500D0A1A</Bytes>
+			<ASCII> . L F P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>894C46</Bytes>
+			<ASCII> . L F</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A1A</Bytes>
+			<Pos>20</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>736861312D</Bytes>
+			<ASCII> s h a 1 -</ASCII>
+			<Pos>32</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7B2270696374757265223A207B226672616D654172726179223A205B7B226672616D65223A207B226D65746164617461526566223A2022736861312D</Bytes>
+			<ASCII> { " p i c t u r e " :   { " f r a m e A r r a y " :   [ { " f r a m e " :   { " m e t a d a t a R e f " :   " s h a 1 -</ASCII>
+			<Pos>112</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

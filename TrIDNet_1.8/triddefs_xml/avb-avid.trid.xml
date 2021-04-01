@@ -1,0 +1,123 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Avid Editor Bin</FileType>
+		<Ext>AVB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Daniel</User>
+		<E-Mail>daniel@mail.com.mk</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>65</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>33</Min>
+			<Sec>7</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0600446F6D61696E444A424F0700414F626A446F630413003230</Bytes>
+			<ASCII> . . D o m a i n D J B O . . A O b j D o c . . . 2 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2F</Bytes>
+			<ASCII> /</ASCII>
+			<Pos>28</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2F</Bytes>
+			<ASCII> /</ASCII>
+			<Pos>31</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>626F5441657654411E00</Bytes>
+			<ASCII> b o T A e v T A</ASCII>
+			<Pos>63</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>AUXILIARY INKE'%</String>
+		<String>MODIFIED DATEF'6</String>
+		<String>AUXILIARY TC1D</String>
+		<String>AUXILIARY TC2D</String>
+		<String>AUXILIARY TC3D</String>
+		<String>AUXILIARY TC4D</String>
+		<String>AUXILIARY TC5D</String>
+		<String>COLOR FRAMINGI</String>
+		<String>CREATION DATEF</String>
+		<String>AUDIO FORMAT</String>
+		<String>KN MARK OUTE</String>
+		<String>INK NUMBERE</String>
+		<String>KN MARK INE</String>
+		<String>DOMAINDJBO</String>
+		<String>KN IN-OUTE</String>
+		<String>SHOOT DATE</String>
+		<String>DURATIOND</String>
+		<String>KN STARTE</String>
+		<String>MARK OUTD</String>
+		<String>SOUND TCD</String>
+		<String>SOUNDROLL</String>
+		<String>BIN VIEW</String>
+		<String>BOTAEVTA</String>
+		<String>COLORI'3</String>
+		<String>FILM TCD</String>
+		<String>FRAMEJ'$</String>
+		<String>MARK IND</String>
+		<String>TC 24D'8</String>
+		<String>_BIN_SRT</String>
+		<String>_ORG_BIN</String>
+		<String>AOBJDOC</String>
+		<String>CAMROLL</String>
+		<String>IN-OUTD</String>
+		<String>KN ENDE</String>
+		<String>LABROLL</String>
+		<String>LOCK''0</String>
+		<String>OFFLINE</String>
+		<String>PROJECT</String>
+		<String>PULLOUT</String>
+		<String>TC 25PD</String>
+		<String>CAMERA</String>
+		<String>KN DUR</String>
+		<String>PULLIN</String>
+		<String>STARTD</String>
+		<String>TAPEID</String>
+		<String>TRACKS</String>
+		<String>CFPSG</String>
+		<String>LLIF2</String>
+		<String>MEDIA</String>
+		<String>PCCTB</String>
+		<String>SCENE</String>
+		<String>SLIPD</String>
+		<String>VIDEO</String>
+		<String>VITCD</String>
+		<String>_USER</String>
+		<String>ENDD</String>
+		<String>FILE</String>
+		<String>FNIW</String>
+		<String>LMSM</String>
+		<String>NAME</String>
+		<String>NIBA</String>
+		<String>OPMC</String>
+		<String>PERF</String>
+		<String>PLCS</String>
+		<String>RBCM</String>
+		<String>REEL</String>
+		<String>RTTA</String>
+		<String>STAT</String>
+		<String>TAKE</String>
+		<String>TSVB</String>
+	</GlobalStrings>
+</TrID>

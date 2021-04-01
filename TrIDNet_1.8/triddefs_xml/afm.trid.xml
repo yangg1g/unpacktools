@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Outline Font Metric</FileType>
+		<Ext>AFM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>12</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5374617274466F6E744D65747269637320</Bytes>
+			<ASCII> S t a r t F o n t M e t r i c s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>18</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>STARTFONTMETRICS</String>
+		<String>STARTCHARMETRICS</String>
+		<String>ENDFONTMETRICS</String>
+		<String>ENDCHARMETRICS</String>
+		<String>ISFIXEDPITCH</String>
+		<String>FONTNAME</String>
+		<String>FONTBBOX</String>
+	</GlobalStrings>
+</TrID>

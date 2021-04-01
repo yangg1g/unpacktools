@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BoomTracker 4.0 instrument</FileType>
+		<Ext>CIF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.adlibtracker.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>82</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>9</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>43</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C4355442D464D2D496E737472756D656E743E1A</Bytes>
+			<ASCII> . C U D - F M - I n s t r u m e n t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

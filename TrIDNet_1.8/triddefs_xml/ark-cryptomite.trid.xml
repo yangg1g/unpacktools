@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CryptoMite encrypted archive</FileType>
+		<Ext>CRYPTOMITE</Ext>
+		<ExtraInfo>
+			<Rem>CryptoMite is an easy to use encryption tool.</Rem>
+			<RefURL>http://www.baxbex.com/cryptomite.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>02</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>02</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B03040A0000000000</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5A32</Bytes>
+			<ASCII> Z 2</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.CRYPTOMITEPK</String>
+		<String>KRYPTER99</String>
+		<String>KRY20X</String>
+	</GlobalStrings>
+</TrID>

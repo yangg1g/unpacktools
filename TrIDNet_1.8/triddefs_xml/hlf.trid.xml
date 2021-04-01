@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FAR help</FileType>
+		<Ext>HLF</Ext>
+		<ExtraInfo>
+			<Rem>FAR is a text mode file and archive manager for Windows.</Rem>
+			<RefURL>http://farmanager.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>04</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>09</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2E4C616E67756167653D</Bytes>
+			<ASCII> . L a n g u a g e =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONTENTS</String>
+	</GlobalStrings>
+</TrID>

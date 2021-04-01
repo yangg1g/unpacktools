@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ENhanced Compressor compressed archive</FileType>
+		<Ext>ENC</Ext>
+		<ExtraInfo>
+			<Rem>A compressor program by Enchanter.</Rem>
+			<RefURL>http://web.archive.org/web/20020702115405/http://thepipe.kiev.ua/</RefURL>
+		</ExtraInfo>
+		<User>Label</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>02</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>14</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>456E6368000F02</Bytes>
+			<ASCII> E n c h</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,109 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Desktop Theme</FileType>
+		<Ext>THEME</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>15</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B</Bytes>
+			<ASCII> [</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>{20D04FE0-3AEA-1069-A2D8-08002B30309D}</String>
+		<String>{208D2C60-3AEA-1069-A2D7-08002B30309D}</String>
+		<String>{645FF040-5081-101B-9F08-00AA002F954E}</String>
+		<String>MASTERTHEMESELECTOR</String>
+		<String>INACTIVETITLETEXT</String>
+		<String>SYSTEMEXCLAMATION</String>
+		<String>NONCLIENTMETRICS</String>
+		<String>EMPTYRECYCLEBIN</String>
+		<String>BUTTONDKSHADOW</String>
+		<String>INACTIVEBORDER</String>
+		<String>WALLPAPERSTYLE</String>
+		<String>SYSTEMQUESTION</String>
+		<String>CONTROL PANEL</String>
+		<String>BUTTONHILIGHT</String>
+		<String>TILEWALLPAPER</String>
+		<String>BUTTONSHADOW</String>
+		<String>APPWORKSPACE</String>
+		<String>SCRNSAVE.EXE</String>
+		<String>DEFAULTVALUE</String>
+		<String>SYSTEMSTART</String>
+		<String>DEFAULTICON</String>
+		<String>BUTTONLIGHT</String>
+		<String>HILIGHTTEXT</String>
+		<String>APPSTARTING</String>
+		<String>WINDOWFRAME</String>
+		<String>ICONMETRICS</String>
+		<String>255 255 255</String>
+		<String>SYSTEMEXIT</String>
+		<String>INFOWINDOW</String>
+		<String>BUTTONFACE</String>
+		<String>BUTTONTEXT</String>
+		<String>WINDOWTEXT</String>
+		<String>APPGPFAULT</String>
+		<String>BACKGROUND</String>
+		<String>SYSTEMHAND</String>
+		<String>CROSSHAIR</String>
+		<String>APPEVENTS</String>
+		<String>SCROLLBAR</String>
+		<String>76 0 0 0</String>
+		<String>84 1 0 0</String>
+		<String>INFOTEXT</String>
+		<String>.CURRENT</String>
+		<String>.DEFAULT</String>
+		<String>GRAYTEXT</String>
+		<String>SIZENESW</String>
+		<String>SIZENWSE</String>
+		<String>MENUTEXT</String>
+		<String>EXPLORER</String>
+		<String>WINDOWS</String>
+		<String>UPARROW</String>
+		<String>DESKTOP</String>
+		<String>SCHEMES</String>
+		<String>CURSORS</String>
+		<String>DABJDKT</String>
+		<String>255 0 0</String>
+		<String>PATTERN</String>
+		<String>SIZEALL</String>
+		<String>SIZENS</String>
+		<String>SIZEWE</String>
+		<String>COLORS</String>
+		<String>N.WAV</String>
+		<String>CLSID</String>
+		<String>NWPEN</String>
+		<String>IBEAM</String>
+		<String>DIR%</String>
+		<String>WAIT</String>
+		<String>.ICO</String>
+		<String>BOOT</String>
+		<String>FULL</String>
+		<String>DOWN</String>
+		<String>MTSM</String>
+		<String>HELP</String>
+	</GlobalStrings>
+</TrID>

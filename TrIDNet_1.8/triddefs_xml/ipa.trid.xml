@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>iOS Application</FileType>
+		<Ext>IPA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/IOS</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>21</FileNum>
+		<Refine>12 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>10</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>24</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ITUNESARTWORK</String>
+		<String>INFO.PLIST</String>
+		<String>DEFAULT</String>
+		<String>ON.PNGU</String>
+		<String>PAYLOAD</String>
+		<String>PKGINFO</String>
+		<String>.APP</String>
+		<String>FILE</String>
+		<String>ICON</String>
+		<String>IEND</String>
+	</GlobalStrings>
+</TrID>

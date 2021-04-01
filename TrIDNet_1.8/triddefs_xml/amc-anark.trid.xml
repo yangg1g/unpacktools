@@ -1,0 +1,82 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Anark Media Component</FileType>
+		<Ext>AMC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>www.anark.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>3</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>02000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00C30B0A00000041004E00410052004B00C60B0400000000000000C40B0400000001000000C50B0400000006000000D509</Bytes>
+			<ASCII> . . . . . . . A . N . A . R . K</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>59</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000D10B10000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD00B10000000</Bytes>
+			<Pos>61</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>BE0B0400000004000003CB097000000000000000E02E140000005B00</Bytes>
+			<ASCII> . . . . . . . . . . . . p . . . . . . . . . . . . . [</ASCII>
+			<Pos>108</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5D00CA0B0400000000000000CB0B04000000</Bytes>
+			<ASCII> ]</ASCII>
+			<Pos>152</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000CC0B04000000</Bytes>
+			<Pos>172</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000E22E100000000000803F0000803F0000803F0000803FCE0B0400000010000000E12E0400000001000000D20B0400000001000000C809</Bytes>
+			<ASCII> . . . . . . . . . . . ? . . . ? . . . ? . . . ?</ASCII>
+			<Pos>182</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0100</Bytes>
+			<Pos>240</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000C909</Bytes>
+			<Pos>243</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000002000000C10B10000000</Bytes>
+			<Pos>250</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>BB0B100000004D0DC97B232BFE55D5543A692F2D0F459411</Bytes>
+			<ASCII> . . . . . . M . . { # + . U . T : i / - . E</ASCII>
+			<Pos>278</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

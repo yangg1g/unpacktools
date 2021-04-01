@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sony Ericsson Theme (for mobile phones)</FileType>
+		<Ext>THM</Ext>
+		<ExtraInfo>
+			<Rem>A theme is a way to change the graphical experience for the user in just one setting.</Rem>
+			<RefURL>http://www.SonyEricsson.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>34</FileNum>
+		<Refine>2 by Marco Pontello - 17 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>59</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7573746172</Bytes>
+			<ASCII> u s t a r</ASCII>
+			<Pos>257</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>STANDBY_OPERATORNAME_OUTLINE COLOR</String>
+		<String>WAPBROWSER_TABLEBORDER COLOR</String>
+		<String>WAPBROWSER_UNDERLINE COLOR</String>
+		<String>STANDBY_TIME_OUTLINE COLOR</String>
+		<String>_HIGHLIGHT_TEXT COLOR</String>
+		<String>STANDBY_TIME COLOR</String>
+		<String>_TITLE_TEXT COLOR</String>
+		<String>POPUP_FRAME COLOR</String>
+		<String>_BACKGROUND COLOR</String>
+		<String>_HIGHLIGHT COLOR</String>
+		<String>ERICSSON_THEME</String>
+		<String>DESKTOP_TITLE_</String>
+		<String>_IMAGE SOURCE</String>
+		<String>XML VERSION</String>
+		<String>USTAR</String>
+		<String>.XML</String>
+	</GlobalStrings>
+</TrID>

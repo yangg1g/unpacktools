@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AirZip FileSECURE format (original only)</FileType>
+		<Ext>AZS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.airzip.com/FileSECURE.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>9</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>41</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D3415A53</Bytes>
+			<ASCII> . A Z S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

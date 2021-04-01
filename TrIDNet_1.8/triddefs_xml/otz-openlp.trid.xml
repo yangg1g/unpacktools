@@ -1,0 +1,67 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OpenLP Theme</FileType>
+		<Ext>OTZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://openlp.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>3</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>OUTLINE OUTLINECOLOR</String>
+		<String>SHADOW SHADOWCOLOR</String>
+		<String>BACKGROUND TYPE</String>
+		<String>HORIZONTALALIGN</String>
+		<String>LINE_ADJUSTMENT</String>
+		<String>LOCATION HEIGHT</String>
+		<String>SLIDETRANSITION</String>
+		<String>THEME VERSION</String>
+		<String>VERTICALALIGN</String>
+		<String>OUTLINESIZE</String>
+		<String>XML VERSION</String>
+		<String>SHADOWSIZE</String>
+		<String>FONT TYPE</String>
+		<String>ENCODING</String>
+		<String>FILENAME</String>
+		<String>OVERRIDE</String>
+		<String>DISPLAY</String>
+		<String>ITALICS</String>
+		<String>.XMLPK</String>
+		<String>000000</String>
+		<String>FFFFFF</String>
+		<String>FOOTER</String>
+		<String>FALSE</String>
+		<String>IMAGE</String>
+		<String>UTF-8</String>
+		<String>WIDTH</String>
+		<String>$3BR</String>
+		<String>JFIF</String>
+		<String>MAIN</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

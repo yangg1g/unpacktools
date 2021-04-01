@@ -1,0 +1,30 @@
+<TrID ver="1.16">
+    <Info>
+        <FileType>DER encoded X509 Certificate</FileType>
+        <Ext>DER</Ext>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>6</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>16</Day>
+        </Date>
+        <Time>
+            <Hour>19</Hour>
+            <Min>55</Min>
+            <Sec>07</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00.1</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>3082</Bytes>
+            <ASCII> 0</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

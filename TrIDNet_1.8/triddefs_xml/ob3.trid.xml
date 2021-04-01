@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ORTIM Zeit data</FileType>
+		<Ext>OB3</Ext>
+		<ExtraInfo>
+			<Rem>Processing, Evaluation and Management of Time Studies.</Rem>
+			<RefURL>http://www.ortim.de</RefURL>
+		</ExtraInfo>
+		<User>Scrapie</User>
+		<E-Mail>scrapie@pochta.ru</E-Mail>
+	</Info>
+	<General>
+		<FileNum>289</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>11</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>22</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4F5254494D2050524F205A5374756420</Bytes>
+			<ASCII> O R T I M   P R O   Z S t u d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>010C01</Bytes>
+			<Pos>18</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ORTIM PRO ZSTUD</String>
+	</GlobalStrings>
+</TrID>

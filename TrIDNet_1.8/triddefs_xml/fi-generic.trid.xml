@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>File Investigator data (generic)</FileType>
+		<Ext>FIB/FID/FIH/FIP/FIV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.robware.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>02</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>46696C6520496E76657374696761746F7220</Bytes>
+			<ASCII> F i l e   I n v e s t i g a t o r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

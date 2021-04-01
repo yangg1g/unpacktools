@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WinDev Component</FileType>
+		<Ext>WDK</Ext>
+		<ExtraInfo>
+			<Rem>WinDev is a RAD tool by PC Soft.</Rem>
+			<RefURL>http://www.windev.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>46</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>02</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>16</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504353001400000001000D000000</Bytes>
+			<ASCII> P C S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000C04</Bytes>
+			<Pos>16</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000061</Bytes>
+			<ASCII> . . . a</ASCII>
+			<Pos>21</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>*****WDL</String>
+	</GlobalStrings>
+</TrID>

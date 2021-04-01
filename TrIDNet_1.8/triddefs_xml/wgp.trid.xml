@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WingMan profile</FileType>
+		<Ext>WGP</Ext>
+		<ExtraInfo>
+			<Rem>Configuration file for WingMan line of programmable gaming input devices.</Rem>
+			<RefURL>http://www.wingmanteam.com/profiles/profiles_mouse.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>56</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B50726F66696C655D</Bytes>
+			<ASCII> [ P r o f i l e ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WFFMSETTINGS</String>
+		<String>EXECUTABLE</String>
+		<String>SIGNATURE</String>
+		<String>REVISION</String>
+		<String>WFFMMODE</String>
+		<String>APP PATH</String>
+		<String>PROFILE</String>
+		<String>COMMAND</String>
+		<String>OPTIONS</String>
+		<String>AUTHOR</String>
+		<String>DEVICE</String>
+		<String>FORMAT</String>
+		<String>TITLE</String>
+		<String>BRAND</String>
+		<String>DATE</String>
+	</GlobalStrings>
+</TrID>

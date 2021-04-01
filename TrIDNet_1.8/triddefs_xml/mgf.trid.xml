@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Monarch Graphic File</FileType>
+		<Ext>MGF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>15</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D4746</Bytes>
+			<ASCII> M G F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D6F6E6172636820477261706869632066696C652E200A20436F7079726967687420A920323030322D</Bytes>
+			<ASCII> M o n a r c h   G r a p h i c   f i l e .   .   C o p y r i g h t   .   2 0 0 2 -</ASCII>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D6F6E6172636820566964656F20566973696F6E</Bytes>
+			<ASCII> M o n a r c h   V i d e o   V i s i o n</ASCII>
+			<Pos>51</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

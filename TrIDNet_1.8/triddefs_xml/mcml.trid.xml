@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Media Center Markup Language</FileType>
+		<Ext>MCML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Windows_Media_Center</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>48</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C4D636D6C20786D6C6E73</Bytes>
+			<ASCII> . M c m l   x m l n s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>CONDITION SOURCE</String>
+		<String>ORIENTATION</String>
+		<String>SOURCEVALUE</String>
+		<String>FLOWLAYOUT</String>
+		<String>MCML XMLNS</String>
+		<String>PROPERTIES</String>
+		<String>.CONTENT</String>
+		<String>ASSEMBLY</String>
+		<String>MSCORLIB</String>
+		<String>ACTIONS</String>
+		<String>ER NAME</String>
+		<String>UI NAME</String>
+		<String>LOCALS</String>
+		<String>SYSTEM</String>
+		<String>T NAME</String>
+		<String>TARGET</String>
+		<String>COLOR</String>
+		<String>FOCUS</String>
+		<String>PANEL</String>
+		<String>RULES</String>
+		<String>HTTP</String>
+		<String>SIZE</String>
+	</GlobalStrings>
+</TrID>

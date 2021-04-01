@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft OneNote note</FileType>
+		<Ext>ONE</Ext>
+		<ExtraInfo>
+			<Rem>OneNote is a note-taking and management program.</Rem>
+			<RefURL>http://www.microsoft.com/office/onenote</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>30</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>E4525C7B8CD8A74DAEB15378D02996D3</Bytes>
+			<ASCII> . R \ { . . . M . . S x . )</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3FDD9A101B91F549</Bytes>
+			<ASCII> ? . . . . . . I</ASCII>
+			<Pos>48</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

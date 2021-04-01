@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MainActor project</FileType>
+		<Ext>MPF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mainconcept.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>07</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>20</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D41494E</Bytes>
+			<ASCII> M A I N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0E00009A0E0000</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>13</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A5C</Bytes>
+			<ASCII> : \</ASCII>
+			<Pos>17</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>IMPORTS</String>
+		<String>MAIN</String>
+		<String>VIDEO</String>
+	</GlobalStrings>
+</TrID>

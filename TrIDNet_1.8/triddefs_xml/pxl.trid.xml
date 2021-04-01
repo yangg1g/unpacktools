@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Pocket Excel sheet</FileType>
+		<Ext>PXL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pocketpc.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2004</Year>
+			<Month>03</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>25</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>09</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>01050042</Bytes>
+			<ASCII> . . . B</ASCII>
+			<Pos>2</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>048C</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>10</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>12</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

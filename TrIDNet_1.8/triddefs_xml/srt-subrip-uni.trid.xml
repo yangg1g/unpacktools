@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SubRip subtitles (Unicode)</FileType>
+		<Ext>SRT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Subrip</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>02</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE31000D</Bytes>
+			<ASCII> . . 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>30</Bytes>
+			<ASCII> 0</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2D</Bytes>
+			<ASCII> -</ASCII>
+			<Pos>34</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>0' '-'-</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,68 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Update Package</FileType>
+		<Ext>MSU</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>1</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>21</Min>
+			<Sec>2</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.78b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D53434600000000</Bytes>
+			<ASCII> M S C F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>M'I'C'R'O'S'O'F'T' 'C'O'R'P'O'R'A'T'I'O'N'.</String>
+		<String>$MICROSOFT ROOT CERTIFICATE AUTHORITY0</String>
+		<String>MICROSOFT TIME-STAMP SERVICE0</String>
+		<String>MICROSOFT CODE SIGNING PCA0</String>
+		<String>MICROSOFTTIMESTAMPPCA.CRL0X</String>
+		<String>MICROSOFTTIMESTAMPPCA.CRT0</String>
+		<String>MICROSOFT TIME-STAMP PCA0</String>
+		<String>MICROSOFTROOTCERT.CRL0T</String>
+		<String>MICROSOFT CORPORATION0</String>
+		<String>MICROSOFT CORPORATION1</String>
+		<String>MICROSOFTROOTCERT.CRT0</String>
+		<String>-PKGPROPERTIES.TXT</String>
+		<String>C'O'P'Y'R'I'G'H'T</String>
+		<String>CRL.MICROSOFT.COM</String>
+		<String>WWW.MICROSOFT.COM</String>
+		<String>210403130309Z0W1</String>
+		<String>NCIPHER DSE ESN</String>
+		<String>O'B'S'O'L'E'T'E</String>
+		<String>MICROSOFT.COM0</String>
+		<String>070403125309Z</String>
+		<String>MICROSOFT1-0+</String>
+		<String>W'I'N'D'O'W'S</String>
+		<String>WSUSSCAN.CAB</String>
+		<String>WASHINGTON1</String>
+		<String>WINDOWS6.</String>
+		<String>PRODUCTS</String>
+		<String>REDMOND1</String>
+		<String>CERTS</String>
+		<String>CHTTP</String>
+		<String>CODES</String>
+		<String>.XML</String>
+	</GlobalStrings>
+</TrID>

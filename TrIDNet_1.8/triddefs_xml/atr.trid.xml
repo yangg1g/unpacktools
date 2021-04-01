@@ -1,0 +1,37 @@
+<TrID ver="1.15">
+    <Info>
+        <FileType>Atari ATR Disk Image</FileType>
+        <Ext>ATR</Ext>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>18</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>10</Day>
+        </Date>
+        <Time>
+            <Hour>10</Hour>
+            <Min>41</Min>
+            <Sec>03</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>960280</Bytes>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>8000000000000000000000</Bytes>
+            <Pos>4</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>030007</Bytes>
+            <Pos>17</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

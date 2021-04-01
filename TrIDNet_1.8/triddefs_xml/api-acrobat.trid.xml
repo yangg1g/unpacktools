@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Adobe Acrobat Reader Plugin</FileType>
+		<Ext>API</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.adobe.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>07</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>33</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A2400000000000000</Bytes>
+			<ASCII> . . . . . . . . . . ! . . L . ! T h i s   p r o g r a m   c a n n o t   b e   r u n   i n   D O S   m o d e . . . . $</ASCII>
+			<Pos>62</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.DATA</String>
+		<String>.DLL</String>
+		<String>.RDATA</String>
+		<String>.RELOC</String>
+		<String>.RSRC</String>
+		<String>.TEXT</String>
+		<String>ACROSUPPORT</String>
+		<String>ACROVIEW</String>
+		<String>ALLOC</String>
+		<String>ASEXTRA</String>
+		<String>FREE</String>
+		<String>NWVS</String>
+		<String>PDMODEL'COS</String>
+		<String>PE''L</String>
+		<String>PLUGINMAIN</String>
+		<String>RICH</String>
+		<String>TERM</String>
+		<String>THIS PROGRAM CANNOT BE RUN IN DOS MODE.</String>
+		<String>U7WPS</String>
+	</GlobalStrings>
+</TrID>

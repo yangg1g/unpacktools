@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SIMPL Windows source</FileType>
+		<Ext>SMW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.crestron.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>63</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>06</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>59</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B0D0A56657273696F6E3D</Bytes>
+			<ASCII> [ . . V e r s i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A5D0D0A5B0D0A4F626A54703D4653676E74720D0A</Bytes>
+			<ASCII> . . ] . . [ . . O b j T p = F S g n t r</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CENTRAL CONTROL MODULES</String>
+		<String>NETWORK MODULES</String>
+		<String>DEFINEARGUMENTS</String>
+		<String>INTSTRVRS</String>
+		<String>ETHERNET</String>
+		<String>VERSION</String>
+		<String>FSGNTR</String>
+		<String>RELVRS</String>
+		<String>OBJTP</String>
+		<String>LOGIC</String>
+		<String>DBVR</String>
+		<String>CMN1</String>
+		<String>DVVR</String>
+		<String>PORT</String>
+		<String>SLND</String>
+		<String>SMVR</String>
+		<String>TPN1</String>
+		<String>S0ND</String>
+		<String>PRNM</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Pivot Style Template</FileType>
+		<Ext>ZIP</Ext>
+		<ExtraInfo>
+			<Rem>Pivot is a web-based tool to help maintain dynamic sites, like weblogs or online journals.</Rem>
+			<RefURL>http://www.pivotstyles.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>05</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>42</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ARCHIVEPAGE_TEMPLATE.HTML</String>
+		<String>_SUB_ENTRY_STANDARD.HTML</String>
+		<String>FRONTPAGE_TEMPLATE.HTML</String>
+		<String>ENTRYPAGE_TEMPLATE.HTML</String>
+		<String>README.TXT</String>
+		<String>PIVOT</String>
+		<String>.CSS</String>
+	</GlobalStrings>
+</TrID>

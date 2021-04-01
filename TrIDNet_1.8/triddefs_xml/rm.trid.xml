@@ -1,0 +1,43 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Real Media stream</FileType>
+        <Ext>RM</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.real.com</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home></Home>
+    </Info>
+    <General>
+        <FileNum>17</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </Date>
+        <Time>
+            <Hour>13</Hour>
+            <Min>15</Min>
+            <Sec>46</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.2b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>2E524D460000001200</Bytes>
+            <ASCII> . R M F</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00000000000000</Bytes>
+            <Pos>10</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>50524F5000000032000000</Bytes>
+            <ASCII> P R O P . . . 2</ASCII>
+            <Pos>18</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Open Financial Connectivity file</FileType>
+		<Ext>OFC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Open_Financial_Connectivity</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>01</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>37</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C4F46433E</Bytes>
+			<ASCII> . O F C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ACCTTYPE</String>
+		<String>DTPOSTED</String>
+		<String>ACCTFROM</String>
+		<String>ACCTSTMT</String>
+		<String>TRNTYPE</String>
+		<String>DTSTART</String>
+		<String>STMTTRN</String>
+		<String>ACCTID</String>
+		<String>TRNAMT</String>
+		<String>LEDGER</String>
+		<String>BANKID</String>
+		<String>STMTRS</String>
+		<String>FITID</String>
+		<String>DTEND</String>
+		<String>CPAGE</String>
+		<String>MEMO</String>
+	</GlobalStrings>
+</TrID>

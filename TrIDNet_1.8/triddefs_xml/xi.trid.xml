@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>eXtended Instrument (generic)</FileType>
+		<Ext>XI</Ext>
+		<ExtraInfo>
+			<Rem>Used by various audio trackers.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>08</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>04</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>457874656E64656420496E737472756D656E743A20</Bytes>
+			<ASCII> E x t e n d e d   I n s t r u m e n t :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>1A</Bytes>
+			<Pos>43</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>NetCaptor's CaptorGroup</FileType>
+		<Ext>CGP</Ext>
+		<ExtraInfo>
+			<Rem>NetCaptor is an alternative browser for Windows. CaptorGroups contain a list of links to web sites.</Rem>
+			<RefURL>http://www.netcaptor.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>04</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>48</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B436170746F7247726F75705D0D0A</Bytes>
+			<ASCII> [ C a p t o r G r o u p ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

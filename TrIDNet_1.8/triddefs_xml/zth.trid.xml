@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DivX Connected Theme</FileType>
+		<Ext>ZTH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://labs.divx.com/connected/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>59</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TEXTSOFTWARE'PAINT.NET V3.</String>
+		<String>CONN_LOGO.PNGPK</String>
+		<String>CONNECTED.CTHPK</String>
+		<String>SEL.PNGPK</String>
+		<String>CK.PNGPK</String>
+		<String>N.PNGPK</String>
+		<String>R.PNGPK</String>
+		<String>.JPGPK</String>
+		<String>FOLDER</String>
+		<String>IDATXG</String>
+		<String>ICONS</String>
+		<String>IEND</String>
+		<String>PHYS</String>
+		<String>GAMA</String>
+		<String>IHDR</String>
+	</GlobalStrings>
+</TrID>

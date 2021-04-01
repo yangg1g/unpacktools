@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mathcad document</FileType>
+		<Ext>MCD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mathcad.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Refine>8 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>56</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.8b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2E4D43</Bytes>
+			<ASCII> . M C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BlueJ Package</FileType>
+		<Ext>BLUEJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Bluej</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>10</Month>
+			<Day>9</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>52</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23426C75654A207061636B6167652066696C65</Bytes>
+			<ASCII> # B l u e J   p a c k a g e   f i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PACKAGE.NUMDEPENDENCIES</String>
+		<String>PACKAGE.EDITOR.HEIGHT</String>
+		<String>TARGET1.EDITOR.HEIGHT</String>
+		<String>TARGET1.SHOWINTERFACE</String>
+		<String>PACKAGE.EDITOR.WIDTH</String>
+		<String>TARGET1.EDITOR.WIDTH</String>
+		<String>PACKAGE.SHOWEXTENDS</String>
+		<String>.NAVIVIEW.EXPANDED</String>
+		<String>BLUEJ PACKAGE FILE</String>
+		<String>PACKAGE.NUMTARGETS</String>
+		<String>PACKAGE.EDITOR.X</String>
+		<String>PACKAGE.EDITOR.Y</String>
+		<String>PACKAGE.SHOWUSES</String>
+		<String>TARGET1.EDITOR.X</String>
+		<String>TARGET1.EDITOR.Y</String>
+		<String>TARGET1.HEIGHT</String>
+		<String>TARGET1.WIDTH</String>
+		<String>TARGET1.NAME</String>
+		<String>TARGET1.TYPE</String>
+		<String>CLASSTARGET</String>
+		<String>TARGET1.X</String>
+		<String>TARGET1.Y</String>
+		<String>FALSE</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

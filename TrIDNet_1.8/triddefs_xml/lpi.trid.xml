@@ -1,0 +1,74 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Lazarus Project Information</FileType>
+		<Ext>LPI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Lazarus_(IDE)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>9</Month>
+			<Day>5</Day>
+		</Date>
+		<Time>
+			<Hour>4</Hour>
+			<Min>5</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E30223F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>EXCLUDEFILEFILTER VALUE</String>
+		<String>INCLUDEFILEFILTER VALUE</String>
+		<String>ISPARTOFPROJECT VALUE</String>
+		<String>FORMATVERSION VALUE</String>
+		<String>COMPILERPATH VALUE</String>
+		<String>COMPILEROPTIONS</String>
+		<String>FILENAME VALUE</String>
+		<String>PRODUCTVERSION</String>
+		<String>PROJECTOPTIONS</String>
+		<String>PUBLISHOPTIONS</String>
+		<String>UNITNAME VALUE</String>
+		<String>$(COMPPATH)</String>
+		<String>STRINGTABLE</String>
+		<String>UNITS COUNT</String>
+		<String>VERSIONINFO</String>
+		<String>XML VERSION</String>
+		<String>RUNPARAMS</String>
+		<String>ES COUNT</String>
+		<String>ES VALUE</String>
+		<String>LE VALUE</String>
+		<String>RESOURCE</String>
+		<String>GENERAL</String>
+		<String>*.(BAK</String>
+		<String>*.(PAS</String>
+		<String>BACKUP</String>
+		<String>CONFIG</String>
+		<String>FALSE</String>
+		<String>ITEM1</String>
+		<String>ITEM2</String>
+		<String>LOCAL</String>
+		<String>OTHER</String>
+		<String>UNIT0</String>
+		<String>.PAS</String>
+		<String>AGES</String>
+		<String>TOOL</String>
+		<String>TRUE</String>
+		<String>XML)</String>
+	</GlobalStrings>
+</TrID>

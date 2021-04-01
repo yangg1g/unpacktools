@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Core Audio File</FileType>
+		<Ext>CAF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://developer.apple.com/audio/coreaudio.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2009</Year>
+			<Month>01</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>36</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>63616666</Bytes>
+			<ASCII> c a f f</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>64657363</Bytes>
+			<ASCII> d e s c</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

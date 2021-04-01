@@ -1,0 +1,77 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DRAKON Editor diagram</FileType>
+		<Ext>DRN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://drakon-editor.sourceforge.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>43</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>6</Month>
+			<Day>5</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>40</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53514C69746520666F726D61742033</Bytes>
+			<ASCII> S Q L i t e   f o r m a t   3</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CREATE INDEX ITEMS_PER_DIAGRAM ON ITEMS (DIAGRAM_ID)</String>
+		<String>INDEXSQLITE_AUTOINDEX_DIAGRAM_INFO_1DIAGRAM_INFO</String>
+		<String>INDEXSQLITE_AUTOINDEX_DIAGRAMS_1DIAGRAMS</String>
+		<String>INDEXSQLITE_AUTOINDEX_INFO_1INFO</String>
+		<String>CTABLEDIAGRAM_INFODIAGRAM_INFO</String>
+		<String>DIAGRAM_ID INTEGER PRIMARY KEY</String>
+		<String>UINDEXITEMS_PER_DIAGRAMITEMS</String>
+		<String>ITEM_ID INTEGER PRIMARY KEY</String>
+		<String>CREATE TABLE DIAGRAM_INFO</String>
+		<String>PRIMARY KEY (DIAGRAM_ID</String>
+		<String>ROW INTEGER PRIMARY KEY</String>
+		<String>CREATE TABLE DIAGRAMS</String>
+		<String>TABLEDIAGRAMSDIAGRAMS</String>
+		<String>KEY TEXT PRIMARY KEY</String>
+		<String>CURRENT_DIA INTEGER</String>
+		<String>CREATE TABLE ITEMS</String>
+		<String>CREATE TABLE STATE</String>
+		<String>AUX_VALUE INTEGER</String>
+		<String>CREATE TABLE INFO</String>
+		<String>DESCRIPTION TEXT</String>
+		<String>NAME TEXT UNIQUE</String>
+		<String>SELECTED INTEGER</String>
+		<String>SQLITE FORMAT 3</String>
+		<String>TABLEITEMSITEMS</String>
+		<String>TABLESTATESTATE</String>
+		<String>START_VERSION1</String>
+		<String>TABLEINFOINFO</String>
+		<String>ORIGIN TEXT</String>
+		<String>ZOOM DOUBLE</String>
+		<String>HORIZONTAL</String>
+		<String>TYPEDRAKON</String>
+		<String>VALUE TEXT</String>
+		<String>B INTEGER</String>
+		<String>H INTEGER</String>
+		<String>TEXT TEXT</String>
+		<String>TYPE TEXT</String>
+		<String>X INTEGER</String>
+		<String>Y INTEGER</String>
+		<String>VERTICAL</String>
+		<String>NAME)</String>
+	</GlobalStrings>
+</TrID>

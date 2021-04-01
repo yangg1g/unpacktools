@@ -1,0 +1,77 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Greeting Card Factory</FileType>
+		<Ext>FSN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.novadevelopment.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>07</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>38</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>44006F00630049006E0066006F</Bytes>
+			<ASCII> D . o . c . I . n . f . o</ASCII>
+			<Pos>1152</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>53007000720065006100640073</Bytes>
+			<ASCII> S . p . r . e . a . d . s</ASCII>
+			<Pos>1536</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5300700072006500610064</Bytes>
+			<ASCII> S . p . r . e . a . d</ASCII>
+			<Pos>1664</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43006F006C006F007500720073</Bytes>
+			<ASCII> C . o . l . o . u . r . s</ASCII>
+			<Pos>1792</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4200690074006D006100700073</Bytes>
+			<ASCII> B . i . t . m . a . p . s</ASCII>
+			<Pos>1920</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>WINDETRANSNONE</String>
+		<String>C'O'L'O'U'R'S</String>
+		<String>B'I'T'M'A'P'S</String>
+		<String>D'O'C'I'N'F'O</String>
+		<String>S'P'R'E'A'D'S</String>
+		<String>T'A'B'L'E'S</String>
+		<String>CREFCOLOUR</String>
+		<String>CDOCSTYLE</String>
+		<String>WINDEFILL</String>
+		<String>CLSNONE</String>
+		<String>CGUIDES</String>
+		<String>CSPREAD</String>
+		<String>CLAYER</String>
+		<String>GREE</String>
+	</GlobalStrings>
+</TrID>

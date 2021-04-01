@@ -1,0 +1,35 @@
+<TrID ver="1.18">
+	<Info>
+		<FileType>ScriptBasic compiled binary</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.scriptbasic.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>25</FileNum>
+		<Refine>19 by Marco Pontello</Refine>
+		<Date>
+			<Year>2003</Year>
+			<Month>11</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>42</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.23</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>344241531A010000000000000000000000000000001E000000397333335354414E4441524400</Bytes>
+			<ASCII> 4 B A S . . . . . . . . . . . . . . . . . . . . . 9 s 3 3 S T A N D A R D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

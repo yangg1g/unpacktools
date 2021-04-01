@@ -1,0 +1,70 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Swords of the Stars Ship</FileType>
+		<Ext>SHIPSECTION</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.swordofthestars.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>05</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7368697073656374696F6E</Bytes>
+			<ASCII> s h i p s e c t i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MIN_INCLINATION</String>
+		<String>MAX_INCLINATION</String>
+		<String>NETFORCELIMITS</String>
+		<String>SECTION_CLASS</String>
+		<String>FORCE_FORWARD</String>
+		<String>MODEL SPECIES</String>
+		<String>IND_PLYALLOY</String>
+		<String>TORQUE_PITCH</String>
+		<String>SECTION_TYPE</String>
+		<String>SECTION_NAME</String>
+		<String>SHIPSECTION</String>
+		<String>IND_REFCOAT</String>
+		<String>MIN_AZIMUTH</String>
+		<String>PREVIEW_OFS</String>
+		<String>TURRETCLASS</String>
+		<String>MAX_AZIMUTH</String>
+		<String>TORQUE_ROLL</String>
+		<String>FORCE_RIGHT</String>
+		<String>SOCKET_FORE</String>
+		<String>TURRETSIZE</String>
+		<String>SOCKET_AFT</String>
+		<String>TORQUE_YAW</String>
+		<String>FORCE_UP</String>
+		<String>SECTIONS</String>
+		<String>ROTSPEED</String>
+		<String>REQUIRES</String>
+		<String>CPOINTS</String>
+		<String>OPTION</String>
+		<String>HEALTH</String>
+		<String>MOUNT</String>
+		<String>COST</String>
+		<String>MASS</String>
+		<String>NODE</String>
+		<String>BANK</String>
+	</GlobalStrings>
+</TrID>

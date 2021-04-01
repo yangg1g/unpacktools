@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AMX Mod X plugin</FileType>
+		<Ext>AMXX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.amxmodx.org</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>01</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>48</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>58584D41</Bytes>
+			<ASCII> X X M A</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

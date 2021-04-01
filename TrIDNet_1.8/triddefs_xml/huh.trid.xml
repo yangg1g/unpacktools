@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HydroCAD Unit Hydrograph definitions</FileType>
+		<Ext>HUH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.hydrocad.net</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>19</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2F2F20487964726F43414420556E697420487964726F6772617068207461626C650D0A</Bytes>
+			<ASCII> / /   H y d r o C A D   U n i t   H y d r o g r a p h   t a b l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Maya Binary Scene</FileType>
+		<Ext>MB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.alias.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>44</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>3</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>15</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>464F5234</Bytes>
+			<ASCII> F O R 4</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>464F52340000</Bytes>
+			<ASCII> F O R 4</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4845414456455253</Bytes>
+			<ASCII> H E A D V E R S</ASCII>
+			<Pos>20</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5556455200000005756E6465660000004D41444500000005756E64656600000043484E47</Bytes>
+			<ASCII> U V E R . . . . u n d e f . . . M A D E . . . . u n d e f . . . C H N G</ASCII>
+			<Pos>36</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

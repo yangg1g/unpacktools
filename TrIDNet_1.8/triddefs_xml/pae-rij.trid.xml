@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PowerArchiver Rijndael Encrypted file</FileType>
+		<Ext>PAE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.powerarchiver.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>22</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52696A6E6461656C20456E637279707465642046696C652028506F776572417263686976657220</Bytes>
+			<ASCII> R i j n d a e l   E n c r y p t e d   F i l e   ( P o w e r A r c h i v e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

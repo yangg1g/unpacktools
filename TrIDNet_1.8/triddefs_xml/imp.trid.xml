@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Improv spreadsheet</FileType>
+		<Ext>IMP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Lotus_Improv</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>7</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>30</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00001200002001000300000000000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000002013025002900</Bytes>
+			<ASCII> . . . . 0 % . )</ASCII>
+			<Pos>17</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000200</Bytes>
+			<Pos>27</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00020000</Bytes>
+			<Pos>31</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>19001B001D001F002300260021002E002C002C002F00</Bytes>
+			<ASCII> . . . . . . . . # . . . ! . . . , . , . /</ASCII>
+			<Pos>37</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>$'''$'''H'''H'''''''''''D</String>
+		<String>IMPV2MODELPROPERTY'LOTUS</String>
+		<String>CATEGORY 'GROUP 'ITEM</String>
+		<String>IMPV2MODELTYPE</String>
+		<String>{C}PAGE {</String>
+		<String>{C}{M}</String>
+		<String>VIEW</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Fattz Announcement</FileType>
+		<Ext>FZA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.kencast.com/specs.html</RefURL>
+		</ExtraInfo>
+		<User>Mario "ViRtuAl FoX" Leone</User>
+		<E-Mail>mleone87@hotmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>04</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>48</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C46617A7A74416E6E6F756E63656D656E742076657273696F6E3D27312E30273E0D0A3C656E747279206E616D653D27456F6E5A4E6574776F726B5C</Bytes>
+			<ASCII> . F a z z t A n n o u n c e m e n t   v e r s i o n = ' 1 . 0 ' . . . . e n t r y   n a m e = ' E o n Z N e t w o r k \</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.SFV</String>
+		<String>DATA</String>
+		<String>DATE</String>
+		<String>DESTINATION</String>
+		<String>DIGEST</String>
+		<String>ENCRYPTION METHOD</String>
+		<String>ENTRY NAME</String>
+		<String>FAZZTANNOUNCEMENT VERSION</String>
+		<String>FILEFETCH</String>
+		<String>FZAINFO METHOD</String>
+		<String>GUID</String>
+		<String>LANGUAGE</String>
+		<String>PRIORITY</String>
+		<String>RECEIVE</String>
+		<String>RESOURCEID</String>
+		<String>SIZE</String>
+		<String>START</String>
+		<String>TIME</String>
+		<String>TIMING SYNCHRONISATION</String>
+		<String>TRANSPONDER</String>
+		<String>TWOFISH</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Garmin basemap</FileType>
+		<Ext>IMG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.garmin.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>45</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0000000000000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>44534B494D47</Bytes>
+			<ASCII> D S K I M G</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>024741524D494E0000</Bytes>
+			<ASCII> . G A R M I N</ASCII>
+			<Pos>64</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GARMIN LBL</String>
+		<String>GARMIN RGN</String>
+		<String>GARMIN TRE</String>
+		<String>DSKIMG</String>
+	</GlobalStrings>
+</TrID>

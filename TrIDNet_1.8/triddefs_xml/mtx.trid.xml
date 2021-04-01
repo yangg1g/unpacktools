@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Matrix spreadsheet</FileType>
+		<Ext>MTX</Ext>
+		<ExtraInfo>
+			<Rem>Matrix is a free spreadsheet for DOS.</Rem>
+			<RefURL>http://short.stop.home.att.net/freesoft/dbase.htm#matrix</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>02</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>33</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D61747269782073707265616473686565742076</Bytes>
+			<ASCII> M a t r i x   s p r e a d s h e e t   v</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>21</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0A</Bytes>
+			<Pos>23</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Blitz3d object</FileType>
+		<Ext>B3D</Ext>
+		<ExtraInfo>
+			<Rem>The Blitz3D file format specifies a format for storing texture, brush and entity descriptions for use with the Blitz3D programming language.</Rem>
+			<RefURL>http://www.blitzbasic.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>12</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>18</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>42423344</Bytes>
+			<ASCII> B B 3 D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

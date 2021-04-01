@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Symbian Application</FileType>
+		<Ext>APP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>06</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>38</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000010CE390010</Bytes>
+			<ASCII> . . . . 9</ASCII>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>10</Bytes>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>45504F4300200000</Bytes>
+			<ASCII> E P O C</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.DLL'EIKCORE</String>
+		<String>.DLL'FBSCLI</String>
+		<String>.DLL'EFSRV</String>
+		<String>.DLL'EUSER</String>
+		<String>.DLL'CONE</String>
+		<String>.DLL'EST</String>
+		<String>APPARC</String>
+		<String>IKCTL</String>
+		<String>EPOC</String>
+	</GlobalStrings>
+</TrID>

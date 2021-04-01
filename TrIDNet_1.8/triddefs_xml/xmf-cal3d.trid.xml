@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Cal3D Xml Mesh File</FileType>
+		<Ext>XMF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Cal3D</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>5</Month>
+			<Day>6</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>59</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MESH NUMSUBMESH</String>
+		<String>FACE VERTEXID</String>
+		<String>NUMINFLUENCES</String>
+		<String>HEADER MAGIC</String>
+		<String>INFLUENCE ID</String>
+		<String>NUMTEXCOORDS</String>
+		<String>NUMLODSTEPS</String>
+		<String>NUMVERTICES</String>
+		<String>NUMSPRINGS</String>
+		<String>MATERIAL</String>
+		<String>NUMFACES</String>
+		<String>VERSION</String>
+		<String>NORM</String>
+	</GlobalStrings>
+</TrID>

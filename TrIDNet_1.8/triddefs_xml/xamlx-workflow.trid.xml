@@ -1,0 +1,80 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Visual Studio Workflow service data</FileType>
+		<Ext>XAMLX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>58</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C576F726B666C6F7753657276696365206D633A49676E6F7261626C653D22736170</Bytes>
+			<ASCII> . . . . W o r k f l o w S e r v i c e   m c : I g n o r a b l e = " s a p</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VIRTUALIZEDCONTAINERSERVICE.HINTSIZE</String>
+		<String>WORKFLOWVIEWSTATESERVICE.VIEWSTATE</String>
+		<String>SCHEMAS.OPENXMLFORMATS.ORG</String>
+		<String>SYSTEM.COLLECTIONS.GENERIC</String>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>MARKUP-COMPATIBILITY</String>
+		<String>SERVICECONTRACTNAME</String>
+		<String>SYSTEM.SERVICEMODEL</String>
+		<String>WORKFLOWSERVICE MC</String>
+		<String>CONFIGURATIONNAME</String>
+		<String>SYSTEM.ACTIVITIES</String>
+		<String>CLR-NAMESPACE</String>
+		<String>OPERATIONNAME</String>
+		<String>TYPEARGUMENTS</String>
+		<String>DICTIONARY X</String>
+		<String>PRESENTATION</String>
+		<String>DISPLAYNAME</String>
+		<String>SYSTEM.CORE</String>
+		<String>SYSTEM.DATA</String>
+		<String>SYSTEM.LINQ</String>
+		<String>SYSTEM.TEXT</String>
+		<String>.VARIABLES</String>
+		<String>ISEXPANDED</String>
+		<String>NAMESPACES</String>
+		<String>REFERENCES</String>
+		<String>SYSTEM.XML</String>
+		<String>VARIABLE X</String>
+		<String>BOOLEAN X</String>
+		<String>IGNORABLE</String>
+		<String>ASSEMBLY</String>
+		<String>DEBUGGER</String>
+		<String>MSCORLIB</String>
+		<String>RECEIVE</String>
+		<String>OBJECT</String>
+		<String>STRING</String>
+		<String>BASIC</String>
+		<String>NCEID</String>
+		<String>NETFX</String>
+		<String>WINFX</String>
+		<String>XMLNS</String>
+		<String>EQUE</String>
+		<String>HTTP</String>
+		<String>XAML</String>
+	</GlobalStrings>
+</TrID>

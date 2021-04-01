@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Poseidon for UML Project information</FileType>
+		<Ext>PROJ</Ext>
+		<ExtraInfo>
+			<Rem>.PROJ along with .XMI files are contained in a .ZUML file</Rem>
+			<RefURL>http://www.gentleware.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>12</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>30</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E203D2022312E302220656E636F64696E67203D20227574662D3822203F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n   =   " 1 . 0 "   e n c o d i n g   =   " u t f - 8 "   ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCTYPE ARGO SYSTEM</String>
+		<String>JAVAPROFILE.XMI</String>
+		<String>DOCUMENTATION</String>
+		<String>MODIFIEDWITH</String>
+		<String>XML VERSION</String>
+		<String>DESCRIPTION</String>
+		<String>DEFAULT.XMI</String>
+		<String>GENTLEWARE</String>
+		<String>AUTHORNAME</String>
+		<String>SOURCEPATH</String>
+		<String>CLASSPATH</String>
+		<String>RESOURCES</String>
+		<String>POSEIDON</String>
+		<String>ENCODING</String>
+		<String>PROJ.DTD</String>
+		<String>LOCATION</String>
+		<String>UTF-8</String>
+	</GlobalStrings>
+</TrID>

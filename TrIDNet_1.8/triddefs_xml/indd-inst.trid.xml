@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Adobe InDesign printing instructions report</FileType>
+		<Ext>TXT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Adobe_InDesign</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>7</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>19</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>41444F424520494E44455349474E205052494E54494E4720494E535452554354494F4E5320464F5220534552564943452050524F5649444552205245504F5254</Bytes>
+			<ASCII> A D O B E   I N D E S I G N   P R I N T I N G   I N S T R U C T I O N S   F O R   S E R V I C E   P R O V I D E R   R E P O R T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

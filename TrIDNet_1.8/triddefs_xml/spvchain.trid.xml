@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Multibit Bitcoin blockchain</FileType>
+		<Ext>SPVCHAIN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>https://multibit.org</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>22</Min>
+			<Sec>9</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53505642</Bytes>
+			<ASCII> S P V B</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

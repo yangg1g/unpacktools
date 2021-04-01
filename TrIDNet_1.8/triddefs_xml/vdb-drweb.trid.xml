@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Dr.Web Anti-Virus Database</FileType>
+		<Ext>VDB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.wilders.org/anti_viruses.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>05</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>20</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>44722E57656220</Bytes>
+			<ASCII> D r . W e b</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>59</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VIRUS DATABASE</String>
+		<String>IDRW</String>
+	</GlobalStrings>
+</TrID>

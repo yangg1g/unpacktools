@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Evermore Software EIOffice document binder</FileType>
+		<Ext>EIO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.evermoresw.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>2 by Marco Pontello - 4 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>08</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>42</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00000FFFFFFFFFFF010045005600450052004D004F0052004500200053004F00460054005700410052004500200049004E0043002E</Bytes>
+			<ASCII> . . . . . . . . . . E . V . E . R . M . O . R . E .   . S . O . F . T . W . A . R . E .   . I . N . C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

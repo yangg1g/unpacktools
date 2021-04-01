@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OrCAD Library model</FileType>
+		<Ext>LIB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.orcad.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>58</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2A20505370696365204D6F64656C20456469746F72202D2056657273696F6E20</Bytes>
+			<ASCII> *   P S p i c e   M o d e l   E d i t o r   -   V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

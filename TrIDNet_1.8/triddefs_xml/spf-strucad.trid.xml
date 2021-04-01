@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>StruCad 3D model</FileType>
+		<Ext>SPF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.acecadsoftware.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>20</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3939390D0A</Bytes>
+			<ASCII> 9 9 9</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>6</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>STRUCADLIN</String>
+		<String>STRUCADDIM</String>
+		<String>STRUCADDTX</String>
+		<String>STRUCADECC</String>
+		<String>STRUCADEND</String>
+		<String>STRUCADGRD</String>
+		<String>STRUCADJNT</String>
+		<String>STRUCADLAB</String>
+		<String>STRUCADLDS</String>
+		<String>STRUCADTXT</String>
+		<String>STRUCADMEM</String>
+		<String>STRUCADMRK</String>
+		<String>STRUCADSTK</String>
+		<String>STRUCADWLD</String>
+		<String>STRUCADUSR</String>
+		<String>STRUCAD_</String>
+		<String>DIM_STR</String>
+		<String>TOTA</String>
+		<String>COAT</String>
+	</GlobalStrings>
+</TrID>

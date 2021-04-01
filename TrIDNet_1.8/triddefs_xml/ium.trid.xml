@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>infoUSA Network Meter file</FileType>
+		<Ext>IUM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.infousa.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>10</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2C20696E666F55534120496E632E0D0A1A</Bytes>
+			<ASCII> ,   i n f o U S A   I n c</ASCII>
+			<Pos>10</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4E6574776F726B204D657465722046696C652076</Bytes>
+			<ASCII> N e t w o r k   M e t e r   F i l e   v</ASCII>
+			<Pos>256</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NETWORK METER FILE V</String>
+		<String>INFOUSA INC.</String>
+	</GlobalStrings>
+</TrID>

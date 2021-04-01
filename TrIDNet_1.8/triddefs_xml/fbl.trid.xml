@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>iGO map</FileType>
+		<Ext>FBL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.navngo.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>04</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>02</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>F96D4A166FC578EE</Bytes>
+			<ASCII> . m J . o . x</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

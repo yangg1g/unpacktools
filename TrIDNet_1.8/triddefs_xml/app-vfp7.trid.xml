@@ -1,0 +1,29 @@
+<TrID ver="1.15">
+    <Info>
+        <FileType>Generated application MS Visual FoxPro 7</FileType>
+        <Ext>APP</Ext>
+        <User>Nicola Marangon</User>
+        <E-Mail>nicola.marangon@spamyourmother@myrealbox.com</E-Mail>
+        <Home>http://www.pentaonline.it/comitato_hq/index.html</Home>
+    </Info>
+    <General>
+        <FileNum>21</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>05</Month>
+            <Day>16</Day>
+        </Date>
+        <Time>
+            <Hour>17</Hour>
+            <Min>53</Min>
+            <Sec>41</Sec>
+        </Time>
+    <Creator>TrIDScan32 v0.51b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>FEF2</Bytes>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

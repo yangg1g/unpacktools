@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft C/C++ program database</FileType>
+		<Ext>NCB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>04</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>11</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D6963726F736F667420432F432B2B2070726F6772616D20646174616261736520</Bytes>
+			<ASCII> M i c r o s o f t   C / C + +   p r o g r a m   d a t a b a s e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>34</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A1A4A47</Bytes>
+			<ASCII> . . . J G</ASCII>
+			<Pos>37</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>C++ PROGRAM DATABASE</String>
+		<String>- WIN32 RELEASE</String>
+		<String>- WIN32 DEBUG</String>
+		<String>MICROSOFT C</String>
+		<String>MODULEINFO</String>
+		<String>TARGETINFO</String>
+		<String>NAMES</String>
+	</GlobalStrings>
+</TrID>

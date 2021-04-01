@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Wise script</FileType>
+		<Ext>WSE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.wise.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>49</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>446F63756D656E7420547970653A20575345</Bytes>
+			<ASCII> D o c u m e n t   T y p e :   W S E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BLOCK</String>
+		<String>VERSION</String>
+		<String>VALUE</String>
+		<String>TEXT</String>
+		<String>ITEM</String>
+		<String>DISK</String>
+		<String>PATH</String>
+		<String>FILE</String>
+	</GlobalStrings>
+</TrID>

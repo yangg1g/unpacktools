@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>STATISTICA Workbook</FileType>
+		<Ext>STW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.statsoft.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>6</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE1</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N'''''''''''''''''''''''''''(</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>STATISTICA</String>
+		<String>ARIAL</String>
+		<String>SHEET</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>QuickBMS script (with XML header)</FileType>
+		<Ext>BMS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://aluigi.altervista.org/quickbms.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>6</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C626D7320</Bytes>
+			<ASCII> . b m s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PLATFORMS</String>
+		<String>LONG</String>
+		<String>STRING</String>
+		<String>GAMES</String>
+		<String>GOTO</String>
+	</GlobalStrings>
+</TrID>

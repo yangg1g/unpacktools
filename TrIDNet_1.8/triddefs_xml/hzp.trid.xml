@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CrossStudio project</FileType>
+		<Ext>HZP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.rowley.co.uk/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>2</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>51</Min>
+			<Sec>9</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C21444F43545950452043726F737353747564696F5F50726F6A6563745F46696C653E0A3C736F6C7574696F6E20</Bytes>
+			<ASCII> . ! D O C T Y P E   C r o s s S t u d i o _ P r o j e c t _ F i l e . . . s o l u t i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCTYPE CROSSSTUDIO_PROJECT_FILE</String>
+		<String>C_PREPROCESSOR_DEFINITIONS</String>
+		<String>BUILD_DEBUG_INFORMATION</String>
+		<String>CONFIGURATION</String>
+		<String>SOLUTION</String>
+		<String>OPTIMIZ</String>
+		<String>RELEASE</String>
+		<String>VERSION</String>
+		<String>NDEBUG</String>
+		<String>_CODE</String>
+		<String>D_CO</String>
+		<String>NAME</String>
+		<String>PROP</String>
+	</GlobalStrings>
+</TrID>

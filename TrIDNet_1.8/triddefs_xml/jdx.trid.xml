@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>JCAMP Spectroscopic Data Exchange Format</FileType>
+		<Ext>JDX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mdli.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>20</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23235449544C453D</Bytes>
+			<ASCII> # # T I T L E =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FORM</String>
+	</GlobalStrings>
+</TrID>

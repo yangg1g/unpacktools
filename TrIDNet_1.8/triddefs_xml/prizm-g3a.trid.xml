@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Casio Prizm add-in</FileType>
+		<Ext>G3A</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://prizmwiki.omnimaga.org/wiki/Casio_Prizm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>12</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.81</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>AAACBDAF90889A8DD3FFFEFFFEFF</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Very Ordinary Raster file format bitmap</FileType>
+        <Ext>VORT</Ext>
+        <ExtraInfo>
+            <Rem>VORTFILE - A Very Ordinary raster file format library  for the Very Ordinary Rendering Tool Kit</Rem>
+            <RefURL>ftp://gondwana.ecr.mu.oz.au/pub/README.vort</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>2</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>26</Day>
+        </Date>
+        <Time>
+            <Hour>21</Hour>
+            <Min>13</Min>
+            <Sec>16</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>564F525430</Bytes>
+            <ASCII> V O R T 0</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

@@ -1,0 +1,30 @@
+<TrID ver="1.16">
+    <Info>
+        <FileType>Super NES music/audio data</FileType>
+        <Ext>SPC</Ext>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>223</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>18</Day>
+        </Date>
+        <Time>
+            <Hour>13</Hour>
+            <Min>22</Min>
+            <Sec>28</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00.1</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>534E45532D53504337303020536F756E642046696C6520446174612076</Bytes>
+            <ASCII> S N E S - S P C 7 0 0   S o u n d   F i l e   D a t a   v</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

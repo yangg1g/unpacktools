@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Starry Night Document</FileType>
+		<Ext>SNF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.starrynight.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>25</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>04</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>16</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C48544D4C3E</Bytes>
+			<ASCII> . H T M L</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>EQUATORIALGUIDES_</String>
+		<String>GALACTICGUIDES</String>
+		<String>ECLIPTICGUIDES</String>
+		<String>CONSTELLATIONS</String>
+		<String>ONSCREENINFO_</String>
+		<String>LOCALGUIDES_</String>
+		<String>STARRY NIGHT</String>
+		<String>SATELLITES_</String>
+		<String>ASTEROIDS_</String>
+		<String>SCROLLING</String>
+		<String>DOCUMENT.</String>
+		<String>PLANETS_</String>
+		<String>_VISIBLE</String>
+		<String>COMETS_</String>
+		<String>STARS_</String>
+	</GlobalStrings>
+</TrID>

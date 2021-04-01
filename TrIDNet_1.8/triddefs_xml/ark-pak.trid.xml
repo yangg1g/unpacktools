@@ -1,0 +1,37 @@
+<TrID ver="1.15">
+	<Info>
+		<FileType>PAK/ARC Compressed archive</FileType>
+		<Ext>PAK/ARC</Ext>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Date>
+			<Year>2003</Year>
+			<Month>6</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>22</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan v0.54b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1A</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>18</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>28</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XWinPlot layout</FileType>
+		<Ext>XWP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>1</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>6</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23215857696E506C6F7420</Bytes>
+			<ASCII> # ! X W i n P l o t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>12</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PRINTERSETUP</String>
+		<String>LAYOUTSETUP</String>
+		<String>DISPVERSION</String>
+		<String>OBJECTLIST</String>
+		<String>GRAPH</String>
+		<String>TITLE</String>
+		<String>SPEC</String>
+	</GlobalStrings>
+</TrID>

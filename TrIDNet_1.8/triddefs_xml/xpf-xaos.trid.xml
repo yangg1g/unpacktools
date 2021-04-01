@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XaoS Position File</FileType>
+		<Ext>XPF</Ext>
+		<ExtraInfo>
+			<Rem>XaoS is a fast interactive real-time fractal zoomer and morpher.</Rem>
+			<RefURL>http://xaos.sourceforge.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>12</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>19</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3B506F73</Bytes>
+			<ASCII> ; P o s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>REALTIME INTERACTIVE FRACTAL ZOOMER</String>
+		<String>USE XAOS -LOAD</String>
+		<String>TO DISPLAY IT</String>
+		<String>AUTOMATICALLY</String>
+		<String>(INITSTATE)</String>
+		<String>GENERATED</String>
+		<String>(FORMULA</String>
+		<String>FILENAME</String>
+		<String>(VIEW</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="1.15">
+    <Info>
+        <FileType>Pervasive Btrieve (generic)</FileType>
+        <Ext></Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Mike Luther</User>
+        <E-Mail></E-Mail>
+        <Home></Home>
+    </Info>
+    <General>
+        <FileNum>6</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>04</Day>
+        </Date>
+        <Time>
+            <Hour>19</Hour>
+            <Min>53</Min>
+            <Sec>36</Sec>
+        </Time>
+    <Creator>TrIDScD - TrIDScan/DOS v1.00.1b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>46430000</Bytes>
+            <ASCII> F C</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

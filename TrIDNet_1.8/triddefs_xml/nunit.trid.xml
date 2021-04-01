@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>NUnit project</FileType>
+		<Ext>NUNIT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.nunit.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>04</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>06</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C4E556E697450726F6A6563743E</Bytes>
+			<ASCII> . . . . N U n i t P r o j e c t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SETTINGS ACTIVECONFIG</String>
+		<String>ASSEMBLY PATH</String>
+		<String>NUNITPROJECT</String>
+		<String>BINPATHTYPE</String>
+		<String>CONFIG NAME</String>
+		<String>DEBUG</String>
+		<String>AUTO</String>
+		<String>.DLL</String>
+	</GlobalStrings>
+</TrID>

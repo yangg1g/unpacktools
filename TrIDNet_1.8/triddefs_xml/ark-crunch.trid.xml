@@ -1,0 +1,31 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Crunch compressed archive</FileType>
+		<ExtraInfo>
+			<Rem>Crunch is an old CP/M and DOS archiver.</Rem>
+		</ExtraInfo>
+		<User>Erik Siers</User>
+		<E-Mail>eriksiers-at-bmi-dot-net</E-Mail>
+		<Home>https://sourceforge.net/users/eriksiers</Home>
+	</Info>
+	<General>
+		<FileNum>0</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>10</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>11</Min>
+			<Sec>19</Sec>
+		</Time>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>76FE</Bytes>
+			<ASCII> v</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

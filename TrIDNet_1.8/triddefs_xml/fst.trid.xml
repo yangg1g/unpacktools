@@ -1,0 +1,229 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FAST input</FileType>
+		<Ext>FST</Ext>
+		<ExtraInfo>
+			<Rem>FAST is a tool for the analysis of large or even infinite systems.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>37</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>3</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>14</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D</Bytes>
+			<ASCII> - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>------- FAST INPUT FILE --------------------------------------------------------</String>
+		<String>---------------------- ADAMS ---------------------------------------------------</String>
+		<String>---------------------- AERODYN -------------------------------------------------</String>
+		<String>---------------------- BLADE ---------------------------------------------------</String>
+		<String>---------------------- DRIVETRAIN ----------------------------------------------</String>
+		<String>---------------------- ENVIRONMENTAL CONDITIONS --------------------------------</String>
+		<String>---------------------- FEATURE FLAGS -------------------------------------------</String>
+		<String>---------------------- FURLING -------------------------------------------------</String>
+		<String>---------------------- INITIAL CONDITIONS --------------------------------------</String>
+		<String>---------------------- LINEARIZATION CONTROL -----------------------------------</String>
+		<String>---------------------- MASS AND INERTIA ----------------------------------------</String>
+		<String>---------------------- NACELLE-YAW ---------------------------------------------</String>
+		<String>---------------------- NOISE ---------------------------------------------------</String>
+		<String>---------------------- OUTPUT --------------------------------------------------</String>
+		<String>---------------------- ROTOR-TEETER --------------------------------------------</String>
+		<String>---------------------- SIMPLE INDUCTION GENERATOR ------------------------------</String>
+		<String>---------------------- SIMULATION CONTROL --------------------------------------</String>
+		<String>---------------------- THEVENIN-EQUIVALENT INDUCTION GENERATOR -----------------</String>
+		<String>---------------------- TIP-BRAKE -----------------------------------------------</String>
+		<String>---------------------- TOWER ---------------------------------------------------</String>
+		<String>---------------------- TURBINE CONFIGURATION -----------------------------------</String>
+		<String>---------------------- TURBINE CONTROL -----------------------------------------</String>
+		<String>--------------------------------------------------------------------------------</String>
+		<String>END OF FAST INPUT FILE</String>
+		<String>TATIONAL ACCELERATION</String>
+		<String>TOP DISPLACEMENT</String>
+		<String>GENERATOR POWER</String>
+		<String>GENERATOR SPEED</String>
+		<String>TIP DEFLECTION</String>
+		<String>RING FORCE</String>
+		<String>ROTATIONAL</String>
+		<String>ADAMSFILE</String>
+		<String>ADAMSPREP</String>
+		<String>BLADE TIP</String>
+		<String>COMPNOISE</String>
+		<String>HSSBRMODE</String>
+		<String>NOISEFILE</String>
+		<String>PTFMMODEL</String>
+		<String>VS_RTGNSP</String>
+		<String>YAWBRMASS</String>
+		<String>ANALMODE</String>
+		<String>AZIMB1UP</String>
+		<String>BLDGAGND</String>
+		<String>COMPAERO</String>
+		<String>DTTORDMP</String>
+		<String>DTTORSPR</String>
+		<String>DYNBRKFI</String>
+		<String>FURLFILE</String>
+		<String>GBREVERS</String>
+		<String>GENERATE</String>
+		<String>GENMODEL</String>
+		<String>GENTISTP</String>
+		<String>GENTISTR</String>
+		<String>HSSBRTQF</String>
+		<String>NACYINER</String>
+		<String>NBLGAGES</String>
+		<String>NTWGAGES</String>
+		<String>OVERHANG</String>
+		<String>PLATFORM</String>
+		<String>PTFMFILE</String>
+		<String>ROTSPEED</String>
+		<String>SHFTGAGL</String>
+		<String>SHFTTILT</String>
+		<String>SIG_PORT</String>
+		<String>SIG_RTTQ</String>
+		<String>SIG_SLPC</String>
+		<String>SIG_SYSP</String>
+		<String>SPDGENON</String>
+		<String>SPECIFIC</String>
+		<String>STTSTIME</String>
+		<String>SUMPRINT</String>
+		<String>TABDELIM</String>
+		<String>TBDEPISP</String>
+		<String>TBDRCOND</String>
+		<String>TBDRCONN</String>
+		<String>TEC_FREQ</String>
+		<String>TEC_NPOL</String>
+		<String>TEC_RRES</String>
+		<String>TEC_SRES</String>
+		<String>TEETCDMP</String>
+		<String>TEETDEFL</String>
+		<String>TEETDMPP</String>
+		<String>TEETHSSP</String>
+		<String>TEETHSTP</String>
+		<String>TEETSSSP</String>
+		<String>TEETSSTP</String>
+		<String>THSSBRDP</String>
+		<String>TIDYNBRK</String>
+		<String>TIMGENOF</String>
+		<String>TIMGENON</String>
+		<String>TPITMANE</String>
+		<String>TPITMANS</String>
+		<String>TWFADOF1</String>
+		<String>TWFADOF2</String>
+		<String>TWR2SHFT</String>
+		<String>TWRGAGND</String>
+		<String>TWRNODES</String>
+		<String>TWSSDOF1</String>
+		<String>TWSSDOF2</String>
+		<String>TYAWMANE</String>
+		<String>TYAWMANS</String>
+		<String>UNDSLING</String>
+		<String>VSCONTRL</String>
+		<String>VS_RGN2K</String>
+		<String>AZIMUTH</String>
+		<String>BEARING</String>
+		<String>BENDING</String>
+		<String>BLDFILE</String>
+		<String>BLPITCH</String>
+		<String>DECFACT</String>
+		<String>DRTRDOF</String>
+		<String>ECTIONS</String>
+		<String>EDGEDOF</String>
+		<String>FLAPDOF</String>
+		<String>GBOXEFF</String>
+		<String>GBRATIO</String>
+		<String>GENINER</String>
+		<String>GRAVITY</String>
+		<String>HSSBRDT</String>
+		<String>HUBINER</String>
+		<String>HUBMASS</String>
+		<String>LINFILE</String>
+		<String>NACCMXN</String>
+		<String>NACCMYN</String>
+		<String>NACCMZN</String>
+		<String>NACMASS</String>
+		<String>NACYAWF</String>
+		<String>NCIMUXN</String>
+		<String>NCIMUYN</String>
+		<String>NCIMUZN</String>
+		<String>OOPDEFL</String>
+		<String>OUTLIST</String>
+		<String>PRECONE</String>
+		<String>PSPNELN</String>
+		<String>TEC_RLR</String>
+		<String>TEC_SLR</String>
+		<String>TEC_VLL</String>
+		<String>TEETDOF</String>
+		<String>TEETMOD</String>
+		<String>TIPMASS</String>
+		<String>TORSION</String>
+		<String>TOWERHT</String>
+		<String>TTDSPFA</String>
+		<String>TTDSPSS</String>
+		<String>TTPBRDP</String>
+		<String>TWRFILE</String>
+		<String>TWRRBHT</String>
+		<String>VS_RTTQ</String>
+		<String>VS_SLPC</String>
+		<String>YAWDAMP</String>
+		<String>YAWNEUT</String>
+		<String>ADFILE</String>
+		<String>DELTA3</String>
+		<String>E WITH</String>
+		<String>ER AND</String>
+		<String>ER FOR</String>
+		<String>FORCES</String>
+		<String>GENDOF</String>
+		<String>GENEFF</String>
+		<String>HUBRAD</String>
+		<String>IPDEFL</String>
+		<String>MOMENT</String>
+		<String>OUTFMT</String>
+		<String>PCMODE</String>
+		<String>PITCHF</String>
+		<String>TEC_MR</String>
+		<String>TIPRAD</String>
+		<String>TORQUE</String>
+		<String>TPBRDT</String>
+		<String>TSTART</String>
+		<String>YAW AN</String>
+		<String>YAWDOF</String>
+		<String>YAWSPR</String>
+		<String>YCMODE</String>
+		<String>FALSE</String>
+		<String>FIXED</String>
+		<String>HUBCM</String>
+		<String>NUMBL</String>
+		<String>RATED</String>
+		<String>SHAFT</String>
+		<String>TPCON</String>
+		<String>TYCON</String>
+		<String>.DAT</String>
+		<String>BASE</String>
+		<String>ECHO</String>
+		<String>ONLY</String>
+		<String>ONTA</String>
+		<String>OTTO</String>
+		<String>ROOT</String>
+		<String>TMAX</String>
+		<String>TRUE</String>
+		<String>WIND</String>
+	</GlobalStrings>
+</TrID>

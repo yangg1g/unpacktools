@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft DirectMusic Segments Type</FileType>
+		<Ext>SGT</Ext>
+		<ExtraInfo>
+			<Rem>SGT files are created with Microsoft DirectMusic Producer</Rem>
+			<RefURL>http://msdn.microsoft.com/workshop/author/behaviors/reference/time2/time_dmusic_ovw.asp?frame=true#directmusic_segments</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>2 by Marco Pontello - 1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>29</Min>
+			<Sec>54</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52494646</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>444D534773656768</Bytes>
+			<ASCII> D M S G s e g h</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DMBDGUID</String>
+		<String>DMBTLIST</String>
+		<String>DMSGSEGH</String>
+		<String>DMTKTRKH</String>
+		<String>LBDLLIST</String>
+		<String>LBILLIST</String>
+		<String>LBINBINS</String>
+		<String>UNFOUNAM</String>
+		<String>TRKLRIFF</String>
+		<String>LBNDBD</String>
+		<String>VERS</String>
+	</GlobalStrings>
+</TrID>

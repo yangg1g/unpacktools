@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ArtCAM relief</FileType>
+		<Ext>RLF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2014</Year>
+			<Month>2</Month>
+			<Day>7</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>40</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0D0A2020</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MAXIMUM HEIGHT RANGE WHICH CAN BE REPRESENTED IN THE RELIEF IS</String>
+		<String>VERTICAL RESOLUTION FOR POINTS IN THE RELIEF IS</String>
+		<String>MAXIMUM HEIGHT IN THE RELIEF IS</String>
+		<String>IN REAL UNITS THE RELIEF IS</String>
+		<String>POSITION OF THE RELIEF IS X</String>
+		<String>MINIMUM HEIGHT IS</String>
+		<String>PIXELS WIDE BY</String>
+		<String>.00MM WIDE BY</String>
+		<String>PIXELS HIGH</String>
+		<String>RELIEF FILE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Valve Studio Model Data</FileType>
+		<Ext>SMD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://developer.valvesoftware.com/wiki/Studiomdl</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>5</Month>
+			<Day>7</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>14</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>76657273696F6E20310D0A6E6F6465730D0A</Bytes>
+			<ASCII> v e r s i o n   1 . . n o d e s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SKELETON</String>
+		<String>VERSION</String>
+		<String>NODES</String>
+		<String>TIME</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EmEditor Syntax file</FileType>
+		<Ext>ESY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.emeditor.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>57</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3B00200045006D0045006400690074006F0072002000530079006E007400610078002000460069006C0065000D000A</Bytes>
+			<ASCII> . . ; .   . E . m . E . d . i . t . o . r .   . S . y . n . t . a . x .   . F . i . l . e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,205 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Adobe Premiere Title</FileType>
+		<Ext>PRTL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Adobe_Premiere_Pro</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>12</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3C003F0078006D006C002000760065007200730069006F006E003D00220031002E0030002200200065006E0063006F00640069006E0067003D0022005500540046002D0031003600220020003F003E003C00410064006F00620065005F0052006F006F0074003E003C00410064006F00620065005F005400690074006C0065003E003C00</Bytes>
+			<ASCII> . . . . ? . x . m . l .   . v . e . r . s . i . o . n . = . " . 1 . . . 0 . " .   . e . n . c . o . d . i . n . g . = . " . U . T . F . - . 1 . 6 . " .   . ? . . . . . A . d . o . b . e . _ . R . o . o . t . . . . . A . d . o . b . e . _ . T . i . t . l . e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>T'E'X'T'D'E'S'C'R'I'P'T'I'O'N' 'R'E'F'E'R'E'N'C'E</String>
+		<String>I'N'S'C'R'I'B'E'R'L'A'Y'O'U'T'S' 'V'E'R'S'I'O'N</String>
+		<String>I'S'E'X'T'E'N'D'E'D'S'H'A'D'O'W'F'R'A'G'M'E'N'T</String>
+		<String>L'A'Y'O'U'T'E'F'F'E'C'T'I'N'F'O' 'V'E'R'S'I'O'N</String>
+		<String>T'E'X'T'D'E'S'C'R'I'P'T'I'O'N'S' 'V'E'R'S'I'O'N</String>
+		<String>L'A'Y'O'U'T'D'I'M'E'N'S'I'O'N' 'V'E'R'S'I'O'N</String>
+		<String>S'H'A'D'E'R'R'E'F' 'P'A'I'N'T'E'R'N'U'M'B'E'R</String>
+		<String>B'A'S'E'P'R'O'P'E'R'T'I'E'S' 'V'E'R'S'I'O'N</String>
+		<String>D'E'F'A'U'L'T'T'E'X'T'D'E'S'C'R'I'P'T'I'O'N</String>
+		<String>P'L'A'C'E'H'O'L'D'E'R'S'H'A'D'E'R'I'N'D'E'X</String>
+		<String>E'M'B'E'L'L'I'S'H'M'E'N'T'S'I'Z'E'R'U'L'E</String>
+		<String>F'I'L'E'R'E'F'E'R'E'N'C'E' 'V'E'R'S'I'O'N</String>
+		<String>G'R'A'P'H'I'C'O'B'J'E'C'T'D'E'F'A'U'L'T'S</String>
+		<String>C'L'I'P'P'E'D'C'O'R'N'E'R'F'I'L'L'E'T'S</String>
+		<String>F'R'A'G'M'E'N'T'L'I'S'T' 'V'E'R'S'I'O'N</String>
+		<String>E'N'C'L'O'S'I'N'G'O'B'J'E'C'T'T'Y'P'E</String>
+		<String>B'A'C'K'G'R'O'U'N'D' 'V'E'R'S'I'O'N</String>
+		<String>I'M'P'L'I'C'I'T'T'A'B'S'P'A'C'I'N'G</String>
+		<String>R'O'U'N'D'C'O'R'N'E'R'F'I'L'L'E'T'S</String>
+		<String>S'H'A'D'E'R'L'I'S'T' 'V'E'R'S'I'O'N</String>
+		<String>P'O'S'I'T'I'O'N'D'O'M'I'N'A'N'C'E</String>
+		<String>S'T'Y'L'E'B'A'S'E' 'V'E'R'S'I'O'N</String>
+		<String>T'E'X'T'C'H'A'I'N'D'E'F'A'U'L'T'S</String>
+		<String>T'E'X'T'U'R'E'A'L'P'H'A'V'S'K'E'Y</String>
+		<String>B'A'S'E'L'I'N'E'S'H'I'F'T'I'N'G</String>
+		<String>F'I'F'O'N'T'F'A'M'I'L'Y'N'A'M'E</String>
+		<String>L'A'Y'O'U'T'A'T'T'R'I'B'U'T'E'S</String>
+		<String>T'E'X'T'L'I'N'E' 'V'E'R'S'I'O'N</String>
+		<String>C'O'L'O'R'S'P'E'C' 'I'N'D'E'X</String>
+		<String>I'M'P'L'I'C'I'T'T'A'B'T'Y'P'E</String>
+		<String>I'N'V'E'R'T'C'O'M'P'O'S'I'T'E</String>
+		<String>M'O'T'I'O'N'_'S'E'T'T'I'N'G'S</String>
+		<String>P'A'I'N'T'E'R'R'A'M'P'T'Y'P'E</String>
+		<String>S'H'A'D'E'R'R'E'F'E'R'E'N'C'E</String>
+		<String>S'H'A'D'O'W'_'S'O'F'T'N'E'S'S</String>
+		<String>S'T'A'R'T'_'O'N'_'S'C'R'E'E'N</String>
+		<String>T'E'X'T'U'R'E' 'V'E'R'S'I'O'N</String>
+		<String>B'E'V'E'L'D'I'R'E'C'T'I'O'N</String>
+		<String>E'N'D'_'O'F'F'_'S'C'R'E'E'N</String>
+		<String>J'O'I'N'T'Y'P'E'C'L'O'S'E'D</String>
+		<String>O'B'J'E'C'T'I'D' 'V'A'L'U'E</String>
+		<String>R'A'M'P'A'L'P'H'A'V'S'K'E'Y</String>
+		<String>S'A'F'E'A'C'T'I'O'N'A'R'E'A</String>
+		<String>S'H'A'D'E'R' 'V'E'R'S'I'O'N</String>
+		<String>T'E'X'T'U'R'E'N'A'M'E'R'E'F</String>
+		<String>A'L'I'G'N'X'S'U'B'R'U'L'E</String>
+		<String>A'L'I'G'N'Y'S'U'B'R'U'L'E</String>
+		<String>C'H'A'I'N'P'R'O'P'E'R'T'Y</String>
+		<String>C'O'M'P'O'S'I'T'E'R'U'L'E</String>
+		<String>E'F'R'A'G'M'E'N'T'T'Y'P'E</String>
+		<String>G'R'O'U'P' 'G'R'O'U'P'I'D</String>
+		<String>R'A'M'P'P'O'S'B'O'T'T'O'M</String>
+		<String>S'A'F'E'T'I'T'L'E'A'R'E'A</String>
+		<String>T'E'X'T'U'R'E'X'D'E'L'T'A</String>
+		<String>T'E'X'T'U'R'E'Y'D'E'L'T'A</String>
+		<String>T'X'P'O'S'T'K'E'R'N'I'N'G</String>
+		<String>B'E'V'E'L'B'A'L'A'N'C'E</String>
+		<String>B'E'V'E'L'S'H'I'N'I'N'G</String>
+		<String>C'L'A'S'S'I'C'S'T'Y'L'E</String>
+		<String>D'E'F'A'U'L'T'S'T'Y'L'E</String>
+		<String>F'A'C'E'D'I'S'T'O'R'T'X</String>
+		<String>F'A'C'E'D'I'S'T'O'R'T'Y</String>
+		<String>J'O'I'N'T'Y'P'E'O'P'E'N</String>
+		<String>L'I'N'E'G'R'A'D'I'E'N'T</String>
+		<String>L'O'C'K'E'D'L'I'N'E'S'X</String>
+		<String>L'O'C'K'E'D'L'I'N'E'S'Y</String>
+		<String>T'A'B'M'O'D'E'S'T'Y'L'E</String>
+		<String>V'E'R'T'I'C'A'L'T'E'X'T</String>
+		<String>A'D'O'B'E'_'T'I'T'L'E</String>
+		<String>A'U'T'O'R'E'F'L'E'C'T</String>
+		<String>B'L'O'C'K'N'O'R'M'A'L</String>
+		<String>C'L'A'S'S'I'C'T'I'N'T</String>
+		<String>C'O'L'O'R'O'P'T'I'O'N</String>
+		<String>F'I'F'O'N'T'S'T'Y'L'E</String>
+		<String>F'R'A'G'M'E'N'T'O'F'F</String>
+		<String>G'L'I'N'T'O'F'F'S'E'T</String>
+		<String>M'E'R'G'E'G'R'O'U'P'S</String>
+		<String>P'E'R'S'O'N'A'L'I'T'Y</String>
+		<String>T'X'U'N'D'E'R'L'I'N'E</String>
+		<String>X'M'L' 'V'E'R'S'I'O'N</String>
+		<String>4'2'9'4'9'6'7'2'9'5</String>
+		<String>A'D'O'B'E'_'R'O'O'T</String>
+		<String>A'L'I'G'N'X'R'U'L'E</String>
+		<String>A'L'I'G'N'Y'R'U'L'E</String>
+		<String>A'L'P'H'A'S'C'A'L'E</String>
+		<String>A'N'N'O'T'A'T'I'O'N</String>
+		<String>A'U'T'O'R'O'T'A'T'E</String>
+		<String>B'E'V'E'L'A'N'G'L'E</String>
+		<String>B'E'V'E'L'L'I'G'H'T</String>
+		<String>B'E'V'E'L'M'E'R'G'E</String>
+		<String>B'E'V'E'L'S'H'A'P'E</String>
+		<String>B'O'X'C'A'N'G'R'O'W</String>
+		<String>C'R'E'F'E'R'E'N'C'E</String>
+		<String>E'F'F'E'C'T'T'Y'P'E</String>
+		<String>E'N'D'C'A'P'T'Y'P'E</String>
+		<String>F'I'F'O'N'T'T'Y'P'E</String>
+		<String>F'I'F'U'L'L'N'A'M'E</String>
+		<String>F'I'L'E'S'T'R'I'N'G</String>
+		<String>G'L'I'N'T'A'N'G'L'E</String>
+		<String>M'I'T'E'R'L'I'M'I'T</String>
+		<String>P'A'I'N'T'E'R'M'I'X</String>
+		<String>R'A'M'P'P'O'S'T'O'P</String>
+		<String>S'C'A'L'E'X'R'U'L'E</String>
+		<String>S'C'A'L'E'Y'R'U'L'E</String>
+		<String>T'E'X'T'U'R'E'M'I'X</String>
+		<String>T'E'X'T'U'R'E'R'E'F</String>
+		<String>A'L'I'G'N'M'E'N'T</String>
+		<String>B'E'V'E'L'P'I'P'E</String>
+		<String>B'E'V'E'L'S'I'Z'E</String>
+		<String>B'O'X'N'O'R'M'A'L</String>
+		<String>G'L'I'N'T'S'I'Z'E</String>
+		<String>L'I'N'E'W'I'D'T'H</String>
+		<String>P'O'S'T'_'R'O'L'L</String>
+		<String>P'S'C'R'E'E'N'A'R</String>
+		<String>P'U'N'C'H'T'H'R'U</String>
+		<String>R'A'M'P'A'N'G'L'E</String>
+		<String>R'A'M'P'C'Y'C'L'E</String>
+		<String>T'E'X'T'U'R'E'O'N</String>
+		<String>T'X'K'E'R'N'I'N'G</String>
+		<String>T'X'S'C'A'P'S'O'N</String>
+		<String>D'R'A'W'P'A'G'E</String>
+		<String>E'A'S'E'_'O'U'T</String>
+		<String>E'N'C'O'D'I'N'G</String>
+		<String>F'I'I'T'A'L'I'C</String>
+		<String>P'R'E'_'R'O'L'L</String>
+		<String>P'X'P'I'X'E'L'S</String>
+		<String>S'H'A'D'E'R'O'N</String>
+		<String>S'T'Y'L'E' 'I'D</String>
+		<String>S'T'Y'L'E'R'E'F</String>
+		<String>T'E'X'T'P'A'G'E</String>
+		<String>T'E'X'T'U'R'E'S</String>
+		<String>T'R'S'T'R'I'N'G</String>
+		<String>T'X'H'E'I'G'H'T</String>
+		<String>T'Y'P'E'S'P'E'C</String>
+		<String>W'O'R'D'W'R'A'P</String>
+		<String>E'A'S'E'_'I'N</String>
+		<String>L'E'A'D'I'N'G</String>
+		<String>O'P'A'C'I'T'Y</String>
+		<String>P'Y'L'I'N'E'S</String>
+		<String>S'E'C'L'A'S'S</String>
+		<String>S'H'A'D'E'R'S</String>
+		<String>S'H'E'E'N'O'N</String>
+		<String>T'A'B'L'I'S'T</String>
+		<String>T'X'S'L'A'N'T</String>
+		<String>T'X'W'I'D'T'H</String>
+		<String>F'I'B'O'L'D</String>
+		<String>L'A'Y'E'R'S</String>
+		<String>L'I'N'K'E'D</String>
+		<String>S'E'C'O'D'E</String>
+		<String>S'P'L'I'N'E</String>
+		<String>S'Q'U'A'R'E</String>
+		<String>S'T'Y'L'E'S</String>
+		<String>T'X'B'A'S'E</String>
+		<String>U'T'F'-'1'6</String>
+		<String>B'A'S'I'C</String>
+		<String>F'A'L'S'E</String>
+		<String>G'H'O'S'T</String>
+		<String>G'R'E'E'N</String>
+		<String>L'O'G'O'S</String>
+		<String>R'I'G'H'T</String>
+		<String>T'I'L'E'X</String>
+		<String>T'I'L'E'Y</String>
+		<String>T'R'U'E</String>
+		<String>W'I'N'D</String>
+		<String>X'P'A'R</String>
+		<String>I'E'R</String>
+		<String>R'E'D</String>
+		<String>V'L'S</String>
+	</GlobalStrings>
+</TrID>

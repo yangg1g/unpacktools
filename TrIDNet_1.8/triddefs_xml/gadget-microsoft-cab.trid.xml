@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Vista Sidebar Gadget (CAB - Obsolete)</FileType>
+		<Ext>GADGET</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://microsoftgadgets.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>48</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D534346</Bytes>
+			<ASCII> M S C F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>O'B'S'O'L'E'T'E</String>
+		<String>SETTINGS.HTML</String>
+		<String>GADGET.XML</String>
+		<String>ICON.PNG</String>
+		<String>IMAGES</String>
+		<String>.PNG'</String>
+		<String>HTTP</String>
+		<String>SIGN</String>
+	</GlobalStrings>
+</TrID>

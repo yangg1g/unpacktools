@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RollerCoaster Tycoon 2 scenario</FileType>
+		<Ext>SC6</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/RollerCoaster_Tycoon</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>2</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>35</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>03200000000200000083A62000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>88600000000000000000000000000000000000000000000398010000FF</Bytes>
+			<ASCII> . `</ASCII>
+			<Pos>14</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00FF4FDC84A6A2A82C62010410FC74595403102D0000</Bytes>
+			<ASCII> . . O . . . . . , b . . . . t Y T . . -</ASCII>
+			<Pos>433</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FFFFFFFFFFFFFFFFFF</Bytes>
+			<Pos>2039</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

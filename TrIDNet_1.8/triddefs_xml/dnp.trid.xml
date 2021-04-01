@@ -1,0 +1,45 @@
+<TrID ver="1.15">
+    <Info>
+        <FileType>NeatImage 2.2 Free Ed. Profile File</FileType>
+        <Ext>DNP</Ext>
+        <User>Roberto 'rbnet' Bolli</User>
+        <E-Mail>infoNOSPAM@NOSPAMrbnet.it</E-Mail>
+        <Home>http://www.rbnet.it/</Home>
+    </Info>
+    <General>
+        <FileNum>11</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>01</Day>
+        </Date>
+        <Time>
+            <Hour>23</Hour>
+            <Min>51</Min>
+            <Sec>27</Sec>
+        </Time>
+        <Creator>TrIDScan32 v0.54.4b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>323072008CA3</Bytes>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00000000000001</Bytes>
+            <Pos>8</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000</Bytes>
+            <Pos>1650</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000</Bytes>
+            <Pos>1654</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000</Bytes>
+            <Pos>1658</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

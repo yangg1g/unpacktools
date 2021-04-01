@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ChiWriter low resolution screen font.</FileType>
+		<Ext>CFT</Ext>
+		<ExtraInfo>
+			<Rem>ChiWriter is a scientific multifont word processor.</Rem>
+			<RefURL>http://www.xs4all.nl/~jvde/prof/v4pack.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>01</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>25</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>11</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>13</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00080C0008000000000000000000</Bytes>
+			<Pos>18</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.CFT</String>
+	</GlobalStrings>
+</TrID>

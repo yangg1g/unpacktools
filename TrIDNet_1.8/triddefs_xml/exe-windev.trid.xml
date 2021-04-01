@@ -1,0 +1,102 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Win32 Executable WINDEV (generic)</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem>WINDEV is a RAD tool for Windows by PC SOFT.</Rem>
+			<RefURL>http://www.windev.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>48</FileNum>
+		<Refine>20 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>01</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A2400000000000000</Bytes>
+			<ASCII> . . . . . . . . . . . ! . . L . ! T h i s   p r o g r a m   c a n n o t   b e   r u n   i n   D O S   m o d e . . . . $</ASCII>
+			<Pos>61</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>YY''PM''AM''DECEMBER''''NOVEMBER''''OCTOBER'SEPTEMBER'''AUGUST''JULY''''JUNE''''APRIL'''MARCH'''FEBRUARY''''JANUARY'DEC'NOV'OCT'SEP'AUG'JUL'JUN'MAY'APR'MAR'FEB'JAN'SATURDAY''''FRIDAY''THURSDAY''''WEDNESDAY'''TUESDAY'MONDAY''SUNDAY''SAT'FRI'THU'WED'TUE'MON'SUN</String>
+		<String>GAISPROCESSORFEATUREPRESENT'''KERNEL32''''E+000'''__GLOBAL_HEAP_SELECTED''__MSVCRT_HEAP_SELECT</String>
+		<String>CHECK WHETHER DLLS USED TO OPERATE THE EXECUTABLE CAN BE ACCESSED BY PATH.''''WD</String>
+		<String>BAD INFORMATION ON EXTERNAL LIBRARIES.''INFOEXE'CETTE APPLICATION NE PEUT PAS</String>
+		<String>USER32.DLL'Y''''GDI32.DLL'''''''SHELL32.DLL'''''MPR.DLL'''''''''ADVAPI32.DLL</String>
+		<String>WDUPDATE VERSION IS NOT COMPATIBLE WITH THIS APPLICATION</String>
+		<String>INITIALIZECRITICALSECTION'U'DELETECRITICALSECTION</String>
+		<String>L'E'G'A'L'C'O'P'Y'R'I'G'H'T'''C'O'P'Y'R'I'G'H'T</String>
+		<String>- NOT ENOUGH SPACE FOR LOWIO INITIALIZATION</String>
+		<String>- NOT ENOUGH SPACE FOR STDIO INITIALIZATION</String>
+		<String>C'O'M'P'A'N'Y'N'A'M'E'''''P'C' 'S'O'F'T</String>
+		<String>MICROSOFT VISUAL C++ RUNTIME LIBRARY</String>
+		<String>- NOT ENOUGH SPACE FOR THREAD DATA</String>
+		<String>- NOT ENOUGH SPACE FOR ENVIRONMENT</String>
+		<String>- NOT ENOUGH SPACE FOR ARGUMENTS</String>
+		<String>- NOT ENOUGH SPACE FOR _ONEXIT</String>
+		<String>OPERATING SYSTEM ERROR MESSAGE</String>
+		<String>INITIALISATION DE LA DLL WD</String>
+		<String>S'T'R'I'N'G'F'I'L'E'I'N'F'O</String>
+		<String>FAILURE INITIALIZING WD</String>
+		<String>VM.DLL''LE FICHIER EX</String>
+		<String>V'A'R'F'I'L'E'I'N'F'O</String>
+		<String>PROGRAM NAME UNKNOWN</String>
+		<String>APPLICATION RUNNING</String>
+		<String>PCLQUERYIMGFACTORY</String>
+		<String>W'D'V'E'R'S'I'O'N</String>
+		<String>UNABLE TO FIND WD</String>
+		<String>WINDEVOBJECT</String>
+		<String>LOCKRESOURCE</String>
+		<String>VM.DLL DLL.</String>
+		<String>WD553HF.DLL</String>
+		<String>WD553DB.DLL</String>
+		<String>IMPOSSIBLE</String>
+		<String>ETAT.DLL</String>
+		<String>HTML.DLL</String>
+		<String>SOFTWARE</String>
+		<String>OLDB.DLL</String>
+		<String>(EMPTY)</String>
+		<String>TRS.DLL</String>
+		<String>GPU.DLL</String>
+		<String>GRF.DLL</String>
+		<String>TROUVER</String>
+		<String>AGT.DLL</String>
+		<String>COM.DLL</String>
+		<String>CPL.DLL</String>
+		<String>VM.DLL.</String>
+		<String>OLE.DLL</String>
+		<String>PLM.DLL</String>
+		<String>PRN.DLL</String>
+		<String>RPL.DLL</String>
+		<String>RTF.DLL</String>
+		<String>SQL.DLL</String>
+		<String>STD.DLL</String>
+		<String>JAV.DLL</String>
+		<String>XML.DLL</String>
+		<String>MEM.DLL</String>
+		<String>MAT.DLL</String>
+		<String>OBJ.DLL</String>
+		<String>COMMON</String>
+	</GlobalStrings>
+</TrID>

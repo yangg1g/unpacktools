@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Visual Studio Solution v9.00</FileType>
+		<Ext>SLN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://msdn.microsoft.com/vstudio/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>42</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D6963726F736F66742056697375616C2053747564696F20536F6C7574696F6E2046696C652C20466F726D61742056657273696F6E20392E3030</Bytes>
+			<ASCII> M i c r o s o f t   V i s u a l   S t u d i o   S o l u t i o n   F i l e ,   F o r m a t   V e r s i o n   9 . 0 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,143 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Apple Lossless Audio Codec</FileType>
+		<Ext>M4A</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.apple.com/itunes</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>05</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>15</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00000020667479704D344120000000004D3441206D70343269736F6D000000000000</Bytes>
+			<ASCII> . . .   f t y p M 4 A   . . . . M 4 A   m p 4 2 i s o m</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D6F6F760000006C6D76686400000000BCB5</Bytes>
+			<ASCII> m o o v . . . l m v h d</ASCII>
+			<Pos>36</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>BCB5</Bytes>
+			<Pos>56</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000002580000</Bytes>
+			<ASCII> . . . X</ASCII>
+			<Pos>60</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00010000010000000000000000000000000100000000000000000000000000000001000000000000000000000000000040000000000000000000000000000000000000000000000000000000000000020000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . @</ASCII>
+			<Pos>68</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7472616B0000005C746B686400000007BCB5</Bytes>
+			<ASCII> t r a k . . . \ t k h d</ASCII>
+			<Pos>152</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>BCB5</Bytes>
+			<Pos>172</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000001000000000000</Bytes>
+			<Pos>176</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000100000000010000000000000000000000000000000100000000000000000000000000004000000000000000000000000000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . @</ASCII>
+			<Pos>188</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D646961000000206D64686400000000BCB5</Bytes>
+			<ASCII> m d i a . . .   m d h d</ASCII>
+			<Pos>252</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>BCB5</Bytes>
+			<Pos>272</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>276</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>280</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>55C400000000002268646C720000000000000000736F756E00000000000000000000000000000000</Bytes>
+			<ASCII> U . . . . . . " h d l r . . . . . . . . s o u n</ASCII>
+			<Pos>284</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D696E6600000010736D686400000000000000000000002464696E660000001C6472656600000000000000010000000C75726C20000000010000</Bytes>
+			<ASCII> m i n f . . . . s m h d . . . . . . . . . . . $ d i n f . . . . d r e f . . . . . . . . . . . . u r l</ASCII>
+			<Pos>326</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7374626C0000005873747364000000000000000100000048616C6163000000000000000100000000000000000001001000000000</Bytes>
+			<ASCII> s t b l . . . X s t s d . . . . . . . . . . . H a l a c</ASCII>
+			<Pos>386</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000024616C616300000000000010000010280A0E0100FF0000</Bytes>
+			<ASCII> . . . . . $ a l a c . . . . . . . . . . (</ASCII>
+			<Pos>440</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7374747300000000000000</Bytes>
+			<ASCII> s t t s</ASCII>
+			<Pos>482</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>$ALAC</String>
+		<String>----</String>
+		<String>CPIL</String>
+		<String>DREF</String>
+		<String>FREE</String>
+		<String>FTYPM4A ''''M4A MP42ISOM</String>
+		<String>HALAC</String>
+		<String>HDLR''''''''MDIRAPPL</String>
+		<String>HDLR''''''''SOUN</String>
+		<String>ILST</String>
+		<String>ITUNES V4.5</String>
+		<String>MDAT</String>
+		<String>MDIA''' MDHD</String>
+		<String>MEAN''''COM.APPLE.ITUNES</String>
+		<String>META</String>
+		<String>MINF</String>
+		<String>MOOV'''LMVHD</String>
+		<String>NAME''''ITUNNORM'''JDATA</String>
+		<String>SMHD'''''''''''$DINF</String>
+		<String>STBL'''XSTSD</String>
+		<String>STCO</String>
+		<String>STSC</String>
+		<String>STSZ</String>
+		<String>STTS</String>
+		<String>TKHD</String>
+		<String>TMPO</String>
+		<String>TRAK</String>
+		<String>UDTA</String>
+	</GlobalStrings>
+</TrID>

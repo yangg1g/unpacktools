@@ -1,0 +1,62 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Test Technologies (WTT) logger results</FileType>
+		<Ext>WTL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>16</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E3022</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>STARTTEST TITLE</String>
+		<String>SECURELOG HASH</String>
+		<String>JOBSWORKINGDIR</String>
+		<String>MSG USERTEXT</String>
+		<String>XML VERSION</String>
+		<String>PROCESSNAME</String>
+		<String>WTT-LOGGER</String>
+		<String>WTTJOBRUN</String>
+		<String>FREQUENCY</String>
+		<String>PROCESSID</String>
+		<String>BASETIME</String>
+		<String>THREADID</String>
+		<String>ENDTEST</String>
+		<String>3579545</String>
+		<String>CURRENT</String>
+		<String>MACHINE</String>
+		<String>PARENT</String>
+		<String>RESULT</String>
+		<String>RTI ID</String>
+		<String>CTX ID</String>
+		<String>WTTLOG</String>
+		<String>REPRO</String>
+		<String>TASKS</String>
+		<String>.EXE</String>
+		<String>WARN</String>
+		<String>TUID</String>
+	</GlobalStrings>
+</TrID>

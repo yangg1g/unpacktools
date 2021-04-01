@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VistaDB database</FileType>
+		<Ext>VDB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.vistadb.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>05</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>55</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>04000300000000000000040000000000008000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

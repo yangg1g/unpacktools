@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Fast Find Index v1.x</FileType>
+		<Ext>FFX</Ext>
+		<ExtraInfo>
+			<Rem>Indexes used to speed finding documents from the Open dialog box in Microsoft Office programs and from Microsoft Outlook.</Rem>
+			<RefURL>http://support.microsoft.com/support/kb/articles/Q166/3/02.ASP</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>12</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>31</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D6963726F736F6674202852292046756C6C2D7465787420696E64657820666F726D61742056657273696F6E20312E</Bytes>
+			<ASCII> M i c r o s o f t   ( R )   F u l l - t e x t   i n d e x   f o r m a t   V e r s i o n   1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

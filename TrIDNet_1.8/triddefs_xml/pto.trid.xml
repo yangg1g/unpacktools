@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Hugin Project</FileType>
+		<Ext>PTO</Ext>
+		<ExtraInfo>
+			<Rem>Hugin is a tool for assembling multiple photos and creating a panorama.</Rem>
+			<RefURL>http://wiki.panotools.org/Hugin_Main_window</RefURL>
+		</ExtraInfo>
+		<User>Scrapie</User>
+		<E-Mail>scrapie@pochta.ru</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Refine>5 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>48</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2320</Bytes>
+			<ASCII> #</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONTROL POINT</String>
+		<String>C N0 N1 X1</String>
+		<String>IMAGE</String>
+		<String>FILE</String>
+		<String>.JPG</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Enter a useful filetype description</FileType>
+		<Ext>DCF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>31</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>454B4946</Bytes>
+			<ASCII> E K I F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00960023000000E703456D696C794D617269654461756E7400</Bytes>
+			<ASCII> . . . # . . . . . E m i l y M a r i e D a u n t</ASCII>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>456D696C794D617269654461756E7400</Bytes>
+			<ASCII> E m i l y M a r i e D a u n t</ASCII>
+			<Pos>100</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>010007040000010000000000000000000000000000000000F7FFFFFF000000000000960023000000E703</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . #</ASCII>
+			<Pos>125</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>EMILYMARIEDAUNT</String>
+		<String>GIF87A</String>
+		<String>EKIF</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>7-Zip compressed archive</FileType>
+        <Ext>7Z</Ext>
+        <ExtraInfo>
+            <Rem>7-Zip is a freeware file archiver with a very high compression ratio.</Rem>
+            <RefURL>http://www.7-zip.org/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>3</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>17</Day>
+        </Date>
+        <Time>
+            <Hour>17</Hour>
+            <Min>44</Min>
+            <Sec>40</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>377ABCAF271C</Bytes>
+            <ASCII> 7 z . . '</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

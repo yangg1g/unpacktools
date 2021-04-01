@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Asphyre Sphinx Archive File</FileType>
+		<Ext>ASVF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.afterwarp.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>71</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>9</Month>
+			<Day>5</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>30</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>41535646</Bytes>
+			<ASCII> A S V F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>40</Bytes>
+			<ASCII> @</ASCII>
+			<Pos>32</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.IMAGE</String>
+		<String>.XML</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TinyDisk Meta File</FileType>
+		<Ext>TDF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.msblabs.org/tinydisk/index.php</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>10</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>07</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>232054696E794469736B46696C65</Bytes>
+			<ASCII> # 	T i n y D i s k F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COMPRESSION ALGORITHM</String>
+		<String>ENCRYPTION ALGORITHM</String>
+		<String>CHECKSUM ALGORITHM</String>
+		<String>ENCRYPTION KEY</String>
+		<String>CLUSTER HASHES</String>
+		<String>CLUSTERS</String>
+		<String>FILENAME</String>
+		<String>DEFLATE</String>
+		<String>VERSION</String>
+		<String>CRC32</String>
+		<String>SIZE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ESU electronic sounds</FileType>
+		<Ext>ESU</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.loksound.de/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>11</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>01</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>INITDATA DECNAME</String>
+		<String>FLASHSIZE</String>
+		<String>CVDATA</String>
+		<String>MAGE</String>
+		<String>DECI</String>
+		<String>LOKP</String>
+		<String>ILOT</String>
+	</GlobalStrings>
+</TrID>

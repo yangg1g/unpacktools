@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WAP Bookmark info</FileType>
+		<Ext>VBM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>6</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>424547494E3A56424B4D</Bytes>
+			<ASCII> B E G I N : V B K M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>INTERNETSHORTCUT</String>
+		<String>QUOTED-PRINTABLE</String>
+		<String>X-IRMC-URL</String>
+		<String>VERSION</String>
+		<String>BEGIN</String>
+		<String>TITLE</String>
+		<String>HTTP</String>
+		<String>VBKM</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Publisher document</FileType>
+		<Ext>PUB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/office/publisher/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>470</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>07</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>06</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>MICROSOFT PUBLISHER</String>
+		<String>I'N'T'E'R'N'A'L</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>C'O'M'P'O'B'J</String>
+		<String>O'B'J'E'C'T'S</String>
+		<String>MSPU</String>
+	</GlobalStrings>
+</TrID>

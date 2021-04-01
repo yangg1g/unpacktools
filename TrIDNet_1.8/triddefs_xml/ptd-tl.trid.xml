@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Password Tracker Deluxe Tracking List</FileType>
+		<Ext>PWT</Ext>
+		<ExtraInfo>
+			<Rem>Encrypted password list for the Password Tracker Deluxe password management program.</Rem>
+			<RefURL>http://www.clrpc.com/</RefURL>
+		</ExtraInfo>
+		<User>Vincent van der Tuin</User>
+		<E-Mail>ibytedonotspam@removethisnoxs(youknowwhat)nl</E-Mail>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>11</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>44</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>505443525243</Bytes>
+			<ASCII> P T C R R C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>{USERID}</String>
+		<String>{TAB}</String>
+		<String>{PASSWORD}</String>
+		<String>{ENTER}</String>
+	</GlobalStrings>
+</TrID>

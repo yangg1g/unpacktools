@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MadTracker 2.0 module / song</FileType>
+		<Ext>MT2</Ext>
+		<ExtraInfo>
+			<Rem>MadTracker is a music composition tool.</Rem>
+			<RefURL>http://www.madtracker.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>01</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D543230</Bytes>
+			<ASCII> M T 2 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D6164547261636B657220</Bytes>
+			<ASCII> M a d T r a c k e r</ASCII>
+			<Pos>10</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Lazarus Form</FileType>
+		<Ext>LFM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Lazarus_(IDE)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>9</Month>
+			<Day>5</Day>
+		</Date>
+		<Time>
+			<Hour>4</Hour>
+			<Min>0</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6F626A65637420</Bytes>
+			<ASCII> o b j e c t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>LCLVERSION</String>
+		<String>CAPTION</String>
+		<String>HEIGHT</String>
+		<String>OBJECT</String>
+		<String>FORMC</String>
+		<String>WIDTH</String>
+		<String>LEFT</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Diggles Saved Game File</FileType>
+        <Ext>SAV</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.innonics.com</RefURL>
+        </ExtraInfo>
+        <User>.Cryorb</User>
+        <E-Mail>vy@nospam@tut.by</E-Mail>
+        <Home></Home>
+    </Info>
+    <General>
+        <FileNum>24</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>09</Month>
+            <Day>16</Day>
+        </Date>
+        <Time>
+            <Hour>15</Hour>
+            <Min>28</Min>
+            <Sec>37</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>1F8B080000000000000BECDD07</Bytes>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

@@ -1,0 +1,94 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Monarch Pro model</FileType>
+		<Ext>XMOD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://monarch.datawatch.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>26</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>17</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C6D6F64656C2076657273696F6E3D22584D4C4D4F44</Bytes>
+			<ASCII> . m o d e l   v e r s i o n = " X M L M O D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CHART_APPEARANCE HATCH_PATTERNS</String>
+		<String>FORCE_BREAK MAX_PAGE_LINES</String>
+		<String>SUMMARY NAMES_FROM_FIELDS</String>
+		<String>EXCEL APPLY_FORMATTING</String>
+		<String>FIRST_YEAR_OF_CENTURY</String>
+		<String>CASE_SENSITIVE_TRAPS</String>
+		<String>DELIMITED CHARACTER</String>
+		<String>GRID SUPPRESS_ZERO</String>
+		<String>TABLE HEADER_LINES</String>
+		<String>IGNORE_FORM_FEEDS</String>
+		<String>IGNORE_CTRL_CHARS</String>
+		<String>NAMES_ROW_QUOTES</String>
+		<String>DBF_FIELD_NAMING</String>
+		<String>ACTIVE_PATTERNS</String>
+		<String>PAD_WITH_ZEROS</String>
+		<String>IS_MULTICOLUMN</String>
+		<String>DISPLAY_LENGTH</String>
+		<String>TEXT NAMES_ROW</String>
+		<String>LEADING_CHARS</String>
+		<String>MODEL VERSION</String>
+		<String>CHARACTER_SET</String>
+		<String>DECIMAL_CHAR</String>
+		<String>COLOR NUMBER</String>
+		<String>DATE_PATTERN</String>
+		<String>TABLE_FIELD</String>
+		<String>DESCRIPTION</String>
+		<String>INPUT_ASCII</String>
+		<String>DATA_LINES</String>
+		<String>TRAP_LINE</String>
+		<String>FONT FACE</String>
+		<String>TEMPLATES</String>
+		<String>ALIGNMENT</String>
+		<String>IS_FLOAT</String>
+		<String>DATABASE</String>
+		<String>SETTINGS</String>
+		<String>SEQUENCE</String>
+		<String>SPACING</String>
+		<String>VERDANA</String>
+		<String>NULL_AS</String>
+		<String>FORMAT_</String>
+		<String>OFFSET</String>
+		<String>EXPORT</String>
+		<String>AUTHOR</String>
+		<String>QUOTED</String>
+		<String>SAMPLE</String>
+		<String>VALUES</String>
+		<String>XMLMOD</String>
+		<String>FALSE</String>
+		<String>LABEL</String>
+		<String>TITLE</String>
+		<String>LEVEL</String>
+		<String>_TYPE</String>
+		<String>_NAME</String>
+		<String>SAVE</String>
+		<String>TRUE</String>
+		<String>MASK</String>
+		<String>SIZE</String>
+		<String>TIME</String>
+	</GlobalStrings>
+</TrID>

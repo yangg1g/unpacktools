@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IBM iSeries Client Access WorkStation profile</FileType>
+		<Ext>WS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www-03.ibm.com/systems/i/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>21</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B50726F66696C655D</Bytes>
+			<ASCII> [ P r o f i l e ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>IBMDEFAULTKEYBOARD</String>
+		<String>COMMUNICATION</String>
+		<String>HOSTCODEPAGE</String>
+		<String>CUAKEYBOARD</String>
+		<String>PRINTERTYPE</String>
+		<String>HOSTNAME</String>
+		<String>LANGUAGE</String>
+		<String>IBM3812</String>
+		<String>PRIVATE</String>
+		<String>PROFILE</String>
+		<String>SESSION</String>
+		<String>TELNET</String>
+		<String>LINK</String>
+		<String>.KMP</String>
+		<String>VIEW</String>
+	</GlobalStrings>
+</TrID>

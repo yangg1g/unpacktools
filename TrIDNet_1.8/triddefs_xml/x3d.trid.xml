@@ -1,0 +1,62 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>X3D file</FileType>
+		<Ext>X3D</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/X3D</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>03</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DESCRIPTION</String>
+		<String>XML VERSION</String>
+		<String>TRANSLATION</String>
+		<String>TRANSFORM</String>
+		<String>VIEWPOINT</String>
+		<String>ROTATION</String>
+		<String>POSITION</String>
+		<String>ENCODING</String>
+		<String>PROFILE</String>
+		<String>LIGHT</String>
+		<String>UTF-8</String>
+		<String>FIELD</String>
+		<String>COLOR</String>
+		<String>SCENE</String>
+		<String>X3D P</String>
+		<String>TIME</String>
+		<String>EXAM</String>
+		<String>SIZE</String>
+		<String>HEAD</String>
+		<String>TYPE</String>
+		<String>HTTP</String>
+		<String>INTE</String>
+		<String>WWW.</String>
+		<String>GROU</String>
+		<String>TRUE</String>
+		<String>SPEC</String>
+	</GlobalStrings>
+</TrID>

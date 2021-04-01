@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Digital Sheet Music</FileType>
+		<Ext>MTD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.musicnotes.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>55</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52494646</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D5444466D746470</Bytes>
+			<ASCII> M T D F m t d p</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7067696E</Bytes>
+			<ASCII> p g i n</ASCII>
+			<Pos>28</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4C495354</Bytes>
+			<ASCII> L I S T</ASCII>
+			<Pos>60</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>494E464F49</Bytes>
+			<ASCII> I N F O I</ASCII>
+			<Pos>68</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

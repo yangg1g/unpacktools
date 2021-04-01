@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Sony Compressed Voice File</FileType>
+		<Ext>DVF/MSV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://products.sel.sony.com/SEL/service/conselec/softupdates/playplug12_instr.shtml</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<Refine>10 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>37</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D535F564F494345</Bytes>
+			<ASCII> M S _ V O I C E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>534F4E5920434F52504F524154494F4E</Bytes>
+			<ASCII> S O N Y   C O R P O R A T I O N</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,69 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WinBreadboard circuit schematic</FileType>
+		<Ext>WBD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.yoeric.com/breadboard.htm</RefURL>
+		</ExtraInfo>
+		<User>Marcos F</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>04</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D1000000C100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>9</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>13</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>74</Bytes>
+			<ASCII> t</ASCII>
+			<Pos>15</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<Pos>26</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RRRRRRRRRR</String>
+		<String>UUUUUUUUUU</String>
+		<String>TRRRRRRRR</String>
+		<String>LLLLLLLT</String>
+		<String>TLLLLLL</String>
+		<String>UUUUUT</String>
+		<String>DDDDDT</String>
+	</GlobalStrings>
+</TrID>

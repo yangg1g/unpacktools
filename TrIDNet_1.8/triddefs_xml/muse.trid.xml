@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Emacs Muse project</FileType>
+		<Ext>MUSE</Ext>
+		<ExtraInfo>
+			<Rem>An authoring and publishing environment for Emacs.</Rem>
+			<RefURL>http://mwolson.org/static/doc/muse/Introduction.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>23</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23</Bytes>
+			<ASCII> #</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TITLE</String>
+		<String>(SETQ</String>
+		<String>EMACS</String>
+		<String>LISP</String>
+	</GlobalStrings>
+</TrID>

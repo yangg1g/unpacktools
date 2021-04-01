@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Smart Install Maker project</FileType>
+		<Ext>SMM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sminstall.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>7</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>0</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>536D61727420496E7374616C6C204D616B65722050726F6A65637420762E</Bytes>
+			<ASCII> S m a r t   I n s t a l l   M a k e r   P r o j e c t   v</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

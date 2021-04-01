@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Genetec Video Archive</FileType>
+		<Ext>G64</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.genetec.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>37</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>47656E65746563204F6D6E696361737420417263686976652076</Bytes>
+			<ASCII> G e n e t e c   O m n i c a s t   A r c h i v e   v</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

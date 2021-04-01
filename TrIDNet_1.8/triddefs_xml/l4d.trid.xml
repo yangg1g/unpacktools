@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CINEMA 4D Layout</FileType>
+		<Ext>L4D</Ext>
+		<ExtraInfo>
+			<Rem>CINEMA 4D is an application for creating high-end 3D pictures and animations.</Rem>
+			<RefURL>http://www.maxon.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>37</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>364334444C41593601</Bytes>
+			<ASCII> 6 C 4 D L A Y 6</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

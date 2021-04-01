@@ -1,0 +1,124 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PathAway map</FileType>
+		<Ext>PRC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pathaway.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>21</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>35</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>74424D504B6E5772</Bytes>
+			<ASCII> t B M P K n W r</ASCII>
+			<Pos>60</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54626D70</Bytes>
+			<ASCII> T b m p</ASCII>
+			<Pos>78</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>44455343</Bytes>
+			<ASCII> D E S C</ASCII>
+			<Pos>88</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>44415445</Bytes>
+			<ASCII> D A T E</ASCII>
+			<Pos>98</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4F525744</Bytes>
+			<ASCII> O R W D</ASCII>
+			<Pos>108</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4F524854</Bytes>
+			<ASCII> O R H T</ASCII>
+			<Pos>118</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>544C4C47</Bytes>
+			<ASCII> T L L G</ASCII>
+			<Pos>128</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>544C4C54</Bytes>
+			<ASCII> T L L T</ASCII>
+			<Pos>138</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>42524C47</Bytes>
+			<ASCII> B R L G</ASCII>
+			<Pos>148</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>42524C54</Bytes>
+			<ASCII> B R L T</ASCII>
+			<Pos>158</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D43414C</Bytes>
+			<ASCII> M C A L</ASCII>
+			<Pos>168</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D564548</Bytes>
+			<ASCII> M V E H</ASCII>
+			<Pos>178</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D415454</Bytes>
+			<ASCII> M A T T</ASCII>
+			<Pos>188</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54626D70</Bytes>
+			<ASCII> T b m p</ASCII>
+			<Pos>198</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PW_NORTH</String>
+		<String>PW_SOUTH</String>
+		<String>TBMPKNWR</String>
+		<String>PW_EAST</String>
+		<String>PW_WEST</String>
+		<String>_LON</String>
+		<String>VPB(</String>
+		<String>_LAT</String>
+		<String>VPA(</String>
+		<String>VPB(</String>
+		<String>VPM(</String>
+		<String>VPN(</String>
+		<String>ORHT</String>
+		<String>ORWD</String>
+		<String>MVEH</String>
+		<String>BRLT</String>
+		<String>BRLG</String>
+		<String>TLLG</String>
+		<String>MATT</String>
+		<String>MCAL</String>
+		<String>TLLT</String>
+		<String>DATE</String>
+		<String>DESC</String>
+	</GlobalStrings>
+</TrID>

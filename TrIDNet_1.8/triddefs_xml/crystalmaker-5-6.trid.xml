@@ -1,0 +1,108 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CrystalMaker Data format (v5-6)</FileType>
+		<Ext>CMD5</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.crystalmaker.co.uk/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>1802</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>19</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>434D4435284372797374616C4D616B65722920</Bytes>
+			<ASCII> C M D 5 ( C r y s t a l M a k e r )</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>22</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52454E44</Bytes>
+			<ASCII> R E N D</ASCII>
+			<Pos>32</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>44435545</Bytes>
+			<ASCII> D C U E</ASCII>
+			<Pos>100</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>50525350</Bytes>
+			<ASCII> P R S P</ASCII>
+			<Pos>117</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D4F444C</Bytes>
+			<ASCII> M O D L</ASCII>
+			<Pos>126</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>53434C50</Bytes>
+			<ASCII> S C L P</ASCII>
+			<Pos>131</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>425241443E</Bytes>
+			<ASCII> B R A D</ASCII>
+			<Pos>138</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5355524600</Bytes>
+			<ASCII> S U R F</ASCII>
+			<Pos>150</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5543454C01</Bytes>
+			<ASCII> U C E L</ASCII>
+			<Pos>185</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>41584553</Bytes>
+			<ASCII> A X E S</ASCII>
+			<Pos>204</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4C41424C01</Bytes>
+			<ASCII> L A B L</ASCII>
+			<Pos>210</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ATOM</String>
+		<String>AUNI</String>
+		<String>AXES</String>
+		<String>BACK</String>
+		<String>BONS</String>
+		<String>CELL</String>
+		<String>DCUE</String>
+		<String>FMAP</String>
+		<String>LABL</String>
+		<String>NOTE</String>
+		<String>RANG</String>
+		<String>REND</String>
+		<String>SCAL</String>
+		<String>SPHE</String>
+		<String>STER</String>
+		<String>SURF</String>
+		<String>VIEW</String>
+		<String>UCEL</String>
+	</GlobalStrings>
+</TrID>

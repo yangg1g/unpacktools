@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RIFF/WAVe Audio (edited with Sound Forge)</FileType>
+		<Ext>WAV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sonicfoundry.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>29</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2003</Year>
+			<Month>12</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>03</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52494646</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>57415645666D7420</Bytes>
+			<ASCII> W A V E f m t</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DATA</String>
+		<String>ICRD</String>
+		<String>LIST</String>
+		<String>RIFF</String>
+		<String>SOUND FORGE</String>
+		<String>WAVEFMT</String>
+	</GlobalStrings>
+</TrID>

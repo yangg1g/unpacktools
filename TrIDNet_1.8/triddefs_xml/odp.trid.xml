@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OpenDocument Presentation</FileType>
+		<Ext>ODP</Ext>
+		<ExtraInfo>
+			<Rem>Standard, open, XML based, document file format for office-like documents. It's derived from the format used by OpenOffice.org's suite.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/OpenDocument</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>10</Month>
+			<Day>9</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>25</Min>
+			<Sec>0</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D696D65747970656170706C69636174696F6E2F766E642E6F617369732E6F70656E646F63756D656E742E70726573656E746174696F6E504B0304</Bytes>
+			<ASCII> m i m e t y p e a p p l i c a t i o n / v n d . o a s i s . o p e n d o c u m e n t . p r e s e n t a t i o n P K</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VND.OASIS.OPENDOCUMENT.PRESENTATIONPK</String>
+		<String>MIMETYPEAPPLICATION</String>
+		<String>MANIFEST.XMLPK</String>
+		<String>SETTINGS.XMLPK</String>
+		<String>CONTENT.XMLPK</String>
+		<String>STYLES.XMLPK</String>
+		<String>META.XMLPK</String>
+		<String>MIMETYPEPK</String>
+		<String>META-INF</String>
+	</GlobalStrings>
+</TrID>

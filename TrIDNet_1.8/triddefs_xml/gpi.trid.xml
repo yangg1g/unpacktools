@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Garmin Point of Interest</FileType>
+		<Ext>GPI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.garmin.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>08</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>36</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000000001600000047524D5245433030</Bytes>
+			<ASCII> . . . . . . . . G R M R E C 0 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D792E677069</Bytes>
+			<ASCII> m y . g p i</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>504F49</Bytes>
+			<ASCII> P O I</ASCII>
+			<Pos>38</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

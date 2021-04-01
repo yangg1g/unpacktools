@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Cosmigo Pro Motion SPRites sequence/animation</FileType>
+        <Ext>SPR</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://cosmigo.com/promotion/index.php</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>2</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>10</Month>
+            <Day>12</Day>
+        </Date>
+        <Time>
+            <Hour>21</Hour>
+            <Min>25</Min>
+            <Sec>09</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>535052</Bytes>
+            <ASCII> S P R</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

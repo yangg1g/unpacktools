@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Belltech Business Card Designer Pro</FileType>
+		<Ext>BCF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.belltechsystems.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>03</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>41</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>427573696E657373</Bytes>
+			<ASCII> B u s i n e s s</ASCII>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43617264</Bytes>
+			<ASCII> C a r d</ASCII>
+			<Pos>10</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BELLTECH SYSTEMS</String>
+		<String>CRECTANGLE</String>
+		<String>CBTIMAGE</String>
+		<String>DESIGNER</String>
+		<String>TELEFON</String>
+		<String>CLINE</String>
+		<String>CTEXT</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,66 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RealNetworks Internet Video Recording</FileType>
+		<Ext>IVR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>44</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2E52</Bytes>
+			<ASCII> . R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>OFFSETINPRESENTATION</String>
+		<String>AVERAGEBANDWIDTH</String>
+		<String>RMFF 1.0 FLAGS</String>
+		<String>X-PN-REALAUDIO</String>
+		<String>AVGPACKETSIZE</String>
+		<String>MAXPACKETSIZE</String>
+		<String>STREAMNUMBER</String>
+		<String>ASMRULEBOOK</String>
+		<String>STREAMCOUNT</String>
+		<String>AVGBITRATE</String>
+		<String>MAXBITRATE</String>
+		<String>LIVESTREAM</String>
+		<String>OPAQUEDATA</String>
+		<String>STREAMNAME</String>
+		<String>STARTTIME</String>
+		<String>RECORDING</String>
+		<String>OFFDEPEND</String>
+		<String>GENRCOOK</String>
+		<String>DURATION</String>
+		<String>ONDEPEND</String>
+		<String>PRIORITY</String>
+		<String>SEEKTYPE</String>
+		<String>MIMETYPE</String>
+		<String>ICATION</String>
+		<String>PREROLL</String>
+		<String>VIDEO</String>
+		<String>GUID</String>
+		<String>.REC</String>
+	</GlobalStrings>
+</TrID>

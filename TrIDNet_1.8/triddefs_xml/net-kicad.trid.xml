@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>KiCad Netlist output</FileType>
+		<Ext>NET</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/KiCad</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>12</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23204545536368656D61204E65746C6973742056657273696F6E20</Bytes>
+			<ASCII> #   E E S c h e m a   N e t l i s t   V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>28</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>{ ALLOWED FOOTPRINTS BY COMPONENT</String>
+		<String>EESCHEMA NETLIST VERSION</String>
+		<String>$ENDFOOTPRINTLIST</String>
+		<String>$COMPONENT</String>
+		<String>$ENDLIST</String>
+	</GlobalStrings>
+</TrID>

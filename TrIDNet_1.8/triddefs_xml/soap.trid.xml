@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SOAP message</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/SOAP_(protocol)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>20</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E3022</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>XML VERSION</String>
+		<String>WWW.W3.ORG</String>
+		<String>ENVELOPE</String>
+		<String>SOAP-ENV</String>
+		<String>XMLNS</String>
+		<String>BODY</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

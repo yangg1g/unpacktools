@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Out-Of-Box Experience file</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://technet2.microsoft.com/WindowsVista/en/library/68b135b4-c879-40aa-ae5c-fb104bae9fba1033.mspx?mfr=true</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>04</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D</Bytes>
+			<ASCII> . ? x m l   v e r s i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>FIRSTEXPERIENCE</String>
+		<String>OEMSTRIP XMLNS</String>
+		<String>OEMLOGO XMLNS</String>
+		<String>OFFERSOURCE</String>
+		<String>XML VERSION</String>
+		<String>OFFERS FROM</String>
+		<String>OOBETASKS</String>
+		<String>USEROOBE</String>
+		<String>ENCODING</String>
+		<String>LOGOPATH</String>
+		<String>WINDOWS</String>
+		<String>SYSTEM</String>
+		<String>NAME</String>
+		<String>INFO</String>
+		<String>.PNG</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

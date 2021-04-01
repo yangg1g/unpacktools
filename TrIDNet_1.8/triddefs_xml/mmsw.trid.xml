@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Movie Magic Screenwriter document</FileType>
+		<Ext>MMSW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.moviesoft.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>10</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>50</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53637265656E77726974657257696E5665722E20</Bytes>
+			<ASCII> S c r e e n w r i t e r W i n V e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>21</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OMAX Make tool path data (with rem)</FileType>
+		<Ext>OMX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.omax.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>35</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2F2F</Bytes>
+			<ASCII> / /</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>THIS IS AN OMAX (.OMX) FILE.  DO NOT MODIFY THE FIRST 2 LINES OF THIS FILE. FOR INFORMATION ON THIS FILE FORMAT CONTACT SOFTWAREENGINEERING</String>
+	</GlobalStrings>
+</TrID>

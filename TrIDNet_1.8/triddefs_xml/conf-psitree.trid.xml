@@ -1,0 +1,93 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>psitree router configuration</FileType>
+		<Ext>CONF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>04</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>16</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C707369747265653E</Bytes>
+			<ASCII> . p s i t r e e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>INITCFG STRUCTUREID</String>
+		<String>PROTOCOL AUTOSCAN</String>
+		<String>SYSUSERNAME VALUE</String>
+		<String>FREEPKTQBUFOFFSET</String>
+		<String>FREEPKTQBUFSIZE</String>
+		<String>MACFILTERPOLICY</String>
+		<String>ENTRY1 ADDRESS</String>
+		<String>TXFIFOPRIORITY</String>
+		<String>THREADPRIORITY</String>
+		<String>AAL5MAXSDULEN</String>
+		<String>FREECELLQSIZE</String>
+		<String>AAL2MAXSDULEN</String>
+		<String>SYSLOG STATE</String>
+		<String>DISPLAYLEVEL</String>
+		<String>FREEPKTQSIZE</String>
+		<String>RXCELLQSIZE</String>
+		<String>ADMINSTATUS</String>
+		<String>SRVCTRLLIST</String>
+		<String>SYSTEMINFO</String>
+		<String>SERVERPORT</String>
+		<String>LEASEDTIME</String>
+		<String>DHCPSERVER</String>
+		<String>RXPKTQSIZE</String>
+		<String>STARTADDR</String>
+		<String>ATMCFGVCC</String>
+		<String>SERVERIP</String>
+		<String>LOGLEVEL</String>
+		<String>ATMCFGTD</String>
+		<String>FIREWALL</String>
+		<String>ROUTECFG</String>
+		<String>AALTYPE</String>
+		<String>FORWARD</String>
+		<String>DISABLE</String>
+		<String>SERVICE</String>
+		<String>PSITREE</String>
+		<String>ENDADDR</String>
+		<String>TD1 CAT</String>
+		<String>OPTION</String>
+		<String>TELNET</String>
+		<String>ENABLE</String>
+		<String>VCCID1</String>
+		<String>SECCFG</String>
+		<String>DEBUG</String>
+		<String>LOCAL</String>
+		<String>CONID</String>
+		<String>ATION</String>
+		<String>ENCAP</String>
+		<String>MASK</String>
+		<String>ADSL</String>
+		<String>TDID</String>
+		<String>ANNE</String>
+		<String>TFTP</String>
+		<String>HTTP</String>
+		<String>ICMP</String>
+		<String>IGMP</String>
+		<String>WAN_</String>
+	</GlobalStrings>
+</TrID>

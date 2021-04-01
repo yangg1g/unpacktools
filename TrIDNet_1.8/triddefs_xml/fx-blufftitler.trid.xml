@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BluffTitler Effect</FileType>
+		<Ext>FX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.outerspace-software.com/</RefURL>
+		</ExtraInfo>
+		<User>Ryan Jones</User>
+		<E-Mail>sciguyryan@gmail.com</E-Mail>
+		<Home>http://ccc-cymru.com/</Home>
+	</Info>
+	<General>
+		<FileNum>71</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>05</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>11</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2F2F20</Bytes>
+			<ASCII> / /</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>STRING DESCRIPTION</String>
+		<String>STRUCT VS_OUTPUT</String>
+		<String>STRUCT VS_INPUT</String>
+		<String>VS_OUTPUT OUTPUT</String>
+		<String>OUTPUT.POSITION</String>
+		<String>RETURN OUTPUT</String>
+		<String>VS_OUTPUT VS</String>
+		<String>VERTEXSHADER</String>
+		<String>COMPILE VS_</String>
+		<String>OUTPUT.TEX</String>
+		<String>TECHNIQUE</String>
+		<String>COLOR</String>
+	</GlobalStrings>
+</TrID>

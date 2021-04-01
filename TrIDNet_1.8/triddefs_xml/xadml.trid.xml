@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XML-Based Application Description Information</FileType>
+		<Ext>XADML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.amigaforever.com/kb/5-114.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>100</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>07</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WWW.AMIGAFOREVER.COM</String>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>SCHEMALOCATION</String>
+		<String>THUMBNAIL.GIF</String>
+		<String>DESCRIPTION</String>
+		<String>XADML XMLNS</String>
+		<String>APPLICATION</String>
+		<String>XML VERSION</String>
+		<String>ISO-8859-1</String>
+		<String>WWW.W3.ORG</String>
+		<String>SYSTEMROM</String>
+		<String>XADML.XSD</String>
+		<String>ENCODING</String>
+		<String>VARIANT</String>
+		<String>ENTITY</String>
+		<String>CLASS</String>
+		<String>TITLE</String>
+		<String>DEMO</String>
+		<String>HTTP</String>
+		<String>TYPE</String>
+		<String>YEAR</String>
+	</GlobalStrings>
+</TrID>

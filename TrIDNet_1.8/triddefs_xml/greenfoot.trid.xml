@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Greenfoot Project</FileType>
+		<Ext>GREENFOOT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.greenfoot.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>11</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>52</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23477265656E666F6F742070726F</Bytes>
+			<ASCII> # G r e e n f o o t   p r o</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GREENFOOT.ACTOR</String>
+		<String>GREENFOOT.WORLD</String>
+		<String>R.SUPERCLASS</String>
+		<String>VERSION</String>
+		<String>CLASS.</String>
+		<String>WORLD.</String>
+	</GlobalStrings>
+</TrID>

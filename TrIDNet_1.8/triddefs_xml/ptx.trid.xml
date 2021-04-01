@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RealLegal E-Transcript</FileType>
+		<Ext>PTX</Ext>
+		<ExtraInfo>
+			<Rem>E-Transcript of Court proceedings.</Rem>
+			<RefURL>http://www.reallegal.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<Refine>14 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>56</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>10</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TRANSCRIPT</String>
+		<String>COMPANY</String>
+		<String>PAGEHDR</String>
+	</GlobalStrings>
+</TrID>

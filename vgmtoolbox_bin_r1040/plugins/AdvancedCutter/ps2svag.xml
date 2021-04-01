@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OffsetFinderTemplate>
+  <Header>
+    <FormatName>PlayStation 2 - Dance Dance Revolution SVAG Streams</FormatName>
+    <Author>bxaimc</Author>
+  </Header>
+  <SearchParameters>
+    <SearchString>53766167</SearchString>
+    <TreatSearchStringAsHex>true</TreatSearchStringAsHex>
+    <SearchStringOffset>0</SearchStringOffset>
+    <OutputFileExtension>.svag</OutputFileExtension>
+    <CutParameters>
+      <CutStyle>offset</CutStyle>
+      <CutSizeAtOffset>4</CutSizeAtOffset>
+      <CutSizeOffsetSize>4</CutSizeOffsetSize>
+      <CutSizeOffsetEndianess>little</CutSizeOffsetEndianess>      
+    </CutParameters>
+    <AddExtraBytes>true</AddExtraBytes>
+    <AddExtraByteSize>2048</AddExtraByteSize>    
+  </SearchParameters>
+</OffsetFinderTemplate>

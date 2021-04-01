@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>uTorrent Application</FileType>
+		<Ext>BTAPP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.utorrent.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>2</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>9</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>006274617070</Bytes>
+			<ASCII> . b t a p p</ASCII>
+			<Pos>29</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>INDEX.HTML</String>
+		<String>BTAPP</String>
+	</GlobalStrings>
+</TrID>

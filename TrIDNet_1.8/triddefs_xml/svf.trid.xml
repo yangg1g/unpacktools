@@ -1,0 +1,40 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Simple Vector Format (generic)</FileType>
+        <Ext>SVF</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.softsource.com/svf/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>16</FileNum>
+        <Refine>8 by Marco Pontello</Refine>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>04</Day>
+        </Date>
+        <Time>
+            <Hour>13</Hour>
+            <Min>24</Min>
+            <Sec>03</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.02.7b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>5356462076</Bytes>
+            <ASCII> S V F   v</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>2E</Bytes>
+            <ASCII> .</ASCII>
+            <Pos>6</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

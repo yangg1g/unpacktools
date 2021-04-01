@@ -1,0 +1,62 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DynaDoc Electric Exchange Document</FileType>
+		<Ext>WDL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.dynacw.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>33</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>18</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>44446F634642</Bytes>
+			<ASCII> D D o c F B</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>666F6E74</Bytes>
+			<ASCII> f o n t</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>696E6478</Bytes>
+			<ASCII> i n d x</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6E616D65</Bytes>
+			<ASCII> n a m e</ASCII>
+			<Pos>40</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>70617065</Bytes>
+			<ASCII> p a p e</ASCII>
+			<Pos>56</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>73747275</Bytes>
+			<ASCII> s t r u</ASCII>
+			<Pos>72</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DYNAPKCP</String>
+	</GlobalStrings>
+</TrID>

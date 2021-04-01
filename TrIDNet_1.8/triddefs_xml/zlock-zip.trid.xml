@@ -1,0 +1,43 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>ZLock Pro encrypted ZIP</FileType>
+        <Ext>ZIP</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.zcureit.com/products.html</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>5</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>07</Day>
+        </Date>
+        <Time>
+            <Hour>20</Hour>
+            <Min>38</Min>
+            <Sec>43</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>504B030414000100630000000000</Bytes>
+            <ASCII> P K . . . . . . c</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00</Bytes>
+            <Pos>21</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0012000B0038424431303346464646464646452E7A69700199070001004145010000</Bytes>
+            <ASCII> . . . . . 8 B D 1 0 3 F F F F F F F E . z i p . . . . . . A E</ASCII>
+            <Pos>25</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

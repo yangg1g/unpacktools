@@ -1,0 +1,73 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Kaleidescape Touch Panel Variations</FileType>
+		<Ext>TP4</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Kaleidescape</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>08</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>08</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00465346494C4500</Bytes>
+			<ASCII> . F S F I L E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>70726A2E786D61</Bytes>
+			<ASCII> p r j . x m a</ASCII>
+			<Pos>552</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>A'B'C'D'E'F'G'H'I'J'K'L'M'N'O'P'Q'R'S'T'U'V'W'X'Y'Z'{</String>
+		<String>TEXTCREATION TIME</String>
+		<String>TEXTSOFTWARE</String>
+		<String>J'I'K'M'L'N</String>
+		<String>PAL_001.XMA</String>
+		<String>XML VERSION</String>
+		<String>ICC PROFILE</String>
+		<String>0123456789</String>
+		<String>COPYRIGHT</String>
+		<String>TABLELIST</String>
+		<String>TABLE.XMA</String>
+		<String>ICON.XMA</String>
+		<String>MAP.XMA</String>
+		<String>FNT.XMA</String>
+		<String>PRJ.XMA</String>
+		<String>SOURCE</String>
+		<String>RIGHTS</String>
+		<String>AUTHOR</String>
+		<String>.XML</String>
+		<String>.PNG</String>
+		<String>.TTF</String>
+		<String>INC.</String>
+		<String>CMAP</String>
+		<String>ROOT</String>
+		<String>.COM</String>
+		<String>NAME</String>
+		<String>HEAD</String>
+		<String>DATE</String>
+		<String>RECT</String>
+		<String>IHDR</String>
+		<String>IEND</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SMART Board Slide Collection</FileType>
+		<Ext>XBK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.smarttech.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>11</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>57</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D3822207374616E64616C6F6E653D226E6F223F3E0D0A3C78626B20786D6C6E733D22687474703A2F2F7777772E736D617274746563682E636F6D2F584D4C4E6F7465626F6F6B2220786D6C6E733A7376673D22687474703A2F2F7777772E77332E6F72672F323030302F7376672220786D6C6E733A786C696E6B3D22687474703A2F2F7777772E77332E6F72672F313939392F786C696E6B223E3C46696C65536F757263653E534D415254204E6F7465626F6F6B</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 "   s t a n d a l o n e = " n o " ? . . . . x b k   x m l n s = " h t t p : / / w w w . s m a r t t e c h . c o m / X M L N o t e b o o k "   x m l n s : s v g = " h t t p : / / w w w . w 3 . o r g / 2 0 0 0 / s v g "   x m l n s : x l i n k = " h t t p : / / w w w . w 3 . o r g / 1 9 9 9 / x l i n k " . . F i l e S o u r c e . S M A R T   N o t e b o o k</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SMART NOTEBOOK 8.</String>
+		<String>WWW.SMARTTECH.COM</String>
+		<String>STROKE-LINEJOIN</String>
+		<String>STROKE-LINECAP</String>
+		<String>POLYLINE FILL</String>
+		<String>STROKE-WIDTH</String>
+		<String>XML VERSION</String>
+		<String>XMLNOTEBOOK</String>
+		<String>WWW.W3.ORG</String>
+		<String>STANDALONE</String>
+		<String>FILESOURCE</String>
+		<String>WHITEBOARD</String>
+		<String>SVG WIDTH</String>
+		<String>XBK XMLNS</String>
+		<String>ENCODING</String>
+		<String>GROUND</String>
+		<String>POINTS</String>
+		<String>HEIGHT</String>
+		<String>TITLE</String>
+		<String>XLINK</String>
+		<String>GROUP</String>
+		<String>UTF-8</String>
+		<String>HTTP</String>
+		<String>NONE</String>
+	</GlobalStrings>
+</TrID>

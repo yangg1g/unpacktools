@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Lotus AMI Pro document</FileType>
+		<Ext>SAM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>63</FileNum>
+		<Refine>2 by Marco Pontello - 5 by Paresh Modi</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>18</Min>
+			<Sec>3</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B7665725D</Bytes>
+			<ASCII> [ v e r ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>(WINDOWS</String>
+		<String>STANDARD</String>
+		<String>CHARSET</String>
+		<String>LNOPTS</String>
+		<String>FOPTS</String>
+		<String>EDOC</String>
+		<String>FILE</String>
+		<String>IONS</String>
+		<String>LANG</String>
+		<String>LINE</String>
+		<String>SPEC</String>
+		<String>TEXT</String>
+	</GlobalStrings>
+</TrID>

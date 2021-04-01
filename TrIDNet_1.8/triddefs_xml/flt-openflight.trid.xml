@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OpenFlight 3D file</FileType>
+		<Ext>FLT</Ext>
+		<ExtraInfo>
+			<Rem>OpenFlight is an industry standard realtime 3D scene description format developed, owned and maintained by MultiGen, Inc. It was originally developed by MultiGen in response to a need for database transportability within the visual simulation community.</Rem>
+			<RefURL>http://www.multigen-paradigm.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>10</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000101</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000</Bytes>
+			<Pos>4</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000</Bytes>
+			<Pos>16</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>30</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A</Bytes>
+			<ASCII> :</ASCII>
+			<Pos>33</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A</Bytes>
+			<ASCII> :</ASCII>
+			<Pos>36</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

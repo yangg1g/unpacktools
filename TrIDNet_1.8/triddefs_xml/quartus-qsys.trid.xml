@@ -1,0 +1,78 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Qsys System</FileType>
+		<Ext>QSYS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Altera</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>11</Min>
+			<Sec>5</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CLOCKCROSSINGADAPTER</String>
+		<String>MAXADDITIONALLATENCY</String>
+		<String>GENERATELEGACYSIM</String>
+		<String>DATUM _SORTINDEX</String>
+		<String>SOPCBORDERPOINTS</String>
+		<String>GLOBALRESETBUS</String>
+		<String>PARAMETER NAME</String>
+		<String>$${FILENAME}</String>
+		<String>DEVICEFAMILY</String>
+		<String>GENERATIONID</String>
+		<String>DESCRIPTION</String>
+		<String>DISPLAYNAME</String>
+		<String>HDLLANGUAGE</String>
+		<String>MODULE KIND</String>
+		<String>PROJECTNAME</String>
+		<String>SYSTEM NAME</String>
+		<String>XML VERSION</String>
+		<String>CATEGORIES</String>
+		<String>FABRICMODE</String>
+		<String>SYSTEMHASH</String>
+		<String>BONUSDATA</String>
+		<String>COMPONENT</String>
+		<String>TIMESTAMP</String>
+		<String>ENCODING</String>
+		<String>AVALON_</String>
+		<String>ELEMENT</String>
+		<String>ENABLED</String>
+		<String>VERILOG</String>
+		<String>.RESET</String>
+		<String>CLOCK_</String>
+		<String>_CLOCK</String>
+		<String>_RESET</String>
+		<String>AUTO_</String>
+		<String>CDATA</String>
+		<String>FALSE</String>
+		<String>START</String>
+		<String>UTF-8</String>
+		<String>VALUE</String>
+		<String>QSYS</String>
+		<String>TAGS</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

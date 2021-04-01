@@ -1,0 +1,81 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>3ds Max XML Animation File</FileType>
+		<Ext>XAF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Autodesk_3ds_Max</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>1</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C4D6178416E696D6174696F6E2076657273696F6E3D22</Bytes>
+			<ASCII> . M a x A n i m a t i o n   v e r s i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MAXANIMATION VERSION</String>
+		<String>SCENEINFO FILENAME</String>
+		<String>OUTOFRANGEBEFORE</String>
+		<String>CONTROLLER NAME</String>
+		<String>OUTOFRANGEAFTER</String>
+		<String>PARENTNODEINDEX</String>
+		<String>SAMPLES COUNT</String>
+		<String>TICKSPERFRAME</String>
+		<String>BEZIER FLOAT</String>
+		<String>OUTRANGELOOP</String>
+		<String>POSITION XYZ</String>
+		<String>SUPERCLASSID</String>
+		<String>INRANGELOOP</String>
+		<String>NUMCHILDREN</String>
+		<String>CUSTOMDATA</String>
+		<String>FILTERTYPE</String>
+		<String>KEYS COUNT</String>
+		<String>X POSITION</String>
+		<String>Y POSITION</String>
+		<String>Z POSITION</String>
+		<String>FRAMERATE</String>
+		<String>NODE NAME</String>
+		<String>OUTTANVAL</String>
+		<String>STARTTICK</String>
+		<String>TRANSFORM</String>
+		<String>CONSTANT</String>
+		<String>INTANVAL</String>
+		<String>ROTATION</String>
+		<String>UNCONHAN</String>
+		<String>CLASSOF</String>
+		<String>ENDTICK</String>
+		<String>OUTLEN</String>
+		<String>SUBNUM</String>
+		<String>FALSE</String>
+		<String>INLEN</String>
+		<String>KEY T</String>
+		<String>SCALE</String>
+		<String>.MAX</String>
+		<String>CVEL</String>
+		<String>DATE</String>
+		<String>FLAT</String>
+		<String>POSX</String>
+		<String>POSY</String>
+		<String>POSZ</String>
+	</GlobalStrings>
+</TrID>

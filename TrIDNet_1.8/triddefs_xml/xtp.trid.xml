@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XTrkCAD parameters</FileType>
+		<Ext>XTP</Ext>
+		<ExtraInfo>
+			<Rem>XTrkCAD is a CAD program for designing model railroad layouts.</Rem>
+			<RefURL>http://www.xtrkcad.org</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>73</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>08</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>434F4E54454E545320</Bytes>
+			<ASCII> C O N T E N T S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

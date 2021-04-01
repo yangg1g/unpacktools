@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ratDVD DVD image</FileType>
+		<Ext>RATDVD</Ext>
+		<ExtraInfo>
+			<Rem>ratDVD provide a way to encode a complete, full featured DVD in one file.</Rem>
+			<RefURL>http://www.ratdvd.dk</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>06</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>43</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>56657273696F6E2E786D6C3C3F786D6C2076657273696F6E3D22</Bytes>
+			<ASCII> V e r s i o n . x m l . ? x m l   v e r s i o n = "</ASCII>
+			<Pos>30</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VERSIONINFO</String>
+		<String>VERSION.XML</String>
+		<String>XML VERSION</String>
+		<String>FORMAT</String>
+		<String>CORE</String>
+	</GlobalStrings>
+</TrID>

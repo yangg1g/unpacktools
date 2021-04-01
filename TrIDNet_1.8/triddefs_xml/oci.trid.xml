@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OpenCanvas Image</FileType>
+		<Ext>OCI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Opencanvas</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>7</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>21</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4F50494D30</Bytes>
+			<ASCII> O P I M 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4F544E4C</Bytes>
+			<ASCII> O T N L</ASCII>
+			<Pos>56</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>OEVP0</String>
+		<String>OPIM0</String>
+		<String>OBEV</String>
+		<String>OBIM</String>
+		<String>OLYR</String>
+		<String>OMSK</String>
+		<String>OTNL</String>
+	</GlobalStrings>
+</TrID>

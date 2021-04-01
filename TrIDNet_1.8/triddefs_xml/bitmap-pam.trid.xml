@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Portable Arbitrary Map bitmap</FileType>
+		<Ext>PAM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://netpbm.sourceforge.net/doc/pam.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>3</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>30</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5037</Bytes>
+			<ASCII> P 7</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TUPLTYPE</String>
+		<String>ENDHDR</String>
+		<String>HEIGHT</String>
+		<String>MAXVAL</String>
+		<String>DEPTH</String>
+		<String>WIDTH</String>
+	</GlobalStrings>
+</TrID>

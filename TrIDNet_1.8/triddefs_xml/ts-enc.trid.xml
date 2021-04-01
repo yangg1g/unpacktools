@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TopStudio encrypted</FileType>
+		<Ext>ENCRYPTED</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>42</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5453</Bytes>
+			<ASCII> T S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>546869732066696C652077617320656E63727970746564207769746820546F7053747564696F20456E6372797074696E6720456E67696E650D0A</Bytes>
+			<ASCII> T h i s   f i l e   w a s   e n c r y p t e d   w i t h   T o p S t u d i o   E n c r y p t i n g   E n g i n e</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

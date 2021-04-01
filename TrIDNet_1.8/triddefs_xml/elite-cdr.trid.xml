@@ -1,0 +1,40 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Elite Plus Commander file / saved game</FileType>
+        <Ext>CDR</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>5</FileNum>
+        <Refine></Refine>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </Date>
+        <Time>
+            <Hour>12</Hour>
+            <Min>55</Min>
+            <Sec>10</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>454C49544520436F6D6D616E6465722046696C651A</Bytes>
+            <ASCII> E L I T E   C o m m a n d e r   F i l e</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>204372656469747300</Bytes>
+            <ASCII>   C r e d i t s</ASCII>
+            <Pos>43</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

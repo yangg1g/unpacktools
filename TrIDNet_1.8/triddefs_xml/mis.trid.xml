@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>McGrath Information Solution metadata</FileType>
+		<Ext>MIS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mcgrathinfosolution.com/mis_en.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>02</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>53</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>636F6E74656E742D737461727420203A</Bytes>
+			<ASCII> c o n t e n t - s t a r t     :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>WWW.MCGRATHINFOSOLUTION.COM</String>
+		<String>CONTENT-SUBTYPE</String>
+		<String>DESCRIPTION-LG</String>
+		<String>DESCRIPTION-CE</String>
+		<String>LANGUAGE-MULTI</String>
+		<String>LANGUAGE-START</String>
+		<String>CONTENT-START</String>
+		<String>LANGUAGE-STOP</String>
+		<String>CONTENT-TYPE</String>
+		<String>CONTENT-STOP</String>
+		<String>MIS-VERSION</String>
+		<String>RATING-AGE</String>
+		<String>APP-UPDATE</String>
+		<String>APP-NAME</String>
+		<String>APP-DESC</String>
+		<String>APP-URL</String>
+		<String>CREATED</String>
+		<String>APP-END</String>
+		<String>ENGLISH</String>
+		<String>FILES</String>
+		<String>TITLE</String>
+		<String>IMDB</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Swift 3D 3D Graphic</FileType>
+		<Ext>T3D</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.erain.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>40</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>426567696E20</Bytes>
+			<ASCII> B e g i n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BEGIN POLYGON ITEM</String>
+		<String>BEGIN POLYLIST</String>
+		<String>END POLYLIST</String>
+		<String>VERTEX</String>
+		<String>END POLYGON</String>
+		<String>ORIGIN</String>
+		<String>TEXTUREV</String>
+		<String>NORMAL</String>
+		<String>TEXTUREU</String>
+		<String>LINK</String>
+	</GlobalStrings>
+</TrID>

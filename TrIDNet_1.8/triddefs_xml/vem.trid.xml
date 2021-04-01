@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MM Video E-Mail</FileType>
+		<Ext>VEM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mmedia.com.tw</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>04</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>50</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>48696768204A504547204461746120696E204D656D6F7279</Bytes>
+			<ASCII> H i g h 	J P E G 	D a t a 	i n 	M e m o r y</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>HIGH JPEG DATA IN MEMORY</String>
+		<String>VIDEO MAIL FROM</String>
+	</GlobalStrings>
+</TrID>

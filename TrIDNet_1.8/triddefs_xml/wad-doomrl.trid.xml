@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DoomRL WAD resource</FileType>
+		<Ext>WAD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://doom.chaosforge.org</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>35</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>08564446494C453032</Bytes>
+			<ASCII> . V D F I L E 0 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BEINGS.LUA__COMPILED</String>
+		<String>MEDALS.LUA__COMPILED</String>
+		<String>CELLS.LUA__COMPILED</String>
+		<String>ITEMS.LUA__COMPILED</String>
+		<String>LEVEL.LUA__COMPILED</String>
+		<String>CORE.LUA__COMPILED</String>
+		<String>MAIN.LUA__COMPILED</String>
+		<String>PITS.LUA__COMPILED</String>
+		<String>AI.LUA__COMPILED</String>
+		<String>GENERATOR</String>
+		<String>SHADOW</String>
+	</GlobalStrings>
+</TrID>

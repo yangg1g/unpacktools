@@ -1,0 +1,177 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Apple Keynote Presentation data</FileType>
+		<Ext>APXL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Keynote_(presentation_software)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>25</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>4</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>7</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0A3C</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DATAFORMATTERHASTHOUSANDSSEPARATORS</String>
+		<String>BGSHOWUISTATESELECTEDDRAWABLES</String>
+		<String>DATAFORMATTERNUMBEROFDECIMALS</String>
+		<String>HORIZONTALSTACKEDBARDEFAULTS</String>
+		<String>BGSHOWUISTATESELECTEDSLIDES</String>
+		<String>PARAGRAPH-FIRST-LINE-INDENT</String>
+		<String>VERTICALSTACKEDBARDEFAULTS</String>
+		<String>BGSHOWUISTATECANVASORIGIN</String>
+		<String>BGSHOWUISTATENOTESVISIBLE</String>
+		<String>LAYERELEMENTSFORSHADOWING</String>
+		<String>LINE-HEAD-STYLE IS-FILLED</String>
+		<String>LINE-TAIL-STYLE IS-FILLED</String>
+		<String>BGSHOWUISTATEACTIVESLIDE</String>
+		<String>BGSHOWUISTATEWINDOWSIZE</String>
+		<String>PIESLICEPERCENTVISIBLE</String>
+		<String>BACKGROUND-FILL-STYLE</String>
+		<String>CPBORDERCOLORPROPERTY</String>
+		<String>HORIZONTALBARDEFAULTS</String>
+		<String>PARAGRAPH-HEAD-INDENT</String>
+		<String>SYMBOL NUMBEROFPOINTS</String>
+		<String>TRANSITION-STYLE TYPE</String>
+		<String>FILL-STYLE FILL-TYPE</String>
+		<String>PROTOTYPE-PLUGIN KEY</String>
+		<String>SHADOW-STYLE OPACITY</String>
+		<String>STROKE-STYLE VERSION</String>
+		<String>APPLICATION-VERSION</String>
+		<String>DATAFORMATTERPREFIX</String>
+		<String>DATAFORMATTERSUFFIX</String>
+		<String>PARAGRAPH-ALIGNMENT</String>
+		<String>PROTOTYPE-DRAWABLES</String>
+		<String>STACKEDAREADEFAULTS</String>
+		<String>VERTICALBARDEFAULTS</String>
+		<String>BUILDCHUNKINGSTYLE</String>
+		<String>BULLET-INDENTATION</String>
+		<String>DASH-STYLE PATTERN</String>
+		<String>MAJORTICKPOSITIONS</String>
+		<String>MINORTICKPOSITIONS</String>
+		<String>SHAPE STROKE-COLOR</String>
+		<String>VERTICAL-ALIGNMENT</String>
+		<String>LOCK-ASPECT-RATIO</String>
+		<String>PROTOTYPE-BULLETS</String>
+		<String>PROTOTYPE-PLUGINS</String>
+		<String>TICKLABELSOPACITY</String>
+		<String>TICKLABELSVISIBLE</String>
+		<String>APPLICATION-NAME</String>
+		<String>REFERENCE ID-REF</String>
+		<String>THEME SLIDE-SIZE</String>
+		<String>TITLE VISIBILITY</String>
+		<String>CHART-PROTOTYPE</String>
+		<String>MASTER-SLIDE-ID</String>
+		<String>SERIESDIRECTION</String>
+		<String>TEXT-ATTRIBUTES</String>
+		<String>TEXTBOX OPACITY</String>
+		<String>TICKLABELSANGLE</String>
+		<String>ALTLINEOPACITY</String>
+		<String>ALTLINEVISIBLE</String>
+		<String>CPTEXTPROPERTY</String>
+		<String>INTERSERIESGAP</String>
+		<String>LEGEND VERSION</String>
+		<String>PIESLICEOFFSET</String>
+		<String>PROTOTYPE-DATA</String>
+		<String>SYMBOLFILLMODE</String>
+		<String>TRANSFORMATION</String>
+		<String>USEUSERMAXIMUM</String>
+		<String>USEUSERMINIMUM</String>
+		<String>-BULLET-STYLE</String>
+		<String>LABELPOSITION</String>
+		<String>MASTER-SLIDES</String>
+		<String>REFERENCE KEY</String>
+		<String>TRACKS-MASTER</String>
+		<String>LABELOPACITY</String>
+		<String>LABELVISIBLE</String>
+		<String>LINE OPACITY</String>
+		<String>LINEDEFAULTS</String>
+		<String>POINT_AT_TOP</String>
+		<String>PRESENTATION</String>
+		<String>STROKE-WIDTH</String>
+		<String>TITLEVISIBLE</String>
+		<String>GRIDOPACITY</String>
+		<String>INTERBARGAP</String>
+		<String>MARKER-TYPE</String>
+		<String>PAGE-NUMBER</String>
+		<String>PIEDEFAULTS</String>
+		<String>XML VERSION</String>
+		<String>FILL-COLOR</String>
+		<String>IMAGE-DATA</String>
+		<String>NUMBER KEY</String>
+		<String>SLIDE-LIST</String>
+		<String>STRING KEY</String>
+		<String>THUMBNAILS</String>
+		<String>TIME-STAMP</String>
+		<String>ARRAY KEY</String>
+		<String>BYTE-SIZE</String>
+		<String>COLOR KEY</String>
+		<String>FONT-NAME</String>
+		<String>FONT-SIZE</String>
+		<String>INHERITED</String>
+		<String>TAB-STOPS</String>
+		<String>DURATION</String>
+		<String>ENCODING</String>
+		<String>LOCATION</String>
+		<String>METADATA</String>
+		<String>RELATIVE</String>
+		<String>SHOWGRID</String>
+		<String>SHOWZERO</String>
+		<String>SLIDE ID</String>
+		<String>UI-STATE</String>
+		<String>AL-SIZE</String>
+		<String>CONTENT</String>
+		<String>KEYNOTE</String>
+		<String>NATURAL</String>
+		<String>NSCOLOR</String>
+		<String>SPACING</String>
+		<String>T-COLOR</String>
+		<String>CENTER</String>
+		<String>HIDDEN</String>
+		<String>NSFONT</String>
+		<String>RADIUS</String>
+		<String>STICKS</String>
+		<String>STYLES</String>
+		<String>THUMBS</String>
+		<String>APPLE</String>
+		<String>FALSE</String>
+		<String>LEVEL</String>
+		<String>SOLID</String>
+		<String>STEPS</String>
+		<String>UTF-8</String>
+		<String>APXL</String>
+		<String>AXES</String>
+		<String>AXIS</String>
+		<String>BODY</String>
+		<String>DICT</String>
+		<String>FILE</String>
+		<String>IGHT</String>
+		<String>LEFT</String>
+		<String>NONE</String>
+		<String>NULL</String>
+		<String>RAL-</String>
+		<String>ROOT</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

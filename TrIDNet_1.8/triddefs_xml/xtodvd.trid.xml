@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ConvertXtoDVD project</FileType>
+		<Ext>XTODVD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.vso-software.fr/products/convert_x_to_dvd/</RefURL>
+		</ExtraInfo>
+		<User>Ryan Jones</User>
+		<E-Mail>sciguyryan@gmail.com</E-Mail>
+		<Home>http://ccc-cymru.com</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>04</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>05</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C</Bytes>
+			<ASCII> . ? x m l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONVERTXTODVD</String>
+	</GlobalStrings>
+</TrID>

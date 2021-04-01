@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AUSREP Sailing Plan (SP)</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem>AUSREP is an integral part of the Maritime Search and Rescue (SAR) system in Australia.</Rem>
+			<RefURL>http://www.amsa.gov.au/Shipping_Safety/AUSREP/AUSREP_system/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>08</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>15</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4155535245502F53502F2F</Bytes>
+			<ASCII> A U S R E P / S P / /</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

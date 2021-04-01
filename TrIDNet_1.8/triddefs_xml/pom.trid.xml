@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Maven Project Object Model</FileType>
+		<Ext>POM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Maven</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>31</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>33</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DEPENDENCIES</String>
+		<String>MODELVERSION</String>
+		<String>ARTIFACTID</String>
+		<String>DEPENDENCY</String>
+		<String>GROUPID</String>
+		<String>PROJECT</String>
+		<String>ATION</String>
+		<String>MAVEN</String>
+		<String>.ORG</String>
+		<String>HTTP</String>
+		<String>NAME</String>
+		<String>ORG.</String>
+	</GlobalStrings>
+</TrID>

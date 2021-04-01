@@ -1,0 +1,136 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CrystalMaker Data format (v2-4)</FileType>
+		<Ext>CMDF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.crystalmaker.co.uk/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>23</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>434D44464372797374616C4D616B65724D08</Bytes>
+			<ASCII> C M D F C r y s t a l M a k e r M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>19</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>21</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52454E44</Bytes>
+			<ASCII> R E N D</ASCII>
+			<Pos>32</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>44435545</Bytes>
+			<ASCII> D C U E</ASCII>
+			<Pos>100</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>50525350</Bytes>
+			<ASCII> P R S P</ASCII>
+			<Pos>117</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D4F444C</Bytes>
+			<ASCII> M O D L</ASCII>
+			<Pos>126</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>454C5052</Bytes>
+			<ASCII> E L P R</ASCII>
+			<Pos>131</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>53434C50</Bytes>
+			<ASCII> S C L P</ASCII>
+			<Pos>139</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>42524144</Bytes>
+			<ASCII> B R A D</ASCII>
+			<Pos>146</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>53555246</Bytes>
+			<ASCII> S U R F</ASCII>
+			<Pos>158</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5543454C</Bytes>
+			<ASCII> U C E L</ASCII>
+			<Pos>193</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>41584553</Bytes>
+			<ASCII> A X E S</ASCII>
+			<Pos>212</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4C41424C</Bytes>
+			<ASCII> L A B L</ASCII>
+			<Pos>218</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>47656E657661</Bytes>
+			<ASCII> G e n e v a</ASCII>
+			<Pos>225</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4241434B</Bytes>
+			<ASCII> B A C K</ASCII>
+			<Pos>233</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43454C4C</Bytes>
+			<ASCII> C E L L</ASCII>
+			<Pos>250</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>56494557</Bytes>
+			<ASCII> V I E W</ASCII>
+			<Pos>278</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52414E37</Bytes>
+			<ASCII> R A N 7</ASCII>
+			<Pos>330</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5343414C</Bytes>
+			<ASCII> S C A L</ASCII>
+			<Pos>358</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>53594D4D</Bytes>
+			<ASCII> S Y M M</ASCII>
+			<Pos>382</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>41554E37000000</Bytes>
+			<ASCII> A U N 7</ASCII>
+			<Pos>422</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

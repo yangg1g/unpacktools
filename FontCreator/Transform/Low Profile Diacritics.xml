@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+  <TransformScript>
+    <OtherComments>
+      <Content>Low Profile Diacritics
+This script inserts low profile diacritics designed for use with uppercase composites.
+They need to be edited manually to reduce their vertical size to about 70% but they should retain the same weight. Although they are only used with uppercase, they should be positioned vertically for lowercase. FontCreator will move them up for uppercase, the same as it does with regular accents.</Content>
+    </OtherComments>
+    <GlyphInsertCharacters>
+      <Characters>57365-57376</Characters>
+      <OverrideRange>TRUE</OverrideRange>
+    </GlyphInsertCharacters>
+    <GlyphCompleteComposites>
+    </GlyphCompleteComposites>
+    <GlyphDecompose>
+    </GlyphDecompose>
+    <MetricsWidth>
+      <WidthType>0</WidthType>
+      <Width>1024</Width>
+      <Adjust>0</Adjust>
+    </MetricsWidth>
+    <MetricsCenterGlyph>
+    </MetricsCenterGlyph>
+    <MetricsLeftSideBearing>
+    </MetricsLeftSideBearing>
+  </TransformScript>
+</DATA>

@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ElectricImage 3D file</FileType>
+		<Ext>FACT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.eitechnologygroup.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>09</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>464F524D</Bytes>
+			<ASCII> F O R M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3344464C464F524D</Bytes>
+			<ASCII> 3 D F L F O R M</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

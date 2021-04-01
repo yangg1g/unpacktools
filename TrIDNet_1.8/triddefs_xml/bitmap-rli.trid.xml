@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RealWorld Layered Image bitmap</FileType>
+		<Ext>RLI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.rw-designer.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>12</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>55</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52574C617965726564496D6167655F314C414552</Bytes>
+			<ASCII> R W L a y e r e d I m a g e _ 1 L A E R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>004E414D45</Bytes>
+			<ASCII> . N A M E</ASCII>
+			<Pos>23</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

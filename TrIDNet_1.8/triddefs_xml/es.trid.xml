@@ -1,0 +1,110 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>E-Studio 1.x experiment</FileType>
+		<Ext>ES</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pstnet.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>7</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>46</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B</Bytes>
+			<ASCII> [</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RECEIVEFEEDBACKDURINGDATAFILECONVERSION</String>
+		<String>PLEASE ENTER THE SESSION NUMBER (</String>
+		<String>PLEASE ENTER THE SUBJECT NUMBER (</String>
+		<String>PLEASE ENTER SUBJECT</String>
+		<String>REMOVEERECOVERYFILE</String>
+		<String>WARNBEFOREOVERWRITE</String>
+		<String>WARNIFCONVERTFAILED</String>
+		<String>FLOWLINES(0).COUNT</String>
+		<String>VERSIONINTERNAL</String>
+		<String>_VERSIONPERSIST</String>
+		<String>DISPLAYSUMMARY</String>
+		<String>THE EXPERIMENT</String>
+		<String>PROMPTENABLED</String>
+		<String>PRIVATEFLAGS</String>
+		<String>VERSIONBUILD</String>
+		<String>VERSIONMAJOR</String>
+		<String>VERSIONMINOR</String>
+		<String>PRIVATEINFO</String>
+		<String>SESSIONPROC</String>
+		<String>STARTUPINFO</String>
+		<String>USEDEFAULTS</String>
+		<String>_STOCKPROPS</String>
+		<String>DEVICENAME</String>
+		<String>OPENDEVICE</String>
+		<String>USERSCRIPT</String>
+		<String>MAXLENGTH</String>
+		<String>PROCEDURE</String>
+		<String>_ITEMLIST</String>
+		<String>(1).NAME</String>
+		<String>ABSTRACT</String>
+		<String>CHANNELS</String>
+		<String>COLLECTI</String>
+		<String>DATATYPE</String>
+		<String>KEYBOARD</String>
+		<String>LOGGING(</String>
+		<String>LOGLEVEL</String>
+		<String>OPENMODE</String>
+		<String>SUBTRIAL</String>
+		<String>TYPENAME</String>
+		<String>_EXTENTX</String>
+		<String>_EXTENTY</String>
+		<String>CORRECT</String>
+		<String>DEVICE0</String>
+		<String>LOGDATA</String>
+		<String>OBJECT0</String>
+		<String>OBJECT1</String>
+		<String>RESS AN</String>
+		<String>SAMPLES</String>
+		<String>AUTHOR</String>
+		<String>CHOICE</String>
+		<String>FORMAT</String>
+		<String>HEIGHT</String>
+		<String>).LOG</String>
+		<String>ATION</String>
+		<String>BLOCK</String>
+		<String>CLASS</String>
+		<String>CTION</String>
+		<String>MOUSE</String>
+		<String>NOTES</String>
+		<String>ORDER</String>
+		<String>OTHER</String>
+		<String>SOUND</String>
+		<String>VALUE</String>
+		<String>WIDTH</String>
+		<String>DITI</String>
+		<String>EXIT</String>
+		<String>ICAL</String>
+		<String>MEAN</String>
+		<String>NDER</String>
+		<String>RESE</String>
+		<String>ROOT</String>
+		<String>STRI</String>
+		<String>WILL</String>
+	</GlobalStrings>
+</TrID>

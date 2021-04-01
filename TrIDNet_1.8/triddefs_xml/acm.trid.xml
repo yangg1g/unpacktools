@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Audio Compression Manager driver</FileType>
+		<Ext>ACM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>54</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>59</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A</Bytes>
+			<ASCII> M Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>3</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>THIS PROGRAM CANNOT BE RUN IN DOS MODE.</String>
+		<String>GETDRIVERMODULEHANDLE</String>
+		<String>DEFDRIVERPROC</String>
+		<String>KERNEL32.DLL</String>
+		<String>USER32.DLL</String>
+		<String>WINMM.DLL</String>
+		<String>STRING</String>
+		<String>.RELOC</String>
+		<String>D'E'C</String>
+		<String>F'I'L</String>
+		<String>.TEXT</String>
+		<String>PE''L</String>
+		<String>LOCAL</String>
+		<String>AUDC</String>
+		<String>LOAD</String>
+	</GlobalStrings>
+</TrID>

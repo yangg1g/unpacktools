@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Program DataBase</FileType>
+		<Ext>PDB</Ext>
+		<ExtraInfo>
+			<Rem>Symbol Table / Debug info used by Microsoft's compilers</Rem>
+			<RefURL>http://msdn.microsoft.com/library/en-us/vsdebug/html/_core_The_..PDB_Files.asp</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>48</FileNum>
+		<Refine>1 by Mario "ViRtuAl FoX" Leone - 2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>13</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D6963726F736F667420432F432B2B20</Bytes>
+			<ASCII> M i c r o s o f t   C / C + +</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MICROSOFT C</String>
+		<String>FILE</String>
+	</GlobalStrings>
+</TrID>

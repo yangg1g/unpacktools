@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HALion Sampler patch - bank</FileType>
+		<Ext>FXB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.steinberg.de</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>06</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>43636E4B00</Bytes>
+			<ASCII> C c n K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

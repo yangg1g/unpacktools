@@ -1,0 +1,39 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Picture Pump Project File</FileType>
+        <Ext>PPP</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://zmey.com.ru/abtpp_e.html</RefURL>
+        </ExtraInfo>
+        <User>.Cryorb</User>
+        <E-Mail>vy@nospam@tut.by</E-Mail>
+        <Home></Home>
+    </Info>
+    <General>
+        <FileNum>6</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>09</Month>
+            <Day>18</Day>
+        </Date>
+        <Time>
+            <Hour>19</Hour>
+            <Min>19</Min>
+            <Sec>01</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>506963747572652050756D702050726F6A6563742046696C6520312E300D0A</Bytes>
+            <ASCII> P i c t u r e   P u m p   P r o j e c t   F i l e   1 . 0</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00687474703A2F2F</Bytes>
+            <ASCII> . h t t p : / /</ASCII>
+            <Pos>32</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

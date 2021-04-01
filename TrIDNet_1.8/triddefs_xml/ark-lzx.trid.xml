@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LZX Amiga compressed archive</FileType>
+		<Ext>LZX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://xavprods.free.fr/lzx/</RefURL>
+		</ExtraInfo>
+		<User>Lukasz Jakubowski</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>83</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>24</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4C5A5800</Bytes>
+			<ASCII> L Z X</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

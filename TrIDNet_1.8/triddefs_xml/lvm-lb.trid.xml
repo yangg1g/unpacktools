@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LabVIEW Measurement</FileType>
+		<Ext>LVM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/LabVIEW</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>03</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>17</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4C616256494557204D6561737572656D656E74090D0A</Bytes>
+			<ASCII> L a b V I E W	M e a s u r e m e n t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>***END_OF_HEADER***</String>
+		<String>LABVIEW MEASUREMENT</String>
+		<String>MULTI_HEADINGS</String>
+		<String>WRITER_VERSION</String>
+		<String>READER_VERSION</String>
+		<String>X_DIMENSION</String>
+		<String>TIME_PREF</String>
+		<String>SEPARATOR</String>
+		<String>X_COLUMNS</String>
+		<String>OPERATOR</String>
+		<String>CHANNELS</String>
+		<String>SAMPLES</String>
+		<String>DELTA_X</String>
+		<String>X_VALUE</String>
+		<String>DATE</String>
+	</GlobalStrings>
+</TrID>

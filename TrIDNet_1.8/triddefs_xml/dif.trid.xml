@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Data Interchange Format - Table</FileType>
+		<Ext>DIF</Ext>
+		<ExtraInfo>
+			<Rem>The original DIF standard is an old standard that allows data files to be interchanged between different programs.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Data_Interchange_Format</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>50</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5441424C450D0A302C310D0A22</Bytes>
+			<ASCII> T A B L E . . 0 , 1 . . "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DATA</String>
+		<String>TABLE</String>
+		<String>TUPLES</String>
+		<String>VECTORS</String>
+	</GlobalStrings>
+</TrID>

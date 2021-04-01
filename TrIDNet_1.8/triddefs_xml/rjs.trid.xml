@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RealSystem Skin</FileType>
+		<Ext>RJS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.real.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>04</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>04</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MINIMIZE.BMPPK</String>
+		<String>BACKGND.BMPPK</String>
+		<String>SKIN.INIPK</String>
+		<String>FULLMODE.</String>
+		<String>VOLTHUMB.</String>
+		<String>VOLTRACK.</String>
+		<String>PREVIOUS.</String>
+		<String>PAUSE.</String>
+		<String>EXIT.</String>
+		<String>PLAY.</String>
+		<String>NEXT.</String>
+		<String>MENU.</String>
+		<String>URL.</String>
+	</GlobalStrings>
+</TrID>

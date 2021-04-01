@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+ <TransformScript>
+  <OtherComments>
+   <Content>Old Style Figures
+This script inserts Old Style Figures in the Private Use Area. It is just an aid to design. After running it you will need to edit the glyphs and align them correctly for the x-height of your font.</Content>
+  </OtherComments>
+  <GlyphInsertCharacters>
+   <Characters>58048-58050</Characters>
+   <OverrideRange>TRUE</OverrideRange>
+  </GlyphInsertCharacters>
+  <GlyphCompleteComposites>
+  </GlyphCompleteComposites>
+  <GlyphDecompose>
+  </GlyphDecompose>
+  <OutlineScale>
+   <AroundType>1</AroundType>
+   <AroundCorner>7</AroundCorner>
+   <AroundXPos>0</AroundXPos>
+   <AroundYPos>0</AroundYPos>
+   <Horizontal>100.00</Horizontal>
+   <Vertical>75.00</Vertical>
+   <PreserveBearings>FALSE</PreserveBearings>
+  </OutlineScale>
+  <GlyphInsertCharacters>
+   <Characters>58051-58053, 58055, 58057</Characters>
+   <OverrideRange>TRUE</OverrideRange>
+  </GlyphInsertCharacters>
+  <GlyphCompleteComposites>
+  </GlyphCompleteComposites>
+  <GlyphDecompose>
+  </GlyphDecompose>
+  <OutlineMove>
+   <Horizontal>0</Horizontal>
+   <Vertical>-375</Vertical>
+  </OutlineMove>
+  <GlyphInsertCharacters>
+   <Characters>58054, 58056</Characters>
+   <OverrideRange>TRUE</OverrideRange>
+  </GlyphInsertCharacters>
+  <GlyphCompleteComposites>
+  </GlyphCompleteComposites>
+  <GlyphDecompose>
+  </GlyphDecompose>
+ </TransformScript>
+</DATA>

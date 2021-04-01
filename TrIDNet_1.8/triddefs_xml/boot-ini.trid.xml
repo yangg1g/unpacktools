@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Boot Loarder information</FileType>
+		<Ext>INI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://tinyurl.com/kgvuu</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>50</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B626F6F74206C6F616465725D</Bytes>
+			<ASCII> [ b o o t   l o a d e r ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>OPERATING SYSTEMS</String>
+		<String>BOOT LOADER</String>
+		<String>PARTITION</String>
+		<String>DEFAULT</String>
+		<String>TIMEOUT</String>
+		<String>MULTI</String>
+		<String>RDISK</String>
+	</GlobalStrings>
+</TrID>

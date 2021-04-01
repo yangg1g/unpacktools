@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GBG DraftMaker V6.0 drawing</FileType>
+		<Ext>D</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Dreadnought</User>
+		<E-Mail></E-Mail>
+		<Home>http://tinyurl.com/d8zs4tz</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>05</Min>
+			<Sec>54</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7D20394742472D567B362E7B307B303B47424C49422D567B362E7B307B</Bytes>
+			<ASCII> }   9 G B G - V { 6 . { 0 { 0 ; G B L I B - V { 6 . { 0 {</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

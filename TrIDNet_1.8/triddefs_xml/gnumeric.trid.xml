@@ -1,0 +1,88 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GNUMERIC spreedshet (XML, ungzipped)</FileType>
+		<Ext>GNUMERIC/XML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Gnumeric</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>5</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>24</Min>
+			<Sec>1</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E3022</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>STYLEREGION STARTCOL</String>
+		<String>MONOCHROME VALUE</String>
+		<String>PRINTINFORMATION</String>
+		<String>GEOMETRY WIDTH</String>
+		<String>WORKBOOK XMLNS</String>
+		<String>HCENTER VALUE</String>
+		<String>VCENTER VALUE</String>
+		<String>PATTERNCOLOR</String>
+		<String>STYLE HALIGN</String>
+		<String>TITLES VALUE</String>
+		<String>DRAFT VALUE</String>
+		<String>FOOTER LEFT</String>
+		<String>HEADER LEFT</String>
+		<String>ORIENTATION</String>
+		<String>SELECTEDTAB</String>
+		<String>XML VERSION</String>
+		<String>GRID VALUE</String>
+		<String>ROWINFO NO</String>
+		<String>FONT UNIT</String>
+		<String>PREFUNIT</String>
+		<String>STARTROW</String>
+		<String>T POINTS</String>
+		<String>BOTTOM</String>
+		<String>CATION</String>
+		<String>ENDCOL</String>
+		<String>ENDROW</String>
+		<String>HEIGHT</String>
+		<String>MARGIN</String>
+		<String>MAXCOL</String>
+		<String>MAXROW</String>
+		<String>MIDDLE</String>
+		<String>SHEETS</String>
+		<String>STYLES</String>
+		<String>UIDATA</String>
+		<String>VALIGN</String>
+		<String>WWW.GN</String>
+		<String>CELLS</String>
+		<String>ORDER</String>
+		<String>RIGHT</String>
+		<String>SHADE</String>
+		<String>.ORG</String>
+		<String>BOLD</String>
+		<String>COLS</String>
+		<String>ERAL</String>
+		<String>GENE</String>
+		<String>HTTP</String>
+		<String>NAME</String>
+		<String>PAGE</String>
+		<String>ROWS</String>
+		<String>ZOOM</String>
+	</GlobalStrings>
+</TrID>

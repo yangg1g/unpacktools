@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TGF chemical test (UNIX)</FileType>
+		<Ext>TGF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mdli.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>21</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2456657273696F6E3A20</Bytes>
+			<ASCII> $ V e r s i o n :</ASCII>
+			<Pos>1</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>$FILL_RGB2COLOR</String>
+		<String>$PEN_RGB2COLOR</String>
+		<String>$MDLEDITTEXT</String>
+		<String>$OBJ_COORDS</String>
+		<String>$ENDSKETCH</String>
+		<String>DEFFORMAT</String>
+		<String>$VERSION</String>
+		<String>$TOTOBJS</String>
+		<String>$RXNATCH</String>
+		<String>FONTTBL</String>
+		<String>$FONT</String>
+		<String>PLAIN</String>
+		<String>RTF1</String>
+	</GlobalStrings>
+</TrID>

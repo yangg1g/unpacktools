@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AutoCAD Plotter Configuration</FileType>
+		<Ext>PC3</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/AutoCAD</RefURL>
+		</ExtraInfo>
+		<User>Peter Glasl</User>
+		<E-Mail></E-Mail>
+		<Home>www.cadraktiv.ch</Home>
+	</Info>
+	<General>
+		<FileNum>28</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>07</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>07</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50494146494C4556455253494F4E5F322E302C504333564552312C636F6D70726573730D0A706D7A6C6962636F646563</Bytes>
+			<ASCII> P I A F I L E V E R S I O N _ 2 . 0 , P C 3 V E R 1 , c o m p r e s s . . p m z l i b c o d e c</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>54</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000078DA</Bytes>
+			<ASCII> . . x</ASCII>
+			<Pos>58</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PIAFILEVERSION_2.0</String>
+		<String>PMZLIBCODEC</String>
+		<String>COMPRESS</String>
+		<String>PC3VER1</String>
+	</GlobalStrings>
+</TrID>

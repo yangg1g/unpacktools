@@ -1,0 +1,5 @@
+USEUNIT("fmt_wav.cpp");
+USEDEF("fmt_wav.def");
+USEUNIT("..\..\..\api\inc\ExtrDefs.c");
+//---------------------------------------------------------------------------
+DllMain

@@ -1,0 +1,86 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HP Photosmart Photo Printing Album</FileType>
+		<Ext>ALBM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.hp.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>36</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>13</Min>
+			<Sec>54</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>49006D006100670065007300530074006F00720065</Bytes>
+			<ASCII> I . m . a . g . e . s . S . t . o . r . e</ASCII>
+			<Pos>1152</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>50006100670065007300530074006F00720065</Bytes>
+			<ASCII> P . a . g . e . s . S . t . o . r . e</ASCII>
+			<Pos>1280</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>41006C00620075006D004100740074007200690062007500740065007300530074007200650061006D00</Bytes>
+			<ASCII> A . l . b . u . m . A . t . t . r . i . b . u . t . e . s . S . t . r . e . a . m</ASCII>
+			<Pos>1408</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>49006400530074007200650061006D00</Bytes>
+			<ASCII> I . d . S . t . r . e . a . m</ASCII>
+			<Pos>1536</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>49006400530074007200650061006D00</Bytes>
+			<ASCII> I . d . S . t . r . e . a . m</ASCII>
+			<Pos>1664</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5000610067006500530074006F0072006500</Bytes>
+			<ASCII> P . a . g . e . S . t . o . r . e</ASCII>
+			<Pos>1792</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>500068006F0074006F007300530074006F00720065</Bytes>
+			<ASCII> P . h . o . t . o . s . S . t . o . r . e</ASCII>
+			<Pos>1920</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>P'A'G'E'P'H'O'T'O'A'T'T'R'I'B'U'T'E'S'S'T'R'E'A'M</String>
+		<String>P'A'G'E'I'T'E'M'A'T'T'R'I'B'U'T'E'S'S'T'R'E'A'M</String>
+		<String>I'M'A'G'E'A'T'T'R'I'B'U'T'E'S'S'T'R'E'A'M</String>
+		<String>A'L'B'U'M'A'T'T'R'I'B'U'T'E'S'S'T'R'E'A'M</String>
+		<String>P'A'G'E'A'T'T'R'I'B'U'T'E'S'S'T'R'E'A'M</String>
+		<String>A'N'N'O'T'A'T'I'O'N'S'S'T'O'R'E</String>
+		<String>P'H'O'T'O'S'S'T'O'R'E</String>
+		<String>I'M'A'G'E'S'S'T'O'R'E</String>
+		<String>B'I'T'S'S'T'R'E'A'M</String>
+		<String>P'H'O'T'O'S'T'O'R'E</String>
+		<String>I'M'A'G'E'S'T'O'R'E</String>
+		<String>P'A'G'E'S'S'T'O'R'E</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>P'A'G'E'S'T'O'R'E</String>
+		<String>I'D'S'T'R'E'A'M</String>
+		<String>IMAGE</String>
+	</GlobalStrings>
+</TrID>

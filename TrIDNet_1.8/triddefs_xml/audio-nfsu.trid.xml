@@ -1,0 +1,76 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Need for Speed: Underground audio</FileType>
+		<Ext>ABK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.eagames.com/official/nfs/underground/en/home.jsp</RefURL>
+		</ExtraInfo>
+		<User>Alvin Abdagic</User>
+		<E-Mail>alvinabdagic[remove me!]@hotmail.com</E-Mail>
+		<Home>http://wrath.t35.com</Home>
+	</Info>
+	<General>
+		<FileNum>83</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<Date>
+			<Year>2010</Year>
+			<Month>04</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>27</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>41424B430101</Bytes>
+			<ASCII> A B K C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000</Bytes>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>19</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>23</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00005C000000</Bytes>
+			<ASCII> . . \</ASCII>
+			<Pos>26</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>34</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000</Bytes>
+			<Pos>39</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>51</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>55</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000FFFFFFFFFFFFFFFF</Bytes>
+			<Pos>59</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

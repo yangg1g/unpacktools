@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Scripting Definition</FileType>
+		<Ext>SDEF</Ext>
+		<ExtraInfo>
+			<Rem>AppleScript Dictionary.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/AppleScript</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>05</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>05</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0A3C21444F43545950452064696374696F6E6172792053595354454D202266696C653A2F2F6C6F63616C686F73742F53797374656D2F4C6962726172792F445444732F736465662E647464223E0A</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ? . . . ! D O C T Y P E   d i c t i o n a r y   S Y S T E M   " f i l e : / / l o c a l h o s t / S y s t e m / L i b r a r y / D T D s / s d e f . d t d "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCTYPE DICTIONARY SYSTEM</String>
+		<String>APPLICATION</String>
+		<String>DESCRIPTION</String>
+		<String>XML VERSION</String>
+		<String>CLASS NAME</String>
+		<String>SUITE NAME</String>
+		<String>LOCALHOST</String>
+		<String>SCRIPTING</String>
+		<String>PROPERTY</String>
+		<String>COMMANDS</String>
+		<String>ENCODING</String>
+		<String>INHERITS</String>
+		<String>SDEF.DTD</String>
+		<String>A CLASS</String>
+		<String>LIBRARY</String>
+		<String>CLASSES</String>
+		<String>CURRENT</String>
+		<String>UTF-8</String>
+		<String>FILE</String>
+		<String>DTDS</String>
+		<String>CAPP</String>
+		<String>CODE</String>
+	</GlobalStrings>
+</TrID>

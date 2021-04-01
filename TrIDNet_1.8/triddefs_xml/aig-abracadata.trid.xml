@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Abracadata drawing</FileType>
+		<Ext>AIG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://web.archive.org/web/20000302203034/www.abracadata.com/html/index99.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>03</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>10</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>41627261636164617461202064726177696E671A1A</Bytes>
+			<ASCII> A b r a c a d a t a	d r a w i n g</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

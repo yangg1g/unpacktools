@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>NCSA Hierarchical Data Format</FileType>
+        <Ext>HDF</Ext>
+        <ExtraInfo>
+            <Rem>The Hierarchical Data Format (HDF) was designed to be an easy, straight-forward, and self-describing means of sharing scientific data among people, projects, and types of computers.</Rem>
+            <RefURL>http://hdf.ncsa.uiuc.edu/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>13</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>30</Day>
+        </Date>
+        <Time>
+            <Hour>02</Hour>
+            <Min>11</Min>
+            <Sec>03</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>0E031301</Bytes>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

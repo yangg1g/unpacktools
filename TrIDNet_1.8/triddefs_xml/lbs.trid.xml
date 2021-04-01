@@ -1,0 +1,70 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Omnis Studio Library</FileType>
+		<Ext>LBS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.omnis.net</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>78</FileNum>
+		<Refine>68 by Marco Pontello - 1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>21</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>01000000000000000100010003000100040081000501010007010100020001000000</Bytes>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7B7C7D7E7F</Bytes>
+			<ASCII> { | } ~</ASCII>
+			<Pos>1659</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>STARTUP_TASK</String>
+		<String>EXTCOMPLIBS</String>
+		<String>APPLICATION</String>
+		<String>0123456789</String>
+		<String>0.00 E-00</String>
+		<String>0.00 E+00</String>
+		<String>D M Y  H</String>
+		<String>INDEXES</String>
+		<String>DFORMS</String>
+		<String>RFONTS</String>
+		<String>STYLES</String>
+		<String>BFORMS</String>
+		<String>NFORMS</String>
+		<String>WFONTS</String>
+		<String>TFORMS</String>
+		<String>-AAA-</String>
+		<String>ICONS</String>
+		<String>GREEN</String>
+		<String>SLOTS</String>
+		<String>MASKS</String>
+		<String>()*+</String>
+		<String>HA11</String>
+		<String>HS11</String>
+		<String>HA10</String>
+		<String>EXT.</String>
+		<String>HA12</String>
+		<String>EXT(</String>
+		<String>HS10</String>
+	</GlobalStrings>
+</TrID>

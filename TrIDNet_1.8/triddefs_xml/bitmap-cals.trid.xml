@@ -1,0 +1,64 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CALS raster bitmap</FileType>
+		<Ext>CAL/CALS</Ext>
+		<ExtraInfo>
+			<Rem>The CALS bitmap format was developed in the mid-1980s to standardize on graphics data interchange for electronic publishing for the federal government.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>50</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>737263646F6369643A</Bytes>
+			<ASCII> s r c d o c i d :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>647374646F6369643A</Bytes>
+			<ASCII> d s t d o c i d :</ASCII>
+			<Pos>128</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>72747970653A</Bytes>
+			<ASCII> r t y p e :</ASCII>
+			<Pos>768</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>726F7269656E743A</Bytes>
+			<ASCII> r o r i e n t :</ASCII>
+			<Pos>896</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7270656C636E743A</Bytes>
+			<ASCII> r p e l c n t :</ASCII>
+			<Pos>1024</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7264656E73</Bytes>
+			<ASCII> r d e n s</ASCII>
+			<Pos>1152</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6E6F7465733A</Bytes>
+			<ASCII> n o t e s :</ASCII>
+			<Pos>1280</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

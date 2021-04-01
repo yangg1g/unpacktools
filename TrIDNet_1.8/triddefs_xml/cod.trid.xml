@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Forte Agent Charmap</FileType>
+		<Ext>COD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.forteinc.com/agent/index.php</RefURL>
+		</ExtraInfo>
+		<User>fenixproductions</User>
+		<E-Mail>fenixproductions at o2 dot pl</E-Mail>
+		<Home>http://fenixproductions.qsh.eu</Home>
+	</Info>
+	<General>
+		<FileNum>38</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>12</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>39</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4E616D653A20</Bytes>
+			<ASCII> N a m e :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CHARSET</String>
+		<String>DESCRIPTION</String>
+		<String>NAME</String>
+		<String>STR_DESC_</String>
+		<String>VERSION</String>
+	</GlobalStrings>
+</TrID>

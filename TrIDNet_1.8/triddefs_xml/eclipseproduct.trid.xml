@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Eclipse product marker</FileType>
+		<Ext>ECLIPSEPRODUCT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://wiki.eclipse.org/FAQ_What_is_an_Eclipse_product%3F</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>11</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>46</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2345636C697073652050726F647563742046696C65</Bytes>
+			<ASCII> # E c l i p s e   P r o d u c t   F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VERSION</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

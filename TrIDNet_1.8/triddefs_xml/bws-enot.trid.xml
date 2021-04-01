@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Photo Enote (Enot) external photo viewer settings</FileType>
+		<Ext>BWS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://acritum.com/pe</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>19</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B50484F544F56494557455253455454494E47535D0D</Bytes>
+			<ASCII> [ P H O T O V I E W E R S E T T I N G S ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PHOTOVIEWERSETTINGS</String>
+		<String>%ALBUM%</String>
+		<String>VSTUPID</String>
+		<String>SSTUPID</String>
+		<String>VLINE</String>
+		<String>SLINE</String>
+		<String>VEXE</String>
+		<String>SEXE</String>
+		<String>VPAR</String>
+		<String>SPAR</String>
+	</GlobalStrings>
+</TrID>

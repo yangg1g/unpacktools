@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DVD Video Recording format</FileType>
+		<Ext>VRO</Ext>
+		<ExtraInfo>
+			<Rem>.VRO files are created by DVD video recorders using the DVD-VR format.</Rem>
+			<RefURL>http://www.dvddemystified.com/dvdfaq.html#4.10</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>01</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>47</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000001BA4400040004010189C3F8000001BB001280C4E1</Bytes>
+			<ASCII> . . . . D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>E17FB9E0E8B8C020BDE03ABFE002000001BF07D45000000000</Bytes>
+			<ASCII> . . . . . . .   . . : . . . . . . . . . P</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000FFFFFFFFFF0000000000</Bytes>
+			<Pos>51</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

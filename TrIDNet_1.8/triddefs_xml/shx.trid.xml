@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Motorola Flash Superfile</FileType>
+		<Ext>SHX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>12</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>32</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50324B20537570657266696C65</Bytes>
+			<ASCII> P 2 K   S u p e r f i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4353462050726F74656374656420554E49582047656E65726174656420537570657266696C65</Bytes>
+			<ASCII> C S F   P r o t e c t e d   U N I X   G e n e r a t e d   S u p e r f i l e</ASCII>
+			<Pos>448</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>eXtended Artificial Intelligence Markup Language</FileType>
+		<Ext>XAIML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>https://launchpad.net/neobot</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>51</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>3</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>31</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E3022</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>XML VERSION</String>
+		<String>DEVELOPER</String>
+		<String>BOT TYPE</String>
+		<String>ENCODING</String>
+		<String>LANGUAGE</String>
+		<String>LICENSE</String>
+		<String>UTF-8</String>
+		<String>XAIML</String>
+	</GlobalStrings>
+</TrID>

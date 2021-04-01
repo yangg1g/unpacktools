@@ -1,0 +1,491 @@
+*** VGMToolbox r1040 (2017-08-19)
+[CRI CPK] Update to evaluate code page in file names.
+[CRI HCA] Add Kode54's patch for masked HCA signature.
+[VIDEO DEMUXER] 
+- PSS: Updated audio stream ID identification for multi-stream audio.
+- PSS: Added output detection for AC3 audio.
+- SFD: Added output detection for AC3 audio.
+[GENH] 
+- Updated GENH to support new format additions and formats: ATRAC3, ATRAC3+, XMA, XMA2, FFMPEG.
+- Can now use offsets for channels and interleave/block size.
+[WII WUD] Add quick check for bad file table pointers. i.e. Sam Warrior 3 sample.
+
+*** VGMToolbox r1026 (2016-11-28)
+[ADVANCED CUTTER] Add some 3DS, PS2, and WMA plugins.
+[CRI ACB/AWB ARCHIVES] 
+- Updated to support newer type.  AWB checksum not performed due to unknown hashing algorithm.  New Waveform IDs: "MemoryAwbId" and "StreamAwbId" now supported. 
+- Updated to skip entries with invalid Waveform Ids.
+[EXTERNAL FILE RENAMER] Fixed to create destination folder if it does not exist.
+[VFS EXTRACTOR] Fixed issue with filename being located at offset zero.
+[POS CREATOR] Update to handle missing RIFF chunks.  Update to require more than 10% occurrences of a shift within a batch for shift prediction.
+
+*** VGMToolbox r1022 (2016-07-21)
+[MICROSOFT EXFAT / PS VITA] 
+- Added support for current PS Vita Black Fin dumps.  
+- Basic parsing working, but non-contiguous clusters not supported.  I haven't seen any of these in the PSV dumps, but the ExFAT system supports it.
+- Extraction supported, but most, not all, files are encrypted.
+
+[OTHER] Add email link to "About" screen.
+
+*** VGMToolbox r1017 (2016-05-29)
+[NINTENDO WIIU WUD]
+- Added support for GI type partitions.
+- Added disk key file name option for scene release key name defaults: <ISO NAME>.key.  If that key is not present, will look for old default, "disckey.bin."
+[CRI ACB/AWB EXTRACTOR] Add ATRAC9 file extension.
+[ISO EXTRACTOR] Remove Microsoft STFS support.  Will fix eventually.
+
+*** VGMToolbox r1013 (2016-01-06)
+[NINTENDO WAD UNPACKER] Fix detection of Korean WAD files.
+
+*** VGMToolbox r1012 (2015-10-21)
+[PSF MAKER] Add Mark Grass v4.2.2 driver.
+[CRI ACB/AWB EXTRACTOR] Update to extract to subfolders for each type of archive (ACB, AWB) since some pairs have data in each file.
+[VGM TAGGER] Fixed to handle v1.71 and above files.  New versions should not require updating.
+[VIDEO DEMULTIPLEXER] 
+- Update Mobiclip Wii support to better handle audio.  Only files with PCM audio can be verified since a Mobiclip audio player doesn't exist.
+- Update Bink 2 demultiplexing for KB2a - KB2h magic bytes.
+
+*** VGMToolbox r1004 (2015-08-16)
+[CRI ACB/AWB EXTRACTOR] Add CRI ACB/AWB extraction. AWB (AFS2) files do not have internal names, so the files will be named after the source file.
+[CRI CPK EXTRACTOR] Add tool to extract from CRI CPK archives.  Encrypted and Decrypted TOC and ITOC folder structures supported.
+[EXTERNAL LIST RENAMER] Add tool to rename a directory of files using file names contained in another file.
+[ISO EXTRACTOR] Add CRI CPK suppport to the ISO/Archive Extractor.
+[GENERAL INTERFACE] Reorganized the tool tree a little bit.  Maybe a little more reorganization later?
+
+*** VGMToolbox r977 (2015-06-25)
+[VIDEO DEMULTIPLEXER] Bink 2 support in release phase.  No known issues.
+[ISO EXTRACTOR] Update 3DS extraction to prompt user to verify image against internal checksums.  Not all tools will decrypt 3ds images without errors, for example rxTools does not always decrypt correctly.
+[VIDEO DEMULTIPLEXER] Update USM demultiplexer to support HCA audio streams.
+
+*** VGMToolbox r972 (2015-05-26)
+[VIDEO DEMULTIPLEXER] 
+- Add support for PSP UMD Movies (.MPS) files.
+- Beta support for Bink 2 files (still in testing phase).
+
+*** VGMToolbox r967 (2015-05-16)
+[ISO EXTRACTOR] Fixed stack overflow errors for 3DS games with a very large number of files in a single directory.
+
+*** VGMToolbox r963 (2015-04-28)
+[ISO EXTRACTOR] Add support for _DECRYPTED_ .3DS files (NCSD container).  Since the test data was generated using rxTools, I cannot confirm that decrypted system partitions (CTR-P-CTAP) will be handled correctly.  But it seems like they should be.
+[GENH] Fixed coefficient types for Nintendo DSP for 3DS titles.
+
+*** VGMToolbox r953 (2015-03-21)
+[ISO EXTRACTOR] Update Wii U extraction to improve title to partition accuracy.
+
+*** VGMToolbox r951 (2015-03-18)
+[ISO EXTRACTOR] Add Wii U .wud support.  Put the common key, ckey.bin, in the "external\wiiu" folder.  Put disckey.bin in the same folder as the .wud file.
+
+*** VGMToolbox r934 (2014-12-13)
+[XSF TAGGER] Add "tagger" tag.
+[CHECKSUM GENERATOR] Streamline process and eliminate bug where files were unnecessarily being cast a VGMToolbox objects.
+[HOOT AUDITOR] Update for multiple archives for a single set.  For example, the recent MSX FMPAC set with two archives.
+[SOURCE CODE] Updated source code solution to Visual Studio 2013 Express.
+[7zip] Update 7-zip library.
+[2SF] Update SDAT parsing to perform better checks for missing sections for Submarine Tech Demo (NTR-NTRJ-JPN).
+
+*** VGMToolbox r930 (2013-09-06)
+[CRI HCA EXTRACTOR] Added extractor for CRI HCA files. Tested on HCA versions 1.3 and 2.0.
+[XSF TAGGER] Add NCSF support for this and all other 'generic' xSF functionality.
+
+*** VGMToolbox r926 (2013-02-15)
+[VGM TAGGER] 
+- Updated to leave all data between offset 0 and the data start offset unaltered for VGM v1.50 spec or greater files.
+- [Fixed] Loop start offset was not updated if a header was trimmed, now that the header will not be changed, this doesn't matter.
+
+*** VGMToolbox r924 (2013-02-01)
+[VIDEO DEMUXER] 
+- Add Electronic Arts MPC format, pretty much exactly like EA VP6 except only one video chunk type (MPCh).
+- Fix VP6 files where audio header (SCHl, SHEN) comes before video header (MVHD).
+[OGG EXTRACTOR] Add offset to file name for segmented tracks.
+[MPEG DEMUXER] Add commented hack for a bad .PAM file.
+[REBUILDER]
+- Fix rebuilder to check for non-VGMT checksums and fix CRCs that begin with zero.
+- Fix file locking for reading GENH files.
+
+*** VGMToolbox r917 (2012-09-23)
+[WII WAD UNPACKER] Add unpacker for Nintendo Wii WAD files. Uses file streaming, so can handle the big WAD files found in recent games of interest.
+[WII U8 UNPACKER] Add unpacker for Nintendo Wii U8 files. Uses file streaming, so can handle the big U8 files found in recent games of interest.
+[ISO EXTRACTOR]
+- Added Microsoft STFS format used for XBLA packages.
+- Added Nintendo U8 format used in Wii Games.
+[POS CREATOR] Update POS creator to reject loop points less than 0.
+
+*** VGMToolbox r895 (2012-08-11)
+[XMASH-MASH]
+- Add tool to automate XMAsh > ToWav > SoX (for creating multi-channel WAVs). Allows for drag and drop XMA to WAV for formats supported by XMAsh.
+- At this time vgmstream does not appear to support .POS files with multi-channel WAVs, so I'll look into that as time allows.
+- SoX does not like input files with different sample rates, so the multi-channel WAV builder may need to be built from scratch in a future revision.
+[VIDEO DEMULTIPLEXER]
+- Add Electronic Arts VP6 movie demultiplexing.
+- Add ASF/WMV demultiplexing. For now, only raw stream extraction is supported. Rebuilding data into ASF containers is not yet supported.
+- Updated THP demultiplexer to parse multi-channel audio files (multi-language). Some THP files have multiple audio blocks per frame. This splits each one into its own track.
+[GENH EDITOR] Updated to load Nintendo DSP coef offsets for files to be edited.
+
+*** VGMToolbox r879 (2012-06-29)
+[VIDEO DEMULTIPLEXER] Add support for Bink Video (BIK) files. At this time, RAD Video Tools (binkplay.exe) does not seem to support files containing only one audio stream (and no video stream). Also, when no video stream is present, the last audio stream does not seem to play (try experimenting with "Advanced play" to observe this behavior).
+Use the RAD Video Tools "Convert a file" tool (binkconv.exe) to output the audio to a WAV file. It seems to function properly for all streams.
+
+*** VGMToolbox r870 (2012-06-18)
+[MPEG DEMULTIPLEXER] Add support for Racjin/Racdym .DSI PS2 movies (found in Full Metal Alchemist series and Busin series). Output is .m2v and Sony ADPCM.
+[VGM TAGGER]
+- Add drag-and-drop functionality for loading files into the tagger.
+- Add checkboxes to tag fields, so any combination of tags may be edited, whether tagging 1 or many files.
+- Update to allow for dynamic header sizes for v1.51 or greater, per spec.
+[XSF TAGGER] Add drag-and-drop functionality for loading files into the tagger.
+[GENH CREATOR] Add drag-and-drop functionality for loading files.
+[POS FILE MAKER] 
+- Add method to search for text/hex bytes and use as a base offset for loops.
+- [Fixed] Calculation was not being performed on the second radio button type in the loop generation sections.
+
+*** VGMToolbox r859 (2012-06-06)
+[VGM TAGGER] Update to support all current VGM formats (v1.00 - v1.61).
+[XMV DEMUXER] Update to treat audio stream count at 0x20 as a 16-bit value instead of 32-bit.
+
+*** VGMToolbox r855 (2012-03-10)
+[POS FILE MAKER] Added tool to create .POS files. .POS files are used by vgmstream to indicate loop points of .WAV files. This was inspired by arbingordon's at3plusloop.exe. It can be used to look at files that must be converted to .WAV (ATRAC3, ATRAC3+, XMA, etc...) and create .POS loop point files.
+   I have not implemented any validation on inputs, so see if you can figure it out. Presets have not been implemented either. I plan to add features for a generic "Loop Entire File" and "Search for Bytes" style input similar to the RIFF input.
+   Lastly, you shouldn't use "Predict Shift for Batch" if you're only doing one file.
+[ISO EXTRACTOR] Update to support XGD3 format XBOX 360 images.
+[GBS2M3U/NSF2M3U] Add Knurek custom format.
+[XMA CONVERTER] Update POS maker to get Loop Length, but preset XML has not been changed yet.
+
+*** VGMToolbox r848 (2011-12-03)
+[NSFE TO NSF+M3U] Refreshed GUI code. This tool should appear in the GUI again.
+[VGM TAGGER] Fixed EOF calculation.
+
+*** VGMToolbox r846 (2011-11-09)
+[VIDEO DEMULTIPLEXER] Update USM to handle @CUE tag.
+[SONY ADPCM EXTRACTOR]
+- Re-Enabled.
+- Added start offset and option to output batch files or not.
+
+*** VGMToolbox r842 (2011-08-30)
+[OGG EXTRACTOR] OGG Extractor added. Still a little WIP, but seems to be working well.
+[ADVANCED CUTTER] Add option to output log or not.
+[GENH] Add Apple QuickTime 4-Bit IMA ADPCM
+[VIDEO DEMUXER] Update PSS to handle private streams (0xBD) with user data (0x90).
+
+*** VGMToolbox r837 (2011-07-26)
+[VIDEO DEMULTIPLEXER]
+- Fixed "An item with the same key has already been added." error for files with multiple audio streams.
+- Added support for @ALP USM block type.
+
+*** VGMToolbox r835 (2011-06-12)
+[CD-XA EXTRACTOR] Add option to check for EOF using the End of Track marker rather than by checking for silent blocks.
+[VIDEO DEMULTIPLEXER]
+- Add THP demultiplexing. This fomat is found in many GameCube and Wii games.
+- Add Mobiclip for Wii demultiplexing. This format has been seen in Pandora no Tou. Additional testing may be needed as more samples are discovered.
+- Currently supported demux formats: DVD Video (VOB), MO (WII), MPEG1, MPEG2, PAM (PS3), PMF (PSP), PSS (PS2), SFD, THP (GC/WII), USM, XMV (XBOX)
+[ISO BROWSER/EXTRACTOR]
+- Fixed calculation overflow that would cause errors for file tables near the end of a disc for XDVDFS images.
+- Fixed file name reading in GDI files for filenames with spaces in them.
+
+*** VGMToolbox r824 (2011-05-26)
+[ISO BROWSER/EXTRACTOR]
+- Added support for more filesystems: Game Cube, Wii Optical Disc (Encrypted/Decrypted)
+- Added support for more disc image formats: .CUE/.BIN, .GDI/.BIN/.RAW (NullDC GDI Dreamcast Images)
+- Currently supported image types: .CUE/.BIN, .GDI/ISO/BIN, .IMG, .ISO, .MDF
+- Currently supported file systems: GameCube, Green Book (CD-i), ISO 9660 (PC/PSX/PS2), NullDC GDI (Dreamcast), Opera FS (3DO), Wii Optical Disc, XDVDFS (XBOX/XBOX360)
+
+*** VGMToolbox r808 (2011-05-13)
+[PSF Maker] Updated Mark Grass Generic Driver to v3.0.0.
+
+*** VGMToolbox r807 (2011-05-11)
+[ISO BROWSER/EXTRACTOR]
+- Added disc image browser/extractor to view/extract the contents of game disc images. Currently, it supports .ISO and raw dump formats (.BIN, .IMG, .ISO, .MDF). .CUE, .CCD, etc... are not yet supported, so Redbook Audio Extraction is not really possible. For PSX disks, XA tracks (Mode2Form2) are highlighted in green for easy identification. When extracted, they will ready to run through the XA scanner.
+- Currently supported file systems: Green Book (CD-i), ISO 9660 (PC/PSX/PS2/many more), Opera FS (3DO), XDVDFS (XBOX/XBOX360)[.iso only]
+- Not yet supported/tested: XDVDFS (RAW)
+[PSF/PSF2 TIMERS] Updated loop point bit masking to better detect loop points.
+
+*** VGMToolbox r772 (2011-04-11)
+[VIDEO DEMULTIPLEXER]
+- Added CRI USM format demultiplexing. These have been seen in Crysis 2 and Ultimate Spider Man.
+- Added Microsoft XMV demultiplexing. These are found on Xbox games. This type can supposedly have raw PCM audio, but I haven't seen it yet; and consequently cannot automatically add the GENH headers for output. Video is currently unplayable.
+- Currently supported demux formats: DVD Video (VOB), MPEG1, MPEG2, PAM (PS3), PMF (PSP), PSS (PS2), SFD, USM, XMV (XBOX)
+
+*** VGMToolbox r762 (2011-03-26)
+[GENH EDITOR] GENH editor is now fully functional.
+[MPEG CONTAINER DEMULTIIPLEXER] Updated the PAM demuxer and PMF demuxer to skip seek tables before looking for MPEG start bytes.
+
+*** VGMToolbox r760 (2011-03-14)
+[MPEG CONTAINER DEMULTIIPLEXER]
+- Added demultiplexer for MPEG Video Containers. Attempts to determine output file type and add appropriate file extension (and header if desired), but will assign .bin if it cannot determine the output stream type.
+
+Supports the following formats:
+- DVD Video (Audio: .ac3, .dts, .lpcm; Video: .m2v)
+- MPEG1 [MULTI] (Audio: .mp2; Video: .m1v)
+- MPEG2 [MULTI] (Audio: .m2a; Video: .m2v)
+- PAM [PS3] (Audio: .ac3, .at3, .lpcm; Video: .264, .m2v)
+- PMF [PSP] (Audio: .at3, .lpcm; Video: .264)
+- PSS [PS2] (Audio: .ss2; Video: .m2v)
+- SFD [MULTI](Audio: .adx, .aix; Video. CRI .m2v)
+
+Notes:
+.264 can be added to a MKV container using MKVMerge for playback.
+LPCM support for PMF untested, and GENH header will not be added.
+
+[FILE RENAMER] Added tool to rename files based on name data within the file itself. Accepts an offset and length/terminator and looks within the file to get its name.
+[XMA CONVERTER] Update to allow negative values in the Offset text boxes. Negative values for offset will go backwards from the end of the file.
+[SSF MAKER] Add ability to use a custom MAP file.
+
+*** VGMToolbox r714 (2011-01-23)
+[PSP DATA FINDER] Adding PSP Sequence Data finder for MID/PHD/PBD data, in case future sequence format supports it.
+[ADVANCED CUTTER]
+- Add NDS - SMD/SWD plugins.
+- Update to properly save "Include Terminator in Cut Size" and "Endianness" values for a preset.
+[GENH CREATOR]
+- Added GENH editor, but for now it only loads existing values. No editing possible yet.
+- Update to allow "bytes to samples" conversions via the GUI for all types.
+- Fix to allow byte to sample value of zero.
+[NDSto2SF] Add option to use internal SMAP names for files.
+[VFS Extractor]
+- Made output of logs and .bat file optional. Much faster with them disabled.
+- Add read header to EOF option.
+- Added a reset button.
+- Fixed to properly empty the Calculation fields (when applicable) on preset loading.
+- Fix file name path creation.
+[XMA CONVERTER]
+- Add POS file creator.
+- Add preset saving and loading with some sample presets based on bxaimc's ripkits.
+[MIDI EXTRACTOR] Fixed issue with clearing Hashtable on initialization that made extractor pretty much useless.
+
+*** Updated VGMToolbox r687 (2010-09-30)
+[XMA CONVERTER] Add tool to batch convert XMA (or XMA containing files). Required .exe files are not included.
+[BYTE REMOVER] Added byte remover to remove chunks of a file.
+[FILE EXTRACTION] All tools that extract files will rename dupes instead of overwriting without warning.
+[VFS EXTRACTOR]
+- Add option to execute user entered mathematical expressions against found values. Uses a javascript wrapper, so any javascript formatted expression should work.
+- Add option to calculate offsets using length and a byte alignment.
+- Presets now load and save for all items.
+- No longer extracts files with 0 for length.
+* Validation is incomplete on this tool (file record section), but it is very functional.
+[GENH CREATOR]
+- New Layout
+- Add code to retrieve loop values and frequency from the file.
+[HOOT XML BUILDER] Fixed to properly parse nezplug .m3u files with escaped commas.
+
+*** VGMToolbox r654 (2010-06-08)
+*Note: This release is a bit rushed because of the MKPSF2FE fix. Be sure to read about it in the "Fixes" section. Some of the new features in VGMT are not fully complete. Details are provided in each tool's description.
+
+[ADX EXTRACTOR]
+- Add ADX extractor.
+- Thanks to the hcs/ak for their open source adXtract, it helped me solve a problem calculating the cut size :)
+[FILE CUTTING]
+- 2GB file size limit removed for all file cutting operations, both in VGMToolbox and other tools.
+[NDSTo2SF]
+- Add SWAV extraction from SWAR and game image.
+- Add ADX extraction.
+[VFS EXTRACTOR]
+- Add multiplier for length value.
+- Add option to select output folder.
+- Update with additional options for getting the file name from a VFS: Variable Length with Terminator, Absolute Offset, Relative Offset*.
+* Validation is incomplete on this tool so be sure complete the "Individual File Name Size" section if you are working with file names.
+* The new name-related VFS settings have not been added to preset saving or loading.
+[ADVANCED CUTTER]
+- Add option to cut to EOF if terminator not found. Good for rules that use the same string for starting headers and ending terminators.
+- Add length multiplier.
+- Add STER plugin.
+[GENH CREATOR]
+- Add batch file output script for "Output Header Only" option. This will create a .bat file with "copy /b" commands to append the headers to your source files.
+- Add alternate method for finding loop start for Sony ADPCM.
+- Add bytes to samples for Sony ADPCM. To use, right-click on "Loop Start (Samples)" or "Loop End (Samples)"
+- Fix "Output Header Only" option, wasn't actually working in other releases.
+-= FIXED =-
+[MKPSF2FE]
+- Big!!! fix for multi-track SQ files. The last track in multi-track SQs was being skipped, which will result in incomplete rips. Old multi-track SQ PSF2s should be reripped to make sure the last track in each SQ is not missing. On the bright side, some sets which seemed incomplete, actually have the missing music included in the SQ files, they were just skipped. More to come on that...
+
+ *** VGMToolbox r636 (2010-04-09)
+[VFS EXTRACTOR]
+- Add a Virtual File System (VFS) extractor. Useful for extracting large container files that have a file table included or in a separate file.
+- Sample plugins have been included for reference purposes.
+[PSF2 SETTINGS UPDATER] Add a tool to change the psf2.ini file in batch mode for easy set-wide updates of parameters.
+[SONY ADPCM RIPPER] Add Sony ADPCM Ripper. Tool is still WIP and may produce imperfect results.
+[CD-XA EXTRACTOR]
+- Add two-pass option for files that do not have silent blocks between reused block IDs. Use this when multiple tracks are extracted in a single file even when the silent blocks setting is set to 1. This option will determine a ceiling value for the distance between blocks and split tracks where that value is exceeded.
+- Modified to clean up silent blocks, so extraction process doesn't leave a folder full of small, empty files.
+[MKPSF2 FRONT END] Add option to create .psf2lib files to simplify creation for small groups.
+[PSF DATA FINDER] Improved handling of small samples (less than 0xA0 in size), partial matching will now be used to try and match VB data to VH data.
+[PSF2 DATA FINDER] 
+- Improved handling of small samples (less than 0xA0 in size), partial matching will now be used to try and match BD data to HD data.
+- Fix code to prevent extracting the same BD section repeatedly.
+[ADVANCED CUTTER]
+- Add PS2 KCES/SVAG plugins (bxaimc).
+- Add XBOX360 tri-ace SO4/Infinite Undiscovery XMA plugin (bxaimc).
+
+-= SOURCE ONLY =-
+[MANAKUT] Add manakut.exe tool, a binary cutter with some useful options.
+[VGMT INFO] Add vgmtinfo tool, a small tool to output tag info to console for all supported formats.
+
+*** VGMToolbox r615 (2010-02-20)
+[GENERAL] Add SGC format for use Auditing tools and the Tag/Info Viewer.
+[NSFtoM3U] Add simple .m3u maker for NSF files. (Will also create SGC playlists if they are ever supported.)
+[ADVANCED CUTTER]
+- Progress increments every 10% now to prevent GUI delays.
+- Add NDS-STRM plugin by Knurek
+[CHECKSUM CALCULATOR] Add checkboxes to move duplicates to subdirectories.
+[GENH EXTRACTOR] Now saves header upon extraction.
+[PSFDATAFINDER]
+- Improved VB searching. Stricter requirements.
+- Add code to calculate expected VB size via the sample lengths. Code will use this value and issue a warning if it does not match the header. Perhaps will use a checkbox in the future.
+- Improve Cancel functionality during VB searching.
+[PSF2DATAFINDER] Improved VB searching. Not as good as PSF Data Finder, hoping to make a single function soon.
+[PSF MAKER] 
+- Add Mark Grass/Davironica drivers. Presets now use included drivers.
+- Updated to include actual total SEQ count for proper multi-track SEP handling.
+- Update psfdrv.c to make SetVol functions optional. May result in sets without sound if they don't have this function, but they would require a generic driver otherwise.
+- Add unused default value for PARAMETER_OFFSET when Mark Grass/Davironica driver is selected to prevent error messages. Since PSF Maker doesn't support SEP usage with these drivers, this is just a hack to avoid the error.
+[PSF STUB MAKER] Add "Move to Highest Address" button. After entering sizes for SEQ/VH/VBs, click this button to move values to the highest address in the text area. This is good for avoiding the issues with text areas that start at higher addresses or other problems that can plague placing data at the start of the text area.
+[XSFTAGGER] Added option to allow removal of text within brackets for automatic title creation.
+[2SFTIMER] Update to include quotes around output file names.
+[GENERAL]
+- Fix to data extraction code skip zero length segments (typically from an empty file).
+- Fixed data extraction code was reading past end of file in "relative" buffer and returning false positives.
+[MAKE2SF] Fix TAB order.
+[PSFTIMER] Fix code to output loop end time before applying loop time multiplier for the _actual_ loop end time.
+
+*** VGMToolbox r590 (2009-10-18)
+[ADVANCED CUTTER] Add Sega Saturn SDDRVS.TSK preset for SSF work.
+[SSF MAKER]
+- Add option to try all combinations of sequence (SEQ) and tone data (BIN) for identifying matching pairs.
+- Add drag and drop functionality for source paths.
+[ALL] Updated target to x86 which should resolve any issues people with 64-bit OSes have had. Previously, VGMT would simply crash due to a 32-bit .dll.
+[EXTRACT CDXA] Correct area containing data length. CDXA data length was incorrect and overwriting portions of actual data.
+
+*** VGMToolbox r581 (2009-09-27)
+[PSX SEP SPLITTER] Add PSX SEP splitter, it splits PSX SEP tracks into SEQ files. Mostly preparation for SEP timing, since splitting SEPs isn't too useful for proper original driver rips. Would be good for files that will use generic drivers when original drivers are just too tricky.
+[ADVANCED CUTTER]
+- Add plugins from bxaimc and manakoAT. Lots of good ones here, thanks!
+- Add offset modulo to allow you to target search strings and terminators with specific offset modulo values (i.e., for a PS/PS2 ADPCM loop, look for value 0x03 where offset % 0x10 = 1).
+- Add minimum cut size parameter to help avoid false positives, sfx, or any other small chunks you may not want.
+- Add optional output folder argument if you'd like to use an output folder other than the default..
+- Modified to only increment chunk number if a file is cut.
+- Multiple minor GUI changes to better handle current and future updates.
+[EXTRACT CDXA]
+- Fix block ID filter. May have filtered out valid music before. Worth a recheck if you couldn't find that song you were looking for.
+- Add option to turn block ID filter on/off. This can help find music using the nonstandard block IDs. Previously, this was always set to "On", and may have missed some music.
+- Adjust number of silent blocks to 1 as default.
+[GENH CREATOR]
+- Update GUI to show loop points in realtime when it has enough information to do so.
+- Fix and improve some other GUI elements.
+- Fix MS 4-bit ADPCM loop end.
+[PSF DATA FINDER]
+- Add SEP searching.
+- Some VB searching improvements.
+[PSF MAKER]
+- Add SEP support. SEPs will be detected and .psflibs will be created automatically if the SEP has more than 1 sequence. For SEPs that only have one useful track, you can use the "Force SEP Track Number" to make a single PSF with only that track. You can also use SEPs with VH/VB .psflibs. "_lib" and "_lib2" tags will be properly added to your minipsfs.
+- Add proper minipsf handling for any input offsets. This means that rips that didn't use the default VGMToolbox stub values will now work correctly with .minipsfs. Should've been like this all along, sorry!
+- Add ability to copy offset values from the Stub Creator form so you don't have to type the same numbers in both places.
+- Add drag and drop functionality for the "Driver" and "Source Files" text areas. Saves time and hassle of browsing.
+[PSF STUB MAKER]
+- Add ability to make proper stub files for SEP sequences sets. SEPs can now be played in their native format without trimming files!
+- Update to allow for offset and size modifications. See the output source code to better understand what you are doing.
+- Now that offsets can be altered, I've added an option to relax the PSX Driver Load Address restrictions that were present in the past. Check the "Allow driver with load address > 0x80100000" box to work with PSX-EXEs that have text areas that start at offsets greater than 0x80100000. Try this option if you ever received the message like: "Error processing <foo.exe>. Error received: Text Area + Size is greater than 0x80100000, this is not supported."
+[PSF TIMER]
+- Add timing for PSFs that use SEP style sequences. Should handle all filetypes (PSF/PSFLIB).
+- WARNING!!! Because .psflibs can contain SEP files, the timer will "time" the lib files. Be sure to check the output scripts to avoid adding unneeded tag data to your libs. Or just don't drag and drop them onto the timer :P
+[ADVANCED CUTTER] Fixed the Preset refresh to clear list before refreshing and avoid dupes.
+[PSF DATA FINDER] Fix case for SEQ without end found.
+[PSF2 UNPACKER] Fix PSF2 unpacker to properly handle subdirectories.
+
+*** VGMToolbox r535 (2009-08-23)
+[PSF DATA FINDER]
+- Add tool to extract SEQ/VH/VB data from files for making PSF sets.
+- Not perfect yet (but "pretty damn good") and need to add proper SEP extraction. VB extraction is very slow.
+[PSF2 DATA FINDER]
+- Add tool to extract SQ/HD/BD data from files for making PSF2 sets.
+- Not perfect yet (but "pretty damn good"). BD extraction is very slow.
+[EASY PSF DRIVER EXTRACTOR] Add tool to extract SEQ/VH/VB from Easy PSF Driver sets. This should make updating sets with the original driver easier.
+[DATAFILE EDITOR (WIP)] Incomplete tool to allow editing of Datafiles, currently only Delete works.
+[PSF MAKER]
+- Now properly makes .minipsfs. Driver must use default offsets from the stub creator (see drop down) since the .minipsf .exe file uses these same offsets.
+- Add option to make all possible combinations of SEQ and VH/VB. This allows you to find matching pairs for proper creation.
+[MKPSF2 FRONT END] Add option to make all possible combinations of SQ and HD/BD. This allows you to find matching pairs for proper creation.
+[ADVANCED CUTTER]
+- Add ability to save/load/create settings via .xml files. See OffsetFinder.xsd for schema, or save from inside VGMToolbox.
+- Add PlayStation VAB format.
+- Fixed cut type radio buttons to force a selection.
+[CHECKSUM CALCULATOR] Added duplicate checking to checksums. Duplicates will be listed at the end of the output if the option is checked.
+[XSF TAG EDITOR]
+- Add code to predict code page of existing tags (Shift_JIS vs. Latin). This makes output more likely to be accurate for tags not using UTF8 encoding.
+- Add option to output operations to a psfpoint.exe batch file for sharing. Because batch files do not handle UTF8, special chars may not appear as you would hope.
+[PSF TIMER] Add loop points to output batch file as REM statements.
+[2SF TAG MIGRATOR] 
+- Added warning for duplicate track ID entries, since the tool cannot tell which track will match.
+- Fix bug where zlib decompressor was looking at the wrong offset, breaking the entire tool.
+[DAT CREATOR] Added option to use normal, non-VGMT method checksums.
+[GENH CREATOR] Fix issue where loop end was not added for non-looping files. Loop end still needs to be present.
+[SDAT FINDER] Fixed to increment a single byte after finding an SDAT. This will prevent "fake/bad" SDATs from causing the finder to skip over good SDATs.
+
+*** VGMToolbox r491 (2009-08-03)
+[NDSto2SF]
+- Add .nds to 2SF converter. Drag and drop your NDS file(s) and wait for the 2SFs to be created and STRMs to be extracted. Any other stream formats will not be extracted (SWAV, ADX, etc...). Files will be optimized and duplicates removed.
+- Add NDS class for simple file parsing and serial number generation.
+[PSFSTUBCREATOR] Added a PSF stub creator to build driver stubs. Not perfect, but working ok.
+[MIDIEXTRACTOR] Added a MIDI class and a MIDI extractor to extract MIDI from other files.
+[VABSPLITTER] Added a PSX .VAB file splitter. Splits .VAB files into .VH and .VB files.
+[GZIP] Added gzip compression tool for experiments or whatever.
+[TAG/INFOVIEWER] Added right-click edit option for VGM/GD3 format tags.
+[PSFMAKER]
+- Renamed bin2psfFE
+- Added ability to use zero length SEQ files.
+[ADVANCEDCUTTER] Added starting offset to the Advanced Cutter so you can skip large chunks at the start of a file of you want.
+[GENH] Update version bytes so as not to conflict with manakoAT's implementation.
+[GUI] Increased size of Drag and Drop area on some more tools.
+[MANUAL] More info added to the "manual" .html file. Still incomplete.
+[SPC] Fix OST Track Number tag parsing.
+
+*** VGMToolbox r440 (2009-07-18)
+[VGMTAGGER] Added a Tag Editor for VGM format files. Works just like the xSF Tag Editor.
+[2SFTAGCOPY] Add V1 to V2 2sf tag copier. Good for migrating your tags from the old format to the new format.
+[ZLIB] Added zlib compressor/decompressor for use in experiments or whatever. Gzip coming soon.
+[MAKE2SF]
+- Update to allow volume adjustments. Just click the volume box in the list and alter it.
+- Added duplicate checking. Duplicates will be marked red and unchecked from the list for ripping. The first instance will be kept of course.
+[CDXAEXTRACTOR] Large overhaul of CD-XA extraction code. Now checks for silent blocks and filters nonmusic data. Also added configurable silence detection for files that use very few silent frames to delimit files. May be a little slower because of silent block detection, but it also skips processing of non-music blocks which speeds things up.
+[XSFTAGGER]
+- Updated to work with S98v3 tags since they use the same format. This also affects the Tag/Info Viewer, so you can now update S98v3 tags there too.
+- Added "Generate Tag from Filename" functionality, similar to the "-tf" option with psfpoint.exe
+[SIMPLECUTTER] Added Batch Mode to allow multiple files to be dropped. Great for trimming headers off a bunch of files or any other bincut batch type activity.
+[HOOTAUDITOR] Updated to properly parse the incoming UTF8 xml and to output the file and display results in UTF16 for proper handling of international symbols.
+[GUI]
+- Updated the look of most, if not all, Drag and Drop style forms to have a much larger "Drop" area.
+- Added right-click refreshing to GENH Builder, xSF Tag Editor, and VGM Tag Editor
+- Added file filter for GENH Builder.
+[PSF2TIMER] Fixed bug where it was not checking that an .ini existed before scanning it. Usually caused errors when trying to time .psf2lib files.
+
+*** VGMToolbox r384 (2009-06-10)
+[MAKE2SF]
+- Added 2SF Maker. Automatically rips, optimizes, tags, and times 2sfs from an SDAT. Also allows the user to choose which tracks to optimize the SDAT for (good for weeding out SFX).
+[PSFTIMER/PSF2TIMER]
+- Removed Ceiling functions from the timers to get more accurate end times.
+- Added an option to PSFTimer to automatically double the timed value for tracks that do not contain loop markers, but instead loop the entire track. The tool cannot detect if the entire track is looped, only your ears can tell you.
+[XSFRECOMPRESS]
+- Added xSF Recompress tool. Allows for auto 7-zipping the output set. Works well for creating xSFs in "Store" compression and then 7-zipping for ultimate compression.
+[OFFSETFINDER]
+- Added some more presets: PlayStation SEQ, PlayStation 2 SQ/HD.
+[SEARCHFORFILE]
+- Changed to allow multiple search strings.
+[CRCCALCULATOR]
+- Added MD5/SHA1 for VGMT checksums.
+- Added checkbox for generating VGMT checksums or not.
+[HOOTXML]
+- Updated to modify GBS info if (GBC) is in the file name.
+- Modified Company name to use second to last field if it is not "-" or a number.
+- Modified to use real tabs in output instead of spaces.
+[GENERAL] Cleaned out a lot of the old 2sf format stuff and any unused .exe files. They should still live in SVN land if you desperately need them.
+
+*** VGMToolbox r363 (2009-05-09)
+Been a lot of changes "under the hood" to make certain developments easier.
+
+[BIN2PSF] Fixed incorrect label.
+[SDATEXT] Fixed loop information in SWAV header. Thanks hcs.
+[OFFSET FINDER/EXTRACTOR]
+- Add preset loading and some presets. More to come and Save feature will be added soon.
+= Fix issue with Terminator Bytes overflow.
+[GENH]
+- Added GENH creator.
+- Added GENH to formats for DAT file use and examination use.
+[CHECKSUMS] Added a simple checksum calculator for drag and drop CRC32/MD5/SHA1. The VGMToolbox CRC32 will also be calculated for supported formats.
+[NSFE] Fix bug for empty init banks.
+[FILESEARCH] Added a file searching tool that will search for files in folders and archives. It's useful for looking in directories full of game packs for a specific game.
+[HOOTXML] Added HES and KSS to the Hoot XML creator. An .m3u is required. Also added a search for .m3u files if the source is GBS/NSF.

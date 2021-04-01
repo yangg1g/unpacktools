@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Jasc Paint Shop Pro 8 PSPIMAGE</FileType>
+		<Ext>PSPIMAGE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.jasc.com/</RefURL>
+		</ExtraInfo>
+		<User>Inconu</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>01</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>21</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5061696E742053686F702050726F20496D6167652046696C650A1A</Bytes>
+			<ASCII> P a i n t   S h o p   P r o   I m a g e   F i l e . .</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

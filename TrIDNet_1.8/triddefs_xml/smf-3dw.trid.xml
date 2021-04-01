@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>3D World Studio mesh</FileType>
+		<Ext>SMF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.leadwerks.com/werkspace/page/Products/3dworldstudio</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>74</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>26</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>010000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000000000000000000000000000000000000000803F0000803F0000803F</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ? . . . ? . . . ?</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

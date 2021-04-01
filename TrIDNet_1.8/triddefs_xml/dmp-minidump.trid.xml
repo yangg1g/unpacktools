@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Minidump</FileType>
+		<Ext>DMP/MDMP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://support.microsoft.com/?kbid=314103</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>154</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>01</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>04</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D444D5093A7</Bytes>
+			<ASCII> M D M P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

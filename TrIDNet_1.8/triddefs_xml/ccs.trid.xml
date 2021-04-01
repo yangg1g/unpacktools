@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CableNut Custom Settings</FileType>
+		<Ext>CCS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://dslnuts.com/help.shtml</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>05</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>32</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4361626C654E757420437573746F6D2053657474696E67732046696C6520</Bytes>
+			<ASCII> C a b l e N u t   C u s t o m   S e t t i n g s   F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

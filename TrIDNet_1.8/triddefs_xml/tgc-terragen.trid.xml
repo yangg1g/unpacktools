@@ -1,0 +1,65 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Terragen Clip</FileType>
+		<Ext>TGC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Terragen</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2014</Year>
+			<Month>1</Month>
+			<Day>2</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>35</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C746572726167656E5F636C69703E0D0A</Bytes>
+			<ASCII> . t e r r a g e n _ c l i p</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GUI_USE_PREVIEW_PATCH_SIZE</String>
+		<String>GUI_PREVIEW_PATCH_SIZE</String>
+		<String>GUI_USE_NODE_POS</String>
+		<String>SMALLEST_SCALE</String>
+		<String>TERRAGEN_CLIP</String>
+		<String>GUI_NODE_POS</String>
+		<String>INPUT_NODE</String>
+		<String>_ROUGHNESS</String>
+		<String>GUI_GROUP</String>
+		<String>COLOUR_</String>
+		<String>E_SCALE</String>
+		<String>_COLOUR</String>
+		<String>_EFFECT</String>
+		<String>_SHADER</String>
+		<String>ENABLE</String>
+		<String>CTION</String>
+		<String>FRACT</String>
+		<String>SITY_</String>
+		<String>Y_DIS</String>
+		<String>_HIGH</String>
+		<String>_TINT</String>
+		<String>AMPL</String>
+		<String>DIST</String>
+		<String>NAME</String>
+		<String>R_OF</String>
+		<String>SEED</String>
+		<String>Y_FU</String>
+		<String>_OF_</String>
+	</GlobalStrings>
+</TrID>

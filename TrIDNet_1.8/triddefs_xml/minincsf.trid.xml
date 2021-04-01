@@ -1,0 +1,68 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Nitro Composer Sound Format (MINI)</FileType>
+		<Ext>MININCSF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cyberbotx.com/NCSF/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>287</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>4</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>7</Min>
+			<Sec>6</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5053462504</Bytes>
+			<ASCII> P S F %</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5B5441475D5F6C69623D</Bytes>
+			<ASCII> [ T A G ] _ l i b =</ASCII>
+			<Pos>20</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E6E6373666C69620A6E63736662793D4E445320746F204E4353460A6F72696746696C656E616D653D</Bytes>
+			<ASCII> . n c s f l i b . n c s f b y = N D S   t o   N C S F . o r i g F i l e n a m e =</ASCII>
+			<Pos>42</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>REPLAYGAIN_ALBUM_GAIN</String>
+		<String>REPLAYGAIN_ALBUM_PEAK</String>
+		<String>REPLAYGAIN_TRACK_GAIN</String>
+		<String>REPLAYGAIN_TRACK_PEAK</String>
+		<String>ORIGFILENAME</String>
+		<String>NDS TO NCSF</String>
+		<String>COPYRIGHT</String>
+		<String>.NCSFLIB</String>
+		<String>COMMENT</String>
+		<String>ARTIST</String>
+		<String>LENGTH</String>
+		<String>NCSFBY</String>
+		<String>TAGGER</String>
+		<String>TITLE</String>
+		<String>FADE</String>
+		<String>GAME</String>
+		<String>NTR-</String>
+		<String>PSF%</String>
+		<String>UTF8</String>
+		<String>YEAR</String>
+		<String>_LIB</String>
+	</GlobalStrings>
+</TrID>

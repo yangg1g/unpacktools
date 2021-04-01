@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MenuetOS 64-bit application</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.menuetos.net/</RefURL>
+		</ExtraInfo>
+		<User>Erik Siers</User>
+		<E-Mail>eriksiers-at-bmi-dot-net</E-Mail>
+		<Home>https://sourceforge.net/users/eriksiers</Home>
+	</Info>
+	<General>
+		<FileNum>31</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>10</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>40</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D454E5545543634</Bytes>
+			<ASCII> M E N U E T 6 4</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000</Bytes>
+			<Pos>10</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000</Bytes>
+			<Pos>18</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000</Bytes>
+			<Pos>27</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000</Bytes>
+			<Pos>36</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

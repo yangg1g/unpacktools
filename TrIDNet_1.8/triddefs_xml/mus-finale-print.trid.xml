@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Finale PrintMusic</FileType>
+		<Ext>MUS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.finalemusic.com/printmusic/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>07</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>454E49474D412042494E4152592046494C4500000000000000000000000000005072696E744D757369632128522920</Bytes>
+			<ASCII> E N I G M A   B I N A R Y   F I L E . . . . . . . . . . . . . . P r i n t M u s i c ! ( R )</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>110</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4E54520057494E</Bytes>
+			<ASCII> N T R . W I N</ASCII>
+			<Pos>112</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4E54520057494E</Bytes>
+			<ASCII> N T R . W I N</ASCII>
+			<Pos>150</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

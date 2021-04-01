@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IBM Writing Assistant document (v2.0)</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Pfs:Write</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>9</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>49</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4200</Bytes>
+			<ASCII> B</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0001000F</Bytes>
+			<Pos>13</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>49424D2020200004322E3030</Bytes>
+			<ASCII> I B M       . . 2 . 0 0</ASCII>
+			<Pos>641</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

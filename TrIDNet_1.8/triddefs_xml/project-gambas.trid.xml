@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Gambas Project</FileType>
+		<Ext>PROJECT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Gambas</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>01</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>01</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>232047616D6261732050726F6A6563742046696C6520</Bytes>
+			<ASCII> #   G a m b a s   P r o j e c t   F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GAMBAS PROJECT FILE</String>
+		<String>STARTUP</String>
+		<String>GB.FORM</String>
+		<String>VERSION</String>
+		<String>TABSIZE</String>
+		<String>PUBLIC</String>
+		<String>TITLE</String>
+		<String>WITH</String>
+	</GlobalStrings>
+</TrID>

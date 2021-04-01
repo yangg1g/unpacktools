@@ -1,0 +1,85 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PE Ninja 1.0 compressed Win32 Executable</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>11</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>04</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A</Bytes>
+			<ASCII> M Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000400</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00FFFF0000</Bytes>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000004000</Bytes>
+			<ASCII> . . . . . . . @</ASCII>
+			<Pos>17</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<Pos>27</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>62</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>CD21B8014CCD21</Bytes>
+			<ASCII> . ! . . L . !</ASCII>
+			<Pos>71</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000</Bytes>
+			<Pos>121</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GETPROCADDRESS'''GETMODULEHANDLEA'''LOADLIBRARYA'''EXITPROCESS'''MESSAGEBOXA</String>
+		<String>PLEASE RESTART WITHOUT IT BEFORE RUNING THIS APPLICATION</String>
+		<String>THE APPLICATION COULD NOT BE STARTED</String>
+		<String>PLEASE RUN A VIRUS SCANNER ASAP</String>
+		<String>IF YOU ARE USING A DEBUGGER</String>
+		<String>{ZYXWVUTSRQPONMLKJIHGFEDCBA</String>
+		<String>KERNEL32.DLL</String>
+		<String>9876543210</String>
+		<String>USER32.DLL</String>
+		<String>PE NINJA</String>
+		<String>.NINJA</String>
+		<String>PE''L</String>
+		<String>NTICE</String>
+		<String>DATA</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>SKY compressed archive</FileType>
+        <Ext>SKY</Ext>
+        <ExtraInfo>
+            <Rem>SKY is an old french DOS archiver by Jean-Michel Herve</Rem>
+            <RefURL>http://members.cox.net/dos/compress.htm</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>3</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>12</Month>
+            <Day>12</Day>
+        </Date>
+        <Time>
+            <Hour>14</Hour>
+            <Min>22</Min>
+            <Sec>21</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>BC401000</Bytes>
+            <ASCII> . @</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

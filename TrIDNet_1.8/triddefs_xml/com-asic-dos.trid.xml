@@ -1,0 +1,68 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ASIC compiled DOS COM</FileType>
+		<Ext>COM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>5 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>06</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>54</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>E9</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000005000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000050070000000000000000000000000000</Bytes>
+			<ASCII> . . . . . . . P . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . P</ASCII>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>01</Bytes>
+			<Pos>109</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>01</Bytes>
+			<Pos>111</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>02</Bytes>
+			<Pos>115</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>02</Bytes>
+			<Pos>117</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000006D4EC64100000000FFFF</Bytes>
+			<ASCII> . . . . . . . . . . . . m N . A</ASCII>
+			<Pos>122</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>B00D</Bytes>
+			<Pos>222</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>P'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''P</String>
+	</GlobalStrings>
+</TrID>

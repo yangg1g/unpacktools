@@ -1,0 +1,65 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Motion Capture File Format</FileType>
+		<Ext>CSM</Ext>
+		<ExtraInfo>
+			<Rem>Motion Capture data that can be played back (for example in 3DStudio Max's Character Studio).</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Alex Paven</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>125</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>05</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>07</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>24</Bytes>
+			<ASCII> $</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>$COMMENTS</String>
+		<String>$FIRSTFRAME</String>
+		<String>$LASTFRAME</String>
+		<String>$ORDER</String>
+		<String>$POINTS</String>
+		<String>$RATE</String>
+		<String>CLAV</String>
+		<String>LANK</String>
+		<String>LBHD</String>
+		<String>LBWT</String>
+		<String>LELB</String>
+		<String>LFHD</String>
+		<String>LFIN</String>
+		<String>LFWT</String>
+		<String>LKNE</String>
+		<String>LSHO</String>
+		<String>LTOE</String>
+		<String>RANK</String>
+		<String>RBHD</String>
+		<String>RBWT</String>
+		<String>RELB</String>
+		<String>RFHD</String>
+		<String>RFIN</String>
+		<String>RFWT</String>
+		<String>RKNE</String>
+		<String>RSHO</String>
+		<String>RTOE</String>
+		<String>STRN</String>
+	</GlobalStrings>
+</TrID>

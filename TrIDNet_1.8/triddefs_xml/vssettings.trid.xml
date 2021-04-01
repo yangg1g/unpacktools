@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Visual Studio Settings</FileType>
+		<Ext>VSSETTINGS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Microsoft_Visual_Studio</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>51</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C5573657253657474696E67733E</Bytes>
+			<ASCII> . U s e r S e t t i n g s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>{1EDA5DD4-927A-43A7-810E-7FD247D0DA1D}</String>
+		<String>{DA9FB551-C724-11D0-AE1F-00A0C90FFFC3}</String>
+		<String>VISUAL STUDIO ENVIRONMENT PACKAGE</String>
+		<String>APPLICATIONIDENTITY VERSION</String>
+		<String>ENVIRONMENT_FONTSANDCOLORS</String>
+		<String>TOOLSOPTIONSCATEGORY NAME</String>
+		<String>FONTSANDCOLORS VERSION</String>
+		<String>PROPERTYVALUE NAME</String>
+		<String>ENVIRONMENT_GROUP</String>
+		<String>REGISTEREDNAME</String>
+		<String>USERSETTINGS</String>
+		<String>PACKAGENAME</String>
+		<String>BACKGROUND</String>
+		<String>CATEGORIES</String>
+		<String>ATTRIBUTE</String>
+		<String>SDEFAULT</String>
+		<String>SELECTED</String>
+		<String>CURRENT</String>
+		<String>QUOTES</String>
+		<String>ITEMS</String>
+		<String>PLAIN</String>
+		<String>FORE</String>
+		<String>GUID</String>
+		<String>TEXT</String>
+	</GlobalStrings>
+</TrID>

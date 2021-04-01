@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Yamaha PSR-9000 custom voice (v1.0)</FileType>
+		<Ext>VIC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.yamaha.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>04</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>18</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5053522D3930303020766572312E3020435553544F4D20564F494345</Bytes>
+			<ASCII> P S R - 9 0 0 0   v e r 1 . 0	C U S T O M   V O I C E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0F435553544F4D564F494345000000</Bytes>
+			<ASCII> . C U S T O M V O I C E</ASCII>
+			<Pos>38</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

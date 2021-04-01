@@ -1,0 +1,255 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ACDSee plugin</FileType>
+		<Ext>APL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.acdsee.com/</RefURL>
+		</ExtraInfo>
+		<User>fenixproductions</User>
+		<E-Mail>fenixproductions at o2 dot pl</E-Mail>
+		<Home>http://fenixproductions.qsh.eu</Home>
+	</Info>
+	<General>
+		<FileNum>36</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>12</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>09</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A2400000000000000</Bytes>
+			<ASCII> . . . . . . . . . . ! . . L . ! T h i s   p r o g r a m   c a n n o t   b e   r u n   i n   D O S   m o d e . . . . $</ASCII>
+			<Pos>62</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>291</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>('('('('(' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' 'H</String>
+		<String>('C')</String>
+		<String>+TTHHTD</String>
+		<String>- FLOATING POINT NOT LOADED</String>
+		<String>- NOT ENOUGH SPACE FOR ARGUMENTS</String>
+		<String>- NOT ENOUGH SPACE FOR ENVIRONMENT</String>
+		<String>- NOT ENOUGH SPACE FOR LOWIO INITIALIZATION</String>
+		<String>- NOT ENOUGH SPACE FOR STDIO INITIALIZATION</String>
+		<String>- NOT ENOUGH SPACE FOR THREAD DATA</String>
+		<String>- NOT ENOUGH SPACE FOR _ONEXIT</String>
+		<String>- PURE VIRTUAL FUNCTION CALL</String>
+		<String>- UNABLE TO INITIALIZE HEAP</String>
+		<String>- UNABLE TO OPEN CONSOLE DEVICE</String>
+		<String>- UNEXPECTED HEAP ERROR</String>
+		<String>- UNEXPECTED MULTITHREAD LOCK ERROR</String>
+		<String>-64OS</String>
+		<String>.'A'P'L</String>
+		<String>.DATA</String>
+		<String>.RDATA</String>
+		<String>.RELOC</String>
+		<String>.RSRC</String>
+		<String>.TEXT</String>
+		<String>0'9'0'4'B'0</String>
+		<String>2'''YY</String>
+		<String>4'''V'S'_'V'E'R'S'I'O'N'_'I'N'F'O</String>
+		<String>4'''Y</String>
+		<String>5''''D</String>
+		<String>8MZU</String>
+		<String>9} U</String>
+		<String>A''J</String>
+		<String>ABNORMAL PROGRAM TERMINATION</String>
+		<String>APRIL</String>
+		<String>ATEXIT TABLE</String>
+		<String>AUGUST</String>
+		<String>C'''C'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''C</String>
+		<String>C'''YYH</String>
+		<String>C'O'M'M'E'N'T'S</String>
+		<String>C'O'M'P'A'N'Y'N'A'M'E'''''A'C'D' 'S'Y'S'T'E'M'S</String>
+		<String>D$'3</String>
+		<String>DECEMBER</String>
+		<String>DELETECRITICALSECTION</String>
+		<String>DOMAIN ERROR</String>
+		<String>E WW</String>
+		<String>E+000</String>
+		<String>ENDDIALOG</String>
+		<String>EXITPROCESS</String>
+		<String>F'I'L'E'D'E'S'C'R'I'P'T'I'O'N</String>
+		<String>F'I'L'E'V'E'R'S'I'O'N'''''1</String>
+		<String>FEBRUARY</String>
+		<String>FGQPS</String>
+		<String>FREEENVIRONMENTSTRINGSA</String>
+		<String>FREEENVIRONMENTSTRINGSW</String>
+		<String>FRIDAY</String>
+		<String>G'''Y</String>
+		<String>GAISPROCESSORFEATUREPRESENT'''KERNEL32</String>
+		<String>GETACP''F</String>
+		<String>GETCOMMANDLINEA</String>
+		<String>GETCPINFO</String>
+		<String>GETCURRENTPROCESS</String>
+		<String>GETCURRENTTHREADID</String>
+		<String>GETD</String>
+		<String>GETENVIRONMENTSTRINGSW</String>
+		<String>GETENVIRONMENTVARIABLEA</String>
+		<String>GETFILETYPE</String>
+		<String>GETLASTACTIVEPOPUP''GETACTIVEWINDOW'MESSAGEBOXA'USER32.DLL</String>
+		<String>GETLASTERROR</String>
+		<String>GETMODULEFILENAMEA</String>
+		<String>GETMODULEHANDLEA</String>
+		<String>GETOEMCP</String>
+		<String>GETPROCADDRESS</String>
+		<String>GETSTARTUPINFOA</String>
+		<String>GETSTDHANDLE</String>
+		<String>GETSTRINGTYPEA''L</String>
+		<String>GETSTRINGTYPEW</String>
+		<String>GETTICKCOUNT</String>
+		<String>GETVERSIONEXA</String>
+		<String>GIT%</String>
+		<String>H' ''H</String>
+		<String>H  ''J</String>
+		<String>HEAPALLOC</String>
+		<String>HEAPCREATE</String>
+		<String>HEAPDESTROY</String>
+		<String>HEAPFREE</String>
+		<String>HEAPREALLOC</String>
+		<String>HKML</String>
+		<String>HMXB</String>
+		<String>HSVWH</String>
+		<String>I'N'T'E'R'N'A'L'N'A'M'E</String>
+		<String>IND'''1</String>
+		<String>INF'''1</String>
+		<String>INITIALIZECRITICALSECTION</String>
+		<String>INTERLOCKEDDECREMENT</String>
+		<String>INTERLOCKEDINCREMENT</String>
+		<String>J'9D$</String>
+		<String>J'J'QP</String>
+		<String>J'PV</String>
+		<String>JANUARY</String>
+		<String>JULY</String>
+		<String>JUNE</String>
+		<String>KERNEL32.DLL</String>
+		<String>L'''9</String>
+		<String>L'E'G'A'L'C'O'P'Y'R'I'G'H'T'''C'O'P'Y'R'I'G'H'T</String>
+		<String>L'E'G'A'L'T'R'A'D'E'M'A'R'K'S</String>
+		<String>L$'~</String>
+		<String>LCMAPSTRINGA</String>
+		<String>LCMAPSTRINGW</String>
+		<String>LE''(</String>
+		<String>LEAVECRITICALSECTION</String>
+		<String>LOADLIBRARYA</String>
+		<String>LOADSTRINGA</String>
+		<String>M''' '''P</String>
+		<String>M'S' 'S'A'N'S' 'S'E'R'I'F</String>
+		<String>MARCH</String>
+		<String>MICROSOFT VISUAL C++ RUNTIME LIBRARY</String>
+		<String>MMMM DD</String>
+		<String>MONDAY</String>
+		<String>MULTIBYTETOWIDECHAR</String>
+		<String>NKEB</String>
+		<String>NOVEMBER</String>
+		<String>NWVS</String>
+		<String>O'ENTERCRITICALSECTION</String>
+		<String>O'R'I'G'I'N'A'L'F'I'L'E'N'A'M'E</String>
+		<String>OCTOBER</String>
+		<String>P'R'I'V'A'T'E'B'U'I'L'D</String>
+		<String>P'R'O'D'U'C'T'N'A'M'E</String>
+		<String>P'R'O'D'U'C'T'V'E'R'S'I'O'N'''1</String>
+		<String>PE''L</String>
+		<String>PJ'J</String>
+		<String>PPPPPPPP</String>
+		<String>PROGRAM NAME UNKNOWN</String>
+		<String>PSSW</String>
+		<String>PST'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''PDT</String>
+		<String>P_SHOWPLUGINDIALOG</String>
+		<String>QNAN''1</String>
+		<String>QQS3</String>
+		<String>QQSV</String>
+		<String>R6002</String>
+		<String>R6008</String>
+		<String>R6009</String>
+		<String>R6016</String>
+		<String>R6017</String>
+		<String>R6018</String>
+		<String>R6019</String>
+		<String>R6024</String>
+		<String>R6025</String>
+		<String>R6026</String>
+		<String>R6027</String>
+		<String>R6028</String>
+		<String>RICH</String>
+		<String>RTLUNWIND</String>
+		<String>RUNTIME ERROR</String>
+		<String>S'P'E'C'I'A'L'B'U'I'L'D'''D</String>
+		<String>S'T'R'I'N'G'F'I'L'E'I'N'F'O</String>
+		<String>SATURDAY</String>
+		<String>SEPTEMBER</String>
+		<String>SETHANDLECOUNT''H</String>
+		<String>SETLASTERROR</String>
+		<String>SING ERROR</String>
+		<String>SJ'W</String>
+		<String>SNAN</String>
+		<String>SS'DDDD</String>
+		<String>SSPVSS</String>
+		<String>SSUP</String>
+		<String>SUNDAY</String>
+		<String>SUNMONTUEWEDTHUFRISAT'''JANFEBMARAPRMAYJUNJULAUGSEPOCTNOVDEC</String>
+		<String>SUVWU</String>
+		<String>SVWF</String>
+		<String>SVWJ</String>
+		<String>SVWUJ'J'H</String>
+		<String>T'R'A'N'S'L'A'T'I'O'N</String>
+		<String>T$$T(</String>
+		<String>T$$VSS</String>
+		<String>T7SW</String>
+		<String>T9UW</String>
+		<String>TAVW</String>
+		<String>TERMINATEPROCESS</String>
+		<String>TEVU</String>
+		<String>THIS PROGRAM CANNOT BE RUN IN DOS MODE.</String>
+		<String>THURSDAY</String>
+		<String>TLOSS ERROR</String>
+		<String>TLSALLOC</String>
+		<String>TLSFREE</String>
+		<String>TLSGETVALUE</String>
+		<String>TLSSETVALUE</String>
+		<String>TMWWS</String>
+		<String>TUESDAY</String>
+		<String>TZVS</String>
+		<String>U7WPS</String>
+		<String>UFWWJ</String>
+		<String>UISJ</String>
+		<String>V'A'R'F'I'L'E'I'N'F'O'''''$</String>
+		<String>VC20XC00U</String>
+		<String>VIRTUALALLOC</String>
+		<String>VIRTUALFREE</String>
+		<String>VWUBH</String>
+		<String>WEDNESDAY</String>
+		<String>WIDECHARTOMULTIBYTE</String>
+		<String>WRITEFILE</String>
+		<String>WUFS3</String>
+		<String>WWSH</String>
+		<String>Y'''W</String>
+		<String>YC'U</String>
+		<String>YT)V</String>
+		<String>YYYY'M</String>
+		<String>Z'''X</String>
+		<String>ZC%C1</String>
+		<String>__GLOBAL_HEAP_SELECTED''__MSVCRT_HEAP_SELECT</String>
+		<String>} 'T*</String>
+		<String>}%95</String>
+	</GlobalStrings>
+</TrID>

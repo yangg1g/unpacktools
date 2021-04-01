@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows NT Registry Hive</FileType>
+		<Ext>HIV/DAT</Ext>
+		<ExtraInfo>
+			<Rem>A Hive file is the Windows Registry's on-disk storage format.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>03</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>28</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>72656766</Bytes>
+			<ASCII> r e g f</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

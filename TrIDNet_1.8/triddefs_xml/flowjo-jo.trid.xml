@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FlowJo Mac Workspace</FileType>
+		<Ext>JO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.flowjo.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>10</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>35</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>466C6F774A6F</Bytes>
+			<ASCII> F l o w J o</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>STATISTIC</String>
+		<String>FLOWJO</String>
+		<String>CELLS</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,74 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XSetup - plugin</FileType>
+		<Ext>XPL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.xteq.com/</RefURL>
+		</ExtraInfo>
+		<User>fenixproductions</User>
+		<E-Mail>fenixproductions at o2 dot pl</E-Mail>
+		<Home>http://fenixproductions.qsh.eu</Home>
+	</Info>
+	<General>
+		<FileNum>28</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>12</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>56</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2246494C45223D22587465712053797374656D7320582D536574757020506C7567696E20</Bytes>
+			<ASCII> " F I L E " = " X t e q   S y s t e m s   X - S e t u p   P l u g i n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E30220D0A2254595045223D22</Bytes>
+			<ASCII> . 0 " . . " T Y P E " = "</ASCII>
+			<Pos>37</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>220D0A22434F554E54223D22</Bytes>
+			<ASCII> " . . " C O U N T " = "</ASCII>
+			<Pos>51</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>220D0A22</Bytes>
+			<ASCII> " . . "</ASCII>
+			<Pos>64</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>22</Bytes>
+			<ASCII> "</ASCII>
+			<Pos>76</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>AUTHOR</String>
+		<String>COUNT</String>
+		<String>DESCRIPTION 1</String>
+		<String>ELEMENTSUBINDEX)</String>
+		<String>END SUB</String>
+		<String>FILE</String>
+		<String>LANGUAGE</String>
+		<String>NAME</String>
+		<String>SUB PLUGIN_APPLY(ELEMENTINDEX</String>
+		<String>SUB PLUGIN_INITIALIZE</String>
+		<String>SUB PLUGIN_TERMINATE</String>
+		<String>TEXT</String>
+		<String>TYPE</String>
+		<String>UIPATH</String>
+		<String>VBSCRIPT</String>
+		<String>VERSION</String>
+		<String>XTEQ SYSTEMS X-SETUP PLUGIN</String>
+	</GlobalStrings>
+</TrID>

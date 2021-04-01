@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>snoop verbose trace</FileType>
+		<Ext>SNOOP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Snoop_(software)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>29</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>12</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>44</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>45544845523A20</Bytes>
+			<ASCII> E T H E R :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PACKET SIZE</String>
+		<String>DESTINATION</String>
+		<String>ETHERTYPE</String>
+		<String>PROTOCOL</String>
+		<String>ADDRESS</String>
+		<String>ARRIVED</String>
+		<String>LENGTH</String>
+		<String>SOURCE</String>
+		<String>BYTES</String>
+		<String>(IP)</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Visio 2013 drawing</FileType>
+		<Ext>VSDX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Microsoft_Visio</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>8</Month>
+			<Day>9</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>17</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCUMENT.XML.RELSPK</String>
+		<String>PAGES.XML.RELSPK</String>
+		<String>THUMBNAIL.EMFPK</String>
+		<String>DOCUMENT.XMLPK</String>
+		<String>CONTENT_TYPES</String>
+		<String>WINDOWS.XMLPK</String>
+		<String>CUSTOM.XMLPK</String>
+		<String>PAGE1.XMLPK</String>
+		<String>PAGES.XMLPK</String>
+		<String>CORE.XMLPK</String>
+		<String>APP.XMLPK</String>
+		<String>DOCPROPS</String>
+		<String>VISIO</String>
+		<String>_RELS</String>
+	</GlobalStrings>
+</TrID>

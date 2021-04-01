@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Prey save game</FileType>
+		<Ext>SAVE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.prey.com/</RefURL>
+		</ExtraInfo>
+		<User>fenixproductions</User>
+		<E-Mail>fenixproductions at o2 dot pl</E-Mail>
+		<Home>http://fenixproductions.qsh.eu</Home>
+	</Info>
+	<General>
+		<FileNum>50</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>01</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>51</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>040000005072657972000000</Bytes>
+			<ASCII> . . . . P r e y r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000067616D652F</Bytes>
+			<ASCII> . . . g a m e /</ASCII>
+			<Pos>13</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

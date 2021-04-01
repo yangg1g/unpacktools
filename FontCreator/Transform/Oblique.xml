@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+  <TransformScript>
+    <OtherComments>
+      <Content>Before running this script, select only the glyphs you want to transform. Some symbols like + and © are best left vertical. Since there is no undo for transforms, copy the glyphs to the clipboard and paste them back to retry with a different angle.</Content>
+    </OtherComments>
+    <OtherComments>
+      <Content>Oblique
+This script slants the selected glyphs by the italic angle you choose, while preserving the advance width. The font style is not changed to italic, and no changes are made to font metrics.</Content>
+    </OtherComments>
+    <EffectsItalic>
+      <Angle>11.00</Angle>
+      <UpdateMetrics>FALSE</UpdateMetrics>
+      <PreserveBearings>FALSE</PreserveBearings>
+    </EffectsItalic>
+    <MetricsLeftSideBearing>
+    </MetricsLeftSideBearing>
+    <OtherComments>
+      <Content>After running this transformation, most glyphs will have off-curve extremes and perhaps other validation errors. Run the Font Validation Wizard to correct them, or use the Validation Toolbar to view the problems and correct each glyph individually. </Content>
+    </OtherComments>
+  </TransformScript>
+</DATA>

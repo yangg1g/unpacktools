@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Dynamics AX Export (UTF)</FileType>
+		<Ext>XPO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Axapta</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>28</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF4578706F727466696C6520666F7220414F542076657273696F6E20312E30206F72206C617465720D0A</Bytes>
+			<ASCII> . . . E x p o r t f i l e   f o r   A O T   v e r s i o n   1 . 0   o r   l a t e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>EXPORTFILE FOR AOT VERSION 1.0 OR LATER</String>
+		<String>PROJECTVERSION</String>
+		<String>ENDPROPERTIES</String>
+		<String>FORMATVERSION</String>
+		<String>UTILOBJECTID</String>
+		<String>***ELEMENT</String>
+		<String>ENDPROJECT</String>
+		<String>BEGINNODE</String>
+		<String>ENDSOURCE</String>
+		<String>MICROSOFT</String>
+		<String>FILETYPE</String>
+		<String>NODETYPE</String>
+		<String>UNLOADED</String>
+		<String>UTILTYPE</String>
+		<String>ENDNODE</String>
+		<String>IC VOID</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RichView Format (Unicode)</FileType>
+		<Ext>RVF</Ext>
+		<ExtraInfo>
+			<Rem>The native ascii and binary unicode format as used by TRichEdit based products.</Rem>
+			<RefURL>http://www.trichview.com/help/index.html?rvf_specification.html</RefURL>
+		</ExtraInfo>
+		<User>Kieran O'Donnell</User>
+		<E-Mail>FileMan at consultant dot com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>02</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>00</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2D382031</Bytes>
+			<ASCII> - 8   1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ALIGNMENT</String>
+		<String>UNICODE</String>
+		<String>BOTTOM</String>
+		<String>BORDER</String>
+		<String>HEIGHT</String>
+		<String>CENTER</String>
+		<String>COLOR</String>
+		<String>STYLE</String>
+		<String>RIGHT</String>
+		<String>TEXT</String>
+		<String>LEFT</String>
+		<String>LINE</String>
+		<String>NAME</String>
+		<String>FONT</String>
+	</GlobalStrings>
+</TrID>

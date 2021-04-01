@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Freehand drawing (v3)</FileType>
+		<Ext>FH3</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.macromedia.com/software/freehand/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>1</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>13</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>46483331</Bytes>
+			<ASCII> F H 3 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>STYLEPROPLST</String>
+		<String>DOCXFERFUNC</String>
+		<String>ELEMPROPLST</String>
+		<String>FHDOCHEADER</String>
+		<String>ARROWPATH</String>
+		<String>BASICFILL</String>
+		<String>BASICLINE</String>
+		<String>PROCEDURE</String>
+		<String>ELEMLIST</String>
+		<String>HALFTONE</String>
+		<String>MPOBJECT</String>
+		<String>ELEMENT</String>
+		<String>PRINTER</String>
+		<String>FIGURE</String>
+		<String>GUIDES</String>
+		<String>STROKE</String>
+		<String>TCOLOR</String>
+		<String>BLOCK</String>
+		<String>GROUP</String>
+		<String>LAYER</String>
+		<String>PAPER</String>
+		<String>COMP</String>
+	</GlobalStrings>
+</TrID>

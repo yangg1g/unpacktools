@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Vectordean Music</FileType>
+		<Ext>RJP</Ext>
+		<ExtraInfo>
+			<Rem>Music editor written by Alan McCarthy and Andi Smithers. Also known as the Vectordean format.</Rem>
+			<RefURL>http://exotica.fix.no/tunes/unexotica/formats/Richard_Joseph.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>31</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>51</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>524A5031534D4F440000</Bytes>
+			<ASCII> R J P 1 S M O D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,67 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Pika Software Builder Project</FileType>
+		<Ext>PIKA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pikaonline.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>7</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>26</Min>
+			<Sec>7</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>740D0A50726F6772616D4C6F636174696F6E3A</Bytes>
+			<ASCII> t . . P r o g r a m L o c a t i o n :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A5C</Bytes>
+			<ASCII> : \</ASCII>
+			<Pos>20</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NUMBER OF COMPONENTS FOR THIS FUNCTION</String>
+		<String>NUMBER OF ACTIONS</String>
+		<String>FUNCTION NUMBER</String>
+		<String>CONDITIONPARAM</String>
+		<String>MILLISECONDS</String>
+		<String>CONDITIONID</String>
+		<String>PROGRAMFORM</String>
+		<String>WINDOWSTATE</String>
+		<String>FORMBORDER</String>
+		<String>SPLASHPATH</String>
+		<String>CLBTNFACE</String>
+		<String>USESPLASH</String>
+		<String>ACTIONID</String>
+		<String>APPDATA</String>
+		<String>BGCOLOR</String>
+		<String>BGTYPE</String>
+		<String>HEIGHT</String>
+		<String>FALSE</String>
+		<String>ITEMS</String>
+		<String>LOCAL</String>
+		<String>TITLE</String>
+		<String>USERS</String>
+		<String>WIDTH</String>
+		<String>LEFT</String>
+		<String>TEMP</String>
+	</GlobalStrings>
+</TrID>

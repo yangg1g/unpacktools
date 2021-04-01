@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FLEXIT Multishot Survey Raw Data file</FileType>
+		<Ext>RSY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.flexit.se</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>28</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B464C45584954204D756C746973686F74205375727665792052617720446174612046696C653A76</Bytes>
+			<ASCII> [ F L E X I T   M u l t i s h o t   S u r v e y   R a w   D a t a   F i l e : v</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>LOCAL COORDINATES</String>
+		<String>EXTRAPOLATION</String>
+		<String>TOOL RAW DATA</String>
+		<String>RESULT FILES</String>
+		<String>SURVEY TYPE</String>
+		<String>CONVENTIONS</String>
+		<String>CALIBRATION</String>
+		<String>START DATA</String>
+		<String>PLAN DATA</String>
+		<String>STRUCTURE</String>
+		<String>COMMENTS</String>
+		<String>SOFTWARE</String>
+		<String>END DATA</String>
+		<String>OPTIONS</String>
+		<String>GENERAL</String>
+		<String>SYSTEM</String>
+		<String>TIMES</String>
+		<String>MAGIC</String>
+		<String>MODE</String>
+	</GlobalStrings>
+</TrID>

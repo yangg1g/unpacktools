@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+  <TransformScript>
+    <OtherComments>
+      <Content>Superscript
+This script creates superscripts by scaling the figures and applying a bold transformation. You may need to adjust the values of the bold transformation to suit the weight of your font. </Content>
+    </OtherComments>
+    <GlyphInsertCharacters>
+      <Characters>8304,185,178,179,8308-8316</Characters>
+      <OverrideRange>TRUE</OverrideRange>
+    </GlyphInsertCharacters>
+    <GlyphCompleteComposites>
+    </GlyphCompleteComposites>
+    <GlyphDecompose>
+    </GlyphDecompose>
+    <OutlineScale>
+      <AroundType>1</AroundType>
+      <AroundCorner>0</AroundCorner>
+      <AroundXPos>0</AroundXPos>
+      <AroundYPos>0</AroundYPos>
+      <Horizontal>65.00</Horizontal>
+      <Vertical>60.00</Vertical>
+      <PreserveBearings>FALSE</PreserveBearings>
+    </OutlineScale>
+    <EffectsBold>
+      <Horizontal>26</Horizontal>
+      <Vertical>20</Vertical>
+      <PreserveBearings>TRUE</PreserveBearings>
+    </EffectsBold>
+    <OutlineMove>
+      <Horizontal>0</Horizontal>
+      <Vertical>-20</Vertical>
+    </OutlineMove>
+    <OtherComments>
+      <Content>Superscript Width
+Remove the next line for fonts with uneven figure width. 
+Calculate the uniform width as follows:
+Width = figure width x hirozontal scale/100 + (2 x horizontal bold), e.g.
+899 = 1303 x 65/100 + 52</Content>
+    </OtherComments>
+    <MetricsLeftSideBearing>
+    </MetricsLeftSideBearing>
+    <OtherComments>
+      <Content>Vertical Alignment
+The tops of superscripts are designed to align with the tops of figures. 
+Adjust the vertical position by changing the value of the Move transformation.</Content>
+    </OtherComments>
+    <GlyphInsertCharacters>
+      <Characters>8305,8317,8318,8319</Characters>
+      <OverrideRange>TRUE</OverrideRange>
+    </GlyphInsertCharacters>
+    <GlyphCompleteComposites>
+    </GlyphCompleteComposites>
+    <GlyphDecompose>
+    </GlyphDecompose>
+    <OutlineScale>
+      <AroundType>1</AroundType>
+      <AroundCorner>0</AroundCorner>
+      <AroundXPos>0</AroundXPos>
+      <AroundYPos>0</AroundYPos>
+      <Horizontal>65.00</Horizontal>
+      <Vertical>60.00</Vertical>
+      <PreserveBearings>FALSE</PreserveBearings>
+    </OutlineScale>
+    <EffectsBold>
+      <Horizontal>26</Horizontal>
+      <Vertical>20</Vertical>
+      <PreserveBearings>TRUE</PreserveBearings>
+    </EffectsBold>
+    <OutlineMove>
+      <Horizontal>0</Horizontal>
+      <Vertical>-20</Vertical>
+    </OutlineMove>
+    <MetricsLeftSideBearing>
+    </MetricsLeftSideBearing>
+  </TransformScript>
+</DATA>

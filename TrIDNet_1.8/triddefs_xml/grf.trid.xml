@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GraphEdit Filter Graph</FileType>
+		<Ext>GRF</Ext>
+		<ExtraInfo>
+			<Rem>GraphEdit is part of Microsoft DirectX SDK.</Rem>
+			<RefURL>http://tinyurl.com/yyhrzx</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>1</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>42</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.78b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4100630074006900760065004D006F00760069006500470072006100700068</Bytes>
+			<ASCII> A . c . t . i . v . e . M . o . v . i . e . G . r . a . p . h</ASCII>
+			<Pos>1664</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>C'O'N'N'E'C'T'I'O'N'S</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>F'I'L'T'E'R'S</String>
+		<String>C'L'O'C'K</String>
+		<String>V'I'D'E'O</String>
+		<String>E'N'D</String>
+		<String>O'U'T</String>
+	</GlobalStrings>
+</TrID>

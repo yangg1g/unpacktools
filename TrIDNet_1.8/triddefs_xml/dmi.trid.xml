@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DMIS input data</FileType>
+		<Ext>DMI</Ext>
+		<ExtraInfo>
+			<Rem>DMIS stand for Dimensional Measuring Interface Standard.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>328</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>4</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>29</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D</Bytes>
+			<ASCII> M</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ENDFIL</String>
+		<String>DMISM</String>
+	</GlobalStrings>
+</TrID>

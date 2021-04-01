@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MED/OctaMED Amiga module/song</FileType>
+		<Ext>MED</Ext>
+		<ExtraInfo>
+			<Rem>Music EDitor by Tejio Kinnunen. MED was originally available as freeware, with a commercial eight channel version called OctaMED. The latest version of MED is OctaMED Sound Studio. This format was very popular with musicians, but it was not used much in games because the complexity of the format required too much CPU time.</Rem>
+			<RefURL>http://exotica.fix.no/tunes/unexotica/formats/MED.html</RefURL>
+		</ExtraInfo>
+		<User>Dr.Ryo(TM)</User>
+		<E-Mail>dr.ryo@superfigo.com</E-Mail>
+		<Home>http://www.superfigo.com</Home>
+	</Info>
+	<General>
+		<FileNum>33</FileNum>
+		<Refine>13 by Marco Pontello - 10 by Marco Pontello - 4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>44</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D4D44</Bytes>
+			<ASCII> M M D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>4</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000</Bytes>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000</Bytes>
+			<Pos>21</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000</Bytes>
+			<Pos>28</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000FFFF0000</Bytes>
+			<Pos>36</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

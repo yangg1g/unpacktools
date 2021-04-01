@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BYOB sprite</FileType>
+		<Ext>YSP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://byob.berkeley.edu/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>43</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>42</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4F626A530153746368010000</Bytes>
+			<ASCII> O b j S . S t c h</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NORMAL</String>
+		<String>BLOCK</String>
+		<String>STAGE</String>
+		<String>.YSP</String>
+		<String>BYOB</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>QuickTime Preferences</FileType>
+		<Ext>QTP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.apple.com/quicktime</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>08</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>06</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0000000000000000000000000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7365616E</Bytes>
+			<ASCII> s e a n</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>70</Bytes>
+			<ASCII> p</ASCII>
+			<Pos>37</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>76</Bytes>
+			<ASCII> v</ASCII>
+			<Pos>87</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

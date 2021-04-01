@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Android Package</FileType>
+		<Ext>APK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/APK_(file_format)</RefURL>
+		</ExtraInfo>
+		<User>Avinash Rana</User>
+		<E-Mail>avinash@adminus.net</E-Mail>
+		<Home>http://www.adminus.net</Home>
+	</Info>
+	<General>
+		<FileNum>1475</FileNum>
+		<Refine>25 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>22</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ANDROIDMANIFEST.XML</String>
+		<String>RESOURCES.ARSC</String>
+		<String>CLASSES.DEX</String>
+		<String>MANIFEST.MF</String>
+		<String>DRAWABLE</String>
+		<String>META-INF</String>
+		<String>.SFPK</String>
+		<String>IDATX</String>
+		<String>.PNG</String>
+		<String>IEND</String>
+		<String>IHDR</String>
+		<String>SAPK</String>
+	</GlobalStrings>
+</TrID>

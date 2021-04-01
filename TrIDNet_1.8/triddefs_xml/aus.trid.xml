@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AutoREALM Symbols</FileType>
+		<Ext>AUS</Ext>
+		<ExtraInfo>
+			<Rem>AutoREALM is a freely available fantasy role-playing map making program.</Rem>
+			<RefURL>http://www.gryc.ws/autorealm.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>04</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>32</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>41757453</Bytes>
+			<ASCII> A u t S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

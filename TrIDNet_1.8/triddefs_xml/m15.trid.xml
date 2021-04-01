@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>thinEdge model</FileType>
+		<Ext>M15</Ext>
+		<ExtraInfo>
+			<Rem>thinEdge is a low-poly modeller designed to be tightly cooperating with thinBASIC interpreter.</Rem>
+			<RefURL>http://psch.thinbasic.com/thinedge.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>27</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>277468696E45646765206461746166696C6520</Bytes>
+			<ASCII> ' t h i n E d g e   d a t a f i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VERTEXNUM</String>
+	</GlobalStrings>
+</TrID>

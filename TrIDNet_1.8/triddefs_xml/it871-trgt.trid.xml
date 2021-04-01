@@ -1,0 +1,69 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IT8.7/1 target descriptor</FileType>
+		<Ext>TXT</Ext>
+		<ExtraInfo>
+			<Rem>Used for color calibration.</Rem>
+			<RefURL>http://oclc.org/research/publications/library/visguides/visguide3.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>11</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>52</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4954382E372F31</Bytes>
+			<ASCII> I T 8 . 7 / 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BATCH AVERAGE DATA</String>
+		<String>BEGIN_DATA_FORMAT</String>
+		<String>NUMBER_OF_FIELDS</String>
+		<String>END_DATA_FORMAT</String>
+		<String>NUMBER_OF_SETS</String>
+		<String>MANUFACTURER</String>
+		<String>DESCRIPTOR</String>
+		<String>ORIGINATOR</String>
+		<String>PROD_DATE</String>
+		<String>SAMPLE_ID</String>
+		<String>MATERIAL</String>
+		<String>CREATED</String>
+		<String>SERIAL</String>
+		<String>LAB_A</String>
+		<String>LAB_B</String>
+		<String>LAB_L</String>
+		<String>XYZ_X</String>
+		<String>XYZ_Y</String>
+		<String>XYZ_Z</String>
+		<String>GS10</String>
+		<String>GS11</String>
+		<String>GS12</String>
+		<String>GS13</String>
+		<String>GS14</String>
+		<String>GS15</String>
+		<String>GS16</String>
+		<String>GS17</String>
+		<String>GS18</String>
+		<String>GS19</String>
+		<String>GS20</String>
+		<String>GS21</String>
+		<String>GS22</String>
+	</GlobalStrings>
+</TrID>

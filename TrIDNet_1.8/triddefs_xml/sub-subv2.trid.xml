@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SubViewer 2.0 subtitles</FileType>
+		<Ext>SUB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/SubViewer</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>21</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>18</Min>
+			<Sec>7</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B494E464F524D4154494F4E5D</Bytes>
+			<ASCII> [ I N F O R M A T I O N ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>END INFORMATION</String>
+		<String>SUBTITLE</String>
+		<String>COMMENT</String>
+		<String>AUTHOR</String>
+	</GlobalStrings>
+</TrID>

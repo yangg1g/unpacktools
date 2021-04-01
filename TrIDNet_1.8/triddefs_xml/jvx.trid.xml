@@ -1,0 +1,74 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>JavaView JVX geometry</FileType>
+		<Ext>JVX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.javaview.de/guide/formats/Format_Jvx.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>37</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D2249534F2D383835392D3122207374616E64616C6F6E653D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " I S O - 8 8 5 9 - 1 "   s t a n d a l o n e = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCTYPE JVX-MODEL SYSTEM</String>
+		<String>VECTORFIELD NAME</String>
+		<String>WWW.JAVAVIEW.DE</String>
+		<String>META GENERATOR</String>
+		<String>GEOMETRY NAME</String>
+		<String>FACESET FACE</String>
+		<String>LINESET LINE</String>
+		<String>ORGANIZATION</String>
+		<String>POINTSET DIM</String>
+		<String>VERSION TYPE</String>
+		<String>AFFILIATION</String>
+		<String>DESCRIPTION</String>
+		<String>XML VERSION</String>
+		<String>GEOMETRIES</String>
+		<String>STANDALONE</String>
+		<String>FIRSTNAME</String>
+		<String>META DATE</String>
+		<String>THICKNESS</String>
+		<String>ABSTRACT</String>
+		<String>ENCODING</String>
+		<String>KEYWORDS</String>
+		<String>LASTNAME</String>
+		<String>SOFTWARE</String>
+		<String>ADDRESS</String>
+		<String>AUTHORS</String>
+		<String>JVX.DTD</String>
+		<String>PRIMARY</String>
+		<String>VECTORS</String>
+		<String>COLORS</String>
+		<String>DETAIL</String>
+		<String>ARROW</String>
+		<String>EMAIL</String>
+		<String>TITLE</String>
+		<String>BASE</String>
+		<String>EDGE</String>
+		<String>HTTP</String>
+		<String>RSRC</String>
+	</GlobalStrings>
+</TrID>

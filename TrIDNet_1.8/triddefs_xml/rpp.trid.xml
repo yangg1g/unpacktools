@@ -1,0 +1,62 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>REAPER project</FileType>
+		<Ext>RPP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.reaper.fm/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>1</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>34</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C5245415045525F50524F4A45435420</Bytes>
+			<ASCII> . R E A P E R _ P R O J E C T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>17</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RENDER_RESAMPLE</String>
+		<String>MASTER_VOLUME</String>
+		<String>RENDER_RANGE</String>
+		<String>RECORD_PATH</String>
+		<String>RENDER_FMT</String>
+		<String>MASTER_FX</String>
+		<String>SELECTION</String>
+		<String>MUTESOLO</String>
+		<String>PLAYRATE</String>
+		<String>BUSCOMP</String>
+		<String>CURSOR</String>
+		<String>VOLPAN</String>
+		<String>ISBUS</String>
+		<String>TRACK</String>
+		<String>FADE</String>
+		<String>FILE</String>
+		<String>GRAN</String>
+		<String>LOOP</String>
+		<String>MODE</String>
+		<String>NAME</String>
+		<String>ZOOM</String>
+	</GlobalStrings>
+</TrID>

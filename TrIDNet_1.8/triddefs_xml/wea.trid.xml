@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WeatherTool weather data</FileType>
+		<Ext>WEA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://squ1.org/wiki/WeatherTool</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>27</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>616A6D5F5745415F766572</Bytes>
+			<ASCII> a j m _ W E A _ v e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>12</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

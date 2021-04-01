@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Professional File 2.0 - MS-DOS Form and File Application</FileType>
+		<Ext>DAT</Ext>
+		<ExtraInfo>
+			<Rem>File may not have an extension</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Prothec</User>
+		<E-Mail></E-Mail>
+		<Home>http://www.planneddigital.com</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>08</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>12</Min>
+			<Sec>54</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0040000100</Bytes>
+			<ASCII> . @</ASCII>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54595045323040</Bytes>
+			<ASCII> T Y P E 2 0 @</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TYPE20</String>
+	</GlobalStrings>
+</TrID>

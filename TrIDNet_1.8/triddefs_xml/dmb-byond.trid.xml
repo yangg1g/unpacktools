@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BYOND game byte-code executable</FileType>
+		<Ext>DMB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.byond.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>12</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>33</Min>
+			<Sec>0</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>776F726C642062696E2076</Bytes>
+			<ASCII> w o r l d   b i n   v</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0A6D696E20636F6D7061746962696C6974792076</Bytes>
+			<ASCII> . m i n   c o m p a t i b i l i t y   v</ASCII>
+			<Pos>14</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MIN COMPATIBILITY V</String>
+	</GlobalStrings>
+</TrID>

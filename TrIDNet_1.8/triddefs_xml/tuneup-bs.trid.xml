@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TuneUp Style Boot Screen</FileType>
+		<Ext>TBS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.tune-up.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>86</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>12</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>35</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>544B0304</Bytes>
+			<ASCII> T K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>21</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>25</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>27</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.INIPK</String>
+		<String>.BMPPK</String>
+	</GlobalStrings>
+</TrID>

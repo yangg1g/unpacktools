@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VBA32 Antivirus Signature</FileType>
+		<Ext>UDB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.anti-virus.by/en/</RefURL>
+		</ExtraInfo>
+		<User>Scrapie</User>
+		<E-Mail>scrapie@pochta.ru</E-Mail>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>09</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5642413332205669727573204461746162617365205570646174652C2056657273696F6E20</Bytes>
+			<ASCII> V B A 3 2   V i r u s   D a t a b a s e   U p d a t e ,   V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

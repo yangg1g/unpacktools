@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HNSKY Deep Sky Database</FileType>
+		<Ext>HND</Ext>
+		<ExtraInfo>
+			<Rem>Hallo northern sky (HNSKY) is a free planetarium software for Windows.</Rem>
+			<RefURL>http://www.hnsky.org/software.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>44</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>484E534B592044454550534B59204441544142415345204C4556454C20</Bytes>
+			<ASCII> H N S K Y   D E E P S K Y   D A T A B A S E   L E V E L</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

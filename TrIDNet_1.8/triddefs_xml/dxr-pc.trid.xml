@@ -1,0 +1,115 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Macromedia Director Protected Movie (PC)</FileType>
+		<Ext>DXR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.macromedia.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>04</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>02</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5249465800</Bytes>
+			<ASCII> R I F X</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D563933696D6170</Bytes>
+			<ASCII> M V 9 3 i m a p</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000000000006D6D6170</Bytes>
+			<ASCII> . . . . . . . . . . . . m m a p</ASCII>
+			<Pos>32</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52494658</Bytes>
+			<ASCII> R I F X</ASCII>
+			<Pos>76</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000001000000000000696D6170</Bytes>
+			<ASCII> . . . . . . . . . . . . i m a p</ASCII>
+			<Pos>84</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6D6D6170</Bytes>
+			<ASCII> m m a p</ASCII>
+			<Pos>116</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4B45592A</Bytes>
+			<ASCII> K E Y *</ASCII>
+			<Pos>136</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TIMES NEW ROMAN</String>
+		<String>MACINTOSH FONTS</String>
+		<String>MS SANS SERIF</String>
+		<String>WINDOWS FONTS</String>
+		<String>DEFAULT FONT</String>
+		<String>FONT MAPPING</String>
+		<String>MACROMEDIA</String>
+		<String>DIRECTORY</String>
+		<String>HELVETICA</String>
+		<String>CHAR ...</String>
+		<String>MAP NONE</String>
+		<String>NEW YORK</String>
+		<String>FONTNAME</String>
+		<String>MS SERIF</String>
+		<String>TERMINAL</String>
+		<String>MV93IMAP</String>
+		<String>PLATFORM</String>
+		<String>OLDCHAR</String>
+		<String>NEWSIZE</String>
+		<String>OLDSIZE</String>
+		<String>CHICAGO</String>
+		<String>MONACO</String>
+		<String>SYSTEM</String>
+		<String>GENEVA</String>
+		<String>SYMBOL</String>
+		<String>MOVIE</String>
+		<String>FILE.</String>
+		<String>ARIAL</String>
+		<String>FXMP</String>
+		<String>LNAM</String>
+		<String>CAST</String>
+		<String>BITD</String>
+		<String>EVEN</String>
+		<String>LOAD</String>
+		<String>MMAP</String>
+		<String>COMM</String>
+		<String>EVER</String>
+		<String>NEED</String>
+		<String>RIFX</String>
+		<String>SORD</String>
+		<String>FREE</String>
+		<String>LATE</String>
+		<String>LCTX</String>
+		<String>LINE</String>
+		<String>VWFI</String>
+		<String>VWSC</String>
+		<String>NOTE</String>
+		<String>LIST</String>
+	</GlobalStrings>
+</TrID>

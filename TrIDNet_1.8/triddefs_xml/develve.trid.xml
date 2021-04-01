@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Develve data</FileType>
+		<Ext>DEVELVE</Ext>
+		<ExtraInfo>
+			<Rem>Develve is a statistical package for fast and easy interpretation of experimental data in science and R and D in a technical environment</Rem>
+			<RefURL>http://develve.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>5</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>16</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C25496E707574253E0D0A</Bytes>
+			<ASCII> . % I n p u t %</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>%INTERACTIONS%</String>
+		<String>%DECIMALS%</String>
+		<String>%FACTORS%</String>
+		<String>%RESULTS%</String>
+		<String>%MANOVA%</String>
+		<String>%GRAPH%</String>
+		<String>%INPUT%</String>
+		<String>%DOE%</String>
+		<String>%END%</String>
+	</GlobalStrings>
+</TrID>

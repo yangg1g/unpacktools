@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AnimationWorks Accelerated movie</FileType>
+		<Ext>AWA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ozcad.com.au/products/animationworks.php</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>08</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>54</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>61776131</Bytes>
+			<ASCII> a w a 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

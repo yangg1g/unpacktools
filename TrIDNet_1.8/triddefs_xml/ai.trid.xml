@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Adobe Illustrator graphics</FileType>
+		<Ext>AI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.adobe.com/products/illustrator/main.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>67</FileNum>
+		<Refine>2 by Marco Pontello - 5 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>59</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>252150532D</Bytes>
+			<ASCII> % ! P S -</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>%%DOCUMENTPROCESSCOLORS</String>
+		<String>%AI3_DOCUMENTPREVIEW</String>
+		<String>ADOBE ILLUSTRATOR</String>
+		<String>%AI3_TEMPLATEBOX</String>
+		<String>%AI3_COLORUSAGE</String>
+		<String>%%CREATIONDATE</String>
+		<String>%%ENDCOMMENTS</String>
+		<String>%%BOUNDINGBOX</String>
+		<String>PS-ADOBE-3.0</String>
+		<String>%%CREATOR</String>
+		<String>RESOURCES</String>
+		<String>TRAILER</String>
+		<String>%%BEGIN</String>
+		<String>%%TITLE</String>
+		<String>%%PAGE</String>
+		<String>%%EOF</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>sK1 vector graphic</FileType>
+		<Ext>SK1</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/SK1_(program)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>10</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>50</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2323734B3120</Bytes>
+			<ASCII> # # s K 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MASTERLAYER</String>
+		<String>GUIDELAYER</String>
+		<String>DOCUMENT</String>
+		<String>LAYOUT(</String>
+		<String>GRID</String>
+		<String>PAGE</String>
+	</GlobalStrings>
+</TrID>

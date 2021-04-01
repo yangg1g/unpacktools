@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>ICC Kodak printer image format</FileType>
+        <Ext>PRN</Ext>
+        <ExtraInfo>
+            <Rem>If you can, double check and let me know if it's all right! Thx!</Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>2</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>10</Month>
+            <Day>12</Day>
+        </Date>
+        <Time>
+            <Hour>21</Hour>
+            <Min>02</Min>
+            <Sec>02</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>00569605</Bytes>
+            <ASCII> . V</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

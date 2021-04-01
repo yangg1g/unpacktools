@@ -1,0 +1,64 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Digitrakker music module/song</FileType>
+        <Ext>MDL</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Dr.Ryo(TM)</User>
+        <E-Mail>dr.ryo@superfigo.com</E-Mail>
+        <Home>http://www.superfigo.com</Home>
+    </Info>
+    <General>
+        <FileNum>6</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </Date>
+        <Time>
+            <Hour>17</Hour>
+            <Min>46</Min>
+            <Sec>18</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.50</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>444D444C11494E</Bytes>
+            <ASCII> D M D L . I N</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>000000</Bytes>
+            <Pos>8</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>20202020202020</Bytes>
+            <Pos>36</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00</Bytes>
+            <Pos>64</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00FF</Bytes>
+            <Pos>66</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>7D</Bytes>
+            <ASCII> }</ASCII>
+            <Pos>69</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0C0</Bytes>
+            <Pos>78</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>DMDL</String>
+    </GlobalStrings>
+</TrID>
+

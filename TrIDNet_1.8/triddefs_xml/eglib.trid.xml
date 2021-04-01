@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Adobe Edge Animate Library</FileType>
+		<Ext>EGLIB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>11</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>45</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>_EDGEACTIONS.JSPK</String>
+		<String>_EDGE.JSPK</String>
+		<String>.EDGEPK</String>
+		<String>.HTMLPK</String>
+		<String>.HTMLM</String>
+		<String>.PNGPK</String>
+		<String>IMAGES</String>
+	</GlobalStrings>
+</TrID>

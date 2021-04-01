@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Xerox VI Project file</FileType>
+		<Ext>VI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.xerox.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>27</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>9DDBC526</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>56492050726F6A6563742046696C65282A2E766929</Bytes>
+			<ASCII> V I   P r o j e c t   F i l e ( * . v i )</ASCII>
+			<Pos>1072</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>56492050726F6A6563742046696C65282A2E766929002A2E5649</Bytes>
+			<ASCII> V I   P r o j e c t   F i l e ( * . v i ) . * . V I</ASCII>
+			<Pos>1332</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

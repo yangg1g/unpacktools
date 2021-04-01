@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft ODBC Data Source</FileType>
+		<Ext>DSN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Odbc</RefURL>
+		</ExtraInfo>
+		<User>flarn2006</User>
+		<E-Mail>flarn2006@gmail.com</E-Mail>
+		<Home>http://flarn2005.blogspot.com/</Home>
+	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<Refine>20 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>35</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B4F4442435D0D0A4452495645523D</Bytes>
+			<ASCII> [ O D B C ] . . D R I V E R =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

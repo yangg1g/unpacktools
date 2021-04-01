@@ -1,0 +1,155 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Alienware AlienFX Theme</FileType>
+		<Ext>ATH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>1</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>45</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E3022207374616E64616C6F6E653D22796573223F3E0D0A</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   s t a n d a l o n e = " y e s " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PSEUDOACTIONVISUALIZATION_VISUALIZATIONS</String>
+		<String>PSEUDOACTIONVISUALIZATION_ACTIONTYPES</String>
+		<String>PSEUDOACTIONVISUALIZATION_CONSTRAINT1</String>
+		<String>VISUALIZATIONS_VISUALIZATIONTYPES</String>
+		<String>VISUALIZATIONTYPES_CONSTRAINT1</String>
+		<String>VISUALIZATIONS_CONSTRAINT1</String>
+		<String>FK_VISUALIZATIONS_DEVICES</String>
+		<String>ACTIONTYPES_CONSTRAINT1</String>
+		<String>DEVICETYPES_CONSTRAINT1</String>
+		<String>FLAGSUSEDFORREPLICATION</String>
+		<String>ZONESGROUPS_CONSTRAINT1</String>
+		<String>FK_DEVICES_DEVICETYPES</String>
+		<String>SCHEMAS-MICROSOFT-COM</String>
+		<String>AC FULLY CHARGE MODE</String>
+		<String>ATTRIBUTEFORMDEFAULT</String>
+		<String>DC LOW BATTERY STATE</String>
+		<String>KEYBOARD MIDDLERIGHT</String>
+		<String>VISUALIZATIONS_THEME</String>
+		<String>ZONES_VISUALIZATIONS</String>
+		<String>ACTIONS_ACTIONTYPES</String>
+		<String>DEVICES_CONSTRAINT1</String>
+		<String>KEYBOARD MIDDLELEFT</String>
+		<String>VISUALIZATIONTYPEID</String>
+		<String>ELEMENTFORMDEFAULT</String>
+		<String>THEMEDATASET XMLNS</String>
+		<String>ZONESGROUPS_GROUPS</String>
+		<String>AUTOINCREMENTSEED</String>
+		<String>RELATIONSHIP NAME</String>
+		<String>THEME_CONSTRAINT1</String>
+		<String>ZONESGROUPS_ZONES</String>
+		<String>ZONES_CONSTRAINT1</String>
+		<String>AC CHARGING MODE</String>
+		<String>CHOICE MINOCCURS</String>
+		<String>COMPATIBLESYSTEM</String>
+		<String>LEDS_CONSTRAINT1</String>
+		<String>RESTRICTION BASE</String>
+		<String>THEMEDATASET.XSD</String>
+		<String>USECURRENTLOCALE</String>
+		<String>ACTIONSPERZONES</String>
+		<String>APPLICATIONNAME</String>
+		<String>DC WORKING MODE</String>
+		<String>MAXLENGTH VALUE</String>
+		<String>PLAYPOWERSTATUS</String>
+		<String>TARGETNAMESPACE</String>
+		<String>VISUALIZATIONID</String>
+		<String>CONSTRAINTNAME</String>
+		<String>KEYBOARD RIGHT</String>
+		<String>SELECTOR XPATH</String>
+		<String>AC SLEEP MODE</String>
+		<String>ACTIONS_ZONES</String>
+		<String>DC SLEEP MODE</String>
+		<String>KEYBOARD LEFT</String>
+		<String>RIGHT SPEAKER</String>
+		<String>ACTIONTYPEID</String>
+		<String>APPLICATIONS</String>
+		<String>DEVICETYPEID</String>
+		<String>ELEMENT NAME</String>
+		<String>LEFT SPEAKER</String>
+		<String>COMPLEXTYPE</String>
+		<String>DESCRIPTION</String>
+		<String>FIELD XPATH</String>
+		<String>LEDS_GROUPS</String>
+		<String>MEDIA GREEN</String>
+		<String>TEMPURI.ORG</String>
+		<String>UNIQUE NAME</String>
+		<String>XML VERSION</String>
+		<String>ANNOTATION</String>
+		<String>MEDIA BLUE</String>
+		<String>PRIMARYKEY</String>
+		<String>SIMPLETYPE</String>
+		<String>STANDALONE</String>
+		<String>WWW.W3.ORG</String>
+		<String>XML-MSDATA</String>
+		<String>ALIENHEAD</String>
+		<String>ISDATASET</String>
+		<String>MAXOCCURS</String>
+		<String>MEDIA RED</String>
+		<String>NEW EMAIL</String>
+		<String>PARENTKEY</String>
+		<String>POWER LED</String>
+		<String>QUALIFIED</String>
+		<String>SCHEMA ID</String>
+		<String>UNBOUNDED</String>
+		<String>X CHASSIS</String>
+		<String>XMLSCHEMA</String>
+		<String>ACTIONID</String>
+		<String>CHILDKEY</String>
+		<String>DEVICEID</String>
+		<String>DURATION</String>
+		<String>READONLY</String>
+		<String>SEQUENCE</String>
+		<String>SETCOLOR</String>
+		<String>SPEAKERS</String>
+		<String>TOUCHPAD</String>
+		<String>2.0.0.0</String>
+		<String>APPINFO</String>
+		<String>BOOLEAN</String>
+		<String>GROUPID</String>
+		<String>HDD LED</String>
+		<String>THEMEID</String>
+		<String>GROUP0</String>
+		<String>HIDDEN</String>
+		<String>STRING</String>
+		<String>ZONEID</String>
+		<String>FALSE</String>
+		<String>FIXED</String>
+		<String>LEDID</String>
+		<String>MODEL</String>
+		<String>MORPH</String>
+		<String>MOUSE</String>
+		<String>MSTNS</String>
+		<String>PULSE</String>
+		<String>TEMPO</String>
+		<String>TOKEN</String>
+		<String>HTTP</String>
+		<String>LOGO</String>
+		<String>LOOP</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

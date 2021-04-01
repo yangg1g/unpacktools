@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Word 98 document(Macintosh)</FileType>
+		<Ext>DOC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Jelmer Jaarsma</User>
+		<E-Mail>jelmer@nospam@jaarsma.org</E-Mail>
+		<Home>none</Home>
+	</Info>
+	<General>
+		<FileNum>434</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>10</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>12</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<ASCII> . . . . . . . . .</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>D'E'F'A'U'L'T' 'P'A'R'A'G'R'A'P'H' 'F'O'N'T</String>
+		<String>J'''''''W'O'R'D'D'O'C'U'M'E'N'T</String>
+		<String>MICROSOFT WORD DOCUMENT</String>
+		<String>W'P' 'D'E'F'A'U'L'T'S</String>
+		<String>T'I'M'E'S' 'N'E'W</String>
+		<String>S'Y'M'B'O'L'''3</String>
+		<String>WORD.DOCUMENT.8</String>
+		<String>C'O'M'P'O'B'J</String>
+		<String>R'O'M'A'N'''5</String>
+		<String>1'T'A'B'L'E</String>
+		<String>N'O'R'M'A'L</String>
+		<String>G'E'N'E'V'A</String>
+		<String>A'R'I'A'L</String>
+		<String>MSWORDDOC</String>
+		<String>CULTUS</String>
+		<String>OBJECT</String>
+		<String>IN DE</String>
+		<String>ONDE</String>
+		<String>BJBJ</String>
+		<String>VOOR</String>
+	</GlobalStrings>
+</TrID>

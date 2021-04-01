@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Zoner Draw (container with preview)</FileType>
+		<Ext>ZMF</Ext>
+		<ExtraInfo>
+			<Rem>Container with a BMP preview and the ZMF native document.</Rem>
+			<RefURL>http://www.zoner.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>17</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B030414</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000B000000636F6E74656E742E7A6D66</Bytes>
+			<ASCII> . . . . . c o n t e n t . z m f</ASCII>
+			<Pos>25</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONTENT.ZMFPK</String>
+		<String>PREVIEW.BMPPK</String>
+	</GlobalStrings>
+</TrID>

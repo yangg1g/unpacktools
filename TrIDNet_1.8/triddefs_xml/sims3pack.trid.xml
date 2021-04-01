@@ -1,0 +1,73 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>The Sims 3 game package</FileType>
+		<Ext>SIMS3PACK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/The_Sims</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>41</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>070000005453335061636B01</Bytes>
+			<ASCII> . . . . T S 3 P a c k</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00003C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D22</Bytes>
+			<ASCII> . . . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = "</ASCII>
+			<Pos>15</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SIMS3PACKAGE TYPE</String>
+		<String>ARCHIVEVERSION</String>
+		<String>MINREQVERSION</String>
+		<String>ASSETVERSION</String>
+		<String>DEPENDENCIES</String>
+		<String>PACKAGEDFILE</String>
+		<String>CODEVERSION</String>
+		<String>CONTENTTYPE</String>
+		<String>DESCRIPTION</String>
+		<String>DISPLAYNAME</String>
+		<String>GAMEVERSION</String>
+		<String>LOCALIZEDNA</String>
+		<String>XML VERSION</String>
+		<String>THUMBNAIL</String>
+		<String>.PACKAGE</String>
+		<String>ENCODING</String>
+		<String>METATAGS</String>
+		<String>SUBTYPE</String>
+		<String>TS3PACK</String>
+		<String>LENGTH</String>
+		<String>OFFSET</String>
+		<String>IDATX</String>
+		<String>MANIF</String>
+		<String>TITLE</String>
+		<String>UTF-8</String>
+		<String>DATE</String>
+		<String>DBPF</String>
+		<String>GUID</String>
+		<String>IEND</String>
+		<String>IHDR</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>THOR compressed data</FileType>
+		<Ext>THR</Ext>
+		<ExtraInfo>
+			<Rem>A compression program by Oscar Garcia.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Label</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2009</Year>
+			<Month>04</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>02</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>544852</Bytes>
+			<ASCII> T H R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

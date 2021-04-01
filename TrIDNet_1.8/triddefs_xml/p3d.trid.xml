@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Panda multifile object</FileType>
+		<Ext>P3D</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.panda3d.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>8</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>54</Min>
+			<Sec>5</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2321202F7573722F62696E2F656E762070616E646133640A706D66</Bytes>
+			<ASCII> # !   / u s r / b i n / e n v   p a n d a 3 d . p m f</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RUNTIME.PANDA3D.ORG</String>
+		<String>CERTIFICATION</String>
+		<String>REQUIRES NAME</String>
+		<String>PACKAGE NAME</String>
+		<String>ENV PANDA3D</String>
+		<String>MAIN_MODULE</String>
+		<String>XML VERSION</String>
+		<String>ENCODING</String>
+		<String>HOST URL</String>
+		<String>GROUP</String>
+		<String>HTTP</String>
+		<String>JFIF</String>
+		<String>TEXT</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Finale Guitar</FileType>
+		<Ext>MUS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.finalemusic.com/finaleguitar/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>44</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>454E49474D412042494E4152592046494C45000000000000000000000000000046696E616C6528522920477569746172</Bytes>
+			<ASCII> E N I G M A   B I N A R Y   F I L E . . . . . . . . . . . . . . F i n a l e ( R )   G u i t a r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>57494E00010400</Bytes>
+			<ASCII> W I N</ASCII>
+			<Pos>116</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>464A520057494E</Bytes>
+			<ASCII> F J R . W I N</ASCII>
+			<Pos>150</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Adobe Download Manager</FileType>
+		<Ext>AOM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.adobe.com/products/acrobat/acrrmanager.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>10</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>12</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F616F6D2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0A3C41646F6265446F776E6C6F61644D616E61676572</Bytes>
+			<ASCII> . ? a o m   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ? . . . A d o b e D o w n l o a d M a n a g e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ADOBEDOWNLOADMANAGER VERSION</String>
+		<String>ARDOWNLOAD.ADOBE.COM</String>
+		<String>STOREINFORMATION</String>
+		<String>DOWNLOADRECORD</String>
+		<String>NONEXECUTABLE</String>
+		<String>AOM VERSION</String>
+		<String>CANCELABLE</String>
+		<String>ENCODING</String>
+		<String>ADBERDR</String>
+		<String>STOREID</String>
+		<String>READER</String>
+		<String>FLAGS</String>
+		<String>UTF-8</String>
+		<String>SIZE</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

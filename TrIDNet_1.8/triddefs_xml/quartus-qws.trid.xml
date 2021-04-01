@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Quartus Workspace</FileType>
+		<Ext>QWS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Altera_Quartus</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>24</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B50726F6A656374576F726B73706163655D0D0A</Bytes>
+			<ASCII> [ P r o j e c t W o r k s p a c e ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PROJECTWORKSPACE.FRAMES.CHILDFRAMES.DOCUMENT-</String>
+		<String>ISACTIVECHILDFRAME</String>
+		<String>DOCUMENTCLSID</String>
+		<String>.VIEWFRAME-0</String>
+		<String>DOCPATHNAME</String>
+		<String>DOCUMENT-0</String>
+		<String>PTN_CHILD</String>
+		<String>STATEMAP</String>
+		<String>FALSE</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

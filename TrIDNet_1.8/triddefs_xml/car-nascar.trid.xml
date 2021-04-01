@@ -1,0 +1,85 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>NASCAR Racing Car description</FileType>
+		<Ext>CAR</Ext>
+		<ExtraInfo>
+			<Rem>A car description format, probably used in various Car Racing simulators using the same game-engine.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>30</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>06</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>27</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>46524143</Bytes>
+			<ASCII> F R A C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>50595443</Bytes>
+			<ASCII> P Y T C</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>494E4943</Bytes>
+			<ASCII> I N I C</ASCII>
+			<Pos>28</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4149506172616D446576696174696F6E</Bytes>
+			<ASCII> A I P a r a m D e v i a t i o n</ASCII>
+			<Pos>43</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>AIPARAMDRIVERSUPERSPEEDWAY</String>
+		<String>AIPARAMPITCREWCONSISTENCY</String>
+		<String>AIPARAMVEHICLERELIABILITY</String>
+		<String>AIPARAMDRIVERCONSISTENCY</String>
+		<String>AIPARAMDRIVERAGGRESSION</String>
+		<String>AIPARAMDRIVERROADCOURSE</String>
+		<String>AIPARAMDRIVERQUALIFYING</String>
+		<String>AIPARAMDRIVERSHORTTRACK</String>
+		<String>AIPARAMDRIVERFINISHING</String>
+		<String>AIPARAMPITCREWSTRATEGY</String>
+		<String>AIPARAMDRIVERSPEEDWAY</String>
+		<String>AIPARAMVEHICLECHASSIS</String>
+		<String>AIPARAMVEHICLEENGINE</String>
+		<String>AIPARAMPITCREWSPEED</String>
+		<String>AIPARAMVEHICLEAERO</String>
+		<String>NUMCHAMPIONSHIPS</String>
+		<String>AIPARAMDEVIATION</String>
+		<String>CURRENTYEARSTATS</String>
+		<String>CAREERSTATS</String>
+		<String>AIPARAMMEAN</String>
+		<String>BIRTH_DATE</String>
+		<String>FIRST_NAME</String>
+		<String>CAR_NUMBER</String>
+		<String>CAR_CLASS</String>
+		<String>HOME_TOWN</String>
+		<String>LAST_NAME</String>
+		<String>NUMSTARTS</String>
+		<String>TEAM_NAME</String>
+		<String>CAR_MAKE</String>
+		<String>WINNINGS</String>
+		<String>SPONSOR</String>
+		<String>NUMWINS</String>
+		<String>NUMTOP5</String>
+		<String>NUMDNF</String>
+	</GlobalStrings>
+</TrID>

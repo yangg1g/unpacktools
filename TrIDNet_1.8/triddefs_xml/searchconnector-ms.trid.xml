@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Search Connector</FileType>
+		<Ext>SEARCHCONNECTOR-MS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>2</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>39</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0D0A3C736561726368436F6E6E6563746F724465736372697074696F6E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ? . . . . s e a r c h C o n n e c t o r D e s c r i p t i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SEARCHCONNECTORDESCRIPTION</String>
+		<String>ISSEARCHONLYITEM</String>
+		<String>TEMPLATEINFO</String>
+		<String>XML VERSION</String>
+		<String>FOLDERTYPE</String>
+		<String>ENCODING</String>
+		<String>LOCATION</String>
+		<String>WINDOWS</String>
+		<String>UTF-8</String>
+		<String>.COM</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

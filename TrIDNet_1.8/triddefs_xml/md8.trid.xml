@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mediator Project</FileType>
+		<Ext>MD8</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.matchware.com/en/products/mediator/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>13</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4A534F532057BB7B42CFCF11A7994445535400000001534F53205374616E646172642066696C6573797374656D20312E3000000000004D6174636857617265</Bytes>
+			<ASCII> J S O S   W . { B . . . . . D E S T . . . . S O S   S t a n d a r d   f i l e s y s t e m   1 . 0 . . . . . M a t c h W a r e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SOS STANDARD FILESYSTEM 1.0'''''MATCHWARE</String>
+		<String>EXCLWORDS</String>
+		<String>DEST</String>
+		<String>JSOS</String>
+		<String>PAGE</String>
+	</GlobalStrings>
+</TrID>

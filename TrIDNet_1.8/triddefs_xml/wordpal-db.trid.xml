@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WordPal Database</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mindpal.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>56</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>576F726450616C20446174616261736520</Bytes>
+			<ASCII> W o r d P a l   D a t a b a s e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>204D696E6450616C</Bytes>
+			<ASCII>   M i n d P a l</ASCII>
+			<Pos>23</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

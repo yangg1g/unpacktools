@@ -1,0 +1,92 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Hasselblad 3F RAW</FileType>
+		<Ext>FFF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Hasselblad</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>4</Hour>
+			<Min>10</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D4D002A</Bytes>
+			<ASCII> M M . *</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>12</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>W5M0MPCEHIHZRESZNTCZKC9D</String>
+		<String>PUBLIC XMP TOOLKIT CORE</String>
+		<String>CREATORCONTACTINFO RDF</String>
+		<String>22-RDF-SYNTAX-NS</String>
+		<String>DESCRIPTION RDF</String>
+		<String>XMPMETA XMLNS</String>
+		<String>XPACKET BEGIN</String>
+		<String>IPTC4XMPCORE</String>
+		<String>NS.ADOBE.COM</String>
+		<String>XPACKET END</String>
+		<String>HASSELBLAD</String>
+		<String>WWW.W3.ORG</String>
+		<String>CIADRCTRY</String>
+		<String>CIURLWORK</String>
+		<String>PARSETYPE</String>
+		<String>PHOTOSHOP</String>
+		<String>RDF XMLNS</String>
+		<String>X-DEFAULT</String>
+		<String>ELEMENTS</String>
+		<String>IPTC.ORG</String>
+		<String>PURL.ORG</String>
+		<String>RESOURCE</String>
+		<String>LI XML</String>
+		<String>RIGHTS</String>
+		<String>ABOUT</String>
+		<String>XMPTK</String>
+		<String>ANDE</String>
+		<String>BITE</String>
+		<String>DENM</String>
+		<String>DERS</String>
+		<String>ENMA</String>
+		<String>ERSE</String>
+		<String>ESPE</String>
+		<String>HIBI</String>
+		<String>HTTP</String>
+		<String>INST</String>
+		<String>LANG</String>
+		<String>LEFT</String>
+		<String>MARK</String>
+		<String>NDER</String>
+		<String>NSTR</String>
+		<String>PERS</String>
+		<String>PROH</String>
+		<String>REPR</String>
+		<String>RODU</String>
+		<String>SPER</String>
+		<String>STRU</String>
+	</GlobalStrings>
+</TrID>

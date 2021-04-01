@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MioMotion movie</FileType>
+		<Ext>MIO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mioplanet.com/products/miomotion/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>04</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4E434D4F424A454354</Bytes>
+			<ASCII> N C M O B J E C T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>EVENTSCRIPT.MEM__</String>
+		<String>HEADER.SECURITY__</String>
+		<String>FILES.SECURITY__</String>
+		<String>_IDENTITY2.LIB__</String>
+		<String>_IDENTITY.LIB__</String>
+		<String>IDENTITY.KEXE__</String>
+		<String>IDENTITY.MEM__</String>
+		<String>MIOLIB.JS__</String>
+		<String>INDEX.HTM__</String>
+		<String>KXYOUTX</String>
+		<String>VOC__</String>
+	</GlobalStrings>
+</TrID>

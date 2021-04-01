@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MPSub subtitles</FileType>
+		<Ext>SUB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>58</Min>
+			<Sec>2</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5449544C453D</Bytes>
+			<ASCII> T I T L E =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>AUTHOR</String>
+		<String>FORMAT</String>
+		<String>TITLE</String>
+		<String>VIDEO</String>
+		<String>FILE</String>
+		<String>NOTE</String>
+		<String>TIME</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

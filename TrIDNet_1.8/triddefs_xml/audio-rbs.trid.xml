@@ -1,0 +1,44 @@
+<TrID ver="1.16">
+    <Info>
+        <FileType>Propellerhead Software ReBirth Song</FileType>
+        <Ext>RBS</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.propellerheads.se/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>9</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>18</Day>
+        </Date>
+        <Time>
+            <Hour>22</Hour>
+            <Min>19</Min>
+            <Sec>19</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00.1</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>434154200000</Bytes>
+            <ASCII> C A T</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>5242343048454144000001005B545B54BC04</Bytes>
+            <ASCII> R B 4 0 H E A D . . . . [ T [ T</ASCII>
+            <Pos>8</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000286329313939372050726F70656C6C65726865616420536F6674776172652C20616C6C2072696768747320726573657276656400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000474C4F4200000200</Bytes>
+            <ASCII> . . ( c ) 1 9 9 7   P r o p e l l e r h e a d   S o f t w a r e ,   a l l   r i g h t s   r e s e r v e d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . G L O B</ASCII>
+            <Pos>27</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

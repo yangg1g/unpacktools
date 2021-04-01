@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Macromedia Flash Color Table File</FileType>
+        <Ext>CLR</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.macromedia.com</RefURL>
+        </ExtraInfo>
+        <User>.Cryorb</User>
+        <E-Mail>vy@nospam@tut.by</E-Mail>
+        <Home></Home>
+    </Info>
+    <General>
+        <FileNum>8</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </Date>
+        <Time>
+            <Hour>11</Hour>
+            <Min>55</Min>
+            <Sec>16</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.50</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>FFFF00000A0043436F6C6F724C697374</Bytes>
+            <ASCII> . . . . . . C C o l o r L i s t</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>FFFF0000090043436F6C6F7244656603</Bytes>
+            <ASCII> . . . . . . C C o l o r D e f</ASCII>
+            <Pos>18</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

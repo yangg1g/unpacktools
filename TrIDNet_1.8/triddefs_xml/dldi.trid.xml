@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Dynamically Linked Device Interface</FileType>
+		<Ext>DLDI</Ext>
+		<ExtraInfo>
+			<Rem>http://dldi.drunkencoders.com/index.php?title=Main_Page</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>40</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>26</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EDA58DBF2043686973686D0001</Bytes>
+			<ASCII> . . . .   C h i s h m</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

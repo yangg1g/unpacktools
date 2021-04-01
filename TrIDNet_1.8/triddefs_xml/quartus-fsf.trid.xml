@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Quartus Software Build Settings File</FileType>
+		<Ext>FSF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Altera_Quartus</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>3</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>534F4654574152455F53455454494E47530D0A7B0D0A09</Bytes>
+			<ASCII> S O F T W A R E _ S E T T I N G S . . {</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>USE_C_PREPROCESSOR_FOR_GNU_ASM_FILES</String>
+		<String>GNUPRO_NIOS_CPP_COMMAND_LINE</String>
+		<String>GNUPRO_ARM_CPP_COMMAND_LINE</String>
+		<String>DO_POST_BUILD_COMMAND_LINE</String>
+		<String>PROGRAMMING_FILE_TYPE</String>
+		<String>NO PROGRAMMING FILE</String>
+		<String>SOFTWARE_SETTINGS</String>
+		<String>OUTPUT_FILE_NAME</String>
+		<String>LITTLE ENDIAN</String>
+		<String>CUSTOM BUILD</String>
+		<String>OUTPUT_TYPE</String>
+		<String>BYTE_ORDER</String>
+		<String>INTEL HEX</String>
+		<String>TOOLSET</String>
+		<String>.HEX</String>
+	</GlobalStrings>
+</TrID>

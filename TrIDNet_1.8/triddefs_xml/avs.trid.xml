@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Winamp Advanced Visualization Studio File</FileType>
+        <Ext>AVS</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.winamp.com</RefURL>
+        </ExtraInfo>
+        <User>.Cryorb</User>
+        <E-Mail>vy@nospam@tut.by</E-Mail>
+        <Home></Home>
+    </Info>
+    <General>
+        <FileNum>112</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </Date>
+        <Time>
+            <Hour>15</Hour>
+            <Min>26</Min>
+            <Sec>21</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.50</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4E756C6C736F6674204156532050726573657420</Bytes>
+            <ASCII> N u l l s o f t   A V S   P r e s e t</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

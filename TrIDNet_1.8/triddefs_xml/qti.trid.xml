@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>QTI document</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem>The IMS Question and Test Interoperability Specification (QTI) defines an XML language for interchanging questions and assessments between different systems.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/QTI</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>26</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>QUESTESTINTEROP</String>
+		<String>RESPONSE_LABEL</String>
+		<String>PRESENTATION</String>
+		<String>MATERIAL</String>
+		<String>QUESTION</String>
+		<String>MATTEXT</String>
+		<String>RENDER_</String>
+		<String>IDENT</String>
+		<String>TITLE</String>
+		<String>SING</String>
+		<String>ITEM</String>
+	</GlobalStrings>
+</TrID>

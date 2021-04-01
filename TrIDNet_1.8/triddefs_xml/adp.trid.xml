@@ -1,0 +1,81 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Access Project</FileType>
+		<Ext>ADP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/office</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>26</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>23</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>G'{'0'0'0'2'0'4'3'0'-'0'0'0'0'-'0'0'0'0'-'C'0'0'0'-'0'0'0'0'0'0'0'0'0'0'4'6'}</String>
+		<String>G'{'0'0'0'2'0'4'E'F'-'0'0'0'0'-'0'0'0'0'-'C'0'0'0'-'0'0'0'0'0'0'0'0'0'0'4'6'}</String>
+		<String>G'{'4'A'F'F'C'9'A'0'-'5'F'9'9'-'1'0'1'B'-'A'F'4'E'-'0'0'A'A'0'0'3'F'0'F'0'7'}</String>
+		<String>V'I'S'U'A'L' 'B'A'S'I'C' 'F'O'R' 'A'P'P'L'I'C'A'T'I'O'N'S</String>
+		<String>.'0' 'O'B'J'E'C'T' 'L'I'B'R'A'R'Y</String>
+		<String>M'I'C'R'O'S'O'F'T' 'O'F'F'I'C'E</String>
+		<String>D'A'T'A'A'C'C'E'S'S'P'A'G'E'S</String>
+		<String>O'L'E' 'A'U'T'O'M'A'T'I'O'N</String>
+		<String>_'V'B'A'_'P'R'O'J'E'C'T</String>
+		<String>M'I'C'R'O'S'O'F'T' 'A'C</String>
+		<String>A'C'E'S'S'V'B'A'D'A'T'A</String>
+		<String>C'U'S'T'O'M'G'R'O'U'P'S</String>
+		<String>S'T'D'O'L'E'2'.'T'L'B</String>
+		<String>A'C'C'E'S'S'V'E'R'S'I</String>
+		<String>S'O'F'T' 'A'C'C'E'S'S</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>V'B'A'P'R'O'J'E'C'T</String>
+		<String>VERSIONCOMPATIBLE32</String>
+		<String>HOST EXTENDER INFO</String>
+		<String>D'A'T'A'B'A'S'E'S</String>
+		<String>P'R'O'J'E'C'T'W'M</String>
+		<String>P'R'O'P'D'A'T'A</String>
+		<String>R'E'P'O'R'T'S</String>
+		<String>C'M'D'B'A'R'S</String>
+		<String>D'I'R'D'A'T'A</String>
+		<String>HELPCONTEXTID</String>
+		<String>S'C'R'I'P'T'S</String>
+		<String>M'O'D'U'L'E'S</String>
+		<String>M'S'Y'S'D'B</String>
+		<String>S'Y'S'T'E'M</String>
+		<String>F'O'R'M'S</String>
+		<String>M'S'A'C'C</String>
+		<String>B'L'O'B</String>
+		<String>V'B'A'6</String>
+		<String>.'O'L'B</String>
+		<String>ACCESS</String>
+		<String>STDOLE</String>
+		<String>O'N'0</String>
+		<String>PROJE</String>
+		<String>C'O'M</String>
+		<String>W'I'N</String>
+		<String>WIN16</String>
+		<String>WIN32</String>
+		<String>VBA6</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

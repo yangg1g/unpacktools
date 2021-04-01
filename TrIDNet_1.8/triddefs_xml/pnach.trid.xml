@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PCSX2 Patch</FileType>
+		<Ext>PNACH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://pcsx2.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>5</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>44</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>67616D657469746C653D</Bytes>
+			<ASCII> g a m e t i t l e =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GAMETITLE</String>
+		<String>COMMENT</String>
+		<String>PATCH</String>
+	</GlobalStrings>
+</TrID>

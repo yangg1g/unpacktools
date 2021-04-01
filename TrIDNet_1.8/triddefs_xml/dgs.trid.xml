@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Dagesh document</FileType>
+		<Ext>DGS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.galtechsoft.com/dagesh.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>07</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>02</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C56455220</Bytes>
+			<ASCII> . V E R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SXLINEBETCOL</String>
+		<String>NORMALCHAR</String>
+		<String>FILEFORMAT</String>
+		<String>NORMALPAR</String>
+		<String>BIDILAYU</String>
+		<String>WINDOWS</String>
+		<String>DEFAULT</String>
+		<String>VERSION</String>
+		<String>ORIENT</String>
+		<String>FTROFF</String>
+		<String>HDROFF</String>
+		<String>TBDEF</String>
+		<String>FTNUM</String>
+		<String>PAPER</String>
+		<String>SECT</String>
+		<String>COLW</String>
+		<String>COLS</String>
+		<String>LANG</String>
+		<String>NONE</String>
+	</GlobalStrings>
+</TrID>

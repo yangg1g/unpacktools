@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Golfstar Resource data</FileType>
+		<Ext>GSR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://golfstar.gamigo.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>10</Month>
+			<Day>8</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>57</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>476F6C6653746172205265736F757263652046696C652C2056657273696F6E20</Bytes>
+			<ASCII> G o l f S t a r   R e s o u r c e   F i l e ,   V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

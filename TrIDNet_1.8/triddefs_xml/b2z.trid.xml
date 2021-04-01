@@ -1,0 +1,41 @@
+<TrID ver="1.15">
+	<Info>
+		<FileType>B2Z dVS Model/Object</FileType>
+		<Ext>B2Z</Ext>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<Date>
+			<Year>2003</Year>
+			<Month>6</Month>
+			<Day>2</Day>
+		</Date>
+		<Time>
+			<Hour>0</Hour>
+			<Min>40</Min>
+			<Sec>7</Sec>
+		</Time>
+		<Creator>TrIDScan v0.52b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4449562D42495A32030010022002020103200314075E04200215</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2000</Bytes>
+			<Pos>27</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0820</Bytes>
+			<Pos>30</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52</Bytes>
+			<Pos>33</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Scratch project</FileType>
+		<Ext>SB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://scratch.mit.edu/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>58</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5363726174636856</Bytes>
+			<ASCII> S c r a t c h V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4F626A53</Bytes>
+			<ASCII> O b j S</ASCII>
+			<Pos>14</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

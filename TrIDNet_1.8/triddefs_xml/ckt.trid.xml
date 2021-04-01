@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CircuitMaker schematic</FileType>
+		<Ext>CKT</Ext>
+		<ExtraInfo>
+			<Rem>CircuitMaker is a Virtual Electronics Lab. It allow design, simulate and output of printed circuit board designs.</Rem>
+			<RefURL>http://www.altium.com/circuitmaker/</RefURL>
+		</ExtraInfo>
+		<User>Renan</User>
+		<E-Mail>renan.birck at gmail.com</E-Mail>
+		<Home>http://marreka.no-ip.com</Home>
+	</Info>
+	<General>
+		<FileNum>92</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>11</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>15</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>436972637569744D616B657220546578740D0A</Bytes>
+			<ASCII> C i r c u i t M a k e r   T e x t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

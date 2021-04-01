@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Maple worksheet</FileType>
+		<Ext>MWS</Ext>
+		<ExtraInfo>
+			<Rem>MWS is used in the older Maple format.</Rem>
+			<RefURL>http://www.maplesoft.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>77</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>12</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7B56455253494F4E20</Bytes>
+			<ASCII> { V E R S I O N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>10</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>{EXCHG {PARA</String>
+		<String>MAPLE INPUT</String>
+		<String>{USTYLETAB</String>
+		<String>{SECT 0 {</String>
+		<String>{VERSION</String>
+		<String>}{PSTYLE</String>
+		<String>{MPLTEXT</String>
+		<String>COURIER</String>
+		<String>{CSTYLE</String>
+		<String>NORMAL</String>
+		<String>VIEW</String>
+	</GlobalStrings>
+</TrID>

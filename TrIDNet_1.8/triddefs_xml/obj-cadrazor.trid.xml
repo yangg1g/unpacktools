@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CADRazor 3d model</FileType>
+		<Ext>OBJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>www.titanalgorithms.com/hyperion_cadrazor/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>32</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>09</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7620</Bytes>
+			<ASCII> v</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>F  1</String>
+	</GlobalStrings>
+</TrID>

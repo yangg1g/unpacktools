@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FaceTheMusic module/song</FileType>
+		<Ext>FTM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://exotica.fix.no/tunes/pages/FTM-FaceTheMusic.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>02</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>35</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>46544D4E03</Bytes>
+			<ASCII> F T M N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

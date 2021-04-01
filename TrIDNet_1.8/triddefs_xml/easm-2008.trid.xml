@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>eDrawings part (v 2008)</FileType>
+		<Ext>EASM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>45</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>04</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>46</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B01000000BE0D323030382B2061726368697665</Bytes>
+			<ASCII> [ . . . . . . 2 0 0 8 +   a r c h i v e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>92</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>654D6F64656C</Bytes>
+			<ASCII> e M o d e l</ASCII>
+			<Pos>122</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>2008+ ARCHIVE</String>
+		<String>PREVIEW.JPGPK</String>
+		<String>EMODELPK</String>
+	</GlobalStrings>
+</TrID>

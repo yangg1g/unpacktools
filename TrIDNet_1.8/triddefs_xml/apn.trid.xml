@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>APN Wallpaper</FileType>
+		<Ext>APN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pride-rock.com/forum/apnlist.php</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>25</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>57</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000000000000</Bytes>
+			<Pos>2</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D5045472D3220566572696669636174696F6E2053657175656E63650A</Bytes>
+			<ASCII> M P E G - 2   V e r i f i c a t i o n   S e q u e n c e</ASCII>
+			<Pos>84</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Simon Tatham's Portable Puzzle Collection savegame</FileType>
+		<Ext>SAV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.chiark.greenend.org.uk/~sgtatham/puzzles/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>8</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>35</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5341564546494C453A</Bytes>
+			<ASCII> S A V E F I L E :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A53696D6F6E2054617468616D277320506F727461626C652050757A7A6C6520436F6C6C656374696F6E</Bytes>
+			<ASCII> : S i m o n   T a t h a m ' s   P o r t a b l e   P u z z l e   C o l l e c t i o n</ASCII>
+			<Pos>11</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SAVEFILE</String>
+		<String>STATEPOS</String>
+		<String>CPARAMS</String>
+		<String>NSTATES</String>
+		<String>VERSION</String>
+		<String>DESC</String>
+		<String>GAME</String>
+		<String>MOVE</String>
+		<String>SEED</String>
+	</GlobalStrings>
+</TrID>

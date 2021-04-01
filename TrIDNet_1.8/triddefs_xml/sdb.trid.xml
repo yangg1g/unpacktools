@@ -1,0 +1,61 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Windows Prepackaged Database</FileType>
+        <Ext>SDB</Ext>
+        <ExtraInfo>
+            <Rem>Part of Windows XP Application Compatibility Solutions</Rem>
+            <RefURL>http://www.microsoft.com/technet/itsolutions/mso/bdd/bddapcmp.asp</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>11</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>05</Day>
+        </Date>
+        <Time>
+            <Hour>10</Hour>
+            <Min>54</Min>
+            <Sec>33</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>02000000</Bytes>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000736462660278</Bytes>
+            <ASCII> . . s d b f . x</ASCII>
+            <Pos>6</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00000378</Bytes>
+            <ASCII> . . . x</ASCII>
+            <Pos>16</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00000238</Bytes>
+            <ASCII> . . . 8</ASCII>
+            <Pos>22</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>700338</Bytes>
+            <ASCII> p . 8</ASCII>
+            <Pos>27</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000</Bytes>
+            <Pos>36</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000</Bytes>
+            <Pos>42</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

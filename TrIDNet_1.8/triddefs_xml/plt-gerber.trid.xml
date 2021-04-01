@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Gerber Scientific plot</FileType>
+		<Ext>PLT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.gerberscientific.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>7 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>51</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0147657262657220536369656E74696669632050726F6475637473204752415048495820414456414E54414745AE20</Bytes>
+			<ASCII> . G e r b e r   S c i e n t i f i c   P r o d u c t s   G R A P H I X   A D V A N T A G E</ASCII>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>49</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GERBER SCIENTIFIC PRODUCTS GRAPHIX ADVANTAGE</String>
+		<String>JOB PRINT</String>
+		<String>JOB PAL</String>
+		<String>.ICM</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ZET compressed archive</FileType>
+		<Ext>ZET</Ext>
+		<ExtraInfo>
+			<Rem>ZET is a compressor by Oleg V. Zaimkin.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Label</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2009</Year>
+			<Month>04</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>20</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4F5ADD12660C0000000064000100000000004F5AE00C2B950000000000004F5A</Bytes>
+			<ASCII> O Z . . f . . . . . d . . . . . . . O Z . . + . . . . . . . O Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FireFly SDK Designer project (new ASCII format)</FileType>
+		<Ext>PRJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.planetsquires.com/firefly.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>03</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>54</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2346697265466C795F50726F6A65637423202056657273696F6E3D</Bytes>
+			<ASCII> # F i r e F l y _ P r o j e c t # 		V e r s i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>28</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A</Bytes>
+			<Pos>31</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

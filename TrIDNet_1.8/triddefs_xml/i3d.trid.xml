@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Instant3D document</FileType>
+		<Ext>I3D</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>0</Hour>
+			<Min>49</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NONAMESPACESCHEMALOCATION</String>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>I3D.GIANTS.CH</String>
+		<String>DIFFUSECOLOR</String>
+		<String>XML VERSION</String>
+		<String>WWW.W3.ORG</String>
+		<String>ESET NAME</String>
+		<String>MATERIALS</String>
+		<String>I3D NAME</String>
+		<String>VERTICES</String>
+		<String>INDEXED</String>
+		<String>SHAPES</String>
+		<String>FILES</String>
+		<String>SCENE</String>
+		<String>XMLNS</String>
+		<String>.XSD</String>
+		<String>ESHA</String>
+		<String>HTTP</String>
+		<String>LATI</String>
+		<String>SETS</String>
+		<String>SHAD</String>
+		<String>TRUE</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

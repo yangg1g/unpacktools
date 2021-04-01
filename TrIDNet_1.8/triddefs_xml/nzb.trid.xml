@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Newzbin Usenet Index</FileType>
+		<Ext>NZB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.newzbin.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>53</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D</Bytes>
+			<ASCII> . ? x m l   v e r s i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>312E30</Bytes>
+			<ASCII> 1 . 0</ASCII>
+			<Pos>15</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20656E636F64696E673D22</Bytes>
+			<ASCII>   e n c o d i n g = "</ASCII>
+			<Pos>19</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ALT.BINARIES.</String>
+		<String>XML VERSION</String>
+		<String>ENCODING</String>
+		<String>SEGMENTS</String>
+		<String>SUBJECT</String>
+		<String>POSTER</String>
+		<String>GROUPS</String>
+		<String>.COM</String>
+		<String>DATE</String>
+		<String>FILE</String>
+	</GlobalStrings>
+</TrID>

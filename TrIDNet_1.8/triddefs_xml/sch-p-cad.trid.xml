@@ -1,0 +1,137 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>P-CAD schematic</FileType>
+		<Ext>SCH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pcad.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>25</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4949020420B4</Bytes>
+			<ASCII> I I</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A0D0A3B502D43414420</Bytes>
+			<ASCII> . . . . ; P - C A D</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20536368656D617469632056</Bytes>
+			<ASCII>   S c h e m a t i c   V</ASCII>
+			<Pos>22</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>36</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>39</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A502D43414420</Bytes>
+			<ASCII> . . P - C A D</ASCII>
+			<Pos>42</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20536368656D617469632042696E617279202852657620</Bytes>
+			<ASCII>   S c h e m a t i c   B i n a r y   ( R e v</ASCII>
+			<Pos>54</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>290D0A</Bytes>
+			<ASCII> )</ASCII>
+			<Pos>78</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D756C74694C617965725368656574</Bytes>
+			<ASCII> M u l t i L a y e r S h e e t</ASCII>
+			<Pos>234</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5368656574</Bytes>
+			<ASCII> S h e e t</ASCII>
+			<Pos>297</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>OLD_LICENSE_INFORMATION</String>
+		<String>PART ATTRIBUTE STYLE</String>
+		<String>WIRE ATTRIBUTE STYLE</String>
+		<String>COMPONENT ATTRIBUTES</String>
+		<String>PIN ATTRIBUTE STYLE</String>
+		<String>DEFAULT TEXT STYLE</String>
+		<String>BILL OF MATERIALS</String>
+		<String>LIBRARY CONTENTS</String>
+		<String>WILLIEMADEUSDOIT</String>
+		<String>NUMBER OF SHEETS</String>
+		<String>COMPONENTLIBRARY</String>
+		<String>LAST USED REFDES</String>
+		<String>PARTS LOCATIONS</String>
+		<String>MULTILAYERSHEET</String>
+		<String>PORT NAME STYLE</String>
+		<String>NET ATTRIBUTES</String>
+		<String>DRAWING NUMBER</String>
+		<String>REVISION NOTE</String>
+		<String>COMPONENTNAME</String>
+		<String>MODIFIED DATE</String>
+		<String>COMPANY NAME</String>
+		<String>(DEFAULTTTF)</String>
+		<String>SHEET NUMBER</String>
+		<String>CURRENT TIME</String>
+		<String>CURRENT DATE</String>
+		<String>UNUSED PARTS</String>
+		<String>(WIRESTYLE)</String>
+		<String>(PORTSTYLE)</String>
+		<String>DESCRIPTION</String>
+		<String>PARTS USAGE</String>
+		<String>GLOBAL NETS</String>
+		<String>APPROVED BY</String>
+		<String>PATTERNNAME</String>
+		<String>(PARTSTYLE)</String>
+		<String>CHECKED BY</String>
+		<String>LAYER NAME</String>
+		<String>(PINSTYLE)</String>
+		<String>SHEET NAME</String>
+		<String>(DEFAULT)</String>
+		<String>LOCATIONX</String>
+		<String>LOCATIONY</String>
+		<String>SCHEMATIC</String>
+		<String>ENGINEER</String>
+		<String>ROTATION</String>
+		<String>FILENAME</String>
+		<String>DRAWN BY</String>
+		<String>SHEETNUM</String>
+		<String>QUALITY</String>
+		<String>NETNAME</String>
+		<String>_COUNT</String>
+		<String>AUTHOR</String>
+		<String>INARY</String>
+		<String>TITLE</String>
+		<String>VALUE</String>
+		<String>TYPE</String>
+		<String>NET0</String>
+		<String>GUID</String>
+		<String>.LIB</String>
+	</GlobalStrings>
+</TrID>

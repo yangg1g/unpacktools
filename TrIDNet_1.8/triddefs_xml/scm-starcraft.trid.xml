@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>StarCraft Map</FileType>
+		<Ext>SCM/SCX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.blizzard.com/us/starcraft/</RefURL>
+		</ExtraInfo>
+		<User>Kyosuke Aoki</User>
+		<E-Mail>admin@failproductions.co.cc</E-Mail>
+		<Home>http://www.failproductions.co.cc</Home>
+	</Info>
+	<General>
+		<FileNum>101</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2009</Year>
+			<Month>02</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>09</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D50511A20000000</Bytes>
+			<ASCII> M P Q</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000300</Bytes>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>19</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>23</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>26</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

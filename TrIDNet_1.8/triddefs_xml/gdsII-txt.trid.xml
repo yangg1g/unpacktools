@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GDSII stream format layout (text format)</FileType>
+		<Ext>TXT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/GDSII</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>49</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>48454144455220</Bytes>
+			<ASCII> H E A D E R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0A42474E4C494220</Bytes>
+			<ASCII> . B G N L I B</ASCII>
+			<Pos>11</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PRESENTATION</String>
+		<String>BOUNDARY</String>
+		<String>DATATYPE</String>
+		<String>TEXTTYPE</String>
+		<String>LIBNAME</String>
+		<String>STRNAME</String>
+		<String>BGNLIB</String>
+		<String>BGNSTR</String>
+		<String>ENDLIB</String>
+		<String>ENDSTR</String>
+		<String>HEADER</String>
+		<String>STRING</String>
+		<String>ENDEL</String>
+		<String>LAYER</String>
+		<String>UNITS</String>
+	</GlobalStrings>
+</TrID>

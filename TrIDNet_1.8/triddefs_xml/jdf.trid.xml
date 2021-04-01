@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Job Definition Format Job File</FileType>
+		<Ext>JDF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cip4.org/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>04</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>53</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C20</Bytes>
+			<ASCII> . ? x m l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>JOBDESCRIPTION</String>
+		<String>LAYOUTELEMENT</String>
+		<String>JDFSCHEMA_</String>
+		<String>MEDIATYPE</String>
+		<String>LAYOUTREF</String>
+		<String>PARAMETER</String>
+		<String>VERSION</String>
+		<String>JDF ID</String>
+		<String>XMLNS</String>
+	</GlobalStrings>
+</TrID>

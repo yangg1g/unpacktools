@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Anark Media Workspace</FileType>
+		<Ext>AMW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>www.anark.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>51</Min>
+			<Sec>2</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00000002000000</Bytes>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00C30B0A00000041004E00410052004B00C60B0400000000000000C40B0400000001000000C50B04000000</Bytes>
+			<ASCII> . . . . . . . A . N . A . R . K</ASCII>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000D509</Bytes>
+			<Pos>55</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>63</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000CB09</Bytes>
+			<Pos>66</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

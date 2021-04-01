@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>eGatherer Collected System Configuration Information</FileType>
+		<Ext>EG2</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ibm.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>35</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5F45474154484552</Bytes>
+			<ASCII> _ E G A T H E R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Python Egg</FileType>
+		<Ext>EGG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://peak.telecommunity.com/DevCenter/PythonEggs</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>30</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TOP_LEVEL.TXTPK</String>
+		<String>__INIT__.PYCPK</String>
+		<String>PKG-INFOPK</String>
+		<String>ZIP-SAFEPK</String>
+		<String>EGG-INFO</String>
+		<String>S.PYCPK</String>
+		<String>S.TXTPK</String>
+		<String>SOURCE</String>
+	</GlobalStrings>
+</TrID>

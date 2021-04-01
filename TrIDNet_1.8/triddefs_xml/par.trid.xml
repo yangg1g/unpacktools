@@ -1,0 +1,169 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Solid Edge model</FileType>
+		<Ext>PAR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.solid-edge.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>38</FileNum>
+		<Refine>23 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>35</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>U'N'C'L'U'S'T'E'R'E'D' 'D'Y'N'A'M'I'C' 'A'T'T'R'I'B'U'T'E'S</String>
+		<String>D'Y'N'A'M'I'C' 'A'T'T'R'I'B'U'T'E'S' 'M'E'T'A'D'A'T'A</String>
+		<String>N'A'M'E' 'O'F' 'S'A'V'I'N'G' 'A'P'P'L'I'C'A'T'I'O'N</String>
+		<String>D'O'C'U'M'E'N'T'S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>R'F'U'N'N'Y'D'1'A'V'T'D'B'F'K'U'I'A'A'M'T'A'E'3'I'E</String>
+		<String>D'E'F'A'U'L'T'D'I'S'T'A'N'C'E'S'E'C'O'N'D'A'R'Y</String>
+		<String>D'E'F'A'U'L'T'D'I'S'T'A'N'C'E'P'R'E'C'I'S'I'O'N</String>
+		<String>D'E'F'A'U'L'T'D'E'N'S'I'T'Y'P'R'E'C'I'S'I'O'N</String>
+		<String>D'E'F'A'U'L'T'D'I'S'T'A'N'C'E'T'E'R'T'I'A'R'Y</String>
+		<String>D'E'F'A'U'L'T'D'I'S'T'A'N'C'E'P'R'I'M'A'R'Y</String>
+		<String>D'E'F'A'U'L'T'V'O'L'U'M'E'P'R'E'C'I'S'I'O'N</String>
+		<String>D'E'F'A'U'L'T'A'N'G'L'E'P'R'E'C'I'S'I'O'N</String>
+		<String>D'E'F'A'U'L'T'A'N'G'L'E'S'E'C'O'N'D'A'R'Y</String>
+		<String>D'E'F'A'U'L'T'D'E'N'S'I'T'Y'P'R'I'M'A'R'Y</String>
+		<String>P'A'R'T'C'U'S'T'O'M'P'R'O'P'E'R'T'I'E'S</String>
+		<String>D'E'F'A'U'L'T'V'O'L'U'M'E'P'R'I'M'A'R'Y</String>
+		<String>D'E'F'A'U'L'T'M'A'S'S'P'R'E'C'I'S'I'O'N</String>
+		<String>D'E'F'A'U'L'T'A'N'G'L'E'T'E'R'T'I'A'R'Y</String>
+		<String>D'E'F'A'U'L'T'A'R'E'A'P'R'E'C'I'S'I'O'N</String>
+		<String>D'E'F'A'U'L'T'D'I'S'T'A'N'C'E'M'O'D'E</String>
+		<String>D'E'F'A'U'L'T'A'N'G'L'E'P'R'I'M'A'R'Y</String>
+		<String>D'E'F'A'U'L'T'M'A'S'S'P'R'I'M'A'R'Y</String>
+		<String>D'E'F'A'U'L'T'A'R'E'A'P'R'I'M'A'R'Y</String>
+		<String>D'A'S'H'E'D'2'D'L'I'N'E'S'T'Y'L'E</String>
+		<String>D'E'F'A'U'L'T'A'N'G'L'E'M'O'D'E</String>
+		<String>JMFEATURENAVIGATORPARTMODIFIED</String>
+		<String>COORDINATE SYSTEM OWNER OBJECT</String>
+		<String>D'E'F'A'U'L'T'A'R'E'A'M'O'D'E</String>
+		<String>S'O'L'I'D' 'E'D'G'E' 'A'N'S'I</String>
+		<String>P'S'M'C'L'U'S'T'E'R'T'A'B'L'E</String>
+		<String>P'S'M'S'E'G'M'E'N'T'T'A'B'L'E</String>
+		<String>ASSOC SUBSYSTEM ELEMENT LIST</String>
+		<String>P'A'R'T'A'T'T'R'.'T'L'B'''QQ</String>
+		<String>JMTRANSMIGRATEASSOCFUNCTION</String>
+		<String>G'R'A'P'H'I'C'S'U'P'P'O'R'T</String>
+		<String>G'E'N'E'R'A'T'E'O'N'S'A'V'E</String>
+		<String>PART GLOBAL REFPLANES OWNER</String>
+		<String>S'O'L'I'D' 'E'D'G'E' 'I'S'O</String>
+		<String>C'R'E'A'T'I'O'N'L'O'C'A'L'E</String>
+		<String>PART GRAPHIC SUPPORT OBJECT</String>
+		<String>JSL SIMPLE DASH TYPE STYLE</String>
+		<String>PART LOCAL REFPLANES OWNER</String>
+		<String>B'U'I'L'D'V'E'R'S'I'O'N'S</String>
+		<String>PART GLOBAL REFAXES OWNER</String>
+		<String>P'R'E'F'E'R'E'N'C'E'S'E'T</String>
+		<String>PART LOCAL REFAXES OWNER</String>
+		<String>CONSTRUCTIONOWNER OBJECT</String>
+		<String>JMPARTOWNERTRANSFUNCTION</String>
+		<String>I'C'O'N'C'R'E'A'T'I'O'N</String>
+		<String>C'O'N'S'T'R'U'C'T'I'O'N</String>
+		<String>S'T'O'R'E'P'R'E'V'I'E'W</String>
+		<String>D'O'C'U'M'E'N'T' 'N'U'M</String>
+		<String>P'S'M'U'S'E'R'R'O'O'T'S</String>
+		<String>P'S'M'T'Y'P'E'T'A'B'L'E</String>
+		<String>S'T'Y'L'E'M'A'N'A'G'E'R</String>
+		<String>PART EXPRESSIONS OWNER</String>
+		<String>FEATURE NAVIGATOR VIEW</String>
+		<String>A'N'S'I' '('I'N'C'H')</String>
+		<String>N'A'M'E'M'A'N'A'G'E'R</String>
+		<String>C'O'N'S'T'R'P'O'I'N'T</String>
+		<String>D'O'C'V'E'R'S'I'O'N'2</String>
+		<String>PART DIMENSIONS OWNER</String>
+		<String>P'S'M'S'P'A'C'E'M'A'P</String>
+		<String>JDIMPARAMETERS OBJECT</String>
+		<String>JSL SIMPLE LINE STYLE</String>
+		<String>S'I'T'E'O'B'J'E'C'T'S</String>
+		<String>R'O'U'T'I'N'G'S'L'I'P</String>
+		<String>PART REFPLANES OWNER</String>
+		<String>REFERENCEPLANEOBJECT</String>
+		<String>J'S'I'T'E'S'L'I'S'T</String>
+		<String>D'O'C'U'M'E'N'T'I'D</String>
+		<String>P'R'O'J'E'C'T' 'N'A</String>
+		<String>N'A'M'E'S'E'R'V'E'R</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>0'X'0'0'0'0'0'0'0'0</String>
+		<String>DOUBLE VALUE OBJECT</String>
+		<String>PART REFAXES OWNER</String>
+		<String>O'N'D'A'X'D'A'T'A</String>
+		<String>A'N'S'I' '('M'M')</String>
+		<String>JVIEWSTYLE OBJECT</String>
+		<String>PART SHEETS OWNER</String>
+		<String>P'A'R'A'S'O'L'I'D</String>
+		<String>E'F'E'R'L'I'S'T</String>
+		<String>L'I'B'R'A'R'Y'0</String>
+		<String>U'S'E'R'N'A'M'E</String>
+		<String>M'A'T'E'R'I'A'L</String>
+		<String>JSTYLE3D OBJECT</String>
+		<String>R'E'F'P'L'A'N'E</String>
+		<String>E'T' 'T'A'B'L'E</String>
+		<String>R'E'V'I'S'I'O'N</String>
+		<String>P'S'M'R'O'O'T'S</String>
+		<String>VIEW SET OBJECT</String>
+		<String>TYPELIBLOCATER</String>
+		<String>P'R'O'G'R'A'M</String>
+		<String>M'F'N'V'M'G'R</String>
+		<String>D'I'M'E'N'S'I</String>
+		<String>D'I'S'P'L'A'Y</String>
+		<String>TOPOLOGYPROXY</String>
+		<String>L'O'C'A'T'E'R</String>
+		<String>ATTRSETVALUES</String>
+		<String>R'E'F'A'X'I'S</String>
+		<String>P'H'A'N'T'O'M</String>
+		<String>W'I'N'D'O'W'S</String>
+		<String>PROPERTYOWNER</String>
+		<String>NAME MANAGER</String>
+		<String>ATTRSETTABLE</String>
+		<String>S'T'Y'L'E'S</String>
+		<String>T'Y'P'E'L'I</String>
+		<String>G'L'O'B'A'L</String>
+		<String>PARTDEX.DLL</String>
+		<String>JDIMDAXDATA</String>
+		<String>S'T'A'T'U'S</String>
+		<String>N'O'R'M'A'L</String>
+		<String>JENGINE.DLL</String>
+		<String>ATTRSETDEF</String>
+		<String>NAMESERVER</String>
+		<String>SOLID EDGE</String>
+		<String>ANNOT.DEX</String>
+		<String>JMCREATER</String>
+		<String>RELATION</String>
+		<String>M'B'E'R</String>
+		<String>WINDOWS</String>
+		<String>CONNECT</String>
+		<String>PERSIST</String>
+		<String>PROFILE</String>
+		<String>CLST</String>
+		<String>STAN</String>
+		<String>JMRE</String>
+		<String>ROOT</String>
+		<String>SSEG</String>
+		<String>STAB</String>
+		<String>.PAR</String>
+		<String>OLEM</String>
+	</GlobalStrings>
+</TrID>

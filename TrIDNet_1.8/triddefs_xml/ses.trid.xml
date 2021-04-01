@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Cool Edit / Audition Session</FileType>
+		<Ext>SES</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.adobe.com/products/audition/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>10</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>434F4F4C4E455353</Bytes>
+			<ASCII> C O O L N E S S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>68647220</Bytes>
+			<ASCII> h d r</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D6173746572</Bytes>
+			<ASCII> M a s t e r</ASCII>
+			<Pos>332</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COOLNESS</String>
+		<String>LISTFILE</String>
+		<String>ENVP</String>
+		<String>CUES</String>
+		<String>MTRO</String>
+		<String>STAT</String>
+		<String>TIME</String>
+		<String>TMPO</String>
+		<String>TRKS</String>
+		<String>VERS</String>
+		<String>LOOP</String>
+	</GlobalStrings>
+</TrID>

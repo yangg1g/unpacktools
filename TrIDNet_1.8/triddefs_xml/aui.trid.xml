@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ArcSoft UI</FileType>
+		<Ext>AUI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.arcsoft.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>12</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>35</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4155490000010000417263736F66742055492066696C6500</Bytes>
+			<ASCII> A U I . . . . . A r c s o f t   U I   f i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

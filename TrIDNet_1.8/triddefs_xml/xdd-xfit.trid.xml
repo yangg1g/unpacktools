@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XFIT XDD format data file</FileType>
+		<Ext>XDD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>52</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2F2A0D0A53616D706C654964656E7420</Bytes>
+			<ASCII> / * . . S a m p l e I d e n t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MONOCHROMATORUSED</String>
+		<String>RECEIVINGSLIT</String>
+		<String>DATAFILENAME</String>
+		<String>DIFFRTYPE</String>
+		<String>ANODE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Diamond Caves 3 levels group</FileType>
+		<Ext>DC3</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.diamond-pro.com/games/dc3.shtml</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>05</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>35</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4443334C564C47520200</Bytes>
+			<ASCII> D C 3 L V L G R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DC3LVLGR</String>
+		<String>AACS</String>
+	</GlobalStrings>
+</TrID>

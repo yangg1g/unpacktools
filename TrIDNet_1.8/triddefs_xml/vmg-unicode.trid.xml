@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Saved SMS (Unicode)</FileType>
+		<Ext>VMG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>21</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>42004500470049004E003A0056004D00530047</Bytes>
+			<ASCII> B . E . G . I . N . : . V . M . S . G</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>X'-'I'R'M'C'-'S'T'A'T'U'S</String>
+		<String>X'-'I'R'M'C'-'B'O'X</String>
+		<String>V'E'R'S'I'O'N</String>
+		<String>B'E'G'I'N</String>
+		<String>V'B'O'D'Y</String>
+		<String>V'C'A'R'D</String>
+		<String>V'M'S'G</String>
+		<String>V'E'N'V</String>
+		<String>D'A'T'E</String>
+		<String>T'E'L</String>
+		<String>E'N'D</String>
+	</GlobalStrings>
+</TrID>

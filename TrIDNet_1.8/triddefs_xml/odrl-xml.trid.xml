@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Open Digital Rights Language</FileType>
+		<Ext>DR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://odrl.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>28</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONSTRAINT</String>
+		<String>PERMISSION</String>
+		<String>ODRL.NET</String>
+		<String>ODRL-EX</String>
+		<String>ODRL-DD</String>
+		<String>RIGHTS</String>
+		<String>EMENT</String>
+		<String>XMLNS</String>
+		<String>O-DD</String>
+		<String>HTTP</String>
+		<String>TEXT</String>
+		<String>O-EX</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,73 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Photo Font</FileType>
+		<Ext>PHF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.photofont.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>7</Min>
+			<Sec>0</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E3022203F3E0D0A</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONTENT-TRANSFER-ENCODING</String>
+		<String>UNICODE_MAPPING TYPE</String>
+		<String>DESCENDER TYPE</String>
+		<String>FULL_NAME TYPE</String>
+		<String>SHAPE EMBEDDED</String>
+		<String>ASCENDER TYPE</String>
+		<String>CODEPAGE TYPE</String>
+		<String>CONTENT-TYPE</String>
+		<String>VERSION TYPE</String>
+		<String>FAMILY TYPE</String>
+		<String>MAP_UNICODE</String>
+		<String>PHF VERSION</String>
+		<String>XML VERSION</String>
+		<String>GLYPH ID</String>
+		<String>IMAGE ID</String>
+		<String>UPM TYPE</String>
+		<String>CHARSET</String>
+		<String>DELTA X</String>
+		<String>GLOBALS</String>
+		<String>PPM INT</String>
+		<String>SUBTYPE</String>
+		<String>BASE X</String>
+		<String>BASE64</String>
+		<String>BBOX X</String>
+		<String>GLYPHS</String>
+		<String>HEADER</String>
+		<String>HEIGHT</String>
+		<String>MAP ID</String>
+		<String>STRING</String>
+		<String>ARRAY</String>
+		<String>PHOTO</String>
+		<String>SPACE</String>
+		<String>WIDTH</String>
+		<String>.PNG</String>
+		<String>DATA</String>
+		<String>FACE</String>
+	</GlobalStrings>
+</TrID>

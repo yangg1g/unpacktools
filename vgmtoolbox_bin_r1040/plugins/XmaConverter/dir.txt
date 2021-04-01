@@ -1,0 +1,2 @@
+﻿- Put XMA Converter .xml presets here, see the "XmaConverter.xsd" file in the "xsd" directory for the schema.
+- Note, only files ending with .xml will be scanned.

@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Unreal Character</FileType>
+		<Ext>PSK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>08</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>16</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>414354524845414400</Bytes>
+			<ASCII> A C T R H E A D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>504E545330303030</Bytes>
+			<ASCII> P N T S 0 0 0 0</ASCII>
+			<Pos>32</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RAWWEIGHTS</String>
+		<String>REFSKELT</String>
+		<String>PNTS</String>
+		<String>FACE</String>
+		<String>MATT</String>
+		<String>VTXW</String>
+		<String>ROOT</String>
+	</GlobalStrings>
+</TrID>

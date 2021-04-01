@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>PlayStation Patch File (v2.0)</FileType>
+        <Ext>PPF</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.paradogs.com/pdx_ppf2.htm</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>2</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>12</Month>
+            <Day>10</Day>
+        </Date>
+        <Time>
+            <Hour>12</Hour>
+            <Min>30</Min>
+            <Sec>04</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>505046</Bytes>
+            <ASCII> P P F</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>01</Bytes>
+            <Pos>5</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

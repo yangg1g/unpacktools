@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>olsrd configuration</FileType>
+		<Ext>OLSR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.olsr.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>12</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>230D0A2320436F6E66696775726174696F6E2066696C6520666F72206F6C73722E6F7267206F6C737264</Bytes>
+			<ASCII> # . . #   C o n f i g u r a t i o n   f i l e   f o r   o l s r . o r g   o l s r d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

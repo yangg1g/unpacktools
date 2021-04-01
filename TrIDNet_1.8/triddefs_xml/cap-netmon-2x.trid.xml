@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft NetMon v2.x traffic capture</FileType>
+		<Ext>CAP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://blogs.technet.com/netmon/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>03</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>43</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>474D4255</Bytes>
+			<ASCII> G M B U</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

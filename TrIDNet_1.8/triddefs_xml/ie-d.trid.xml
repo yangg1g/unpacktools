@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Infinity Engine WeiDU Dialogue</FileType>
+		<Ext>D</Ext>
+		<ExtraInfo>
+			<Rem>Infinity Engine WeiDU D file format is a way of describing Infinity Engine dialogues and modifications to Infinity Engine Dialogues in a portable, easy-to-understand format.</Rem>
+			<RefURL>http://iesdp.gibberlings3.net/file_formats/misc_formats/d.htm</RefURL>
+		</ExtraInfo>
+		<User>Sam.</User>
+		<E-Mail>sampsca@yahoo.com</E-Mail>
+		<Home>http://www.shsforums.net/user/10485-sam/</Home>
+	</Info>
+	<General>
+		<FileNum>147</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>01</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>08</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>424547494E207E</Bytes>
+			<ASCII> B E G I N   ~</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BEGIN ~</String>
+	</GlobalStrings>
+</TrID>

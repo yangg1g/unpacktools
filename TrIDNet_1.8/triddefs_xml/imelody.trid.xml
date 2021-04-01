@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>iMELODY sound/music (header less)</FileType>
+		<Ext>IMY/IMELODY</Ext>
+		<ExtraInfo>
+			<Rem>iMELODY is a standard file format for melodies, mostly used in cellphones.</Rem>
+			<RefURL>http://cellphones.about.com/od/cellularfaqs/f/rf_imelody.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>12</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D454C4F44593A</Bytes>
+			<ASCII> M E L O D Y :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

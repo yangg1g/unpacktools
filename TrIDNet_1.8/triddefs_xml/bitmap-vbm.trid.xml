@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>ACE-128/64 bitmap</FileType>
+        <Ext>VBM</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.csbruce.com/~csbruce/cbm/ace/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>12</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>18</Day>
+        </Date>
+        <Time>
+            <Hour>16</Hour>
+            <Min>13</Min>
+            <Sec>36</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>424DCB03</Bytes>
+            <ASCII> B M</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

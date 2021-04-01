@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BrainWave Generator</FileType>
+		<Ext>BWG</Ext>
+		<ExtraInfo>
+			<Rem>BrainWave Generator is a brain stimulation application that works by generating binaural beat frequencies. With binaural beats, you can stimulate your brain to make yourself relaxed, help in meditation or self-hypnosis, enhance learning capabilities, induce sleep, help focusing attention, and so on.</Rem>
+			<RefURL>http://www.bwgen.com</RefURL>
+		</ExtraInfo>
+		<User>kif aka AC</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>82</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>05</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>02</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>427261696E576176652047656E657261746F722046696C652C206372656174656420776974682076657273696F6E20</Bytes>
+			<ASCII> B r a i n W a v e   G e n e r a t o r   F i l e ,   c r e a t e d   w i t h   v e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Art Icons Pro - IconProject</FileType>
+		<Ext>ICPR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.aha-soft.com</RefURL>
+		</ExtraInfo>
+		<User>mishka</User>
+		<E-Mail>vekt0r@mail.ru</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>00</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>B7494350</Bytes>
+			<ASCII> . I C P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>eMachineShop model</FileType>
+		<Ext>EMS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.emachineshop.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>5 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>27</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D4C445257</Bytes>
+			<ASCII> M L D R W</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5450463018434D616368696E6544726177696E67436F6E7461696E6572</Bytes>
+			<ASCII> T P F 0 . C M a c h i n e D r a w i n g C o n t a i n e r</ASCII>
+			<Pos>21</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CMACHINEDRAWINGCONTAINER</String>
+		<String>CUSTOMERINFOIDENTIFIER</String>
+		<String>CSTRAIGHT</String>
+		<String>PARAMS</String>
+	</GlobalStrings>
+</TrID>

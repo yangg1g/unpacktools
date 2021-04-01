@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LiveNote Portable legal Transcript File</FileType>
+		<Ext>PTF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://west.thomson.com/products/services/manage-court-cases.aspx</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>04</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>56</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>626567696E3D486561640D0A747970653D7074660D0A76657273696F6E3D</Bytes>
+			<ASCII> b e g i n = H e a d . . t y p e = p t f . . v e r s i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TRANSCRIPTINFO</String>
+		<String>DELETEDISSUES</String>
+		<String>ACTIVEISSUES</String>
+		<String>ANNOTATIONS</String>
+		<String>FIRSTPAGE</String>
+		<String>LINENAMES</String>
+		<String>DATETIME</String>
+		<String>CASEINFO</String>
+		<String>PAGELEN</String>
+		<String>VERSION</String>
+		<String>BEGIN</String>
+		<String>PATH</String>
+		<String>TYPE</String>
+		<String>TEXT</String>
+		<String>HEAD</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,71 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Autodesk Inventor Export Journal</FileType>
+		<Ext>XLO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.autodesk.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>32</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5469746C653A20</Bytes>
+			<ASCII> T i t l e :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>204578706F7274204A6F75726E616C20284175746F6465736B20496E76656E746F72290D0A3D3D</Bytes>
+			<ASCII>   E x p o r t   J o u r n a l   ( A u t o d e s k   I n v e n t o r ) . . = =</ASCII>
+			<Pos>11</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>------------------------------------------------------------------------------</String>
+		<String>EXPORT JOURNAL (AUTODESK INVENTOR)</String>
+		<String>TRANSLATION PHASE</String>
+		<String>TRANSLATING TO</String>
+		<String>ENTITY SUMMARY</String>
+		<String>TRANSFORMATION</String>
+		<String>PREPROCESSOR</String>
+		<String>ELAPSED TIME</String>
+		<String>ORGANIZATION</String>
+		<String>DESCRIPTION</String>
+		<String>APPLICATION</String>
+		<String>DEFINITION</String>
+		<String>DIRECTION</String>
+		<String>PROTOCOL</String>
+		<String>VERSION</String>
+		<String>SURFACE</String>
+		<String>PRODUCT</String>
+		<String>SECTION</String>
+		<String>AUTHOR</String>
+		<String>SYSTEM</String>
+		<String>TOTAL</String>
+		<String>POINT</String>
+		<String>COUNT</String>
+		<String>TITLE</String>
+		<String>NAME</String>
+		<String>LINE</String>
+		<String>TYPE</String>
+		<String>FILE</String>
+		<String>UNIT</String>
+	</GlobalStrings>
+</TrID>

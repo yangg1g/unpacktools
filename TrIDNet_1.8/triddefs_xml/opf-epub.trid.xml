@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Open Packaging Format manifest</FileType>
+		<Ext>OPF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/EPUB</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>14</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D</Bytes>
+			<ASCII> . ? x m l   v e r s i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>312E30</Bytes>
+			<ASCII> 1 . 0</ASCII>
+			<Pos>15</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>UNIQUE-IDENTIFIER</String>
+		<String>METADATA XMLNS</String>
+		<String>WWW.IDPF.ORG</String>
+		<String>XML VERSION</String>
+		<String>REFERENCE</String>
+		<String>ELEMENTS</String>
+		<String>LANGUAGE</String>
+		<String>PURL.ORG</String>
+		<String>PACKAGE</String>
+		<String>GUIDE</String>
+		<String>SCHEM</String>
+		<String>TITLE</String>
+		<String>FILE</String>
+		<String>HREF</String>
+		<String>HTTP</String>
+		<String>ROLE</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

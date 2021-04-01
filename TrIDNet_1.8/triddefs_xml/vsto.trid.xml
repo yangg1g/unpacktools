@@ -1,0 +1,112 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Visual Studio Tools for Office add-in</FileType>
+		<Ext>VSTO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>1</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>35</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D38223F3E0D0A3C61736D76313A617373656D626C79207873693A736368656D614C6F636174696F6E3D2275726E3A736368656D61732D6D6963726F736F66742D636F6D3A61736D2E763120617373656D626C792E61646170746976652E78736422206D616E696665737456657273696F6E3D22312E302220786D6C6E733A61736D76333D2275726E3A736368656D61732D6D6963726F736F66742D636F6D3A61736D2E76332220786D6C6E733A647369673D22687474703A2F2F7777772E77332E6F72672F323030302F30392F786D6C64736967232220786D6C6E733A636F2E76313D2275726E3A736368656D61732D6D6963726F736F66742D636F6D3A636C69636B6F6E63652E76312220786D6C6E73</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 " ? . . . . a s m v 1 : a s s e m b l y   x s i : s c h e m a L o c a t i o n = " u r n : s c h e m a s - m i c r o s o f t - c o m : a s m . v 1   a s s e m b l y . a d a p t i v e . x s d "   m a n i f e s t V e r s i o n = " 1 . 0 "   x m l n s : a s m v 3 = " u r n : s c h e m a s - m i c r o s o f t - c o m : a s m . v 3 "   x m l n s : d s i g = " h t t p : / / w w w . w 3 . o r g / 2 0 0 0 / 0 9 / x m l d s i g # "   x m l n s : c o . v 1 = " u r n : s c h e m a s - m i c r o s o f t - c o m : c l i c k o n c e . v 1 "   x m l n s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CANONICALIZATIONMETHOD ALGORITHM</String>
+		<String>DEPENDENTASSEMBLY DEPENDENCYTYPE</String>
+		<String>ASM.V1 ASSEMBLY.ADAPTIVE.XSD</String>
+		<String>SIGNATUREMETHOD ALGORITHM</String>
+		<String>MANIFESTINFORMATION HASH</String>
+		<String>HASHTRANSFORMS.IDENTITY</String>
+		<String>DIGESTMETHOD ALGORITHM</String>
+		<String>PUBLISHERIDENTITY NAME</String>
+		<String>ASSEMBLYIDENTITY NAME</String>
+		<String>AUTHENTICODEPUBLISHER</String>
+		<String>AUTHENTICODESIGNATURE</String>
+		<String>PROCESSORARCHITECTURE</String>
+		<String>SCHEMAS-MICROSOFT-COM</String>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>ENVELOPED-SIGNATURE</String>
+		<String>STRONGNAMESIGNATURE</String>
+		<String>TRANSFORM ALGORITHM</String>
+		<String>DEPLOYMENT INSTALL</String>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>DESCRIPTION ASMV2</String>
+		<String>MAPFILEEXTENSIONS</String>
+		<String>STRONGNAMEKEYINFO</String>
+		<String>MANIFESTVERSION</String>
+		<String>X509CERTIFICATE</String>
+		<String>X509SUBJECTNAME</String>
+		<String>PUBLICKEYTOKEN</String>
+		<String>SCHEMALOCATION</String>
+		<String>SIGNATUREVALUE</String>
+		<String>.DLL.MANIFEST</String>
+		<String>ISSUERKEYHASH</String>
+		<String>LICENSE XMLNS</String>
+		<String>REFERENCE URI</String>
+		<String>RELDATA XMLNS</String>
+		<String>ASSEMBLY XSI</String>
+		<String>CLICKONCE.V1</String>
+		<String>SIGNATURE ID</String>
+		<String>XML-EXC-C14N</String>
+		<String>01-REL-R-NS</String>
+		<String>APPLICATION</String>
+		<String>DIGESTVALUE</String>
+		<String>RSAKEYVALUE</String>
+		<String>XML VERSION</String>
+		<String>KEYINFO ID</String>
+		<String>SIGNEDINFO</String>
+		<String>WWW.W3.ORG</String>
+		<String>GAWIBAGIQ</String>
+		<String>CODEBASE</String>
+		<String>ENCODING</String>
+		<String>EXPONENT</String>
+		<String>LANGUAGE</String>
+		<String>RSA-SHA1</String>
+		<String>SIGNEDBY</String>
+		<String>X509DATA</String>
+		<String>MODULUS</String>
+		<String>NEUTRAL</String>
+		<String>PRODUCT</String>
+		<String>WINDOWS</String>
+		<String>XMLDSIG</String>
+		<String>ASM.V</String>
+		<String>MPEG21</String>
+		<String>.VSTO</String>
+		<String>ASMV1</String>
+		<String>ASMV3</String>
+		<String>CO.V1</String>
+		<String>FALSE</String>
+		<String>FILES</String>
+		<String>GRANT</String>
+		<String>MSREL</String>
+		<String>UTF-8</String>
+		<String>WIN32</String>
+		<String>HTTP</String>
+		<String>MSIL</String>
+		<String>SIZE</String>
+		<String>TRUE</String>
+		<String>XRML</String>
+	</GlobalStrings>
+</TrID>

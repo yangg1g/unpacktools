@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XBMC Smart Playlist</FileType>
+		<Ext>XSP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/XBMC</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>10</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>12</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SMARTPLAYLIST TYPE</String>
+		<String>RULE FIELD</String>
+		<String>OPERATOR</String>
+		<String>MATCH</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

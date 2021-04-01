@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ILDA image data transfer format</FileType>
+		<Ext>ILD/ILDA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/ILDA</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2012</Year>
+			<Month>6</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>33</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>494C4441</Bytes>
+			<ASCII> I L D A</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

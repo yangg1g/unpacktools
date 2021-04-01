@@ -1,0 +1,66 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MicroSim PSpice schematic</FileType>
+		<Ext>SCH</Ext>
+		<ExtraInfo>
+			<Rem>PSpice is a schematics editor and simulator.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>36</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>03</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>50</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2A76657273696F6E20</Bytes>
+			<ASCII> * v e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>10</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>12</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TRANSLATORS</String>
+		<String>ATTRIBUTES</String>
+		<String>PAGETITLE</String>
+		<String>PAGECOUNT</String>
+		<String>ANALYSIS</String>
+		<String>JUNCTION</String>
+		<String>*VERSION</String>
+		<String>PAGESIZE</String>
+		<String>TITLEBLK</String>
+		<String>PAGELOC</String>
+		<String>TARGETS</String>
+		<String>STATUS</String>
+		<String>REFDES</String>
+		<String>PAGENO</String>
+		<String>PSPICE</String>
+		<String>PKGREF</String>
+		<String>PARTS</String>
+		<String>*PAGE</String>
+		<String>PORTS</String>
+		<String>INDEX</String>
+		<String>CONN</String>
+	</GlobalStrings>
+</TrID>

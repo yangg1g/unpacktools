@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WiX Library</FileType>
+		<Ext>WIXLIB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/WiX</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>10</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>43</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D38223F3E3C7769784C69627261727920786D6C6E733D22687474703A2F2F736368656D61732E6D6963726F736F66742E636F6D2F7769782F323030332F31312F6C6962726172696573222076657273696F6E3D22322E302E323230372E30223E3C7769784F626A65637420786D6C6E733D22687474703A2F2F736368656D61732E6D6963726F736F66742E636F6D2F7769782F323030332F30342F6F626A6563747322207372633D22</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 " ? . . w i x L i b r a r y   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / w i x / 2 0 0 3 / 1 1 / l i b r a r i e s "   v e r s i o n = " 2 . 0 . 2 2 0 7 . 0 " . . w i x O b j e c t   x m l n s = " h t t p : / / s c h e m a s . m i c r o s o f t . c o m / w i x / 2 0 0 3 / 0 4 / o b j e c t s "   s r c = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>INSTALLEXECUTESEQUENCE</String>
+		<String>TUPLE SOURCELINENUMBER</String>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>WIXLIBRARY XMLNS</String>
+		<String>REFERENCE TABLE</String>
+		<String>WIXOBJECT XMLNS</String>
+		<String>CUSTOMACTION</String>
+		<String>XML VERSION</String>
+		<String>TABLE NAME</String>
+		<String>LIBRARIES</String>
+		<String>DELIVERY</String>
+		<String>ENCODING</String>
+		<String>FRAGMENT</String>
+		<String>ACTIONS</String>
+		<String>OBJECTS</String>
+		<String>SECTION</String>
+		<String>SYMBOL</String>
+		<String>.WXS*</String>
+		<String>FIELD</String>
+		<String>UTF-8</String>
+		<String>HTTP</String>
+		<String>TYPE</String>
+		<String>WIX2</String>
+	</GlobalStrings>
+</TrID>

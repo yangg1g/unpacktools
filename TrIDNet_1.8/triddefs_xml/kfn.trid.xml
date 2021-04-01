@@ -1,0 +1,68 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>KaraFun Karaoke Song</FileType>
+		<Ext>KFN</Ext>
+		<ExtraInfo>
+			<Rem>KaraFun is a full karaoke software for PC.</Rem>
+			<RefURL>http://www.karafun.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>21</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>00</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4B464E</Bytes>
+			<ASCII> K F N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>44494657</Bytes>
+			<ASCII> D I F W</ASCII>
+			<Pos>13</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>474E5245</Bytes>
+			<ASCII> G N R E</ASCII>
+			<Pos>22</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>53465456</Bytes>
+			<ASCII> S F T V</ASCII>
+			<Pos>31</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D55534C</Bytes>
+			<ASCII> M U S L</ASCII>
+			<Pos>40</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>414E4D45</Bytes>
+			<ASCII> A N M E</ASCII>
+			<Pos>49</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54595045</Bytes>
+			<ASCII> T Y P E</ASCII>
+			<Pos>58</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>464C4944</Bytes>
+			<ASCII> F L I D</ASCII>
+			<Pos>67</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

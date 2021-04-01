@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Compaq Diagnostics</FileType>
+		<Ext>CVA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>33</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>12</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>23</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B4356412046696C6520496E666F726D6174696F6E5D0D0A</Bytes>
+			<ASCII> [ C V A   F i l e   I n f o r m a t i o n ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>US.SOFTWARE DESCRIPTION</String>
+		<String>DETAILFILEINFORMATION</String>
+		<String>CVA FILE INFORMATION</String>
+		<String>SUPPORTEDLANGUAGES</String>
+		<String>SYSTEM INFORMATION</String>
+		<String>INSTALL EXECUTION</String>
+		<String>OPERATING SYSTEMS</String>
+		<String>SOFTWARE TITLE</String>
+		<String>SILENTINSTALL</String>
+		<String>DEVICES</String>
+		<String>GENERAL</String>
+		<String>VERSION</String>
+		<String>MENTS</String>
+	</GlobalStrings>
+</TrID>

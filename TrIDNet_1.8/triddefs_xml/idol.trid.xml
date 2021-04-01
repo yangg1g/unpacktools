@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IDle Object Library - bytecode</FileType>
+		<Ext>IDOL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://idle.thomaslauer.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>07</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>41</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1B646C6551</Bytes>
+			<ASCII> . d l e Q</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

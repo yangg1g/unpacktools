@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FrontPage _VTI_ log/info</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>32</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>26</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7674695F656E636F64696E673A</Bytes>
+			<ASCII> v t i _ e n c o d i n g :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VTI_TIMELASTMODIFIED</String>
+		<String>VTI_EXTENDERVERSION</String>
+		<String>VTI_ENCODING</String>
+	</GlobalStrings>
+</TrID>

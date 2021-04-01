@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mike Davies Music</FileType>
+		<Ext>MD</Ext>
+		<ExtraInfo>
+			<Rem>Music format created in 1989 by Mike Davies, often used in Tiertex games.</Rem>
+			<RefURL>http://exotica.fix.no/tunes/unexotica/formats/Mike_Davies.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>08</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000000000000000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2D5800183D7C000100144DEE00362D5800183D7C000100144DEE00362D5800183D7C000100144DEE0036</Bytes>
+			<ASCII> - X . . = | . . . . M . . 6 - X . . = | . . . . M . . 6 - X . . = | . . . . M . . 6</ASCII>
+			<Pos>308</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

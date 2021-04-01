@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IFF-SMUS Music</FileType>
+		<Ext>IFF/SMUS</Ext>
+		<ExtraInfo>
+			<Rem>Also known as IFF-SMUS, its Another Electronic Arts standardised music format, created along with 8SVX, ILBM and FTXT as the EA IFF 1984 specification. Other than the archaic Aegis Sonix and EA's own Deluxe Music Construction Set (DMCS), almost no software uses this format.</Rem>
+			<RefURL>http://exotica.fix.no/tunes/unexotica/formats/Sonix_Music_Driver.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>44</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>41</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>464F524D0000</Bytes>
+			<ASCII> F O R M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>534D55535348445200000004</Bytes>
+			<ASCII> S M U S S H D R</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4E414D45000000</Bytes>
+			<ASCII> N A M E</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SMUSSHDR</String>
+		<String>FORM</String>
+		<String>SNX1</String>
+		<String>NAME</String>
+		<String>INS1</String>
+		<String>TRAK</String>
+	</GlobalStrings>
+</TrID>

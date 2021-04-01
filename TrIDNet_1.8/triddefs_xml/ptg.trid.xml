@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Ambient Design ArtRage project</FileType>
+		<Ext>PTG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ambientdesign.com/artrage.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>11</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>56</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>416D6269656E742044657369676E2050726F6A6563742066696C65</Bytes>
+			<ASCII> A m b i e n t   D e s i g n   P r o j e c t   f i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>41727452616765</Bytes>
+			<ASCII> A r t R a g e</ASCII>
+			<Pos>31</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

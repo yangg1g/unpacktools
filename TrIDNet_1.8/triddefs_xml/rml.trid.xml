@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Redline Markup Language</FileType>
+		<Ext>RML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http:/www.autodesk.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>39</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0D0A</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VERSIONINFO VERSION</String>
+		<String>REDLINEXML XMLNS</String>
+		<String>MARKUPPLANENAME</String>
+		<String>REDLINEMARKUP</String>
+		<String>REDLINEXML_V</String>
+		<String>MARKUPPLANES</String>
+	</GlobalStrings>
+</TrID>

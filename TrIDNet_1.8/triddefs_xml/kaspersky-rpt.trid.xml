@@ -1,0 +1,66 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Kaspersky Anti-Virus reports</FileType>
+		<Ext>RPT</Ext>
+		<ExtraInfo>
+			<Rem>Kaspersky Anti-Virus</Rem>
+			<RefURL>http://www.kaspersky.com/</RefURL>
+		</ExtraInfo>
+		<User>xoxmodav</User>
+		<E-Mail>i@xoxmodav.net</E-Mail>
+		<Home>http://xoxmodav.net/</Home>
+	</Info>
+	<General>
+		<FileNum>359</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>6</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>53</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52504432020000000000000000000000</Bytes>
+			<ASCII> R P D 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>19</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>23</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000</Bytes>
+			<Pos>27</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000</Bytes>
+			<Pos>36</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>58</Bytes>
+			<ASCII> X</ASCII>
+			<Pos>47</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>58</Bytes>
+			<ASCII> X</ASCII>
+			<Pos>55</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>XSTRM</String>
+		<String>RPD2</String>
+	</GlobalStrings>
+</TrID>

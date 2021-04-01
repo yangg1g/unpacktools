@@ -1,0 +1,30 @@
+<TrID ver="1.16">
+	<Info>
+		<FileType>YAC compressed archive</FileType>
+		<Ext>YC</Ext>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2003</Year>
+			<Month>07</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>07</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.00.1</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00010099000001594300000000</Bytes>
+			<ASCII> . . . . . . . Y C</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

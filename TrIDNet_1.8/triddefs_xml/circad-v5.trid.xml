@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CIRCAD data (v5.x)</FileType>
+		<Ext>DWG/PCB/SCH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.holophase.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>03</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>44</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>436F6E74656E74733A204349524341442056657273696F6E20352E</Bytes>
+			<ASCII> C o n t e n t s :   C I R C A D   V e r s i o n   5</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20446174612046696C652E0D0A</Bytes>
+			<ASCII>   D a t a   F i l e</ASCII>
+			<Pos>28</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

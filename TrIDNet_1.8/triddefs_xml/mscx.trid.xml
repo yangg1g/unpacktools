@@ -1,0 +1,79 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MuseScore music score</FileType>
+		<Ext>MSCX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.musescore.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>6 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>46</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MUSESCORE VERSION</String>
+		<String>PAGE-MARGINS TYPE</String>
+		<String>MEASURE NUMBER</String>
+		<String>BOTTOM-MARGIN</String>
+		<String>SHOWINVISIBLE</String>
+		<String>BRACKET TYPE</String>
+		<String>RIGHT-MARGIN</String>
+		<String>LEFT-MARGIN</String>
+		<String>PAGE-LAYOUT</String>
+		<String>XML VERSION</String>
+		<String>CONTROLLER</String>
+		<String>INSTRUMENT</String>
+		<String>SHOWFRAMES</String>
+		<String>TOP-MARGIN</String>
+		<String>TRACKNAME</String>
+		<String>DIVISION</String>
+		<String>ENCODING</String>
+		<String>STAFF ID</String>
+		<String>BARLINE</String>
+		<String>CHANNEL</String>
+		<String>PROGRAM</String>
+		<String>SPATIUM</String>
+		<String>SUBTYPE</String>
+		<String>TIMESIG</String>
+		<String>FORMAT</String>
+		<String>HEIGHT</String>
+		<String>CHORD</String>
+		<String>PITCH</String>
+		<String>STYLE</String>
+		<String>TEMPO</String>
+		<String>UTF-8</String>
+		<String>VALUE</String>
+		<String>CLEF</String>
+		<String>CTRL</String>
+		<String>LIST</String>
+		<String>NOTE</String>
+		<String>PART</String>
+		<String>SPAN</String>
+		<String>TEXT</String>
+		<String>TICK</String>
+		<String>VBOX</String>
+	</GlobalStrings>
+</TrID>

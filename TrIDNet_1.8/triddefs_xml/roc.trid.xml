@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SpaceCAD rocket model</FileType>
+		<Ext>ROC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.spacecad.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>06</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>38</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3B0D3B20537061636543414428746D29204D6F64656C20526F636B657420536F6674776172650D3B2056657273696F6E20</Bytes>
+			<ASCII> ; . ;	S p a c e C A D ( t m )   M o d e l   R o c k e t   S o f t w a r e . ;   V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SPACECAD(TM) MODEL ROCKET SOFTWARE</String>
+		<String>BODY-TUBE</String>
+		<String>NOSE-CONE</String>
+		<String>HOMEPAGE</String>
+		<String>DIAMETER</String>
+		<String>ENGINES</String>
+		<String>VERSION</String>
+		<String>CREATOR</String>
+		<String>LENGTH</String>
+		<String>WEIGHT</String>
+		<String>SITION</String>
+		<String>COUNT</String>
+		<String>FINS</String>
+		<String>FORM</String>
+		<String>STIC</String>
+		<String>BACK</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

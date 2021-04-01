@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>thinBasic Console scripts (obfuscated)</FileType>
+		<Ext>TBASICCX</Ext>
+		<ExtraInfo>
+			<Rem>thinBasic is a Basic like language interpreter. Its target is to have a scripts text file to be interpreted and executed immediately by a simple double click or by an automated scheduled tasks.</Rem>
+			<RefURL>http://www.thinbasic.com</RefURL>
+		</ExtraInfo>
+		<User>Eros Olmi</User>
+		<E-Mail></E-Mail>
+		<Home>http://www.thinbasic.com</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>01</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>28</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5442020001000000000000000800000001000000</Bytes>
+			<ASCII> T B</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

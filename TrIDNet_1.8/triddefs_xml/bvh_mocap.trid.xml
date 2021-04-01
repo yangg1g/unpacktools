@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Motion Capture File</FileType>
+		<Ext>BVH</Ext>
+		<ExtraInfo>
+			<Rem>Motion Capture data that can be played back in Character Studio</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Alex Paven</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>144</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>08</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>484945524152434859</Bytes>
+			<ASCII> H I E R A R C H Y</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>JOINT CHEST</String>
+		<String>JOINT HEAD</String>
+		<String>JOINT NECK</String>
+		<String>FRAME TIME</String>
+		<String>HIERARCHY</String>
+		<String>YPOSITION</String>
+		<String>YROTATION</String>
+		<String>ZPOSITION</String>
+		<String>ZROTATION</String>
+		<String>XROTATION</String>
+		<String>XPOSITION</String>
+		<String>CHANNELS</String>
+		<String>END SITE</String>
+		<String>ROOT HIP</String>
+		<String>JOINT L</String>
+		<String>JOINT R</String>
+		<String>FRAMES</String>
+		<String>COLLAR</String>
+		<String>MOTION</String>
+		<String>OFFSET</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Solo Explorer Transcription</FileType>
+		<Ext>W2M</Ext>
+		<ExtraInfo>
+			<Rem>Solo Explorer is a WAV to Midi conversion, automatic music transcription (recognition), and music notation software for Windows.</Rem>
+			<RefURL>http://www.recognisoft.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>45</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000000644372656174656420627920536F6C6F204578706C6F72657220</Bytes>
+			<ASCII> . . . d C r e a t e d   b y   S o l o   E x p l o r e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>30</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A5C</Bytes>
+			<ASCII> : \</ASCII>
+			<Pos>34</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

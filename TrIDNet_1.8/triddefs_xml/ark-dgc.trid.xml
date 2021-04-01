@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DGCA Digital G Codec Archiver</FileType>
+		<Ext>DGC</Ext>
+		<ExtraInfo>
+			<Rem>DGCA is a freeware compression utility created in 2001 by Shin-ichi Tsuruta.</Rem>
+			<RefURL>http://www.emit.jp/dgca/dgca.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>04</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>14</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>44474341</Bytes>
+			<ASCII> D G C A</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>44415441</Bytes>
+			<ASCII> D A T A</ASCII>
+			<Pos>32</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

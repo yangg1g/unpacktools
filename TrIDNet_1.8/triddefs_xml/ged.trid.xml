@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GEDCOM Family History</FileType>
+		<Ext>GED</Ext>
+		<ExtraInfo>
+			<Rem>The GEDCOM file format is a standard format for family history files.</Rem>
+			<RefURL>http://www.genserv.com/gs/gensgedf.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>33</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>28</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>302048454144</Bytes>
+			<ASCII> 0   H E A D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

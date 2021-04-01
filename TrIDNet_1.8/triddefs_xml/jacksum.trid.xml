@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Jacksum fingerprints</FileType>
+		<Ext>JACKSUM</Ext>
+		<ExtraInfo>
+			<Rem>Check files against this list with Jacksum</Rem>
+			<RefURL>http://www.jonelo.de/java/jacksum</RefURL>
+		</ExtraInfo>
+		<User>Johann N. Loefflmann</User>
+		<E-Mail>jonelo at jonelo dot de</E-Mail>
+		<Home>http://www.jonelo.de</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>02</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>00</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4A61636B73756D3A204D6574612D496E666F3A20</Bytes>
+			<ASCII> J a c k s u m :   M e t a - I n f o :  </ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

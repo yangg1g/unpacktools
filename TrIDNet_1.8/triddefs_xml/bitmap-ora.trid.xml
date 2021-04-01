@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OpenRaster image</FileType>
+		<Ext>ORA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/OpenRaster</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>12</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>48</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>THUMBNAIL.PNGPK</String>
+		<String>MIMETYPEIMAGE</String>
+		<String>OPENRASTERPK</String>
+		<String>STACK.XMLPK</String>
+		<String>MIMETYPEPK</String>
+		<String>THUMBNAILS</String>
+		<String>0.PNGPK</String>
+		<String>LAYER0</String>
+		<String>IDATX</String>
+		<String>DATA</String>
+		<String>IEND</String>
+	</GlobalStrings>
+</TrID>

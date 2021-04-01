@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Flight Simulator Flight Plan</FileType>
+		<Ext>PLN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/games/flightsimulator/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>01</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>57</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D22312E302220</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n = " 1 . 0 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SIMBASE.DOCUMENT TYPE</String>
+		<String>FLIGHTPLAN.FLIGHTPLAN</String>
+		<String>DEPARTUREPOSITION</String>
+		<String>APPVERSIONBUILD</String>
+		<String>DESTINATIONNAME</String>
+		<String>ATCWAYPOINTTYPE</String>
+		<String>ACEXML DOCUMENT</String>
+		<String>APPVERSIONMAJOR</String>
+		<String>ATCWAYPOINT ID</String>
+		<String>DESTINATIONLLA</String>
+		<String>DESTINATIONID</String>
+		<String>DEPARTURENAME</String>
+		<String>WORLDPOSITION</String>
+		<String>DEPARTURELLA</String>
+		<String>DEPARTUREID</String>
+		<String>XML VERSION</String>
+		<String>CRUISINGALT</String>
+		<String>ICAOIDENT</String>
+		<String>ENCODING</String>
+		<String>AIRPORT</String>
+		<String>FPTYPE</String>
+		<String>UTF-8</String>
+		<String>TITLE</String>
+		<String>DESCR</String>
+	</GlobalStrings>
+</TrID>

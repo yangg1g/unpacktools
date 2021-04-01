@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Virtual Machine Shell Information</FileType>
+		<Ext>VMCX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Windows_Virtual_PC</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>7</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>26</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.8b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3C003F0078006D006C002000760065007200730069006F006E003D00220031002E0030002200200065006E0063006F00640069006E0067003D0022005500540046002D003100360022003F003E000D000A003C0021002D002D0020004D006900630072006F0073006F006600740020005600690072007400750061006C0020004D0061006300680069006E00650020004400650073006300720069007000740069006F006E00200061006E006400200052006500670069007300740072006100740069006F006E002000530065007400740069006E006700730020002D002D003E000D000A003C0076006D005F006400650073006300720069007000740069006F006E</Bytes>
+			<ASCII> . . . . ? . x . m . l .   . v . e . r . s . i . o . n . = . " . 1 . . . 0 . " .   . e . n . c . o . d . i . n . g . = . " . U . T . F . - . 1 . 6 . " . ? . . . . . . . . . ! . - . - .   . M . i . c . r . o . s . o . f . t .   . V . i . r . t . u . a . l .   . M . a . c . h . i . n . e .   . D . e . s . c . r . i . p . t . i . o . n .   . a . n . d .   . R . e . g . i . s . t . r . a . t . i . o . n .   . S . e . t . t . i . n . g . s .   . - . - . . . . . . . . . v . m . _ . d . e . s . c . r . i . p . t . i . o . n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>M'I'C'R'O'S'O'F'T' 'V'I'R'T'U'A'L' 'M'A'C'H'I'N'E' 'D'E'S'C'R'I'P'T'I'O'N' 'A'N'D' 'R'E'G'I'S'T'R'A'T'I'O'N' 'S'E'T'T'I'N'G'S</String>
+		<String>P'R'I'M'A'R'Y'_'D'I'S'K'1' 'T'Y'P'E</String>
+		<String>V'M'_'D'E'S'C'R'I'P'T'I'O'N</String>
+		<String>R'A'M'_'S'I'Z'E' 'T'Y'P'E</String>
+		<String>V'M'C'_'P'A'T'H' 'T'Y'P'E</String>
+		<String>V'M'S'T'A'T'E' 'T'Y'P'E</String>
+		<String>X'M'L' 'V'E'R'S'I'O'N</String>
+		<String>N'O'T'E'S' 'T'Y'P'E</String>
+		<String>E'N'C'O'D'I'N'G</String>
+		<String>S'T'R'I'N'G</String>
+		<String>U'T'F'-'1'6</String>
+		<String>.'V'H'D</String>
+		<String>.'V'M'C</String>
+	</GlobalStrings>
+</TrID>

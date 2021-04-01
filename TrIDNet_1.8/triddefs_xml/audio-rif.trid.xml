@@ -1,0 +1,61 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Rockwell ADPCM audio</FileType>
+        <Ext>RIF</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>43</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>09</Month>
+            <Day>01</Day>
+        </Date>
+        <Time>
+            <Hour>16</Hour>
+            <Min>19</Min>
+            <Sec>56</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>52494646</Bytes>
+            <ASCII> R I F F</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0057415645666D74201600000000030100201C0000</Bytes>
+            <ASCII> . W A V E f m t</ASCII>
+            <Pos>7</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000</Bytes>
+            <Pos>30</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00</Bytes>
+            <Pos>33</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>000400010000006661637404000000</Bytes>
+            <ASCII> . . . . . . . f a c t</ASCII>
+            <Pos>35</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0064617461</Bytes>
+            <ASCII> . d a t a</ASCII>
+            <Pos>53</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>00</Bytes>
+            <Pos>61</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

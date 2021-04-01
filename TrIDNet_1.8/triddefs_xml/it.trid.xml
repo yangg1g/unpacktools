@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Impulse Tracker module</FileType>
+		<Ext>IT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>27</FileNum>
+		<Refine>7 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>56</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>494D504D</Bytes>
+			<ASCII> I M P M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

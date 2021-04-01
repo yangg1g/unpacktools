@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>InstallShield compiled setup package</FileType>
+		<Ext>PKG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.installshield.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>28</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>51</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4AA3</Bytes>
+			<ASCII> J</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>47726F7570</Bytes>
+			<ASCII> G r o u p</ASCII>
+			<Pos>18</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>_SETUP.Z</String>
+		<String>GROUP</String>
+	</GlobalStrings>
+</TrID>

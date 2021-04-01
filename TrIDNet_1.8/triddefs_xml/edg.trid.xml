@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EDGE Diagrammer diagram</FileType>
+		<Ext>EDG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pacestar.com/edge/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>39</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>07</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>18</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>45444745204469616772616D2046696C650D0A56657273696F6E20</Bytes>
+			<ASCII> E D G E   D i a g r a m   F i l e . . V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>28</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>23</Bytes>
+			<ASCII> #</ASCII>
+			<Pos>35</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

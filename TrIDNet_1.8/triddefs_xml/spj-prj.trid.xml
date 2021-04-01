@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DigiTrax Sound Project</FileType>
+		<Ext>SPJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.digitrax.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>20</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFFFFFF</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>44696769547261782050726A2046696C652056657273696F6E20</Bytes>
+			<ASCII> D i g i T r a x   P r j   F i l e   V e r s i o n</ASCII>
+			<Pos>56</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>83</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,36 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AbiWord compressed document</FileType>
+		<Ext>ZABW</Ext>
+		<ExtraInfo>
+			<Rem>AbiWord is a free word processing program similar to Microsoft(R) Word.</Rem>
+			<RefURL>http://www.abisource.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>48</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1F8B080000000000000B</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>DB</Bytes>
+			<Pos>14</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

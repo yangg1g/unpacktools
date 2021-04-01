@@ -1,0 +1,33 @@
+<TrID ver="1.15">
+    <Info>
+        <FileType>Fractal Forge 2.x fractal parameters</FileType>
+        <Ext>MND</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.fractovia.org/uberto/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>30</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>08</Day>
+        </Date>
+        <Time>
+            <Hour>14</Hour>
+            <Min>58</Min>
+            <Sec>47</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>114672616374616C20466F72676520322E</Bytes>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

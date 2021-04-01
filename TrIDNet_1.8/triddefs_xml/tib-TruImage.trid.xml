@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Acronis True Image file</FileType>
+		<Ext>TIB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.acronis.com</RefURL>
+		</ExtraInfo>
+		<User>Ildar Ibatullin</User>
+		<E-Mail>ildar.ibatullin@n0spam@gmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>39</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>28</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>B46E6844</Bytes>
+			<ASCII> . n h D</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

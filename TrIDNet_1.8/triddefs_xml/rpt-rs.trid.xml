@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ReportSmith report (ver 3.x)</FileType>
+		<Ext>RPT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.srs-inc.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Date>
+			<Year>2009</Year>
+			<Month>01</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>49</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3A01010000200000002D2D3E2047656E657261746564206279205265706F7274536D697468203C2D2D</Bytes>
+			<ASCII> : . . . .   . . . - - .   G e n e r a t e d   b y   R e p o r t S m i t h   . - -</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>56657273696F6E20332E</Bytes>
+			<ASCII> V e r s i o n   3</ASCII>
+			<Pos>45</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

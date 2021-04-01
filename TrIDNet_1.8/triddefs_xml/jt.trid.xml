@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>JT 3D visualization format</FileType>
+		<Ext>JT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/JT_(visualization_format)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>124</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>5</Day>
+		</Date>
+		<Time>
+			<Hour>0</Hour>
+			<Min>40</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>56657273696F6E20</Bytes>
+			<ASCII> V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>9</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>204A5420</Bytes>
+			<ASCII>   J T</ASCII>
+			<Pos>11</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

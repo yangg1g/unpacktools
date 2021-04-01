@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SDL Trados Translation Memory Data Find</FileType>
+		<Ext>MDF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/SDL_Trados</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2014</Year>
+			<Month>1</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>57</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>ABECB1FA5349474E01000000436F707972696768742028</Bytes>
+			<ASCII> . . . . S I G N . . . . C o p y r i g h t   (</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2920313939352D3139393920545241444F5320476D62482020202020</Bytes>
+			<ASCII> )   1 9 9 5 - 1 9 9 9   T R A D O S   G m b H</ASCII>
+			<Pos>24</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COPYRIGHT (C) 1995-1999 TRADOS GMBH</String>
+		<String>SIGN</String>
+	</GlobalStrings>
+</TrID>

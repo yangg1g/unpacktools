@@ -1,0 +1,69 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Midtown Madness 2 car data</FileType>
+		<Ext>AR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Midtown_Madness_2</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>56</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>_NEAR.CAMTRACKCSPK</String>
+		<String>_FAR.CAMTRACKCSPK</String>
+		<String>_HEADLIGHT1.MTXPK</String>
+		<String>_HEADLIGHT0.MTXPK</String>
+		<String>_OPP.VEHCARSIMPK</String>
+		<String>_DASH.CAMPOVCSPK</String>
+		<String>.VEHCARDAMAGEPK</String>
+		<String>_DASH.ASNODEPK</String>
+		<String>_BOUND.BNDPK</String>
+		<String>_WHL0.MTXPK</String>
+		<String>_ULCK.JPGPK</String>
+		<String>.VEHSTUCKPK</String>
+		<String>.MMMIRRORPK</String>
+		<String>_SHOW.JPGPK</String>
+		<String>_WHL2.MTXPK</String>
+		<String>_WHL3.MTXPK</String>
+		<String>_WHL1.MTXPK</String>
+		<String>.VEHGYROPK</String>
+		<String>OPPONENT</String>
+		<String>GEOMETRY</String>
+		<String>CARDATA</String>
+		<String>.INFOPK</String>
+		<String>TEXTURE</String>
+		<String>VEHICLE</String>
+		<String>PLAYER</String>
+		<String>BANGER</String>
+		<String>.TGAPK</String>
+		<String>.PKGPK</String>
+		<String>.CSVPK</String>
+		<String>ENGINE</String>
+		<String>CAMERA</String>
+		<String>TUNE</String>
+		<String>HORN</String>
+	</GlobalStrings>
+</TrID>

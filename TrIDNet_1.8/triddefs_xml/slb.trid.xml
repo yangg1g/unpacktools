@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AutoCAD Slide Library</FileType>
+		<Ext>SLB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.autodesk.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>01</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4175746F43414420536C696465204C69627261727920</Bytes>
+			<ASCII> A u t o C A D	S l i d e   L i b r a r y</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>23</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A</Bytes>
+			<Pos>25</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DjVu image</FileType>
+		<Ext>DJV</Ext>
+		<ExtraInfo>
+			<Rem>DjVu is an image compression technolgy developed at AT&amp;T that allows the distribution on the Internet of very high resolution images of scanned documents, digital documents, and photographs.</Rem>
+			<RefURL>http://www.djvuzone.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>32</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>41542654464F524D</Bytes>
+			<ASCII> A T . T F O R M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

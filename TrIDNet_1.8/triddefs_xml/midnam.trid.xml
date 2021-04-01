@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MIDI patch name</FileType>
+		<Ext>MIDNAM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://archive.digidesign.com/support/tips/xnames.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>27</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>08</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>08</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MIDI MANUFACTURERS ASSOCIATION</String>
+		<String>CHANNELNAMESETASSIGN CHANNEL</String>
+		<String>CHANNELNAMESETASSIGNMENTS</String>
+		<String>AVAILABLECHANNEL CHANNEL</String>
+		<String>DOCTYPE MIDINAMEDOCUMENT</String>
+		<String>CUSTOMDEVICEMODE NAME</String>
+		<String>AVAILABLEFORCHANNELS</String>
+		<String>CHANNELNAMESET NAME</String>
+		<String>MASTERDEVICENAMES</String>
+		<String>PATCHBANK NAME</String>
+		<String>PATCHNAMELIST</String>
+		<String>PROGRAMCHANGE</String>
+		<String>PATCH NUMBER</String>
+		<String>XML VERSION</String>
+		<String>ENCODING</String>
+		<String>PUBLIC</String>
+		<String>MODEL</String>
+		<String>UTF-8</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

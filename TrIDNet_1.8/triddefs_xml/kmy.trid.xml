@@ -1,0 +1,84 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>KMyMoney XML data (decompressed)</FileType>
+		<Ext>KMY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/KMyMoney</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>59</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C</Bytes>
+			<ASCII> . ? x m l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>LAST_MODIFIED_DATE DATE</String>
+		<String>ACCOUNT PARENTACCOUNT</String>
+		<String>DOCTYPE KMYMONEY-FILE</String>
+		<String>INSTITUTION SORTCODE</String>
+		<String>TRANSACTION POSTDATE</String>
+		<String>CREATION_DATE DATE</String>
+		<String>PRICEPAIR FROM</String>
+		<String>ADDRESS STREET</String>
+		<String>LASTRECONCILED</String>
+		<String>OPENINGBALANCE</String>
+		<String>KEYVALUEPAIRS</String>
+		<String>LASTMODIFIED</String>
+		<String>CURRENCY SAF</String>
+		<String>SCHEDULED_TX</String>
+		<String>INSTITUTIONS</String>
+		<String>ACCOUNTID ID</String>
+		<String>TRANSACTIONS</String>
+		<String>PAYEE EMAIL</String>
+		<String>DESCRIPTION</String>
+		<String>ACCOUNTIDS</String>
+		<String>SECURITIES</String>
+		<String>VERSION ID</String>
+		<String>CURRENCIES</String>
+		<String>USER EMAIL</String>
+		<String>ENTRYDATE</String>
+		<String>SCHEDULES</String>
+		<String>TELEPHONE</String>
+		<String>REFERENCE</String>
+		<String>COMMODITY</String>
+		<String>ACCOUNTS</String>
+		<String>ENCODING</String>
+		<String>FILEINFO</String>
+		<String>POSTCODE</String>
+		<String>MANAGER</String>
+		<String>REPORTS</String>
+		<String>ZIPCODE</String>
+		<String>OPENED</String>
+		<String>BANKID</String>
+		<String>PAYEES</String>
+		<String>NUMBER</String>
+		<String>PRICES</String>
+		<String>COUNTY</String>
+		<String>SYMBOL</String>
+		<String>STATE</String>
+		<String>LIFE</String>
+		<String>CITY</String>
+		<String>NAME</String>
+		<String>MEMO</String>
+	</GlobalStrings>
+</TrID>

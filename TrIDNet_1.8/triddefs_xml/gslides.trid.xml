@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Google Drive Presentation link</FileType>
+		<Ext>GSLIDES</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Google_Drive</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>1</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>7</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.82</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7B2275726C223A202268747470733A2F2F646F63732E676F6F676C652E636F6D2F70726573656E746174696F6E2F</Bytes>
+			<ASCII> { " u r l " :   " h t t p s : / / d o c s . g o o g l e . c o m / p r e s e n t a t i o n /</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCS.GOOGLE.COM</String>
+		<String>PRESENTATION</String>
+		<String>RESOURCE_ID</String>
+		<String>HTTPS</String>
+		<String>EDIT</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Fiddler saved WebTest</FileType>
+		<Ext>WEBTEST</Ext>
+		<ExtraInfo>
+			<Rem>Fiddler is a free HTTP Debugging Proxy.</Rem>
+			<RefURL>http://www.fiddlertool.com/fiddler/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>15</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D38223F3E0D0A3C5465737443617365204E616D653D224D6963726F736F6674466964646C657257656254657374222049643D22</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 " ? . . . . T e s t C a s e   N a m e = " M i c r o s o f t F i d d l e r W e b T e s t "   I d = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DEPLOYMENTITEMSEDITABLE</String>
+		<String>MICROSOFTFIDDLERWEBTEST</String>
+		<String>TESTCASECALLBACKCLASS</String>
+		<String>REQUESTCALLBACKCLASS</String>
+		<String>CSSPROJECTSTRUCTURE</String>
+		<String>CREDENTIALUSERNAME</String>
+		<String>CREDENTIALPASSWORD</String>
+		<String>PREAUTHENTICATE</String>
+		<String>TESTCASE NAME</String>
+		<String>CSSITERATION</String>
+		<String>XML VERSION</String>
+		<String>DESCRIPTION</String>
+		<String>ENCODING</String>
+		<String>PRIORITY</String>
+		<String>ENABLED</String>
+		<String>PROXY</String>
+		<String>UTF-8</String>
+		<String>OWNER</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LLVM Bytecode (compressed)</FileType>
+		<Ext>BC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.llvm.org</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>02</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>53</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6C6C7663</Bytes>
+			<ASCII> l l v c</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

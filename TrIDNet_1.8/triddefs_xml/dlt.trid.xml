@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DELTA binary dataset</FileType>
+		<Ext>DLT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://delta-intkey.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>11</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>34</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>062244454C54412D4461746166696C652028632920472E462E205765696C6C657220313939363B20435349524F20456E746F6D6F6C6F677920313939371A</Bytes>
+			<ASCII> . " D E L T A - D a t a f i l e   ( c )   G . F .   W e i l l e r   1 9 9 6 ;   C S I R O   E n t o m o l o g y   1 9 9 7</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

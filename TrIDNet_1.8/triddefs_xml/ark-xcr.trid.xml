@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XCR archive</FileType>
+		<Ext>XCR</Ext>
+		<ExtraInfo>
+			<Rem>Non compressed archive format used in Warlords Battlecry I and II</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>03</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>20</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7863722046696C6520312E303000</Bytes>
+			<ASCII> x c r   F i l e   1 . 0 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

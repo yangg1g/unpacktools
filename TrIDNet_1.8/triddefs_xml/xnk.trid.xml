@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Exchange Server Shortcut</FileType>
+		<Ext>XNK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/exchange</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>19</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0500000003000000000000000500000001000000200000001000000000020000500100008000000000000000FFFFFFFFFFFFFFFF</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . .   . . . . . . . . . . . P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000038A1BB1005E5101AA1BB08002B2A56C20000</Bytes>
+			<ASCII> . . . . . . 8 . . . . . . . . . . . + * V</ASCII>
+			<Pos>66</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.DLL</String>
+	</GlobalStrings>
+</TrID>

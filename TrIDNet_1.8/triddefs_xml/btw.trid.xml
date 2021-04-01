@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BarTender label format</FileType>
+		<Ext>BTW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.bartenderbarcodesoftware.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>10</Month>
+			<Day>9</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>35</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0D0A4261722054656E64657220466F726D61742046696C650D0A28632920</Bytes>
+			<ASCII> . . B a r   T e n d e r   F o r m a t   F i l e . . ( c )</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>Flexible Image Transport System bitmap</FileType>
+        <Ext>ARF/FTS</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>21</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>18</Day>
+        </Date>
+        <Time>
+            <Hour>13</Hour>
+            <Min>28</Min>
+            <Sec>57</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>53494D504C4520203D20</Bytes>
+            <ASCII> S I M P L E     =</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>42495450495820203D20</Bytes>
+            <ASCII> B I T P I X     =</ASCII>
+            <Pos>80</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

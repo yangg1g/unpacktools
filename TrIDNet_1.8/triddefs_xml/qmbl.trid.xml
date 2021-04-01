@@ -1,0 +1,112 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LabQuest results</FileType>
+		<Ext>QMBL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>2</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>50</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E0A3C446F63756D656E743E0A20203C56657273696F6E3E312E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ? . . . D o c u m e n t . .     . V e r s i o n . 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MBLCOLLECTIONDIGITALMODEGATESEPERATION</String>
+		<String>COPYRIGHT (C) 2007 VERNIER SOFTWARE</String>
+		<String>MBLCOLLECTIONDIGITALMODEDEVICETYPE</String>
+		<String>MBLCOLLECTIONDIGITALMODEFLAGWIDTH</String>
+		<String>MBLCOLLECTIONDIGITALMODEBARWIDTH</String>
+		<String>MBLCOLLECTIONENDDIGITALAFTERNUM</String>
+		<String>MBLCOLLECTIONUSERCOLLECTSUBMODE</String>
+		<String>MBLCOLLECTIONNUMDIGITALEVENTS</String>
+		<String>MBLCOLLECTIONDROPCOUNTERMODE</String>
+		<String>MBLCOLLECTIONUSERCOLLECTMODE</String>
+		<String>TECHNOLOGY AND ITS LICENSORS</String>
+		<String>DATAOBJECTPRECISIONDECIMAL</String>
+		<String>MBLCOLLECTIONOVERSAMPLING</String>
+		<String>GRAPHSHOWPOINTPROTECTORS</String>
+		<String>MBLCOLLECTIONMAXDURATION</String>
+		<String>COLUMNSENSORINPUTCOLUMN</String>
+		<String>MBLCOLLECTIONNUMSAMPLES</String>
+		<String>COLUMNALLOWUSERDELETE</String>
+		<String>COLUMNSHOWLIVEREADOUT</String>
+		<String>GRAPHPLOTBASECOLUMNID</String>
+		<String>GRAPHPLOTTRACEIDPAIRS</String>
+		<String>MBLCOLLECTIONTIMEUNIT</String>
+		<String>SENSORCONFLICTENABLED</String>
+		<String>DATAOBJECTDATASOURCE</String>
+		<String>GRAPHPLOTXAUTOSCALE</String>
+		<String>GRAPHPLOTYAUTOSCALE</String>
+		<String>MBLCOLLECTIONDELTAT</String>
+		<String>MBLCOLLECTIONREPEAT</String>
+		<String>NUMDERIVATIVEPOINTS</String>
+		<String>COLUMNSENSORCOLUMN</String>
+		<String>COLUMNUSEREDITABLE</String>
+		<String>PAGEGRAPHCARTESIAN</String>
+		<String>COLUMNUSERCREATED</String>
+		<String>GRAPHCONNECTLINES</String>
+		<String>MBLEWEAVERAGEDATA</String>
+		<String>MBLLABQUESTSOURCE</String>
+		<String>CREATIONDATETIME</String>
+		<String>DATASOURCESERVER</String>
+		<String>GRAPHDRAWRAINBOW</String>
+		<String>MBLSEAVERAGEDATA</String>
+		<String>MODIFIEDDATETIME</String>
+		<String>ABSOLUTEVERSION</String>
+		<String>COLUMNPROTECTED</String>
+		<String>DATAOBJECTCOLOR</String>
+		<String>DATAOBJECTNAME</String>
+		<String>COLUMNPPSTYLE</String>
+		<String>DATASETLATEST</String>
+		<String>GRAPHPLOTXMAX</String>
+		<String>GRAPHPLOTXMIN</String>
+		<String>GRAPHPLOTYMAX</String>
+		<String>GRAPHPLOTYMIN</String>
+		<String>BROADCASTTO</String>
+		<String>COLUMNCELLS</String>
+		<String>COLUMNUNITS</String>
+		<String>DATASETNAME</String>
+		<String>TABLECOLUMN</String>
+		<String>XML VERSION</String>
+		<String>0X0 0X0 0X</String>
+		<String>CREATORAPP</String>
+		<String>DATACOLUMN</String>
+		<String>PAGEBOUNDS</String>
+		<String>STATIONERY</String>
+		<String>COLUMNMAT</String>
+		<String>CREATOROS</String>
+		<String>PAGETABLE</String>
+		<String>DOCUMENT</String>
+		<String>ENCODING</String>
+		<String>MBLBRAIN</String>
+		<String>CHARSET</String>
+		<String>0XFFFF</String>
+		<String>ATIONI</String>
+		<String>CIENT</String>
+		<String>RUN 1</String>
+		<String>UTF-8</String>
+		<String>NPRE</String>
+	</GlobalStrings>
+</TrID>

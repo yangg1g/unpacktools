@@ -1,0 +1,74 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Universal Classification Standard Database</FileType>
+		<Ext>UCS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>01</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>36</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C5543535744204C414E47554147453D22</Bytes>
+			<ASCII> . U C S W D   L A N G U A G E = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TRACKING VERSION</String>
+		<String>CINFO OLDGROUP</String>
+		<String>UCSWD LANGUAGE</String>
+		<String>CDATES EFFDAY</String>
+		<String>TMBSTONE DEPT</String>
+		<String>REPORT PNUM</String>
+		<String>AUTMONTH</String>
+		<String>REVMONTH</String>
+		<String>LANGPROF</String>
+		<String>EFFMONTH</String>
+		<String>DIVISION</String>
+		<String>OLDSUBGR</String>
+		<String>SECURITY</String>
+		<String>ENCUMBRD</String>
+		<String>ELEMCHAR</String>
+		<String>OLDLEVEL</String>
+		<String>REVYEAR</String>
+		<String>EFFYEAR</String>
+		<String>AUTYEAR</String>
+		<String>KEYACTS</String>
+		<String>PTITLEF</String>
+		<String>CONTENT</String>
+		<String>PTITLEE</String>
+		<String>RESPONS</String>
+		<String>LANGREQ</String>
+		<String>INCUMB</String>
+		<String>STATUS</String>
+		<String>REVDAY</String>
+		<String>AUTDAY</String>
+		<String>WD GRP</String>
+		<String>BRANCH</String>
+		<String>SKILL</String>
+		<String>CSERV</String>
+		<String>UCS16</String>
+		<String>WCOND</String>
+		<String>FINAL</String>
+		<String>DIM1</String>
+	</GlobalStrings>
+</TrID>

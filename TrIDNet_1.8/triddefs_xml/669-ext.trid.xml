@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>669 Extended Tracker Module</FileType>
+        <Ext>669</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>2</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>01</Day>
+        </Date>
+        <Time>
+            <Hour>21</Hour>
+            <Min>47</Min>
+            <Sec>31</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.02.6b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4A4E</Bytes>
+            <ASCII> J N</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>UltraTracker Wave File audio</FileType>
+        <Ext>UWF</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>20</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>29</Day>
+        </Date>
+        <Time>
+            <Hour>16</Hour>
+            <Min>26</Min>
+            <Sec>15</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>001A104D555746440000002E000000</Bytes>
+            <ASCII> . . . M U W F D</ASCII>
+            <Pos>31</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000000000</Bytes>
+            <Pos>49</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>001000000040000000</Bytes>
+            <ASCII> . . . . . @</ASCII>
+            <Pos>57</Pos>
+        </Pattern>
+    </FrontBlock>
+    <GlobalStrings>
+        <String>MUWFD'''.</String>
+    </GlobalStrings>
+</TrID>

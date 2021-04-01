@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Math worksheet</FileType>
+		<Ext>GCW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Eduardo</User>
+		<E-Mail>eduardosanchezmunoz@gmail.com</E-Mail>
+		<Home>http://eduardo38.netne.net/</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>10</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>28</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C436173446F63756D656E7420446F6356657273696F6E3D22322E30223E3C456E7472696573205A6F6F6D466163746F723D223122</Bytes>
+			<ASCII> . . . . C a s D o c u m e n t   D o c V e r s i o n = " 2 . 0 " . . E n t r i e s   Z o o m F a c t o r = " 1 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CASDOCUMENT DOCVERSION</String>
+		<String>ENTRIES ZOOMFACTOR</String>
+		<String>ASSIGNMENTS</String>
+	</GlobalStrings>
+</TrID>

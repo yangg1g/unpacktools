@@ -1,0 +1,110 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Office XML Flat File Format PowerPoint Presentation (UTF)</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Microsoft_Office_XML_formats</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>5</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>32</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D22</Bytes>
+			<ASCII> . . . . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VND.OPENXMLFORMATS-OFFICEDOCUMENT.PRESENTATIONML.PRESENTATION.MAIN+XML</String>
+		<String>VND.OPENXMLFORMATS-OFFICEDOCUMENT.PRESENTATIONML.SLIDELAYOUT+XML</String>
+		<String>VND.OPENXMLFORMATS-OFFICEDOCUMENT.PRESENTATIONML.SLIDEMASTER+XML</String>
+		<String>VND.OPENXMLFORMATS-OFFICEDOCUMENT.PRESENTATIONML.TABLESTYLES+XML</String>
+		<String>VND.OPENXMLFORMATS-OFFICEDOCUMENT.PRESENTATIONML.PRESPROPS+XML</String>
+		<String>VND.OPENXMLFORMATS-OFFICEDOCUMENT.PRESENTATIONML.VIEWPROPS+XML</String>
+		<String>VND.OPENXMLFORMATS-OFFICEDOCUMENT.PRESENTATIONML.SLIDE+XML</String>
+		<String>VND.OPENXMLFORMATS-OFFICEDOCUMENT.EXTENDED-PROPERTIES+XML</String>
+		<String>VND.OPENXMLFORMATS-PACKAGE.CORE-PROPERTIES+XML</String>
+		<String>VND.OPENXMLFORMATS-PACKAGE.RELATIONSHIPS+XML</String>
+		<String>VND.OPENXMLFORMATS-OFFICEDOCUMENT.THEME+XML</String>
+		<String>MICROSOFT OFFICE POWERPOINT</String>
+		<String>SCHEMAS.OPENXMLFORMATS.ORG</String>
+		<String>MSO-APPLICATION PROGID</String>
+		<String>PRESENTATION.XML.RELS</String>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>SLIDEMASTER1.XML.RELS</String>
+		<String>PRESENTATIONPR XMLNS</String>
+		<String>PRESENTATIONFORMAT</String>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>POWERPOINT.SHOW</String>
+		<String>RELATIONSHIP ID</String>
+		<String>SLDMASTER XMLNS</String>
+		<String>SLIDE1.XML.RELS</String>
+		<String>TABLESTYLES.XML</String>
+		<String>CLRSCHEME NAME</String>
+		<String>SLDLAYOUTID ID</String>
+		<String>SLDLAYOUTIDLST</String>
+		<String>SLDMASTERID ID</String>
+		<String>SLDMASTERIDLST</String>
+		<String>PACKAGE XMLNS</String>
+		<String>SCHEMECLR VAL</String>
+		<String>THEMEELEMENTS</String>
+		<String>TITLESOFPARTS</String>
+		<String>VIEWPROPS.XML</String>
+		<String>HIDDENSLIDES</String>
+		<String>NORMALVIEWPR</String>
+		<String>SLIDE TITLES</String>
+		<String>SLIDEMASTERS</String>
+		<String>COMPRESSION</String>
+		<String>CONTENTTYPE</String>
+		<String>CREATED XSI</String>
+		<String>SLIDEVIEWPR</String>
+		<String>VECTOR SIZE</String>
+		<String>XML VERSION</String>
+		<String>APPVERSION</String>
+		<String>BINARYDATA</String>
+		<String>CSLDVIEWPR</String>
+		<String>SPLOCKS NO</String>
+		<String>TITLESTYLE</String>
+		<String>WWW.W3.ORG</String>
+		<String>XMLPACKAGE</String>
+		<String>BODYSTYLE</String>
+		<String>TOTALTIME</String>
+		<String>BASETYPE</String>
+		<String>CORE.XML</String>
+		<String>ENCODING</String>
+		<String>GUIDELST</String>
+		<String>METADATA</String>
+		<String>PART PKG</String>
+		<String>SLDID ID</String>
+		<String>SLDIDLST</String>
+		<String>CREATOR</String>
+		<String>DCTERMS</String>
+		<String>MMCLIPS</String>
+		<String>NOTESSZ</String>
+		<String>PICTURE</String>
+		<String>XMLDATA</String>
+		<String>SCALED</String>
+		<String>.JPEG</String>
+		<String>IMAGE</String>
+		<String>WORDS</String>
+		<String>HEAD</String>
+	</GlobalStrings>
+</TrID>

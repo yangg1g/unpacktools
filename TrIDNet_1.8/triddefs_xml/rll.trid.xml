@@ -1,0 +1,82 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Microsoft Resource Library</FileType>
+		<Ext>RLL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>35</Min>
+			<Sec>45</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000B80000000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A2400000000000000</Bytes>
+			<ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ! . . L . ! T h i s   p r o g r a m   c a n n o t   b e   r u n   i n   D O S   m o d e . . . . $</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52696368</Bytes>
+			<ASCII> R i c h</ASCII>
+			<Pos>160</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000000000000504500004C01</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . P E . . L</ASCII>
+			<Pos>168</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>191</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000E000</Bytes>
+			<Pos>196</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>210B01</Bytes>
+			<ASCII> !</ASCII>
+			<Pos>207</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>C'O'M'P'A'N'Y'N'A'M'E'''''M'I'C'R'O'S'O'F'T' 'C'O'R'P'O'R'A'T'I'O'N</String>
+		<String>P'R'O'D'U'C'T'N'A'M'E'''''M'I'C'R'O'S'O'F'T</String>
+		<String>THIS PROGRAM CANNOT BE RUN IN DOS MODE.</String>
+		<String>O'R'I'G'I'N'A'L'F'I'L'E'N'A'M'E</String>
+		<String>F'I'L'E'D'E'S'C'R'I'P'T'I'O'N</String>
+		<String>V'S'_'V'E'R'S'I'O'N'_'I'N'F'O</String>
+		<String>L'E'G'A'L'C'O'P'Y'R'I'G'H'T</String>
+		<String>P'R'O'D'U'C'T'V'E'R'S'I'O'N</String>
+		<String>S'T'R'I'N'G'F'I'L'E'I'N'F'O</String>
+		<String>V'A'R'F'I'L'E'I'N'F'O'''''$</String>
+		<String>I'N'T'E'R'N'A'L'N'A'M'E</String>
+		<String>F'I'L'E'V'E'R'S'I'O'N</String>
+		<String>T'R'A'N'S'L'A'T'I'O'N</String>
+		<String>W'I'N'D'O'W'S</String>
+		<String>R'E'S'O'U</String>
+		<String>S'E'R'V'E</String>
+		<String>.RSRC</String>
+		<String>0'0'.</String>
+		<String>PE''L</String>
+		<String>S'Q'L</String>
+		<String>S'Y'S</String>
+		<String>RICH</String>
+	</GlobalStrings>
+</TrID>

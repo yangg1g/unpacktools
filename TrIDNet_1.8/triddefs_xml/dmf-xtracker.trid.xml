@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Xtracker DMF module/song</FileType>
+		<Ext>DMF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.xtracker32.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>05</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>38</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>44444D46</Bytes>
+			<ASCII> D D M F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>58545241434B4552</Bytes>
+			<ASCII> X T R A C K E R</ASCII>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

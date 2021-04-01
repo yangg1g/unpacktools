@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TrID defs package</FileType>
+		<Ext>TRD</Ext>
+		<ExtraInfo>
+			<Rem>A TRD file is a RIFF like container that hold a serie of TrID's definitions.</Rem>
+			<RefURL>http://mark0.net/soft-trid-e.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>06</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>06</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52494646</Bytes>
+			<ASCII> R I F F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00545249444445464E</Bytes>
+			<ASCII> . T R I D D E F N</ASCII>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TRIDDEFN</String>
+		<String>FNUM</String>
+		<String>DEFS</String>
+		<String>NAME</String>
+		<String>PATT</String>
+		<String>RIFF</String>
+		<String>INFO</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

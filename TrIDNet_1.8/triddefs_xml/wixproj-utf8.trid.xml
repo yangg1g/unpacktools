@@ -1,0 +1,58 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WiX Project (UTF-8)</FileType>
+		<Ext>WIXPROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/WiX</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>21</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>11</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>59</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>COMPILE INCLUDE</String>
+		<String>DEFAULTTARGETS</String>
+		<String>IMPORT PROJECT</String>
+		<String>PROPERTYGROUP</String>
+		<String>PROJECTGUID</String>
+		<String>WIX.TARGETS</String>
+		<String>OUTPUTNAME</String>
+		<String>OUTPUTPATH</String>
+		<String>OUTPUTTYPE</String>
+		<String>DEVELOPER</String>
+		<String>EXTENSION</String>
+		<String>ITEMGROUP</String>
+		<String>PLATFORM</String>
+		<String>MSBUILD</String>
+		<String>PACKAGE</String>
+		<String>VERSION</String>
+		<String>SPATH</String>
+		<String>XMLNS</String>
+		<String>.WXS</String>
+		<String>2003</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

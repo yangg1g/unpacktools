@@ -1,0 +1,72 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Freehand (MX) Project (generic)</FileType>
+		<Ext>FH*</Ext>
+		<ExtraInfo>
+			<Rem>Freehand files can contain animations in addition to vector and bitmapped graphics.</Rem>
+			<RefURL>http://www.macromedia.com/software/freehand/?promoid=home_prod_fh_082403</RefURL>
+		</ExtraInfo>
+		<User>Alex Paven</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>12</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>50</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1C0100000200041C0114000200141C0116000200</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>1C011E000A4672656548616E64</Bytes>
+			<ASCII> . . . . . F r e e H a n d</ASCII>
+			<Pos>21</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SYMBOLLIBRARY</String>
+		<String>STYLEPROPLST</String>
+		<String>FHDOCHEADER</String>
+		<String>FLATEDECODE</String>
+		<String>SPOTCOLOR6</String>
+		<String>BASICLINE</String>
+		<String>ARROWPATH</String>
+		<String>FREEHAND1</String>
+		<String>PROCEDURE</String>
+		<String>BASICFILL</String>
+		<String>COLLECTOR</String>
+		<String>MPOBJECT</String>
+		<String>ELEMLIST</String>
+		<String>FILEABLE</String>
+		<String>TABTABLE</String>
+		<String>DATETIME</String>
+		<String>AGDFONT</String>
+		<String>LINEPAT</String>
+		<String>USTRING</String>
+		<String>ELEMENT</String>
+		<String>MSTRING</String>
+		<String>FIGURE</String>
+		<String>GUIDES</String>
+		<String>VMPOBJ</String>
+		<String>MDICT</String>
+		<String>BLOCK</String>
+		<String>VDICT</String>
+		<String>MNAME</String>
+		<String>GROUP</String>
+		<String>LAYER</String>
+	</GlobalStrings>
+</TrID>

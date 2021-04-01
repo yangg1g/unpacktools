@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>3D XML files (unzipped)</FileType>
+		<Ext>3DXML</Ext>
+		<ExtraInfo>
+			<Rem>files created with 3dprintscreen.exe differ from those created with other software</Rem>
+			<RefURL>http://www.3ds.com/products-solutions/3d-for-all/</RefURL>
+		</ExtraInfo>
+		<User>Maggy Rond</User>
+		<E-Mail>mrondnospamattiscalidotnl</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>84</FileNum>
+		<Refine>38 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>10</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>57</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D22</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>MODEL_3DXML XMLNS</String>
+		<String>SCHEMAVERSION</String>
+		<String>XML VERSION</String>
+		<String>WWW.3DS.COM</String>
+		<String>WWW.W3.ORG</String>
+		<String>GENERATOR</String>
+		<String>ENCODING</String>
+		<String>HEADER</String>
+		<String>TITLE</String>
+		<String>UTF-8</String>
+		<String>XLINK</String>
+		<String>TION</String>
+		<String>TYPE</String>
+		<String>FILE</String>
+		<String>HTTP</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Auto3DEM output summary</FileType>
+		<Ext>TXT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://cryoem.ucsd.edu/programs.shtm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>10</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>7</Min>
+			<Sec>6</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2D2D2D2D2D2D204155544F3344454D2076657273696F6E2076</Bytes>
+			<ASCII> - - - - - -   A U T O 3 D E M   v e r s i o n   v</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>26</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DELTA ANGLE</String>
+		<String>MAP UNDAMP</String>
+		<String>MAP DAMP</String>
+		<String>DEFOCUS</String>
+		<String>ESTRES</String>
+		<String>NPTLES</String>
+		<String>MODE</String>
+		<String>NTOT</String>
+		<String>TIME</String>
+	</GlobalStrings>
+</TrID>

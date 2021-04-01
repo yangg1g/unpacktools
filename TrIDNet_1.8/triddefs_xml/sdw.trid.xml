@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>StarOffice StarWriter document</FileType>
+		<Ext>SDW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>33</FileNum>
+		<Refine>1 by Marco Pontello - 5 by Paresh Modi</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>0</Min>
+			<Sec>16</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>1032</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'T'A'R'W'R'I'T'E'R'D'O'C'U'M'E'N'T</String>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>S'W'P'A'G'E'S'T'Y'L'E'S'H'E'E'T'S</String>
+		<String>P'E'R'S'I'S'T' 'E'L'E'M'E'N'T'S</String>
+		<String>S'F'X'D'O'C'U'M'E'N'T'I'N'F'O</String>
+		<String>S'F'X'S'T'Y'L'E'S'H'E'E'T'S</String>
+		<String>A'B'C'D'E'F'Q'R'S'T'U</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>S'W'N'U'M'R'U'L'E'S</String>
+		<String>TEXTFORMATVORLAGE</String>
+		<String>SFXDOCUMENTINFO</String>
+		<String>C'O'M'P'O'B'J</String>
+		<String>FRAMEFORMAT</String>
+		<String>STARWRITER</String>
+		<String>O'L'E</String>
+	</GlobalStrings>
+</TrID>

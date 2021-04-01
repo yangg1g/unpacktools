@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Class Diagram (Unicode)</FileType>
+		<Ext>CD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>28</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C</Bytes>
+			<ASCII> . ? x m l</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TYPEIDENTIFIER</String>
+		<String>MINORVERSION</String>
+		<String>MAJORVERSION</String>
+		<String>CLASSDIAGRAM</String>
+		<String>POSITION</String>
+		<String>CLASS NAME</String>
+		<String>FONT NAME</String>
+		<String>FILENAME</String>
+		<String>HASHCODE</String>
+		<String>ENCODING</String>
+		<String>WIDTH</String>
+		<String>SIZE</String>
+	</GlobalStrings>
+</TrID>

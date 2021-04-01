@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WindowBlinds skin-theme</FileType>
+		<Ext>WBA</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.stardock.com/products/windowblinds/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>11</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>04</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SHELLSTYLE.XPS</String>
+		<String>PROGRESS</String>
+		<String>TOOLBAR</String>
+		<String>TASKBAR</String>
+		<String>LOGOFF</String>
+		<String>BUTTON</String>
+		<String>STATUS</String>
+		<String>SCROLL</String>
+		<String>RADIO</String>
+		<String>COMBO</String>
+		<String>START</String>
+		<String>GROUP</String>
+		<String>TDOWN</String>
+		<String>TRACK</String>
+		<String>HEAD</String>
+		<String>MENU</String>
+		<String>XPST</String>
+		<String>SPIN</String>
+	</GlobalStrings>
+</TrID>

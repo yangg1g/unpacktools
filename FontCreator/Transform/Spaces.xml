@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+  <TransformScript>
+    <OtherComments>
+      <Content>Spaces
+Fixed width spaces are supported by Open Office and professional typesetting applications. </Content>
+    </OtherComments>
+    <GlyphInsertCharacters>
+      <Characters>8192-8203</Characters>
+      <OverrideRange>TRUE</OverrideRange>
+    </GlyphInsertCharacters>
+    <GlyphCompleteComposites>
+    </GlyphCompleteComposites>
+    <GlyphDecompose>
+    </GlyphDecompose>
+  </TransformScript>
+</DATA>

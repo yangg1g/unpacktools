@@ -1,0 +1,68 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CorelDRAW drawing (zipped)</FileType>
+		<Ext>CDR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/CorelDRAW</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>26</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B0304</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0014000000636F6E74656E742F72696666446174612E63647252494646</Bytes>
+			<ASCII> . . . . . c o n t e n t / r i f f D a t a . c d r R I F F</ASCII>
+			<Pos>25</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00434452</Bytes>
+			<ASCII> . C D R</ASCII>
+			<Pos>57</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7672736E02000000</Bytes>
+			<ASCII> v r s n</ASCII>
+			<Pos>62</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>054C495354</Bytes>
+			<ASCII> . L I S T</ASCII>
+			<Pos>71</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RIFFDATA.CDRRIFF</String>
+		<String>THUMBNAIL.BMP</String>
+		<String>LIST4'''CMPR</String>
+		<String>METADATA.XML</String>
+		<String>TEXTINFO.XML</String>
+		<String>THUMBNAILS</String>
+		<String>LINKS.XML</String>
+		<String>PAGE1.BMP</String>
+		<String>CONTENT</String>
+		<String>CPNG</String>
+		<String>VRSN</String>
+	</GlobalStrings>
+</TrID>

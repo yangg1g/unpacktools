@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>OptionSoft WinCode encoded</FileType>
+        <Ext></Ext>
+        <ExtraInfo>
+            <Rem>OptionSoft site is no longer active! If you have some infos about it let me know! Thanks!</Rem>
+            <RefURL>http://www.simtel.net/product.php?id=38726</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>3</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>10</Month>
+            <Day>10</Day>
+        </Date>
+        <Time>
+            <Hour>14</Hour>
+            <Min>18</Min>
+            <Sec>14</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>57434F44</Bytes>
+            <ASCII> W C O D</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

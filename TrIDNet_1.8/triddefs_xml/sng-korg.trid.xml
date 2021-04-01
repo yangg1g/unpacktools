@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Korg Song file</FileType>
+		<Ext>SNG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.korg.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>31</Min>
+			<Sec>54</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4B4F5247</Bytes>
+			<ASCII> K O R G</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NEW SONG</String>
+		<String>KORG</String>
+	</GlobalStrings>
+</TrID>

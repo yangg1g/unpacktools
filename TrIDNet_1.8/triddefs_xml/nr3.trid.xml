@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Nero MP3 ISO Compilation</FileType>
+		<Ext>NR3</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.nero.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>07</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>08</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0E4E65726F49534F</Bytes>
+			<ASCII> . N e r o I S O</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4E45524F</Bytes>
+			<ASCII> N E R O</ASCII>
+			<Pos>26</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.MP3FSIZ</String>
+		<String>SONG</String>
+	</GlobalStrings>
+</TrID>

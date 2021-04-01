@@ -1,0 +1,79 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IncrediFlash animation</FileType>
+		<Ext>IFL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.incrediflash.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>35</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFEFF</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4900</Bytes>
+			<ASCII> I</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>I'N'C'R'E'D'I'F'L'A'S'H' 'X'T'R'E'M'E</String>
+		<String>O'R'I'G'I'N'A'L'_'I'M'A'G'E</String>
+		<String>I'C'V'A'R'S'E'T'T'I'N'G'S</String>
+		<String>P'A'G'E'S'E'T'T'I'N'G'S'_</String>
+		<String>N'O' 'M'U'S'I'C'.'D'A'T</String>
+		<String>D'I'R'E'C'T'E'D' 'B'Y</String>
+		<String>M'U'S'I'C' 'T'I'T'L'E</String>
+		<String>W'W'W'.'I'N'C'R'E'D'I</String>
+		<String>E'N'D'_'A'C'T'I'O'N</String>
+		<String>P'A'G'E'_'C'L'I'C'K</String>
+		<String>T'H'U'M'B'.'J'P'G</String>
+		<String>W'O'R'K'S'P'A'C'E</String>
+		<String>M'A'I'N'.'I'P'T</String>
+		<String>M'U'S'I'C' 'B'Y</String>
+		<String>S'T'A'R'I'N'G'S</String>
+		<String>C'D'T'O'O'L'S</String>
+		<String>C'L'I'P'A'R'T</String>
+		<String>I'F'L'T'E'M'P</String>
+		<String>S'C'R'A'T'C'H</String>
+		<String>T'H'E' 'E'N'D</String>
+		<String>I'C'L'O'A'D</String>
+		<String>R'E'P'L'A'Y</String>
+		<String>.'C'O'M</String>
+		<String>.'I'P'C</String>
+		<String>.'S'W'F</String>
+		<String>D'A'T'A</String>
+		<String>F'I'L'L</String>
+		<String>H'T'T'P</String>
+		<String>T'E'A'M</String>
+		<String>T'E'X'T</String>
+		<String>_'D'O'C</String>
+		<String>A'P'P</String>
+		<String>P'R'O</String>
+		<String>JFIF</String>
+	</GlobalStrings>
+</TrID>

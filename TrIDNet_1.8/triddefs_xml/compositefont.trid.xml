@@ -1,0 +1,184 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Composite Font</FileType>
+		<Ext>COMPOSITEFONT</Ext>
+		<ExtraInfo>
+			<Rem>XML file used by Windows applications to display different fonts</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Stef</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>9 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>10</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>25</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C466F6E7446616D696C79</Bytes>
+			<ASCII> . . . . F o n t F a m i l y</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FONTFAMILY.FAMILYTYPEFACES</String>
+		<String>FONTFAMILY.FAMILYNAMES</String>
+		<String>STRIKETHROUGHTHICKNESS</String>
+		<String>FONTFAMILY.FAMILYMAPS</String>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>STRIKETHROUGHPOSITION</String>
+		<String>PLANTAGENET CHEROKEE</String>
+		<String>MICROSOFT HIMALAYA</String>
+		<String>MICROSOFT JHENGHEI</String>
+		<String>MICROSOFT YI BAITI</String>
+		<String>MINGLIU_HKSCS-EXTB</String>
+		<String>UNDERLINETHICKNESS</String>
+		<String>ESTRANGELO EDESSA</String>
+		<String>UNDERLINEPOSITION</String>
+		<String>MICROSOFT YAHEI</String>
+		<String>MONGOLIAN BAITI</String>
+		<String>COMPOSITE-FONT</String>
+		<String>CLR-NAMESPACE</String>
+		<String>FONTFAMILYMAP</String>
+		<String>MALGUN GOTHIC</String>
+		<String>ISKOOLA POTA</String>
+		<String>MINGLIU-EXTB</String>
+		<String>SIMSUN-18030</String>
+		<String>20000-2A6DF</String>
+		<String>2F800-2FA1F</String>
+		<String>LINESPACING</String>
+		<String>SIMSUN-EXTB</String>
+		<String>CAPSHEIGHT</String>
+		<String>0000-052F</String>
+		<String>0530-058F</String>
+		<String>0590-06FF</String>
+		<String>0700-074F</String>
+		<String>0750-077F</String>
+		<String>0780-07BF</String>
+		<String>0900-097F</String>
+		<String>0980-09FF</String>
+		<String>0A00-0A7F</String>
+		<String>0A80-0AFF</String>
+		<String>0B00-0B7F</String>
+		<String>0B80-0BFF</String>
+		<String>0C00-0C7F</String>
+		<String>0C80-0CFF</String>
+		<String>0D00-0D7F</String>
+		<String>0D80-0DFF</String>
+		<String>0E00-0E7F</String>
+		<String>0E80-0EFF</String>
+		<String>0F00-0FFF</String>
+		<String>10D0-10FF</String>
+		<String>1100-11FF</String>
+		<String>1200-137F</String>
+		<String>13A0-13FF</String>
+		<String>1400-167F</String>
+		<String>1780-17FF</String>
+		<String>1800-18AF</String>
+		<String>19E0-19FF</String>
+		<String>1D00-1FFF</String>
+		<String>2000-202E</String>
+		<String>2030-20CF</String>
+		<String>2100-23FF</String>
+		<String>2460-27BF</String>
+		<String>2980-29FF</String>
+		<String>2E80-2EFF</String>
+		<String>2F00-2FDF</String>
+		<String>2FF0-2FFF</String>
+		<String>3000-30FF</String>
+		<String>3100-312F</String>
+		<String>3130-318F</String>
+		<String>3190-319F</String>
+		<String>31A0-31BF</String>
+		<String>31C0-31EF</String>
+		<String>31F0-31FF</String>
+		<String>3200-321F</String>
+		<String>3220-324F</String>
+		<String>3251-325F</String>
+		<String>3260-327F</String>
+		<String>3280-32B0</String>
+		<String>32D0-3376</String>
+		<String>337B-337F</String>
+		<String>3380-33DF</String>
+		<String>33E0-33FF</String>
+		<String>3400-4DBF</String>
+		<String>4E00-9FBB</String>
+		<String>A000-A4CF</String>
+		<String>AC00-D7AF</String>
+		<String>DOKCHAMPA</String>
+		<String>F900-FAFF</String>
+		<String>FB00-FB0F</String>
+		<String>FB10-FB1C</String>
+		<String>FDF0-FDFF</String>
+		<String>FE10-FE1F</String>
+		<String>FE20-FE2F</String>
+		<String>FE30-FE6F</String>
+		<String>FE70-FEFE</String>
+		<String>FF00-FF60</String>
+		<String>FF61-FF9F</String>
+		<String>FFE0-FFEE</String>
+		<String>FFF0-FFFD</String>
+		<String>ASSEMBLY</String>
+		<String>BASELINE</String>
+		<String>DAUNPENH</String>
+		<String>EUPHEMIA</String>
+		<String>LANGUAGE</String>
+		<String>MSCORLIB</String>
+		<String>STRING X</String>
+		<String>32B1-32</String>
+		<String>GAUTAMI</String>
+		<String>KALINGA</String>
+		<String>KARTIKA</String>
+		<String>MV BOLI</String>
+		<String>STRETCH</String>
+		<String>SYLFAEN</String>
+		<String>UNICODE</String>
+		<String>XHEIGHT</String>
+		<String>ZH-HANS</String>
+		<String>ZH-HANT</String>
+		<String>FB1D-F</String>
+		<String>GLOBAL</String>
+		<String>MANGAL</String>
+		<String>MEIRYO</String>
+		<String>NORMAL</String>
+		<String>SHRUTI</String>
+		<String>SYSTEM</String>
+		<String>TARGET</String>
+		<String>VRINDA</String>
+		<String>WEIGHT</String>
+		<String>-32CB</String>
+		<String>-FDCF</String>
+		<String>EN-US</String>
+		<String>LATHA</String>
+		<String>NYALA</String>
+		<String>RAAVI</String>
+		<String>SCALE</String>
+		<String>SERIF</String>
+		<String>STYLE</String>
+		<String>TUNGA</String>
+		<String>WINFX</String>
+		<String>XMLNS</String>
+		<String>ZH-HK</String>
+		<String>-0.1</String>
+		<String>0.05</String>
+		<String>2006</String>
+		<String>202F</String>
+		<String>AL S</String>
+		<String>BOLD</String>
+		<String>HTTP</String>
+		<String>XAML</String>
+	</GlobalStrings>
+</TrID>

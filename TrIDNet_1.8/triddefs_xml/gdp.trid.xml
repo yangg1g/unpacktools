@@ -1,0 +1,63 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GUI Design Studio Project</FileType>
+		<Ext>GDP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.carettasoftware.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>6</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>36</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C50726F6A6563740A09434944203D2022</Bytes>
+			<ASCII> . P r o j e c t . . C I D   =   "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SIMSHOWBACKGROUNDSTARTDESIGNNAME</String>
+		<String>SIMBACKGROUNDTEXTPOSITION</String>
+		<String>SIMBACKGROUNDTEXTCOLOUR</String>
+		<String>SIMULATIONCOLOURSCHEME</String>
+		<String>SIMULATIONDEFFONTSCALE</String>
+		<String>SIMULATIONDEFTYPEFACE</String>
+		<String>SIMULATIONVISUALSTYLE</String>
+		<String>USEPROJECTVISUALSTYLE</String>
+		<String>CUSTOMELEMENTFOLDERS</String>
+		<String>SIMBACKGROUNDCOLOUR</String>
+		<String>SIMBROWSERBAROPTION</String>
+		<String>DESIGNCOLOURSCHEME</String>
+		<String>DESIGNDEFFONTSCALE</String>
+		<String>DESIGNDEFTYPEFACE</String>
+		<String>DESIGNVISUALSTYLE</String>
+		<String>SIMBACKGROUNDFILL</String>
+		<String>ORGANIZATION</String>
+		<String>RELATIVEPATH</String>
+		<String>DESCRIPTION</String>
+		<String>DATASETS</String>
+		<String>KEYWORDS</String>
+		<String>NEXTCID</String>
+		<String>OPTIONS</String>
+		<String>VERSION</String>
+		<String>AUTHOR</String>
+		<String>LINKS</String>
+	</GlobalStrings>
+</TrID>

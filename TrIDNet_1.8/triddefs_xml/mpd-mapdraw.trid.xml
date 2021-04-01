@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MapDraw chemical sequence map</FileType>
+		<Ext>MPD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.bimcore.emory.edu/Services/Lasergene/modules.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>16</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0000000100000065000000100000000300000065</Bytes>
+			<ASCII> . . . . . . . e . . . . . . . . . . . e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MPDDDNAS</String>
+		<String>MPDDDATA</String>
+		<String>MAPDRAW</String>
+		<String>FILTER</String>
+		<String>MAST</String>
+		<String>UVSI</String>
+		<String>MDEB</String>
+		<String>MDMI</String>
+		<String>MDEG</String>
+		<String>SEQU</String>
+		<String>UVSQ</String>
+	</GlobalStrings>
+</TrID>

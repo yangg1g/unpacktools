@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DESI-III drawing</FileType>
+		<Ext>DIN/BIN</Ext>
+		<ExtraInfo>
+			<Rem>DESI-III is a freeware 2D CAD software</Rem>
+			<RefURL>http://users.pandora.be/desi-iii/index.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>05</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>38</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>444553492D4949492D42494E2D56</Bytes>
+			<ASCII> D E S I - I I I - B I N - V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

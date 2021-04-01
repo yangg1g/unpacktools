@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>iMovie project (old ver.)</FileType>
+		<Ext>IMOVIEPROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/IMovie</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>04</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>694D6F7669652050726F6A6563742046696C65</Bytes>
+			<ASCII> i M o v i e   P r o j e c t   F i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>45787465726E616C2056657273696F6E3A20</Bytes>
+			<ASCII> E x t e r n a l   V e r s i o n :</ASCII>
+			<Pos>21</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TIMELINERELATIVEPLAYHEADPOS</String>
+		<String>VOLUMEMARKERVERSION</String>
+		<String>IMOVIE PROJECT FILE</String>
+		<String>EXTERNAL VERSION</String>
+		<String>PROJECTSELECTION</String>
+		<String>VIDEOSTANDARD</String>
+		<String>TIMELINEZOOM</String>
+		<String>AUDIOTRACK</String>
+		<String>FRAMES</String>
+	</GlobalStrings>
+</TrID>

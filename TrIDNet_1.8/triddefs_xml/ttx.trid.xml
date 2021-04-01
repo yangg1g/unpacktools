@@ -1,0 +1,70 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TRADOStag XML</FileType>
+		<Ext>TTX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/SDL_Trados</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>10</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>56</Min>
+			<Sec>6</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3C003F0078006D006C002000760065007200730069006F006E003D00270031002E00300027003F003E000D000A003C0054005200410044004F0053007400610067002000560065007200730069006F006E003D00220032002E00300022003E003C00460072006F006E0074004D00610074007400650072003E003C0054006F006F006C00530065007400740069006E006700730020004300720065006100740069006F006E0044006100740065003D002200</Bytes>
+			<ASCII> . . . . ? . x . m . l .   . v . e . r . s . i . o . n . = . ' . 1 . . . 0 . ' . ? . . . . . . . . . T . R . A . D . O . S . t . a . g .   . V . e . r . s . i . o . n . = . " . 2 . . . 0 . " . . . . . F . r . o . n . t . M . a . t . t . e . r . . . . . T . o . o . l . S . e . t . t . i . n . g . s .   . C . r . e . a . t . i . o . n . D . a . t . e . = . "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>T'O'O'L'S'E'T'T'I'N'G'S' 'C'R'E'A'T'I'O'N'D'A'T'E</String>
+		<String>U'S'E'R'S'E'T'T'I'N'G'S' 'D'A'T'A'T'Y'P'E</String>
+		<String>S'E'T'T'I'N'G'S'R'E'L'A'T'I'V'E'P'A'T'H</String>
+		<String>C'R'E'A'T'I'O'N'T'O'O'L'V'E'R'S'I'O'N</String>
+		<String>S'O'U'R'C'E'D'O'C'U'M'E'N'T'P'A'T'H</String>
+		<String>T'A'R'G'E'T'D'E'F'A'U'L'T'F'O'N'T</String>
+		<String>T'R'A'D'O'S'T'A'G' 'V'E'R'S'I'O'N</String>
+		<String>S'O'U'R'C'E'L'A'N'G'U'A'G'E</String>
+		<String>T'A'R'G'E'T'L'A'N'G'U'A'G'E</String>
+		<String>S'E'T'T'I'N'G'S'N'A'M'E</String>
+		<String>S'E'T'T'I'N'G'S'P'A'T'H</String>
+		<String>D'I'S'P'L'A'Y'T'E'X'T</String>
+		<String>F'R'O'N'T'M'A'T'T'E'R</String>
+		<String>X'M'L' 'V'E'R'S'I'O'N</String>
+		<String>O'-'E'N'C'O'D'I'N'G</String>
+		<String>P'L'U'G'I'N'I'N'F'O</String>
+		<String>S'D'L' 'T'R'A'D'O'S</String>
+		<String>R'I'G'H'T'E'D'G'E</String>
+		<String>E'X'T'E'R'N'A'L</String>
+		<String>L'E'F'T'E'D'G'E</String>
+		<String>U'T' 'S'T'Y'L'E</String>
+		<String>U'T' 'T'Y'P'E</String>
+		<String>A'N'G'L'E</String>
+		<String>S'T'A'R'T</String>
+		<String>I'N'S'T</String>
+		<String>I'T'O'R</String>
+		<String>P'R'O'C</String>
+		<String>A'N'S</String>
+		<String>C'O'N</String>
+		<String>D'I'T</String>
+		<String>E'N'D</String>
+		<String>G'E'N</String>
+		<String>R'A'W</String>
+	</GlobalStrings>
+</TrID>

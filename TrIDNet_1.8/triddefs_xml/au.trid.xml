@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Audacity audio block</FileType>
+		<Ext>AU</Ext>
+		<ExtraInfo>
+			<Rem>Audacity is a free audio editor.</Rem>
+			<RefURL>http://audacity.sourceforge.net</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>246</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>56</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>646E732E</Bytes>
+			<ASCII> d n s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000044AC0000010000004175646163697479426C6F636B46696C65</Bytes>
+			<ASCII> . . . D . . . . . . . A u d a c i t y B l o c k F i l e</ASCII>
+			<Pos>13</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,175 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Solid Edge Assembly Document</FileType>
+		<Ext>ASM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.solid-edge.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>123</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>55</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>D'Y'N'A'M'I'C' 'A'T'T'R'I'B'U'T'E'S' 'M'E'T'A'D'A'T'A</String>
+		<String>C'3'T'E'A'G'X'W'O'T'T'D'B'F'K'U'I'A'A'M'T'A'E'3'I'E</String>
+		<String>N'A'M'E' 'O'F' 'S'A'V'I'N'G' 'A'P'P'L'I'C'A'T'I'O'N</String>
+		<String>J'A'S'M'P'H'Y'S'I'C'A'L'P'R'O'P'E'R'T'I'E'S'A'T'T'R</String>
+		<String>S'S'Z'B'W'O'M'G'Y'1'U'D'B'2'W'H'A'A'Q'5'U'2'J'W'C'G</String>
+		<String>R'F'U'N'N'Y'D'1'A'V'T'D'B'F'K'U'I'A'A'M'T'A'E'3'I'E</String>
+		<String>D'O'C'U'M'E'N'T'S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>1'ASSOC SUBSYSTEM STANDARD RELATION IMPLEMENTATION</String>
+		<String>D'E'F'A'U'L'T'D'I'S'T'A'N'C'E'S'E'C'O'N'D'A'R'Y</String>
+		<String>D'E'F'A'U'L'T'D'I'S'T'A'N'C'E'P'R'E'C'I'S'I'O'N</String>
+		<String>M'I'C' 'A'T'T'R'I'B'U'T'E'S' 'S'E'T' 'T'A'B'L'E</String>
+		<String>D'E'F'A'U'L'T'D'I'S'T'A'N'C'E'T'E'R'T'I'A'R'Y</String>
+		<String>D'E'F'A'U'L'T'D'E'N'S'I'T'Y'P'R'E'C'I'S'I'O'N</String>
+		<String>+'OLE SUBSYSTEM SITES MANAGER IMPLEMENTATION</String>
+		<String>D'E'F'A'U'L'T'D'I'S'T'A'N'C'E'P'R'I'M'A'R'Y</String>
+		<String>D'E'F'A'U'L'T'V'O'L'U'M'E'P'R'E'C'I'S'I'O'N</String>
+		<String>D'E'F'A'U'L'T'D'E'N'S'I'T'Y'P'R'I'M'A'R'Y</String>
+		<String>D'E'F'A'U'L'T'A'N'G'L'E'S'E'C'O'N'D'A'R'Y</String>
+		<String>('OWNERSHIP IMPLEMENTATION - OWNER ENGINE</String>
+		<String>D'E'F'A'U'L'T'A'N'G'L'E'P'R'E'C'I'S'I'O'N</String>
+		<String>D'E'F'A'U'L'T'M'A'S'S'P'R'E'C'I'S'I'O'N</String>
+		<String>D'E'F'A'U'L'T'A'R'E'A'P'R'E'C'I'S'I'O'N</String>
+		<String>D'E'F'A'U'L'T'V'O'L'U'M'E'P'R'I'M'A'R'Y</String>
+		<String>D'E'F'A'U'L'T'A'N'G'L'E'T'E'R'T'I'A'R'Y</String>
+		<String>D'E'F'A'U'L'T'A'N'G'L'E'P'R'I'M'A'R'Y</String>
+		<String>$'ASSEMBLY PHYSICAL PROPERTIES OBJECT</String>
+		<String>D'E'F'A'U'L'T'D'I'S'T'A'N'C'E'M'O'D'E</String>
+		<String>CONFIGURATIONS COLLECTION OBJECT'''P</String>
+		<String>D'E'F'A'U'L'T'M'A'S'S'P'R'I'M'A'R'Y</String>
+		<String>D'E'F'A'U'L'T'A'R'E'A'P'R'I'M'A'R'Y</String>
+		<String>C'O'O'R'D'I'N'A'T'E'S'Y'S'T'E'M'S</String>
+		<String>E'F'I'N'I'T'I'O'N' 'M'A'N'A'G'E'R</String>
+		<String>INGR DOCUMENT WINDOWS COLLECTION</String>
+		<String>D'E'F'A'U'L'T'A'N'G'L'E'M'O'D'E</String>
+		<String>S'O'L'I'D' 'E'D'G'E' 'A'N'S'I</String>
+		<String>CONSTRAINTS COLLECTION OBJECT</String>
+		<String>P'S'M'S'E'G'M'E'N'T'T'A'B'L'E</String>
+		<String>D'E'F'A'U'L'T'A'R'E'A'M'O'D'E</String>
+		<String>P'S'M'C'L'U'S'T'E'R'T'A'B'L'E</String>
+		<String>INGR DOCUMENT STORAGE OBJECT</String>
+		<String>REFERENCES COLLECTION OBJECT</String>
+		<String>C'R'E'A'T'I'O'N'L'O'C'A'L'E</String>
+		<String>G'E'N'E'R'A'T'E'O'N'S'A'V'E</String>
+		<String>C'O'N'F'I'G'U'R'A'T'I'O'N'S</String>
+		<String>INGR PERSIST PREFERENCE DEX</String>
+		<String>G'R'A'P'H'I'C'S'U'P'P'O'R'T</String>
+		<String>S'O'L'I'D' 'E'D'G'E' 'I'S'O</String>
+		<String>P'S'M'C'L'U'S'T'E'R'0'''8</String>
+		<String>S'E'N'S'O'R'M'A'N'A'G'E'R</String>
+		<String>B'U'I'L'D'V'E'R'S'I'O'N'S</String>
+		<String>P'R'E'F'E'R'E'N'C'E'S'E'T</String>
+		<String>P'S'M'U'S'E'R'R'O'O'T'S</String>
+		<String>I'C'O'N'C'R'E'A'T'I'O'N</String>
+		<String>D'O'C'U'M'E'N'T' 'N'U'M</String>
+		<String>P'R'O'J'E'C'T' 'N'A'M'E</String>
+		<String>S'T'Y'L'E'M'A'N'A'G'E'R</String>
+		<String>S'T'O'R'E'P'R'E'V'I'E'W</String>
+		<String>ASSEMBLY TOP LEVEL OWNE</String>
+		<String>P'S'M'T'Y'P'E'T'A'B'L'E</String>
+		<String>A'N'S'I' '('I'N'C'H')</String>
+		<String>JDIMPARAMETERS OBJECT</String>
+		<String>R'O'U'T'I'N'G'S'L'I'P</String>
+		<String>P'S'M'S'P'A'C'E'M'A'P</String>
+		<String>J'A'S'M'R'E'F'A'T'T'R</String>
+		<String>D'O'C'V'E'R'S'I'O'N'2</String>
+		<String>R'E'F'A'T'T'R'.'T'L'B</String>
+		<String>C'O'N'S'T'R'A'I'N'T'S</String>
+		<String>A'T'T'A'C'H'M'E'N'T'S</String>
+		<String>S'I'T'E'O'B'J'E'C'T'S</String>
+		<String>L'I'B' 'L'O'C'A'T'E'R</String>
+		<String>J'P'R'O'P'E'R'T'I'E'S</String>
+		<String>JASMGROUNDCONSTRAINT</String>
+		<String>REFERENCEPLANEOBJECT</String>
+		<String>JASMPLANARCONSTRAINT</String>
+		<String>N'A'M'E'S'E'R'V'E'R</String>
+		<String>J'S'I'T'E'S'L'I'S'T</String>
+		<String>D'O'C'U'M'E'N'T'I'D</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>VIEW SET OBJECT'''A</String>
+		<String>C'U'T'A'W'A'Y' 'D</String>
+		<String>P'A'R'A'S'O'L'I'D</String>
+		<String>I'S'O'M'E'T'R'I'C</String>
+		<String>JASMCONSTRUCTIONS</String>
+		<String>_'S'U'P'P'O'R'T'O</String>
+		<String>A'N'S'I' '('M'M')</String>
+		<String>JVIEWSTYLE OBJECT</String>
+		<String>JASMEXPLOSIONMGR</String>
+		<String>E'W'F'I'L'T'E'R</String>
+		<String>P'S'M'R'O'O'T'S</String>
+		<String>JSTYLE3D OBJECT</String>
+		<String>R'E'V'I'S'I'O'N</String>
+		<String>A'S'S'E'M'B'L'Y</String>
+		<String>P'A'T'T'E'R'N'S</String>
+		<String>U'S'E'R'N'A'M'E</String>
+		<String>L'I'B'R'A'R'Y'0</String>
+		<String>TYPELIBLOCATER</String>
+		<String>JSENSORMANAGER</String>
+		<String>JASMVIEWFILTER</String>
+		<String>JASMVARIABLES</String>
+		<String>O'C'S'T'O'R'E</String>
+		<String>ATTRSETVALUES</String>
+		<String>D'I'S'P'L'A'Y</String>
+		<String>STYLE MANAGER</String>
+		<String>W'I'N'D'O'W'S</String>
+		<String>JASMREFPLANE</String>
+		<String>ATTRSETTABLE</String>
+		<String>OWNER OBJECT</String>
+		<String>NAME MANAGER</String>
+		<String>JASMPATTERNS</String>
+		<String>PARTDEX.DLL</String>
+		<String>JASMLAYOUTS</String>
+		<String>VIEW OBJECT</String>
+		<String>S'T'A'T'U'S</String>
+		<String>J'A'S'M'V'I</String>
+		<String>S'T'Y'L'E'S</String>
+		<String>COORDINATE</String>
+		<String>SENSOR.DLL</String>
+		<String>NAMESERVER</String>
+		<String>ATTRSETDEF</String>
+		<String>DBATCH.DLL</String>
+		<String>DEFINITION</String>
+		<String>AEASM.DEX</String>
+		<String>MEMBASSY</String>
+		<String>SEMANTIC</String>
+		<String>CUTAWAY</String>
+		<String>ROUTING</String>
+		<String>SOLID</String>
+		<String>O'L'E</String>
+		<String>L'I'N</String>
+		<String>O'N'T</String>
+		<String>.ASM</String>
+		<String>STAB</String>
+		<String>LIST</String>
+		<String>ROOT</String>
+		<String>CLST</String>
+		<String>EDGE</String>
+		<String>EPYT</String>
+		<String>OLES</String>
+		<String>SSEG</String>
+		<String>OLEM</String>
+	</GlobalStrings>
+</TrID>

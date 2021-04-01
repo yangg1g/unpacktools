@@ -1,0 +1,65 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AlpineQuest Map</FileType>
+		<Ext>AQM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://alpinequest.psyberia.net</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>13</Min>
+			<Sec>1</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>464C41545041434B31</Bytes>
+			<ASCII> F L A T P A C K 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>V2HEADER'0'V2LEVEL'1</String>
+		<String>BACKGROUND</String>
+		<String>DATASOURCE</String>
+		<String>PROJECTION</String>
+		<String>COPYRIGHT</String>
+		<String>FLATPACK1</String>
+		<String>IMGFORMAT</String>
+		<String>MERCATOR</String>
+		<String>SOFTWARE</String>
+		<String>XTOFFSET</String>
+		<String>YTOFFSET</String>
+		<String>VERSION</String>
+		<String>XTRATIO</String>
+		<String>YTRATIO</String>
+		<String>SPHERE</String>
+		<String>XTSIZE</String>
+		<String>YTSIZE</String>
+		<String>GEOID</String>
+		<String>IDATX</String>
+		<String>SCALE</String>
+		<String>XTMAX</String>
+		<String>XTMIN</String>
+		<String>YTMAX</String>
+		<String>YTMIN</String>
+		<String>DATE</String>
+		<String>IEND</String>
+		<String>IHDR</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

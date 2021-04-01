@@ -1,0 +1,68 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MX-850 Remote Control configuration</FileType>
+		<Ext>MXD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.universalremote.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>20</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>21002500</Bytes>
+			<ASCII> ! . % .</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D582D38353020456469746F72202056657273696F6E20</Bytes>
+			<ASCII> M X - 8 5 0   E d i t o r     V e r s i o n</ASCII>
+			<Pos>451</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>475</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MX-850 EDITOR  VERSION</String>
+		<String>HARD BUTTONS</String>
+		<String>POWER OFF</String>
+		<String>POWER ON</String>
+		<String>PRE CH</String>
+		<String>SELECT</String>
+		<String>AUDIO</String>
+		<String>PAUSE</String>
+		<String>ENTER</String>
+		<String>ANGLE</String>
+		<String>RIGHT</String>
+		<String>GUIDE</String>
+		<String>MENU</String>
+		<String>DOWN</String>
+		<String>MUTE</String>
+		<String>EXIT</String>
+		<String>PLAY</String>
+		<String>PAGE</String>
+		<String>INFO</String>
+		<String>LEFT</String>
+		<String>STOP</String>
+		<String>VOL+</String>
+		<String>VOL-</String>
+	</GlobalStrings>
+</TrID>

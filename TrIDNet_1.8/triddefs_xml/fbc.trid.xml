@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FamilyTree Maker compressed backup</FileType>
+		<Ext>FBC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.familytreemaker.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>36</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>46616D696C792054726565204D616B657220</Bytes>
+			<ASCII> F a m i l y   T r e e   M a k e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BACKUP FILE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>QLAY MDV image</FileType>
+        <Ext>MDV</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://web.inter.nl.net/hcc/A.Jaw.Venema/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>5</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>15</Day>
+        </Date>
+        <Time>
+            <Hour>20</Hour>
+            <Min>06</Min>
+            <Sec>40</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>00000000000000000000FFFFFF00</Bytes>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

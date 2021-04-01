@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AnyRail model railroad layout</FileType>
+		<Ext>ANY</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.anyrail.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>38</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>01</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>57</Min>
+			<Sec>56</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1600000073657269616C697A6174696F6E3A3A61726368697665</Bytes>
+			<ASCII> . . . . s e r i a l i z a t i o n : : a r c h i v e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>416E795261696C</Bytes>
+			<ASCII> A n y R a i l</ASCII>
+			<Pos>39</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TURNOUT</String>
+	</GlobalStrings>
+</TrID>

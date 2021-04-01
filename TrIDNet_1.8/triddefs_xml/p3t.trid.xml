@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PlayStation 3 Theme</FileType>
+		<Ext>P3T</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Joseph Castine</User>
+		<E-Mail>windedhero@gmail.com</E-Mail>
+		<Home>http://www.windedhero.com</Home>
+	</Info>
+	<General>
+		<FileNum>2050</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>12</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>46</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5033544600000110000000400000</Bytes>
+			<ASCII> P 3 T F . . . . . . . @</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ICONTABLE</String>
+		<String>INFOTABLE</String>
+		<String>VERSION</String>
+		<String>THEME</String>
+		<String>FONT</String>
+		<String>NAME</String>
+		<String>P3TF</String>
+	</GlobalStrings>
+</TrID>

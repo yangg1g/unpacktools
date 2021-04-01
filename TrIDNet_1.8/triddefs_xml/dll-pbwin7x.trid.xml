@@ -1,0 +1,100 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DLL PowerBASIC/Win 7.x</FileType>
+		<Ext>DLL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.powerbasic.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>23</FileNum>
+		<Refine>5 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>43</Min>
+			<Sec>08</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A0A000200000004000F00FFFF0000C00000000000000040000000000000000000000000000000000000000000000000000000000000000000000080000000B409BA10000E1FCD21B8014CCD2190905468697320697320612057696E33322070726F6772616D2E0D0A24000000000000000000000000000000000000000000504500004C01</Bytes>
+			<ASCII> M Z . . . . . . . . . . . . . . . . . . . . . . @ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ! . . L . ! . . T h i s   i s   a   W i n 3 2   p r o g r a m . . . $ . . . . . . . . . . . . . . . . . . . . . P E . . L</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00393000000000000000000000E0000E230B010234</Bytes>
+			<ASCII> . 9 0 . . . . . . . . . . . . . # . . . 4</ASCII>
+			<Pos>135</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002E74657874002020</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . t e x t</ASCII>
+			<Pos>294</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000040000000000000000000000000000200000602E64617461002020</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . .   . . ` . d a t a</ASCII>
+			<Pos>395</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000000400000C02E6C696E6B002020</Bytes>
+			<ASCII> . . . . . . . . . . . . . @ . . . . l i n k</ASCII>
+			<Pos>439</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>$'''''''''''''''''''''PE''L</String>
+		<String>.DATA</String>
+		<String>.LINK</String>
+		<String>.RLOC</String>
+		<String>.TEXT</String>
+		<String>ADVAPI32.DLL</String>
+		<String>CHAR</String>
+		<String>CLEAR</String>
+		<String>CLOSEHANDLE</String>
+		<String>CREATE</String>
+		<String>DESCRIPTION</String>
+		<String>EXITPROCESS</String>
+		<String>FLOATINGPOINTPROCESSOR'H</String>
+		<String>FLUSHFILEBUFFERS</String>
+		<String>GETCOMMANDLINEA</String>
+		<String>GETENVIRONMENTSTRINGSA</String>
+		<String>GETLASTERROR</String>
+		<String>GETMODULEHANDLEA</String>
+		<String>GETSTARTUPINFOA</String>
+		<String>GETSYSTEMINFO</String>
+		<String>GETVERSIONEXA</String>
+		<String>GLOBALALLOC</String>
+		<String>GLOBALFREE</String>
+		<String>KERNEL32.DLL</String>
+		<String>OLEAUT32.DLL</String>
+		<String>POWERBASIC'CONIN$'TCP</String>
+		<String>READFILE</String>
+		<String>RECT</String>
+		<String>REGCLOSEKEY</String>
+		<String>REGOPENKEYEXA</String>
+		<String>SETENDOFFILE</String>
+		<String>SETERRORMODE</String>
+		<String>SETFILEPOINTER</String>
+		<String>SETLASTERROR</String>
+		<String>SLEEP</String>
+		<String>SYSALLOCSTRINGBYTELEN</String>
+		<String>SYSFREESTRING</String>
+		<String>SYSSTRINGBYTELEN</String>
+		<String>THIS IS A WIN32 PROGRAM.</String>
+		<String>TWINDOW</String>
+		<String>USER32.DLL</String>
+		<String>WRITEFILE</String>
+	</GlobalStrings>
+</TrID>

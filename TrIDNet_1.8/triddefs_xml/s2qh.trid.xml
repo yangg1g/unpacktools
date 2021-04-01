@@ -1,0 +1,65 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>StarCraft 2 Localization Header</FileType>
+		<Ext>S2QH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>08</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>30</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7B226D5F68616E646C65223A7B226D5F6964223A</Bytes>
+			<ASCII> { " m _ h a n d l e " : { " m _ i d " :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>M_PREMADETEAMSATTRIBUTE</String>
+		<String>M_DEFINITIONHANDLELIST</String>
+		<String>M_COMPUTERTEAMCOUNT</String>
+		<String>M_STRINGFILETABLE</String>
+		<String>M_VISUALFILEINDEX</String>
+		<String>5332514C00555342</String>
+		<String>M_MAGICUINUMBER</String>
+		<String>M_DESCRIPTION</String>
+		<String>M_VISUALFILES</String>
+		<String>M_NAMESPACE</String>
+		<String>M_FILEINDEX</String>
+		<String>M_TEAMCOUNT</String>
+		<String>M_TEAMSIZE</String>
+		<String>M_PROGRAM</String>
+		<String>M_VERSION</String>
+		<String>M_LOCALES</String>
+		<String>M_HEIGHT</String>
+		<String>M_HANDLE</String>
+		<String>M_ACTIVE</String>
+		<String>M_REGION</String>
+		<String>M_WIDTH</String>
+		<String>M_TAGS</String>
+		<String>M_MAPS</String>
+		<String>M_LEFT</String>
+		<String>M_ICON</String>
+		<String>M_TOP</String>
+		<String>M_ID</String>
+		<String>ENUS</String>
+	</GlobalStrings>
+</TrID>

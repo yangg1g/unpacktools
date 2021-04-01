@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>AutoCAD R13 drawing</FileType>
+        <Ext>DWG</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.autodesk.com</RefURL>
+        </ExtraInfo>
+        <User>Stefano Gaggioli</User>
+        <E-Mail>stefanogaggioli@NOSPAM@tin.it</E-Mail>
+        <Home>http://space.tin.it/computer/stefanogaggioli</Home>
+    </Info>
+    <General>
+        <FileNum>108</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>18</Day>
+        </Date>
+        <Time>
+            <Hour>12</Hour>
+            <Min>09</Min>
+            <Sec>22</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>414331303132</Bytes>
+            <ASCII> A C 1 0 1 2</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

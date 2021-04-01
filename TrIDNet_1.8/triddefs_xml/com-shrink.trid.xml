@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Shrink packed DOS Command</FileType>
+		<Ext>COM</Ext>
+		<ExtraInfo>
+			<Rem>Shrink is a DOS 16bit Program Compression Utility Copyright (c) 1988 Thomas G. Hanlin III</Rem>
+			<RefURL>http://www.bookcase.com/library/software/msdos.archive.compress.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>06</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>44</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>509CFCBE1F01BF007E57B93400F3A48B0E1C01BE5201BFE880F3A4C3</Bytes>
+			<ASCII> P . . . . . . . ~ W . 4 . . . . . . . . R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>BEE8808B0E1C018A261E01BF000157AC3AC474108AD8AAE2F65B9D58538BD98BF18BF9C3AC0AC074ED4986C3AAFECB75FBEBE4</Bytes>
+			<ASCII> . . . . . . . . . . . . . . W . : . t . . . . . . [ . X S . . . . . . . . . . t . I . . . . . u</ASCII>
+			<Pos>31</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

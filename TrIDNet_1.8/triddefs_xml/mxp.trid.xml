@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Macromedia Extension Package</FileType>
+		<Ext>MXP</Ext>
+		<ExtraInfo>
+			<Rem>Extensions add new capabilities, actions and commands to Macromedia programs such as Flash, Dreamweaver, Freehand and Fireworks.</Rem>
+			<RefURL>http://exchange.macromedia.com</RefURL>
+		</ExtraInfo>
+		<User>Alex Paven</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>137</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>04</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>59</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00000001000000</Bytes>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>9</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.MXI</String>
+	</GlobalStrings>
+</TrID>

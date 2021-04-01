@@ -1,0 +1,66 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Affymetrix Probe Results (Text)</FileType>
+		<Ext>CEL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.affymetrix.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>32</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B43454C5D0D0A56657273696F6E3D</Bytes>
+			<ASCII> [ C E L ] . . V e r s i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ALGORITHMPARAMETERS</String>
+		<String>AXIS-INVERTX</String>
+		<String>GRIDCORNERLL</String>
+		<String>GRIDCORNERLR</String>
+		<String>GRIDCORNERUL</String>
+		<String>GRIDCORNERUR</String>
+		<String>AXISINVERTY</String>
+		<String>NUMBERCELLS</String>
+		<String>OUTLIERHIGH</String>
+		<String>CELLHEADER</String>
+		<String>CELLMARGIN</String>
+		<String>OUTLIERLOW</String>
+		<String>PERCENTILE</String>
+		<String>DATHEADER</String>
+		<String>INTENSITY</String>
+		<String>MODIFIED</String>
+		<String>ORIGMEAN</String>
+		<String>OUTLIERS</String>
+		<String>NPIXELS</String>
+		<String>OFFSETX</String>
+		<String>OFFSETY</String>
+		<String>VERSION</String>
+		<String>SWAPXY</String>
+		<String>TOTALX</String>
+		<String>TOTALY</String>
+		<String>MASKS</String>
+		<String>COLS</String>
+		<String>ROWS</String>
+		<String>STDV</String>
+	</GlobalStrings>
+</TrID>

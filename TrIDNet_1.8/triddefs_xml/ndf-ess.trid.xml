@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ESET Smart Security Quarantine Data</FileType>
+		<Ext>NDF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://es.wikipedia.org/wiki/ESET_Smart_Security</RefURL>
+		</ExtraInfo>
+		<User>Ryan Jones</User>
+		<E-Mail>ryan.jones@ccc-cymru.com</E-Mail>
+		<Home>http://ccc-cymru.com</Home>
+	</Info>
+	<General>
+		<FileNum>26</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>03</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>20</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>45514446BB0B000001000000</Bytes>
+			<ASCII> E Q D F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NIWI</String>
+		<String>EQDF</String>
+	</GlobalStrings>
+</TrID>

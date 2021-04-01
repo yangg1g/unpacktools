@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Panasonic SD Voice</FileType>
+		<Ext>VM1</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.panasonic.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>03</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>28</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>020050616E61736F6E696320534420566F696365</Bytes>
+			<ASCII> . . P a n a s o n i c	S D   V o i c e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>545243</Bytes>
+			<ASCII> T R C</ASCII>
+			<Pos>26</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

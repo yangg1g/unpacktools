@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>StepMania Course</FileType>
+		<Ext>CRS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.stepmania.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>59</Min>
+			<Sec>08</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23434F555253453A</Bytes>
+			<ASCII> # C O U R S E :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COURSE</String>
+		<String>SONG</String>
+	</GlobalStrings>
+</TrID>

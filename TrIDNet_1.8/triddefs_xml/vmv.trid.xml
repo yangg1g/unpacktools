@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VirtuaNES movie capture</FileType>
+		<Ext>VMV</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://virtuanes.s1.xrea.com:8080/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>31</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5669727475614E4553204D56</Bytes>
+			<ASCII> V i r t u a N E S   M V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

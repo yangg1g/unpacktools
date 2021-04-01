@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HEC-RAS Geometry file</FileType>
+		<Ext>G01/G02/G99</Ext>
+		<ExtraInfo>
+			<Rem>Extension can range from G01 to G99.</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>06</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>47656F6D205469746C653D</Bytes>
+			<ASCII> G e o m   T i t l e =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NODE LAST EDITED TIME</String>
+		<String>REVERSE RIVER TEXT</String>
+		<String>VIEWING RECTANGLE</String>
+		<String>TYPE RM LENGTH</String>
+		<String>CHAN STOP CUTS</String>
+		<String>RCH TEXT X Y</String>
+		<String>RIVER REACH</String>
+		<String>GEOM TITLE</String>
+		<String>REACH XY</String>
+		<String>BANK STA</String>
+		<String>VERSION</String>
+		<String>MANN</String>
+		<String>CNTR</String>
+		<String>ELEV</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>KeePass Password Safe database</FileType>
+		<Ext>KDB/KDBX</Ext>
+		<ExtraInfo>
+			<Rem>KeePass is a free, open-source, light-weight and easy-to-use password manager.</Rem>
+			<RefURL>http://keepass.sourceforge.net</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>5</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>37</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>03D9A29A</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FB4BB5</Bytes>
+			<ASCII> . K</ASCII>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

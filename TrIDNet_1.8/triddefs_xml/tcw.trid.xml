@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TurboCAD drawing</FileType>
+		<Ext>TCW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.turbocad.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>30</FileNum>
+		<Refine>10 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>03</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>V'E'R'S'I'O'N'I'N'F'O</String>
+		<String>TURBOCAD FOR WINDOWS</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>$SPIRENUMB</String>
+		<String>$AUXILIARY</String>
+		<String>CAMERA</String>
+		<String>FILTER</String>
+		<String>EMENT</String>
+		<String>OPEN</String>
+		<String>DIMT</String>
+		<String>APER</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TrendMicro HouseCall Cleaner database</FileType>
+		<Ext>PTN</Ext>
+		<ExtraInfo>
+			<Rem>Part of TrendMicro House Call DCE (Damage Cleaneup Engine)</Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Kieran O'Donnell</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>11</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>00</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5452454E4420</Bytes>
+			<ASCII> T R E N D  </ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000000000</Bytes>
+			<Pos>40</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TREND</String>
+	</GlobalStrings>
+</TrID>

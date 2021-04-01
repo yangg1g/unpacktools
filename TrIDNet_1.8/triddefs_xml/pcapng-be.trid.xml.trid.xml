@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Wireshark PCAP Next Generation Dump File Format (Big Endian)</FileType>
+		<Ext>PCAPNG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://wiki.wireshark.org/Development/PcapNg</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>7</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>44</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0A0D0D0A</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>1A2B3C4D</Bytes>
+			<ASCII> . + . M</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

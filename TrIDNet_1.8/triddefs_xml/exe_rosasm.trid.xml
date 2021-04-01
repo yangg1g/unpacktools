@@ -1,0 +1,78 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Win32 EXE RosAsm</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://betov.free.fr/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>29</FileNum>
+		<Refine>6 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>07</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>23</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A</Bytes>
+			<ASCII> M Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000004000000FFFF0000B8000000000000004000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . @</ASCII>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>800000000E1FBA0E00B409CD21B8014CCD215370696E646F7A203332207370697420504566696C65206D6164652077697A</Bytes>
+			<ASCII> . . . . . . . . . . . . ! . . L . ! S p i n d o z   3 2   s p i t   P E f i l e   m a d e   w i z</ASCII>
+			<Pos>60</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>41736D20417373656D626C65722E24504500004C01</Bytes>
+			<ASCII> A s m   A s s e m b l e r . $ P E . . L</ASCII>
+			<Pos>113</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000000000000000000000000000000000000000000000002E69646174610000</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . i d a t a</ASCII>
+			<Pos>350</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000040000000000000000000000000000400000C02E</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . @</ASCII>
+			<Pos>394</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SPINDOZ 32 SPIT PEFILE MADE WIZ</String>
+		<String>KERNEL32.EXITPROCESS</String>
+		<String>ASM ASSEMBLER.$PE''L</String>
+		<String>KERNEL32.DLL</String>
+		<String>.IDATA</String>
+		<String>.TEXT</String>
+		<String>.SRC</String>
+		<String>MAIN</String>
+		<String>PUSH</String>
+		<String>CALL</String>
+		<String>TION</String>
+	</GlobalStrings>
+</TrID>

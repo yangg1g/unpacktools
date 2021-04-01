@@ -1,0 +1,82 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ACI development appraisal data</FileType>
+		<Ext>ACI</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.aciweb.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>16</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5241504944216500</Bytes>
+			<ASCII> R A P I D ! e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>526F6F7420456E747279</Bytes>
+			<ASCII> R o o t   E n t r y</ASCII>
+			<Pos>1024</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CONFIGURATION</String>
+		<String>CONFIG.INI</String>
+		<String>FILENUMBER</String>
+		<String>ROOT ENTRY</String>
+		<String>APPRAISER</String>
+		<String>BORROWER</String>
+		<String>COMMENTS</String>
+		<String>PROPERTY</String>
+		<String>ADDRESS</String>
+		<String>CONTACT</String>
+		<String>FINANCE</String>
+		<String>INSPECT</String>
+		<String>SPECIAL</String>
+		<String>AMOUNT</String>
+		<String>ASSIGN</String>
+		<String>CLIENT</String>
+		<String>COUNTY</String>
+		<String>ESTATE</String>
+		<String>SFILEN</String>
+		<String>SIGNED</String>
+		<String>ORDER</String>
+		<String>PHONE</String>
+		<String>PRICE</String>
+		<String>RAPID</String>
+		<String>TIONS</String>
+		<String>TRANS</String>
+		<String>CENS</String>
+		<String>CERT</String>
+		<String>CITY</String>
+		<String>CODE</String>
+		<String>DATE</String>
+		<String>ERCE</String>
+		<String>FORM</String>
+		<String>LAST</String>
+		<String>MARY</String>
+		<String>NAME</String>
+		<String>SALE</String>
+		<String>TPHO</String>
+		<String>TRAC</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

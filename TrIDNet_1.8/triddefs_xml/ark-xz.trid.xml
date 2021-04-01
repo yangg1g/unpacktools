@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>xz container</FileType>
+		<Ext>XZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://tukaani.org/xz/format.html</RefURL>
+		</ExtraInfo>
+		<User>Erik Siers</User>
+		<E-Mail>eriksiers-at-bmi-dot-net</E-Mail>
+		<Home>https://sourceforge.net/users/eriksiers</Home>
+	</Info>
+	<General>
+		<FileNum>197</FileNum>
+		<Refine>5 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>12</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>39</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FD377A585A00</Bytes>
+			<ASCII> . 7 z X Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

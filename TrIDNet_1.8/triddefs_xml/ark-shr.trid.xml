@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>shar - SHell aRchive</FileType>
+		<Ext>SHR</Ext>
+		<ExtraInfo>
+			<Rem>The files in a shell archive are concatenated without compression, and the resultant archive is essentially a shell script.</Rem>
+			<RefURL>http://www.stat.umn.edu/HELP/files.html#11</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>02</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>27</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2321</Bytes>
+			<ASCII> # !</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>THIS IS A SHELL ARCHIVE</String>
+		<String>DIRECTORY</String>
+		<String>CONTAINS</String>
+		<String>WRITTEN</String>
+		<String>IF TEST</String>
+		<String>EXIT 0</String>
+		<String>BEGIN</String>
+		<String>CHMOD</String>
+		<String>CLASS</String>
+		<String>WILL</String>
+		<String>ECHO</String>
+		<String>ELSE</String>
+		<String>NAME</String>
+		<String>NULL</String>
+		<String>FILE</String>
+		<String>THEN</String>
+		<String>WC -</String>
+	</GlobalStrings>
+</TrID>

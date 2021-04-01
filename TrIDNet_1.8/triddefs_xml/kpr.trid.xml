@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>KOffice KPresenter Presentation</FileType>
+		<Ext>KPR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.koffice.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>08</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>1F8B0808</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00034B4F6666696365206170706C69636174696F6E2F782D6B70726573656E746572</Bytes>
+			<ASCII> . . K O f f i c e   a p p l i c a t i o n / x - k p r e s e n t e r</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>KOFFICE APPLICATION</String>
+		<String>X-KPRESENTER</String>
+	</GlobalStrings>
+</TrID>

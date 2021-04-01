@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>zx-state snapshot</FileType>
+		<Ext>SZX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.spectaculator.com/docs/zx-state/intro.shtml</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>09</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>03</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5A585354</Bytes>
+			<ASCII> Z X S T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43525452</Bytes>
+			<ASCII> C R T R</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

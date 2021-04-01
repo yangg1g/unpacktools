@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Maxwell Render Scene</FileType>
+		<Ext>MXS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.maxwellrender.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>29</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>F9B22AD1</Bytes>
+			<ASCII> . . *</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>$DO INDIRECT REFLECTION CAUSTIC LAYER</String>
+		<String>$DO INDIRECT REFRACTION CAUSTIC LAYER</String>
+		<String>DO DIRECT REFLECTION CAUSTIC LAYER</String>
+		<String>DO DIRECT REFRACTION CAUSTIC LAYER</String>
+		<String>DO ZBUFFER CHANNEL</String>
+		<String>DO INDIRECT LAYER</String>
+		<String>DO RENDER CHANNEL</String>
+		<String>TONEMAPPING BASIC</String>
+		<String>CAMERA THIN LENS</String>
+		<String>DO ALPHA CHANNEL</String>
+		<String>DO DIRECT LAYER</String>
+		<String>DO COOPERATIVE</String>
+		<String>SAMPLING LEVEL</String>
+		<String>SKY PHYSICAL</String>
+		<String>NUM THREADS</String>
+		<String>AL CHANNEL</String>
+		<String>MXI RESUME</String>
+		<String>STOP TIME</String>
+		<String>MATERIAL</String>
+		<String>ENGINE</String>
+		<String>REGION</String>
+		<String>MESH</String>
+	</GlobalStrings>
+</TrID>

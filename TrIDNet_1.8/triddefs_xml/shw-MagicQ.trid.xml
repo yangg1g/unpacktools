@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MagicQ Show</FileType>
+		<Ext>SHW</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://chamsys.co.uk/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>11</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>12</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5C204D61676963512053686F772046696C652E204368616D737973204C74642E20207777772E6368616D7379732E636F2E756B</Bytes>
+			<ASCII> \   M a g i c Q   S h o w   F i l e .   C h a m s y s   L t d .     w w w . c h a m s y s . c o . u k</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MAGICQ SHOW FILE. CHAMSYS LTD.  WWW.CHAMSYS.CO.UK</String>
+		<String>SHOW SAVED AS</String>
+		<String>CUE STACKS</String>
+		<String>PALETTES</String>
+		<String>OUTPUTS</String>
+		<String>PROG</String>
+	</GlobalStrings>
+</TrID>

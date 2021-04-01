@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Password Boss data</FileType>
+		<Ext>PWB</Ext>
+		<ExtraInfo>
+			<Rem>Password Boss is a password keeping tool.</Rem>
+			<RefURL>http://www.ammosoft.com/</RefURL>
+		</ExtraInfo>
+		<User>kif aka AC</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>05</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>11</Min>
+			<Sec>05</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5042312E</Bytes>
+			<ASCII> P B 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>312E</Bytes>
+			<ASCII> 1</ASCII>
+			<Pos>6</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>30</Bytes>
+			<ASCII> 0</ASCII>
+			<Pos>9</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

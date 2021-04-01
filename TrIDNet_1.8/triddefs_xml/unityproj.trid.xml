@@ -1,0 +1,109 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Unity 3D Project</FileType>
+		<Ext>UNITYPROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Unity_(game_engine)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2014</Year>
+			<Month>1</Month>
+			<Day>2</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>59</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D227574662D38223F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u t f - 8 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ADD YOUR TASK INSIDE ONE OF THE TARGETS BELOW AND UNCOMMENT IT.</String>
+		<String>OTHER SIMILAR EXTENSION POINTS EXIST</String>
+		<String>-- TO MODIFY YOUR BUILD PROCESS</String>
+		<String>SEE MICROSOFT.COMMON.TARGETS.</String>
+		<String>MICROSOFT.CSHARP.TARGETS</String>
+		<String>CONFIGURATION CONDITION</String>
+		<String>PROPERTYGROUP CONDITION</String>
+		<String>TARGETFRAMEWORKVERSION</String>
+		<String>SCHEMAS.MICROSOFT.COM</String>
+		<String>ASSEMBLY-UNITYSCRIPT</String>
+		<String>PROJECT TOOLSVERSION</String>
+		<String>$(MSBUILDTOOLSPATH)</String>
+		<String>PLATFORM CONDITION</String>
+		<String>APPDESIGNERFOLDER</String>
+		<String>REFERENCE INCLUDE</String>
+		<String>$(CONFIGURATION)</String>
+		<String>COMPILE INCLUDE</String>
+		<String>DEFINECONSTANTS</String>
+		<String>ENABLE_GENERICS</String>
+		<String>ENABLE_PROFILER</String>
+		<String>UNITYEDITOR.DLL</String>
+		<String>UNITYENGINE.DLL</String>
+		<String>DEFAULTTARGETS</String>
+		<String>ENABLE_NETWORK</String>
+		<String>ENABLE_TERRAIN</String>
+		<String>IMPORT PROJECT</String>
+		<String>PRODUCTVERSION</String>
+		<String>FILEALIGNMENT</String>
+		<String>ROOTNAMESPACE</String>
+		<String>SCHEMAVERSION</String>
+		<String>ASSEMBLYNAME</String>
+		<String>DEBUGSYMBOLS</String>
+		<String>ENABLE_CLOTH</String>
+		<String>UNITY_EDITOR</String>
+		<String>WARNINGLEVEL</String>
+		<String>$(PLATFORM)</String>
+		<String>BEFOREBUILD</String>
+		<String>ERRORREPORT</String>
+		<String>PROJECTGUID</String>
+		<String>SYSTEM.CORE</String>
+		<String>TARGET NAME</String>
+		<String>XML VERSION</String>
+		<String>AFTERBUILD</String>
+		<String>ENABLE_WWW</String>
+		<String>OUTPUTPATH</String>
+		<String>OUTPUTTYPE</String>
+		<String>PROPERTIES</String>
+		<String>SYSTEM.XML</String>
+		<String>DEBUGTYPE</String>
+		<String>DEVELOPER</String>
+		<String>ITEMGROUP</String>
+		<String>ENCODING</String>
+		<String>HINTPATH</String>
+		<String>OPTIMIZE</String>
+		<String>LIBRARY</String>
+		<String>MANAGED</String>
+		<String>PDBONLY</String>
+		<String>RELEASE</String>
+		<String>ANYCPU</String>
+		<String>ASSETS</String>
+		<String>NOWARN</String>
+		<String>PROMPT</String>
+		<String>STANDA</String>
+		<String>FALSE</String>
+		<String>TRACE</String>
+		<String>UTF-8</String>
+		<String>XMLNS</String>
+		<String>2003</String>
+		<String>FULL</String>
+		<String>HTTP</String>
+		<String>TEMP</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TechSoft 2D Design drawing</FileType>
+		<Ext>DTD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.techsoftuk.co.uk/2dv2.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>39</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0764743264647464</Bytes>
+			<ASCII> . d t 2 d d t d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

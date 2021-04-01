@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TagInfo data</FileType>
+		<Ext>TAG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>01</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>55</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B546167496E666F5D0D0A436F6D70616E793D</Bytes>
+			<ASCII> [ T a g I n f o ] . . C o m p a n y =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>APPLICATION</String>
+		<String>CATEGORY</String>
+		<String>COMPANY</String>
+		<String>TAGINFO</String>
+		<String>VERSION</String>
+		<String>MISC</String>
+	</GlobalStrings>
+</TrID>

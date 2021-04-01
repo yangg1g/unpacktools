@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Blzzard Manifest</FileType>
+		<Ext>MFIL</Ext>
+		<ExtraInfo>
+			<Rem>(used for downloading patches / updates)</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Blizzard_Entertainment</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>59</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>76657273696F6E3D</Bytes>
+			<ASCII> v e r s i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A7365727665723D</Bytes>
+			<ASCII> . . s e r v e r =</ASCII>
+			<Pos>9</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MANIFEST_PARTIAL</String>
+		<String>LOCATION</String>
+		<String>.DIRECT</String>
+		<String>VERSION</String>
+		<String>SERVER</String>
+		<String>.COM.</String>
+		<String>.MFIL</String>
+		<String>-POD</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

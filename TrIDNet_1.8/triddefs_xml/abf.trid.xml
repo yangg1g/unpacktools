@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Altair Binary Format</FileType>
+		<Ext>ABF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>09</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D4F54494F4E504C4F542045585445524E414C2058592052454144455220</Bytes>
+			<ASCII> M O T I O N P L O T   E X T E R N A L   X Y   R E A D E R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>31</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>424E5259</Bytes>
+			<ASCII> B N R Y</ASCII>
+			<Pos>66</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5345434F4E4453</Bytes>
+			<ASCII> S E C O N D S</ASCII>
+			<Pos>80</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54696D65</Bytes>
+			<ASCII> T i m e</ASCII>
+			<Pos>103</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54696D6520285365636F6E647329</Bytes>
+			<ASCII> T i m e   ( S e c o n d s )</ASCII>
+			<Pos>113</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

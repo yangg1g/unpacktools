@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Generic Printer Description - Unidrv minidriver</FileType>
+		<Ext>GPD</Ext>
+		<ExtraInfo>
+			<Rem>GPD files are used for creating Unidrv minidrivers. A Unidrv minidriver consists of a text-based generic printer description (GPD), which can be contained in one or more GPD files.</Rem>
+			<RefURL>http://msdn.microsoft.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>06</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>42</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2A</Bytes>
+			<ASCII> *</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>*DEFAULTOPTION</String>
+		<String>*RESOURCEDLL</String>
+		<String>*RCNAMEID</String>
+		<String>*FEATURE</String>
+		<String>*COMMAND</String>
+		<String>*INCLUDE</String>
+		<String>*OPTION</String>
+		<String>*OUTPUT</String>
+		<String>*PRINT</String>
+		<String>*ORDER</String>
+		<String>*CMD</String>
+		<String>SION</String>
+		<String>.GPD</String>
+	</GlobalStrings>
+</TrID>

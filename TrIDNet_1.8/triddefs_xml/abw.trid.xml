@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>AbiWord document</FileType>
+		<Ext>ABW</Ext>
+		<ExtraInfo>
+			<Rem>AbiWord is a free word processing program similar to Microsoft(R) Word.</Rem>
+			<RefURL>http://www.abisource.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>30</FileNum>
+		<Refine>11 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>57</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E3022</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>-- ABIWORD IS A FREE</String>
+		<String>-- THIS FILE IS AN ABIWORD DOCUMENT.</String>
+		<String>-- YOU SHOULD NOT EDIT THIS FILE BY HAND.</String>
+		<String>0000</String>
+		<String>ABOUT</String>
+		<String>HEIGHT</String>
+		<String>INFORMATION</String>
+		<String>MORE</String>
+		<String>OPEN SOURCE WORD PROCESSOR.</String>
+		<String>SECTION</String>
+		<String>SIZE</String>
+		<String>WWW.ABISOURCE.COM</String>
+		<String>XML VERSION</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MySQL Database Dictionary (generic)</FileType>
+		<Ext>FRM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.mysql.org</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>271</FileNum>
+		<Refine>168 by Marco Pontello</Refine>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>30</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FE01</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0903000010010000</Bytes>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2F2F</Bytes>
+			<ASCII> / /</ASCII>
+			<Pos>64</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

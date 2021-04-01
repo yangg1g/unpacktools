@@ -1,0 +1,54 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LGLZ compressed DOS command</FileType>
+		<Ext>COM</Ext>
+		<ExtraInfo>
+			<Rem>LGLZ is a DOS COM/EXE compressor (C) 1994-97 George Lyapko</Rem>
+			<RefURL>http://www.bookcase.com/library/software/msdos.archive.compress.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>07</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>01</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>BF</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3BFC7219B409BA1201CD21B44CCD214D656D6F7279206661756C7424</Bytes>
+			<ASCII> ; . r . . . . . . . ! . L . ! M e m o r y   f a u l t $</ASCII>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>BE</Bytes>
+			<Pos>32</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>B9</Bytes>
+			<Pos>35</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>FDF3A4FC8BF746BF0001E8</Bytes>
+			<ASCII> . . . . . . F</ASCII>
+			<Pos>38</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MEMORY FAULT$</String>
+	</GlobalStrings>
+</TrID>

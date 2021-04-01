@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OGG Media stream</FileType>
+		<Ext>OGM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.xiph.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Refine>1 by Stephen Robinson</Refine>
+		<Date>
+			<Year>2004</Year>
+			<Month>12</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>00</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4F676753</Bytes>
+			<ASCII> O g g S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>013901766964656F000000</Bytes>
+			<ASCII> . 9 . v i d e o</ASCII>
+			<Pos>26</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000004F67675300</Bytes>
+			<ASCII> . . . . . . O g g S</ASCII>
+			<Pos>79</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

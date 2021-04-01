@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TADS 3 Game</FileType>
+		<Ext>T3</Ext>
+		<ExtraInfo>
+			<Rem>TADS stand for Text Adventure Development System</Rem>
+			<RefURL>http://tads.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>05</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>54</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>54332D696D6167650D0A1A</Bytes>
+			<ASCII> T 3 - i m a g e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

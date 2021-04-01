@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WebShots Image</FileType>
+		<Ext>WBZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.webshots.com/corporate/index.cgi</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>52</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>43AB916798000000</Bytes>
+			<ASCII> C . . g</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>STR_COLLECTIONTITLE</String>
+		<String>FIL_IMAGEFILENAME</String>
+		<String>BOO_MAKEWALLPAPER</String>
+		<String>DAILYDATEYYYYMMDD</String>
+		<String>STR_IMAGECREDIT</String>
+		<String>STR_IMAGETITLE</String>
+		<String>STR_IMAGEPID</String>
+		<String>ALBUMTITLE</String>
+		<String>INFO.WBX</String>
+		<String>CATTITLE</String>
+		<String>POSITION</String>
+		<String>ALBUMID</String>
+		<String>HEADER</String>
+		<String>SOURCE</String>
+		<String>COUNT</String>
+	</GlobalStrings>
+</TrID>

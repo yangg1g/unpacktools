@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Palm MobileDB database</FileType>
+		<Ext>PDB</Ext>
+		<ExtraInfo>
+			<Rem>HANDMARK MobileDB is probably the most common database application for Palm OS devices.</Rem>
+			<RefURL>http://www.handmark.com/products/detail.php?id=1</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>16</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000000004D6462314D646231</Bytes>
+			<ASCII> . . . . M d b 1 M d b 1</ASCII>
+			<Pos>56</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>UNFILED'''''''''FIELDLABELS'''''DATARECORDS'''''DATARECORDSFOUT'PREFERENCES'''''DATATYPE</String>
+		<String>MDB1MDB1</String>
+	</GlobalStrings>
+</TrID>

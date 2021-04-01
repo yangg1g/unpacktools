@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>The Bee Archiver compressed archive</FileType>
+		<Ext>BEE</Ext>
+		<ExtraInfo>
+			<Rem>An experimental compressor by Andrew Filinsky.</Rem>
+			<RefURL>http://www.beegui.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>08</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>426565</Bytes>
+			<ASCII> B e e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

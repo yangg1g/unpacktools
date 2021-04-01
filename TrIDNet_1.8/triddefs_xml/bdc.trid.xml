@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Babylon Dictionary</FileType>
+		<Ext>BDC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.babylon.com/</RefURL>
+		</ExtraInfo>
+		<User>r0bb3r.xXx</User>
+		<E-Mail>r0bb3r.xXx@gmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>29</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>08</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>12</Hour>
+			<Min>54</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>123400</Bytes>
+			<ASCII> . 4</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GLOSSARY</String>
+		<String>BABYLON</String>
+		<String>.COM</String>
+	</GlobalStrings>
+</TrID>

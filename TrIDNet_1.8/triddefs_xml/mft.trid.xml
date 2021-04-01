@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Battlefield Bad Company package manifest</FileType>
+		<Ext>MFT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Battlefield:_Bad_Company</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>08</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>32</Min>
+			<Sec>31</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5369676E617475726520</Bytes>
+			<ASCII> S i g n a t u r e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A417574686F7261746976650D0A0D0A42756E646C65536F757263652067616D653A</Bytes>
+			<ASCII> . . A u t h o r a t i v e . . . . B u n d l e S o u r c e   g a m e :</ASCII>
+			<Pos>50</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

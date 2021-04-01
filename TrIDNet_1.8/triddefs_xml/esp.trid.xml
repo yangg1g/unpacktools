@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Morrowind plugin</FileType>
+		<Ext>ESP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+                <Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>02</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>54455333</Bytes>
+			<ASCII> T E S 3</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0100000000000000000000484544522C010000</Bytes>
+			<ASCII> . . . . . . . . . . . H E D R ,</ASCII>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3F00000000</Bytes>
+			<ASCII> ?</ASCII>
+			<Pos>27</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00004D4153540E0000004D6F72726F77696E642E65736D0044415441</Bytes>
+			<ASCII> . . M A S T . . . . M o r r o w i n d . e s m . D A T A</ASCII>
+			<Pos>322</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FNAM</String>
+		<String>HEDR</String>
+		<String>MAST</String>
+		<String>MORROWIND.ESM'DATA</String>
+		<String>NAME</String>
+		<String>TES3</String>
+	</GlobalStrings>
+</TrID>

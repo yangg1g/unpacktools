@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>AliceSoft PMS bitmap</FileType>
+        <Ext>PMS</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.dsl.gr.jp/~sage/sagepage/prog/pshop/pms/</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>5</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>18</Day>
+        </Date>
+        <Time>
+            <Hour>15</Hour>
+            <Min>16</Min>
+            <Sec>56</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.23</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>504D010042</Bytes>
+            <ASCII> P M . . B</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

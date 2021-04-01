@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Game Definition File Editor project</FileType>
+		<Ext>GDFMAKERPROJECT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://msdn.microsoft.com/en-us/library/ee415242(v=vs.85).aspx</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>49</Min>
+			<Sec>27</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3C003F0078006D006C002000760065007200730069006F006E003D00220031002E0030002200200065006E0063006F00640069006E0067003D0022007500740066002D003100360022003F003E000D000A00</Bytes>
+			<ASCII> . . . . ? . x . m . l .   . v . e . r . s . i . o . n . = . " . 1 . . . 0 . " .   . e . n . c . o . d . i . n . g . = . " . u . t . f . - . 1 . 6 . " . ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>D'E'F'A'U'L'T'F'I'L'E'E'N'T'R'Y' 'L'A'N'G'U'A'G'E'I'D</String>
+		<String>R'E'L'A'T'I'V'E'P'A'T'H'T'O'P'R'O'J'E'C'T</String>
+		<String>S'C'H'E'M'A'S'-'M'I'C'R'O'S'O'F'T'-'C'O'M</String>
+		<String>G'D'F'P'R'O'J'E'C'T'.'V'1'.'X'S'D</String>
+		<String>G'D'F'P'R'O'J'E'C'T' 'X'M'L'N'S</String>
+		<String>P'R'O'J'E'C'T'N'A'M'E</String>
+		<String>X'M'L' 'V'E'R'S'I'O'N</String>
+		<String>E'N'C'O'D'I'N'G</String>
+		<String>U'T'F'-'1'6</String>
+		<String>1'.'0</String>
+		<String>U'R'N</String>
+	</GlobalStrings>
+</TrID>

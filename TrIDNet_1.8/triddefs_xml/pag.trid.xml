@@ -1,0 +1,68 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RealTick page</FileType>
+		<Ext>PAG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.realtick.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>07</Min>
+			<Sec>53</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5245414C5449434B20504147452046494C4500</Bytes>
+			<ASCII> R E A L T I C K   P A G E   F I L E</ASCII>
+			<Pos>32</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TIME''''''''''''TM</String>
+		<String>OPEN''''''''''''OP</String>
+		<String>HIGH''''''''''''HI</String>
+		<String>VOLUME''''''''''VL</String>
+		<String>LOW'''''''''''''LO</String>
+		<String>CLOSE'''''''''''CL</String>
+		<String>TRADES''''''''''TR</String>
+		<String>DATE''''''''''''DT</String>
+		<String>* CHART DATA *</String>
+		<String>C'L'O'S'E'''.</String>
+		<String>V'O'L'U'M'E</String>
+		<String>T'R'A'D'E'S</String>
+		<String>LIVEQUOTE</String>
+		<String>(DEFAULT)</String>
+		<String>HISTORIC</String>
+		<String>VERSION</String>
+		<String>T'I'M'E</String>
+		<String>AVERAGE</String>
+		<String>O'P'E'N</String>
+		<String>D'A'T'E</String>
+		<String>SYMBOL</String>
+		<String>ARIAL</String>
+		<String>L'O'W</String>
+		<String>DAILY</String>
+		<String>TIONS</String>
+		<String>PARM</String>
+		<String>TYPE</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

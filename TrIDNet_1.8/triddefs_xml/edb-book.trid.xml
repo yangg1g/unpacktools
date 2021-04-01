@@ -1,0 +1,94 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PhotoShop Extended Digital Book</FileType>
+		<Ext>EDB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.adobe.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>39</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>45444228457874656E646564204469676974616C20426F6F6B29</Bytes>
+			<ASCII> E D B ( E x t e n d e d   D i g i t a l   B o o k )</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>A'D'O'B'E' 'P'H'O'T'O'S'H'O'P</String>
+		<String>EDB(EXTENDED DIGITAL BOOK)</String>
+		<String>DOCTYPE HTML PUBLIC</String>
+		<String>ONKEYDOWN LANGUAGE</String>
+		<String>UNTITLED DOCUMENT</String>
+		<String>META HTTP-EQUIV</String>
+		<String>BODY LEFTMARGIN</String>
+		<String>ONLOAD LANGUAGE</String>
+		<String>_TEXTONKEYDOWN</String>
+		<String>DOCUMENT EVENT</String>
+		<String>_GLOBALSCRIPT</String>
+		<String>WINDOW EVENT</String>
+		<String>TRANSITIONAL</String>
+		<String>CONTENT-TYPE</String>
+		<String>CELLPADDING</String>
+		<String>TABLE WIDTH</String>
+		<String>_TEXTSCRIPT</String>
+		<String>_TEXTONLOAD</String>
+		<String>CELLSPACING</String>
+		<String>SCRIPT FOR</String>
+		<String>BACKGROUND</String>
+		<String>TOPMARGIN</String>
+		<String>INDEX.HTM</String>
+		<String>TD HEIGHT</String>
+		<String>PHOTOSHOP</String>
+		<String>VBSCRIPT</String>
+		<String>DTD HTML</String>
+		<String>COPY.GIF</String>
+		<String>BACK.GIF</String>
+		<String>TR ALIGN</String>
+		<String>TD WIDTH</String>
+		<String>IMG SRC</String>
+		<String>L'O'G'O</String>
+		<String>CHARSET</String>
+		<String>ONCLICK</String>
+		<String>ADOBE'D</String>
+		<String>URLGOTO</String>
+		<String>CENTER</String>
+		<String>BORDER</String>
+		<String>VALIGN</String>
+		<String>CURSOR</String>
+		<String>SCROLL</String>
+		<String>STYLE</String>
+		<String>LIGHT</String>
+		<String>COLOR</String>
+		<String>NEXT</String>
+		<String>PAGE</String>
+		<String>FONT</String>
+		<String>HEAD</String>
+		<String>SPAN</String>
+		<String>JFIF</String>
+		<String>PREV</String>
+		<String>8BIM</String>
+		<String>HAND</String>
+	</GlobalStrings>
+</TrID>

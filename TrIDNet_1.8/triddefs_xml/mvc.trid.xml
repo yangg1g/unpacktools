@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Collectorz.com Movie Collector data</FileType>
+		<Ext>MVC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.collectorz.com/movie</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>48</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>436F6C6C6563746F727A2E636F6D</Bytes>
+			<ASCII> C o l l e c t o r z . c o m</ASCII>
+			<Pos>2</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D6F766965</Bytes>
+			<ASCII> M o v i e</ASCII>
+			<Pos>18</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

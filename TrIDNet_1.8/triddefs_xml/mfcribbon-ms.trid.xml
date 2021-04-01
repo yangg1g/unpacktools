@@ -1,0 +1,66 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MFC Ribbon definition</FileType>
+		<Ext>MFCRIBBON-MS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>27</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E3022</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BUTTON_MAIN_PANEL</String>
+		<String>RECENT_FILE_LIST</String>
+		<String>DEFAULT_COMMAND</String>
+		<String>CATEGORY_MAIN</String>
+		<String>ELEMENT_NAME</String>
+		<String>ID_APP_EXIT</String>
+		<String>IMAGE_LARGE</String>
+		<String>IMAGE_SMALL</String>
+		<String>INDEX_LARGE</String>
+		<String>INDEX_SMALL</String>
+		<String>XML VERSION</String>
+		<String>AFX_RIBBON</String>
+		<String>CATEGORIES</String>
+		<String>RIBBON_BAR</String>
+		<String>STANDALONE</String>
+		<String>RIBBONBAR</String>
+		<String>_ELEMENTS</String>
+		<String>ENCODING</String>
+		<String>ENABLE</String>
+		<String>HEADER</String>
+		<String>PANELS</String>
+		<String>FALSE</String>
+		<String>PTION</String>
+		<String>VALUE</String>
+		<String>IDB_</String>
+		<String>KEYS</String>
+		<String>TEXT</String>
+		<String>TRUE</String>
+		<String>VIEW</String>
+	</GlobalStrings>
+</TrID>

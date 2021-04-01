@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ksudoku puzzle</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://ksudoku.sourceforge.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>08</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>14</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C21444F4354595045206B7375646F6B752D67726170683E0A3C6B7375646F6B752D6772617068</Bytes>
+			<ASCII> . ! D O C T Y P E   k s u d o k u - g r a p h . . . k s u d o k u - g r a p h</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DOCTYPE KSUDOKU-GRAPH</String>
+		<String>GRAPH SIZEX</String>
+		<String>CLIQUE SIZE</String>
+		<String>NCLIQUES</String>
+		<String>CUSTOM</String>
+		<String>ORDER</String>
+		<String>SIZEY</String>
+		<String>SIZEZ</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

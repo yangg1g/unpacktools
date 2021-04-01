@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LightWave 3D Scene</FileType>
+		<Ext>LWS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Lightwave</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>21</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>29</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4C575343</Bytes>
+			<ASCII> L W S C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PREVIEWFIRSTFRAME</String>
+		<String>PREVIEWFRAMESTEP</String>
+		<String>PREVIEWLASTFRAME</String>
+		<String>FRAMESPERSECOND</String>
+		<String>SHOWMOTIONPATH</String>
+		<String>SHADOWOPTIONS</String>
+		<String>OBJECTMOTION</String>
+		<String>CAMERAMOTION</String>
+		<String>PIXELASPECT</String>
+		<String>SHOWCAMERA</String>
+		<String>SHOWOBJECT</String>
+		<String>RESOLUTION</String>
+		<String>ZOOMFACTOR</String>
+		<String>GRIDSIZE</String>
+		<String>POINT</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

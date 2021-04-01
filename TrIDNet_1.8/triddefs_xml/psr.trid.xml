@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PowerSoft DataWindow - DataStore</FileType>
+		<Ext>PSR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sybase.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>38</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>41000000506C6174666F726D20696E646570656E64656E74205053522046696C6520466F726D61742C20436F70797269676874205379626173652C20496E632E2031393937</Bytes>
+			<ASCII> A . . . P l a t f o r m   i n d e p e n d e n t   P S R   F i l e   F o r m a t ,   C o p y r i g h t	S y b a s e ,	I n c .   1 9 9 7</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

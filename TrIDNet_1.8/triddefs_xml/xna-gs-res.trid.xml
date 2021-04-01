@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XNA Game Studio resource</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Microsoft_XNA</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>11</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>39</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B444154412E5245534F555243455D0000002847414D455F53545544494F5F5245534F555243455F444154415F46494C45</Bytes>
+			<ASCII> [ D A T A . R E S O U R C E ] . . . ( G A M E _ S T U D I O _ R E S O U R C E _ D A T A _ F I L E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

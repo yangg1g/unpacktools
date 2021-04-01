@@ -1,0 +1,79 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Opus Creator multimedia file</FileType>
+		<Ext>ILM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.digitalworkshop.co.uk</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>47</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>18E0972CC6264A4FB88456D19C68D2E3696C6D63</Bytes>
+			<ASCII> . . . , . . J O . . V . . h . . i l m c</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>THIS OPUS PUBLICATION WOULD LIKE TO CONNECT TO THE INTERNET</String>
+		<String>INITIALIZE DIRECTX. USING GDI INSTEAD.</String>
+		<String>ARE YOU SURE YOU WANT TO DELETE</String>
+		<String>SYSTEM_PUBLICATION_DIR</String>
+		<String>INITIALIZE PREVIEW.</String>
+		<String>SYSTEM_DOCUMENTS_DIR</String>
+		<String>SCORE_VALUE_PERCENT</String>
+		<String>SYSTEM_PROGRAMS_DIR</String>
+		<String>SYSTEM_TIME_MINUTE</String>
+		<String>SYSTEM_TIME_12HOUR</String>
+		<String>SYSTEM_TIME_SECOND</String>
+		<String>INCORRECT PASSWORD</String>
+		<String>SYSTEM_WINSYS_DIR</String>
+		<String>SYSTEM_TIME_MONTH</String>
+		<String>SCORE_VALUE_TOTAL</String>
+		<String>CHAPTER_PASSWORD</String>
+		<String>SYSTEM_TIME_YEAR</String>
+		<String>SYSTEM_TIME_HOUR</String>
+		<String>SYSTEM_TIME_DATE</String>
+		<String>SYSTEM_DATE_FULL</String>
+		<String>PUBLICATION_TIME</String>
+		<String>SYSTEM_TIME_AMPM</String>
+		<String>SYSTEM_CD_DRIVE</String>
+		<String>SYSTEM_USERNAME</String>
+		<String>SYSTEM_TEMP_DIR</String>
+		<String>SYSTEM_TIME_DAY</String>
+		<String>SYSTEM_WIN_DIR</String>
+		<String>TIME REMAINING</String>
+		<String>SCORE_CORRECT</String>
+		<String>SCORE_PERCENT</String>
+		<String>DWUNINST.EXE</String>
+		<String>SCORE_TOTAL</String>
+		<String>WARNING</String>
+		<String>ILMPLAY</String>
+		<String>COULDN</String>
+		<String>SRCH</String>
+		<String>ILMC</String>
+		<String>ADDR</String>
+		<String>BRWS</String>
+		<String>GUID</String>
+		<String>USRL</String>
+		<String>.DLL</String>
+		<String>FSRC</String>
+	</GlobalStrings>
+</TrID>

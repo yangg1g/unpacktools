@@ -1,0 +1,123 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Wise Installer executable</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Wise_Solutions%2C_Inc.</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>37</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A</Bytes>
+			<ASCII> M Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GLBSINSTALL'SESHUTDOWNPRIVILEGE'SYSTEM DLLS CORRUPT OR MISSING.'DEMO INSTALLATIONS ONLY RUN ON THE COMPUTER THEY WERE CREATED ON.'''INSTALL'HANDLEFTP'''FILEWRITE'''DISKPROMPT''DISPLAYGRAPHICS'UPDATESCREEN''''WISEMAIN''''COULD NOT EXTRACT WISE0132.DLL TO</String>
+		<String>~GLC1034.TMP'GLC'COULD NOT INITIALIZE INSTALLATION.</String>
+		<String>BEGINPAINT''USER32.DLL''S'DELETEOBJECT''_</String>
+		<String>SELECTPALETTE'B'CREATEPALETTE'GDI32.DLL</String>
+		<String>THIS PROGRAM CANNOT BE RUN IN DOS MODE.</String>
+		<String>CRC DOES NOT MATCH.'FILE SIZE EXPECTED</String>
+		<String>4'''V'S'_'V'E'R'S'I'O'N'_'I'N'F'O</String>
+		<String>OPENPROCESSTOKEN''ADVAPI32.DLL</String>
+		<String>F'I'L'E'D'E'S'C'R'I'P'T'I'O'N</String>
+		<String>S'T'R'I'N'G'F'I'L'E'I'N'F'O</String>
+		<String>STRETCHDIBITS'6'CREATEFONTA</String>
+		<String>L'E'G'A'L'C'O'P'Y'R'I'G'H'T</String>
+		<String>PATBLT''M'CREATESOLIDBRUSH</String>
+		<String>LOOKUPPRIVILEGEVALUEA'B</String>
+		<String>STUB32.EXE'_MAINWNDPROC</String>
+		<String>GETWINDOWSDIRECTORYA''E</String>
+		<String>GETDC'Y'CREATEWINDOWEXA</String>
+		<String>ADJUSTTOKENPRIVILEGES</String>
+		<String>_LREAD''}'EXITPROCESS</String>
+		<String>F'I'L'E'V'E'R'S'I'O'N</String>
+		<String>C'O'M'P'A'N'Y'N'A'M'E</String>
+		<String>_LWRITE'KERNEL32.DLL</String>
+		<String>0'4'0'9'0'4'E'4'''X</String>
+		<String>GETCURRENTPROCESS'U</String>
+		<String>GETTEMPFILENAMEA''}</String>
+		<String>GETMODULEFILENAMEA</String>
+		<String>GETCOMMANDLINEA'D</String>
+		<String>POSTQUITMESSAGE'Z</String>
+		<String>GETSTOCKOBJECT''%</String>
+		<String>16'_STUBFILEWRITE</String>
+		<String>GETMODULEHANDLEA</String>
+		<String>DEFWINDOWPROCA</String>
+		<String>GETPROCADDRESS</String>
+		<String>REALIZEPALETTE</String>
+		<String>REGISTERCLASSA</String>
+		<String>FORMATMESSAGEA</String>
+		<String>INVALIDATERECT</String>
+		<String>GETCLIENTRECT</String>
+		<String>SIZE RETURNED</String>
+		<String>GETDEVICECAPS</String>
+		<String>GETVERSIONEXA</String>
+		<String>EXITWINDOWSEX</String>
+		<String>SETTEXTCOLOR</String>
+		<String>SETERRORMODE</String>
+		<String>UPDATEWINDOW</String>
+		<String>LOADLIBRARYA</String>
+		<String>SENDMESSAGEA</String>
+		<String>GETLASTERROR</String>
+		<String>SETWINDOWPOS</String>
+		<String>SELECTOBJECT</String>
+		<String>GETTEMPPATHA</String>
+		<String>GLOBALUNLOCK</String>
+		<String>GLOBALALLOC</String>
+		<String>LOADICONA'R</String>
+		<String>LOADCURSORA</String>
+		<String>MESSAGEBOXA</String>
+		<String>LSTRCPYA''$</String>
+		<String>FREELIBRARY</String>
+		<String>GLOBALLOCK</String>
+		<String>GLOBALFREE</String>
+		<String>SHOWWINDOW</String>
+		<String>RELEASEDC</String>
+		<String>SSSSPSSSH</String>
+		<String>.RDATA</String>
+		<String>MULDIV</String>
+		<String>DRAWTEXTA</String>
+		<String>SETBKMODE</String>
+		<String>LOCALFREE</String>
+		<String>SSJDWJDWH</String>
+		<String>WSPRINTFA</String>
+		<String>LSTRCATA</String>
+		<String>LSTRLENA</String>
+		<String>TEXTOUTA</String>
+		<String>SETTIMER</String>
+		<String>SSSJHJZW</String>
+		<String>OPENFILE</String>
+		<String>ENDPAINT</String>
+		<String>_LCLOSE</String>
+		<String>_LCREAT</String>
+		<String>WINEXEC</String>
+		<String>_LLSEEK</String>
+		<String>_LOPEN</String>
+		<String>PE''L</String>
+		<String>.RSRC</String>
+		<String>.TEXT</String>
+		<String>.DATA</String>
+		<String>RICH</String>
+	</GlobalStrings>
+</TrID>

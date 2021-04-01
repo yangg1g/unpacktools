@@ -1,0 +1,115 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ArcMap GIS project</FileType>
+		<Ext>MXD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.esri.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>35</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>05</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>46</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E007400720079</Bytes>
+			<ASCII> R . o . o . t .   . E . n . t . r . y</ASCII>
+			<Pos>512</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43006F006E00740065006E00740073</Bytes>
+			<ASCII> C . o . n . t . e . n . t . s</ASCII>
+			<Pos>640</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>560065007200730069006F006E</Bytes>
+			<ASCII> V . e . r . s . i . o . n</ASCII>
+			<Pos>768</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>44006F00630075006D0065006E007400200049006E0066006F</Bytes>
+			<ASCII> D . o . c . u . m . e . n . t .   . I . n . f . o</ASCII>
+			<Pos>896</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E007400720079</Bytes>
+			<ASCII> R . o . o . t .   . E . n . t . r . y</ASCII>
+			<Pos>1536</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>43006F006E00740065006E00740073</Bytes>
+			<ASCII> C . o . n . t . e . n . t . s</ASCII>
+			<Pos>1664</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>560065007200730069006F006E</Bytes>
+			<ASCII> V . e . r . s . i . o . n</ASCII>
+			<Pos>1792</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>44006F00630075006D0065006E007400200049006E0066006F</Bytes>
+			<ASCII> D . o . c . u . m . e . n . t .   . I . n . f . o</ASCII>
+			<Pos>1920</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>L'O'C'A'T'O'R' 'D'A'T'A'B'A'S'E' 'E'X'T'E'N'S'I'O'N</String>
+		<String>E'S'R'I' 'O'B'J'E'C'T' 'E'D'I'T'O'R</String>
+		<String>A'P'P'L'I'C'A'T'I'O'N' 'D'A'T'A</String>
+		<String>T'A'B'L'E'P'R'O'P'E'R'T'I'E'S</String>
+		<String>F'E'A'T'U'R'E' 'C'L'A'S'S</String>
+		<String>D'O'C'U'M'E'N'T' 'I'N'F'O</String>
+		<String>A'C'C'E'L'E'R'A'T'O'R'S</String>
+		<String>S'T'Y'L'E'G'A'L'L'E'R'Y</String>
+		<String>D'A'T'A'W'I'N'D'O'W'S</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>E'S'R'I'.'S'T'Y'L'E</String>
+		<String>N'O'R'M'A'L'.'M'X'T</String>
+		<String>P'A'G'E'L'A'Y'O'U'T</String>
+		<String>D'A'T'A'G'R'A'P'H'S</String>
+		<String>U'I'C'O'N'T'R'O'L'S</String>
+		<String>T'E'M'P'L'A'T'E'S</String>
+		<String>D'I'S'P'L'A'Y'''Q</String>
+		<String>B'A'R'S'T'A'T'E</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>M'E'T'A'D'A'T'A</String>
+		<String>D'E'F'A'U'L'T</String>
+		<String>A'N'A'L'Y'S'T</String>
+		<String>S'H'A'P'E'''-</String>
+		<String>V'E'R'S'I'O'N</String>
+		<String>S'O'U'R'C'E</String>
+		<String>A'R'C'M'A'P</String>
+		<String>U'T'I'L'I</String>
+		<String>PARAMETER</String>
+		<String>GREENWICH</String>
+		<String>SPHEROID</String>
+		<String>V'I'E'W</String>
+		<String>M'A'P'S</String>
+		<String>PRIMEM</String>
+		<String>GEOGCS</String>
+		<String>DEGREE</String>
+		<String>DATUM</String>
+		<String>P'R'E</String>
+		<String>DATA</String>
+		<String>TRAN</String>
+		<String>UNIT</String>
+	</GlobalStrings>
+</TrID>

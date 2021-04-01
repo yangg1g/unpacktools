@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SpeedGrade Look</FileType>
+		<Ext>LOOK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>57</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E3022203F3E0D0A</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SATURATIONLMH.X</String>
+		<String>XML VERSION</String>
+		<String>PARAMETERS</String>
+		<String>MATRIXLUT</String>
+		<String>SUBLAYER0</String>
+		<String>BASELUT</String>
+		<String>OPACITY</String>
+		<String>SHADERS</String>
+		<String>VISIBLE</String>
+		<String>DATA</String>
+		<String>LOOK</String>
+		<String>SIZE</String>
+	</GlobalStrings>
+</TrID>

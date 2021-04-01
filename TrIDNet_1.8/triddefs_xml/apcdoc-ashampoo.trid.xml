@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Ashampoo Photo Commander Document</FileType>
+		<Ext>APCDOC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ashampoo.com/uk/gbp/pin/1618/Multimedia_Software/Ashampoo-Photo-Commander-11</RefURL>
+		</ExtraInfo>
+		<User>Jochen Straub</User>
+		<E-Mail>jochen-straub@gmx.net</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>7 by Marco Pontello</Refine>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>44</Min>
+			<Sec>9</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>41005000430044004F0043</Bytes>
+			<ASCII> A . P . C . D . O . C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

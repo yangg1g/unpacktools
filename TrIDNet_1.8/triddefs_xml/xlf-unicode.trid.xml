@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XLIFF - XML Localization Interchange File Format (Unicode)</FileType>
+		<Ext>XLF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Xliff</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>54</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3C00</Bytes>
+			<ASCII></ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'O'U'R'C'E'-'L'A'N'G'U'A'G'E</String>
+		<String>T'R'A'N'S'-'U'N'I'T' 'I'D</String>
+		<String>X'M'L' 'V'E'R'S'I'O'N</String>
+		<String>O'R'I'G'I'N'A'L</String>
+		<String>D'A'T'A'T'Y'P'E</String>
+		<String>X'L'I'F'F</String>
+		<String>N'A'M'E</String>
+		<String>F'I'L'E</String>
+		<String>B'O'D'Y</String>
+	</GlobalStrings>
+</TrID>

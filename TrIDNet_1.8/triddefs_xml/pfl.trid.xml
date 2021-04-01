@@ -1,0 +1,117 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PhotoFilter plugin</FileType>
+		<Ext>PFL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://photofiltre.free.fr</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>08</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>07</Min>
+			<Sec>52</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A</Bytes>
+			<ASCII> M Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>3</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000400</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00FFFF0000B8000000000000004000</Bytes>
+			<ASCII> . . . . . . . . . . . . . @</ASCII>
+			<Pos>11</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000000000000000000000000000000000000000000000000000000000000000</Bytes>
+			<Pos>27</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>B409CD21B8014CCD21</Bytes>
+			<ASCII> . . . ! . . L . !</ASCII>
+			<Pos>69</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>742062652072756E20</Bytes>
+			<ASCII> t   b e   r u n</ASCII>
+			<Pos>96</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>6E</Bytes>
+			<ASCII> n</ASCII>
+			<Pos>106</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>REGISTERCOMPATIBILITY</String>
+		<String>REGISTERPLUGINGLYPH</String>
+		<String>REGISTERPLUGINHEADER</String>
+		<String>REGISTERPLUGINSTRUCT</String>
+		<String>.RELOC</String>
+		<String>.RSRC</String>
+		<String>A'N'N</String>
+		<String>A'U'T'O</String>
+		<String>C'T'I'O'N</String>
+		<String>CESSI</String>
+		<String>CHAR</String>
+		<String>COLLECTION</String>
+		<String>DATA</String>
+		<String>DIALOG</String>
+		<String>E'I'N'F'O</String>
+		<String>ENABLEWINDOW</String>
+		<String>ENDD</String>
+		<String>ERREUR</String>
+		<String>EXECUTE</String>
+		<String>GETD</String>
+		<String>I'G'N'O'R'E</String>
+		<String>IMPOSSIBLE</String>
+		<String>LOADBITMAPA</String>
+		<String>LOADICONA</String>
+		<String>MESSAGEBOXA</String>
+		<String>O'R'I'G'I'N</String>
+		<String>P'R'O</String>
+		<String>PE''L</String>
+		<String>PJ'H</String>
+		<String>POSTMESSAGEA</String>
+		<String>R'E'S</String>
+		<String>R'I'F</String>
+		<String>S'E'U</String>
+		<String>S'T'R</String>
+		<String>S'Y'S'T</String>
+		<String>SENDMESSAGEA</String>
+		<String>SETWINDOW</String>
+		<String>SHOWWINDOW</String>
+		<String>SITE</String>
+		<String>T'R'A'N'S</String>
+		<String>T'R'E</String>
+		<String>TEXT</String>
+		<String>THIS PROGRAM</String>
+		<String>TION D</String>
+		<String>USER32.DLL</String>
+		<String>V'A'R</String>
+		<String>V'E'R</String>
+		<String>VERSION</String>
+		<String>Y'KERNEL32.DLL</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,62 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Princeton Instruments WinView CCD image format</FileType>
+		<Ext>SPE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.piacton.com/products/versarray/software.aspx#1</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>48</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>534F4648</Bytes>
+			<ASCII> S O F H</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0A546563686E697175653A20</Bytes>
+			<ASCII> . T e c h n i q u e :</ASCII>
+			<Pos>19</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SOURCEANALYSERANGLE</String>
+		<String>NEUTRALIZERCURRENT</String>
+		<String>NEUTRALIZERENERGY</String>
+		<String>INTENSITYRECAL</String>
+		<String>SPECTRALREGDEF</String>
+		<String>SPATIALAREADEF</String>
+		<String>NOSPATIALAREA</String>
+		<String>NOSPECTRALREG</String>
+		<String>ANALYSERMODE</String>
+		<String>ACQFILEDATE</String>
+		<String>ENERGYRECAL</String>
+		<String>XRAYSOURCE</String>
+		<String>TECHNIQUE</String>
+		<String>XRAYPOWER</String>
+		<String>FILENAME</String>
+		<String>FILEDESC</String>
+		<String>PLATFORM</String>
+		<String>FILETYPE</String>
+		<String>SOFH</String>
+		<String>EOFH</String>
+		<String>NONE</String>
+	</GlobalStrings>
+</TrID>

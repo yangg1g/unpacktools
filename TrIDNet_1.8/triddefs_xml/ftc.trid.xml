@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>FluxTime Clip</FileType>
+		<Ext>FTC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.fluxtime.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>3</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>1</Min>
+			<Sec>23</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>46544303E80000</Bytes>
+			<ASCII> F T C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>40</Bytes>
+			<ASCII> @</ASCII>
+			<Pos>13</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

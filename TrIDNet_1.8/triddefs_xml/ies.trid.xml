@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IESNA Photometric data</FileType>
+		<Ext>IES</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.iesna.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>05</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>54</Min>
+			<Sec>18</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4945534E41</Bytes>
+			<ASCII> I E S N A</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NONE</String>
+		<String>TEST</String>
+		<String>TILT</String>
+	</GlobalStrings>
+</TrID>

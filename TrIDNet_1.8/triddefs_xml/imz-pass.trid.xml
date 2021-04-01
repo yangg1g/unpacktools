@@ -1,0 +1,52 @@
+<TrID ver="1.18">
+	<Info>
+		<FileType>Compressed Disk Image (password protected)</FileType>
+		<Ext>IMZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.winimage.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>12</FileNum>
+		<Refine>7 by Marco Pontello</Refine>
+		<Date>
+			<Year>2003</Year>
+			<Month>09</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>06</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.23</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>504B03040A0001000800</Bytes>
+			<ASCII> P K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>392F</Bytes>
+			<ASCII> 9 /</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000801600</Bytes>
+			<Pos>21</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>001800</Bytes>
+			<Pos>27</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>45</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

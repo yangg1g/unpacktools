@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WarCraft III map</FileType>
+		<Ext>W3M</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.blizzard.com/war3/</RefURL>
+		</ExtraInfo>
+		<User>.Cryorb</User>
+		<E-Mail>vy@nospam@tut.by</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>124</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>08</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>51</Min>
+			<Sec>03</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>484D3357</Bytes>
+			<ASCII> H M 3 W</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D5051</Bytes>
+			<ASCII> M P Q</ASCII>
+			<Pos>512</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

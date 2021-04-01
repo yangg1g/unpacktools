@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+  <TransformScript>
+    <OtherComments>
+      <Content>Cyrillic Petite Capitals
+This script inserts x-height Cyrillic Small Capitals in the Private Use Area. The scale factor will need adjustment to suit the x-height of your font. The bold effect will need adjustment to suit the weight of the lowercase Cyrillic letters in your font. </Content>
+    </OtherComments>
+    <GlyphInsertCharacters>
+      <Characters>59072-59103, 59106, 59108-59110, 59112-59115, 59119, 59123, 59131, 59139, 59141, 59169, 59171, 59175, 59177, 59179, 59181, 59185, 59187, 59195, 59199, 59201, 59203, 59207, 59209, 59211</Characters>
+      <OverrideRange>TRUE</OverrideRange>
+    </GlyphInsertCharacters>
+    <GlyphCompleteComposites>
+    </GlyphCompleteComposites>
+    <GlyphDecompose>
+    </GlyphDecompose>
+    <OutlineScale>
+      <AroundType>2</AroundType>
+      <AroundCorner>0</AroundCorner>
+      <AroundXPos>0</AroundXPos>
+      <AroundYPos>0</AroundYPos>
+      <Horizontal>61.00</Horizontal>
+      <Vertical>58.00</Vertical>
+      <PreserveBearings>FALSE</PreserveBearings>
+    </OutlineScale>
+    <EffectsBold>
+      <Horizontal>12</Horizontal>
+      <Vertical>6</Vertical>
+      <PreserveBearings>TRUE</PreserveBearings>
+    </EffectsBold>
+    <OutlineMove>
+      <Horizontal>0</Horizontal>
+      <Vertical>6</Vertical>
+    </OutlineMove>
+    <MetricsLeftSideBearing>
+    </MetricsLeftSideBearing>
+    <OtherComments>
+      <Content>Accented Petite Capitals
+The rest of this script then adds composites of these new glyphs to create a few accented small capitals. You will need to align the accents horizontally and edit some glyphs.</Content>
+    </OtherComments>
+    <GlyphInsertCharacters>
+      <Characters>59104, 59105, 59107, 59111, 59116-59118, 59218</Characters>
+      <OverrideRange>TRUE</OverrideRange>
+    </GlyphInsertCharacters>
+    <GlyphCompleteComposites>
+    </GlyphCompleteComposites>
+  </TransformScript>
+</DATA>

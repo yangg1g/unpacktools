@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>2IMG Universal Format disk image (Apple II)</FileType>
+		<Ext>2MG/2IMG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://apple2.org.za/gswv/a2zine/Docs/DiskImage_2MG_Info.txt</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<Date>
+			<Year>2005</Year>
+			<Month>11</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>43</Min>
+			<Sec>30</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>32494D47</Bytes>
+			<ASCII> 2 I M G</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

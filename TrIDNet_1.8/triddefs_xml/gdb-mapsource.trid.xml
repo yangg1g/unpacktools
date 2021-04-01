@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MapSource GPS Waypoint Database</FileType>
+		<Ext>GDB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www8.garmin.com/cartography/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>08</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>33</Min>
+			<Sec>35</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D73526366</Bytes>
+			<ASCII> M s R c f</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MAPSOURCE</String>
+	</GlobalStrings>
+</TrID>

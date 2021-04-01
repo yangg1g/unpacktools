@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Google Earth placemark</FileType>
+		<Ext>KML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://earth.google.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>03</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>18</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COORDINATES</String>
+		<String>PLACEMARK</String>
+		<String>XMLNS</String>
+		<String>NAME</String>
+		<String>DING</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

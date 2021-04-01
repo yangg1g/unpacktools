@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XMill compressed XML</FileType>
+		<Ext>XMI</Ext>
+		<ExtraInfo>
+			<Rem>XMill is an efficient XML data compressor.</Rem>
+			<RefURL>http://www.research.att.com/sw/tools/xmill/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>24</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>09</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>09</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>78</Bytes>
+			<ASCII> x</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CaptiveWorks satellite channel database</FileType>
+		<Ext>SDX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.captiveworks.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>19</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>434458004358446174616261736556</Bytes>
+			<ASCII> C D X . C X D a t a b a s e V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>16</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E736478</Bytes>
+			<ASCII> . s d x</ASCII>
+			<Pos>19</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

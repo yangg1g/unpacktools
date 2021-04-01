@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SlickRun MagicWord Pack</FileType>
+		<Ext>QRS</Ext>
+		<ExtraInfo>
+			<Rem>SlickRun is a free floating command line utility for Windows.</Rem>
+			<RefURL>http://bayden.com/slickrun/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>11</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>18</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B</Bytes>
+			<ASCII> [</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>STARTMODE</String>
+		<String>FILENAME</String>
+		<String>PARAMS</String>
+		<String>NOTES</String>
+		<String>GUID</String>
+		<String>PATH</String>
+	</GlobalStrings>
+</TrID>

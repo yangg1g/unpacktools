@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MQL 4 compiled Expert Advisor</FileType>
+		<Ext>EX4</Ext>
+		<ExtraInfo>
+			<Rem>The result of the compilation of a MQ4 source file.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/MQL_4</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>08</Min>
+			<Sec>34</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>455834</Bytes>
+			<ASCII> E X 4</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Help Full-Text Search index file</FileType>
+		<Ext>FTS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>26</FileNum>
+		<Date>
+			<Year>2003</Year>
+			<Month>11</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>03</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.50</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>74664D52</Bytes>
+			<ASCII> t f M R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>9</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>15</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

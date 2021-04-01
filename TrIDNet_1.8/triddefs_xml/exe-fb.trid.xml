@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>kkrunchy compressed Win32 Executable</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem>Usually their demos come in this 'signed' EXEs!</Rem>
+			<RefURL>https://github.com/farbrausch/fr_public</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+                <Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>05</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>37</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A66617262726175736368504500004C01</Bytes>
+			<ASCII> M Z f a r b r a u s c h P E . . L</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>19</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GETPROCADDRESS</String>
+		<String>KERNEL32.DLL</String>
+		<String>LOADLIBRARYA</String>
+		<String>MZFARBRAUSCHPE''L</String>
+	</GlobalStrings>
+</TrID>

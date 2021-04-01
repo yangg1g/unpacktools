@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BlackBerry Application Loader</FileType>
+		<Ext>ALX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/BlackBerry</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>28</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>01</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>45</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C6C6F616465722076657273696F6E3D22</Bytes>
+			<ASCII> . l o a d e r   v e r s i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>LOADER VERSION</String>
+		<String>FILESET JAVA</String>
+		<String>DESCRIPTION</String>
+		<String>APPLICATION</String>
+		<String>COPYRIGHT</String>
+		<String>VENDOR</String>
+		<String>.COD</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Digital Moving Picture Exchange bitmap (big endian)</FileType>
+		<Ext>DPX</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://netghost.narod.ru/gff/graphics/summary/dpx.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2011</Year>
+			<Month>1</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>22</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.1b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53445058</Bytes>
+			<ASCII> S D P X</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

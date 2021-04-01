@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SlamDB Database (generic)</FileType>
+		<Ext>TDB</Ext>
+		<ExtraInfo>
+			<Rem>SlamDB is a complete custom database and index manager built into one small dynamic link library (DLL).</Rem>
+			<RefURL>http://www.kgpsoftware.com/slamdb.htm</RefURL>
+		</ExtraInfo>
+		<User>Kevin G. Peel</User>
+		<E-Mail></E-Mail>
+		<Home>http://www.kgpsoftware.com/</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>03</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>03</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>54444246</Bytes>
+			<ASCII> T D B F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

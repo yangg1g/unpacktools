@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>360desktop 360-degree Desktop image</FileType>
+		<Ext>360</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.360desktop.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>08</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>25</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>ED3336306465736B746F700D0A1A</Bytes>
+			<ASCII> . 3 6 0 d e s k t o p</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>360DESKTOP</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,93 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Music Publisher Score</FileType>
+		<Ext>MUP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.braeburn.co.uk</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>2</Month>
+			<Day>5</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>23</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5023</Bytes>
+			<ASCII> M P #</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>OBJECTS ON STAVES</String>
+		<String>MUSIC PUBLISHER</String>
+		<String>SERVICE PACK</String>
+		<String>FILEVERSION</String>
+		<String>FULLBARREST</String>
+		<String>FILEHEADER</String>
+		<String>PREPROCESS</String>
+		<String>SCREENTYPE</String>
+		<String>% USED OF</String>
+		<String>DATA FILE</String>
+		<String>DATESTAMP</String>
+		<String>INVISIBLE</String>
+		<String>LANDSCAPE</String>
+		<String>PAGE FILE</String>
+		<String>SCREENPPI</String>
+		<String>STARTPAGE</String>
+		<String>STAVESIZE</String>
+		<String>FILENAME</String>
+		<String>PROGNAME</String>
+		<String>PROGVER</String>
+		<String>SHEADER</String>
+		<String>(BUILD</String>
+		<String>FACING</String>
+		<String>FSTYLE</String>
+		<String>HEIGHT</String>
+		<String>MEMORY</String>
+		<String>NFONTS</String>
+		<String>RIGHTM</String>
+		<String>FNAME</String>
+		<String>FOOTM</String>
+		<String>FSIZE</String>
+		<String>HEADM</String>
+		<String>LEFTM</String>
+		<String>MAKER</String>
+		<String>NATKS</String>
+		<String>OSVER</String>
+		<String>PAGEN</String>
+		<String>PAGES</String>
+		<String>PATCH</String>
+		<String>SCORE</String>
+		<String>TEMPO</String>
+		<String>TOTAL</String>
+		<String>WIDTH</String>
+		<String>.MUP</String>
+		<String>BARL</String>
+		<String>BOTM</String>
+		<String>CLEF</String>
+		<String>DOTS</String>
+		<String>MAXX</String>
+		<String>MAXY</String>
+		<String>MINX</String>
+		<String>MINY</String>
+		<String>NOBJ</String>
+		<String>NOTE</String>
+		<String>TOPM</String>
+	</GlobalStrings>
+</TrID>

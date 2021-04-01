@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Zen Guard license</FileType>
+		<Ext>ZL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Zend_Technologies</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>5</Month>
+			<Day>5</Day>
+		</Date>
+		<Time>
+			<Hour>0</Hour>
+			<Min>57</Min>
+			<Sec>0</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50726F647563742D4E616D65203D205A656E64204775617264</Bytes>
+			<ASCII> P r o d u c t - N a m e   =   Z e n d   G u a r d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VERIFICATION-CODE</String>
+		<String>HARDWARE-LOCKED</String>
+		<String>LICENSE-VERSION</String>
+		<String>REGISTERED-TO</String>
+		<String>PRODUCT-NAME</String>
+		<String>COMPANY-KEY</String>
+		<String>X-ISSUED-ON</String>
+		<String>COMPANY-ID</String>
+		<String>ZEND GUARD</String>
+		<String>SERIAL-NO</String>
+		<String>EXPIRES</String>
+	</GlobalStrings>
+</TrID>

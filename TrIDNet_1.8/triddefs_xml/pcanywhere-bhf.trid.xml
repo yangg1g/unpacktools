@@ -1,0 +1,27 @@
+<TrID ver="1.15">
+	<Info>
+		<FileType>PCAnywhere32 Data</FileType>
+		<Ext>BHF</Ext>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<Date>
+			<Year>2003</Year>
+			<Month>4</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>18</Min>
+			<Sec>9</Sec>
+		</Time>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>10ABAAA86F7B7E787E767E7477747977</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

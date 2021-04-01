@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XemiComputers Active Desktop Calendar</FileType>
+		<Ext>ADC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.xemico.com/adc/</RefURL>
+		</ExtraInfo>
+		<User>Ryan Jones</User>
+		<E-Mail>sciguyryan@gmail.com</E-Mail>
+		<Home>http://ccc-cymru.com</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>04</Month>
+			<Day>27</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>00</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>58656D69436F</Bytes>
+			<ASCII> X e m i C o</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>EXPORTDATA</String>
+	</GlobalStrings>
+</TrID>

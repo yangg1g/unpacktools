@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Media Player sync info</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>21</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFE3C0044006500760069006300650049006E0066006F003E000D000A0020002000200020003C0057004D0050002000440065007600690063006500490044003D0022007B00</Bytes>
+			<ASCII> . . . . D . e . v . i . c . e . I . n . f . o . . . . . . .   .   .   .   . . . W . M . P .   . D . e . v . i . c . e . I . D . = . " . {</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>R'E'L'A'T'I'O'N'S'H'I'P'I'D</String>
+		<String>W'M'P' 'D'E'V'I'C'E'I'D</String>
+		<String>D'E'V'I'C'E'I'N'F'O</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MoonShell2 skin</FileType>
+		<Ext>SKN</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ds-xtra.com/MoonShell2</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2010</Year>
+			<Month>09</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>33</Min>
+			<Sec>47</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2A536B696E2066696C6573207061636B61676520666F72204D6F6F6E5368656C6C32</Bytes>
+			<ASCII> * S k i n   f i l e s   p a c k a g e   f o r   M o o n S h e l l 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

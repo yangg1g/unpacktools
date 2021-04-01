@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Gerber artwork</FileType>
+		<Ext>ART</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>05</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>23</Min>
+			<Sec>10</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>473034203D3D3D3D3D3D3D3D3D3D3D3D3D3D3D3D3D3D20626567696E2046494C45204944454E54494649434154494F4E205245434F5244203D3D3D3D3D3D3D3D3D3D3D3D3D3D3D3D3D3D2A</Bytes>
+			<ASCII> G 0 4   = = = = = = = = = = = = = = = = = =   b e g i n   F I L E   I D E N T I F I C A T I O N   R E C O R D   = = = = = = = = = = = = = = = = = = *</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BEGIN FILE IDENTIFICATION RECORD</String>
+		<String>END FILE IDENTIFICATION RECORD</String>
+		<String>G04 FILE FORMAT</String>
+		<String>G04 ORIGIN DATE</String>
+		<String>G04 FILE ORIGIN</String>
+		<String>G04 LAYOUT NAME</String>
+		<String>GERBER RS274X*</String>
+		<String>G04 FILM NAME</String>
+	</GlobalStrings>
+</TrID>

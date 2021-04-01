@@ -1,0 +1,61 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Mac Adobe Type 1 Font</FileType>
+		<Ext></Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>10</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>27</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4C57464E41535046</Bytes>
+			<ASCII> L W F N A S P F</ASCII>
+			<Pos>65</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>252150532D41646F6265466F6E742D312E303A20</Bytes>
+			<ASCII> % ! P S - A d o b e F o n t - 1 . 0 :</ASCII>
+			<Pos>390</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ADOBE SYSTEMS INCORPORATED</String>
+		<String>FONTTYPE 1 DEF</String>
+		<String>ISFIXEDPITCH</String>
+		<String>FAMILYNAME</String>
+		<String>COPYRIGHT</String>
+		<String>TRADEMARK</String>
+		<String>UNDERLINE</String>
+		<String>FONTINFO</String>
+		<String>FONTNAME</String>
+		<String>UNIQUEID</String>
+		<String>FULLNAME</String>
+		<String>ENCODING</String>
+		<String>VERSION</String>
+		<String>BNDL</String>
+		<String>POST</String>
+		<String>FREF</String>
+	</GlobalStrings>
+</TrID>

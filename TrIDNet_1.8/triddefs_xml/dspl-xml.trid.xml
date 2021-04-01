@@ -1,0 +1,57 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DSPL - Dataset Publishing Language</FileType>
+		<Ext>XML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://code.google.com/apis/publicdata/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>19</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D3822</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SCHEMAS.GOOGLE.COM</String>
+		<String>WWW.GOOGLE.COM</String>
+		<String>DESCRIPTION</String>
+		<String>XML VERSION</String>
+		<String>CONCEPT ID</String>
+		<String>PUBLICDATA</String>
+		<String>NAMESPACE</String>
+		<String>VALUE XML</String>
+		<String>ENCODING</String>
+		<String>PROVIDER</String>
+		<String>TYPE REF</String>
+		<String>DATASET</String>
+		<String>EXTENDS</String>
+		<String>STRING</String>
+		<String>UTF-8</String>
+		<String>XMLNS</String>
+		<String>DSPL</String>
+		<String>HTTP</String>
+		<String>INFO</String>
+		<String>LANG</String>
+	</GlobalStrings>
+</TrID>

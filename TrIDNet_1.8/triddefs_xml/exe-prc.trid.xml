@@ -1,0 +1,30 @@
+<TrID ver="1.16">
+    <Info>
+        <FileType>Palm Pilot executable</FileType>
+        <Ext>PRC</Ext>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>23</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>17</Day>
+        </Date>
+        <Time>
+            <Hour>13</Hour>
+            <Min>39</Min>
+            <Sec>41</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00.1</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>0000000000000000000000006170706C</Bytes>
+            <ASCII> . . . . . . . . . . . . a p p l</ASCII>
+            <Pos>48</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

@@ -1,0 +1,79 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>RSLogix 5000 Program</FileType>
+		<Ext>ACD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.rockwellautomation.com/rockwellsoftware/design/rslogix5000/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>44</FileNum>
+		<Refine>9 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>5</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>58</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0D0A546869732066696C65207761732067656E657261746564206279207468652052534C6F676978203530303020736F6674776172652E0D0A0D0A20202020202020202020202020444F204E4F5420414C54455220544849532046494C450D0A0D0A</Bytes>
+			<ASCII> . . T h i s   f i l e   w a s   g e n e r a t e d   b y   t h e   R S L o g i x   5 0 0 0   s o f t w a r e . . . . .                           D O   N O T   A L T E R   T H I S   F I L E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>D'E'V'I'C'E'I'D'E'N'T'I'T'Y' 'V'E'N'D'O'R'I'D</String>
+		<String>T'E'X'T'U'A'L'V'E'R'S'I'O'N'I'N'F'O'.'D'A'T</String>
+		<String>B'I'N'A'R'Y'V'E'R'S'I'O'N'I'N'F'O'.'D'A'T</String>
+		<String>C'H'A'N'G'E'L'O'G' 'S'O'F'T'W'A'R'E'I'D</String>
+		<String>L'O'G'I'X'Q'U'I'C'K'I'N'F'O' 'N'A'M'E</String>
+		<String>R'S'S'E'C'U'R'I'T'Y' 'S'E'C'U'R'E'I'D</String>
+		<String>S'C'H'E'M'A'V'E'R'S'I'O'N' 'M'A'J'O'R</String>
+		<String>V E R S I O N   I N F O R M A T I O N</String>
+		<String>C'O'M'P'A'T'A'B'I'L'I'T'Y'L'E'V'E'L</String>
+		<String>S'W'V'E'R'S'I'O'N' 'S'T'R'I'N'G</String>
+		<String>G'E'N'E'R'A'T'I'O'N'C'O'U'N'T</String>
+		<String>R'S'L'O'G'I'X' '5'0'0'0' 'V'1</String>
+		<String>M'A'J'O'R'R'E'V'I'S'I'O'N</String>
+		<String>M'I'N'O'R'R'E'V'I'S'I'O'N</String>
+		<String>Q'U'I'C'K'I'N'F'O'.'X'M'L</String>
+		<String>C'O'M'M'E'N'T'S'.'D'A'T</String>
+		<String>C'O'M'M'E'N'T'S'.'I'D'X</String>
+		<String>C'U'R'R'E'N'T'I'N'D'E'X</String>
+		<String>N'A'M'E'L'E'S'S'.'D'A'T</String>
+		<String>N'A'M'E'L'E'S'S'.'I'D'X</String>
+		<String>R'E'G'N'L'I'N'K'.'D'A'T</String>
+		<String>R'E'G'N'L'I'N'K'.'I'D'X</String>
+		<String>S'B'R'E'G'I'O'N'.'D'A'T</String>
+		<String>S'B'R'E'G'I'O'N'.'I'D'X</String>
+		<String>P'R'O'D'U'C'T'C'O'D'E</String>
+		<String>P'R'O'D'U'C'T'T'Y'P'E</String>
+		<String>T'A'G'I'N'F'O'.'X'M'L</String>
+		<String>T'I'M'E'L'I'N'E'U'I'D</String>
+		<String>V'E'R'S'I'O'N'.'L'O'G</String>
+		<String>X'M'L' 'V'E'R'S'I'O'N</String>
+		<String>C'O'M'P'S'.'D'A'T</String>
+		<String>C'O'M'P'S'.'I'D'X</String>
+		<String>X'R'E'F'S'.'D'A'T</String>
+		<String>X'R'E'F'S'.'I'D'X</String>
+		<String>E'N'C'O'D'I'N'G</String>
+		<String>I'M'A'G'E'U'I'D</String>
+		<String>C'O'P'Y'U'I'D</String>
+		<String>L'O'G'U'I'D</String>
+		<String>SAVED - V1</String>
+		<String>RXFBD_</String>
+		<String>1'.'0</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,47 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Quartus Simulator Setting File</FileType>
+		<Ext>SSF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Altera_Quartus</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>1</Hour>
+			<Min>48</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53494D554C41544F525F53455454494E4753</Bytes>
+			<ASCII> S I M U L A T O R _ S E T T I N G S</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ADD_DEFAULT_PINS_TO_SIMULATION_OUTPUT_WAVEFORMS</String>
+		<String>ESTIMATE_POWER_CONSUMPTION</String>
+		<String>SETUP_HOLD_DETECTION</String>
+		<String>SIMULATION_COVERAGE</String>
+		<String>SIMULATOR_SETTINGS</String>
+		<String>GLITCH_DETECTION</String>
+		<String>GLITCH_INTERVAL</String>
+		<String>SIMULATION_MODE</String>
+		<String>CHECK_OUTPUTS</String>
+		<String>START_TIME</String>
+	</GlobalStrings>
+</TrID>

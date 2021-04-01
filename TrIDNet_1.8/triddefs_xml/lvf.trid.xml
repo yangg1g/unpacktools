@@ -1,0 +1,59 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Logitech Video Effects Face Accessory</FileType>
+		<Ext>LVF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.logitech.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>01</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D53434600000000</Bytes>
+			<ASCII> M S C F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>5DIGITAL ID CLASS 3 - MICROSOFT SOFTWARE VALIDATION V21</String>
+		<String>.CLASS 3 PUBLIC PRIMARY CERTIFICATION AUTHORITY0</String>
+		<String>%VERISIGN CLASS 3 CODE SIGNING 2004 CA0</String>
+		<String>CSC3-2004-AIA.VERISIGN.COM</String>
+		<String>CSC3-2004-CRL.VERISIGN.COM</String>
+		<String>VERISIGN TRUST NETWORK1</String>
+		<String>2TERMS OF USE AT HTTPS</String>
+		<String>OCSP.VERISIGN.COM0</String>
+		<String>CSC3-2004-AIA.CER0</String>
+		<String>CLASS3CA2048-1-430</String>
+		<String>WWW.VERISIGN.COM</String>
+		<String>CSC3-2004.CRL0D</String>
+		<String>O'B'S'O'L'E'T'E</String>
+		<String>_METADATA.XML</String>
+		<String>RPA (C)041.0</String>
+		<String>CALIFORNIA1</String>
+		<String>PCA3.CRL0</String>
+		<String>FREMONT1</String>
+		<String>LOGITECH</String>
+		<String>INC.1705</String>
+		<String>INC.0</String>
+		<String>}.XML</String>
+	</GlobalStrings>
+</TrID>

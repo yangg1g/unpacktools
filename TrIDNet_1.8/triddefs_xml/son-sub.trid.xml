@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Spruce DVDMaestro subtitles</FileType>
+		<Ext>SON</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>14</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>73745F666F726D617409320D0A446973706C61795F5374617274</Bytes>
+			<ASCII> s t _ f o r m a t . 2 . . D i s p l a y _ S t a r t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PIXEL_AREA</String>
+		<String>DIRECTORY</String>
+		<String>FILE_NAME</String>
+		<String>SP_NUMBER</String>
+		<String>ST_FORMAT</String>
+		<String>TAPE_TYPE</String>
+		<String>CONTRAST</String>
+		<String>TV_TYPE</String>
+		<String>COLOR</String>
+	</GlobalStrings>
+</TrID>

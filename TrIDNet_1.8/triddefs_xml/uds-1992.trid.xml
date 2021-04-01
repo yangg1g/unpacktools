@@ -1,0 +1,63 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>NHTSA UDS-1992 crash test results</FileType>
+		<Ext>UDS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/NHTSA</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>375</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>03</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>55</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5544532D31393932</Bytes>
+			<ASCII> U D S - 1 9 9 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4D4554</Bytes>
+			<ASCII> M E T</ASCII>
+			<Pos>31</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>435552564520484452</Bytes>
+			<ASCII> C U R V E   H D R</ASCII>
+			<Pos>512</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54494D45</Bytes>
+			<ASCII> T I M E</ASCII>
+			<Pos>640</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5345434F4E4453</Bytes>
+			<ASCII> S E C O N D S</ASCII>
+			<Pos>660</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>54494D4520534552494553</Bytes>
+			<ASCII> T I M E   S E R I E S</ASCII>
+			<Pos>700</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>592044415441</Bytes>
+			<ASCII> Y   D A T A</ASCII>
+			<Pos>1024</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

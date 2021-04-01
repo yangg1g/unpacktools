@@ -1,0 +1,69 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Shapeshifter theme</FileType>
+		<Ext>GUIKIT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/ShapeShifter</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>43</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>12</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>06</Min>
+			<Sec>42</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4348534D</Bytes>
+			<ASCII> C H S M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>56455253</Bytes>
+			<ASCII> V E R S</ASCII>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4E414D45</Bytes>
+			<ASCII> N A M E</ASCII>
+			<Pos>44</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>AFILE</String>
+		<String>XNAME</String>
+		<String>VNAME</String>
+		<String>IRATP</String>
+		<String>C0D0</String>
+		<String>CHSM</String>
+		<String>AKIM</String>
+		<String>IDAT</String>
+		<String>IEND</String>
+		<String>DATA</String>
+		<String>DESC</String>
+		<String>DRSC</String>
+		<String>PATH</String>
+		<String>PRVW</String>
+		<String>PTCH</String>
+		<String>PTCS</String>
+		<String>OSVR</String>
+		<String>THME</String>
+		<String>TVAR</String>
+		<String>VERS</String>
+		<String>IHDR</String>
+		<String>RTFD</String>
+		<String>DDAT</String>
+	</GlobalStrings>
+</TrID>

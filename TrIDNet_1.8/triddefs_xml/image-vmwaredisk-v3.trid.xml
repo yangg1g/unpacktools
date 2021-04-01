@@ -1,0 +1,36 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>(part of a) VMware 3 Virtual Disc</FileType>
+        <Ext>VMDK</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://www.vmware.com</RefURL>
+        </ExtraInfo>
+        <User>THE LoW</User>
+        <E-Mail>the( d ot)low(a t)gmx.net</E-Mail>
+        <Home></Home>
+    </Info>
+    <General>
+        <FileNum>4</FileNum>
+        <CheckStrings>True</CheckStrings>
+        <Date>
+            <Year>2004</Year>
+            <Month>02</Month>
+            <Day>05</Day>
+        </Date>
+        <Time>
+            <Hour>22</Hour>
+            <Min>28</Min>
+            <Sec>57</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>434F5744</Bytes>
+            <ASCII> C O W D</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>
+

@@ -1,0 +1,48 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ATRAC encoded audio</FileType>
+		<Ext>ATP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sony.net/Products/Hi-MD/sonic.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>11</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>22</Min>
+			<Sec>49</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>494433</Bytes>
+			<ASCII> I D 3</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000000</Bytes>
+			<Pos>4</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7654</Bytes>
+			<ASCII> v T</ASCII>
+			<Pos>9</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TPE1</String>
+		<String>TIT2</String>
+	</GlobalStrings>
+</TrID>

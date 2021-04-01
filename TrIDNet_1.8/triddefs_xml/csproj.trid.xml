@@ -1,0 +1,71 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Visual Studio C# Project</FileType>
+		<Ext>CSPROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.microsoft.com/visualstudio/</RefURL>
+		</ExtraInfo>
+		<User>Ryan Jones</User>
+		<E-Mail>sciguyryan@gmail.com</E-Mail>
+		<Home>http://ccc-cymru.com/</Home>
+	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<Refine>8 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>05</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>58</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>MICROSOFT.CSHARP.TARGETS</String>
+		<String>CONFIGURATION CONDITION</String>
+		<String>PROPERTYGROUP CONDITION</String>
+		<String>PLATFORM CONDITION</String>
+		<String>APPDESIGNERFOLDER</String>
+		<String>REFERENCE INCLUDE</String>
+		<String>$(CONFIGURATION)</String>
+		<String>COMPILE INCLUDE</String>
+		<String>DEFINECONSTANTS</String>
+		<String>DEFAULTTARGETS</String>
+		<String>IMPORT PROJECT</String>
+		<String>ROOTNAMESPACE</String>
+		<String>ASSEMBLYNAME</String>
+		<String>DEBUGSYMBOLS</String>
+		<String>WARNINGLEVEL</String>
+		<String>TARGET NAME</String>
+		<String>BEFOREBUILD</String>
+		<String>ERRORREPORT</String>
+		<String>$(PLATFORM)</String>
+		<String>PROJECTGUID</String>
+		<String>PROPERTIES</String>
+		<String>OUTPUTTYPE</String>
+		<String>OUTPUTPATH</String>
+		<String>AFTERBUILD</String>
+		<String>DEVELOPER</String>
+		<String>DEBUGTYPE</String>
+		<String>$(MSBUILD</String>
+		<String>ITEMGROUP</String>
+		<String>OPTIMIZE</String>
+		<String>VERSION</String>
+		<String>SCHEMA</String>
+		<String>PATH)</String>
+		<String>MENT</String>
+		<String>FILE</String>
+	</GlobalStrings>
+</TrID>

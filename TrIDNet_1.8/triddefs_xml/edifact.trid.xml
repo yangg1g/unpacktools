@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>UN/EDIFACT</FileType>
+		<Ext>EDI</Ext>
+		<ExtraInfo>
+			<Rem>UN/EDIFACT (ISO 9735) is a global standard for the presentation of business and commercial data destined for electronic exchange data between companies.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/EDIFACT</RefURL>
+		</ExtraInfo>
+		<User>Wimjan Jansen van de Laak</User>
+		<E-Mail>trid at inventio dot nl</E-Mail>
+		<Home>http://inventio.nl</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>04</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>43</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>554E</Bytes>
+			<ASCII> U N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>UNB+</String>
+		<String>UNH+</String>
+		<String>UNT+</String>
+		<String>UNZ+</String>
+	</GlobalStrings>
+</TrID>

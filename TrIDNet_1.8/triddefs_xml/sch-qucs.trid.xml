@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Qucs schematic (v0.0.x)</FileType>
+		<Ext>SCH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://qucs.sourceforge.net/</RefURL>
+		</ExtraInfo>
+		<User>Eduardo</User>
+		<E-Mail>eduardosanchezmunoz@gmail.com</E-Mail>
+		<Home>http://eduardo38.netne.net/</Home>
+	</Info>
+	<General>
+		<FileNum>100</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>11</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>10</Min>
+			<Sec>06</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C5175637320536368656D6174696320302E302E</Bytes>
+			<ASCII> . Q u c s   S c h e m a t i c   0 . 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>QUCS SCHEMATIC</String>
+		<String>DATADISPLAY</String>
+		<String>OPENDISPLAY</String>
+		<String>COMPONENTS</String>
+		<String>PROPERTIES</String>
+		<String>PAINTINGS</String>
+		<String>DIAGRAMS</String>
+		<String>DATASET</String>
+		<String>WIRES</String>
+		<String>.DAT</String>
+		<String>VIEW</String>
+		<String>GRID</String>
+	</GlobalStrings>
+</TrID>

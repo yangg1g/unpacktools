@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>CyberLink PowerProducer Project</FileType>
+		<Ext>PPP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.cyberlink.com/products/powerproducer</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>22</Min>
+			<Sec>3</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.8b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5050505F303030312E3030304442474E564944454F5F4255524E00</Bytes>
+			<ASCII> P P P _ 0 0 0 1 . 0 0 0 D B G N V I D E O _ B U R N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>POWERPRODUCER</String>
+		<String>CYBERLINK</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,72 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Crocodile Physics Simulation</FileType>
+		<Ext>CYP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.crocodile-clips.com/Our_Products/Physics/Crocodile_Physics/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>28</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>12</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>FFFF020008004343697263756974</Bytes>
+			<ASCII> . . . . . . C C i r c u i t</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4353657269616C697A654861636B</Bytes>
+			<ASCII> C S e r i a l i z e H a c k</ASCII>
+			<Pos>20</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4F5448455253</Bytes>
+			<ASCII> O T H E R S</ASCII>
+			<Pos>79</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4350617274</Bytes>
+			<ASCII> C P a r t</ASCII>
+			<Pos>91</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0A434F4D504F4E454E5453</Bytes>
+			<ASCII> . C O M P O N E N T S</ASCII>
+			<Pos>120</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COPTOCONTAINERLIST</String>
+		<String>CSERIALIZEHACK</String>
+		<String>PIC LOGICATOR</String>
+		<String>COMPONENTS</String>
+		<String>CTERMINAL</String>
+		<String>CCIRCUIT</String>
+		<String>NULLTREE</String>
+		<String>TESTBCM</String>
+		<String>PROBES</String>
+		<String>OTHERS</String>
+		<String>CVALUE</String>
+		<String>ARIAL</String>
+		<String>CWIRE</String>
+		<String>CPART</String>
+		<String>WIRES</String>
+		<String>_BM{</String>
+	</GlobalStrings>
+</TrID>

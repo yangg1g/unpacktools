@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>ERDAS Imagine Hierarchical File Architecture</FileType>
+		<Ext>HFA</Ext>
+		<ExtraInfo>
+			<Rem>The HFA maintains an object-oriented representation of data in an ERDAS IMAGINE disk file through use of a tree structure.</Rem>
+			<RefURL>http://www.rdg.ac.uk/ITS/Topic/Graphics/GrGImagi01/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2005</Year>
+			<Month>12</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>56</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>454846415F4845414445525F544147</Bytes>
+			<ASCII> E H F A _ H E A D E R _ T A G</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LFToolkit Transformation Rules File</FileType>
+		<Ext>TRF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.isi.edu/~hobbs/LFToolkit/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>50</Min>
+			<Sec>04</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>235661726961626C6573</Bytes>
+			<ASCII> # V a r i a b l e s</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TRANSFORMATIONRULES</String>
+		<String>ENTRYPOINTS</String>
+		<String>VARIABLES</String>
+	</GlobalStrings>
+</TrID>

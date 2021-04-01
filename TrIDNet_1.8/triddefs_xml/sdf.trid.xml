@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>IEEE DASC Standard Delay Format</FileType>
+		<Ext>SDF</Ext>
+		<ExtraInfo>
+			<Rem>SDF is an existing OVI standard for the representation and interpretation of timing data for use at any stage of the electronic design process.</Rem>
+			<RefURL>http://www.eda-stds.org/sdf/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>30</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>2844454C415946494C45</Bytes>
+			<ASCII> ( D E L A Y F I L E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>(TIMESCALE</String>
+		<String>(DELAYFILE</String>
+		<String>(ABSOLUTE</String>
+		<String>(CELLTYPE</String>
+		<String>(INSTANCE</String>
+		<String>(VOLTAGE</String>
+		<String>(PROCESS</String>
+		<String>(DIVIDER</String>
+		<String>VERSION</String>
+		<String>(DESIGN</String>
+	</GlobalStrings>
+</TrID>

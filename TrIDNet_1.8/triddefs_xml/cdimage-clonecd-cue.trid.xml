@@ -1,0 +1,65 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Elaborate Bytes/SlySoft CloneCD CDImage (description)</FileType>
+		<Ext>CCD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.slysoft.com/en/clonecd.html</RefURL>
+		</ExtraInfo>
+		<User>THE LoW</User>
+		<E-Mail>the(insert dot here)low(at)gmx.net</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Refine>3 by Marco Pontello - 3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>14</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B436C6F6E6543445D0D0A56657273696F6E3D</Bytes>
+			<ASCII> [ C l o n e C D ] . . V e r s i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0D0A</Bytes>
+			<Pos>20</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DATATRACKSSCRAMBLED</String>
+		<String>CDTEXTLENGTH</String>
+		<String>TOCENTRIES</String>
+		<String>PREGAPMODE</String>
+		<String>PREGAPSUBC</String>
+		<String>SESSIONS</String>
+		<String>CONTROL</String>
+		<String>TRACKNO</String>
+		<String>CLONECD</String>
+		<String>VERSION</String>
+		<String>PFRAME</String>
+		<String>AFRAME</String>
+		<String>INDEX</String>
+		<String>POINT</String>
+		<String>ENTRY</String>
+		<String>AMIN</String>
+		<String>PLBA</String>
+		<String>PSEC</String>
+		<String>ASEC</String>
+		<String>DISC</String>
+		<String>PMIN</String>
+		<String>ALBA</String>
+		<String>ZERO</String>
+	</GlobalStrings>
+</TrID>

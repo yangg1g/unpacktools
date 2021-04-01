@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HEC-HMS Control specifications data</FileType>
+		<Ext>CONTROL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.hec.usace.army.mil/software/hec-hms/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>01</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>436F6E74726F6C3A20</Bytes>
+			<ASCII> C o n t r o l :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>LAST MODIFIED DATE</String>
+		<String>LAST MODIFIED TIME</String>
+		<String>TIME INTERVAL</String>
+		<String>START TIME</String>
+		<String>START DATE</String>
+		<String>END TIME</String>
+		<String>END DATE</String>
+		<String>CONTROL</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Delta RPM Package</FileType>
+		<Ext>DRPM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/RPM_Package_Manager</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>15</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>18</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EDABEEDB0300000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ROOT'ROOT'ROOT'ROOT'ROOT'ROOT'ROOT'ROOT'ROOT'ROOT'ROOT'ROOT'ROOT'ROOT'ROOT'ROOT'ROOT'ROOT'ROOT</String>
+		<String>RPMLIB(PAYLOADFILESHAVEPREFIX)</String>
+		<String>RPMLIB(COMPRESSEDFILENAMES)</String>
+		<String>RPMLIB(PAYLOADIS</String>
+		<String>)'RPMLIB(</String>
+		<String>MESSAGE</String>
+		<String>SRC.RPM</String>
+		<String>PACKAG</String>
+		<String>SOURCE</String>
+		<String>ECTOR</String>
+		<String>INTER</String>
+		<String>REMOV</String>
+		<String>SHARE</String>
+		<String>TABLE</String>
+		<String>-TAB</String>
+		<String>DRPM</String>
+		<String>HANG</String>
+		<String>HTTP</String>
+		<String>INST</String>
+		<String>SERV</String>
+	</GlobalStrings>
+</TrID>

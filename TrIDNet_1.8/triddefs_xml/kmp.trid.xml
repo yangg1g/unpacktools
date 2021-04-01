@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Korg Trinity/Triton multisample</FileType>
+		<Ext>KMP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.fmjsoft.com/fmt/kmp.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>57</Min>
+			<Sec>22</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D535031</Bytes>
+			<ASCII> M S P 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.KSF</String>
+		<String>RLP1</String>
+		<String>MSP1</String>
+	</GlobalStrings>
+</TrID>

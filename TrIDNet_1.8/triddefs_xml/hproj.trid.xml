@@ -1,0 +1,105 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>HOBOware Project</FileType>
+		<Ext>HPROJ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.onsetcomp.com/products/software/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>10</Month>
+			<Day>31</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>21</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E200A3C6A6176612076657273696F6E3D22312E362E305F32</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ? .   . . j a v a   v e r s i o n = " 1 . 6 . 0 _ 2</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>APPLESEED.HOBOVIEWX$HOBOSERIESX</String>
+		<String>ONSET COMPUTER CORPORATION</String>
+		<String>GRAPHING.LGABSTIMEAXIS</String>
+		<String>JAVA.BEANS.XMLDECODER</String>
+		<String>GRAPHING.LGVALUEAXIS</String>
+		<String>GRAPHING.LGLEGEND</String>
+		<String>GRAPHING.LGSERIES</String>
+		<String>OLSERVICES.OMTEMP</String>
+		<String>STARTLOGGINGDELAY</String>
+		<String>CURRENTUNITINDEX</String>
+		<String>GRAPHING.LGLABEL</String>
+		<String>GRAPHING.LGTITLE</String>
+		<String>GRAPHING.LGAXIS</String>
+		<String>JAVA.AWT.COLOR</String>
+		<String>FSTSAMPLETIME</String>
+		<String>VOID PROPERTY</String>
+		<String>FSTSCALEREAL</String>
+		<String>JAVA VERSION</String>
+		<String>OBJECT CLASS</String>
+		<String>SCDSCALEREAL</String>
+		<String>ARRAY CLASS</String>
+		<String>FSTSCALERAW</String>
+		<String>GMTMINSORIG</String>
+		<String>SCDSCALERAW</String>
+		<String>XML VERSION</String>
+		<String>CHANNELMAX</String>
+		<String>CHANNELMIN</String>
+		<String>GMTMINSRAW</String>
+		<String>LABELARRAY</String>
+		<String>TIMEZONEID</String>
+		<String>VOID INDEX</String>
+		<String>BOUNDSMAX</String>
+		<String>BOUNDSMIN</String>
+		<String>POINTTYPE</String>
+		<String>SHOWLINES</String>
+		<String>ENCODING</String>
+		<String>INTERVAL</String>
+		<String>LNCHDESC</String>
+		<String>LNCHTIME</String>
+		<String>LOCATION</String>
+		<String>SAMPLESN</String>
+		<String>UNITNAME</String>
+		<String>BOOLEAN</String>
+		<String>HDRDATE</String>
+		<String>TFONTSZ</String>
+		<String>VALPATT</String>
+		<String>DEVMEM</String>
+		<String>DOUBLE</String>
+		<String>LENGTH</String>
+		<String>LOGGER</String>
+		<String>OMNAME</String>
+		<String>PRODID</String>
+		<String>RATURE</String>
+		<String>STDDEV</String>
+		<String>STRING</String>
+		<String>VENDOR</String>
+		<String>FWVER</String>
+		<String>LDESC</String>
+		<String>SDESC</String>
+		<String>UTF-8</String>
+		<String>YAXIS</String>
+		<String>AXES</String>
+		<String>BATT</String>
+		<String>DATA</String>
+		<String>DEPN</String>
+		<String>GRID</String>
+		<String>MNFC</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

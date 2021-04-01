@@ -1,0 +1,200 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Solid Edge Draft Document</FileType>
+		<Ext>DFT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Solid_Edge</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>47</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>2</Month>
+			<Day>28</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>25</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>J'D'V'_'S'H'O'W'T'A'N'G'E'N'T'E'D'G'E'S'I'N'I'S'O'M'E'T'R'I'C'V'I'E'W'S'O'N'O'F'F</String>
+		<String>J'D'V'_'S'H'O'W'T'A'N'G'E'N'T'E'D'G'E'S'I'N'P'R'I'N'C'I'P'A'L'V'I'E'W'S'O'N'O'F'F</String>
+		<String>J'D'V'_'S'H'O'W'H'I'D'D'E'N'E'D'G'E'S'I'N'I'S'O'M'E'T'R'I'C'V'I'E'W'S'O'N'O'F'F</String>
+		<String>J'D'V'_'S'H'O'W'H'I'D'D'E'N'E'D'G'E'S'I'N'P'R'I'N'C'I'P'A'L'V'I'E'W'S'O'N'O'F'F</String>
+		<String>J'D'V'_'S'H'O'W'H'I'D'D'E'N'P'A'R'T'S'I'N'I'S'O'M'E'T'R'I'C'V'I'E'W'S'O'N'O'F'F</String>
+		<String>J'D'V'_'S'H'O'W'H'I'D'D'E'N'P'A'R'T'S'I'N'P'R'I'N'C'I'P'A'L'V'I'E'W'S'O'N'O'F'F</String>
+		<String>J'D'V'_'A'C'T'I'V'E'T'A'N'G'E'N'T'E'D'G'E'S'S'T'Y'L'E'N'A'M'E</String>
+		<String>J'D'V'_'A'C'T'I'V'E'V'I'S'I'B'L'E'E'D'G'E'S'S'T'Y'L'E'N'A'M'E</String>
+		<String>J'D'V'_'A'C'T'I'V'E'H'I'D'D'E'N'E'D'G'E'S'S'T'Y'L'E'N'A'M'E</String>
+		<String>J'D'V'_'A'C'T'I'V'E'C'E'N'T'E'R'L'I'N'E'S'T'Y'L'E'N'A'M'E</String>
+		<String>J'D'V'_'T'H'I'R'D'A'N'G'L'E'P'R'O'J'E'C'T'I'O'N'O'N'O'F'F</String>
+		<String>OWNERSHIP IMPLEMENTATION - OWNER ENGINE WITHOUT SEMANTIC</String>
+		<String>J'D'V'_'A'N'S'I'_'I'S'O'_'T'H'R'E'A'D'_'S'T'A'N'D'A'R'D</String>
+		<String>J'D'V'_'A'C'T'I'V'E'F'L'O'W'L'I'N'E'S'T'Y'L'E'N'A'M'E</String>
+		<String>J'D'V'_'T'O'P'L'E'V'E'L'I'T'E'M'N'U'M'B'E'R'O'N'O'F'F</String>
+		<String>C'3'T'E'A'G'X'W'O'T'T'D'B'F'K'U'I'A'A'M'T'A'E'3'I'E</String>
+		<String>D'O'C'U'M'E'N'T'S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N</String>
+		<String>N'A'M'E' 'O'F' 'S'A'V'I'N'G' 'A'P'P'L'I'C'A'T'I'O'N</String>
+		<String>R'F'U'N'N'Y'D'1'A'V'T'D'B'F'K'U'I'A'A'M'T'A'E'3'I'E</String>
+		<String>S'S'Z'B'W'O'M'G'Y'1'U'D'B'2'W'H'A'A'Q'5'U'2'J'W'C'G</String>
+		<String>ASSOC SUBSYSTEM STANDARD RELATION IMPLEMENTATION</String>
+		<String>D'E'F'A'U'L'T'D'I'S'T'A'N'C'E'P'R'E'C'I'S'I'O'N</String>
+		<String>D'E'F'A'U'L'T'D'I'S'T'A'N'C'E'S'E'C'O'N'D'A'R'Y</String>
+		<String>J'D'V'_'S'H'O'W'C'E'N'T'E'R'L'I'N'E'S'O'N'O'F'F</String>
+		<String>D'E'F'A'U'L'T'D'E'N'S'I'T'Y'P'R'E'C'I'S'I'O'N</String>
+		<String>D'E'F'A'U'L'T'D'I'S'T'A'N'C'E'T'E'R'T'I'A'R'Y</String>
+		<String>G'E'O'M'E'T'R'I'C'V'E'R'S'I'O'N'H'I'S'T'O'R'Y</String>
+		<String>D'E'F'A'U'L'T'D'I'S'T'A'N'C'E'P'R'I'M'A'R'Y</String>
+		<String>J'D'V'_'S'H'O'W'F'L'O'W'L'I'N'E'S'O'N'O'F'F</String>
+		<String>M'S'C'O'N'V'E'R'T'E'D'P'R'O'P'E'R'T'Y'S'E'T</String>
+		<String>D'E'F'A'U'L'T'A'N'G'L'E'P'R'E'C'I'S'I'O'N</String>
+		<String>D'E'F'A'U'L'T'A'N'G'L'E'S'E'C'O'N'D'A'R'Y</String>
+		<String>D'E'F'A'U'L'T'A'N'G'L'E'T'E'R'T'I'A'R'Y</String>
+		<String>D'E'F'A'U'L'T'A'R'E'A'P'R'E'C'I'S'I'O'N</String>
+		<String>D'E'F'A'U'L'T'A'N'G'L'E'P'R'I'M'A'R'Y</String>
+		<String>D'E'F'A'U'L'T'D'I'S'T'A'N'C'E'M'O'D'E</String>
+		<String>J'D'V'_'T'H'R'E'A'D'_'S'T'A'N'D'A'R'D</String>
+		<String>P'A'P'E'R'U'N'I'T'S'P'R'E'C'I'S'I'O'N</String>
+		<String>D'E'F'A'U'L'T'A'R'E'A'P'R'I'M'A'R'Y</String>
+		<String>J'D'R'A'F'T'D'O'C'U'M'E'N'T'I'N'F'O</String>
+		<String>D'E'F'A'U'L'T'A'N'G'L'E'M'O'D'E</String>
+		<String>J'D'R'A'F'T'V'I'E'W'E'R'I'N'F'O</String>
+		<String>D'E'F'A'U'L'T'A'R'E'A'M'O'D'E</String>
+		<String>D'O'C'U'M'E'N'T' 'N'U'M'B'E'R</String>
+		<String>F'I'R'S'T'P'A'G'E'N'U'M'B'E'R</String>
+		<String>P'S'M'C'L'U'S'T'E'R'T'A'B'L'E</String>
+		<String>P'S'M'S'E'G'M'E'N'T'T'A'B'L'E</String>
+		<String>A'N'S'I'3'4'('P'L'A'S'T'I'C</String>
+		<String>C'E'N'T'E'R'E'D' 'C'H'A'I'N</String>
+		<String>C'R'E'A'T'I'O'N'L'O'C'A'L'E</String>
+		<String>G'E'N'E'R'A'T'E'O'N'S'A'V'E</String>
+		<String>M'O'D'E'L'R'E'F'E'R'E'N'C'E</String>
+		<String>JSL SIMPLE DASH TYPE STYLE</String>
+		<String>B'U'I'L'D'V'E'R'S'I'O'N'S</String>
+		<String>D'A'S'H' 'D'A'S'H' 'D'O'T</String>
+		<String>JSHEETLAYERMANAGER OBJECT</String>
+		<String>P'R'E'F'E'R'E'N'C'E'S'E'T</String>
+		<String>JSL TEXT CHARACTER STYLE</String>
+		<String>JSL TEXT PARAGRAPH STYLE</String>
+		<String>D'A'S'H' 'D'O'T' 'D'O'T</String>
+		<String>D'O'U'B'L'E' 'C'H'A'I'N</String>
+		<String>G'R'O'U'P'M'A'N'A'G'E'R</String>
+		<String>I'C'O'N'C'R'E'A'T'I'O'N</String>
+		<String>J'V'I'S'I'B'L'E'D'A'T'A</String>
+		<String>JSHEETLAYERGROUP OBJECT</String>
+		<String>L'A'Y'E'R'M'A'N'A'G'E'R</String>
+		<String>P'S'M'T'Y'P'E'T'A'B'L'E</String>
+		<String>P'S'M'U'S'E'R'R'O'O'T'S</String>
+		<String>S'T'O'R'E'P'R'E'V'I'E'W</String>
+		<String>S'T'Y'L'E'M'A'N'A'G'E'R</String>
+		<String>D'O'C'V'E'R'S'I'O'N'2</String>
+		<String>J'P'R'O'P'E'R'T'I'E'S</String>
+		<String>JDIMPARAMETERS OBJECT</String>
+		<String>JSL SIMPLE FILL STYLE</String>
+		<String>JSL SIMPLE LINE STYLE</String>
+		<String>P'S'M'C'L'U'S'T'E'R'0</String>
+		<String>P'S'M'S'P'A'C'E'M'A'P</String>
+		<String>R'O'U'T'I'N'G'S'L'I'P</String>
+		<String>S'I'T'E'O'B'J'E'C'T'S</String>
+		<String>JLAYERMANAGER OBJECT</String>
+		<String>JSL HATCH FILL STYLE</String>
+		<String>A'N'S'I'3'6'('M'A'R</String>
+		<String>C'O'N'T'I'N'U'O'U'S</String>
+		<String>D'O'C'U'M'E'N'T'I'D</String>
+		<String>H'A'T'C'H' 'D'A'S'H</String>
+		<String>J'S'I'T'E'S'L'I'S'T</String>
+		<String>P'R'O'J'E'C'T' 'N'A</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>S'O'L'I'D' 'E'D'G'E</String>
+		<String>JLAYERGROUP OBJECT</String>
+		<String>JSHEETLAYER OBJECT</String>
+		<String>JSL OVERRIDE STYLE</String>
+		<String>MODELREFERENCE DEX</String>
+		<String>D'I'M'E'N'S'I'O'N</String>
+		<String>O'N'D'A'X'D'A'T'A</String>
+		<String>P'A'R'A'S'O'L'I'D</String>
+		<String>S'M'A'L'L' 'D'I'B</String>
+		<String>V'A'R'I'A'B'L'E'S</String>
+		<String>BACKDROP OBJECT</String>
+		<String>CLSID_JPROPTEXT</String>
+		<String>D'O'C'S'T'O'R'E</String>
+		<String>L'I'B'R'A'R'Y'0</String>
+		<String>M'A'T'E'R'I'A'L</String>
+		<String>P'S'M'R'O'O'T'S</String>
+		<String>R'E'V'I'S'I'O'N</String>
+		<String>S'D'A'X'D'A'T'A</String>
+		<String>S'U'P'P'O'R'T'O</String>
+		<String>T'O'P'V'F'S'E'T</String>
+		<String>U'N'T'I'T'L'E'D</String>
+		<String>U'S'E'R'N'A'M'E</String>
+		<String>VIEW SET OBJECT</String>
+		<String>VIEWCAPTION DEX</String>
+		<String>JSENSORMANAGER</String>
+		<String>JSHEETS OBJECT</String>
+		<String>D'I'S'P'L'A'Y</String>
+		<String>E'N'D' 'G'A'P</String>
+		<String>JLAYER OBJECT</String>
+		<String>JSHEET OBJECT</String>
+		<String>P'R'O'P'T'E'X</String>
+		<String>T'O'B'J'E'C'T</String>
+		<String>W'I'N'D'O'W'S</String>
+		<String>GROUPMANAGER</String>
+		<String>GRPMGR.DEX'Z</String>
+		<String>A'N'S'I'M'M</String>
+		<String>D'E'T'A'I'L</String>
+		<String>EXPRESSIONS</String>
+		<String>JDIMDAXDATA</String>
+		<String>L'A'T'I'O'N</String>
+		<String>LINE OBJECT</String>
+		<String>N'O'R'M'A'L</String>
+		<String>PARTDEX.DLL</String>
+		<String>S'H'E'E'T'S</String>
+		<String>S'T'A'T'U'S</String>
+		<String>S'T'Y'L'E'S</String>
+		<String>DOCEXT.DEX</String>
+		<String>ANNOT.DEX</String>
+		<String>SHEETVIEW</String>
+		<String>CLSID_JD</String>
+		<String>CLSID_JM</String>
+		<String>KEYPOINT</String>
+		<String>MEMBASSY</String>
+		<String>DRAWING</String>
+		<String>FACTORY</String>
+		<String>MONIKER</String>
+		<String>PERSIST</String>
+		<String>S'E'N'S</String>
+		<String>VIEWFIL</String>
+		<String>WINDOWS</String>
+		<String>ONELEM</String>
+		<String>TABLES</String>
+		<String>ALIGN</String>
+		<String>DRAFT</String>
+		<String>SMART</String>
+		<String>CLST</String>
+		<String>EDGE</String>
+		<String>EPYT</String>
+		<String>LIST</String>
+		<String>OLEM</String>
+		<String>OLES</String>
+		<String>ROOT</String>
+		<String>SSEG</String>
+		<String>STAB</String>
+		<String>_0CS</String>
+	</GlobalStrings>
+</TrID>

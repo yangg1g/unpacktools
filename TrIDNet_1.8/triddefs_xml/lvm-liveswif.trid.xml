@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>LiveSwif Movie (ungzipped)</FileType>
+		<Ext>LVM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://liveswifers.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>48</Min>
+			<Sec>19</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D2C4217</Bytes>
+			<ASCII> M , B</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>434C4D565363656E65</Bytes>
+			<ASCII> C L M V S c e n e</ASCII>
+			<Pos>68</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CEFFECTPLACEINTERNAL</String>
+		<String>CELPROXYCONTAINER</String>
+		<String>CLMVSPRITE</String>
+		<String>CLMVSCENE</String>
+		<String>CKEYFRAME</String>
+		<String>G'U'I'D'E</String>
+		<String>L'A'Y'E'R</String>
+		<String>S'C'E'N'E</String>
+		<String>CELLAYER</String>
+	</GlobalStrings>
+</TrID>

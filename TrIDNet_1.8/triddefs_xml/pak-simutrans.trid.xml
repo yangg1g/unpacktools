@@ -1,0 +1,50 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Simutrans object package</FileType>
+		<Ext>PAK</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Simutrans</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>171</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>1</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>4</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>53696D757472616E73206F626A6563742066696C650A</Bytes>
+			<ASCII> S i m u t r a n s   o b j e c t   f i l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>1A</Bytes>
+			<Pos>56</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>524F4F54</Bytes>
+			<ASCII> R O O T</ASCII>
+			<Pos>61</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SIMUTRANS OBJECT FILE</String>
+		<String>IMG1</String>
+		<String>ROOT</String>
+		<String>TEXT</String>
+	</GlobalStrings>
+</TrID>

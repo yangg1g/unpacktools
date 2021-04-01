@@ -1,0 +1,68 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Comfy Cakes saved game</FileType>
+		<Ext>COMFYCAKESSAVE-MS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Purble_Place</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>9</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>47</Min>
+			<Sec>33</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>52474D48010000002820</Bytes>
+			<ASCII> R G M H . . . . (</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>C'O'M'F'Y' 'C'A'K'E'S'.'C'O'M'F'Y'C'A'K'E'S'S'A'V'E'-'M'S</String>
+		<String>L'A'S'T'C'A'K'E'E'N'T'E'R'E'D'F'I'R'S'T'S'T'A'T'I'O'N</String>
+		<String>T'I'M'E'A'T'T'A'C'K'N'E'W'C'A'K'E'T'I'M'E'R'L'O'C'K</String>
+		<String>T'I'M'E'A'T'T'A'C'K'B'E'L'T'T'I'M'E'R</String>
+		<String>C'O'N'V'E'Y'O'R'B'E'L'T</String>
+		<String>C'O'R'R'E'C'T'C'A'K'E'S</String>
+		<String>H'E'I'G'H'T'D'E'L'T'A</String>
+		<String>M'I'S'S'E'D'C'A'K'E'S</String>
+		<String>O'R'I'E'N'T'A'T'I'O'N</String>
+		<String>C'A'K'E'S'M'A'T'C'H</String>
+		<String>D'I'F'F'I'C'U'L'T'Y</String>
+		<String>R'O'U'N'D'T'I'M'E'R</String>
+		<String>S'I'N'G'L'E'C'A'K'E</String>
+		<String>B'E'L'T'S'L'O'T'S</String>
+		<String>F'I'R'S'T'M'O'V'E</String>
+		<String>M'O'V'E'S'M'A'D'E</String>
+		<String>N'U'M'S'L'I'D'E'S</String>
+		<String>R'O'U'N'D'D'A'T'A</String>
+		<String>V'E'R'S'I'O'N</String>
+		<String>F'L'A'V'O'R</String>
+		<String>L'A'Y'E'R'S</String>
+		<String>E'M'P'T'Y</String>
+		<String>F'A'L'S'E</String>
+		<String>S'H'A'P'E</String>
+		<String>T'R'U'E</String>
+		<String>T'Y'P'E</String>
+		<String>IDATX</String>
+		<String>IEND</String>
+		<String>IHDR</String>
+		<String>PHYS</String>
+		<String>RGMH</String>
+	</GlobalStrings>
+</TrID>

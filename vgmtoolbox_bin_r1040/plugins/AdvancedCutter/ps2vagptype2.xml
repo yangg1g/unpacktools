@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OffsetFinderTemplate>
+  <Header>
+    <FormatName>PlayStation 2 - VAGp Streams Type 2</FormatName>
+    <Author>bxaimc</Author>
+  </Header>
+  <SearchParameters>
+    <SearchString>56414770</SearchString>
+    <TreatSearchStringAsHex>true</TreatSearchStringAsHex>
+    <SearchStringOffset>0</SearchStringOffset>
+    <OutputFileExtension>.vag</OutputFileExtension>
+    <CutParameters>
+      <CutStyle>offset</CutStyle>
+      <CutSizeAtOffset>0x0c</CutSizeAtOffset>
+      <CutSizeOffsetSize>4</CutSizeOffsetSize>
+      <CutSizeOffsetEndianess>big</CutSizeOffsetEndianess>      
+    </CutParameters>
+    <AddExtraBytes>true</AddExtraBytes>
+    <AddExtraByteSize>96</AddExtraByteSize>    
+  </SearchParameters>
+  <NotesOrWarnings>Note: For use with games that don't work correctly with type 1 like "Kingdom Hearts II." VAGp streams are mono unless denoted by 2 files with the same name containing an "L" and "R" within. Unfortunately, you might end up doing some renaming after the ripping process in order to match left channel files with their corresponding right channel files.</NotesOrWarnings>
+</OffsetFinderTemplate>

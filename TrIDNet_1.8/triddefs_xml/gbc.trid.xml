@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GameBoy Color ROM File</FileType>
+		<Ext>GBC</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Gameboy</RefURL>
+		</ExtraInfo>
+		<User>Troy Lundin</User>
+		<E-Mail>team.ism(nospam)@gmail.com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>576</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>05</Month>
+			<Day>25</Day>
+		</Date>
+		<Time>
+			<Hour>23</Hour>
+			<Min>46</Min>
+			<Sec>20</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00C3</Bytes>
+			<Pos>256</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>CEED6666CC0D000B03730083000C000D0008111F8889000EDCCC6EE6DDDDD999BBBB67636E0EECCCDDDC999FBBB9333E</Bytes>
+			<ASCII> . . f f . . . . . s . . . . . . . . . . . . . . . . n . . . . . . . g c n . . . . . . . . . 3</ASCII>
+			<Pos>260</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

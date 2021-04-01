@@ -1,0 +1,42 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>X Windows Dump bitmap</FileType>
+        <Ext>XWD</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>44</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>26</Day>
+        </Date>
+        <Time>
+            <Hour>21</Hour>
+            <Min>28</Min>
+            <Sec>24</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.02.6b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>000000</Bytes>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000000700000002000000</Bytes>
+            <Pos>4</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>6269746D6170</Bytes>
+            <ASCII> b i t m a p</ASCII>
+            <Pos>100</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

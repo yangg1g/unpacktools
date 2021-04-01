@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>a-squared Anti-Malware signature</FileType>
+		<Ext>SIG</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.emsisoft.com/en/</RefURL>
+		</ExtraInfo>
+		<User>Scrapie</User>
+		<E-Mail>scrapie@pochta.ru</E-Mail>
+	</Info>
+	<General>
+		<FileNum>126</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>12</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>01</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>454D534988000000</Bytes>
+			<ASCII> E M S I</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

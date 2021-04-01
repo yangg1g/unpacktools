@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Borland Sprint document</FileType>
+		<Ext>SPR</Ext>
+		<ExtraInfo>
+			<Rem>An excellent word processor of the '80, from Borland</Rem>
+			<RefURL>http://www.sci.wsu.edu/math/faculty/barnes/borland/sprint.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>07</Month>
+			<Day>09</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>09</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0B5220</Bytes>
+			<ASCII> . R</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

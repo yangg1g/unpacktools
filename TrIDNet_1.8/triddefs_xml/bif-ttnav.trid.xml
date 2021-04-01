@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>TomTom Navigator info</FileType>
+		<Ext>BIF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.tomtom.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>03</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>21</Min>
+			<Sec>07</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B546F6D546F6D204E4156494741544F525D0D0A4465766963654E616D653D</Bytes>
+			<ASCII> [ T o m T o m   N A V I G A T O R ] . . D e v i c e N a m e =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>APPLICATIONBUILDNUMBER</String>
+		<String>APPLICATIONVERSION</String>
+		<String>DEVICESERIALNUMBER</String>
+		<String>TOMTOM NAVIGATOR</String>
+		<String>DEVICEVERSIONHW</String>
+		<String>DEVICEUNIQUEID</String>
+		<String>USERPASSWORD</String>
+		<String>DEVICENAME</String>
+		<String>USERNAME</String>
+	</GlobalStrings>
+</TrID>

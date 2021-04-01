@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>particleIllusion library</FileType>
+		<Ext>IL3</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.wondertouch.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>01</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>38</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0C494C4C5553494F4E336C6962</Bytes>
+			<ASCII> . I L L U S I O N 3 l i b</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

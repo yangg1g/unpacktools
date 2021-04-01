@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>avast! antivirus skin</FileType>
+		<Ext>ASWCS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.avast.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>04</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>45</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>7801EC</Bytes>
+			<ASCII> x</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

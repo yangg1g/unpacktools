@@ -1,0 +1,47 @@
+<TrID ver="1.16">
+    <Info>
+        <FileType>Fiasco Database: index File</FileType>
+        <Ext>FIDX</Ext>
+        <User>Ruggero Furlanetto</User>
+        <E-Mail>furlanr@REMOVEMEFORSPAMinfinito.it</E-Mail>
+        <Home>http://members.xoom.virgilio.it/misartim/</Home>
+    </Info>
+    <General>
+        <FileNum>4</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>08</Month>
+            <Day>15</Day>
+        </Date>
+        <Time>
+            <Hour>11</Hour>
+            <Min>34</Min>
+            <Sec>23</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.00.1</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>4644424800</Bytes>
+            <ASCII> F D B H</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000</Bytes>
+            <Pos>12</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000</Bytes>
+            <Pos>16</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>0000</Bytes>
+            <Pos>20</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>4649445800050002</Bytes>
+            <ASCII> F I D X</ASCII>
+            <Pos>24</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

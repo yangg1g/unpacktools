@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>WinImp compressed archive</FileType>
+		<Ext>IMP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.technelysium.com.au/winimp.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>22</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>05</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>26</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>494D500A</Bytes>
+			<ASCII> I M P</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

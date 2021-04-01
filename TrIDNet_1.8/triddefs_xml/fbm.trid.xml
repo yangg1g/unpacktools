@@ -1,0 +1,44 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DELFTship ship</FileType>
+		<Ext>FBM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.delftship.net/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>17</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>09</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>465245452173686970</Bytes>
+			<ASCII> F R E E ! s h i p</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FREE</String>
+		<String>JFIF</String>
+		<String>SHIP</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,69 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Photodex ProShow Show file</FileType>
+		<Ext>PSH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.photodex.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>33</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>1</Month>
+			<Day>7</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>4</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>50686F746F6465782852292050726F53686F7728544D2920</Bytes>
+			<ASCII> P h o t o d e x ( R )   P r o S h o w ( T M )</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SHOW FILE VERSION</String>
+		<String>OUTPUTIMAGESIZEX</String>
+		<String>OUTPUTIMAGESIZEY</String>
+		<String>VIDEOMUXBITRATE</String>
+		<String>VIDEOFRAMERATE</String>
+		<String>ALLOWPRINTALL</String>
+		<String>OUTPUTQUALITY</String>
+		<String>TOOLBARENABLE</String>
+		<String>ALLOWRESTART</String>
+		<String>ALLOWSAVEALL</String>
+		<String>DISPLAYSIZEX</String>
+		<String>DISPLAYSIZEY</String>
+		<String>PROSHOW INFO</String>
+		<String>VIDEOBITRATE</String>
+		<String>LOOPRESTART</String>
+		<String>MY COMPUTER</String>
+		<String>ALLOWSAVER</String>
+		<String>VIDEOSIZEX</String>
+		<String>VIDEOSIZEY</String>
+		<String>ALLOWCOPY</String>
+		<String>ALLOWPLAY</String>
+		<String>ALLOWQUIT</String>
+		<String>ALLOWTIME</String>
+		<String>ALLOWCTA</String>
+		<String>CTALABEL</String>
+		<String>FILENAME</String>
+		<String>PHOTODEX</String>
+		<String>OWSIZE</String>
+		<String>PTION</String>
+		<String>SHOWS</String>
+		<String>.PSH</String>
+	</GlobalStrings>
+</TrID>

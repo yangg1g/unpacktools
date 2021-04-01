@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Acrobat eBook Reader EBX Transfer Data</FileType>
+		<Ext>ETD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.adobe.com/products/digitaleditions/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>02</Month>
+			<Day>11</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>44</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>EBX-TRANSFER-DATA</String>
+		<String>X-EBX-VERSION</String>
+		<String>BOOKFILEURL</String>
+		<String>MINVERSION</String>
+		<String>VOUCHERURL</String>
+		<String>FULFILLURL</String>
+		<String>GLASSBOOK</String>
+		<String>ETD-ENTRY</String>
+		<String>ENTRIES</String>
+		<String>EBX.ETD</String>
+		<String>BASEURL</String>
+		<String>ORDERID</String>
+		<String>ACTION</String>
+		<String>NONCE</String>
+		<String>HTTP</String>
+		<String>.PDF</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

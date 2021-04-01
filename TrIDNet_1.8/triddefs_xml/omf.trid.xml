@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Open Source Metadata Framework</FileType>
+		<Ext>OMF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ibiblio.org/osrt/omf/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>1</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>36</Min>
+			<Sec>44</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DESCRIPTION</String>
+		<String>XML VERSION</String>
+		<String>IDENTIFIER</String>
+		<String>CATEGORY</String>
+		<String>LANGUAGE</String>
+		<String>RELATION</String>
+		<String>RESOURCE</String>
+		<String>SERIESID</String>
+		<String>CREATOR</String>
+		<String>SUBJECT</String>
+		<String>FORMAT</String>
+		<String>TITLE</String>
+		<String>CODE</String>
+		<String>DATE</String>
+		<String>MIME</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

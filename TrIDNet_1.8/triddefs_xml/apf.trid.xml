@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+	<Info>
+		<FileType>MightyFax</FileType>
+		<Ext>APF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>21</FileNum>
+		<Date>
+			<Year>2003</Year>
+			<Month>08</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>02</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.2b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>41504631301A</Bytes>
+			<ASCII> A P F 1 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

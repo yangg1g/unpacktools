@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SerialBox serials numbers package</FileType>
+		<Ext>SB2</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>01</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>11</Min>
+			<Sec>46</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B53657269616C426F785D</Bytes>
+			<ASCII> [ S e r i a l B o x ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ISSUENUMBER</String>
+		<String>CERTIFICATE</String>
+		<String>LASTUPDATE</String>
+		<String>SERIAL BOX</String>
+		<String>ZIPLENGTH</String>
+		<String>REVISION</String>
+		<String>GREETING</String>
+		<String>VERSION</String>
+		<String>DATA</String>
+	</GlobalStrings>
+</TrID>

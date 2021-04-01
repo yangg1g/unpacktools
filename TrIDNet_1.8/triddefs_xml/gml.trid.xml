@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Graphlet File Format</FileType>
+		<Ext>GML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.infosun.fim.uni-passau.de/Graphlet/GML/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>07</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>49</Min>
+			<Sec>13</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6772617068205B</Bytes>
+			<ASCII> g r a p h   [</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>SOURCE</String>
+		<String>TARGET</String>
+		<String>GRAPH</String>
+		<String>EDGE</String>
+		<String>NODE</String>
+	</GlobalStrings>
+</TrID>

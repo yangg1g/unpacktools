@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Eclipse Plugin list</FileType>
+		<Ext>P2F</Ext>
+		<ExtraInfo>
+			<Rem>Used to export/import a list of plugins and their configurations.</Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Eclipse_(software)</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>29</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>6</Min>
+			<Sec>9</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D27312E302720656E636F64696E673D275554462D38273F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = ' 1 . 0 '   e n c o d i n g = ' U T F - 8 ' ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>P2F VERSION</String>
+		<String>XML VERSION</String>
+		<String>ENCODING</String>
+		<String>IUS SIZE</String>
+		<String>1.0.0</String>
+		<String>UTF-8</String>
+	</GlobalStrings>
+</TrID>

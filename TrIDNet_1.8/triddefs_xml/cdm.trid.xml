@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>NTI CD Maker image file</FileType>
+		<Ext>CDM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.nticdmaker.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>01</Month>
+			<Day>17</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>44</Min>
+			<Sec>36</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0E4E54495F43444C41594F555456</Bytes>
+			<ASCII> . N T I _ C D L A Y O U T V</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

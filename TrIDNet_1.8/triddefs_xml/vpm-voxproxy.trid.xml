@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Vox Proxy Macro</FileType>
+		<Ext>VPM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.voxproxy.com/support/network.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>3</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>10</Month>
+			<Day>02</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>29</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B7363726970745D0D0A6B6579313D</Bytes>
+			<ASCII> [ s c r i p t ] . . k e y 1 =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>RUNSLIDESHOW</String>
+		<String>SCRIPT</String>
+		<String>HTTP</String>
+		<String>WWW.</String>
+		<String>.PPT</String>
+	</GlobalStrings>
+</TrID>

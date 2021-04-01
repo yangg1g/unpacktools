@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Csound file</FileType>
+		<Ext>CSD</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.csounds.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>17</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>08</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>45</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C43736F756E6453796E74686573697A65723E</Bytes>
+			<ASCII> . C s o u n d S y n t h e s i z e r</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CSOUNDSYNTHESIZER</String>
+		<String>CSINSTRUMENTS</String>
+		<String>CSSCORE</String>
+		<String>ENDIN</String>
+	</GlobalStrings>
+</TrID>

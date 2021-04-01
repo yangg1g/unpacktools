@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>DigitalMugician song-module</FileType>
+		<Ext>DMU</Ext>
+		<ExtraInfo>
+			<Rem>Also known as 'Digital Mugician', this music format was created by Reiner van Vliet (Rhino/Team Hoi).</Rem>
+			<RefURL>http://exotica.fix.no/tunes/unexotica/formats/Mugician.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>18</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>21</Day>
+		</Date>
+		<Time>
+			<Hour>10</Hour>
+			<Min>37</Min>
+			<Sec>24</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>204D5547494349414E</Bytes>
+			<ASCII>   M U G I C I A N</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

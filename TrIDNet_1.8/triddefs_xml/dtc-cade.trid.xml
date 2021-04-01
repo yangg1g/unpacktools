@@ -1,0 +1,81 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Weresc CADE drawing</FileType>
+		<Ext>DTC</Ext>
+		<ExtraInfo>
+			<Rem>Web Resource Co produce CADE and CADE pro for drawing technical diagrams</Rem>
+			<RefURL>http://www.weresc.com</RefURL>
+		</ExtraInfo>
+		<User>Kieran O'Donnell</User>
+		<E-Mail>FileMan at consultant dot com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>155</FileNum>
+		<Refine>9 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>1</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>33</Min>
+			<Sec>50</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>0C1E4341444562696E61727901000000</Bytes>
+			<ASCII> . . C A D E b i n a r y</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ASTRONOMICALUNITS</String>
+		<String>ANSICPG1251</String>
+		<String>CENTIMETERS</String>
+		<String>FCHARSET204</String>
+		<String>HECTOMETERS</String>
+		<String>MICROINCHES</String>
+		<String>MILLIMETERS</String>
+		<String>CADEBINARY</String>
+		<String>DECAMETERS</String>
+		<String>DECIMETERS</String>
+		<String>GIGAMETERS</String>
+		<String>KILOMETERS</String>
+		<String>LIGHTYEARS</String>
+		<String>NANOMETERS</String>
+		<String>ANGSTROMS</String>
+		<String>COLORTBL</String>
+		<String>FONTTBL{</String>
+		<String>LANG1049</String>
+		<String>UNITLESS</String>
+		<String>CF11 T}</String>
+		<String>CURRENT</String>
+		<String>MICRONS</String>
+		<String>PARSECS</String>
+		<String>DEFF0{</String>
+		<String>CF2 E</String>
+		<String>CF3 F</String>
+		<String>CF4 A</String>
+		<String>CF5 U</String>
+		<String>CF6 L</String>
+		<String>CF7 T</String>
+		<String>CF8 T</String>
+		<String>CF9 E</String>
+		<String>FPRQ2</String>
+		<String>GREEN</String>
+		<String>MILES</String>
+		<String>YARDS</String>
+		<String>BLUE</String>
+		<String>CF10</String>
+		<String>FEET</String>
+		<String>FNIL</String>
+		<String>FS20</String>
+		<String>MILS</String>
+		<String>RTF1</String>
+	</GlobalStrings>
+</TrID>

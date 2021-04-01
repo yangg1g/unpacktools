@@ -1,0 +1,56 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Visual Basic Active Designer file</FileType>
+		<Ext>DSR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Visual_basic</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>11</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>29</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>56455253494F4E20352E3030</Bytes>
+			<ASCII> V E R S I O N   5 . 0 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ATTRIBUTE VB_GLOBALNAMESPACE</String>
+		<String>ATTRIBUTE VB_PREDECLAREDID</String>
+		<String>ATTRIBUTE VB_CREATABLE</String>
+		<String>ATTRIBUTE VB_EXPOSED</String>
+		<String>ATTRIBUTE VB_NAME</String>
+		<String>BEGINPROPERTY</String>
+		<String>CLIENTHEIGHT</String>
+		<String>CLIENTWIDTH</String>
+		<String>ENDPROPERTY</String>
+		<String>CLIENTLEFT</String>
+		<String>CLIENTTOP</String>
+		<String>_EXTENTX</String>
+		<String>_EXTENTY</String>
+		<String>ECTIONS</String>
+		<String>BEGIN {</String>
+		<String>CAPTION</String>
+		<String>FALSE</String>
+		<String>TYPE</String>
+		<String>TRUE</String>
+		<String>DATA</String>
+	</GlobalStrings>
+</TrID>

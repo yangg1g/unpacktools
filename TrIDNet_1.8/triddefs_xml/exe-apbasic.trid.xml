@@ -1,0 +1,149 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>16bit DOS EXE ApBasic</FileType>
+		<Ext>EXE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>09</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>38</Min>
+			<Sec>59</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D5A</Bytes>
+			<ASCII> M Z</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00000002000000FFFF</Bytes>
+			<Pos>5</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>026E0000000000</Bytes>
+			<ASCII> . n</ASCII>
+			<Pos>15</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>021C000000000000004D53454D3837050A6766772E2E2E47573A009D017C01BE01470660068206C6066406AC01D1E31EB9</Bytes>
+			<ASCII> . . . . . . . . . M S E M 8 7 . . g f w . . . G W : . . . | . . . G . ` . . . . . d</ASCII>
+			<Pos>23</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>8ED92EFF9710001FCB4E4F38373D0D0A161EB85600509A</Bytes>
+			<ASCII> . . . . . . . . . N O 8 7 = . . . . . V . P</ASCII>
+			<Pos>74</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>A4</Bytes>
+			<Pos>98</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>1EB81400509A</Bytes>
+			<ASCII> . . . . P</ASCII>
+			<Pos>101</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>A4</Bytes>
+			<Pos>108</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>1E0BF674728EC60E1F33FFFC26803D007465B90500BE3300F3A6740BB9FF7F32C0F2AE74E7EB50B9FF7FB020F3AE4F268A150AD2743833C0B9FF7F8BDFF2AE4F2BFB8BCF8BFB508BC4BB01005306575116509A</Bytes>
+			<ASCII> . . . t r . . . . 3 . . . . = . t e . . . . 3 . . . t . . . . 2 . . . t . . P . . . . 	. . O . . . . . t 8 3 . . . . . . . . O + . . . . . P . . . . . S . W Q . P</ASCII>
+			<Pos>111</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>A4</Bytes>
+			<Pos>195</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>8BC4BB0100530EBF380057BB02005316509A</Bytes>
+			<ASCII> . . . . . S . . 8 . W . . . S . P</ASCII>
+			<Pos>198</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>A4</Bytes>
+			<Pos>217</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5B1FC606040000EB7F901F833E1400007542DBE351B91400E2FE5933C0A35800D93E580051B91400E2FE59812658003F0F813E58003F037512DD3E580051B91400E2FE5940F7065800BFB8740233C0A20400EB0D1E6804006A036A009A</Bytes>
+			<ASCII> [ . . . . . . . . . . . . . . . u B . . Q . . . . . Y 3 . . X . . . X . Q . . . . . Y . . X . ? . . . X . ? . u . . . X . Q . . . . . Y @ . . X . . . t . 3 . . . . . . . h . . j . j</ASCII>
+			<Pos>220</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>A4</Bytes>
+			<Pos>314</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>803E0400007420833E140000750AE88C237314B8FEFFF9C36A100E683E021E6822009A</Bytes>
+			<ASCII> . . . . . t 	. . . . . u . . . # s . . . . . . j . . h . . . h "</ASCII>
+			<Pos>317</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>A4</Bytes>
+			<Pos>353</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>833E1400007505E87800EB16803E040000750F6A070E68EE0B1E681E009A</Bytes>
+			<ASCII> . . . . . u . . x . . . . . . . . u . j . . h . . . h</ASCII>
+			<Pos>356</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>A4</Bytes>
+			<Pos>387</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>E83400B83213E8D80433C0A30000A30200A0040098C3833E1400007510E88800803E0400007405DBE3E85723C3FF3656009A</Bytes>
+			<ASCII> . 4 . . 2 . . . . 3 . . . . . . . . . . . . . . . . . u . . . . . . . . . t . . . . W # . . 6 V</ASCII>
+			<Pos>390</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>A4</Bytes>
+			<Pos>441</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>C3803E0400007402DBE3A10E00A3100033C03A06040074039BDBE2A30C00A30800C3A3000089160200C3B90B00B83435BF1E00CD2140891D8C450283C704E2F3BA120CBE9B0BBF7E0B803E0400007409BA8A07BE5507BF82071E0E1FB83425B90800CD2140E2FB8BD6CD21408BD7CD211FC3B90B00B83425BF1E001EC515CD211F4083C704E2F4C3800E170002803E040000740380CC02C3800E170004C3CF43EB19505583EC1C8BEC9BD97600B83A02874620894602531EC55E068B07042873DE86C4894608EB10505583EC1C8BECD976009BDBE2FB531EB8</Bytes>
+			<ASCII> . . . . . . t . . . . . . . . . 3 . : . . . t . . . . . . . . . . . . . . . . . . . . . . . 4 5 . . . . ! @ . . . E . . . . . . . . . . . . . ~ . . . . . . t . . . . . U . . . . . . . . 4 % . . . . ! @ . . . . . ! @ . . . ! . . . . . . 4 % . . . . . . . ! . @ . . . . . . . . . . . . . . . . t . . . . . . . . . . . . C . . P U . . . . . . . v . . : . . F 	. F . S . . ^ . . . . ( s . . . . F . . . P U . . . . . . v . . . . . S</ASCII>
+			<Pos>444</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>8ED833C08A460232FFF6C701750AA801740680CF01E98400A8027403E9F901F6C704750CA804740880CF04E8E302EBD9F6C708750AA808740680CF08E9BC028A1E060080CBC080E3FCF6D322C3A801741F508B460880E4073DFA017505580C80EB0E8B46082538033D000158750234019BDBE29BD96E00090608001F5B83C41C5DA9FFBF750258C350538BDC368B4704368947065B5883C402E9D70256535152578B5E048B4E02F7D38ACD80E138D0E9D0E9D3CBF6C7C074518B560881F2E001F6C2C07520F7C22001753FF6C2107508F6C2087516EB339080FA12740E80FA147409EB2690F7C21001751F80E73F8B3610003B3612007503E8B2FE83C60C893610009BD9F6DB3CE90101F6C3037403EB49908B560881F2E001F6C2C07409F7C210017503EB34900BDB7406E8BC00EB2A908B3610003B360E007503E9BA0080CB039BD9F7DB2C8B3610003B360E007503E86AFE83EE0C89361000F6C30C754D8BF383E6F00BF67418DB3E4A00D1EBD1EBE87700DB2E4A00D1E3D1E380CB03EB2C8B3610003B360E00742280CB0C9BD9F79BD9F7DB2C9BD9F68B3610003B360E007503E818FE83EE0C893610008B560881F2E001F6C2C0750BF7C220017519F6C2107503EB46908ACA80E10FBAC450D3E279F1F6C30C75EC83E207D0E28BCA8BD3D3CAF6C2037524EB0F90D1CBD1CB9BD9F7F7C3030074F3C380CC04C64602009BD966005F5A595B5EE96CFE24FEE801015F5A595B5EE9F1FD800E080002518B4E0881E1380383F908740D83F910740880E13083F9307553F6C7C0741C80E73F8B3610003B3612007503E861FD83C60C893610009BD9F6DB3C8B4E085181E1000481C10401894E08E8AF00E850005983E13880F908740880F910742480F10881C9C106894E08E88900EB2D8B4E0881E1380181F900017403E87700E82000EB1880CC409BDBE2D9C9D8D1D9C9DDD89BDD3E16009B0A0616005924FDE94CFDDB7E129B8B4E1AF7C1FF7F741EF64619807514DF6E12DB7E129B837E1A00740B81E93E40014E1ADB6E12C333C9894E12894E14894E16894E18894E1AEBE9508B460825C00180F4013DC000587303E80300E9F8FCF6C440755C80CC401E575651539BDBE28CD7833E14000074048B3E56008B4E088BD980E50780CDD880E3C080F3C0740980E13880C904C5760A86E9897E148D7E16897E12C646169B894E17C64619CBFF5E125B595E5F1F9BDD3E16009B0A061600C31E53B38BF6C4047538B38AF6C4027531B388A880752BB389F6C4017524B381A801751EB383A8047518B384A8087512B385A810750CB386A8207506B387A8407500B8</Bytes>
+			<ASCII> . . 3 . . F . 2 . . . . u . . . t . . . . . . . . . t . . . . . . . u . . . t . . . . . . . . . . . . u . . . t . . . . . . . . . . . . . . . . . . . " . . . t . P . F . . . . = . . u . X . . . . . F . % 8 . = . . X u . 4 . . . . . . n . . . . . . [ . . . ] . . . u . X . P S . . 6 . G . 6 . G . [ X . . . . . . V S Q R W . ^ . . N . . . . . . . 8 . . . . . . . . . t Q . V . . . . . . . . u 	. . 	. u ? . . . u . . . . u . . 3 . . . . t . . . . t . . . . . . . . u . . . ? . 6 . . ; 6 . . u . . . . . . . . 6 . . . . . . . . . . . . . t . . I . . V . . . . . . . . t . . . . . u . . 4 . . . t . . . . . * . . 6 . . ; 6 . . u . . . . . . . . . . . , . 6 . . ; 6 . . u . . j . . . . . 6 . . . . . u M . . . . . . . t . . . J . . . . . . w . . . J . . . . . . . . . , . 6 . . ; 6 . . t " . . . . . . . . . . , . . . . 6 . . ; 6 . . u . . . . . . . . 6 . . . V . . . . . . . . u . . . 	. u . . . . u . . F . . . . . . . . P . . y . . . . u . . . . . . . . . . . . . . . u $ . . . . . . . . . . . . . . t . . . . . . F . . . . f . _ Z Y [ ^ . l . $ . . . . _ Z Y [ ^ . . . . . . . . Q . N . . . 8 . . . . t . . . . t . . . 0 . . 0 u S . . . t . . . ? . 6 . . ; 6 . . u . . a . . . . . 6 . . . . . . . . N . Q . . . . . . . . . N . . . . . P . Y . . 8 . . . t . . . . t $ . . . . . . . . N . . . . . - . N . . . 8 . . . . . t . . w . . 	. . . . . @ . . . . . . . . . . . . . . . . . . . . . Y $ . . L . . ~ . . . N . . . . . t . . F . . u . . n . . ~ . . . ~ . . t . . . . @ . N . . n . . 3 . . N . . N . . N . . N . . N . . . P . F . % . . . . . = . . X s . . . . . . . . . @ u \ . . @ . W V Q S . . . . . . . . . . t . . . V . . N . . . . . . . . . . . . . . . t . . . 8 . . . . v . . . . ~ . . ~ . . ~ . . F . . . N . . F . . . ^ . [ Y ^ _ . . . . . . . . . . . . . S . . . . . u 8 . . . . . u 1 . . . . u + . . . . . u $ . . . . u . . . . . u . . . . . u . . . . . u . . . . 	u . . . . @ u</ASCII>
+			<Pos>663</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>8ED8A100000B060200750593B44CCD21935BFF1E00001F58CFA30600253CFF803E0400007408A31A009BD92E1A00A30A00C3A10600C333C03A060400740B9BDD3E16009BA01600243F0B06080025FF1FA30800C325000C803E040000741F9BD93E0A009B8B0E0A0080E5F30BC1A31A009BD92E1A00D9FC9BD92E0A00C38B0E0A005180E5F30AE588260B0055E8CD145D8F060A00E86600C325000C803E04000074289BD93E0A009B8B0E0A0080E5F30BC1A31A009BD92E1A00DB1E1A009BD92E0A00A11A008B161C00C38B0E0A005180E5F30AE588260B0055E848135D8BC28BD3E819008B3610003B360E007503E815FB83EE0C893610008F060A00C38B0E1600090E0800080E0C00F6D18A2E060080CDC280E53F0ACDF6D18A2E1700F7C1FFDF74D991E995FEFB9B50551E568BECC576088A04800CC04E4E897608D0E8D0E8D0E8F6D024180C2686C4B09B890453BB0100EB20FB9B50B83DA2EB06FB9B50B8325C551E568BECC576084E4E89760829045333DB54583BC475288B400125FB303DD93075078A40023CF072168B400125FFFE3DDBE2740B8B40013DDFE07403C604905B5E1F5D58CF8C0C540C6E0CD00C8A0C</Bytes>
+			<ASCII> . . . . . . . . . u . . . L . ! . [ . . . . . X . . . . % . . . . . . . t . . . . . . . . . . . . . . . . . 3 . : . . . t . . . . . . . . . . $ ? . . . . % . . . . . . % . . . . . . . t . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Q . . . . . . . . . U . . . ] . . . . . f . . % . . . . . . . t ( . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Q . . . . . . . . . U . H . ] . . . . . . . . 6 . . ; 6 . . u . . . . . . . . 6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ? . . . . . . . . . . . . t . . . . . . . P U . V . . . v . . . . . . N N . v . . . . . . . . . $ . . . . . . . . . S . . . . 	. . P . = . . . . . P . 2 \ U . V . . . v . N N . v . ) . S 3 . T X ; . u ( . @ . % . 0 = . 0 u . . @ . . . r . . @ . % . . = . . t . . @ . = . . t . . . . [ ^ . ] X . . . T . n</ASCII>
+			<Pos>1614</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>(C)1987-1991 COMPTECH SOFTWARE</String>
+		<String>.CHN''''''''''''''''''''''MZ</String>
+		<String>APBASIC</String>
+		<String>FLOATING POINT ERROR.</String>
+		<String>IN LINE '.</String>
+		<String>INC.$</String>
+		<String>MSEM87</String>
+		<String>NO87</String>
+		<String>NOT ENOUGH MEMORY</String>
+		<String>PROGRAM STOPPED. PRESS ANY KEY TO CONTINUE....'RUN-TIME ERROR</String>
+		<String>REDO FROM START' AT ADDRESS</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,77 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Marble map description</FileType>
+		<Ext>DGML</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://edu.kde.org/marble/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>11</Month>
+			<Day>3</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>20</Min>
+			<Sec>7</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D38223F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " U T F - 8 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COORDINATE GRID</String>
+		<String>COORDINATE-GRID</String>
+		<String>PROPERTY NAME</String>
+		<String>SECTION NAME</String>
+		<String>DESCRIPTION</String>
+		<String>EDU.KDE.ORG</String>
+		<String>ICON PIXMAP</String>
+		<String>MAP BGCOLOR</String>
+		<String>OVERVIEWMAP</String>
+		<String>XML VERSION</String>
+		<String>DGML XMLNS</String>
+		<String>AVAILABLE</String>
+		<String>CHECKABLE</String>
+		<String>DISCRETE</String>
+		<String>DOCUMENT</String>
+		<String>ENCODING</String>
+		<String>SCALEBAR</String>
+		<String>SETTINGS</String>
+		<String>COMPASS</String>
+		<String>CONNECT</String>
+		<String>HEADING</String>
+		<String>MAXIMUM</String>
+		<String>MINIMUM</String>
+		<String>PREVIEW</String>
+		<String>SPACING</String>
+		<String>VISIBLE</String>
+		<String>CANVAS</String>
+		<String>LAYERS</String>
+		<String>LEGEND</String>
+		<String>MARBLE</String>
+		<String>TARGET</String>
+		<String>CDATA</String>
+		<String>EARTH</String>
+		<String>THEME</String>
+		<String>UTF-8</String>
+		<String>VALUE</String>
+		<String>HTTP</String>
+		<String>MAPN</String>
+		<String>TRUE</String>
+		<String>ZOOM</String>
+	</GlobalStrings>
+</TrID>

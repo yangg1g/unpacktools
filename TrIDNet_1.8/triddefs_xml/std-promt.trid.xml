@@ -1,0 +1,88 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PROMT document</FileType>
+		<Ext>STD</Ext>
+		<ExtraInfo>
+			<Rem>PROMT is a leading translator software.</Rem>
+			<RefURL>http://www.promt.ru</RefURL>
+		</ExtraInfo>
+		<User>kif aka AC</User>
+		<E-Mail></E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Refine>4 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>05</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>35</Min>
+			<Sec>17</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>530075006D006D0061007200790049006E0066006F0072006D006100740069006F006E</Bytes>
+			<ASCII> S . u . m . m . a . r . y . I . n . f . o . r . m . a . t . i . o . n</ASCII>
+			<Pos>642</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>530075006D006D006100720079</Bytes>
+			<ASCII> S . u . m . m . a . r . y</ASCII>
+			<Pos>768</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52006F006F007400200045006E00740072007900</Bytes>
+			<ASCII> R . o . o . t .   . E . n . t . r . y</ASCII>
+			<Pos>1536</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>530075006D006D0061007200790049006E0066006F0072006D006100740069006F006E</Bytes>
+			<ASCII> S . u . m . m . a . r . y . I . n . f . o . r . m . a . t . i . o . n</ASCII>
+			<Pos>1666</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>530075006D006D006100720079</Bytes>
+			<ASCII> S . u . m . m . a . r . y</ASCII>
+			<Pos>1792</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'U'M'M'A'R'Y'I'N'F'O'R'M'A'T'I'O'N'''''''''''''''''''''''''''(</String>
+		<String>D'I'R'E'C'T'I'O'N'I'N'F'O</String>
+		<String>P'R'E'P'R'O'C'E'S'S'O'R'S</String>
+		<String>D'I'C'T'I'O'N'A'R'I'E'S</String>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>D'I'R'E'C'T'I'O'N'_</String>
+		<String>T'R'A'N'S'L'A'T'O'R</String>
+		<String>U'N'K'W'O'R'D'S</String>
+		<String>D'I'R'S'I'N'F'O</String>
+		<String>D'O'C'I'N'F'O</String>
+		<String>T'A'R'G'E'T</String>
+		<String>P'P'I'N'F'O</String>
+		<String>S'O'U'R'C'E</String>
+		<String>FCHARSET0</String>
+		<String>FONTTBL{</String>
+		<String>COLORTBL</String>
+		<String>VIEWKIND</String>
+		<String>DEFLANG</String>
+		<String>W'W'T'S</String>
+		<String>DEFF0</String>
+		<String>PARD</String>
+		<String>STDS</String>
+		<String>RTF1</String>
+		<String>RED0</String>
+		<String>WWTS</String>
+		<String>FS20</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Pokemon Online team</FileType>
+		<Ext>TP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Pok%C3%A9mon</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>2</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>2</Hour>
+			<Min>2</Min>
+			<Sec>57</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C5465616D2076657273696F6E3D22</Bytes>
+			<ASCII> . T e a m   v e r s i o n = "</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TRAINER LOSEMSG</String>
+		<String>POKEMON ITEM</String>
+		<String>TEAM VERSION</String>
+		<String>DEFAULTTIER</String>
+		<String>HAPPINESS</String>
+		<String>NICKNAME</String>
+		<String>ABILITY</String>
+		<String>INFOMSG</String>
+		<String>AVATAR</String>
+		<String>GENDER</String>
+		<String>NATURE</String>
+		<String>WINMSG</String>
+		<String>FORME</String>
+		<String>SHINY</String>
+		<String>MOVE</String>
+	</GlobalStrings>
+</TrID>

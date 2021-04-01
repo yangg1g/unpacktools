@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Garmin Training Center Database XML (V2)</FileType>
+		<Ext>TCX</Ext>
+		<ExtraInfo>
+			<Rem>Used to transport fitness data between Garmin products.</Rem>
+			<RefURL>http://developer.garmin.com/schemas/tcx/v2/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>05</Month>
+			<Day>22</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>21</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TRAININGCENTERDATABASE XMLNS</String>
+		<String>TRAININGCENTERDATABASEV2.XSD</String>
+		<String>XMLSCHEMA-INSTANCE</String>
+		<String>TOTALTIMESECONDS</String>
+		<String>DISTANCEMETERS</String>
+		<String>WWW.GARMIN.COM</String>
+		<String>SCHEMALOCATION</String>
+		<String>WWW.W3.ORG</String>
+		<String>XMLSCHEMAS</String>
+		<String>INTENSITY</String>
+		<String>V2 HTTP</String>
+		<String>ACTIVE</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

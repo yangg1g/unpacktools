@@ -1,0 +1,89 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>OverDrive Media console media control</FileType>
+		<Ext>ODM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.overdrive.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>7</Month>
+			<Day>7</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>28</Min>
+			<Sec>48</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C3F786D6C2076657273696F6E3D22312E30223F3E</Bytes>
+			<ASCII> . ? x m l   v e r s i o n = " 1 . 0 " ?</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>COLLABORATIVEPLAY</String>
+		<String>OVERDRIVEMEDIA ID</String>
+		<String>PUBLICPERFORMANCE</String>
+		<String>TRANSFERTONONSDMI</String>
+		<String>PROTOCOL METHOD</String>
+		<String>ACQUISITIONURL</String>
+		<String>EXPIRATIONDATE</String>
+		<String>MEDIUM QUALITY</String>
+		<String>TRANSCODETOAAC</String>
+		<String>TRANSFERTOSDMI</String>
+		<String>BURNTOCDCOUNT</String>
+		<String>LANGUAGE CODE</String>
+		<String>PLAYONPCCOUNT</String>
+		<String>QUALITY LEVEL</String>
+		<String>TRANSFERCOUNT</String>
+		<String>CREATOR ROLE</String>
+		<String>THUMBNAILURL</String>
+		<String>ACCENTCOLOR</String>
+		<String>CONTENTTYPE</String>
+		<String>FORMAT NAME</String>
+		<String>PART NUMBER</String>
+		<String>PARTS COUNT</String>
+		<String>XML VERSION</String>
+		<String>BANNER.GIF</String>
+		<String>ODMVERSION</String>
+		<String>OMCVERSION</String>
+		<String>WEBSITEURL</String>
+		<String>BANNERURL</String>
+		<String>LANGUAGES</String>
+		<String>PROTOCOLS</String>
+		<String>PUBLISHER</String>
+		<String>SORTTITLE</String>
+		<String>SOURCE ID</String>
+		<String>WMLICENSE</String>
+		<String>CREATORS</String>
+		<String>DOWNLOAD</String>
+		<String>FILENAME</String>
+		<String>FILESIZE</String>
+		<String>METADATA</String>
+		<String>PLAYONPM</String>
+		<String>BASEURL</String>
+		<String>DRMINFO</String>
+		<String>ENGLISH</String>
+		<String>FILE-AS</String>
+		<String>FORMATS</String>
+		<String>AUTHOR</String>
+		<String>IMAGES</String>
+		<String>VE.COM</String>
+		<String>HASH2</String>
+		<String>.JPG</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Friend of a Friend (FOAF) Resource Description Framework</FileType>
+		<Ext>RDF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.foaf-project.org/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>13</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>04</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>22-RDF-SYNTAX-NS</String>
+		<String>HOMEPAGE RDF</String>
+		<String>RDF-SCHEMA</String>
+		<String>WWW.W3.ORG</String>
+		<String>XMLNS.COM</String>
+		<String>RESOURCE</String>
+		<String>PERSON</String>
+		<String>2000</String>
+		<String>RDFS</String>
+		<String>FOAF</String>
+		<String>1999</String>
+		<String>HTTP</String>
+		<String>MBOX</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DATA>
+ <TransformScript>
+  <OtherComments>
+   <Content>Ligature Collection
+This script inserts all of the latin ligatures in the Alphabetic Presentation Forms character set, and a selection of the many ligatures proposed by the Medieval Unicode Font Initiative in the Private Use Area. You will need to edit the glyphs.</Content>
+  </OtherComments>
+  <GlyphInsertCharacters>
+   <Characters>61125, 61128-61136, 61145-61148, 64256-64262</Characters>
+   <OverrideRange>TRUE</OverrideRange>
+  </GlyphInsertCharacters>
+  <GlyphCompleteComposites>
+  </GlyphCompleteComposites>
+  <GlyphDecompose>
+  </GlyphDecompose>
+ </TransformScript>
+</DATA>

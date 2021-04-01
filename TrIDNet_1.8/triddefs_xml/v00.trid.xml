@@ -1,0 +1,37 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Krez 3D ultrasound image</FileType>
+		<Ext>V00</Ext>
+		<ExtraInfo>
+			<Rem>A 3D medical image format.</Rem>
+			<RefURL>http://www.tomovision.com/products/tomovision.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>6</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>09</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>49</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4B5245545A46494C4520</Bytes>
+			<ASCII> K R E T Z F I L E</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>11</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,106 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>State Transition Diagram model (Prosa)</FileType>
+		<Ext>STM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.insoft.fi/eng/index.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2006</Year>
+			<Month>01</Month>
+			<Day>13</Day>
+		</Date>
+		<Time>
+			<Hour>21</Hour>
+			<Min>08</Min>
+			<Sec>58</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>1</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0080FAD5FADE</Bytes>
+			<Pos>6</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>53544D32</Bytes>
+			<ASCII> S T M 2</ASCII>
+			<Pos>16</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>426F6F6B0000010100435F537472696E6700000201005072696E745F53657475700000030100545072696E740000040100537461727475700000050100536F756E645F546162</Bytes>
+			<ASCII> B o o k . . . . . C _ S t r i n g . . . . . P r i n t _ S e t u p . . . . . T P r i n t . . . . . S t a r t u p . . . . . S o u n d _ T a b</ASCII>
+			<Pos>128</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>4C4953540000070100426F6F6B5F5072656673</Bytes>
+			<ASCII> L I S T . . . . . B o o k _ P r e f s</ASCII>
+			<Pos>203</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>41637400000901004C69737400000A02005363656E6500000B010044726177696E675F4D6F64656C00000C0200447261775F537065637300000D01006469616772616D5F7374727563745F617272617900000E0100446570656E64656E747300000F020053637269707400001001005061645F4C69737400001101004D616E75736372697074</Bytes>
+			<ASCII> A c t . . . . . L i s t . . . . . S c e n e . . . . . D r a w i n g _ M o d e l . . . . . D r a w _ S p e c s . . . . . d i a g r a m _ s t r u c t _ a r r a y . . . . . D e p e n d e n t s . . . . . S c r i p t . . . . . P a d _ L i s t . . . . . M a n u s c r i p t</ASCII>
+			<Pos>227</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>506C61790000130100506C61795F507265667300001401004D6F64656C00001502005375627363726970745F5365745F4C69737400001601005375627363726970745F53657400001701004172726179</Bytes>
+			<ASCII> P l a y . . . . . P l a y _ P r e f s . . . . . M o d e l . . . . . S u b s c r i p t _ S e t _ L i s t . . . . . S u b s c r i p t _ S e t . . . . . A r r a y</ASCII>
+			<Pos>366</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DIAGRAM_STRUCT_ARRAY</String>
+		<String>ENTITY_STRUCT_ARRAY</String>
+		<String>SELECT_STRUCT_ARRAY</String>
+		<String>ALLOW_STRUCT_ARRAY</String>
+		<String>SUBSCRIPT_SET_LIST</String>
+		<String>MODEL_INDEX_ARRAY</String>
+		<String>TOKEN_TYPE_ARRAY</String>
+		<String>RUN_HANDLE_ARRAY</String>
+		<String>SIMULATION_MODEL</String>
+		<String>PICTURE_ARRAY</String>
+		<String>DRAWING_MODEL</String>
+		<String>SECTION_LIST</String>
+		<String>SECTOR_SPECS</String>
+		<String>DOUBLE_ARRAY</String>
+		<String>MOVIE_ATTACH</String>
+		<String>MODEL_WINDOW</String>
+		<String>POINT_ARRAY</String>
+		<String>PRINT_SETUP</String>
+		<String>POSTER_INFO</String>
+		<String>SENSE_SETUP</String>
+		<String>INT16_ARRAY</String>
+		<String>ALIASRECORD</String>
+		<String>WINDOW_LIST</String>
+		<String>PICTURE_TAB</String>
+		<String>MANUSCRIPT</String>
+		<String>BOOK_PREFS</String>
+		<String>DRAW_INDEX</String>
+		<String>DEPENDENTS</String>
+		<String>PLAY_PREFS</String>
+		<String>DRAW_SPECS</String>
+		<String>SOUND_TAB</String>
+		<String>RUN_SPECS</String>
+		<String>C_STRING</String>
+		<String>PAD_LIST</String>
+		<String>STARTUP</String>
+		<String>TPRINT</String>
+		<String>PANEL</String>
+		<String>SCENE</String>
+		<String>TIME</String>
+		<String>DRMD</String>
+		<String>STM2</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Aurora Engine BioWare Music Unit (v1.0)</FileType>
+		<Ext>BMU</Ext>
+		<ExtraInfo>
+			<Rem>Aurora Engine BMU files are MP3 files with an additional header.  Applies to: NWN</Rem>
+			<RefURL>http://tinyurl.com/7mjdh3b</RefURL>
+		</ExtraInfo>
+		<User>Sam.</User>
+		<E-Mail>sampsca@yahoo.com</E-Mail>
+		<Home>http://www.shsforums.net/user/10485-sam/</Home>
+	</Info>
+	<General>
+		<FileNum>69</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>01</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>06</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>424D552056312E30</Bytes>
+			<ASCII> B M U   V 1 . 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>12</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

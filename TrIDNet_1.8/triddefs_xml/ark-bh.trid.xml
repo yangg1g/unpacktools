@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BlackHole compressed archive</FileType>
+		<Ext>BH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ziptv.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>07</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>21</Min>
+			<Sec>00</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>42480507</Bytes>
+			<ASCII> B H</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0025</Bytes>
+			<ASCII> . %</ASCII>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

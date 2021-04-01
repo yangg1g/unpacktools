@@ -1,0 +1,52 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>X11 pcf bitmap font</FileType>
+		<Ext>PCF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://fontforge.sourceforge.net/pcf-format.html</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>68</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>2</Month>
+			<Day>23</Day>
+		</Date>
+		<Time>
+			<Hour>4</Hour>
+			<Min>4</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>01666370</Bytes>
+			<ASCII> . f c p</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PIXEL_SIZE'POINT_SIZE'RESOLUTION_X'RESOLUTION_Y</String>
+		<String>AVERAGE_WIDTH'CHARSET_REGISTRY</String>
+		<String>CHARSET_ENCODING</String>
+		<String>ADD_STYLE_NAME</String>
+		<String>SETWIDTH_NAME</String>
+		<String>FAMILY_NAME</String>
+		<String>WEIGHT_NAME</String>
+		<String>QUAD_WIDTH</String>
+		<String>EIGHT'RE</String>
+		<String>FONTNAME</String>
+		<String>X_HEIGHT</String>
+		<String>FOUNDRY</String>
+		<String>SPACING</String>
+		<String>RIGHT</String>
+		<String>SLANT</String>
+	</GlobalStrings>
+</TrID>

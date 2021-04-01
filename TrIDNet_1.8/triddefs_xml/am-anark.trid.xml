@@ -1,0 +1,70 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Anark Media data</FileType>
+		<Ext>AM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>www.anark.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Date>
+			<Year>2012</Year>
+			<Month>4</Month>
+			<Day>14</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>3</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>C30B0A00000041004E00410052004B00C60B0400000000000000C40B0400000002000000C50B0400000006000000D509</Bytes>
+			<ASCII> . . . . . . A . N . A . R . K</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>51</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000CB097000000000000000E02E140000005B00</Bytes>
+			<ASCII> . . . . . p . . . . . . . . . . . . . [</ASCII>
+			<Pos>53</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>5D00CA0B0400000000000000CB0B04000000</Bytes>
+			<ASCII> ]</ASCII>
+			<Pos>90</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000CC0B04000000</Bytes>
+			<Pos>110</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000E22E100000000000803F0000803F0000803F0000803FCE0B0400000010000000E12E0400000001000000D20B0400000001000000C809</Bytes>
+			<ASCII> . . . . . . . . . . . ? . . . ? . . . ? . . . ?</ASCII>
+			<Pos>120</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000</Bytes>
+			<Pos>178</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000000C909BA00000002000000C10B0400000002000000BB0B040000000100000094110A0000005300630065006E006500951102000000FFFF1127100000000000000000000000000000000000803FBE0B0400000001000001D6095A00000001000000CA095000000000000000D9300400000010270000D83004000000000000009E11040000000000803F9B1104000000010000009D110400000000000000D6300C00000053006C006900640065003100DA3002000000FFFFD7090400000000000000C909</Bytes>
+			<ASCII> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . S . c . e . n . e . . . . . . . . . . ' . . . . . . . . . . . . . . . . . . . ? . . . . . . . . . . . . Z . . . . . . . . . P . . . . . . . . 0 . . . . . ' . . . 0 . . . . . . . . . . . . . . . . . ? . . . . . . . . . . . . . . . . . . . . . 0 . . . . S . l . i . d . e . 1 . . 0</ASCII>
+			<Pos>181</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>000001000000C10B0400000003000000BB0B0400000004000000</Bytes>
+			<Pos>380</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

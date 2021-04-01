@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MultiSim Design (generic)</FileType>
+		<Ext>MS8/MS9/MS10</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.ni.com/multisim/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>02</Month>
+			<Day>08</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>39</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>4D534D436F6D70726573736564456C656374726F6E696373576F726B62656E6368584D4C</Bytes>
+			<ASCII> M S M C o m p r e s s e d E l e c t r o n i c s W o r k b e n c h X M L</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

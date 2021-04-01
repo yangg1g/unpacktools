@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>PowerSoft DataWindow - DataStore (Unicode)</FileType>
+		<Ext>PSR</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sybase.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>2</FileNum>
+		<Date>
+			<Year>2013</Year>
+			<Month>12</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>55</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>8200000050006C006100740066006F0072006D00200069006E0064006500700065006E00640065006E00740020005000530052002000460069006C006500200046006F0072006D00610074002C00200043006F00700079007200690067006800740020005300790062006100730065002C00200049006E0063002E00200031003900390037</Bytes>
+			<ASCII> . . . . P . l . a . t . f . o . r . m .   . i . n . d . e . p . e . n . d . e . n . t .   . P . S . R .   . F . i . l . e .   . F . o . r . m . a . t . , .   . C . o . p . y . r . i . g . h . t .   . S . y . b . a . s . e . , .   . I . n . c . . .   . 1 . 9 . 9 . 7</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

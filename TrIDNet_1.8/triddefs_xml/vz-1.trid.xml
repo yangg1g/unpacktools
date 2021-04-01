@@ -1,0 +1,32 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>VZ200/300 image (type F1)</FileType>
+		<Ext>VZ</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://homepage.powerup.com.au/~intertek/VZ200/vz.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Date>
+			<Year>2004</Year>
+			<Month>07</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>01</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>20200000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

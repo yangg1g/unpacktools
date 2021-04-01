@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MediaPlayer Classic Playlist (UTF-8)</FileType>
+		<Ext>MPCPL</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://sourceforge.net/projects/guliverkli/</RefURL>
+		</ExtraInfo>
+		<User>Ryan Jones</User>
+		<E-Mail>ryan.jones@ccc-cymru.com</E-Mail>
+		<Home>http://ccc-cymru.com/</Home>
+	</Info>
+	<General>
+		<FileNum>19</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>3</Month>
+			<Day>6</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>17</Min>
+			<Sec>9</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>EFBBBF4D5043504C41594C4953540D0A</Bytes>
+			<ASCII> . . . M P C P L A Y L I S T</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FILENAME</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

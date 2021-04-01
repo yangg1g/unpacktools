@@ -1,0 +1,34 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Geometer's Sketchpad Script</FileType>
+		<Ext>GSS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.keypress.com/sketchpad/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2006</Year>
+			<Month>04</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>09</Hour>
+			<Min>47</Min>
+			<Sec>39</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>475350630E00</Bytes>
+			<ASCII> G S P c</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

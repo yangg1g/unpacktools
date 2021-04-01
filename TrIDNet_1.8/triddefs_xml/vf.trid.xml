@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Vegas Movie Studio Project</FileType>
+		<Ext>VF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sonycreativesoftware.com/vegassoftware</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>4</Month>
+			<Day>5</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>43</Min>
+			<Sec>9</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>726966662E91CF11A5D628DB04C10000</Bytes>
+			<ASCII> r i f f . . . . . . (</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>0000000000F61B3C5335D6F3438A9064B887231F7F5A2D8FB20F23D21186AF00C04F8EDB8A</Bytes>
+			<ASCII> . . . . . . . . S 5 . . C . . d . . # . . Z - . . . # . . . . . . O</ASCII>
+			<Pos>19</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>400000000000005E4000000000000000000400040040000000000000000000000003000000</Bytes>
+			<ASCII> @ . . . . . . ^ @ . . . . . . . . . . . . @</ASCII>
+			<Pos>87</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>S'O'U'N'D</String>
+		<String>V'I'D'E'O</String>
+		<String>.'V'F</String>
+		<String>I'C'E</String>
+		<String>P'R'E</String>
+		<String>RIFF.</String>
+		<String>S'O'N</String>
+		<String>IART</String>
+		<String>ICMT</String>
+		<String>ICOP</String>
+		<String>IENG</String>
+		<String>INAM</String>
+		<String>LIST</String>
+	</GlobalStrings>
+</TrID>

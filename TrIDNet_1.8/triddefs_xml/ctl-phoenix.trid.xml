@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Phoenix Visual Designer third party control</FileType>
+		<Ext>CTL</Ext>
+		<ExtraInfo>
+			<Rem>Phoenix is a complete self-contained Rapid Application Development (RAD) environment featuring an advanced form designer, code generator and editor for the PowerBASIC Windows compiler.</Rem>
+			<RefURL>http://www.phnxthunder.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>11</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>10</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>11</Hour>
+			<Min>46</Min>
+			<Sec>43</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>27</Bytes>
+			<ASCII> '</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3D</Bytes>
+			<ASCII> =</ASCII>
+			<Pos>5</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>.BMP</String>
+		<String>BEGIN VPB_</String>
+		<String>BITMAP</String>
+		<String>HEIGHT</String>
+		<String>IDNUMBER</String>
+		<String>IDSYMBOL</String>
+		<String>INFO</String>
+		<String>LEFT</String>
+		<String>STYLE</String>
+		<String>WIDTH</String>
+		<String>WINDOWCL</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,45 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BlueCielo Meridian BriefCase - File Archive Library (v1.00)</FileType>
+		<Ext>BRC</Ext>
+		<ExtraInfo>
+			<Rem>This Meridian / InnoCielo CAB file format (formerly Cyco AutoManager BriefCase)</Rem>
+			<RefURL>http://www.onset.com.au/</RefURL>
+		</ExtraInfo>
+		<User>Kieran O'Donnell</User>
+		<E-Mail>FileMan at consultant dot com</E-Mail>
+		<Home></Home>
+	</Info>
+	<General>
+		<FileNum>102</FileNum>
+		<Refine>3 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>1</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>3</Hour>
+			<Min>25</Min>
+			<Sec>15</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>46414C3130301A00</Bytes>
+			<ASCII> F A L 1 0 0</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>50524646323033</Bytes>
+			<ASCII> P R F F 2 0 3</ASCII>
+			<Pos>96</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>VERSION'100</String>
+		<String>BRCHEADER</String>
+	</GlobalStrings>
+</TrID>

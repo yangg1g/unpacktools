@@ -1,0 +1,68 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>MPEG-4 Video</FileType>
+		<Ext>M4V</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/M4v</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>20</FileNum>
+		<Refine>1 by Marco Pontello - 10 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>01</Hour>
+			<Min>54</Min>
+			<Sec>51</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>000000</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>66747970</Bytes>
+			<ASCII> f t y p</ASCII>
+			<Pos>4</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>00</Bytes>
+			<Pos>12</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>HDLR''''''''SOUN</String>
+		<String>HDLR''''''''VIDE</String>
+		<String>MDIA''' MDHD</String>
+		<String>MOOV'''LMVHD</String>
+		<String>H'''H</String>
+		<String>$DINF</String>
+		<String>ESDS</String>
+		<String>MDAT</String>
+		<String>DREF</String>
+		<String>MINF</String>
+		<String>FTYP</String>
+		<String>MP4A</String>
+		<String>SMHD</String>
+		<String>STBL</String>
+		<String>STCO</String>
+		<String>STSC</String>
+		<String>STSD</String>
+		<String>STSS</String>
+		<String>STSZ</String>
+		<String>STTS</String>
+		<String>TKHD</String>
+		<String>TRAK</String>
+		<String>VMHD</String>
+	</GlobalStrings>
+</TrID>

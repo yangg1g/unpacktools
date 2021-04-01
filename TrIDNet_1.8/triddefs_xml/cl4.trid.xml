@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Easy CD Creator 4 Layout</FileType>
+		<Ext>CL4</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.sonic.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>11</Month>
+			<Day>15</Day>
+		</Date>
+		<Time>
+			<Hour>00</Hour>
+			<Min>33</Min>
+			<Sec>41</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>D0CF11E0A1B11AE100</Bytes>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>R'O'O'T' 'E'N'T'R'Y</String>
+		<String>C'O'N'T'E'N'T'S</String>
+		<String>SESNDESCRIPTOR</String>
+		<String>CD_PLUS</String>
+		<String>0090</String>
+		<String>IGHT</String>
+	</GlobalStrings>
+</TrID>

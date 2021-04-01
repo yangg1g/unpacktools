@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Kingsoft WPS Office 2001 document</FileType>
+		<Ext>WPS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.kingsoft.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<Date>
+			<Year>2007</Year>
+			<Month>09</Month>
+			<Day>18</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>14</Min>
+			<Sec>14</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>90FF57505332303031AE20666F722057696E646F7773204B696E67736F6674A92032303031</Bytes>
+			<ASCII> . . W P S 2 0 0 1 .   f o r   W i n d o w s   K i n g s o f t .   2 0 0 1</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>UAE - WinUAE Configuration</FileType>
+		<Ext>UAE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.winuae.net/</RefURL>
+		</ExtraInfo>
+		<User>Roberto 'rbnet' Bolli</User>
+		<E-Mail>infoNOSPAM@NOSPAMrbnet.it</E-Mail>
+		<Home>http://www.rbnet.it/</Home>
+	</Info>
+	<General>
+		<FileNum>48</FileNum>
+		<Refine>8 by Marco Pontello</Refine>
+		<Date>
+			<Year>2005</Year>
+			<Month>03</Month>
+			<Day>26</Day>
+		</Date>
+		<Time>
+			<Hour>20</Hour>
+			<Min>47</Min>
+			<Sec>01</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>636F6E6669675F6465736372697074696F6E3D</Bytes>
+			<ASCII> c o n f i g _ d e s c r i p t i o n =</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

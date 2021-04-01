@@ -1,0 +1,53 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Orbiter scenario</FileType>
+		<Ext>SCN</Ext>
+		<ExtraInfo>
+			<Rem>Orbiter is a free space flight simulator by Martin Schweiger.</Rem>
+			<RefURL>http://www.orbitersim.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>45</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>12</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>13</Min>
+			<Sec>09</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>424547494E5F444553430D0A</Bytes>
+			<ASCII> B E G I N _ D E S C</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BEGIN_ENVIRONMENT</String>
+		<String>END_ENVIRONMENT</String>
+		<String>BEGIN_CAMERA</String>
+		<String>BEGIN_FOCUS</String>
+		<String>BEGIN_SHIPS</String>
+		<String>BEGIN_DESC</String>
+		<String>END_CAMERA</String>
+		<String>SYSTEM SOL</String>
+		<String>END_SHIPS</String>
+		<String>END_FOCUS</String>
+		<String>DATE MJD</String>
+		<String>END_DESC</String>
+		<String>TARGET</String>
+		<String>STATUS</String>
+		<String>EARTH</String>
+		<String>MODE</String>
+	</GlobalStrings>
+</TrID>

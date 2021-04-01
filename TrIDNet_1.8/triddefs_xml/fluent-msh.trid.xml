@@ -1,0 +1,46 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Fluent mesh</FileType>
+		<Ext>MSH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.fluent.com/software/fluent/index.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>12</Month>
+			<Day>03</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>13</Min>
+			<Sec>02</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>28</Bytes>
+			<ASCII> (</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2022</Bytes>
+			<ASCII>   "</ASCII>
+			<Pos>2</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>INTERIOR</String>
+		<String>FLUID</String>
+		<String>FACES</String>
+		<String>WALL</String>
+	</GlobalStrings>
+</TrID>

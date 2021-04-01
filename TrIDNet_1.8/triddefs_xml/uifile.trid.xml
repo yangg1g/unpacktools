@@ -1,0 +1,86 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Windows Explorer UIFILE</FileType>
+		<Ext>UIFILE</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>02</Month>
+			<Day>04</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>10</Min>
+			<Sec>11</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C7374796C65</Bytes>
+			<ASCII> . s t y l e</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BORDERTHICKNESS</String>
+		<String>ATOM(LINEDOWN)</String>
+		<String>MOUSEFOCUSED</String>
+		<String>REPEATBUTTON</String>
+		<String>ATOM(LINEUP)</String>
+		<String>CONTENTALIGN</String>
+		<String>ATOM(HEADER)</String>
+		<String>ATOM(TITLE)</String>
+		<String>STYLE RESID</String>
+		<String>NINEBOTTOM</String>
+		<String>BACKGROUND</String>
+		<String>MIDDLELEFT</String>
+		<String>FONTWEIGHT</String>
+		<String>FOREGROUND</String>
+		<String>SYSMETRIC(</String>
+		<String>NINECLIENT</String>
+		<String>KEYFOCUSED</String>
+		<String>NINERIGHT</String>
+		<String>FONTSTYLE</String>
+		<String>ADETITLE)</String>
+		<String>FOCUSRECT</String>
+		<String>UNDERLINE</String>
+		<String>SCROLLBAR</String>
+		<String>LAYOUTPOS</String>
+		<String>TASKLIST)</String>
+		<String>FONTFACE</String>
+		<String>WRAPLEFT</String>
+		<String>VERTICAL</String>
+		<String>FONTSIZE</String>
+		<String>PADDING</String>
+		<String>ELEMENT</String>
+		<String>PRESSED</String>
+		<String>RCINT(</String>
+		<String>HEIGHT</String>
+		<String>ATOM(A</String>
+		<String>RCSTR(</String>
+		<String>ATOM(I</String>
+		<String>MARGIN</String>
+		<String>ATOM(B</String>
+		<String>RECT (</String>
+		<String>CURSOR</String>
+		<String>VIEWER</String>
+		<String>VIEW)</String>
+		<String>THUMB</String>
+		<String>ARGB(</String>
+		<String>RECT(</String>
+		<String>WIDTH</String>
+		<String>HAND</String>
+		<String>PAGE</String>
+	</GlobalStrings>
+</TrID>

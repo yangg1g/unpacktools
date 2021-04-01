@@ -1,0 +1,38 @@
+<TrID ver="2.00">
+    <Info>
+        <FileType>Hornet Packer module/song</FileType>
+        <Ext>HRT</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL>http://membres.lycos.fr/asle/AMPD_src/Hornet_Packer.html</RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>2</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>26</Day>
+        </Date>
+        <Time>
+            <Hour>23</Hour>
+            <Min>19</Min>
+            <Sec>53</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.55</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>7F</Bytes>
+            <Pos>951</Pos>
+        </Pattern>
+        <Pattern>
+            <Bytes>484E5421</Bytes>
+            <ASCII> H N T !</ASCII>
+            <Pos>1080</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

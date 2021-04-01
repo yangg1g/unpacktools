@@ -1,0 +1,39 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>XACT Global Settings</FileType>
+		<Ext>XGS</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Cross-platform_Audio_Creation_Tool</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2011</Year>
+			<Month>6</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>22</Hour>
+			<Min>3</Min>
+			<Sec>40</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.11b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>58475346</Bytes>
+			<ASCII> X G S F</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>NUMCUEINSTANCES'ATTACKTIME'RELEASETIME'ORIENTATIONANGLE'DOPPLERPITCHSCALAR'SPEEDOFSOUND'DISTANCE</String>
+		<String>GLOBAL'DEFAULT'MUSIC</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,55 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Picasa movie project</FileType>
+		<Ext>MXF</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://en.wikipedia.org/wiki/Picasa</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>1</Month>
+			<Day>20</Day>
+		</Date>
+		<Time>
+			<Hour>14</Hour>
+			<Min>35</Min>
+			<Sec>1</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.79.12b</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3C435472616E7354696D656C696E653E0D0A203C6375727265736F6C7574696F6E3E</Bytes>
+			<ASCII> . C T r a n s T i m e l i n e . . .   . c u r r e s o l u t i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>ADVANCEINTERVAL</String>
+		<String>CTRANSTIMELINE</String>
+		<String>TRANSITIONTIME</String>
+		<String>CURRESOLUTION</String>
+		<String>DEFAULTTRANS</String>
+		<String>SHOWCAPTION</String>
+		<String>BLACKTIME</String>
+		<String>SHOWFLAGS</String>
+		<String>FONTNAME</String>
+		<String>TEXTPARM</String>
+		<String>ALBUMID</String>
+		<String>BKCOLOR</String>
+		<String>CROPFIT</String>
+		<String>STYLEID</String>
+		<String>WEIGHT</String>
+		<String>INDEX</String>
+		<String>SIZE</String>
+		<String>TYPE</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,49 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Chess Tablebase</FileType>
+		<Ext>TBS</Ext>
+		<ExtraInfo>
+			<Rem>A tablebase is a database that a computer can use to play 3, 4, 5, and 6 piece endgames to perfection</Rem>
+			<RefURL>ftp://ftp.cis.uab.edu/pub/hyatt/TB/tbs/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>165</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2004</Year>
+			<Month>07</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>11</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.55</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>77746D3A20</Bytes>
+			<ASCII> w t m :</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2020</Bytes>
+			<Pos>12</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>202020202020</Bytes>
+			<Pos>17</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>20</Bytes>
+			<Pos>54</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>DRAWS</String>
+	</GlobalStrings>
+</TrID>

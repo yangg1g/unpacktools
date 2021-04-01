@@ -1,0 +1,60 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Pando Package</FileType>
+		<Ext>PANDO</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.pando.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>16</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2007</Year>
+			<Month>06</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>18</Hour>
+			<Min>51</Min>
+			<Sec>21</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>6431333A6372656174696F6E206461746569</Bytes>
+			<ASCII> d 1 3 : c r e a t i o n   d a t e i</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A63726561746564206279</Bytes>
+			<ASCII> : c r e a t e d   b y</ASCII>
+			<Pos>37</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>3A50616E646F</Bytes>
+			<ASCII> : P a n d o</ASCII>
+			<Pos>50</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>CREATION DATEI</String>
+		<String>PIECE LENGTHI</String>
+		<String>ATTRIBUTESD</String>
+		<String>PACKAGENAME</String>
+		<String>CREATED BY</String>
+		<String>FORWARDER</String>
+		<String>PACKAGER</String>
+		<String>ENCSTART</String>
+		<String>VERSIONI</String>
+		<String>COMMENT</String>
+		<String>PIECES</String>
+		<String>KEY32</String>
+		<String>INFOD</String>
+		<String>PANDO</String>
+	</GlobalStrings>
+</TrID>

@@ -1,0 +1,34 @@
+<TrID ver="1.18">
+    <Info>
+        <FileType>HRU bitmap</FileType>
+        <Ext>HRU</Ext>
+        <ExtraInfo>
+            <Rem></Rem>
+            <RefURL></RefURL>
+        </ExtraInfo>
+        <User>Marco Pontello</User>
+        <E-Mail>marcopon@gmail.com</E-Mail>
+        <Home>http://mark0.net</Home>
+    </Info>
+    <General>
+        <FileNum>21</FileNum>
+        <Date>
+            <Year>2003</Year>
+            <Month>07</Month>
+            <Day>27</Day>
+        </Date>
+        <Time>
+            <Hour>11</Hour>
+            <Min>29</Min>
+            <Sec>26</Sec>
+        </Time>
+        <Creator>TrIDScan32 v1.02.6b</Creator>
+    </General>
+    <FrontBlock>
+        <Pattern>
+            <Bytes>354B5035315D2A677272808385637A7D6B436A554953644F5161300D</Bytes>
+            <ASCII> 5 K P 5 1 ] * g r r . . . c z } k C j U I S d O Q a 0</ASCII>
+            <Pos>0</Pos>
+        </Pattern>
+    </FrontBlock>
+</TrID>

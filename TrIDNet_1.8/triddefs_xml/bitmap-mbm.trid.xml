@@ -1,0 +1,35 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>SymbianOS Multi BitMap</FileType>
+		<Ext>MBM</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>40</FileNum>
+		<Refine>19 by Marco Pontello</Refine>
+		<Date>
+			<Year>2007</Year>
+			<Month>08</Month>
+			<Day>10</Day>
+		</Date>
+		<Time>
+			<Hour>15</Hour>
+			<Min>56</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>37000010</Bytes>
+			<ASCII> 7</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

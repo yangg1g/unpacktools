@@ -1,0 +1,51 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Reason Combinator Instrument Patch</FileType>
+		<Ext>CMB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.propellerheads.se/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>8</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>01</Month>
+			<Day>07</Day>
+		</Date>
+		<Time>
+			<Hour>16</Hour>
+			<Min>21</Min>
+			<Sec>38</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>464F524D</Bytes>
+			<ASCII> F O R M</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>50544348434154</Bytes>
+			<ASCII> P T C H C A T</ASCII>
+			<Pos>8</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>52454653</Bytes>
+			<ASCII> R E F S</ASCII>
+			<Pos>20</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PROPELLERHEAD</String>
+		<String>INIT PATCH</String>
+		<String>SYNTH'PARM</String>
+		<String>DEVLFORM</String>
+		<String>REASON</String>
+	</GlobalStrings>
+</TrID>

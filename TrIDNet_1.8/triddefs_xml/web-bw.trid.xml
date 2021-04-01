@@ -1,0 +1,66 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BlackWidow Website Description</FileType>
+		<Ext>WEB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.softbytelabs.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>10</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2005</Year>
+			<Month>05</Month>
+			<Day>06</Day>
+		</Date>
+		<Time>
+			<Hour>13</Hour>
+			<Min>01</Min>
+			<Sec>25</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B56657273696F6E5D0D0A09426C61636B5769646F77205745422046696C652056657273696F6E20</Bytes>
+			<ASCII> [ V e r s i o n ] . . . B l a c k W i d o w   W E B   F i l e   V e r s i o n</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>41</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>BLACKWIDOW WEB FILE VERSION</String>
+		<String>KEEP LINK AND EXIT FILTERS.</String>
+		<String>DISABLEDEEPLINKSEARCH</String>
+		<String>DEFAULTINDEXPAGE</String>
+		<String>PRESERVEPATH</String>
+		<String>STARTINGURL</String>
+		<String>FILTERSV4</String>
+		<String>STRUCTURE</String>
+		<String>SKIPAUTH</String>
+		<String>EXTERNAL</String>
+		<String>TLINKING</String>
+		<String>AUTOEXT</String>
+		<String>OPTIONS</String>
+		<String>LDEPTH</String>
+		<String>DEFEAT</String>
+		<String>ADDING</String>
+		<String>ASSUME</String>
+		<String>PREFE</String>
+		<String>MIME</String>
+		<String>SCAN</String>
+		<String>THEN</String>
+		<String>HTML</String>
+		<String>TRUE</String>
+		<String>TYPE</String>
+		<String>HTTP</String>
+	</GlobalStrings>
+</TrID>

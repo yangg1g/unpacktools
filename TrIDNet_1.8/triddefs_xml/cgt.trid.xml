@@ -1,0 +1,33 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>GOLD Parser Tables</FileType>
+		<Ext>CGT</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.devincook.com/goldparser</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>	</Info>
+	<General>
+		<FileNum>7</FileNum>
+		<Date>
+			<Year>2008</Year>
+			<Month>04</Month>
+			<Day>12</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>29</Min>
+			<Sec>28</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>47004F004C004400200050006100720073006500720020005400610062006C00650073002F0076</Bytes>
+			<ASCII> G . O . L . D .   . P . a . r . s . e . r .   . T . a . b . l . e . s . / . v</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

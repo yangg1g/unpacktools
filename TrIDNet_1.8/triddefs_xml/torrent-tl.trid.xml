@@ -1,0 +1,42 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>BitTorrent Link (Trackerless)</FileType>
+		<Ext>TORRENT</Ext>
+		<ExtraInfo>
+			<Rem>BitTorrent is a protocol for distributing files. It identifies content by URL and is designed to integrate seamlessly with the web. Its advantage over plain HTTP is that when multiple downloads of the same file happen concurrently, the downloaders upload to each other, making it possible for the file source to support very large numbers of downloaders with only a modest increase in its load.</Rem>
+			<RefURL>http://www.file-extension-torrent.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>14</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2010</Year>
+			<Month>04</Month>
+			<Day>24</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>48</Min>
+			<Sec>55</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>64</Bytes>
+			<ASCII> d</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>PIECE LENGTHI</String>
+		<String>PIECES</String>
+		<String>INFOD</String>
+		<String>NAME</String>
+	</GlobalStrings>
+</TrID>

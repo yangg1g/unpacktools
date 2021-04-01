@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Athena document (v1.x)</FileType>
+		<Ext>ATH</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.athenasoft.org/sub/software.htm</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>25</FileNum>
+		<Refine>11 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2008</Year>
+			<Month>06</Month>
+			<Day>30</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>09</Min>
+			<Sec>32</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>5B4B4F535A544F52595320415448454E41534F46545D</Bytes>
+			<ASCII> [ K O S Z T O R Y S   A T H E N A S O F T ]</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>KOSZTORYS ATHENASOFT</String>
+		<String>STRONA TYT</String>
+		<String>ROBOCIZNA</String>
+		<String>RMS ZEST</String>
+		<String>POZYCJA</String>
+	</GlobalStrings>
+</TrID>

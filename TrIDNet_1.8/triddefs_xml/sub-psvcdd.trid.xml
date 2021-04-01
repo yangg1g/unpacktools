@@ -1,0 +1,41 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Philips SVCD Designer subtitles</FileType>
+		<Ext>SUB</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL></RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>5</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2012</Year>
+			<Month>8</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>17</Hour>
+			<Min>45</Min>
+			<Sec>12</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.80</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>23205048494C49505320535643442044455349474E455220312E35202D20322E30205355425449544C45532046494C450D0A230D</Bytes>
+			<ASCII> #   P H I L I P S   S V C D   D E S I G N E R   1 . 5   -   2 . 0   S U B T I T L E S   F I L E . . #</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>FRAMERATE</String>
+		<String>CONTRAST</String>
+		<String>HEADER</String>
+		<String>LIST</String>
+	</GlobalStrings>
+</TrID>

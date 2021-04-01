@@ -1,0 +1,131 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Autodesk - Kaydara FBX 3D format (Text)</FileType>
+		<Ext>FBX</Ext>
+		<ExtraInfo>
+			<Rem>FBX is open-standard, platform-independent 3D file format.</Rem>
+			<RefURL>http://www.autodesk.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<Refine>1 by Marco Pontello</Refine>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>10</Month>
+			<Day>19</Day>
+		</Date>
+		<Time>
+			<Hour>02</Hour>
+			<Min>04</Min>
+			<Sec>29</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>3B2046425820</Bytes>
+			<ASCII> ;   F B X</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>2E</Bytes>
+			<Pos>7</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>TAKES AND ANIMATION SECTION</String>
+		<String>MAPPINGINFORMATIONTYPE</String>
+		<String>AMBIENTRENDERSETTINGS</String>
+		<String>FOREGROUNDTRANSPARENT</String>
+		<String>PRODUCER PERSPECTIVE</String>
+		<String>ALL RIGHTS RESERVED</String>
+		<String>DEFAULTVIEWINGMODE</String>
+		<String>POLYGONVERTEXINDEX</String>
+		<String>REFERENCETIMEINDEX</String>
+		<String>FBXHEADEREXTENSION</String>
+		<String>PLANEDISTANCEMODE</String>
+		<String>AMBIENTLIGHTCOLOR</String>
+		<String>SHOWINFOONMOVING</String>
+		<String>FBXHEADERVERSION</String>
+		<String>BACKGROUNDCOLOR</String>
+		<String>RENDERERSETTING</String>
+		<String>GEOMETRYVERSION</String>
+		<String>DISPLAYSAFEAREA</String>
+		<String>BACKGROUNDMODE</String>
+		<String>PRODUCER RIGHT</String>
+		<String>PRODUCER FRONT</String>
+		<String>DEFAULTCAMERA</String>
+		<String>PRODUCER LEFT</String>
+		<String>USEFRAMECOLOR</String>
+		<String>PRODUCER BACK</String>
+		<String>ANTIALIASING</String>
+		<String>DEPTHOFFIELD</String>
+		<String>PRODUCER TOP</String>
+		<String>PROJECT FILE</String>
+		<String>SQUEEZERATIO</String>
+		<String>SNAPONFRAMES</String>
+		<String>CREATIONTIME</String>
+		<String>APERTUREMODE</String>
+		<String>SHOWTIMECODE</String>
+		<String>FOCALLENGTH</String>
+		<String>VIEWFRUSTUM</String>
+		<String>TRANSLATION</String>
+		<String>FLOGENABLE</String>
+		<String>FBXVERSION</String>
+		<String>FOGDENSITY</String>
+		<String>PROJECTION</String>
+		<String>TIMEFORMAT</String>
+		<String>SHOWAZIMUT</String>
+		<String>MULTILAYER</String>
+		<String>VISIBILITY</String>
+		<String>CULLINGOFF</String>
+		<String>FOGOPTIONS</String>
+		<String>AUDIOCOLOR</String>
+		<String>TYPEFLAGS</String>
+		<String>TEXTUREID</String>
+		<String>NEARPLANE</String>
+		<String>SHOWAUDIO</String>
+		<String>MATERIALS</String>
+		<String>BYPOLYGON</String>
+		<String>MULTITAKE</String>
+		<String>FOGCOLOR</String>
+		<String>POSITION</String>
+		<String>ROTATION</String>
+		<String>VERTICES</String>
+		<String>SHOWGRID</String>
+		<String>SHOWNAME</String>
+		<String>FILENAME</String>
+		<String>FARPLANE</String>
+		<String>TRESHOLD</String>
+		<String>SAMPLING</String>
+		<String>FOGSTART</String>
+		<String>CURRENT</String>
+		<String>ASPECTW</String>
+		<String>NORMALS</String>
+		<String>ECTTYPE</String>
+		<String>FOGMODE</String>
+		<String>ASPECTH</String>
+		<String>SHADING</String>
+		<String>SCALING</String>
+		<String>RELATI</String>
+		<String>SOURCE</String>
+		<String>FOGEND</String>
+		<String>HIDDEN</String>
+		<String>LOOKAT</String>
+		<String>TIMEMO</String>
+		<String>MODEL</String>
+		<String>LIMIT</String>
+		<String>PIXEL</String>
+		<String>STYLE</String>
+		<String>CROP</String>
+		<String>LOCK</String>
+		<String>MESH</String>
+		<String>NESS</String>
+		<String>TRUE</String>
+	</GlobalStrings>
+</TrID>

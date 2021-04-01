@@ -1,0 +1,40 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>EveryonePiano music score</FileType>
+		<Ext>EOP</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.everyonepiano.com/</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>9</FileNum>
+		<Refine>2 by Marco Pontello</Refine>
+		<Date>
+			<Year>2014</Year>
+			<Month>2</Month>
+			<Day>4</Day>
+		</Date>
+		<Time>
+			<Hour>19</Hour>
+			<Min>6</Min>
+			<Sec>37</Sec>
+		</Time>
+		<Creator>TrIDScan/Py v1.90</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>340416060B1C1A10231D14181B757677BC767778</Bytes>
+			<ASCII> 4 . . . . . . . # . . . . u v w . v w x</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+		<Pattern>
+			<Bytes>7778797378797A</Bytes>
+			<ASCII> w x y s x y z</ASCII>
+			<Pos>21</Pos>
+		</Pattern>
+	</FrontBlock>
+</TrID>

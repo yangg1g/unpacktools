@@ -1,0 +1,43 @@
+<TrID ver="2.00">
+	<Info>
+		<FileType>Anim8or project</FileType>
+		<Ext>AN8</Ext>
+		<ExtraInfo>
+			<Rem></Rem>
+			<RefURL>http://www.anim8or.com</RefURL>
+		</ExtraInfo>
+		<User>Marco Pontello</User>
+		<E-Mail>marcopon@gmail.com</E-Mail>
+		<Home>http://mark0.net</Home>
+	</Info>
+	<General>
+		<FileNum>4</FileNum>
+		<CheckStrings>True</CheckStrings>
+		<Date>
+			<Year>2009</Year>
+			<Month>03</Month>
+			<Day>16</Day>
+		</Date>
+		<Time>
+			<Hour>03</Hour>
+			<Min>41</Min>
+			<Sec>26</Sec>
+		</Time>
+		<Creator>TrIDScan32 v1.56</Creator>
+	</General>
+	<FrontBlock>
+		<Pattern>
+			<Bytes>686561646572207B</Bytes>
+			<ASCII> h e a d e r   {</ASCII>
+			<Pos>0</Pos>
+		</Pattern>
+	</FrontBlock>
+	<GlobalStrings>
+		<String>GRID {</String>
+		<String>FRAMERATE {</String>
+		<String>ENVIRONMENT {</String>
+		<String>VERSION {</String>
+		<String>HEADER {</String>
+		<String>BUILD {</String>
+	</GlobalStrings>
+</TrID>
